@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "443b50d1-ddfb-4772-a1ad-a391de29148b",
+        "name": "Kelly & Eve",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0ed4165b-280f-40dc-a8e3-983f2699ea96",
+        "name": "Kelly Star",
+        "appearance": "Kelly"
+      },
+      {
+        "id": "432ef122-24b8-44db-9711-c309c2477236",
+        "name": "Eve Madison",
+        "appearance": "Eve"
+      }
+    ]
+  }
+}

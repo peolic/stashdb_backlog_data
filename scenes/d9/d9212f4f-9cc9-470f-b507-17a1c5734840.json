@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "46737a3c-bd02-4ea7-bbd1-6eb8fa36b72a",
+        "name": "Rocco Reed",
+        "appearance": null
+      }
+    ]
+  }
+}

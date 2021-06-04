@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1317f1a0-4496-4fee-8cfc-87fc8da16a4e",
+        "name": "Kenzie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b59e1a15-9456-4870-ad78-a8ca8be861d4",
+        "name": "Bambina",
+        "appearance": "Kenzie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5e7cff44-7656-434a-bee2-2ce3e0f1630d",
+        "name": "Aria",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fe2a3c9c-2e61-4484-9eaf-eca423917f6a",
+        "name": "Aria Lee",
+        "appearance": "Aria"
+      }
+    ]
+  }
+}

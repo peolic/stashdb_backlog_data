@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f2315530-73de-4863-b5db-80c29638b8eb",
+        "name": "Gina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ac43fb33-8563-4cc6-9d9b-b69dfa88f00e",
+        "name": "Gina Valentina",
+        "appearance": "Gina"
+      }
+    ]
+  }
+}

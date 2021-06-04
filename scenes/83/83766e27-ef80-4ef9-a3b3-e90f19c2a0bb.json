@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "607e7f0a-217d-4fbc-8d3b-2821573650a9",
+        "name": "Teagan & Gigi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3522f7f6-25db-48c0-a2bf-cec30af225dc",
+        "name": "Teagan Summers",
+        "appearance": "Teagan"
+      },
+      {
+        "id": "c5cf3eab-16ee-482c-a006-1565fd2de5d5",
+        "name": "Gigi Rivera",
+        "appearance": "Gigi"
+      }
+    ]
+  }
+}

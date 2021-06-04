@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "18fb010c-7d66-4e8a-8e42-8274dec88a0b",
+        "name": "Valerie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "785f8b50-28da-464e-8583-70e46e7d9490",
+        "name": "Veronica Hill",
+        "appearance": "Valerie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "bea105c6-0865-4bb5-bb7e-682e77eb3090",
+        "name": "Kinsley Kane",
+        "appearance": null
+      }
+    ]
+  }
+}

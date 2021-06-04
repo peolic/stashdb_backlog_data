@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "61108e65-00f2-4fca-bea2-89101e110f2c",
+        "name": "Winter",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e40b68b4-1980-4996-974a-f3dfe2bca6d2",
+        "name": "Winter Kingston",
+        "appearance": "Winter"
+      }
+    ]
+  }
+}

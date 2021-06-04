@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "27ec558c-9912-4963-900a-55a4b741f7b5",
+        "name": "Celeste Star",
+        "appearance": null
+      }
+    ]
+  }
+}

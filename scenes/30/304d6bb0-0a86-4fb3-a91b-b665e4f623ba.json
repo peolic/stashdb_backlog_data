@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5ef75092-4257-423e-9977-bfc2fde86829",
+        "name": "Annika, Myah Monroe",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "636c62b4-84ce-4639-8d2d-e7de3b45450d",
+        "name": "Nikki Nievez",
+        "appearance": null
+      },
+      {
+        "id": "46d12ba9-a4d3-4fe9-9a2d-4fca3d09b9e3",
+        "name": "Marissa Jayden",
+        "appearance": null
+      },
+      {
+        "id": "4ecbffbc-a707-4f6e-bbe8-a1a8b9301b3e",
+        "name": "Tony Tedeschi",
+        "appearance": null
+      }
+    ]
+  }
+}

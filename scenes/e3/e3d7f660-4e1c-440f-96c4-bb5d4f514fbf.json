@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "73beffd6-41e7-4499-8951-437eb113e222",
+        "name": "Leah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "109c6c4e-8cd5-445b-9831-a43cd958804c",
+        "name": "Thalia Diaz",
+        "appearance": "Leah"
+      }
+    ]
+  }
+}

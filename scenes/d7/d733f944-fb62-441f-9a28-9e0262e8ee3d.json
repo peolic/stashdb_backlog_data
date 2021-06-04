@@ -1,0 +1,29 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4478c63b-404d-4958-b114-630e251b94c9",
+        "name": "Cali",
+        "appearance": null
+      },
+      {
+        "id": "79f7049c-493b-4389-b3b3-b90e856cedc6",
+        "name": "Jane",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3d32d3e4-0a99-4829-b4e1-6ce3012e6776",
+        "name": "Cali Cassidy",
+        "appearance": "Cali"
+      },
+      {
+        "id": null,
+        "name": "Jane ?",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

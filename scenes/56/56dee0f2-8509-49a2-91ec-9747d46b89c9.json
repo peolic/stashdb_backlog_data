@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "169290c1-48bf-41f4-be45-be60413f53d7",
+        "name": "Liz Jordan",
+        "appearance": null
+      }
+    ]
+  }
+}

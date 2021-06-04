@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "6368fa83-27cb-483d-8abf-d00a33f19ac6",
+        "name": "Athena Faris",
+        "appearance": null
+      }
+    ]
+  }
+}

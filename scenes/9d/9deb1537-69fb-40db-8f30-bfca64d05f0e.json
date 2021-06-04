@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "00f00023-9b0b-45f7-ac2a-14f39e3c9959",
+        "name": "Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f1d8f0fe-c2ea-439b-8837-6de8f6d15ecc",
+        "name": "Madison Monroe",
+        "appearance": "Madison"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=turn+on/year=2004/turn-on.htm"
+  ]
+}

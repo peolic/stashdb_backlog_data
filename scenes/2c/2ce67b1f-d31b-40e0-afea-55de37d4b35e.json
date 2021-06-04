@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b488272-063c-498c-979d-d292d5bac771",
+        "name": "Ariana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "218c5bc0-fe10-441e-83ea-dfd82d043364",
+        "name": "Emma Brown",
+        "appearance": "Ariana"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9c97efa5-ea3f-4d5d-b5e7-9f7a896cc5f4",
+        "name": "Amia & Lexi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b63318ae-5983-47c7-808a-002355bac8de",
+        "name": "Amia Miley",
+        "appearance": "Amia"
+      },
+      {
+        "id": "56f55252-3f3f-4460-b5fd-7628a05500bd",
+        "name": "Lexi Diamond",
+        "appearance": null
+      }
+    ]
+  }
+}

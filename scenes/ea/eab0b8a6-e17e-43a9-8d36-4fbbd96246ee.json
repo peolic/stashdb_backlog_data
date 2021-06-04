@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f4d32b6c-34ad-44d7-b365-6a03aa2603df",
+        "name": "Zoi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jessica Ivan",
+        "appearance": "Zoi",
+        "status": "new"
+      }
+    ]
+  }
+}

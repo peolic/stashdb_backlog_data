@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "92f3fc3d-3911-40c8-bb74-468c81f3a717",
+        "name": "Kiera & Cassie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "23d47993-5db3-4322-b63b-e704b3e11f11",
+        "name": "Kiera Winters",
+        "appearance": "Kiera"
+      },
+      {
+        "id": "ea715228-3b5a-4447-b547-a69f30254baa",
+        "name": "Cassie Laine",
+        "appearance": "Cassie"
+      }
+    ]
+  }
+}

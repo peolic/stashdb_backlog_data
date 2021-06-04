@@ -1,0 +1,30 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "251dd40f-1751-4533-85a1-d3020f6a6642",
+        "name": "Payton & Tara",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "bee2f0d9-8ba1-4b6c-a374-954e725137de",
+        "name": "Michelle Sweet",
+        "appearance": "Payton"
+      },
+      {
+        "id": null,
+        "name": "Tara Wild",
+        "appearance": "Tara",
+        "status": "new"
+      },
+      {
+        "id": "873040e2-9e15-43b3-bb5d-312db27d6dd9",
+        "name": "Johnny Thrust",
+        "appearance": null
+      }
+    ]
+  }
+}

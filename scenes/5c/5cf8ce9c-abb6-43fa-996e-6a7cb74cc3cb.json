@@ -1,0 +1,16 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Kimmie Lee",
+        "appearance": "Kimmy",
+        "status": "new"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=kimmy/year=2004/kimmy.htm"
+  ]
+}

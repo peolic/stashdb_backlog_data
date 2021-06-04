@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Amber Green",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

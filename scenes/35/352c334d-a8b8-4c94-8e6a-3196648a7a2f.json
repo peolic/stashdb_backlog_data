@@ -1,0 +1,27 @@
+{
+  "image": "http://www11.kinghost.com/hardcore/xtar/savannah/savannah003.jpg",
+  "performers": {
+    "remove": [
+      {
+        "id": "d9f4c652-4387-4444-8d0e-7b116b07d4a3",
+        "name": "Savannah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Savannah",
+        "appearance": null,
+        "disambiguation": "2005, Reality Kings",
+        "status": "new"
+      },
+      {
+        "id": "d5ca6945-d70d-4955-82a0-67c843cc1a3f",
+        "name": "Jason",
+        "appearance": null,
+        "disambiguation": "2002-2013, Reality Kings"
+      }
+    ]
+  }
+}

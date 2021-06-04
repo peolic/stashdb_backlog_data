@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a4f7c1c5-ad19-4143-86a6-8282cf0c556e",
+        "name": "Melody Marks",
+        "appearance": null
+      }
+    ]
+  }
+}

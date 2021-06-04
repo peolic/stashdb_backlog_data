@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "21bd99d2-d321-4f06-9947-0c0f160aea9a",
+        "name": "Shay Jordan",
+        "appearance": "Nanny",
+        "old_appearance": null
+      }
+    ]
+  }
+}

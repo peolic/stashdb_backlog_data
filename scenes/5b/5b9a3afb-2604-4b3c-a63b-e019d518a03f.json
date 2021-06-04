@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a6baff8b-2daf-41ab-91a5-1e0e1cd18908",
+        "name": "Dany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "87cb766d-cb9c-4db1-8a40-697ec4c96ce1",
+        "name": "Dany Hess",
+        "appearance": "Dany"
+      }
+    ]
+  }
+}

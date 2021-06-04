@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "6aa4faae-af11-4533-a1f5-a318db596487",
+        "name": "Brooke Benson",
+        "appearance": "LeAnne"
+      }
+    ]
+  }
+}

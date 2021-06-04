@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e78cdf30-fa9f-4019-9e94-f45825cbf0bb",
+        "name": "Katya & Sisi",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Katya Larina",
+        "appearance": "Katya",
+        "status": "new"
+      },
+      {
+        "id": "0d4339ab-f85b-49b1-b865-70b928ff4115",
+        "name": "Sisi Sinz",
+        "appearance": "Sisi"
+      }
+    ]
+  }
+}

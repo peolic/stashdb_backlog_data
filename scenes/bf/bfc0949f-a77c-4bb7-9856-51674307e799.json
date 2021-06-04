@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "87395afe-e2d7-4372-85d5-25af178fbb79",
+        "name": "Ariana & Alina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "03d10829-14d5-4e6e-8208-9a7c87b7cf39",
+        "name": "Ariana Marie",
+        "appearance": "Ariana"
+      },
+      {
+        "id": "f7702551-d1bc-4894-a010-982fc3f35c1d",
+        "name": "Alina Li",
+        "appearance": "Alina"
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

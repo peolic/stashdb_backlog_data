@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f6c2416a-24df-4381-878d-421bdfcb754a",
+        "name": "Madison & Dillion",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "928afedb-246f-4d3e-87ae-301945a91710",
+        "name": "Madison Ivy",
+        "appearance": null
+      },
+      {
+        "id": "4917b4d2-f85b-4bcd-b1cd-f4541ce113ef",
+        "name": "Dillion Harper",
+        "appearance": null
+      },
+      {
+        "id": "1c093336-39af-43a8-a207-9a20b11b8b27",
+        "name": "Danny Mountain",
+        "appearance": null
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

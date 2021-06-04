@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ba74ec14-d5e6-4007-a107-82291334105c",
+        "name": "Sara Jay & Ms Juicy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b99a587a-1e63-409b-8c10-730088389364",
+        "name": "Sara Jay",
+        "appearance": null
+      },
+      {
+        "id": "0b60a705-cbd0-4627-97f9-f11436644dfc",
+        "name": "Ms. Juicy",
+        "appearance": null
+      }
+    ]
+  }
+}

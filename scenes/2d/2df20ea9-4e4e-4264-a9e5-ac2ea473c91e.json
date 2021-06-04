@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "94b99940-84af-423c-aff9-d1e6ec2b03da",
+        "name": "Rachel & Sarah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cd3c6585-486d-43ac-af3a-8bb01c3ae979",
+        "name": "Rachel Milan",
+        "appearance": "Rachel"
+      },
+      {
+        "id": "d73a19fb-c38d-4d09-819e-4e869962b793",
+        "name": "Sarah Shine",
+        "appearance": "Sarah"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "45ec2636-c80c-4a4c-9a21-8f73c53ce903",
+        "name": "Summer",
+        "appearance": null
+      },
+      {
+        "id": "ac42d30f-f5ab-4afd-8a88-e4baa8ead307",
+        "name": "Pepper",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9bc46ca3-64db-42b2-ba15-cda4e5cdd8e3",
+        "name": "Summer Day",
+        "appearance": "Summer"
+      },
+      {
+        "id": "45b59d6d-99b0-4651-98bb-e75d067c3f0b",
+        "name": "Pepper XO",
+        "appearance": "Pepper"
+      }
+    ]
+  }
+}

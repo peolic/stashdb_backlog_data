@@ -1,0 +1,27 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "56d7c91b-99ca-4ebe-9714-a0ed6620c9dd",
+        "name": "Adriana Kelly",
+        "appearance": null
+      },
+      {
+        "id": "0bf68bf1-49b3-48c0-b583-0e7e2476910f",
+        "name": "Jada Stevens",
+        "appearance": null
+      },
+      {
+        "id": "aff01dfe-9467-4548-bfc9-aaa04c38b32b",
+        "name": "Charley Chase",
+        "appearance": null
+      },
+      {
+        "id": "7d564c9b-93ff-49f5-aceb-607b878e0057",
+        "name": "Bruce Venture",
+        "appearance": null
+      }
+    ]
+  }
+}

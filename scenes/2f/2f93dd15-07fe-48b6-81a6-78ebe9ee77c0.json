@@ -1,0 +1,30 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3c73342c-eb50-4033-ae66-d63bba38eee6",
+        "name": "Sierra & Kim",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sierra Lust",
+        "appearance": "Sierra",
+        "status": "new"
+      },
+      {
+        "id": null,
+        "name": "Kim Treats",
+        "appearance": "Kim",
+        "status": "new"
+      },
+      {
+        "id": "77f1a884-f568-4af5-af34-c1db03a4a424",
+        "name": "Lacy Green",
+        "appearance": null
+      }
+    ]
+  }
+}

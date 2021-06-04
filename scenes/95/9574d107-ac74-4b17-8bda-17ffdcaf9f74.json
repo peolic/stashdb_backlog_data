@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "bf488cdc-6351-4fcb-8f95-d88db58658d0",
+        "name": "Brandy & Carmella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "db049c7b-d01c-49f0-8459-3dbb9af63b0a",
+        "name": "Brandy Talore",
+        "appearance": "Brandy"
+      },
+      {
+        "id": "ff734a77-21ff-457e-86d4-23616eac2c31",
+        "name": "Carmella Bing",
+        "appearance": "Carmella"
+      }
+    ]
+  }
+}

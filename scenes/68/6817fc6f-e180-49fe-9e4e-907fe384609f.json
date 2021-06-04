@@ -1,0 +1,27 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "5b66b8b4-4c5b-4290-8e0c-5af8b6321fd1",
+        "name": "Jamie Valentine",
+        "appearance": null
+      },
+      {
+        "id": "766d20ed-dc58-4679-a0dc-fa0b2d135189",
+        "name": "Bibi Noel",
+        "appearance": null
+      },
+      {
+        "id": "bd4ad48c-52e8-47d8-b12a-404b2a506604",
+        "name": "Britney Amber",
+        "appearance": null
+      },
+      {
+        "id": "7d564c9b-93ff-49f5-aceb-607b878e0057",
+        "name": "Bruce Venture",
+        "appearance": null
+      }
+    ]
+  }
+}

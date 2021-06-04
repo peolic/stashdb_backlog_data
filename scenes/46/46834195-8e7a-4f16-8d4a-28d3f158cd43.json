@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "105b69ef-b1c0-42ce-ba0c-e0dce5eaad46",
+        "name": "Luna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "2535526d-ce59-4ccf-8726-1c332620303c",
+        "name": "Luna Bright",
+        "appearance": "Luna"
+      }
+    ]
+  }
+}

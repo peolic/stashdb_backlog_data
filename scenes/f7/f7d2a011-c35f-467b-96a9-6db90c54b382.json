@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "fa92b553-9645-40c1-9af2-b634e7d9ca2f",
+        "name": "Anita & Serena",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "2a4b0c07-6d70-45d7-9ff9-2fc2486add9c",
+        "name": "Anita Peida",
+        "appearance": "Anita"
+      },
+      {
+        "id": null,
+        "name": "Serena Cakes",
+        "appearance": "Serena",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d9f4c652-4387-4444-8d0e-7b116b07d4a3",
+        "name": "Savannah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "412c9333-813f-433e-a64a-67871ff352d8",
+        "name": "Savannah Sixx",
+        "appearance": "Savannah"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

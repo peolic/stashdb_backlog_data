@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ac708f5b-7f15-45c1-a855-9cd3de1fde50",
+        "name": "Ashely",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "994b767f-4c53-4120-89bc-3cd077258c42",
+        "name": "Ashly Anderson",
+        "appearance": "Ashley"
+      },
+      {
+        "id": "93c75b84-161e-4260-8ec7-cf5bdb39b572",
+        "name": "Olivia Nova",
+        "appearance": "Olivia"
+      },
+      {
+        "id": "2640f727-db1c-4124-bf7a-5943560c9746",
+        "name": "Tim Cannon",
+        "appearance": "TC"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "90f39e8c-6f73-4a2c-9700-bef4229b0311",
+        "name": "Bailey Brooks",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Bailey Brooks",
+        "appearance": null,
+        "disambiguation": "?- Horny in Hospital",
+        "status": "new"
+      }
+    ]
+  }
+}

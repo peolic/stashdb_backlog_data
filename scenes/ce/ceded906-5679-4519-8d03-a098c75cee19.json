@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4d168773-470c-4ad3-b443-69f4a070a05d",
+        "name": "Stephanie & Nicole",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8225fdb8-d7f1-4d09-86db-0ab00da72e67",
+        "name": "Stephanie Sage",
+        "appearance": null
+      },
+      {
+        "id": "5a30f441-6909-4501-b87f-9777a4d9af12",
+        "name": "Nicole Ray",
+        "appearance": null
+      }
+    ]
+  }
+}

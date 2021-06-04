@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "fdc82b4c-8a48-4437-890b-b552d3fda6fc",
+        "name": "Bobby",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c0203aaa-63eb-4c61-bbca-4ba91b4516f6",
+        "name": "Bobbi Blaire",
+        "appearance": "Bobby"
+      }
+    ]
+  }
+}

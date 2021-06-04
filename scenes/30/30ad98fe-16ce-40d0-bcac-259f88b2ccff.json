@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "70bf5430-2d11-4f9d-b651-e949edb9b68d",
+        "name": "Scarlett Bloom",
+        "appearance": null
+      }
+    ]
+  }
+}

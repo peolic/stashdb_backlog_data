@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0f391866-23d4-4ff6-8283-1eff1fc5a2a8",
+        "name": "Lauren & Lovely",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "03456d6e-a9ba-4a4c-a593-9224eadb7eff",
+        "name": "Lauren Foxxx",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Lovelly Butts",
+        "appearance": "Lovely Butts",
+        "status": "new"
+      }
+    ]
+  }
+}

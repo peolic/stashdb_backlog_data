@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e70419bc-3ba2-4928-b4c8-5cdca6a4fab5",
+        "name": "Gracie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6819b8f4-1871-42fd-8344-1d2b8375053d",
+        "name": "Christy Love",
+        "appearance": "Gracie"
+      }
+    ]
+  }
+}

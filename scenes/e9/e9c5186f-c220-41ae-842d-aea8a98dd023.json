@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "5aeeb501-d25d-4156-b4e5-04bea17697a0",
+        "name": "Dustin Daring",
+        "appearance": null
+      }
+    ]
+  }
+}

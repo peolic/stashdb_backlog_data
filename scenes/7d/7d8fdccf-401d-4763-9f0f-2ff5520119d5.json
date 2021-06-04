@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6bd89021-c150-447c-a3f4-45cb9b1b9f17",
+        "name": "Tasha & Natalia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f08670f9-a57b-4633-b72e-6c8e6cfbaa94",
+        "name": "Tasha Reign",
+        "appearance": "Tasha"
+      },
+      {
+        "id": "43936f6a-ee86-45e9-beeb-de0dde32c887",
+        "name": "Natalia Starr",
+        "appearance": "Natalia"
+      },
+      {
+        "id": "c9858ea0-47ed-477e-8632-ec8dc2fac13a",
+        "name": "Billy Hart",
+        "appearance": null
+      }
+    ]
+  }
+}

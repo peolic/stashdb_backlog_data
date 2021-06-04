@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a53a1126-8502-4303-aff4-e5cd4b702e71",
+        "name": "Tina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Krista Devoe",
+        "appearance": "Tina",
+        "status": "new"
+      }
+    ]
+  }
+}

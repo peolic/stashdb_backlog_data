@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "7c624d82-e85c-4106-9a1b-d926d3dede01",
+        "name": "Lena Nicole",
+        "appearance": "Kaylah",
+        "old_appearance": null
+      }
+    ]
+  }
+}

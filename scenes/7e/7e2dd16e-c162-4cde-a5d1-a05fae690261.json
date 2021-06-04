@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Alice Moore",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

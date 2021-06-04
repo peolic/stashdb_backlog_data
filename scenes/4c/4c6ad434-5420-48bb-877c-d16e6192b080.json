@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "435fa3bc-6979-4b3a-9e31-9b78e5b78212",
+        "name": "Dana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4f50435d-7ab5-432c-8b18-52fccc882685",
+        "name": "Megan Rain",
+        "appearance": "Dana"
+      }
+    ]
+  }
+}

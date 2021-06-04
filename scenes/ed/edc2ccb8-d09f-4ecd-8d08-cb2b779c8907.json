@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a4f9b73c-b97c-4e9c-ad00-f298edd35371",
+        "name": "Janae & Stacy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d86dcfac-b3ea-4e25-a57e-78ade66d93ae",
+        "name": "Janae Foxx",
+        "appearance": "Janae"
+      },
+      {
+        "id": "110e7c6a-fe95-4066-b5ac-fba0a93aa969",
+        "name": "Stacy Adams",
+        "appearance": "Stacy"
+      }
+    ]
+  }
+}

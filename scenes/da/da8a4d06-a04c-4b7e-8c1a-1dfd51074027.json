@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a6baff8b-2daf-41ab-91a5-1e0e1cd18908",
+        "name": "Dany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "78e20034-016b-4b8b-953c-09b269e3767c",
+        "name": "Cayla Lyons",
+        "appearance": "Dany"
+      }
+    ]
+  }
+}

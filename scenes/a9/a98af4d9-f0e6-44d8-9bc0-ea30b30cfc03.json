@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b8f527ba-09af-4eef-a274-aadd058803cf",
+        "name": "Summer & Kayla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "849e6ca9-7fde-4d3a-8445-89fbef01057a",
+        "name": "Summer Sinn",
+        "appearance": "Summer"
+      },
+      {
+        "id": "b02a33b7-44a4-41d4-95a9-ac2dd3dbff28",
+        "name": "Kayla Kupcakes",
+        "appearance": "Kayla"
+      },
+      {
+        "id": "efb398aa-e99d-44c8-aa65-e13d28cee2cb",
+        "name": "Chris Charming",
+        "appearance": null
+      }
+    ]
+  }
+}

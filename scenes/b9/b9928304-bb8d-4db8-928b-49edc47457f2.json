@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2051afac-bf05-44de-b771-6b6f53d25608",
+        "name": "Mz.Twilight & Toni Sweets",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "03893f24-5dde-4b41-9742-c3dad26b989d",
+        "name": "Twilight Starr",
+        "appearance": "Mz. Twilight"
+      },
+      {
+        "id": "c55efb51-81a1-4eaf-8fa3-fde373efcaa9",
+        "name": "Toni Sweets",
+        "appearance": null
+      }
+    ]
+  }
+}

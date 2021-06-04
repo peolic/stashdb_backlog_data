@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Ariana",
+        "appearance": null,
+        "disambiguation": "latin, 2003-04",
+        "status": "new"
+      }
+    ]
+  }
+}

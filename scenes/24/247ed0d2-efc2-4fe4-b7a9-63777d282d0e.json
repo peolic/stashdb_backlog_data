@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      },
+      {
+        "id": "abf6d5e5-f79d-4777-aaec-d6e28ace88fe",
+        "name": "Ivy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8c297125-bbbc-4639-b188-b993782032ad",
+        "name": "Daisy Dahl",
+        "appearance": "Nikki"
+      },
+      {
+        "id": "d27dc389-1fda-4f27-a677-cc0e4d9805cb",
+        "name": "Ivy Wolfe",
+        "appearance": "Ivy"
+      }
+    ]
+  }
+}

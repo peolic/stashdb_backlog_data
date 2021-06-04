@@ -1,0 +1,32 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c1cf85ab-148b-4906-bfc5-ccd353ca37ad",
+        "name": "Jacqueline",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Kaitlyn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jacqueline",
+        "appearance": null,
+        "disambiguation": "2005, Reality Kings",
+        "status": "new"
+      },
+      {
+        "id": null,
+        "name": "Kaitlyn",
+        "appearance": null,
+        "disambiguation": "2005-06, MILF Next Door",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2829b6cf-8235-443f-9ece-84b106b6340f",
+        "name": "Desiree",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Desiree Lewis",
+        "appearance": "Desiree",
+        "status": "new"
+      }
+    ]
+  }
+}

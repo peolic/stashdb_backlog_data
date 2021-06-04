@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0a6d7e43-d433-459e-8396-455a9e85e2d3",
+        "name": "Elizabeth Anne",
+        "appearance": null
+      }
+    ]
+  }
+}

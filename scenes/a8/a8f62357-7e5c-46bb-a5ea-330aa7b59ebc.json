@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "86fbb5ae-52ad-46c5-883e-dd05f7e52ab0",
+        "name": "Trina Michaels",
+        "appearance": null
+      }
+    ]
+  }
+}

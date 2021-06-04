@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2f690342-696a-42d5-878b-0899aaf8feb7",
+        "name": "Heaven & Sydnee",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "d491df58-ec8a-4d95-9459-62405ac5e442",
+        "name": "Sydnee Capri",
+        "appearance": "Sydnee"
+      },
+      {
+        "id": null,
+        "name": "Heaven",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

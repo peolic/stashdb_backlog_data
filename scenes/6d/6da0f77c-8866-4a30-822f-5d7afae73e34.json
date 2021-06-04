@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ec95604f-f19b-438d-85a7-020f91f87f3f",
+        "name": "Aryana Amatista",
+        "appearance": null
+      }
+    ]
+  }
+}

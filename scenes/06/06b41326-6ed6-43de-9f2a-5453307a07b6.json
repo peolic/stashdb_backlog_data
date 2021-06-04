@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ef3e9e65-adf9-4a0c-8cae-2178fe169e93",
+        "name": "Ivy & Mina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9af8957a-9a7c-4bd0-814b-8a4ba0affde0",
+        "name": "Ivy Winters",
+        "appearance": "Ivy"
+      },
+      {
+        "id": "9ffc8103-1874-4452-b4fb-f03df8764ec3",
+        "name": "Mila Beth",
+        "appearance": "Mila"
+      }
+    ]
+  }
+}

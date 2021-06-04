@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "96073e0b-aafe-4d54-bf00-810f17cd941d",
+        "name": "Momoko Mitchel",
+        "appearance": "Momoko"
+      }
+    ]
+  }
+}

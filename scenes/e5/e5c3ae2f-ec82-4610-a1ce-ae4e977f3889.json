@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4f898ab4-7fbe-4532-963c-6abf13993f56",
+        "name": "Renee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "2f70c506-e7e2-4fd9-889a-5e01f0ac2d5f",
+        "name": "Renee Perez",
+        "appearance": "Renee"
+      }
+    ]
+  }
+}

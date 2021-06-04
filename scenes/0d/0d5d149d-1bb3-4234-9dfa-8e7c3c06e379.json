@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "dacce550-5d0f-484c-aea5-174f49758acd",
+        "name": "Sammie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sammie Bergman",
+        "appearance": "Sammie",
+        "status": "new"
+      }
+    ]
+  }
+}

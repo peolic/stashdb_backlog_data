@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "58be4c95-de16-4172-9589-3064e509e41a",
+        "name": "Jazmin",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "328aef2a-1356-4569-9919-d0a17cd188ac",
+        "name": "Jazmin Luv",
+        "appearance": "Jazmin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e97e1271-614c-4768-adce-dc53e2e32a8e",
+        "name": "Candace",
+        "appearance": null
+      },
+      {
+        "id": "ae1239d5-c552-41d8-9105-40a9061b5d2e",
+        "name": "Victoria",
+        "appearance": null
+      },
+      {
+        "id": "eb377fa4-b733-4edb-bcde-df025764c930",
+        "name": "Kayla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f7c01fe2-af69-46c8-b12c-923e89bdc767",
+        "name": "Alannah Monroe",
+        "appearance": "Candace"
+      },
+      {
+        "id": "d6396637-6816-4c1c-83f4-42e6580cb815",
+        "name": "Sophia Striker",
+        "appearance": "Victoria"
+      },
+      {
+        "id": "6d4d5c04-2e15-405c-9afc-e986340bbd93",
+        "name": "Sayeh",
+        "appearance": "Kayla"
+      }
+    ]
+  }
+}

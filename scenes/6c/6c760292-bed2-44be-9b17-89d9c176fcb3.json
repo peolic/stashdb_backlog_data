@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "7e1d9cdb-31c5-4fcc-b1ea-3a94ff7d9bbb",
+        "name": "Jade",
+        "appearance": null
+      },
+      {
+        "id": "8efd2707-fe2a-4780-9893-2fed45a7fb4f",
+        "name": "Danni",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "34f754e6-a397-4c1c-a77b-4132823b7ed8",
+        "name": "Raven Reign",
+        "appearance": "Jade"
+      },
+      {
+        "id": "88517434-9659-48fe-bb22-269db5c5ca87",
+        "name": "Danni Rivers",
+        "appearance": "Danni"
+      }
+    ]
+  }
+}

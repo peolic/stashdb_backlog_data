@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "18701696-5868-4fbd-adf5-48205c2fc4c0",
+        "name": "Anna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4180ea77-d154-4469-b308-bac6f29c3de7",
+        "name": "Cleopatra Rios",
+        "appearance": "Anna"
+      }
+    ]
+  }
+}

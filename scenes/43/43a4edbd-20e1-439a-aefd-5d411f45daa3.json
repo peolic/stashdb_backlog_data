@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "13e4f92f-41f1-4b28-884a-ff6c1840ab5e",
+        "name": "Hayley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cd0e7c1c-9d2d-4f2b-85bd-ac1d0b0ebd94",
+        "name": "Hayley Jade",
+        "appearance": "Hayley"
+      }
+    ]
+  }
+}

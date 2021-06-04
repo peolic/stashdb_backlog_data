@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "8c78e1da-8a75-49a6-aadd-d8ab006384f5",
+        "name": "Lexxxi Nicole",
+        "appearance": "Lexi"
+      }
+    ]
+  }
+}

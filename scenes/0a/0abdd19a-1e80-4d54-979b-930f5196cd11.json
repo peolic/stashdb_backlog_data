@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "bec1ea47-9ba0-4995-a636-6245b3973425",
+        "name": "Shyla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Shyla Syn",
+        "appearance": "Shyla",
+        "status": "new"
+      }
+    ]
+  }
+}

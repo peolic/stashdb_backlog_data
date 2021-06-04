@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "93a2a6a1-5b60-4279-90c1-0b98464453ac",
+        "name": "Logan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "90172d3c-2071-4c27-a7a8-7acf76d4fee8",
+        "name": "Logan Lace",
+        "appearance": "Logan"
+      }
+    ]
+  }
+}

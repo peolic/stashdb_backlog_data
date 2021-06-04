@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "85f7102e-8662-4f13-b47a-713e46ec9e92",
+        "name": "Kylie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c09e1781-ee86-414e-aeea-f616f05dacb0",
+        "name": "Kylie Kingston",
+        "appearance": "Kylie"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4ac56b86-1fa4-4952-88d5-6ccc78955e56",
+        "name": "Terri",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5602aeae-aa70-4b1a-9676-973ef5567842",
+        "name": "Terri Summers",
+        "appearance": "Terri"
+      }
+    ]
+  }
+}

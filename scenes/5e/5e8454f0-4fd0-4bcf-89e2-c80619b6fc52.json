@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "fffdaab6-2335-45a8-bbf0-ee97bd494489",
+        "name": "Anna Claire Clouds",
+        "appearance": null
+      }
+    ]
+  }
+}

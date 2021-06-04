@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a5888cbb-6212-41bf-9652-5375020c2cda",
+        "name": "Mz Booty & Joei",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "89997696-6585-4775-9f3d-15655c61fcde",
+        "name": "Mz. Booty",
+        "appearance": null
+      },
+      {
+        "id": "202796bf-ffb2-43eb-a282-0d402fd76797",
+        "name": "Joei Deluxxx",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "53202174-7a1a-414a-b8dc-defebff4fd10",
+        "name": "Vanilla Sky",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0799f3ae-5941-4fb6-a451-00c6bc458114",
+        "name": "Vanilla Skye",
+        "appearance": "Vanilla Sky"
+      }
+    ]
+  }
+}

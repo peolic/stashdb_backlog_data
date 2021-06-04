@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f723e02b-895f-428f-8704-f2cc88d4628e",
+        "name": "Ryan Mclane",
+        "appearance": null
+      }
+    ]
+  }
+}

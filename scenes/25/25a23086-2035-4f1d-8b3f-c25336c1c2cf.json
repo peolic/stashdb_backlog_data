@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1b47b0b2-1962-4be2-82a5-71b88646fa20",
+        "name": "Isis & Eve",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "46c746fb-825c-49bd-ab3a-eee42cd06fc3",
+        "name": "Isis Taylor",
+        "appearance": "Isis"
+      },
+      {
+        "id": "432ef122-24b8-44db-9711-c309c2477236",
+        "name": "Eve Madison",
+        "appearance": "Eve"
+      }
+    ]
+  }
+}

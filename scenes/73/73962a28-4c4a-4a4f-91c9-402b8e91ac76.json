@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "96df6b4c-f6c3-45a8-8af7-d0003eb6fe9b",
+        "name": "Tatiana Vs Naomi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c0ee6629-ec52-4e21-b766-8e782669d8d6",
+        "name": "Tatiana Kush",
+        "appearance": "Tatiana"
+      },
+      {
+        "id": "8e6f71bc-c3ca-4d92-8e7d-dcc975b52457",
+        "name": "Naomi Cruise",
+        "appearance": "Naomi"
+      }
+    ]
+  }
+}

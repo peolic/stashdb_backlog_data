@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b69da9f6-2d4a-4739-a889-1257c75e038a",
+        "name": "Kim Gonzalez",
+        "appearance": "Miranda"
+      }
+    ]
+  }
+}

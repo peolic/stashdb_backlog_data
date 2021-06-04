@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1d99d881-5382-4fc2-b408-a8b3d8f9a902",
+        "name": "Kenzi & Britney",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5eabdafd-596a-44da-9d81-1bfa820ba106",
+        "name": "Kenzi Marie",
+        "appearance": "Kenzi"
+      },
+      {
+        "id": "bd4ad48c-52e8-47d8-b12a-404b2a506604",
+        "name": "Britney Amber",
+        "appearance": "Britney"
+      }
+    ]
+  }
+}

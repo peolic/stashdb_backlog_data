@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d9f12fc0-9422-473c-9e29-fe1269f7f77d",
+        "name": "Zhenya",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7240bed9-2820-4f65-ad6e-757fbdbd1bd4",
+        "name": "Carmen Fox",
+        "appearance": "Zhenya"
+      }
+    ]
+  }
+}

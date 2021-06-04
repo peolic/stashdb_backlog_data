@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4b2c404f-f757-432f-a19f-b112f9e272e8",
+        "name": "Charisma",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8c449315-6d3b-4ec6-8a83-fb4afd57e70e",
+        "name": "Charisma Cole",
+        "appearance": "Charisma"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "61108e65-00f2-4fca-bea2-89101e110f2c",
+        "name": "Winter",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a13e874c-8757-48e0-a9dc-632366f6380d",
+        "name": "Winter Jade",
+        "appearance": "Winter"
+      }
+    ]
+  }
+}

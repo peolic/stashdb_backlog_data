@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f9ccb0db-e953-4d81-9628-9b53175ad01a",
+        "name": "Natasha",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Natasha Marie",
+        "appearance": "Natasha",
+        "status": "new"
+      }
+    ]
+  }
+}

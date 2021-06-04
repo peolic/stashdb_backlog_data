@@ -1,0 +1,22 @@
+{
+  "title": "Isabella",
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1b64412c-13d4-4912-8f60-7215f532d78e",
+        "name": "Gino",
+        "appearance": null,
+        "disambiguation": "2004-05, Bang Bros"
+      },
+      {
+        "id": "e2314546-27a9-4a5b-a940-e6a0bdc9b03d",
+        "name": "Isabella Soprano",
+        "appearance": "Isabella"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=isabella+%28ii%29/year=2004/isabella-%28ii%29.htm"
+  ]
+}

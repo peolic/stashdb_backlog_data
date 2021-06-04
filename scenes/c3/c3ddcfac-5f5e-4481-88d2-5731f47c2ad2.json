@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "60fb3ab8-969d-493f-bfaa-e430de62d13d",
+        "name": "Crystal",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4a723541-0ae1-43ee-a553-4663206c02f7",
+        "name": "Staci Thorn",
+        "appearance": "Crystal"
+      }
+    ]
+  }
+}

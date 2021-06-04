@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "87fa60cb-a39f-429b-9dac-89f3ad91ef2f",
+        "name": "Alberto Blanco",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f35ed6a2-8113-4639-9e5a-9b952051b78b",
+        "name": "Angel",
+        "appearance": null
+      },
+      {
+        "id": "214099f9-bd4d-4a30-8597-f6139e28f3ad",
+        "name": "Nedda",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "81033f5e-38b7-4df4-8fc4-a838a0c2616e",
+        "name": "Olivia Grace",
+        "appearance": "Angel"
+      },
+      {
+        "id": "5b5ce345-d15d-4bbb-bd3b-37ecc1dc0423",
+        "name": "Nedda A",
+        "appearance": "Nedda"
+      }
+    ]
+  }
+}

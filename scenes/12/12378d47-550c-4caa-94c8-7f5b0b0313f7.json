@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "697cc723-bc81-412a-906b-afd3e28adbaa",
+        "name": "Jenni",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "35ad1428-728c-4730-9ff2-88d76bfd8e35",
+        "name": "Juicy Pearl",
+        "appearance": "Jenni"
+      }
+    ]
+  }
+}

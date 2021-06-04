@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b1213318-428e-48a6-aa74-2e5a562d2344",
+        "name": "Sloan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "951c1d27-f05a-4aed-9533-8673c7cfde49",
+        "name": "Goldie Cox",
+        "appearance": "Sloan"
+      }
+    ]
+  }
+}

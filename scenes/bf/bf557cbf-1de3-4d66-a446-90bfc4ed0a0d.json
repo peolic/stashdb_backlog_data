@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "02a5892b-8ee4-4fea-8a22-45643182618a",
+        "name": "Ryan Keely",
+        "appearance": "Ryan",
+        "old_appearance": null
+      }
+    ]
+  }
+}

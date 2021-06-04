@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f79f8ed7-a7f6-4a7b-93c7-5f88fb449ca4",
+        "name": "Michel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5300d708-faaa-4bc6-a51b-07917c88e631",
+        "name": "Laurie ann Summers",
+        "appearance": "Michel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "105d4402-31b0-4d5d-91bc-a8ab3f13c794",
+        "name": "Kyle Mason",
+        "appearance": null
+      }
+    ]
+  }
+}

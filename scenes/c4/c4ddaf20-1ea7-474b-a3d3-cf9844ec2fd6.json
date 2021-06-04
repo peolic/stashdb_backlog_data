@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "13ed036d-6499-4642-b44e-0251faa0b068",
+        "name": "Kiarra Kai",
+        "appearance": null
+      }
+    ]
+  }
+}

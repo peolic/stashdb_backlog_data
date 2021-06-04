@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3e478baa-b40d-479a-aecb-23c5ea2be621",
+        "name": "Melanie Vs Brittany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e853e1a4-2fe4-46fb-9e8a-8ec5513aa91f",
+        "name": "Melanie Jayne",
+        "appearance": "Melanie"
+      },
+      {
+        "id": "4afdee9b-0a44-44e1-b22f-fb21831876ba",
+        "name": "Brittany Angel",
+        "appearance": "Brittany"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "92536c1f-38e4-42ab-b9cb-29d58044f51b",
+        "name": "Melissa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f669d58a-aa92-4ed8-8afd-b2a9d693c5b5",
+        "name": "Melissa Matthews",
+        "appearance": "Melissa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "693eb1cc-190d-4552-976d-16f386681ae2",
+        "name": "Avery Black",
+        "appearance": null
+      }
+    ]
+  }
+}

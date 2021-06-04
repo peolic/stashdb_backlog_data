@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "455c1e51-a41c-4e96-b240-f7ba6125867b",
+        "name": "Stacey Sweet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f59612ff-1b1f-4e16-bedb-56e94897db28",
+        "name": "Stacy Sweet",
+        "appearance": "Stacey Sweet"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
+        "name": "Amber",
+        "appearance": null
+      },
+      {
+        "id": "03656082-1bc4-46ab-8b9d-8f38cbc8fea7",
+        "name": "Brooklyn",
+        "appearance": null
+      },
+      {
+        "id": "086ea3b4-bf0e-4c1f-a0a2-2a65cfbb9f88",
+        "name": "Lacy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bf89db9d-416f-4b8b-87b0-2f144cc8d076",
+        "name": "Amber Addis",
+        "appearance": "Amber"
+      },
+      {
+        "id": "197e0be2-93e5-4e0b-b6ec-26e7678ea0bb",
+        "name": "Brooklyn Belle",
+        "appearance": "Brooklyn"
+      },
+      {
+        "id": "83706694-bb72-4f71-8e75-2772da9e18bd",
+        "name": "Lacy Lennon",
+        "appearance": "Lacy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "854cf06a-64c5-4f92-98a0-e28ce37a796f",
+        "name": "Stacie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Stacie Falls",
+        "appearance": "Stacie",
+        "status": "new"
+      },
+      {
+        "id": "c0beb384-459a-49e2-9a71-bf91fc2cd25e",
+        "name": "Bruno Dickens",
+        "appearance": "Bruno Dickems"
+      }
+    ]
+  }
+}

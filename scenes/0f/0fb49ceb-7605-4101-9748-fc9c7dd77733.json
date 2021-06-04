@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f715bd6b-ae15-45f8-978c-cbaf23f3a21d",
+        "name": "Jadyn Hayes",
+        "appearance": "Jadyn"
+      }
+    ]
+  }
+}

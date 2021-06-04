@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "13256006-e528-40b9-a794-d9329d2f68db",
+        "name": "Anabella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "51bbbfd0-11a4-41ca-a70b-7d6b042795eb",
+        "name": "Anabelle",
+        "appearance": "Anabella"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1e17c088-00e5-46ca-a31d-f483f65e1ee1",
+        "name": "Lizz & Victoria",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0fb5143e-3135-4129-a0e0-5fb4d849db2b",
+        "name": "Lizz Tayler",
+        "appearance": "Lizz"
+      },
+      {
+        "id": "175830ea-7c02-460f-b86c-9ac8c4e7d633",
+        "name": "Victoria Rae Black",
+        "appearance": "Victoria"
+      },
+      {
+        "id": "c9858ea0-47ed-477e-8632-ec8dc2fac13a",
+        "name": "Billy Hart",
+        "appearance": null
+      }
+    ]
+  }
+}

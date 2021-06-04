@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "85f7102e-8662-4f13-b47a-713e46ec9e92",
+        "name": "Kylie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "36d1172f-9849-4fcb-8769-2f3fdedbdaec",
+        "name": "Kylie Sinner",
+        "appearance": "Kylie"
+      }
+    ]
+  }
+}

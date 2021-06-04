@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a5c1f628-6c26-45ce-bbf0-79b37e955022",
+        "name": "Violet Myers",
+        "appearance": null
+      }
+    ]
+  }
+}

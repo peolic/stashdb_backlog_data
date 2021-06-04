@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "782fd292-10ac-4f94-8f7f-3331d57f1a01",
+        "name": "Tiffany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6fe8ae25-32cc-4b5f-b17e-58ab736fb682",
+        "name": "Tiffany Holiday",
+        "appearance": "Tiffany"
+      }
+    ]
+  }
+}

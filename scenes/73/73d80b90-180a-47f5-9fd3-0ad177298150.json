@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "82489622-4c38-4b89-97b8-14b9d469b304",
+        "name": "Katarina Vs Ami",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e4b67d9d-10f6-42ec-9ffa-70bf2bc3e329",
+        "name": "Katarina Kat",
+        "appearance": "Katarina"
+      },
+      {
+        "id": "524f1a88-09b5-4898-9694-5203c585254e",
+        "name": "Ami Emerson",
+        "appearance": "Ami"
+      }
+    ]
+  }
+}

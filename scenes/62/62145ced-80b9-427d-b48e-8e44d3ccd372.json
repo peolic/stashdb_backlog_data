@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a8243e8f-b0a5-4c7c-b7ac-904ebfd1ae69",
+        "name": "Hunter",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Hunter Holzman",
+        "appearance": "Hunter",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a6186634-31f2-4ad2-bb19-68b0f8ee2c22",
+        "name": "Reina & Nadia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "850f62c9-ac49-48b6-a773-aceb02ab2b2c",
+        "name": "Reina Leone",
+        "appearance": "Reina"
+      },
+      {
+        "id": "ae5ccf1d-00b8-43d7-ab46-e04164813728",
+        "name": "Nadia Sinn",
+        "appearance": "Nadia"
+      },
+      {
+        "id": "47d65127-453a-4403-a15a-98541cc581ad",
+        "name": "Andrew Andretti",
+        "appearance": null
+      }
+    ]
+  }
+}

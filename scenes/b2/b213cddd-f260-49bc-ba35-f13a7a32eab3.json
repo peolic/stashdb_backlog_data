@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "76a0dd28-3b8b-4f17-b159-b78642b99a33",
+        "name": "Brick Danger",
+        "appearance": null
+      }
+    ]
+  }
+}

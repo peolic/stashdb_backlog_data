@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "7e1d9cdb-31c5-4fcc-b1ea-3a94ff7d9bbb",
+        "name": "Jade",
+        "appearance": null
+      },
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dd362eef-b2cf-4fea-9c11-ca1e03a864bb",
+        "name": "Jade Noir",
+        "appearance": "Jade"
+      },
+      {
+        "id": "21a99a50-ccdc-4bc3-8c84-7646d4a97b9b",
+        "name": "Daya Knight",
+        "appearance": "Eva"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}

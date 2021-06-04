@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e85f6ccf-d0b8-4052-9453-e3094e653848",
+        "name": "Blue Diamond & Kieta Eden",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cd2260c1-9858-4da5-8f21-6749cb5a7026",
+        "name": "Blu Diamond",
+        "appearance": "Blue Diamond"
+      },
+      {
+        "id": "5eb54396-a5de-41a0-a61c-377a3f76ab2b",
+        "name": "Keita Eden",
+        "appearance": "Kieta Eden"
+      }
+    ]
+  }
+}

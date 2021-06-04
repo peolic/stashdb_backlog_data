@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "530b2992-77a8-4662-a997-373133b794c9",
+        "name": "Katie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a85a59b8-9bce-44cc-80af-e0360f4123be",
+        "name": "Tawny Tyler",
+        "appearance": "Katie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "64b58350-f8a0-4f82-b8f3-e6e1db464b2c",
+        "name": "Ella & Callie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "02764687-0a7d-4049-889e-d6f365981c21",
+        "name": "Ella Milano",
+        "appearance": "Ella"
+      },
+      {
+        "id": "53352413-ff92-4c38-8a3b-2b9a3b245461",
+        "name": "Callie Cyprus",
+        "appearance": "Callie"
+      },
+      {
+        "id": "7d564c9b-93ff-49f5-aceb-607b878e0057",
+        "name": "Bruce Venture",
+        "appearance": null
+      }
+    ]
+  }
+}

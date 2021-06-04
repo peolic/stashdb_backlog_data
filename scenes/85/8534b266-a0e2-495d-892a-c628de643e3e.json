@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "fb7a179b-d88b-4a9c-bbbd-18ee7592ecdb",
+        "name": "Naomi Nash",
+        "appearance": null
+      }
+    ]
+  }
+}

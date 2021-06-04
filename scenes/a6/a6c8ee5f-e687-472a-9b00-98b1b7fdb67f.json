@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1529ff78-655b-480f-a3c2-b8a91420d1e3",
+        "name": "Mandie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Lexy Legs",
+        "appearance": "Mandie",
+        "status": "new"
+      }
+    ]
+  }
+}

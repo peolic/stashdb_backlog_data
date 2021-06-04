@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ceb67c43-b0d5-41e7-8f2e-dcb9a45cb4a5",
+        "name": "Tanner & Lizz",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a514c23e-8304-4545-b511-ea223c5509a9",
+        "name": "Tanner Mayes",
+        "appearance": "Tanner"
+      },
+      {
+        "id": "0fb5143e-3135-4129-a0e0-5fb4d849db2b",
+        "name": "Lizz Tayler",
+        "appearance": "Lizz"
+      }
+    ]
+  }
+}

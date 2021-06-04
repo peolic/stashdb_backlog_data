@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3e471068-0bf6-477e-b6e8-d81cc3548e80",
+        "name": "Maddy & Evilyn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d9ba17e2-0e5d-42a0-bdb9-e47b8630cfe3",
+        "name": "Maddy O'Reily",
+        "appearance": "Maddy"
+      },
+      {
+        "id": "edc2b048-a50c-462d-8f9e-a43d48cf4708",
+        "name": "Evilyn Fierce",
+        "appearance": "Evilyn"
+      },
+      {
+        "id": "cd3475fa-3b73-44ec-9014-8a659f23d934",
+        "name": "Chris Strokes",
+        "appearance": null
+      }
+    ]
+  }
+}

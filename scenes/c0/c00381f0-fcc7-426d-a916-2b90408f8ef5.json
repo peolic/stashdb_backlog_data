@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3df8920e-8377-4726-8e9f-c1db2044a76f",
+        "name": "Natalie West",
+        "appearance": "Natalie"
+      }
+    ],
+    "append": [
+      {
+        "id": "78099ae5-3c21-4672-a7f4-b38ee24e192f",
+        "name": "Natalie Knight",
+        "appearance": "Natalie"
+      }
+    ]
+  }
+}

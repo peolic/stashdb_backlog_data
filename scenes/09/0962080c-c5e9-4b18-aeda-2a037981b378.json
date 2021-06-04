@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0a4e0f91-930e-4b91-a0ca-2dcb451c46cf",
+        "name": "Jesse & Emy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "41857cac-feb8-42a5-9c49-37dd7647ebb8",
+        "name": "Jesse Jordan",
+        "appearance": "Jesse"
+      },
+      {
+        "id": "a715d5f1-84d8-4546-b47a-ee393647129a",
+        "name": "Emy Reyes",
+        "appearance": "Emy"
+      }
+    ]
+  }
+}

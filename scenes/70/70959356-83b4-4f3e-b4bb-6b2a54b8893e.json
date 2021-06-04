@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "32bf56b0-84f0-43fa-97b5-837e7a829429",
+        "name": "Nala Brooks",
+        "appearance": null
+      }
+    ]
+  }
+}

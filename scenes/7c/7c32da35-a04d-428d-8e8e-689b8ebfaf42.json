@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "85f7102e-8662-4f13-b47a-713e46ec9e92",
+        "name": "Kylie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1a4a25bb-f615-4b57-abf1-4f67579a4811",
+        "name": "Kylie Knight",
+        "appearance": "Kylie"
+      }
+    ]
+  }
+}

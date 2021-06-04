@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c48c9a4d-ae13-4e7f-9cf4-23d669ea7ba6",
+        "name": "Jewelz Blu",
+        "appearance": null
+      }
+    ]
+  }
+}

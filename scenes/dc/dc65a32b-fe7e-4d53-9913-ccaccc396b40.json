@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "82664bfe-f733-4011-9319-be6c9e83c685",
+        "name": "Alyssa & Mila",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5b1bb5a7-ff61-4149-a0ef-80eae4c8fe24",
+        "name": "Alyssa Branch",
+        "appearance": "Alyssa"
+      },
+      {
+        "id": "6bb24bf0-0be5-47cc-ae4a-bf9dcf356953",
+        "name": "Daniel Hunter",
+        "appearance": null
+      }
+    ]
+  }
+}

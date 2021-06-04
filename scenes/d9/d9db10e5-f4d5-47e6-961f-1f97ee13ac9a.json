@@ -1,0 +1,22 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1b64412c-13d4-4912-8f60-7215f532d78e",
+        "name": "Gino",
+        "appearance": null,
+        "disambiguation": "2004-05, Bang Bros"
+      },
+      {
+        "id": null,
+        "name": "Kylie Kurves",
+        "appearance": "Kylie",
+        "status": "new"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=kylie+1/year=2004/kylie-1.htm"
+  ]
+}

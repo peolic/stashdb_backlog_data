@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5b1e531d-32c9-4ab1-b0a3-b300a5a506b6",
+        "name": "Amia & Ella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b63318ae-5983-47c7-808a-002355bac8de",
+        "name": "Amia Miley",
+        "appearance": "Amia"
+      },
+      {
+        "id": "02764687-0a7d-4049-889e-d6f365981c21",
+        "name": "Ella Milano",
+        "appearance": "Ella"
+      }
+    ]
+  }
+}

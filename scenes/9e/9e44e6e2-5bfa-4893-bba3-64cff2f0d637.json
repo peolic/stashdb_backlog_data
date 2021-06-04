@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "db64e768-89a8-4900-9775-d0b743a30d87",
+        "name": "Fiona Sprouts",
+        "appearance": null
+      }
+    ]
+  }
+}

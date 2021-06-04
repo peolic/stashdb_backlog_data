@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a6a81492-793b-4a50-867c-0d78bb455b08",
+        "name": "Cindy White",
+        "appearance": null
+      }
+    ]
+  }
+}

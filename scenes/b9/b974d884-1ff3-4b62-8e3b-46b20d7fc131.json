@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "324704af-3e0b-42d7-bf41-8bba9aa33590",
+        "name": "Ally Breelsen",
+        "appearance": null
+      }
+    ]
+  }
+}

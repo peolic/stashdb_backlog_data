@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c25dbd24-a500-460a-9c82-a26ff364475b",
+        "name": "Mackenzie Moss",
+        "appearance": null
+      }
+    ]
+  }
+}

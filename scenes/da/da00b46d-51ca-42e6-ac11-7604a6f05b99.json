@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "44b9c1f5-739b-4098-8272-647b50a4916a",
+        "name": "Voilet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "177071f4-7222-4316-bebe-08becc4508c8",
+        "name": "Violet Rain",
+        "appearance": "Violet"
+      }
+    ]
+  }
+}

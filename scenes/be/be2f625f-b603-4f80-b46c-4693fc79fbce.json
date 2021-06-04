@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1c9c52ae-f56d-4970-a81a-d679babf9a31",
+        "name": "Anya Krey",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2e613a1f-21e8-46cb-9e1b-77cec7974a95",
+        "name": "Porche & Chanel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c03cd85d-0cff-45fa-b696-05ab574b86b4",
+        "name": "Porsha Carrera",
+        "appearance": "Porche"
+      },
+      {
+        "id": "f3929f5a-c682-4cbb-bab2-94ca40bd71be",
+        "name": "Chanel Dior",
+        "appearance": "Chanel"
+      }
+    ]
+  }
+}

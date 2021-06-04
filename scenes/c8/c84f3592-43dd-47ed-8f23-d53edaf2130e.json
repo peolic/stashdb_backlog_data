@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "78229b69-d6ed-48dd-936d-b3e64650cb46",
+        "name": "Ashli Vs Kaci",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "72894afe-2ad7-4396-bd76-3cf87d8c617b",
+        "name": "Ashli Orion",
+        "appearance": "Ashli"
+      },
+      {
+        "id": "8e97d083-e851-4c7c-843b-e7fe83cf076c",
+        "name": "Kaci Starr",
+        "appearance": "Kaci"
+      }
+    ]
+  }
+}

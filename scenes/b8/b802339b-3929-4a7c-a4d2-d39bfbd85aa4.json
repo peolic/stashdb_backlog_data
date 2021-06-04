@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0ce4f388-d6ce-4987-8fd8-4d068f006905",
+        "name": "Isla Biza",
+        "appearance": "Crissy Floyd"
+      },
+      {
+        "id": "23d6029c-5c15-4909-be71-d15719eb1a3d",
+        "name": "Jake Adams",
+        "appearance": "Jake"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "414014ca-3324-4a3d-8d5f-1cd017e791a9",
+        "name": "Jason",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jason Voor",
+        "appearance": "Jason",
+        "status": "new"
+      }
+    ]
+  }
+}

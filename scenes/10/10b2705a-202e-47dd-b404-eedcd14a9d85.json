@@ -1,0 +1,22 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "edc2b048-a50c-462d-8f9e-a43d48cf4708",
+        "name": "Evilyn Fierce",
+        "appearance": null
+      },
+      {
+        "id": "0fb5143e-3135-4129-a0e0-5fb4d849db2b",
+        "name": "Lizz Tayler",
+        "appearance": null
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

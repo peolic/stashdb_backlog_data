@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "eb72b1e9-7ddc-4234-9ea5-dab00a6bf965",
+        "name": "Lizz & Kendall",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0fb5143e-3135-4129-a0e0-5fb4d849db2b",
+        "name": "Lizz Tayler",
+        "appearance": "Lizz"
+      },
+      {
+        "id": "329266d1-ae14-4f41-a601-12a7bc5a07f0",
+        "name": "Kendall Karson",
+        "appearance": "Kendall"
+      },
+      {
+        "id": "7d564c9b-93ff-49f5-aceb-607b878e0057",
+        "name": "Bruce Venture",
+        "appearance": null
+      }
+    ]
+  }
+}

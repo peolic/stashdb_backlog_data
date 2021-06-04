@@ -1,0 +1,15 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "01786bc8-7a15-4129-874d-784c84130d50",
+        "name": "Harmony Rose",
+        "appearance": "Harmony"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=harmony/year=2004/harmony.htm"
+  ]
+}

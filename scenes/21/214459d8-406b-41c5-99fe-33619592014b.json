@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "44adde78-8b1e-4dd2-9b60-3424d68d5757",
+        "name": "Stella Cox",
+        "appearance": null
+      }
+    ]
+  }
+}

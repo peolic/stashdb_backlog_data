@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1a8529e2-56a9-4c13-8006-1b7329f36388",
+        "name": "Roxi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "2987bdcd-e3f2-4757-8d95-361cdb8fad90",
+        "name": "Briella Bounce",
+        "appearance": "Roxi"
+      },
+      {
+        "id": "f8460cef-6ff2-4dd1-93d0-9a75528a0ba4",
+        "name": "Chilli Chills",
+        "appearance": null
+      }
+    ]
+  }
+}

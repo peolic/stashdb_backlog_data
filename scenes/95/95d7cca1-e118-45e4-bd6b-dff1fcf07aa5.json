@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "61108e65-00f2-4fca-bea2-89101e110f2c",
+        "name": "Winter",
+        "appearance": null
+      },
+      {
+        "id": "0c0ba619-336b-48fe-aa0e-8ce663bcda3f",
+        "name": "Paisley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a13e874c-8757-48e0-a9dc-632366f6380d",
+        "name": "Winter Jade",
+        "appearance": "Winter"
+      },
+      {
+        "id": "892086a8-ce52-4f2f-b9a0-6a737666200d",
+        "name": "Paisley Bennett",
+        "appearance": "Paisley"
+      }
+    ]
+  }
+}

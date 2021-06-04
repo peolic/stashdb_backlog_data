@@ -1,0 +1,13 @@
+{
+  "duration": "3000",
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "3c1eb28e-ed4a-44e3-8748-e42b29346b5a",
+        "name": "Linet Slag",
+        "appearance": "Lynette"
+      }
+    ]
+  }
+}

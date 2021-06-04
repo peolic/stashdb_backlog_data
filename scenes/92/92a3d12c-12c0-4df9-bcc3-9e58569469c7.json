@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "77a137bf-d339-4719-9d9a-52627d3eb163",
+        "name": "Lindsey Vs Missy",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "be4bad95-646a-4d18-9205-9e8761fdbfd6",
+        "name": "Lindsay Kay",
+        "appearance": "Lindsey"
+      },
+      {
+        "id": null,
+        "name": "Missy Graham",
+        "appearance": "Missy",
+        "status": "new"
+      }
+    ]
+  }
+}

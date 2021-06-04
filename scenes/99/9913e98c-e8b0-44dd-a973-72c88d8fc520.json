@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1c2030fd-27bd-4916-8254-37701d32cd82",
+        "name": "Carli",
+        "appearance": null
+      },
+      {
+        "id": "ae1239d5-c552-41d8-9105-40a9061b5d2e",
+        "name": "Victoria",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "992714bc-55d8-4f4b-b00b-906b39c4d107",
+        "name": "Carli Banks",
+        "appearance": "Carli"
+      },
+      {
+        "id": "c849fed0-a987-4e85-ae4e-e650dadadd5f",
+        "name": "Victoria Red",
+        "appearance": "Victoria"
+      }
+    ]
+  }
+}

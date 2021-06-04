@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "cafbb8a1-c383-4c68-983f-d35c6dafd8f2",
+        "name": "Natalie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "65b225e1-df6a-4bf0-9194-613a4c149b54",
+        "name": "Genie Onyx",
+        "appearance": "Natalie"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.indexxx.com/m/genie-onyx"
+  ]
+}

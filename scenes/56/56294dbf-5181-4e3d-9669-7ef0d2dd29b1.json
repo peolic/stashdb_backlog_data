@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9d1a1d0a-2436-4ba7-8324-c10ef5008310",
+        "name": "Isabella Star",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7b83db31-1ac9-4b7c-be63-06bc72b86c17",
+        "name": "Izabella Star",
+        "appearance": null
+      }
+    ]
+  }
+}

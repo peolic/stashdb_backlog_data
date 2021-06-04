@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "78f93fb5-34f7-464c-bf57-dfc6419d56b6",
+        "name": "Wrex Oliver",
+        "appearance": null
+      }
+    ]
+  }
+}

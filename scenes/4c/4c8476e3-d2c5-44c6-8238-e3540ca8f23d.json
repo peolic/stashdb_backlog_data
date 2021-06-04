@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b003778f-fde3-480b-9792-54f473609fa0",
+        "name": "Lina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "29b8b5c2-46c4-42ae-a1f8-b05f654061e5",
+        "name": "Angelica Heart",
+        "appearance": "Lina"
+      }
+    ]
+  }
+}

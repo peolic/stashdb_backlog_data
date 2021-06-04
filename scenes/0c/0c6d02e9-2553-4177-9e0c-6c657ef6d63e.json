@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "7591e197-1699-4fe2-903c-0650c94c15b3",
+        "name": "Mabel May",
+        "appearance": null
+      }
+    ]
+  }
+}

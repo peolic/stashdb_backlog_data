@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "18701696-5868-4fbd-adf5-48205c2fc4c0",
+        "name": "Anna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ad70938c-3311-4c49-a09b-032eac7958ee",
+        "name": "Abella Anderson",
+        "appearance": "Anna"
+      }
+    ]
+  }
+}

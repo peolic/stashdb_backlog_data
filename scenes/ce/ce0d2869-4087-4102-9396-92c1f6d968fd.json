@@ -1,0 +1,22 @@
+{
+  "title": "Lolo Lolo Lola",
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1b64412c-13d4-4912-8f60-7215f532d78e",
+        "name": "Gino",
+        "appearance": null,
+        "disambiguation": "2004-05, Bang Bros"
+      },
+      {
+        "id": "4df42188-f983-4fdc-b9d0-3696dff967b7",
+        "name": "Lola Lane",
+        "appearance": "Lola"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lolo+lolo+lola/year=2004/lolo-lolo-lola.htm"
+  ]
+}

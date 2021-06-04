@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3438af3d-a2e0-4301-92f1-c18eb8800fb0",
+        "name": "Lily & Karlie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7f180cfa-6f28-48b2-8f79-e23ba80909e8",
+        "name": "Lily Love",
+        "appearance": "Lily"
+      },
+      {
+        "id": "3aa16034-4901-48f3-97c1-02ca921689c8",
+        "name": "Karlie Montana",
+        "appearance": "Karlie"
+      }
+    ]
+  }
+}

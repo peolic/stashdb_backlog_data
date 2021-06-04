@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "eb9bbdcf-beb4-4ef5-8d11-995c327cab0f",
+        "name": "Ashley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ee8e1d29-c0b7-4529-8451-6711f9809e47",
+        "name": "Ashley Aleigh",
+        "appearance": "Ashley"
+      }
+    ]
+  }
+}

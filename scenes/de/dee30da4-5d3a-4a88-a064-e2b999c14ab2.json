@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "bec1ea47-9ba0-4995-a636-6245b3973425",
+        "name": "Shyla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3530f6c0-9da6-4b9d-bf5d-2d7a8c5acb77",
+        "name": "Shyla Jennings",
+        "appearance": "Shyla"
+      }
+    ]
+  }
+}

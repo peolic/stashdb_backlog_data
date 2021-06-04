@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3da23023-5fdd-488b-bfb1-dd624f58e919",
+        "name": "Camille",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Camille",
+        "appearance": null,
+        "disambiguation": "2007",
+        "status": "new"
+      }
+    ]
+  }
+}

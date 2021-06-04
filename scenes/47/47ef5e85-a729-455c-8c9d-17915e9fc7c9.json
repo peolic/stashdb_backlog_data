@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "8d51ce19-e937-4706-bb90-d232a9ed59c3",
+        "name": "Maddy May",
+        "appearance": null
+      }
+    ]
+  }
+}

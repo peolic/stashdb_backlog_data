@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "e990b764-4259-442a-a46c-4ae6596046a0",
+        "name": "Aften Opal",
+        "appearance": null
+      }
+    ]
+  }
+}

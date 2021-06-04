@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "220704dd-a717-412c-b792-bc8875990fe4",
+        "name": "Talia Tyler",
+        "appearance": "Talia"
+      }
+    ]
+  }
+}

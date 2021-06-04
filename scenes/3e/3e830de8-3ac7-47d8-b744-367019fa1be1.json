@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "11e03da6-836f-4f8d-ae9d-6e21f704e829",
+        "name": "Kelly",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6276ec21-13d1-4a38-b3d5-ea240d516212",
+        "name": "Kelly Skyline",
+        "appearance": "Kelly"
+      }
+    ]
+  }
+}

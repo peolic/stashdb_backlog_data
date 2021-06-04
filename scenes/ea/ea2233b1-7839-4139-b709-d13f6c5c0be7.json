@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "854cf06a-64c5-4f92-98a0-e28ce37a796f",
+        "name": "Stacie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fe03e97b-ea0e-4f50-a06c-5d3ada8c3a0e",
+        "name": "Stacie Lane",
+        "appearance": "Stacie"
+      }
+    ]
+  }
+}

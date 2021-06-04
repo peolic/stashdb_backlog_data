@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Katie Carmine",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "58c03dfd-ee0e-4497-813d-d415ff88d38c",
+        "name": "Candy & Eunique",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4d95a4e7-a5a3-452a-bb49-25d194664874",
+        "name": "Candi Dreamz",
+        "appearance": "Candy"
+      },
+      {
+        "id": "d35d527a-d2ac-4929-9a7a-28e5def79518",
+        "name": "Unique Lasage",
+        "appearance": "Eunique"
+      }
+    ]
+  }
+}

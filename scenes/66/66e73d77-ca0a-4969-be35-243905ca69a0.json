@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a5cbff4c-1a63-4121-9967-f1f6f92d220f",
+        "name": "Aiden & April",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "53ef2d99-1328-4cb6-bf72-407fbe15a015",
+        "name": "Aiden Aspen",
+        "appearance": "Aiden"
+      },
+      {
+        "id": "5023c037-c939-4b8b-9248-946443173988",
+        "name": "April O'Neil",
+        "appearance": "April"
+      },
+      {
+        "id": "a08b7c14-bb10-4ed7-bbd2-fa48628fd8a4",
+        "name": "Barry Scott",
+        "appearance": null
+      }
+    ]
+  }
+}

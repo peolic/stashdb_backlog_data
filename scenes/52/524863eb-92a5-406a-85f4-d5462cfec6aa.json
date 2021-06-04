@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8c48fdd6-0afc-4ebc-a88b-6231e08ca276",
+        "name": "Satine & Jessica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "161bb013-880a-4436-89ff-e8830f2007ed",
+        "name": "Satine Phoenix",
+        "appearance": "Satine"
+      },
+      {
+        "id": "3bb8cee0-dac5-4f58-9b2f-6bd4af14c51b",
+        "name": "Jessica Bangkok",
+        "appearance": "Jessica"
+      }
+    ]
+  }
+}

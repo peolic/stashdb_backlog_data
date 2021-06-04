@@ -1,0 +1,30 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": null,
+        "name": "Kaitlyn",
+        "appearance": null
+      },
+      {
+        "id": "c75ed1de-f2a0-4c1b-a578-a1edad8d5781",
+        "name": "Bridgett",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kaitlyn",
+        "appearance": null,
+        "disambiguation": "2005-06, MILF Next Door",
+        "status": "new"
+      },
+      {
+        "id": "71b2908c-52ac-4951-ae3e-6d55da4400d3",
+        "name": "Bridgett Lee",
+        "appearance": "Bridgett"
+      }
+    ]
+  }
+}

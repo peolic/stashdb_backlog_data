@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "484bc068-a7e2-473d-b212-1bfe07fc3a59",
+        "name": "Remi Jones",
+        "appearance": null
+      }
+    ]
+  }
+}

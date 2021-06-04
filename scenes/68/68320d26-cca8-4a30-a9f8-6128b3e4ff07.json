@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Emma Blanco",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

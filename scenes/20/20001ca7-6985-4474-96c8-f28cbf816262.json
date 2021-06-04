@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a6baff8b-2daf-41ab-91a5-1e0e1cd18908",
+        "name": "Dany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Dany Alencar",
+        "appearance": "Dany",
+        "status": "new"
+      },
+      {
+        "id": null,
+        "name": "Yuri Bryan",
+        "appearance": "Yuri",
+        "status": "new"
+      }
+    ]
+  }
+}

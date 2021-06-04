@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f4a4f930-1bea-4f10-8dd6-f966ca715931",
+        "name": "Luna Lovely",
+        "appearance": "Aarin"
+      }
+    ]
+  }
+}

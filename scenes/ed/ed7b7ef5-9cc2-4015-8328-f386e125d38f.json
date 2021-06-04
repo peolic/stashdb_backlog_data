@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "fcef4083-1b42-4f34-a0ad-246ecb0f2004",
+        "name": "Electra",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "204b46b0-659f-4b8b-bb42-56a6fcacb0ad",
+        "name": "Elektra Foxx",
+        "appearance": "Electra"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "410ec95d-76bc-4a5f-9b99-7b2c81d62c51",
+        "name": "April & Ella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5023c037-c939-4b8b-9248-946443173988",
+        "name": "April O'Neil",
+        "appearance": "April"
+      },
+      {
+        "id": "02764687-0a7d-4049-889e-d6f365981c21",
+        "name": "Ella Milano",
+        "appearance": "Ella"
+      }
+    ]
+  }
+}

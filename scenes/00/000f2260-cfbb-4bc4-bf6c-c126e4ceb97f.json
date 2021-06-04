@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "97c97456-72fe-4ec8-9d64-5f946ca2fc90",
+        "name": "Chloe",
+        "appearance": null
+      },
+      {
+        "id": "1bd3efd0-3406-4bb3-a59b-d81f8e2dd2ec",
+        "name": "Maya",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "be46cb95-e703-4025-a230-589b4618e6a5",
+        "name": "Brooklyn Jade",
+        "appearance": "Chloe"
+      },
+      {
+        "id": "60f459cb-325f-4625-8496-dd0f924af9f7",
+        "name": "Alexandria Devine",
+        "appearance": "Maya"
+      }
+    ]
+  }
+}

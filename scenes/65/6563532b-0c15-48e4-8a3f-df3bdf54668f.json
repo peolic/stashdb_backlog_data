@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f0def10f-3dd1-46da-933d-bf23bb8bcf09",
+        "name": "Milly",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e0e57c5f-0b7f-4f21-9a74-570441165593",
+        "name": "Millie Stone",
+        "appearance": "Milly"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e4d921fb-f4da-4325-8a98-db85e19000a8",
+        "name": "Amilia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6a77ee3b-1baf-463f-9c17-9f4f3840a7d2",
+        "name": "Amilia Onyx",
+        "appearance": "Amilia"
+      }
+    ]
+  }
+}

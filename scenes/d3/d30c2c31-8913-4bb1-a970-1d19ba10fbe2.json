@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f619ea8e-2c8d-4638-bb19-effa1444c523",
+        "name": "Teddi & Anikka",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3516cec7-591b-4367-bbbb-bf4395cdcef7",
+        "name": "Teddi Rae",
+        "appearance": "Teddi"
+      },
+      {
+        "id": "fe03603a-bb48-4c89-b748-12dffae8a734",
+        "name": "Anikka Albrite",
+        "appearance": "Anikka"
+      },
+      {
+        "id": "c9858ea0-47ed-477e-8632-ec8dc2fac13a",
+        "name": "Billy Hart",
+        "appearance": null
+      }
+    ]
+  }
+}

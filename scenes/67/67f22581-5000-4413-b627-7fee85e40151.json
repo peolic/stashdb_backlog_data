@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a8d06177-a4bc-40e3-a524-8b530788fb22",
+        "name": "Aurora",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fe2e9599-0543-40dd-a4fb-d411eac9083f",
+        "name": "Aurora Chase",
+        "appearance": "Aurora"
+      }
+    ]
+  }
+}

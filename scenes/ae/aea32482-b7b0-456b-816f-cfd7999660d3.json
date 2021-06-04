@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b10a92c-f2a1-48b3-b44d-b72a1460558e",
+        "name": "Sophie & Cindy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "598696dd-76b4-434f-82cf-dc311c53be01",
+        "name": "Sophie Dee",
+        "appearance": "Sophie"
+      },
+      {
+        "id": "71b000dc-b84d-4e7f-88ea-879f7c324194",
+        "name": "Cindy Crawford",
+        "appearance": "Cindy"
+      }
+    ]
+  }
+}

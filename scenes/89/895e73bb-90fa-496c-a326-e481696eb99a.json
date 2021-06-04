@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8bf615f6-058b-46e2-b8b8-5f85fb69fd27",
+        "name": "Emma",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3c1e605b-8be6-4697-b56a-ecc380cfd683",
+        "name": "Emma North",
+        "appearance": "Emma"
+      }
+    ]
+  }
+}

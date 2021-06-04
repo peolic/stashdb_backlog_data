@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0edc3fbf-9199-4a60-981d-bf6a33138806",
+        "name": "Allie & Ashlyn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1811e807-9cb3-4a9b-bda0-4e9ff3e53e2a",
+        "name": "Allie Jordan",
+        "appearance": "Allie"
+      },
+      {
+        "id": "eac140d7-6e23-4b02-845c-177caeb623db",
+        "name": "Ashlyn Rae",
+        "appearance": "Ashlyn"
+      },
+      {
+        "id": "b5cc1186-54b1-4e89-b894-84715b6fe9d1",
+        "name": "Pike Nelson",
+        "appearance": null
+      }
+    ]
+  }
+}

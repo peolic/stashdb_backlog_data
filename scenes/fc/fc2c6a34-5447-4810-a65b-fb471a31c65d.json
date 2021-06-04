@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "675ebab4-0c4a-44a1-ae94-9170b3fcd0e2",
+        "name": "Janae & Samone",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d86dcfac-b3ea-4e25-a57e-78ade66d93ae",
+        "name": "Janae Foxx",
+        "appearance": "Janae"
+      },
+      {
+        "id": "745a71df-7373-4f8f-8473-609ad96faec3",
+        "name": "Samone Taylor",
+        "appearance": "Samone"
+      }
+    ]
+  }
+}

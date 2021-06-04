@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "142ebf7e-9cdb-4794-9f2e-70aa3be01100",
+        "name": "Jadena & London",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "17c6ed64-ad6d-4670-9765-8b9412f357ce",
+        "name": "Jade Nacole",
+        "appearance": "Jadena"
+      },
+      {
+        "id": "952c9ddc-7aaa-44b3-8594-cc7487122524",
+        "name": "London Reigns",
+        "appearance": "London"
+      }
+    ]
+  }
+}

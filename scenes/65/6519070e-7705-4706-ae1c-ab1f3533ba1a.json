@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec0770bb-d770-4cf1-a120-a02f6cf8c068",
+        "name": "Mz Booty & Manaje A Star",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "89997696-6585-4775-9f3d-15655c61fcde",
+        "name": "Mz. Booty",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Manaje A Star / Manaj-A-Star",
+        "appearance": "Manaje A Star",
+        "status": "new"
+      }
+    ]
+  }
+}

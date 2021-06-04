@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "50a05c52-2cf4-476f-a3f5-1c7dbbf1bfb2",
+        "name": "Chris Johnson",
+        "appearance": null
+      }
+    ]
+  }
+}

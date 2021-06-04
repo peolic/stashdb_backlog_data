@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec298158-f283-4c0a-b170-259f3c071845",
+        "name": "Natalia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Natalia",
+        "appearance": null,
+        "disambiguation": "2016, BRCC",
+        "status": "new"
+      },
+      {
+        "id": "2640f727-db1c-4124-bf7a-5943560c9746",
+        "name": "Tim Cannon",
+        "appearance": "TC"
+      }
+    ]
+  }
+}

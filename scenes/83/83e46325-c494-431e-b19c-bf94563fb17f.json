@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "29f57151-921e-4d35-b677-e1655c33001f",
+        "name": "Alejandro Peer",
+        "appearance": null
+      }
+    ]
+  }
+}

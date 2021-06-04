@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "11eef337-8ba8-4344-bbb9-178d2d6d6425",
+        "name": "Brooke",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5e75c40e-8ed9-4945-96be-f49b027fcdda",
+        "name": "Brooke Daze",
+        "appearance": "Brooke"
+      }
+    ]
+  }
+}

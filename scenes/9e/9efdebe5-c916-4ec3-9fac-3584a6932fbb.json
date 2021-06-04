@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1a26558b-e2f2-4274-bdf2-30a10ffdbe97",
+        "name": "Mia & Casana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6a167db8-80b6-485a-841c-8bbaf0292a82",
+        "name": "Mia Malkova",
+        "appearance": null
+      },
+      {
+        "id": "573bf7fb-0daa-464e-841b-18a9d6964470",
+        "name": "Casana Lei",
+        "appearance": null
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

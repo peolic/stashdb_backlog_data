@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f0640c6c-f9c5-4dff-b775-6fcb936adeed",
+        "name": "Daisy Lee",
+        "appearance": null
+      }
+    ]
+  }
+}

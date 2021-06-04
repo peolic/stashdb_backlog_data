@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6e33cd08-73c6-4212-8b38-679521b201fd",
+        "name": "Roxy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Roxy",
+        "appearance": null,
+        "disambiguation": "We Live Together",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "fac887fa-9a8f-4344-94e5-d1c9380f7060",
+        "name": "Ashley Stone",
+        "appearance": "Tay"
+      }
+    ]
+  }
+}

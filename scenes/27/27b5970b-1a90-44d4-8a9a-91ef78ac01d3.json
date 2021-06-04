@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "142c5da2-e84d-4d9b-a31e-7e0e9a8ecd23",
+        "name": "Kenzi & Nika",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5eabdafd-596a-44da-9d81-1bfa820ba106",
+        "name": "Kenzi Marie",
+        "appearance": null
+      },
+      {
+        "id": "f33ee60a-83d8-486b-b4d2-096c470dec46",
+        "name": "Nika Noire",
+        "appearance": "Nika Noir"
+      }
+    ]
+  }
+}

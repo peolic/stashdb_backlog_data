@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a7741fde-0848-4b2b-8316-fa2db0639a2b",
+        "name": "Ivy & Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9af8957a-9a7c-4bd0-814b-8a4ba0affde0",
+        "name": "Ivy Winters",
+        "appearance": "Ivy"
+      },
+      {
+        "id": "928afedb-246f-4d3e-87ae-301945a91710",
+        "name": "Madison Ivy",
+        "appearance": "Madison"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "135216a8-bf9e-4f9f-9d5c-69f709455b36",
+        "name": "anna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b3d97893-79c0-4cc2-82f7-5a5acb752c9c",
+        "name": "Anna Nikova",
+        "appearance": "Anna"
+      }
+    ]
+  }
+}

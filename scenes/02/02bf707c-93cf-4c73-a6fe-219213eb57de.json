@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "91710b64-88c1-40ed-b98e-7a397ee5c2a3",
+        "name": "Kasey & Ally",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "59384e93-a606-4a89-abc7-ee083f34c618",
+        "name": "Kacey Jordan",
+        "appearance": "Kasey"
+      },
+      {
+        "id": "4b107de5-c55e-44ac-8faf-e24116f99dd3",
+        "name": "Ally Kay",
+        "appearance": null
+      }
+    ]
+  }
+}

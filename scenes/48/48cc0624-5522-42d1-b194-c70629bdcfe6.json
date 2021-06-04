@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "fe46a2cd-125d-4cff-a2a9-78395149f7aa",
+        "name": "Jennifer & Karina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "426c641a-cf21-4493-a150-5e5105442349",
+        "name": "Jennifer White",
+        "appearance": "Jennifer"
+      },
+      {
+        "id": "cc0854d8-4868-4b0c-882e-3bea9955c886",
+        "name": "Karina White",
+        "appearance": "Karina"
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

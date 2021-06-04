@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Shey Holmes",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

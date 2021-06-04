@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b",
+        "name": "Michelle",
+        "appearance": null
+      },
+      {
+        "id": "dbc6a7b1-3ede-45c2-85ff-c5491bbcdb3d",
+        "name": "Monica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "959643d0-e7ba-4de8-8f1c-4392d329f359",
+        "name": "Michele James",
+        "appearance": "Michelle"
+      },
+      {
+        "id": "76af3231-6c5e-4159-94c2-bbf37afe3e87",
+        "name": "Monica Sage",
+        "appearance": "Monica"
+      }
+    ]
+  }
+}

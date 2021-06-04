@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1528abf8-01ab-468d-9469-7817eb089501",
+        "name": "Denise Everheart",
+        "appearance": "April"
+      }
+    ]
+  }
+}

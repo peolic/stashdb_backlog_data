@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "800f936d-b5f6-4f35-ad10-a2331f105d34",
+        "name": "Dee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e0c7ead2-2c03-43b1-b5b7-e8f8d2f1c5ef",
+        "name": "Dee Lilly",
+        "appearance": "Dee"
+      }
+    ]
+  }
+}

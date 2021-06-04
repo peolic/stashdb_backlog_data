@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "2970968f-9126-4ce0-b398-5158d19b2d6f",
+        "name": "Tyler Nixon",
+        "appearance": null
+      }
+    ]
+  }
+}

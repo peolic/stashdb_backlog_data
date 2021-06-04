@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0c29c4b8-01f8-4f2e-b7b3-88ac1a7d164e",
+        "name": "Anna bell peaks, lily Lane,",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6a5f4e9d-3fbe-4113-b01c-4ba19a8ec6db",
+        "name": "Anna Bell Peaks",
+        "appearance": null
+      },
+      {
+        "id": "e6da613c-57fc-43a0-9c76-37be34e6bd71",
+        "name": "Lily Lane",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Amber Mae",
+        "appearance": "Amber",
+        "status": "new"
+      },
+      {
+        "id": "2640f727-db1c-4124-bf7a-5943560c9746",
+        "name": "Tim Cannon",
+        "appearance": "TC"
+      }
+    ]
+  }
+}

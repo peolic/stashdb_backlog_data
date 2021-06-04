@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d5ca6945-d70d-4955-82a0-67c843cc1a3f",
+        "name": "Jason",
+        "appearance": null,
+        "disambiguation": "2002-2013, Reality Kings"
+      }
+    ]
+  }
+}

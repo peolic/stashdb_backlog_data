@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6fbc2da8-5a9e-4db4-9b3f-961ad405c356",
+        "name": "Moni",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e9b638c3-9602-4e64-bba6-6a979f4f69d4",
+        "name": "Moni Michaels",
+        "appearance": "Moni"
+      }
+    ]
+  }
+}

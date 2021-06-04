@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "bed8d1e8-fdde-48f9-923f-d6cf4fed3912",
+        "name": "Stella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ac528d50-5c8b-49f0-b541-afcd113946fb",
+        "name": "Stella Banxxx",
+        "appearance": "Stella"
+      }
+    ]
+  }
+}

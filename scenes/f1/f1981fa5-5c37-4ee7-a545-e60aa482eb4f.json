@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "1b974ab6-96ff-44f6-80dc-5f2e021fcf21",
+        "name": "Sarah Blake",
+        "appearance": "Sarah",
+        "old_appearance": null
+      }
+    ]
+  }
+}

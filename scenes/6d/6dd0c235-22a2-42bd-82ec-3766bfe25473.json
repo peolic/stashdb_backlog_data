@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ecd27198-1bad-4ccc-9bec-835420114c94",
+        "name": "Jarrod Steed",
+        "appearance": null
+      },
+      {
+        "id": "07d04ea7-62a7-4573-afdb-ff60348e8930",
+        "name": "Cuba",
+        "appearance": null
+      }
+    ],
+    "append": []
+  }
+}

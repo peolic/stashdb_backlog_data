@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "7925efd7-9c79-4bac-9b9e-4518818fc775",
+        "name": "Prinzzess Felicity Jade",
+        "appearance": "Prinzzess",
+        "old_appearance": null
+      }
+    ]
+  }
+}

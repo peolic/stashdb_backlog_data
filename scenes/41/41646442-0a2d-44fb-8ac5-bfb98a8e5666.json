@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "734d6f29-ca28-48b4-abde-7a129e64cbeb",
+        "name": "Loona Vs Charlotte",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ddd3f350-a0da-4090-890e-8f8d5af60e0a",
+        "name": "Loona Luxx",
+        "appearance": "Loona"
+      },
+      {
+        "id": "aee085df-cd0c-4da5-a787-96796f4d3869",
+        "name": "Charlotte Vale",
+        "appearance": "Charlotte"
+      }
+    ]
+  }
+}

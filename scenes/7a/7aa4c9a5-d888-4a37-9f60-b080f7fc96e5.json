@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "78b959e7-9a71-41a9-99b6-469f7670c691",
+        "name": "Madison & Trixie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b2b86afb-22e0-4ac2-bb01-dc5199efb15d",
+        "name": "Trixie Cas",
+        "appearance": "Trixie"
+      }
+    ]
+  }
+}

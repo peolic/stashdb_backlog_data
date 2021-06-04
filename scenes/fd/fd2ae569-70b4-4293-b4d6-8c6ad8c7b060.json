@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e53e6aa4-199a-437b-9f60-17459ca8a774",
+        "name": "Kendra",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4a4fa1a9-268c-4b54-897d-179b01edc01a",
+        "name": "Kendra Spade",
+        "appearance": "Kendra"
+      }
+    ]
+  }
+}

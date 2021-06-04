@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "9ce26d17-e070-4828-8b82-a78a13a976b3",
+        "name": "Riley Star",
+        "appearance": null
+      }
+    ]
+  }
+}

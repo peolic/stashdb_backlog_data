@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a3bb967b-fa26-4817-a9eb-e58dd6b78347",
+        "name": "Eliza Ibarra",
+        "appearance": null
+      }
+    ]
+  }
+}

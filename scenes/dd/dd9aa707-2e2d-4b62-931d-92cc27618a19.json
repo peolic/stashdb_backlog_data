@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "79b16295-f85f-409e-a00e-5283d8db400b",
+        "name": "Poppy Vs Valerie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a6b88761-851f-4be6-afc1-18e77c5bd8fb",
+        "name": "Poppy Morgan",
+        "appearance": "Poppy"
+      },
+      {
+        "id": "cf2daafa-e637-4440-a5eb-fb4994b65e04",
+        "name": "Valerie Luxe",
+        "appearance": "Valerie"
+      }
+    ]
+  }
+}

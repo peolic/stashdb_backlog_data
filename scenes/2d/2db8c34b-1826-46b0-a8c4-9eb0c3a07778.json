@@ -1,0 +1,15 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "e2314546-27a9-4a5b-a940-e6a0bdc9b03d",
+        "name": "Isabella Soprano",
+        "appearance": "Isabella"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=return+of+isabella/year=2004/return-of-isabella.htm"
+  ]
+}

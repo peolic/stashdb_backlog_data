@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e7e2ae54-b5e5-402d-8f5e-c2b84d4ddfc1",
+        "name": "Kiara",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "51982117-38cf-43af-a55f-db51a116f396",
+        "name": "Kiara Cole",
+        "appearance": "Kiara"
+      }
+    ]
+  }
+}

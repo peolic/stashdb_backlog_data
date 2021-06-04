@@ -1,0 +1,29 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1c2030fd-27bd-4916-8254-37701d32cd82",
+        "name": "Carli",
+        "appearance": null
+      },
+      {
+        "id": "a7669e73-ab8c-41ec-9e06-38f83791628b",
+        "name": "Jessie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "992714bc-55d8-4f4b-b00b-906b39c4d107",
+        "name": "Carli Banks",
+        "appearance": "Carli"
+      },
+      {
+        "id": null,
+        "name": "Jessie Jewels",
+        "appearance": "Jessie",
+        "status": "new"
+      }
+    ]
+  }
+}

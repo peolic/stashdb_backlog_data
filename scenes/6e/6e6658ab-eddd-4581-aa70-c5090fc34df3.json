@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3e1e29ba-2e06-4513-9e14-238ec566e86d",
+        "name": "Ember",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "16cc67c9-005c-471a-a084-93281b54636e",
+        "name": "Ember Snow",
+        "appearance": "Ember"
+      }
+    ]
+  }
+}

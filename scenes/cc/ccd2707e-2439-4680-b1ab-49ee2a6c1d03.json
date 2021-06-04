@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3507f84c-98de-4770-b899-b3dc2fcce8b9",
+        "name": "Alexa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cc264d29-3f4f-4a97-b475-42e9196fe1d6",
+        "name": "Alexa Jordan",
+        "appearance": "Alexa"
+      }
+    ]
+  }
+}

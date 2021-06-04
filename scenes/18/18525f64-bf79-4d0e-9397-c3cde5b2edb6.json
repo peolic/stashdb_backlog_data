@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d0db328d-3763-4b04-8f09-e78f4579fa5c",
+        "name": "Victoria & Mischa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "175830ea-7c02-460f-b86c-9ac8c4e7d633",
+        "name": "Victoria Rae Black",
+        "appearance": "Victoria"
+      },
+      {
+        "id": "a06e84f1-cff3-4305-bdc5-4c2de317dd99",
+        "name": "Mischa Brooks",
+        "appearance": "Mischa"
+      },
+      {
+        "id": "e5d73a14-1fff-4723-9286-10bc2f5d6d4f",
+        "name": "Alex Gonz",
+        "appearance": null
+      }
+    ]
+  }
+}

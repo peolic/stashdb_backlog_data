@@ -1,0 +1,24 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "506a32da-71c1-4be2-81d6-18b1c407bc3a",
+        "name": "Taylor",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Taylor Jones",
+        "appearance": "Taylor",
+        "status": "new"
+      },
+      {
+        "id": "d7dacf0c-04db-4082-b970-08de634051dd",
+        "name": "Kendall Brooks",
+        "appearance": null
+      }
+    ]
+  }
+}

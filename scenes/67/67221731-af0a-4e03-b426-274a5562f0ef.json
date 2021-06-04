@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "95bfe269-f585-4c92-8843-86f9402fdd06",
+        "name": "Alexia Anders",
+        "appearance": null
+      },
+      {
+        "id": "a1aaf2e9-5519-4dc8-a52c-8c364545c805",
+        "name": "J. Jay",
+        "appearance": "Jay"
+      }
+    ]
+  }
+}

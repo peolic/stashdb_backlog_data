@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8c297125-bbbc-4639-b188-b993782032ad",
+        "name": "Daisy Dahl",
+        "appearance": "Nikki"
+      },
+      {
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
+      }
+    ]
+  }
+}

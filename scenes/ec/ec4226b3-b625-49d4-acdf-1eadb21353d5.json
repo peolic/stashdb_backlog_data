@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1573b3ff-7134-440d-b247-9a41b17dd8d4",
+        "name": "Ike Diezel",
+        "appearance": null
+      }
+    ]
+  }
+}

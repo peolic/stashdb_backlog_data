@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f8bdb570-b3ad-45e8-9470-60451a99be8d",
+        "name": "Yurizan & Maggie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "75861399-7ac5-4ed8-b804-de506c741916",
+        "name": "Yurizan Beltran",
+        "appearance": "Yurizan"
+      },
+      {
+        "id": "d5d74c0a-df29-4914-9b7d-23d3d40508bf",
+        "name": "Maggie Green",
+        "appearance": "Maggie"
+      }
+    ]
+  }
+}

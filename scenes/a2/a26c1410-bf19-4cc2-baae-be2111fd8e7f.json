@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6388fcfe-b2ec-4eea-a971-1719ef4664dc",
+        "name": "Amy",
+        "appearance": null
+      },
+      {
+        "id": "1a8529e2-56a9-4c13-8006-1b7329f36388",
+        "name": "Roxi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ad70938c-3311-4c49-a09b-032eac7958ee",
+        "name": "Abella Anderson",
+        "appearance": null
+      },
+      {
+        "id": "2987bdcd-e3f2-4757-8d95-361cdb8fad90",
+        "name": "Briella Bounce",
+        "appearance": null
+      }
+    ]
+  }
+}

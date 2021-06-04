@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f075aebc-eee8-4f8f-9daf-c16a307b4aed",
+        "name": "Mackenzie Mace",
+        "appearance": null
+      }
+    ]
+  }
+}

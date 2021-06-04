@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8480fa9d-de39-4fcb-830e-9c1a453b5bf5",
+        "name": "Sally",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "847a19e7-c391-4e9e-836b-b77d6ba6afc3",
+        "name": "Marry Lynn",
+        "appearance": "Sally"
+      }
+    ]
+  }
+}

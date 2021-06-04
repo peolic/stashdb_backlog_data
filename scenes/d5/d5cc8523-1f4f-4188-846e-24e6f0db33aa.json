@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "4bb073a8-6410-48fe-af20-6917ae00f0b4",
+        "name": "Brooklyn Lee",
+        "appearance": null
+      }
+    ]
+  }
+}

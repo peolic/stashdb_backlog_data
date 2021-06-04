@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d5c9d56b-98be-4e5b-b0bb-3cd76ee83ee0",
+        "name": "Sunset Diamond",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "782fd292-10ac-4f94-8f7f-3331d57f1a01",
+        "name": "Tiffany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d9f340fc-1505-464e-bd75-bf876e40f39c",
+        "name": "Jewel Taylor",
+        "appearance": "Tiffany"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "731504f8-529f-4866-83d1-16b0d93e23fa",
+        "name": "Jordan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "64351d30-7b1a-46e5-95bb-fddc19cbdabe",
+        "name": "Jordan Carter",
+        "appearance": "Jordan"
+      }
+    ]
+  }
+}

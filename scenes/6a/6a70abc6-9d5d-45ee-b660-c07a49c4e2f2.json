@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "02360962-99d6-4eba-91a4-c1f6447d3ae2",
+        "name": "Emma Fantazy",
+        "appearance": "Emma Fantasy",
+        "old_appearance": "Emma Fantasy "
+      }
+    ]
+  },
+  "comments": [
+    "Fix performer merge with trailing space in name"
+  ]
+}

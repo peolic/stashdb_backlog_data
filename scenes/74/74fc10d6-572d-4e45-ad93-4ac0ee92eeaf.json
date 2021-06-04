@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "439a4846-dfa3-4b70-9c51-930ebf410205",
+        "name": "Will Tile",
+        "appearance": null
+      }
+    ]
+  }
+}

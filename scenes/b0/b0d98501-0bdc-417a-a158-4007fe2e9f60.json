@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1737aeee-b0b3-47f4-ac97-578425f8d33b",
+        "name": "Melrose & Sydne",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8012b146-08c8-48db-b9bc-e04b0a807e75",
+        "name": "Melrose Foxxx",
+        "appearance": "Melrose"
+      },
+      {
+        "id": "d491df58-ec8a-4d95-9459-62405ac5e442",
+        "name": "Sydnee Capri",
+        "appearance": "Sydne"
+      }
+    ]
+  }
+}

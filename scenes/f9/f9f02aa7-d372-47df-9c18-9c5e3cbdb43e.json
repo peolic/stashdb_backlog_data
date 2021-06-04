@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2a93cd41-276a-42b3-b6e3-7f4799e40c45",
+        "name": "Shay",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ef9c6467-de12-47cd-a883-a8dd973d3786",
+        "name": "Shay Lynn",
+        "appearance": "Shay"
+      }
+    ]
+  }
+}

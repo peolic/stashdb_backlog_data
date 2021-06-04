@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "713f8a92-cdef-4d8c-bdd1-0a13b1c0f77b",
+        "name": "Crista & Cayden",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1d1d7540-7f0e-41e9-a593-617a7a09e310",
+        "name": "Crista Moore",
+        "appearance": "Crista"
+      },
+      {
+        "id": "f506614a-d032-419f-b8e0-0ad0d6ab623d",
+        "name": "Cayden Moore",
+        "appearance": "Cayden"
+      }
+    ]
+  }
+}

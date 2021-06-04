@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7998b0e2-120a-4007-8a4c-ff0c4e0a2b08",
+        "name": "Nikky Dark",
+        "appearance": "Nikki"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c2ca1493-4c81-4241-a9c7-c47c7c05c971",
+        "name": "Jay",
+        "appearance": null
+      },
+      {
+        "id": "5a44d68a-6feb-4788-80e9-3101d5410cee",
+        "name": "Casey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f18b528a-9cb1-443a-920f-9cba9b4f82d8",
+        "name": "Jay Huntington",
+        "appearance": "Jay"
+      },
+      {
+        "id": "0799f3ae-5941-4fb6-a451-00c6bc458114",
+        "name": "Vanilla Skye",
+        "appearance": null
+      }
+    ]
+  }
+}

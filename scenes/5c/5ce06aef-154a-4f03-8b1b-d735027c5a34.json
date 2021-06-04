@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "8142a857-7875-4402-9832-598b70c11571",
+        "name": "Dylan Ryder",
+        "appearance": "Dylon",
+        "old_appearance": "Dylan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b8b201ab-67d4-42e8-8ae0-a8dea98c3a64",
+        "name": "Indica Flower",
+        "appearance": null
+      }
+    ]
+  }
+}

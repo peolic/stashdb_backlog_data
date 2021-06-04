@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "7000318d-d6b7-4ce7-956f-9c66332a5d4b",
+        "name": "Rachel Vs Mackenzee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cd3c6585-486d-43ac-af3a-8bb01c3ae979",
+        "name": "Rachel Milan",
+        "appearance": "Rachel"
+      },
+      {
+        "id": "bd4d53c6-8c1a-4d2d-a57c-586479a77643",
+        "name": "Mackenzee Pierce",
+        "appearance": "Mackenzee"
+      }
+    ]
+  }
+}

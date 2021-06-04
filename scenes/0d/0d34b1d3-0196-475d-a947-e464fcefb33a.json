@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "90a35656-0246-4d33-8030-4054f46f15c6",
+        "name": "Keisha & Olga",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8158ad45-849e-4f96-b38b-0fd5abcafc33",
+        "name": "Keisha Grey",
+        "appearance": "Keisha"
+      },
+      {
+        "id": "62f3d27b-25a1-46a1-b186-5033906023ca",
+        "name": "Olga Snow",
+        "appearance": "Olga"
+      },
+      {
+        "id": "1c093336-39af-43a8-a207-9a20b11b8b27",
+        "name": "Danny Mountain",
+        "appearance": null
+      }
+    ]
+  }
+}

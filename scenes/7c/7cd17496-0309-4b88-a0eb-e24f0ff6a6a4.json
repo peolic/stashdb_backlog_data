@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c2ca1493-4c81-4241-a9c7-c47c7c05c971",
+        "name": "Jay",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f18b528a-9cb1-443a-920f-9cba9b4f82d8",
+        "name": "Jay Huntington",
+        "appearance": "Jay"
+      },
+      {
+        "id": "e2891ffb-6d25-4620-80c1-0d097ff80fe5",
+        "name": "Chyanne Jacobs",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8e383769-80b9-4c0c-b1c6-3bab4c774f41",
+        "name": "Holly & Dani",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "903e8841-1c1f-4ca8-b638-e3c7375bdbf1",
+        "name": "Holly Michaels",
+        "appearance": null
+      },
+      {
+        "id": "ae64d8fb-67d6-4553-83ee-24b9d4d6db67",
+        "name": "Dani Daniels",
+        "appearance": null
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

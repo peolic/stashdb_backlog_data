@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ed2541c3-293e-4668-bd0d-ffa1fc942d5f",
+        "name": "Kimmy Kimm",
+        "appearance": null
+      }
+    ]
+  }
+}

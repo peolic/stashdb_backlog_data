@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "1b791d0d-7fa5-4e5e-91fb-61cd4c02ac08",
+        "name": "Alissa Ashley",
+        "appearance": "Alissa"
+      }
+    ]
+  }
+}

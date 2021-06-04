@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d62f3736-ecef-46fb-9a03-f66ece4a44ce",
+        "name": "Selina Bentz",
+        "appearance": null
+      }
+    ]
+  }
+}

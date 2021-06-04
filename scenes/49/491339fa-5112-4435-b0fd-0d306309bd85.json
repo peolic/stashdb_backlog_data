@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a5a61507-e86a-4c43-bfba-40beae726e08",
+        "name": "Skylar Vox",
+        "appearance": null
+      }
+    ]
+  }
+}

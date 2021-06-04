@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "37f86373-4723-4b48-9332-7c6613bcd358",
+        "name": "Lola",
+        "appearance": null
+      },
+      {
+        "id": "85f7102e-8662-4f13-b47a-713e46ec9e92",
+        "name": "Kylie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0b61317c-4dc3-4d57-9ede-272aea63d6ec",
+        "name": "Roxxxie Blakhart",
+        "appearance": "Lola"
+      },
+      {
+        "id": "c09e1781-ee86-414e-aeea-f616f05dacb0",
+        "name": "Kylie Kingston",
+        "appearance": "Kylie"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

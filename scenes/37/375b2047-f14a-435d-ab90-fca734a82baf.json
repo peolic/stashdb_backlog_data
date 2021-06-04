@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e543da41-5780-461c-81ec-2bd56dbe5d6a",
+        "name": "Kitty",
+        "appearance": null
+      },
+      {
+        "id": "4b698998-4a4d-413b-8977-3215a1c6407e",
+        "name": "Abby",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6259551c-6102-4794-9a33-677a704fd989",
+        "name": "Asya Kitty",
+        "appearance": "Kitty"
+      },
+      {
+        "id": "827c414d-de25-4975-87ff-d97d07c919a5",
+        "name": "Krystal Boyd",
+        "appearance": "Abby"
+      }
+    ]
+  }
+}

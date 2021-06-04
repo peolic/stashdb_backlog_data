@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ded1973e-daae-45f3-aff1-2085fb567b63",
+        "name": "Marlena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Marlena",
+        "appearance": "Marlena",
+        "disambiguation": "2004-13",
+        "status": "new"
+      }
+    ]
+  }
+}

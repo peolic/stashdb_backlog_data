@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b488272-063c-498c-979d-d292d5bac771",
+        "name": "Ariana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c5ade542-c41b-48d1-a67e-50a8321b57a6",
+        "name": "Ariana Jollee",
+        "appearance": "Ariana"
+      }
+    ]
+  }
+}

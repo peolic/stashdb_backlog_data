@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c2ca1493-4c81-4241-a9c7-c47c7c05c971",
+        "name": "Jay",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dd6ed86a-2732-4557-bd6a-33e604842f4e",
+        "name": "Jay Crew",
+        "appearance": "Jay"
+      }
+    ]
+  }
+}

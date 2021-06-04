@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d21ec907-afae-414c-bc5b-bd9e7ea1d33c",
+        "name": "Jennifer & Melanie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "426c641a-cf21-4493-a150-5e5105442349",
+        "name": "Jennifer White",
+        "appearance": "Jennifer"
+      },
+      {
+        "id": "f72b21ed-5eee-4a3b-b81b-f6a523fbf3e5",
+        "name": "Melanie Rios",
+        "appearance": "Melanie"
+      }
+    ]
+  }
+}

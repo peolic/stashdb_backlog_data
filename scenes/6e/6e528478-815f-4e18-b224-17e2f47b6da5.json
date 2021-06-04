@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d7c0b4f9-0252-4709-a429-3147350f5c00",
+        "name": "Hazel Moore",
+        "appearance": "Ellie"
+      },
+      {
+        "id": "42fca47b-606b-4adb-ad77-0df7bf9ad4e5",
+        "name": "Mitt Aziani",
+        "appearance": "Cam"
+      }
+    ]
+  }
+}

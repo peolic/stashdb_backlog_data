@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a67fd95d-b893-4f45-adb0-f8288a12f471",
+        "name": "Lexy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a9f39ed1-c02c-4426-8ba6-d5ea1bbafd4d",
+        "name": "Lexie Love",
+        "appearance": "Lexy"
+      }
+    ]
+  }
+}

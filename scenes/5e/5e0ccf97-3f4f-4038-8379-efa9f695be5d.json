@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "484bc068-a7e2-473d-b212-1bfe07fc3a59",
+        "name": "Remi Jones",
+        "appearance": null
+      },
+      {
+        "id": "84e7e9c3-a5d1-4984-9a8e-94d269af9650",
+        "name": "Tyler Steel",
+        "appearance": null
+      }
+    ]
+  }
+}

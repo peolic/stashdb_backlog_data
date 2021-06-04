@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8437af7b-01e3-448a-b06d-67b3a88be8a7",
+        "name": "Satin Lace & De Collecter",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "6393f2b9-5527-4b3c-bef7-5d9f5a320854",
+        "name": "Mz. Satin Lace",
+        "appearance": "Satin Lace"
+      },
+      {
+        "id": null,
+        "name": "DeCollector",
+        "appearance": "De Collecter",
+        "status": "new"
+      }
+    ]
+  }
+}

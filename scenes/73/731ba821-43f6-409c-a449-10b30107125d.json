@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f35ed6a2-8113-4639-9e5a-9b952051b78b",
+        "name": "Angel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6fded068-2a4b-4ab1-9365-5b4251c4371d",
+        "name": "White Angel",
+        "appearance": "Angel"
+      }
+    ]
+  }
+}

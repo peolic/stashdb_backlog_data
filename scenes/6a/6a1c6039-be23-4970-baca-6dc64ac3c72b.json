@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b5f0026e-d741-4791-a7b1-85962fd3c4de",
+        "name": "Nevaeh",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Nevaeh ?",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

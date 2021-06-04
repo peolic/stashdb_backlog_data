@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e96ab5c5-4718-4fb9-aa67-ae77791909b1",
+        "name": "Sydnee & Breilla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d491df58-ec8a-4d95-9459-62405ac5e442",
+        "name": "Sydnee Capri",
+        "appearance": "Sydnee"
+      },
+      {
+        "id": "2987bdcd-e3f2-4757-8d95-361cdb8fad90",
+        "name": "Briella Bounce",
+        "appearance": "Briella"
+      }
+    ]
+  }
+}

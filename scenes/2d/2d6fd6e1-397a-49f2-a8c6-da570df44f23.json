@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "38ac38bb-7da9-428d-a697-ed58808dca53",
+        "name": "Honey Blossom",
+        "appearance": null
+      }
+    ]
+  }
+}

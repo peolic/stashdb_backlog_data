@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "76c9bd1b-c141-4713-bc97-014f806a7dd1",
+        "name": "Destiny Love",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a8be04d8-9af0-46ba-beb7-6257d0949046",
+        "name": "Destiny Lovee",
+        "appearance": "Destiny Love"
+      }
+    ]
+  }
+}

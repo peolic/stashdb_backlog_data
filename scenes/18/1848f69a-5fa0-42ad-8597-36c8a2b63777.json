@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

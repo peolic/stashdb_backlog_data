@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c8d82deb-10fb-4def-9560-0980aec07262",
+        "name": "Nella Jones",
+        "appearance": null
+      }
+    ]
+  }
+}

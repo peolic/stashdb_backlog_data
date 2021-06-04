@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d29954cc-86d3-4029-9bf8-38e44ea4de81",
+        "name": "Kinsley Karter",
+        "appearance": null
+      }
+    ]
+  }
+}

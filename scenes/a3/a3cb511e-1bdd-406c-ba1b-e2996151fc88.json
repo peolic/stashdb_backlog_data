@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b3e22a25-3a44-43ab-99cc-4d296592a6a7",
+        "name": "Alex Coal",
+        "appearance": null
+      }
+    ]
+  }
+}

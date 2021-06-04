@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "45ec2636-c80c-4a4c-9a21-8f73c53ce903",
+        "name": "Summer",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Summer Smith",
+        "appearance": "Summer",
+        "status": "new"
+      }
+    ]
+  }
+}

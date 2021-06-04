@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "19e35941-d09f-485f-b73c-e6394acef9f8",
+        "name": "Alex",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d5c0b99e-bf60-4092-b9bf-abf1838c8c1a",
+        "name": "Alix Lovell",
+        "appearance": "Alex"
+      }
+    ]
+  }
+}

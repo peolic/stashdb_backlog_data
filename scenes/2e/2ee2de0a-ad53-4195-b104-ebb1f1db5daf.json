@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "26e6cb65-55f2-4d92-b21b-28c52da6d700",
+        "name": "Madelyn & Chole",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "426bb928-6cd9-4127-9997-95b059d20731",
+        "name": "Madelyn Monroe",
+        "appearance": "Madelyn"
+      },
+      {
+        "id": "0f470fd1-bfff-415c-bd91-77be492142f8",
+        "name": "Chloe Starr",
+        "appearance": "Chloe"
+      },
+      {
+        "id": "7d564c9b-93ff-49f5-aceb-607b878e0057",
+        "name": "Bruce Venture",
+        "appearance": null
+      }
+    ]
+  }
+}

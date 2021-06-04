@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "332d6357-c0b4-4371-833a-a3a5569cc026",
+        "name": "Alice King",
+        "appearance": "Alice"
+      }
+    ]
+  }
+}

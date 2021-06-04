@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "bc186907-a256-41b3-8914-c77acec54cac",
+        "name": "Aria Kai",
+        "appearance": null
+      }
+    ]
+  }
+}

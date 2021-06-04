@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "678c4b52-c034-40a8-b61b-5485e471b7e6",
+        "name": "Callie Jacobs",
+        "appearance": null
+      }
+    ]
+  }
+}

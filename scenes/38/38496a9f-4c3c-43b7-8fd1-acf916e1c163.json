@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8bd26baa-4a75-4f8a-b44e-06cd27922037",
+        "name": "Khloe",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "38496a9f-4c3c-43b7-8fd1-acf916e1c163",
+        "name": "Khloe Monroe",
+        "appearance": "Khloe"
+      }
+    ]
+  }
+}

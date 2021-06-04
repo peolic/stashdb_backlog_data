@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "deac7173-45c8-42d2-9dbb-a6fbe7c0ec72",
+        "name": "Teagan & Ivy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3522f7f6-25db-48c0-a2bf-cec30af225dc",
+        "name": "Teagan Summers",
+        "appearance": "Teagan"
+      },
+      {
+        "id": "9af8957a-9a7c-4bd0-814b-8a4ba0affde0",
+        "name": "Ivy Winters",
+        "appearance": "Ivy"
+      }
+    ]
+  }
+}

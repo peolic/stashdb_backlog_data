@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "3e1af2d3-6675-4841-a117-b110f08e68d9",
+        "name": "Ashley Red",
+        "appearance": null
+      }
+    ]
+  }
+}

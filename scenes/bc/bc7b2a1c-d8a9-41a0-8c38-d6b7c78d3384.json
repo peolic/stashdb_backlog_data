@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "620b50cc-5b70-4a3f-b38c-01a35ab67bb8",
+        "name": "Dylan Vs Sierra",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8142a857-7875-4402-9832-598b70c11571",
+        "name": "Dylan Ryder",
+        "appearance": "Dylan"
+      },
+      {
+        "id": "91ba09cb-0bf4-4dfc-8906-a465b2519ba1",
+        "name": "Sierra Snow",
+        "appearance": "Sierra"
+      }
+    ]
+  }
+}

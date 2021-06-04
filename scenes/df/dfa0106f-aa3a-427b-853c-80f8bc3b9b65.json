@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Chanel Summers",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

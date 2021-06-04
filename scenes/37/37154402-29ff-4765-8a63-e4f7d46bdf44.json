@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "bd464bc8-a92a-4715-85a5-bc90b1c3cb6d",
+        "name": "Bobby Beefcake",
+        "appearance": "Bobby Beefcakes"
+      }
+    ]
+  }
+}

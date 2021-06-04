@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f234c37e-4517-4812-88d8-7a3b8e823dd0",
+        "name": "Lilly & Sami",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "476383bb-821b-42cc-957a-40c8135cc5f8",
+        "name": "Rainia Belle",
+        "appearance": "Lilly"
+      },
+      {
+        "id": "3ecf425f-d026-4b60-a4f4-65afde30b78d",
+        "name": "Sami St Clair",
+        "appearance": "Sami"
+      },
+      {
+        "id": "1c093336-39af-43a8-a207-9a20b11b8b27",
+        "name": "Danny Mountain",
+        "appearance": null
+      }
+    ]
+  }
+}

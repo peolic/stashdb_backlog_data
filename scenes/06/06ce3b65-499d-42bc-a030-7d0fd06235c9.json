@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "58265cf0-d6e5-41f9-8cb2-b5143d298473",
+        "name": "Payton Preslee",
+        "appearance": null
+      }
+    ]
+  }
+}

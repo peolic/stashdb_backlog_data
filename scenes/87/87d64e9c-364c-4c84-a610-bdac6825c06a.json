@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5bf938f5-9663-4487-ad96-199c4c2eff15",
+        "name": "Nataly & Chrystal",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ce2acfc2-875c-47a8-a267-e8299a047c99",
+        "name": "Nataly Rosa",
+        "appearance": "Nataly"
+      },
+      {
+        "id": "8d356f2e-81fc-4395-9c70-845f8186bf68",
+        "name": "Crystal Heart",
+        "appearance": "Chrystal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "7d70bf09-cc86-4f16-b33e-06785f1e9279",
+        "name": "Isiah Maxwell",
+        "appearance": "Isiah"
+      }
+    ]
+  }
+}

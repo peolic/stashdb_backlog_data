@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "dc826c81-5b4f-477f-a70b-74fadfb4b168",
+        "name": "Sarah & Indianna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b99a587a-1e63-409b-8c10-730088389364",
+        "name": "Sara Jay",
+        "appearance": "Sarah"
+      },
+      {
+        "id": "9233c7d9-81e8-4aa7-ba06-7d557080ee9c",
+        "name": "Indianna Jaymes",
+        "appearance": null
+      },
+      {
+        "id": "8a8d1b88-9925-4708-bc57-3dc7072ac7fc",
+        "name": "Derrick Pierce",
+        "appearance": null
+      }
+    ]
+  }
+}

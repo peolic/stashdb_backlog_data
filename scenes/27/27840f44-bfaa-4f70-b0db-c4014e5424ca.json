@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "23d6029c-5c15-4909-be71-d15719eb1a3d",
+        "name": "Jake Adams",
+        "appearance": null
+      }
+    ]
+  }
+}

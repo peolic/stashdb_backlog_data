@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0d7ef643-7c1d-4d96-9b6e-fa9ddea4d282",
+        "name": "Brooke & Jessie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4db7b53f-7e29-4a49-aade-f12cd685e4c1",
+        "name": "Brooke Van Buuren",
+        "appearance": "Brooke"
+      },
+      {
+        "id": "b830c784-8f56-4768-8812-05023534e044",
+        "name": "Jessie Andrews",
+        "appearance": "Jessie"
+      },
+      {
+        "id": "46d5f82f-8ce6-424c-9552-4284b4edd922",
+        "name": "Bill Bailey",
+        "appearance": null
+      }
+    ]
+  }
+}

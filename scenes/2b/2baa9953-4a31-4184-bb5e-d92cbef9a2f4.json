@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "92536c1f-38e4-42ab-b9cb-29d58044f51b",
+        "name": "Melissa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c2c1a5ea-9540-429c-89b7-7d29d7ea5ac5",
+        "name": "Emori Pleezer",
+        "appearance": "Melissa"
+      }
+    ]
+  }
+}

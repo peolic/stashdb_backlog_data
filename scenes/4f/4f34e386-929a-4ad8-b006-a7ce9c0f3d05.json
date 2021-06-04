@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d0834baf-b30f-439f-9f1f-f9cd52e7656b",
+        "name": "Melissa & Janelle",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7153b307-2af7-4389-972a-b6420a46835a",
+        "name": "Melissa Martinez",
+        "appearance": null
+      },
+      {
+        "id": "207bcae3-7e5e-4f56-a80a-f37638967e4b",
+        "name": "Janelle Medina",
+        "appearance": "Janelle"
+      },
+      {
+        "id": "760e69e1-c28f-4ca0-8d1c-f6cfe595d98c",
+        "name": "Jean Claude Batiste",
+        "appearance": null
+      },
+      {
+        "id": "a1803551-8bd0-4fb5-9ed2-04bd496423cd",
+        "name": "Michael Stefano",
+        "appearance": null
+      }
+    ]
+  }
+}

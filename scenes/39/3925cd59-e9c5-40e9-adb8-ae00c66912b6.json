@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "7903577f-8b03-47d4-abde-8bcf8a656468",
+        "name": "Elena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "56a47d56-e308-439b-bf35-7f1a684cc6cd",
+        "name": "Elena Rivera",
+        "appearance": "Elena"
+      }
+    ]
+  }
+}

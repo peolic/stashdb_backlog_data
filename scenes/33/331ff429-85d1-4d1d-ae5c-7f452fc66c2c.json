@@ -1,0 +1,31 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "19e35941-d09f-485f-b73c-e6394acef9f8",
+        "name": "Alex",
+        "appearance": null
+      },
+      {
+        "id": "8b7f9a6a-b3c3-4c43-bd0c-bdd6cb25b1dd",
+        "name": "Ariel B",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e8b0b0b3-0afb-449c-a49c-bf196b2baec8",
+        "name": "Alex Sanders",
+        "appearance": "Alex"
+      },
+      {
+        "id": "803f77a6-9edf-4d34-9910-71e52ae59a81",
+        "name": "Arial Rose",
+        "appearance": "Ariel B"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=asian+contemporary/year=2011/asian-contemporary.htm"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "3ea3c3b1-101b-42e3-9c02-2b770b7553c5",
+        "name": "London Rose",
+        "appearance": null
+      }
+    ]
+  }
+}

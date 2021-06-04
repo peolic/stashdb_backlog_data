@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b488272-063c-498c-979d-d292d5bac771",
+        "name": "Ariana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b59e1a15-9456-4870-ad78-a8ca8be861d4",
+        "name": "Bambina",
+        "appearance": "Ariana"
+      }
+    ]
+  }
+}

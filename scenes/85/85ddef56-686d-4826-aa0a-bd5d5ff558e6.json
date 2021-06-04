@@ -1,0 +1,15 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "931e3038-ccb3-4d11-896e-611e852718ec",
+        "name": "Avy Scott",
+        "appearance": "Avy"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=avy/year=2004/avy.htm"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "234d244b-b770-41a0-96ea-038cc2fa2065",
+        "name": "Blake Blossom",
+        "appearance": null
+      }
+    ]
+  }
+}

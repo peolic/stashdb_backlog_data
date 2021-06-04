@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c2941d7b-96a8-427f-9aec-cc66d579ff41",
+        "name": "Leanna Lass",
+        "appearance": "Eva"
+      }
+    ]
+  }
+}

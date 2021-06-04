@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1ddcaca6-535f-43f5-a26f-b1c45f2a75d9",
+        "name": "Kate",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7100b52e-868a-4349-be00-e762fba6dad0",
+        "name": "Maddy Haze",
+        "appearance": "Kate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
+        "name": "Amber",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Amber Lee",
+        "appearance": null,
+        "disambiguation": "2005-06",
+        "status": "new"
+      }
+    ]
+  }
+}

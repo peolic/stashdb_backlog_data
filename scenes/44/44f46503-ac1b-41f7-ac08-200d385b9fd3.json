@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "381ed935-40ad-4145-8519-27cdd5a1a528",
+        "name": "Morgan Lee",
+        "appearance": null
+      }
+    ]
+  }
+}

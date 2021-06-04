@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ff83a6e8-08ac-415a-a46a-27db3f05c03d",
+        "name": "Destiny St. Claire",
+        "appearance": "Erica"
+      }
+    ]
+  }
+}

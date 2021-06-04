@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "de2d72d7-5512-4a8a-92fa-e8259ba43537",
+        "name": "Allison Moore",
+        "appearance": null
+      },
+      {
+        "id": "9ffc8103-1874-4452-b4fb-f03df8764ec3",
+        "name": "Mila Beth",
+        "appearance": null
+      }
+    ]
+  }
+}

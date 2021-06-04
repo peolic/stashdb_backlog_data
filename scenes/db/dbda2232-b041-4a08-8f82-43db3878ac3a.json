@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "237ce928-dcdc-4f13-bc55-6490b804252c",
+        "name": "Fallon",
+        "appearance": null
+      },
+      {
+        "id": "237ce928-dcdc-4f13-bc55-6490b804252c",
+        "name": "Bella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b0547e33-9e5e-470f-95eb-4fef333dd103",
+        "name": "Fallon Sommers",
+        "appearance": "Fallon"
+      },
+      {
+        "id": "ecddbbe4-6458-4a18-970e-0d53f0074b87",
+        "name": "Bella Starr",
+        "appearance": "Bella"
+      }
+    ]
+  }
+}

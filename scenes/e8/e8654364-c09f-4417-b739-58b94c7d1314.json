@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "de926cd1-1bab-4c7b-b283-24de45433ed2",
+        "name": "Nikki Venom",
+        "appearance": "Nikki"
+      },
+      {
+        "id": "a1aaf2e9-5519-4dc8-a52c-8c364545c805",
+        "name": "J. Jay",
+        "appearance": "JJay"
+      }
+    ]
+  }
+}

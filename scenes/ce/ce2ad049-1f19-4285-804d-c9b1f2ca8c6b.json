@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "05061921-8ce5-4a76-9891-bd75275c0df6",
+        "name": "Sensious & Gemini",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "a37ce2fc-a5f0-486a-ad38-2d6b06321018",
+        "name": "Sensious",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Monai Maebach",
+        "appearance": "Gemini",
+        "status": "new"
+      }
+    ]
+  }
+}

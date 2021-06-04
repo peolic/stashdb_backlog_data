@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5e7cff44-7656-434a-bee2-2ce3e0f1630d",
+        "name": "Aria",
+        "appearance": null
+      },
+      {
+        "id": "7877efc3-46bb-4dbf-9f58-4a68366dcdef",
+        "name": "Gemma",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fe2a3c9c-2e61-4484-9eaf-eca423917f6a",
+        "name": "Aria Lee",
+        "appearance": "Aria"
+      },
+      {
+        "id": "8ecb3b82-b7db-4110-9f35-c4015aa56ade",
+        "name": "Gemma Parker",
+        "appearance": "Gemma"
+      }
+    ]
+  }
+}

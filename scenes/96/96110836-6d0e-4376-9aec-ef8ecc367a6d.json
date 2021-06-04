@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "28131578-27e2-43f4-b0d4-78d226501add",
+        "name": "Jasmine Vega",
+        "appearance": null
+      },
+      {
+        "id": "82d4cbaf-cb0b-4ad7-b5d7-d8dbbbb43e97",
+        "name": "Levi Cash",
+        "appearance": null
+      }
+    ]
+  }
+}

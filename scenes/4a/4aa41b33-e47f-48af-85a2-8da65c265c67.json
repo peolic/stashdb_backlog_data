@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c8bf1c09-0165-451b-9ea7-fb2d3a82549a",
+        "name": "Kylie Rocket",
+        "appearance": null
+      }
+    ]
+  }
+}

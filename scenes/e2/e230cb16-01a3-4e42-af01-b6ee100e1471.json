@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "6f6d2bd0-bc81-415b-a992-350f3473316b",
+        "name": "Sarah Kay",
+        "appearance": null,
+        "old_appearance": "Sarah Kay"
+      }
+    ]
+  },
+  "comments": [
+    "Remove duped alias"
+  ]
+}

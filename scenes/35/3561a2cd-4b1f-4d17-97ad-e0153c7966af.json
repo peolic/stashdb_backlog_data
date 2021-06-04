@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f2020e09-af84-4c41-84cd-24de67cebce7",
+        "name": "Lexi & Tia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "56f55252-3f3f-4460-b5fd-7628a05500bd",
+        "name": "Lexi Diamond",
+        "appearance": "Lexi"
+      },
+      {
+        "id": "5d51b804-7572-49dc-9ae9-841cd7eee881",
+        "name": "Tia Cyrus",
+        "appearance": "Tia"
+      }
+    ]
+  }
+}

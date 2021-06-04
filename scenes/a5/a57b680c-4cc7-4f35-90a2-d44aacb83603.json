@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "c05edf33-5031-4f2b-8a92-2a17a8c4b55b",
+        "name": "Sara Luvv",
+        "appearance": null,
+        "old_appearance": "Sara Luvv"
+      }
+    ]
+  },
+  "comments": [
+    "Remove duped alias"
+  ]
+}

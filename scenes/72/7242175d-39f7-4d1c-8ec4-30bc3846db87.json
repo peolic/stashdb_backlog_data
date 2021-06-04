@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "afa1013c-d8f4-4e13-987d-7d74b54f13de",
+        "name": "Vanessa & Mckenzie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1cfc6a51-bd3c-409e-bedd-0a4bc2f17d88",
+        "name": "Vanessa Naughty",
+        "appearance": null
+      },
+      {
+        "id": "663637d0-ca6e-41a0-892d-72a5ce01a568",
+        "name": "Mckenzee Miles",
+        "appearance": "Mckenzie Miles"
+      }
+    ]
+  }
+}

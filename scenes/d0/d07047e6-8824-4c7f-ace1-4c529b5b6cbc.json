@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "54691947-dd55-402b-a0f2-35c545e0ce1e",
+        "name": "Rachel Vs Jayda",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "154d158a-5c63-43c1-aa16-9c27d6776d7a",
+        "name": "Rachel Solari",
+        "appearance": "Rachel"
+      },
+      {
+        "id": "0bf68bf1-49b3-48c0-b583-0e7e2476910f",
+        "name": "Jada Stevens",
+        "appearance": "Jayda"
+      }
+    ]
+  }
+}

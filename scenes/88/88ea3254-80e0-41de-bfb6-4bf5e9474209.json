@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "035798f8-574e-4a34-8131-60db8e010955",
+        "name": "Katrina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9c70dd62-b1cd-4396-a71f-baec59aea70e",
+        "name": "Zoe Bloom",
+        "appearance": "Katrina"
+      }
+    ]
+  }
+}

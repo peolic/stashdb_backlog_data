@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "55776873-c861-44f8-b8a3-f89e2eb00e96",
+        "name": "Lily & Lacy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bf49c948-e528-4814-9b5b-40d6512dd61f",
+        "name": "Lily Thai",
+        "appearance": "Lily"
+      },
+      {
+        "id": "315487e2-5294-43e6-adf8-885eaed1ecf5",
+        "name": "Lacey Tom",
+        "appearance": "Lacy"
+      }
+    ]
+  }
+}

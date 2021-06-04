@@ -1,0 +1,29 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4b469800-47bc-40b6-a5bc-daa8422663b5",
+        "name": "Selena",
+        "appearance": null
+      },
+      {
+        "id": "6ca066a8-3199-4f60-8527-2b3d32860b56",
+        "name": "Tia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c9c60957-ed78-4415-8861-f8a53771534b",
+        "name": "Selena",
+        "appearance": null,
+        "disambiguation": "2005-06, Reality Kings"
+      },
+      {
+        "id": "7b3bf39b-096c-4a22-a04c-90451d34070f",
+        "name": "Tia Ling",
+        "appearance": "Tia"
+      }
+    ]
+  }
+}

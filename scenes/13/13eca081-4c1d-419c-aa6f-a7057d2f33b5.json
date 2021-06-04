@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "87e594dc-d89a-4075-aa0d-5713596023f3",
+        "name": "Nadia Synn",
+        "appearance": "Nikki"
+      }
+    ]
+  }
+}

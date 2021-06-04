@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9f639f34-f474-4348-be58-17ac64d3673e",
+        "name": "Holly & Lizz",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "903e8841-1c1f-4ca8-b638-e3c7375bdbf1",
+        "name": "Holly Michaels",
+        "appearance": null
+      },
+      {
+        "id": "0fb5143e-3135-4129-a0e0-5fb4d849db2b",
+        "name": "Lizz Tayler",
+        "appearance": "Lizz Taylor"
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

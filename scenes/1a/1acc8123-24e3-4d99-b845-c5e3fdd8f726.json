@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "24183640-61fc-4bd5-a6e3-719087a19e37",
+        "name": "Chelsea Vs Layla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9e4a5216-cb01-4709-987b-6cc11b8ee3e2",
+        "name": "Chelsea Lebrock",
+        "appearance": "Chelsea"
+      },
+      {
+        "id": "93fc1595-bd3c-4069-b617-c61e8b7917c3",
+        "name": "Layla Rivera",
+        "appearance": "Layla"
+      }
+    ]
+  }
+}

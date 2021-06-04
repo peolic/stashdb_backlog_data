@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "293aea93-35f1-4966-9177-de09e6deb809",
+        "name": "Jaime",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7b94fbd2-0121-45ee-8aa2-03c03a7ba502",
+        "name": "Tiffany Kohl",
+        "appearance": "Jaime"
+      }
+    ]
+  }
+}

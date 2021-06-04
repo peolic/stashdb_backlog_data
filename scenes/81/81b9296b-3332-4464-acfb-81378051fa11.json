@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "62215f51-626f-4ec5-9067-99aec969b24f",
+        "name": "Kali Roses",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": null,
+        "name": "Kaitlyn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kaitlyn",
+        "appearance": null,
+        "disambiguation": "2005-06, MILF Next Door",
+        "status": "new"
+      }
+    ]
+  }
+}

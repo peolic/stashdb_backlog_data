@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ed9ca096-ba5e-4953-b6ec-7159de1b75d4",
+        "name": "Gia & Khole",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "2b10833c-da4a-4b14-87ab-5770c9de1ece",
+        "name": "Gia Steel",
+        "appearance": "Gia"
+      },
+      {
+        "id": "a5809a3c-d122-42e0-a2b5-de960f45aad5",
+        "name": "Khloe Kush",
+        "appearance": "Khloe"
+      },
+      {
+        "id": "cd3475fa-3b73-44ec-9014-8a659f23d934",
+        "name": "Chris Strokes",
+        "appearance": null
+      }
+    ]
+  }
+}

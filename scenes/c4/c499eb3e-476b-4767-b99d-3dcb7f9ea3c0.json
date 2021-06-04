@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f86b6b52-8c13-4bc1-b396-fcb612f8b1f4",
+        "name": "Maserati & Jessica Grabbit",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "71552bc4-c993-4880-97e9-f85d1647a5c1",
+        "name": "Maserati XXX",
+        "appearance": "Maserati"
+      },
+      {
+        "id": "7df82901-2ebd-4329-ad13-ea075f0b9340",
+        "name": "Jessica Grabbit",
+        "appearance": null
+      }
+    ]
+  }
+}

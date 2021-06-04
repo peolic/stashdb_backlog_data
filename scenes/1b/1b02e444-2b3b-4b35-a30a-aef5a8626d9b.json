@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6bcebef5-b3c6-4c7a-ac16-533ec4a8c3bd",
+        "name": "Stefany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e664b9f8-7fe0-4d2c-9c56-0bbecedd6e4e",
+        "name": "Stefanie Moon",
+        "appearance": "Stefany"
+      }
+    ]
+  }
+}

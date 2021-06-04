@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b812a4d2-c13c-4e85-90eb-1a23616af271",
+        "name": "Jenna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f35fd383-22e1-4b27-9467-5d9b79003809",
+        "name": "Alice Nysm",
+        "appearance": "Jenna"
+      }
+    ]
+  }
+}

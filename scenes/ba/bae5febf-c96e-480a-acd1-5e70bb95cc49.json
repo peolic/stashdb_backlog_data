@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "66eeb8f2-264a-430f-bda1-b20be7de728d",
+        "name": "Matt Sloan",
+        "appearance": null
+      }
+    ]
+  }
+}

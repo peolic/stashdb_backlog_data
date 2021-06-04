@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0c23c24b-f7d2-49bd-b8aa-281ea023c410",
+        "name": "Alina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "08b34cad-363c-4b5d-944b-b1295806e3a0",
+        "name": "Roxy Taggart",
+        "appearance": "Alina"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.indexxx.com/m/roxy-taggart"
+  ]
+}

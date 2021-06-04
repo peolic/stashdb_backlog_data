@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "05604f5c-ed9d-48d0-99f1-827c19495709",
+        "name": "Nadia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "59fcb3ca-e411-49ff-aaa1-6dbaa84723da",
+        "name": "Nadia Styles",
+        "appearance": "Nadia"
+      }
+    ]
+  }
+}

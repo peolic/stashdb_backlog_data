@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b488272-063c-498c-979d-d292d5bac771",
+        "name": "Ariana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Ariana",
+        "appearance": null,
+        "disambiguation": "latin, 2003-04",
+        "status": "new"
+      }
+    ]
+  }
+}

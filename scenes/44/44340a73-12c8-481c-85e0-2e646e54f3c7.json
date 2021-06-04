@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5b17689c-fee5-41d0-8538-4adab6665740",
+        "name": "Gracie & Ally",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ce4e3c05-37d4-40f7-9fa3-708019ca3e52",
+        "name": "Gracie Glam",
+        "appearance": null
+      },
+      {
+        "id": "4b107de5-c55e-44ac-8faf-e24116f99dd3",
+        "name": "Ally Kay",
+        "appearance": null
+      }
+    ]
+  }
+}

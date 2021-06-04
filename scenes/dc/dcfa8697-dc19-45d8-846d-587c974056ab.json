@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b25cca93-0915-402d-aee2-f786fd286c2a",
+        "name": "Mia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "03df08df-91a8-465d-8707-33134af6fb81",
+        "name": "Milu Blaze",
+        "appearance": "Mia"
+      }
+    ]
+  }
+}

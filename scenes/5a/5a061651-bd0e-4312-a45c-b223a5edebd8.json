@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "43d38baf-2d41-4f2d-be1c-ad90faa10248",
+        "name": "Tiffani DiGivanni",
+        "appearance": "Tiffany"
+      }
+    ]
+  }
+}

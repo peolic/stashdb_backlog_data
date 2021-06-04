@@ -1,0 +1,24 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "490b7831-8b08-4c8b-b4f1-686936e578bf",
+        "name": "Lucy & Lani",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "42440d0a-d1c7-47e1-bbbd-b9ff61492519",
+        "name": "Lucy Lee",
+        "appearance": "Lucy",
+        "disambiguation": "USA"
+      },
+      {
+        "id": "57d43a6b-bd5b-4ffd-9e99-ede555f86417",
+        "name": "Lani Lei",
+        "appearance": "Lani"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b9fb2a9a-0f55-46ed-a893-0bf9cd98bf8a",
+        "name": "Ashlyn",
+        "appearance": null,
+        "status": "merge"
+      }
+    ],
+    "append": [
+      {
+        "id": "a2642d22-5f2b-4fe4-8902-01e8a45fc837",
+        "name": "Cherry Hilson",
+        "appearance": "Ashlyn"
+      }
+    ]
+  }
+}

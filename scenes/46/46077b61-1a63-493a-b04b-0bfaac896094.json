@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "66db8f1d-d933-4020-90d8-ba8a0df8d908",
+        "name": "Amanda",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1f05590c-6043-4d6e-a749-437ed3a028ab",
+        "name": "Madison James",
+        "appearance": "Amanda"
+      },
+      {
+        "id": "59fcb3ca-e411-49ff-aaa1-6dbaa84723da",
+        "name": "Nadia Styles",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "264f9759-0bd6-42fe-ac35-db18fdb7d329",
+        "name": "Domino",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "aa70fd7d-4d8a-41ba-9f72-6f3d0812f948",
+        "name": "Dominno",
+        "appearance": "Domino"
+      }
+    ]
+  }
+}

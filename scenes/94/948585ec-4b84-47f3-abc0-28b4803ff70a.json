@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a4d5c53c-2938-41b3-8a48-6799d0e6255e",
+        "name": "Baby & Kelly",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "eb62c793-0fef-4897-99b4-24581f8e0766",
+        "name": "Baby Cakes",
+        "appearance": null
+      },
+      {
+        "id": "0ed4165b-280f-40dc-a8e3-983f2699ea96",
+        "name": "Kelly Starr",
+        "appearance": null
+      }
+    ]
+  }
+}

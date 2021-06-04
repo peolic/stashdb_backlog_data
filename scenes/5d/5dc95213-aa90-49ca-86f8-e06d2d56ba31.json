@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0636ef56-0583-4030-bd9e-b4288194f9cc",
+        "name": "Porche & Aryana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c03cd85d-0cff-45fa-b696-05ab574b86b4",
+        "name": "Porsha Carrera",
+        "appearance": "Porche"
+      },
+      {
+        "id": "a6364ee4-d5c5-4858-9611-1e15777646f8",
+        "name": "Aryana Adin",
+        "appearance": "Aryana"
+      }
+    ]
+  }
+}

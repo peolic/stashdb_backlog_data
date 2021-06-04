@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "cb73f5f5-257f-4a0f-83c3-a0ae59af4f16",
+        "name": "Brixley Benz",
+        "appearance": "Annette Benz"
+      }
+    ]
+  }
+}

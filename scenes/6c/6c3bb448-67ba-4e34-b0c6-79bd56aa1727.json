@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f229b801-69b3-499d-8771-71a3788b1ff1",
+        "name": "Ava Sinclaire",
+        "appearance": null
+      }
+    ]
+  }
+}

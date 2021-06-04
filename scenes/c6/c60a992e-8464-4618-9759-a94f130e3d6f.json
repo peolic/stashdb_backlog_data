@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0dd4fb56-cd22-4327-ba6e-d47b77509646",
+        "name": "Lilly Lit",
+        "appearance": null
+      }
+    ]
+  }
+}

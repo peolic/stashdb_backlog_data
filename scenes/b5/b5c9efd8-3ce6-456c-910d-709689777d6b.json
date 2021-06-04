@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "35b7781f-361d-42f4-a01e-be2ecb4c7e1e",
+        "name": "Andi Rose",
+        "appearance": null
+      }
+    ]
+  }
+}

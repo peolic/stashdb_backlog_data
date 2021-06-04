@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "27dee495-c0cf-4394-bda8-10acb47fa7ca",
+        "name": "Oxana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c41b23c4-3182-48be-aaeb-87d6de80dc78",
+        "name": "Oxana Chic",
+        "appearance": "Oxana"
+      }
+    ]
+  }
+}

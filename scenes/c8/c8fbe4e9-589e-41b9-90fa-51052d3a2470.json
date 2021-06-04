@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "21a99a50-ccdc-4bc3-8c84-7646d4a97b9b",
+        "name": "Daya Knight",
+        "appearance": "Eva"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}

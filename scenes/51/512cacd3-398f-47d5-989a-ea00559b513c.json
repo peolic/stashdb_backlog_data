@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "eb1ad133-9b54-44aa-84f5-2b697cd16c01",
+        "name": "Embry & Holly",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "21ae3bdb-7104-4604-b28e-d652a767b4a2",
+        "name": "Embry Prada",
+        "appearance": null
+      },
+      {
+        "id": "44ff536e-f6ea-4524-b32f-2e4f843cafd1",
+        "name": "Holly Taylor",
+        "appearance": null
+      },
+      {
+        "id": "c9858ea0-47ed-477e-8632-ec8dc2fac13a",
+        "name": "Billy Hart",
+        "appearance": null
+      },
+      {
+        "id": "b55e1825-baef-48d5-8ed7-3245ff2029a0",
+        "name": "Logan Pierce",
+        "appearance": null
+      }
+    ]
+  }
+}

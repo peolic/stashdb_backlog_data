@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec298158-f283-4c0a-b170-259f3c071845",
+        "name": "Natalia",
+        "appearance": null
+      },
+      {
+        "id": "9fe1175d-83f8-408b-9c69-b2145544c5ff",
+        "name": "Camila",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c9358eef-8d87-4ca6-943a-01e76bb00238",
+        "name": "Tyler Michaels",
+        "appearance": "Natalia"
+      },
+      {
+        "id": "28131578-27e2-43f4-b0d4-78d226501add",
+        "name": "Jasmine Vega",
+        "appearance": "Camila"
+      }
+    ]
+  }
+}

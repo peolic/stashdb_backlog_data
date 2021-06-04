@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Asia Oakley",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

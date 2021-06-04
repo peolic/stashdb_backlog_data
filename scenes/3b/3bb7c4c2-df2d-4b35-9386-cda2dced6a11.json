@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "1d82bf40-0f4b-4c77-bb86-da2d6d567790",
+        "name": "Cecilia Vs Skyla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "920e5d3e-d512-4323-aefb-83e9f815d31d",
+        "name": "Cecilia Vega",
+        "appearance": "Cecilia"
+      },
+      {
+        "id": "8a8c10fa-2ace-46ce-8254-ecaed068e236",
+        "name": "Skyla Paige",
+        "appearance": "Skyla"
+      }
+    ]
+  }
+}

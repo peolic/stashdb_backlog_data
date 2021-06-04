@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "38b3985c-a7e7-4878-af85-46533f10694d",
+        "name": "Vienna Rose",
+        "appearance": "Vienna"
+      }
+    ]
+  }
+}

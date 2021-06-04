@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b70b2d8-4963-43f1-a144-b3e3eeb3055c",
+        "name": "Erica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6dd40454-f752-4391-b5ff-749d219562d5",
+        "name": "Lucy Valentine",
+        "appearance": "Erica"
+      }
+    ]
+  }
+}

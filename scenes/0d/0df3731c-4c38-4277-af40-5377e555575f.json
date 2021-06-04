@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "82b3d79c-881a-4045-b4fe-acca6e64a941",
+        "name": "Carolina Sweets",
+        "appearance": null
+      }
+    ]
+  }
+}

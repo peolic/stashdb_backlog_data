@@ -1,0 +1,27 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "19e35941-d09f-485f-b73c-e6394acef9f8",
+        "name": "Alex",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Emery Moon",
+        "appearance": "Alex",
+        "status": "new"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+929%3a+alex/year=2017/netvideogirls_929%3a_alex.htm"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "84e7e9c3-a5d1-4984-9a8e-94d269af9650",
+        "name": "Tyler Steel",
+        "appearance": null
+      }
+    ]
+  }
+}

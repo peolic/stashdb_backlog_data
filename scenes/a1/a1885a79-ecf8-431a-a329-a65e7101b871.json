@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6c322f48-b2c0-4822-ad5c-47a9ee6f8c0e",
+        "name": "Madisson",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b75b53d9-7fdd-41ff-b096-6634c9c46a86",
+        "name": "Cherish",
+        "appearance": "Madisson"
+      },
+      {
+        "id": "5338f4ed-538a-47ba-8231-1fcf956cb12f",
+        "name": "Cali Marie",
+        "appearance": "Molly"
+      }
+    ]
+  }
+}

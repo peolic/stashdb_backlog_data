@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c42b75bc-ff43-478f-b903-c4dd100eab3c",
+        "name": "Keisha",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d5bf85d5-3dd1-4a45-91ca-8e76cdb381c8",
+        "name": "Tiffany Tosh",
+        "appearance": "Keisha"
+      }
+    ]
+  }
+}

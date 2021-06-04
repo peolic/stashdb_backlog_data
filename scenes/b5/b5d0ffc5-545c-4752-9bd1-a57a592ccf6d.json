@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "08823f2b-2012-44ab-9694-9be932ba6640",
+        "name": "Missy & Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ea7c249e-fe7d-4637-8395-bca876127e81",
+        "name": "Missy Stone",
+        "appearance": "Missy"
+      },
+      {
+        "id": "928afedb-246f-4d3e-87ae-301945a91710",
+        "name": "Madison Ivy",
+        "appearance": "Madison"
+      }
+    ]
+  }
+}

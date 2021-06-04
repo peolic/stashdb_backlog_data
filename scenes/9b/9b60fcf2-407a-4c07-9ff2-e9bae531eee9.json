@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "25f02ce0-14dd-49fb-93ce-932a4e0c4529",
+        "name": "Meg Vs. Sindee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "75e77620-758e-4607-8b88-b621c3a5e644",
+        "name": "Megan Monroe",
+        "appearance": "Meg"
+      },
+      {
+        "id": "5ec7f290-fe74-4250-b526-1626892c0f19",
+        "name": "Sindee Jennings",
+        "appearance": "Sindee"
+      }
+    ]
+  }
+}

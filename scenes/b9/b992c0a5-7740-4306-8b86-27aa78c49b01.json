@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e2a3f996-ed05-40f9-8f3d-802a25d92ccf",
+        "name": "Nichole",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "498fcacd-8ed4-44be-b1d7-bec2e968cc57",
+        "name": "Nichole Heiress",
+        "appearance": "Nichole"
+      }
+    ]
+  }
+}

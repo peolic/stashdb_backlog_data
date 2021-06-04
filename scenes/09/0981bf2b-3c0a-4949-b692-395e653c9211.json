@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0701ebb8-92a9-4447-b1f9-4b363f082ec0",
+        "name": "Megan Hughes",
+        "appearance": null
+      }
+    ]
+  }
+}

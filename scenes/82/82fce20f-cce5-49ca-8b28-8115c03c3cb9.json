@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "132e048f-5a31-434c-9d67-d1a435dedbd6",
+        "name": "Mi Ha Doan",
+        "appearance": null
+      }
+    ]
+  }
+}

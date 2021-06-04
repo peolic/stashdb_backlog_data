@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "2b177f3d-5e0e-4591-86ab-e79397874d2b",
+        "name": "Dani Jensen",
+        "appearance": null
+      }
+    ]
+  }
+}

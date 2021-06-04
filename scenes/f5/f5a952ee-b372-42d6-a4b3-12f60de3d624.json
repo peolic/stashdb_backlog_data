@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "30f9e014-f606-4887-87b4-bbce4f3007d7",
+        "name": "Vanessa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bd703e63-1392-4a07-9a54-677897e5e6ff",
+        "name": "Vanessa Monroe",
+        "appearance": "Vanessa"
+      }
+    ]
+  }
+}

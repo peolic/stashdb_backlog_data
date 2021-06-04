@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "17560c37-7c9e-4351-b41c-cfb98c701be1",
+        "name": "Brother Love",
+        "appearance": null
+      }
+    ]
+  }
+}

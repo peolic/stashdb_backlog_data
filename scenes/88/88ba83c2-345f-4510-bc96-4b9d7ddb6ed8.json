@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "425f0774-e18e-46d7-b25a-48fee9a783cc",
+        "name": "Michael Vegas",
+        "appearance": null
+      }
+    ]
+  }
+}

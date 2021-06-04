@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "15f8769b-65dc-4711-a70c-296cbbd7554f",
+        "name": "Christin",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3dec117e-1c69-409d-a038-7a04d3809e9b",
+        "name": "Christin Black",
+        "appearance": "Christin"
+      }
+    ]
+  }
+}

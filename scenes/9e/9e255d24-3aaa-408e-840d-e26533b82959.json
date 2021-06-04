@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4b469800-47bc-40b6-a5bc-daa8422663b5",
+        "name": "Selena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Luna Lust",
+        "appearance": "Selena",
+        "status": "new"
+      }
+    ]
+  }
+}

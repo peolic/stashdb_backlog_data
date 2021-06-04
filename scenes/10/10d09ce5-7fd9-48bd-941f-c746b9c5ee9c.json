@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "cccf6767-32c1-44dc-987d-526e570b5ea5",
+        "name": "Angelina",
+        "appearance": null
+      },
+      {
+        "id": "abf6d5e5-f79d-4777-aaec-d6e28ace88fe",
+        "name": "Ivy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c8608b3c-ba59-4d0b-8e7d-a83acaeb6f4b",
+        "name": "Angelina Bonnet",
+        "appearance": "Angelina"
+      },
+      {
+        "id": "d27dc389-1fda-4f27-a677-cc0e4d9805cb",
+        "name": "Ivy Wolfe",
+        "appearance": "Ivy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f35ed6a2-8113-4639-9e5a-9b952051b78b",
+        "name": "Angel",
+        "appearance": null
+      }
+    ],
+    "append": []
+  },
+  "comments": [
+    "Already linked as Angel Reign"
+  ]
+}

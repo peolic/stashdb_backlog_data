@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "14891498-400c-4c2a-82f4-f4699106d9a6",
+        "name": "Cassandra & Gabriella",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c1e3f33e-7fdf-4262-bdb1-99139e071ab1",
+        "name": "Cassandra Cruz",
+        "appearance": "Cassandra"
+      },
+      {
+        "id": "6992a033-9f5c-41a3-9fe2-50a8c5c5a273",
+        "name": "Gabriella Romano",
+        "appearance": "Gabriella"
+      }
+    ]
+  }
+}

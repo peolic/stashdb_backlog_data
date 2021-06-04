@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f94c1d4d-bdf1-4de9-ba1c-15b457db2f56",
+        "name": "Piper Cox",
+        "appearance": null
+      }
+    ]
+  }
+}

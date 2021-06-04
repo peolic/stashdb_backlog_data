@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "45874951-60fd-4564-969b-244b3f67375e",
+        "name": "Monique & Stacey",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Monique Dash",
+        "appearance": "Monique",
+        "status": "new"
+      },
+      {
+        "id": "110e7c6a-fe95-4066-b5ac-fba0a93aa969",
+        "name": "Stacy Adams",
+        "appearance": "Stacey"
+      }
+    ]
+  }
+}

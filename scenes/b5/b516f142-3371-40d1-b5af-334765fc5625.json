@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2262f618-f2e1-4768-925c-99732e05eb80",
+        "name": "Heather & Ariana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4b8d8d07-79fa-4499-8fb4-61ebaa9a2a20",
+        "name": "Heather Night",
+        "appearance": "Heather"
+      },
+      {
+        "id": "03d10829-14d5-4e6e-8208-9a7c87b7cf39",
+        "name": "Ariana Marie",
+        "appearance": "Ariana"
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

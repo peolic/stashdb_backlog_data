@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3a1b39d5-b4eb-47cf-9877-c0668a15a077",
+        "name": "Mariann & Timea",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Marianna Kiss",
+        "appearance": "Mariann",
+        "status": "new"
+      },
+      {
+        "id": null,
+        "name": "Timeo Kiss",
+        "appearance": "Timea",
+        "status": "new"
+      }
+    ]
+  }
+}

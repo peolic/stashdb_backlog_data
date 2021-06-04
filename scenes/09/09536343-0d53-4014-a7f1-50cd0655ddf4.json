@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4478c63b-404d-4958-b114-630e251b94c9",
+        "name": "Cali",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Cali Westbrook",
+        "appearance": "Cali",
+        "status": "new"
+      }
+    ]
+  }
+}

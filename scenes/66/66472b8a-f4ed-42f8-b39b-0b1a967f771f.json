@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e464507d-bb77-4f02-9fde-b6d719d4d66f",
+        "name": "Makali Vs. Abby",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fa4bfc56-cc9b-4342-85e5-bc7f877832aa",
+        "name": "Makali Chanel",
+        "appearance": "Makali"
+      },
+      {
+        "id": "64edd776-741b-49dd-a409-57257c1e0c48",
+        "name": "Abby Taylor",
+        "appearance": "Abby"
+      }
+    ]
+  }
+}

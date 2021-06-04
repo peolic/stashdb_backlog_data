@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "815519f2-17c5-469c-a22d-fe2568011f52",
+        "name": "Luna Daniels",
+        "appearance": null
+      }
+    ]
+  }
+}

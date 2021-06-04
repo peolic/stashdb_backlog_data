@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "67875d9b-6576-4182-a190-24fc3e1ebe4f",
+        "name": "Whitney Wright",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8b6f9762-3404-44d8-962f-21b031d3fd8b",
+        "name": "Ivy & Melanie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9af8957a-9a7c-4bd0-814b-8a4ba0affde0",
+        "name": "Ivy Winters",
+        "appearance": "Ivy"
+      },
+      {
+        "id": "f72b21ed-5eee-4a3b-b81b-f6a523fbf3e5",
+        "name": "Melanie Rios",
+        "appearance": "Melanie"
+      }
+    ]
+  }
+}

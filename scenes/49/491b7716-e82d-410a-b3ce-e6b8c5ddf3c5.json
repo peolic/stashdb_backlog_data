@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c1642f14-4b17-4e4b-84af-372195a65d1c",
+        "name": "Betty",
+        "appearance": null
+      },
+      {
+        "id": "eb9bbdcf-beb4-4ef5-8d11-995c327cab0f",
+        "name": "Ashley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "79a6af33-6493-4957-9db8-f0ab6bc4c72c",
+        "name": "Betty Cage",
+        "appearance": "Betty"
+      },
+      {
+        "id": "cc050520-0ff5-4ee5-8771-7008bd18287b",
+        "name": "Ashlen Reed",
+        "appearance": "Ashlen"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": null
+      }
+    ]
+  }
+}

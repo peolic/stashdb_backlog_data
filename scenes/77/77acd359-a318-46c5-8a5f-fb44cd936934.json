@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f54eb00a-ef27-461a-98ed-5c4c0cffaf3c",
+        "name": "Chanel Shortcake",
+        "appearance": null
+      }
+    ]
+  }
+}

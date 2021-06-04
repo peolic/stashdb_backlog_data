@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c2c34f30-1572-4785-93ec-c527fe9af772",
+        "name": "Scarlet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Caroline Summers",
+        "appearance": "Scarlet",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "50a4f60e-0509-4de7-8416-88706573fb43",
+        "name": "Leila",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "25b10195-20a5-40ab-942b-72981227943f",
+        "name": "Leila Smith",
+        "appearance": "Leila"
+      }
+    ]
+  }
+}

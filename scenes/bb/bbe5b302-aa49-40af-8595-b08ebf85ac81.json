@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b83492e7-6ccd-434e-9a68-92a0f287791b",
+        "name": "Brooklynn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3526ff48-9968-4b66-bbe0-2243cd4b9984",
+        "name": "Lori London",
+        "appearance": "Brooklynn"
+      }
+    ]
+  }
+}

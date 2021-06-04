@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6388fcfe-b2ec-4eea-a971-1719ef4664dc",
+        "name": "Amy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dafcf460-5df0-44cf-9d07-3878fb761e70",
+        "name": "Amy Summers",
+        "appearance": "Amy"
+      }
+    ]
+  }
+}

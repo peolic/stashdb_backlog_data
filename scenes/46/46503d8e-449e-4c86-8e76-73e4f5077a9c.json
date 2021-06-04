@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "3fa7b564-ed9a-4d15-a47f-eb135e59b0e8",
+        "name": "Kate Bloom",
+        "appearance": null
+      }
+    ]
+  }
+}

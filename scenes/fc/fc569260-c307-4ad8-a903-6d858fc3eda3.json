@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ee4c2eef-b577-45c4-b698-6b0d3f5ae947",
+        "name": "Gianna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cc597001-c71f-44b3-8c86-181ce4ff8db0",
+        "name": "Gianna Gem",
+        "appearance": "Gianna"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "6b23156a-87ca-4b5e-bf56-9c829978adc7",
+        "name": "Jennifer Jacobs",
+        "appearance": null
+      }
+    ]
+  }
+}

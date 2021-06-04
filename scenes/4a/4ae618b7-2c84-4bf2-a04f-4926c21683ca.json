@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "52cb815b-d93e-4a72-83d3-028116986c28",
+        "name": "Megan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "518162d0-3fa4-4143-958c-ea60ee7c96e8",
+        "name": "Megan Marx",
+        "appearance": "Megan"
+      },
+      {
+        "id": "42fca47b-606b-4adb-ad77-0df7bf9ad4e5",
+        "name": "Mitt Aziani",
+        "appearance": "Cam"
+      }
+    ]
+  }
+}

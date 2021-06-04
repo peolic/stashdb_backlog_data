@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "84a302b2-91b8-45b6-92a5-ad26cea44f50",
+        "name": "Hayden",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6c08686e-070f-4a48-9098-1b9a2880bc52",
+        "name": "Jade Ashley Marie",
+        "appearance": "Hayden"
+      },
+      {
+        "id": "32014531-c597-4c7d-97f2-9b7984dab51f",
+        "name": "Serena Silva",
+        "appearance": "Alaska"
+      },
+      {
+        "id": "80d1f683-275a-489b-9293-8dd68e78376c",
+        "name": "Talin Shields",
+        "appearance": null
+      },
+      {
+        "id": "5c084630-e8ad-40a4-841e-dc648a6eb611",
+        "name": "Ashlynn Leigh",
+        "appearance": null
+      }
+    ]
+  }
+}

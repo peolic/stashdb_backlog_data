@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5c833b69-3bf2-4a73-b4e4-1f214f3ed20a",
+        "name": "Audrey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "901bbb00-7183-47ca-bdb9-f629623746eb",
+        "name": "Audrey Hempburne",
+        "appearance": null
+      }
+    ]
+  }
+}

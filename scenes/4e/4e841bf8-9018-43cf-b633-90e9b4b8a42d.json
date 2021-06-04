@@ -1,0 +1,22 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "329266d1-ae14-4f41-a601-12a7bc5a07f0",
+        "name": "Kendall Karson",
+        "appearance": null
+      },
+      {
+        "id": "9bd7bfe3-9e5b-4acd-8674-2e2f17031333",
+        "name": "Gigi Loren",
+        "appearance": null
+      },
+      {
+        "id": "46d5f82f-8ce6-424c-9552-4284b4edd922",
+        "name": "Bill Bailey",
+        "appearance": null
+      }
+    ]
+  }
+}

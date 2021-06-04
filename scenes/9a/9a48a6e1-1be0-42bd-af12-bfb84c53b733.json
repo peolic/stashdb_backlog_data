@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3d997246-7e64-4217-8e3e-4acd47ff5031",
+        "name": "Amina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bbf6bd6a-0954-484f-a6c3-48061a98bc95",
+        "name": "Amina Fara",
+        "appearance": null
+      }
+    ]
+  }
+}

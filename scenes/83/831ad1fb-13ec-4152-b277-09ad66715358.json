@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "30d1fa4f-c4d1-4388-b426-8189616d7473",
+        "name": "Eva Nichole",
+        "appearance": "Eva"
+      }
+    ]
+  }
+}

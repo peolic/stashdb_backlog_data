@@ -1,0 +1,29 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4b469800-47bc-40b6-a5bc-daa8422663b5",
+        "name": "Selena",
+        "appearance": null
+      },
+      {
+        "id": "b256cf11-8f90-43a3-a4b3-6feb2f081069",
+        "name": "Houston",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c9c60957-ed78-4415-8861-f8a53771534b",
+        "name": "Selena",
+        "appearance": null,
+        "disambiguation": "2005-06, Reality Kings"
+      },
+      {
+        "id": "a21c6ffb-76dd-43a4-b945-50fec250b1f1",
+        "name": "Houston Uluvpunani",
+        "appearance": "Houston"
+      }
+    ]
+  }
+}

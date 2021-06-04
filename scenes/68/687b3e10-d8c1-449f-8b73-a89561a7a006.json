@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "bfd7ff0e-2f73-4fe1-a4a1-69b2139d9d5d",
+        "name": "Mike Mancini",
+        "appearance": null
+      }
+    ]
+  }
+}

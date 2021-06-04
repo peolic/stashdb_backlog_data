@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "298e7bfe-db6b-4ddb-9368-ecc90cbd2785",
+        "name": "Tori Montana",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b6034230-dbe5-4bc1-9851-5bd8fc71fd1d",
+        "name": "Carmella Vs Reena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "db6d34e9-2104-496c-a761-850f04b217f2",
+        "name": "Carmella Santiago",
+        "appearance": "Carmella"
+      },
+      {
+        "id": "4b622bb5-f0c3-4731-967c-755d9c3d25da",
+        "name": "Reena Sky",
+        "appearance": "Reena"
+      }
+    ]
+  }
+}

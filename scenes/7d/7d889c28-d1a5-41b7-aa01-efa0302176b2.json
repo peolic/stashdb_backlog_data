@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "7f714e8f-410b-4b6f-bc43-b4aa0346e8a8",
+        "name": "Brea Bennett",
+        "appearance": "Brea",
+        "old_appearance": null
+      }
+    ]
+  }
+}

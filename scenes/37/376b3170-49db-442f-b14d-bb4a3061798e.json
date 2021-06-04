@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d11b0241-7edd-4e15-914d-10dc06bd086f",
+        "name": "Tana Waters",
+        "appearance": null
+      }
+    ]
+  }
+}

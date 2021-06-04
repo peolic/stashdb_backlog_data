@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f08670f9-a57b-4633-b72e-6c8e6cfbaa94",
+        "name": "Tasha Reign",
+        "appearance": "Tasha"
+      },
+      {
+        "id": "3ef069d7-d654-4671-8a5a-30e84ebcc667",
+        "name": "Richie Calhoun",
+        "appearance": null
+      }
+    ]
+  }
+}

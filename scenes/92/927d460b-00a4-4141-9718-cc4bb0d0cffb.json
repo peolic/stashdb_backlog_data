@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "dbc6a7b1-3ede-45c2-85ff-c5491bbcdb3d",
+        "name": "Monica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "76af3231-6c5e-4159-94c2-bbf37afe3e87",
+        "name": "Monica Sage",
+        "appearance": "Monica"
+      }
+    ]
+  }
+}

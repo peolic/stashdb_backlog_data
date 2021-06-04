@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "652e5bd0-3f92-4987-8032-cae16fa25ca0",
+        "name": "Jade Kush",
+        "appearance": null
+      }
+    ]
+  }
+}

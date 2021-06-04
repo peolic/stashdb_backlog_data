@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "17b2c2a3-bb08-4eb0-aa25-f74576584108",
+        "name": "Nikki Montana",
+        "appearance": "Nikki"
+      }
+    ]
+  }
+}

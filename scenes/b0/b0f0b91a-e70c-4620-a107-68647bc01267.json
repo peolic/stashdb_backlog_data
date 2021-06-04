@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9f5d544f-2780-4087-9c21-4669024b0f10",
+        "name": "Shai & Georgia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Shai Blakstar",
+        "appearance": "Shai",
+        "status": "new"
+      },
+      {
+        "id": null,
+        "name": "Georgia Brown",
+        "appearance": "Georgia",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "25afee3a-f581-4590-a224-a34fa1749c09",
+        "name": "Peter Green",
+        "appearance": null
+      }
+    ]
+  }
+}

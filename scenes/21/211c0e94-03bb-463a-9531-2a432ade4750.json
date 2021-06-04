@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a005b1da-bd20-46db-a43a-ec03542b46ec",
+        "name": "Rose",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Rose Ryder",
+        "appearance": "Rose",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "4925b0f9-c473-445e-8508-97b3898ab629",
+        "name": "Joey White",
+        "appearance": null
+      }
+    ]
+  }
+}

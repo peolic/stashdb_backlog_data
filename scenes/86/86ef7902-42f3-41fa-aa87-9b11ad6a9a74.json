@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "e26ba2ad-d1ec-443b-9945-5fb70f1ca9a4",
+        "name": "Ella Cruz",
+        "appearance": null
+      }
+    ]
+  }
+}

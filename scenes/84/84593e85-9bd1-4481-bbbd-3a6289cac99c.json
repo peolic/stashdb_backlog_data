@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "4d9af48e-61b2-4af1-b5f8-b47dfa74efac",
+        "name": "Hannah Hays",
+        "appearance": null
+      }
+    ]
+  }
+}

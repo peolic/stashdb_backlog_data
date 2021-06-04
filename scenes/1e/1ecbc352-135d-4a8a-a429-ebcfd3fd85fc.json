@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3b8fa1b2-4ccd-41e7-ad5d-8206cb973087",
+        "name": "Autumn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "217a397b-d735-4acf-a32a-d81b0b4f99a2",
+        "name": "Autumn Belle",
+        "appearance": "Autumn"
+      },
+      {
+        "id": "816ea58e-7ae6-41aa-84af-f3b40b5595e2",
+        "name": "Preston Parker",
+        "appearance": "Preston"
+      }
+    ]
+  }
+}

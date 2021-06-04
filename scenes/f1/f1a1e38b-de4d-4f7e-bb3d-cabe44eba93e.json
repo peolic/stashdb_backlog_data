@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "60031124-d389-46e9-b854-114e7b317f69",
+        "name": "Stacey & Candice",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fe03e97b-ea0e-4f50-a06c-5d3ada8c3a0e",
+        "name": "Stacie Lane",
+        "appearance": "Stacey"
+      },
+      {
+        "id": "269ef4da-0f1d-4a2a-b879-944fd7a54b58",
+        "name": "Candice Nicole",
+        "appearance": "Candice"
+      }
+    ]
+  }
+}

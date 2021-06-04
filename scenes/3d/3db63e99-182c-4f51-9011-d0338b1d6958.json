@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "08c230ef-9049-4af8-abdc-5d9f5e06daeb",
+        "name": "Kim & Ms.Juicy",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kim Treats",
+        "appearance": "Kim",
+        "status": "new"
+      },
+      {
+        "id": "0b60a705-cbd0-4627-97f9-f11436644dfc",
+        "name": "Ms. Juicy",
+        "appearance": null
+      }
+    ]
+  }
+}

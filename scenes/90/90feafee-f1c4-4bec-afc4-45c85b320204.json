@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "da9da5ca-06f3-486e-9699-72c5d8e38d34",
+        "name": "Carmen McCarthy",
+        "appearance": "Carmen",
+        "old_appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "18701696-5868-4fbd-adf5-48205c2fc4c0",
+        "name": "Anna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "405c52d1-ef2e-4a76-bebb-b2e537b4f336",
+        "name": "Anna Blaze",
+        "appearance": "Anna"
+      }
+    ]
+  }
+}

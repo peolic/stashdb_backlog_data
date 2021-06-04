@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "502fb795-92a7-4b11-b886-be165df3eb2e",
+        "name": "Vanessa & Dolce",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "407547b6-a8ec-4e5d-bb9e-f0b3e8436793",
+        "name": "Vanessa Monet",
+        "appearance": "Vanessa"
+      },
+      {
+        "id": "4261f855-a886-479f-bdcb-40d041a087a1",
+        "name": "Dolce Damone",
+        "appearance": "Dolce"
+      }
+    ]
+  }
+}

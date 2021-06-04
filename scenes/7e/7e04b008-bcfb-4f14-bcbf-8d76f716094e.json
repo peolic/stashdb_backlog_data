@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3f128be2-83fd-415a-8964-661a0bf6b1bf",
+        "name": "Mandy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Mandy Taylor",
+        "appearance": "Mandy",
+        "status": "new"
+      }
+    ]
+  }
+}

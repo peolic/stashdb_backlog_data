@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "7d1b7944-0197-47b6-bce9-919b5ac88e44",
+        "name": "Kelly Vs. Jen",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4068b469-0b49-412f-bf99-c06516a25564",
+        "name": "Jennifer Dark",
+        "appearance": "Jen Dark"
+      },
+      {
+        "id": "24dc1408-561d-4fc9-89e5-b374f6b4d8a3",
+        "name": "Kelly Wells",
+        "appearance": null
+      }
+    ]
+  }
+}

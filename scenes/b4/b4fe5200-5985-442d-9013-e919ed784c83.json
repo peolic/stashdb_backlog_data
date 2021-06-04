@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ea9efb5b-b54f-473f-9935-6bbddfc8dcbd",
+        "name": "Dixie Lynn",
+        "appearance": null
+      }
+    ]
+  }
+}

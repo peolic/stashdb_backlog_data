@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "cafbb8a1-c383-4c68-983f-d35c6dafd8f2",
+        "name": "Natalie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6128b10d-14f6-441e-991e-8d87a8278e32",
+        "name": "Jenna Ivory",
+        "appearance": "Natalie"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": null
+      }
+    ]
+  }
+}

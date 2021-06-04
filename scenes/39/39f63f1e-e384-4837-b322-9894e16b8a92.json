@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b62dd6e2-b71a-4280-bdfb-f24ce5d95056",
+        "name": "Kayley Gunner",
+        "appearance": null
+      }
+    ]
+  }
+}

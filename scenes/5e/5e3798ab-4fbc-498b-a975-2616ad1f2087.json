@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "bd8577f0-4927-48ec-b81e-126dc6209956",
+        "name": "Thalia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6fe50609-d1a9-4257-9779-208aba3a6768",
+        "name": "Thalia Tate",
+        "appearance": "Thalia"
+      }
+    ]
+  }
+}

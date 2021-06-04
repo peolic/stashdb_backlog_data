@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d0827e5e-16fa-480b-87a1-bdbde7e52590",
+        "name": "Ella Knox",
+        "appearance": null
+      }
+    ]
+  }
+}

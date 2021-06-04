@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Kai West",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

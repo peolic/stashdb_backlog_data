@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b9fb2a9a-0f55-46ed-a893-0bf9cd98bf8a",
+        "name": "Ashlyn",
+        "appearance": null
+      },
+      {
+        "id": "85f7102e-8662-4f13-b47a-713e46ec9e92",
+        "name": "Kylie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "eac140d7-6e23-4b02-845c-177caeb623db",
+        "name": "Ashlyn Rae",
+        "appearance": "Ashlyn"
+      },
+      {
+        "id": "d997d26a-31cf-4698-ba14-2c4e7f454166",
+        "name": "Kylie Ireland",
+        "appearance": "Kylie"
+      }
+    ]
+  }
+}

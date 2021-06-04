@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "088bd46f-e547-4c23-a45a-ee6c39bb76b6",
+        "name": "Emma Starletto",
+        "appearance": null
+      }
+    ]
+  }
+}

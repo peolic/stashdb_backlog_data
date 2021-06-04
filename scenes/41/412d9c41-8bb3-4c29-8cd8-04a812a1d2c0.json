@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "f5933f70-ae39-4526-8f91-c8141e17273e",
+        "name": "Xavi Tralla",
+        "appearance": null
+      }
+    ]
+  }
+}

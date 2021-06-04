@@ -1,0 +1,26 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "dccf386b-bb85-4f65-8e75-2dc19a230b60",
+        "name": "Tiffani",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "43d38baf-2d41-4f2d-be1c-ad90faa10248",
+        "name": "Tiffani DiGivanni",
+        "appearance": "Tiffani"
+      }
+    ],
+    "update": [
+      {
+        "id": "70b7e802-d09b-456d-b2a7-23541f29c161",
+        "name": "Samantha Ryan",
+        "appearance": "Samantha",
+        "old_appearance": null
+      }
+    ]
+  }
+}

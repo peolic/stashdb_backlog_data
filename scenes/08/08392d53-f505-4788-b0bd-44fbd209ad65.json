@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2098637d-79e2-4676-8958-9fb59af512d6",
+        "name": "Allison & Roxy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3c706017-b793-4d6a-a81e-725d4c76ced5",
+        "name": "Allison Banks",
+        "appearance": "Allison"
+      },
+      {
+        "id": "8713ff73-4b6c-4c2c-a0fb-25359d2722f0",
+        "name": "Roxy Love",
+        "appearance": "Roxy"
+      }
+    ]
+  }
+}

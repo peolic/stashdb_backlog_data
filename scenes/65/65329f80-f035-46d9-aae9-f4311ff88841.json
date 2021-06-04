@@ -1,0 +1,33 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "754cb034-537f-4541-b60f-9fd6672be9e8",
+        "name": "Holly & Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "903e8841-1c1f-4ca8-b638-e3c7375bdbf1",
+        "name": "Holly Michaels",
+        "appearance": "Holly"
+      },
+      {
+        "id": "860610b7-f59a-45e2-8876-cf2816eed85e",
+        "name": "Madison Chandler",
+        "appearance": "Madison"
+      },
+      {
+        "id": "c9858ea0-47ed-477e-8632-ec8dc2fac13a",
+        "name": "Billy Hart",
+        "appearance": null
+      },
+      {
+        "id": "50a05c52-2cf4-476f-a3f5-1c7dbbf1bfb2",
+        "name": "Chris Johnson",
+        "appearance": null
+      }
+    ]
+  }
+}

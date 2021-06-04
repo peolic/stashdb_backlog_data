@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "631e058f-22ce-42ab-97fa-4b0db956d08c",
+        "name": "Maryjane Johnson",
+        "appearance": "Maggie"
+      }
+    ]
+  }
+}

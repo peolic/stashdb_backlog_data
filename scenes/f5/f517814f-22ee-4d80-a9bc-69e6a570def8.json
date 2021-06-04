@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "8304a18e-3343-4c4a-9d88-a613ce9f9b4c",
+        "name": "Sinn Sage",
+        "appearance": "Sinndy",
+        "old_appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "51cc687f-c0f0-4cbe-be26-a436d81a2ec2",
+        "name": "Marina & Yurjen",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "c9c512cd-707a-47f4-b4de-862b1e2846fd",
+        "name": "Alasa",
+        "appearance": "Marina"
+      },
+      {
+        "id": null,
+        "name": "Yurjen",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

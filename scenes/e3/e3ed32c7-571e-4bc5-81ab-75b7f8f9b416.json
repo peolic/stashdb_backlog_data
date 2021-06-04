@@ -1,0 +1,26 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6fc0d269-4b13-4e56-ba99-f4449aad3187",
+        "name": "Nina & Ms.Platinum",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "d30cd1fa-0fd4-4b20-a85e-6fc8bf0f4a2a",
+        "name": "Ms. Platinum",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Nina",
+        "appearance": null,
+        "disambiguation": "2009, Porn Pros",
+        "status": "new"
+      }
+    ]
+  }
+}

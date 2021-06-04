@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "76b6794c-a9a6-45a0-b2fe-d5063cf824fd",
+        "name": "Selena & Chanel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bc225144-d3d1-40ff-92ba-6c59dd31f14a",
+        "name": "Selena Star",
+        "appearance": "Selena"
+      },
+      {
+        "id": "76e9b413-bc92-4c4d-b569-e08a59a04679",
+        "name": "Chanel Bryant",
+        "appearance": "Chanel"
+      }
+    ]
+  }
+}

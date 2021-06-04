@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "8225fdb8-d7f1-4d09-86db-0ab00da72e67",
+        "name": "Stephanie Sage",
+        "appearance": "Stephanie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "719e6172-0734-45e8-9f26-105cad3b81ae",
+        "name": "Stirling Cooper",
+        "appearance": null
+      }
+    ]
+  }
+}

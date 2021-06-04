@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ac5976cb-9e1a-43e9-b556-d5746f1010b3",
+        "name": "Daniel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9d35a387-ab79-4b30-b655-3e5c75c8c341",
+        "name": "Dani Woodward",
+        "appearance": "Daniel"
+      }
+    ]
+  }
+}

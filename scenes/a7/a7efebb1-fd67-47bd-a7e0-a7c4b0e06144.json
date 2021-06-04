@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b63318ae-5983-47c7-808a-002355bac8de",
+        "name": "Amia Miley",
+        "appearance": "Amia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "48f6a927-6eb8-4ace-84ce-f26a1f3d74d7",
+        "name": "Lily & Whitney",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7f180cfa-6f28-48b2-8f79-e23ba80909e8",
+        "name": "Lily Love",
+        "appearance": "Lily"
+      },
+      {
+        "id": "109a37a8-81c5-47d8-bcb4-289389b659ae",
+        "name": "Whitney Westgate",
+        "appearance": "Whitney"
+      },
+      {
+        "id": "1c093336-39af-43a8-a207-9a20b11b8b27",
+        "name": "Danny Mountain",
+        "appearance": null
+      }
+    ]
+  }
+}

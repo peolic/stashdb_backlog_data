@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "91aa70c5-9324-483a-9d41-44053e1ab456",
+        "name": "Aliya",
+        "appearance": null
+      },
+      {
+        "id": "d9f4c652-4387-4444-8d0e-7b116b07d4a3",
+        "name": "Savannah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b1504d6b-b78d-4d5b-bc38-23c94d29565b",
+        "name": "Aliya Brynn",
+        "appearance": "Aliya"
+      },
+      {
+        "id": "412c9333-813f-433e-a64a-67871ff352d8",
+        "name": "Savannah Sixx",
+        "appearance": "Savannah"
+      }
+    ]
+  }
+}

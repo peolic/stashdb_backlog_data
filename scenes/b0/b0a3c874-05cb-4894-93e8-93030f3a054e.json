@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "9586ec92-001d-4fbd-b1da-8c419ad000ea",
+        "name": "Veronique Vega",
+        "appearance": "Veronique"
+      }
+    ]
+  }
+}

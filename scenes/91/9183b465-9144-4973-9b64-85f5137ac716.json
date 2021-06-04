@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "584ec2d2-53e1-45e4-a999-b33e69773880",
+        "name": "Amber Summers",
+        "appearance": null
+      }
+    ]
+  }
+}

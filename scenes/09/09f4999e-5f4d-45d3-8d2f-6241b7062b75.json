@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ceab303e-bc14-4acd-827b-7a6d95c179ae",
+        "name": "Gianna Dior",
+        "appearance": null
+      }
+    ]
+  }
+}

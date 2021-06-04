@@ -1,0 +1,25 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d33588c6-ad04-43fb-b2f1-f8eb7b45f72b",
+        "name": "Lacey & Kaylina",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "70a43f87-9c0b-4db8-b128-f4dfd1fd49e7",
+        "name": "Lacey Duvalle",
+        "appearance": "Lacey"
+      },
+      {
+        "id": null,
+        "name": "Kaylina Rose",
+        "appearance": "Kaylina",
+        "status": "new"
+      }
+    ]
+  }
+}

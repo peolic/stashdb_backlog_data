@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9e24f375-294f-45a9-b741-0faa0d9e05b8",
+        "name": "Allyana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Allyana Day / Allyana Amore",
+        "appearance": "Allyana",
+        "status": "new"
+      }
+    ]
+  }
+}

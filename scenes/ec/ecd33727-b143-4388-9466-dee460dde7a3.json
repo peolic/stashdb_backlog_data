@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "86f5e2de-7373-40f2-9fe5-0f621439391c",
+        "name": "Candace & Jennifer",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e6a05edc-1829-460a-bdc9-2d6f3b6fc395",
+        "name": "Candace Cage",
+        "appearance": "Candace"
+      },
+      {
+        "id": "426c641a-cf21-4493-a150-5e5105442349",
+        "name": "Jennifer White",
+        "appearance": "Jennifer"
+      },
+      {
+        "id": "46d5f82f-8ce6-424c-9552-4284b4edd922",
+        "name": "Bill Bailey",
+        "appearance": null
+      }
+    ]
+  }
+}

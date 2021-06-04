@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0dee9acc-eb17-4d2e-9c92-c822ddfab56d",
+        "name": "April Snow",
+        "appearance": null
+      }
+    ]
+  }
+}

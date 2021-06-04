@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "d9f4c652-4387-4444-8d0e-7b116b07d4a3",
+        "name": "Savannah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Savannah",
+        "appearance": null,
+        "disambiguation": "2005, Reality Kings",
+        "status": "new"
+      }
+    ]
+  }
+}

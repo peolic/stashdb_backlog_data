@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "5b300768-f09b-4e24-bfc2-4ccf42e98f83",
+        "name": "Chanel Grey",
+        "appearance": null
+      }
+    ]
+  }
+}

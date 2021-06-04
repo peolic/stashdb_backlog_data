@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b9fb2a9a-0f55-46ed-a893-0bf9cd98bf8a",
+        "name": "Ashlyn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "34f999b2-eac2-4729-ab4f-2b5f8b9e98bc",
+        "name": "Kacey Villainess",
+        "appearance": "Ashlyn"
+      }
+    ]
+  }
+}

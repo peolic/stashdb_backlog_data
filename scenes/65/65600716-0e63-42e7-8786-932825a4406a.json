@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "266d1c42-5fc6-412f-8c64-36da6f5132d5",
+        "name": "Kari & Jesse",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "357a41c9-87ec-4732-846d-cb50fbe0258a",
+        "name": "Kari Sweet",
+        "appearance": "Kari"
+      },
+      {
+        "id": "0eaf5788-0b60-4a29-982d-6c6847e19233",
+        "name": "Jessie Rogers",
+        "appearance": "Jesse"
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

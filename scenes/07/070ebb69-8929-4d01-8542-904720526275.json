@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b2df55a5-b57f-4d0f-91ee-4065206a9602",
+        "name": "Lexie Fux",
+        "appearance": null
+      }
+    ]
+  }
+}

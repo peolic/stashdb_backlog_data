@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "e3d5f47c-805c-43ff-9775-5f098d322ef7",
+        "name": "Carmen & Sally",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "20813071-2e45-439e-8c23-d9b4e2538e0f",
+        "name": "Carmen Monet",
+        "appearance": "Carmen"
+      },
+      {
+        "id": "f0afebcb-797d-4174-a7ed-022113a26242",
+        "name": "Sally Charles",
+        "appearance": "Sally"
+      },
+      {
+        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
+        "name": "Johnny Castle",
+        "appearance": null
+      }
+    ]
+  }
+}

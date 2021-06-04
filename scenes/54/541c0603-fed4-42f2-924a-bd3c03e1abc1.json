@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "dc41b9ea-ca21-4e3c-93b3-b70e9f002dfd",
+        "name": "Codey Steele",
+        "appearance": null
+      }
+    ]
+  }
+}

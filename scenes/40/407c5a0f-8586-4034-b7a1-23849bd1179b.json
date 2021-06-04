@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9c7e1432-c1de-475f-89ae-bacc8929723a",
+        "name": "Leanna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b8e7b440-4e38-4c74-9df1-79808055d29b",
+        "name": "Leanna Sweet",
+        "appearance": "Leanna"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      },
+      {
+        "id": "45ec2636-c80c-4a4c-9a21-8f73c53ce903",
+        "name": "Summer",
+        "appearance": null
+      },
+      {
+        "id": "f6c477e3-fd37-4926-8118-4fa4e537234b",
+        "name": "Liv",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c2941d7b-96a8-427f-9aec-cc66d579ff41",
+        "name": "Leanna Lass",
+        "appearance": "Eva"
+      },
+      {
+        "id": "9bc46ca3-64db-42b2-ba15-cda4e5cdd8e3",
+        "name": "Summer Day",
+        "appearance": "Summer"
+      },
+      {
+        "id": "97bc47cd-33a5-4033-9a9d-791cd9f4279a",
+        "name": "Zoey Laine",
+        "appearance": "Liv"
+      }
+    ]
+  }
+}

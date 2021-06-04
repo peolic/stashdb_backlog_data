@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "af617677-1946-4cee-88f1-4e7a1627e88b",
+        "name": "Leena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Leena",
+        "appearance": null,
+        "disambiguation": "2005-06, Reality Kings",
+        "status": "new"
+      }
+    ]
+  }
+}

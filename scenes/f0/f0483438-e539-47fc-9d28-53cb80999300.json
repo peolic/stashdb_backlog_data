@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5e7cff44-7656-434a-bee2-2ce3e0f1630d",
+        "name": "Aria",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "af831afa-30ca-4646-88b0-e4e193a5e80d",
+        "name": "Aria Noir",
+        "appearance": "Aria"
+      },
+      {
+        "id": "7dd228bc-e0c8-4fda-8d09-71434f54b823",
+        "name": "Mr. Marcus",
+        "appearance": null
+      }
+    ]
+  }
+}

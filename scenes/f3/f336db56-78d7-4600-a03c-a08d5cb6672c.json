@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ff666123-e60f-4955-87d1-397a59a68adf",
+        "name": "Avery Cristy",
+        "appearance": null
+      }
+    ]
+  }
+}

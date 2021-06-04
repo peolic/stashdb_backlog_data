@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "697cc723-bc81-412a-906b-afd3e28adbaa",
+        "name": "Jenni",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jenni ?",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

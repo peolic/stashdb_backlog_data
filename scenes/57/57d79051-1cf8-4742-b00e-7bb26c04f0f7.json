@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c7a6b628-cfe0-41a9-a955-c3b7ebdc4ea5",
+        "name": "Zoey Kush",
+        "appearance": "Kelli"
+      }
+    ]
+  }
+}

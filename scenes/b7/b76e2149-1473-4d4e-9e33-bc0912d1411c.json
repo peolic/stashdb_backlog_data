@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "13c2c4b3-f9b1-4ca7-9781-f3fce8dc6f4e",
+        "name": "Kayla West",
+        "appearance": null
+      },
+      {
+        "id": "84507425-272a-4ab5-8da3-ce1a0b1fb9c6",
+        "name": "Rose Red",
+        "appearance": null
+      }
+    ]
+  }
+}

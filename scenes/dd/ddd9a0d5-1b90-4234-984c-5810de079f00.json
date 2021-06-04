@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c319019b-822d-4704-8cfd-88e37c33b8ad",
+        "name": "Bob",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
+        "name": "Shawn Rees",
+        "appearance": "Hunter"
+      }
+    ]
+  },
+  "comments": [
+    "Tagged incorrectly"
+  ]
+}

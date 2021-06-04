@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "9d71fb8e-d079-495e-92c3-ad9a6ac01b86",
+        "name": "Sandy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "2fb80a2f-9fc7-4747-b27d-3f7826534310",
+        "name": "Sandy Summers",
+        "appearance": "Sandy"
+      }
+    ]
+  }
+}

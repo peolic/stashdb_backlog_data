@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "abe68f97-09c6-4b4d-ad2f-abc4cea25f7a",
+        "name": "Talon",
+        "appearance": null
+      }
+    ]
+  }
+}

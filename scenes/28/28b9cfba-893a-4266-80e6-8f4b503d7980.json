@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "196909a1-28d2-47b6-8d3c-b36127957d90",
+        "name": "Gia & Teagan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d43718c6-1626-4c60-8449-3fb5a3186e44",
+        "name": "Jasmine Delatori",
+        "appearance": "Gia"
+      },
+      {
+        "id": "3522f7f6-25db-48c0-a2bf-cec30af225dc",
+        "name": "Teagan Summers",
+        "appearance": "Teagan"
+      },
+      {
+        "id": "cd3475fa-3b73-44ec-9014-8a659f23d934",
+        "name": "Chris Strokes",
+        "appearance": null
+      }
+    ]
+  }
+}

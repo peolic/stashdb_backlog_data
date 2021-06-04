@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4478c63b-404d-4958-b114-630e251b94c9",
+        "name": "Cali",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "de57c0d0-0620-4027-83e7-c4b3983c05a0",
+        "name": "Cali Diamond",
+        "appearance": "Cali"
+      }
+    ]
+  }
+}

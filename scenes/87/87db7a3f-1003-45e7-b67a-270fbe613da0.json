@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "27cc7a74-0470-443a-980a-c04d7aa3aa98",
+        "name": "Nikole",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "55f6ef9a-edd3-4ed1-8592-3011a182b922",
+        "name": "Nikole Nash",
+        "appearance": "Nikole"
+      }
+    ]
+  }
+}

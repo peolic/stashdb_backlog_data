@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "95310346-cc8b-4783-b5b5-326ad8288c40",
+        "name": "Tara Ashley",
+        "appearance": null
+      },
+      {
+        "id": "82d4cbaf-cb0b-4ad7-b5d7-d8dbbbb43e97",
+        "name": "Levi Cash",
+        "appearance": null
+      }
+    ]
+  }
+}

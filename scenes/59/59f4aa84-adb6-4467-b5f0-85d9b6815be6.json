@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5793631e-bfa1-44cd-945c-2abb0b113c9c",
+        "name": "Nikky",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "639c6ca8-52db-4478-9607-90d399f7581a",
+        "name": "Nikki Loren",
+        "appearance": "Nikky"
+      }
+    ]
+  }
+}

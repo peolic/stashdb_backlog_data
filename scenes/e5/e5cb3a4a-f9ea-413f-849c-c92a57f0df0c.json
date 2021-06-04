@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6ebd09e9-51ef-49bd-85ec-18e210345953",
+        "name": "Tasia & Ashlyn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f3e30419-7c7e-4dae-8b29-8d7a518d0ef1",
+        "name": "Tasia Banx",
+        "appearance": "Tasia"
+      },
+      {
+        "id": "eac140d7-6e23-4b02-845c-177caeb623db",
+        "name": "Ashlyn Rae",
+        "appearance": "Ashlyn"
+      }
+    ]
+  }
+}

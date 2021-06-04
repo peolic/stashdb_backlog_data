@@ -1,0 +1,39 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c2c34f30-1572-4785-93ec-c527fe9af772",
+        "name": "Scarlet",
+        "appearance": null
+      },
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      },
+      {
+        "id": "c901edcb-4520-4119-8573-b9bbe4805bb7",
+        "name": "Dawn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b96bce6d-a17e-418e-b1c6-dc833e9a4ddc",
+        "name": "Scarlet Red",
+        "appearance": "Scarlet"
+      },
+      {
+        "id": "cc648e02-6461-4ddc-a8c5-c842b80ff5cb",
+        "name": "Nikki Hearts",
+        "appearance": "Nikki"
+      },
+      {
+        "id": null,
+        "name": "Dawn Dynamite",
+        "appearance": "Dawn",
+        "status": "new"
+      }
+    ]
+  }
+}

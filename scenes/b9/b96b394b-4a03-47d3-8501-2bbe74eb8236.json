@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "42d9da89-8503-4f65-8b41-c24cad4422b7",
+        "name": "Tanya James",
+        "appearance": null
+      }
+    ]
+  }
+}

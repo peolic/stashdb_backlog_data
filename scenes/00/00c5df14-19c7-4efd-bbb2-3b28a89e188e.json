@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "55c18672-19cd-43f6-97bd-4fd0aafd3838",
+        "name": "Luscious & Janae",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "54f5a0fa-3a28-418c-a62f-f7952f9ba149",
+        "name": "Luscious Louis",
+        "appearance": "Luscious"
+      },
+      {
+        "id": "d86dcfac-b3ea-4e25-a57e-78ade66d93ae",
+        "name": "Janae Foxx",
+        "appearance": "Janae"
+      }
+    ]
+  }
+}

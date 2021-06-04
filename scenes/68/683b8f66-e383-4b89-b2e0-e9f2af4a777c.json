@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "33b8bf37-6a45-49ba-8835-7ecd8c5de1ab",
+        "name": "Bailey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "278dcd5f-8ccc-4848-897e-46b63935da81",
+        "name": "Bailey Brooks",
+        "appearance": "Bailey",
+        "disambiguation": "blonde, 2005-09"
+      }
+    ]
+  }
+}

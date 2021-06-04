@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "fd5ad517-21d0-4843-9579-a27b57611cca",
+        "name": "Tommy Gunn",
+        "appearance": null
+      }
+    ]
+  }
+}

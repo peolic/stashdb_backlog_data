@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4776a8d6-aaba-4ef2-bed8-bf9497086e2e",
+        "name": "Mandy & Molly",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5289c66c-1f89-4100-8edb-f6b2ebdc4c67",
+        "name": "Casi James",
+        "appearance": "Mandy"
+      },
+      {
+        "id": "cedfc630-fcf5-43a3-8b7f-26ae7c67c767",
+        "name": "Molly Bennett",
+        "appearance": "Molly"
+      },
+      {
+        "id": "c9858ea0-47ed-477e-8632-ec8dc2fac13a",
+        "name": "Billy Hart",
+        "appearance": null
+      }
+    ]
+  }
+}

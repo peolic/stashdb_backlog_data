@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "45ec2636-c80c-4a4c-9a21-8f73c53ce903",
+        "name": "Summer",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "341b5f4c-7c6a-437e-9197-564024e2aacf",
+        "name": "Kaycee Brooks",
+        "appearance": "Summer"
+      }
+    ]
+  }
+}

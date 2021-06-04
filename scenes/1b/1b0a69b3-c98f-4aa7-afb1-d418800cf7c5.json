@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "acd51fe5-3da5-4df5-b336-7eaf090e24c8",
+        "name": "Lauryn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "421a308e-aa61-4d79-a6c0-f3b6291bbb66",
+        "name": "Payton West",
+        "appearance": "Lauryn"
+      }
+    ]
+  }
+}

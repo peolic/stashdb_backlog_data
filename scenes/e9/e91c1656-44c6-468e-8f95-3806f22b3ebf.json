@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "43641dac-defd-47c2-9ef2-536b0b2c689b",
+        "name": "Demi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "659942c7-e6b9-4b79-8301-d3a4235cdd43",
+        "name": "Alina Ali",
+        "appearance": "Demi"
+      }
+    ]
+  }
+}

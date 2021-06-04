@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "2c10795a-a90b-4ab5-abbd-da874da68fc8",
+        "name": "Alexis Tae",
+        "appearance": null
+      }
+    ]
+  }
+}

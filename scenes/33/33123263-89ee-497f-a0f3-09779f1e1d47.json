@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "2802484a-c5b9-4d12-b60d-db6cb03c2ea4",
+        "name": "Aria Banks",
+        "appearance": null
+      },
+      {
+        "id": "3a699192-46fc-4f6f-be3d-705e6da0dfc0",
+        "name": "Eliza Eves",
+        "appearance": null
+      }
+    ]
+  }
+}

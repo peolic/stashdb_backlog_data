@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a4d1d32c-e2eb-4420-8fd9-8862d7dd78df",
+        "name": "Brit Vs Audrey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6888964b-016a-4173-b72c-c63abd6aa63e",
+        "name": "Audrey Elson",
+        "appearance": null
+      },
+      {
+        "id": "b90aba7c-a74a-4c78-b009-24b706500e85",
+        "name": "Britney Stevens",
+        "appearance": null
+      }
+    ]
+  }
+}

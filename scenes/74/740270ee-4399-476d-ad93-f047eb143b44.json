@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "96b5816d-37d2-42b4-90f0-1d7e4503400f",
+        "name": "Phoebe",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Phoebe ?",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

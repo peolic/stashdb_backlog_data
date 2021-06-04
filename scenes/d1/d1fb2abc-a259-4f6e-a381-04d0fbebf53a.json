@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "87039646-4444-4936-9747-0aa9972d980d",
+        "name": "Misti",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5b35f70d-edd7-4f0e-8b1f-1acefa9b0093",
+        "name": "Misti Jane",
+        "appearance": "Misti"
+      }
+    ]
+  }
+}

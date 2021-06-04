@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c323f4ac-4973-4a97-99b4-e722cacdc73c",
+        "name": "Jenny & Aiden",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a2bdce40-1c2c-4afe-adb1-b66ee3b025ab",
+        "name": "Jenny Anderson",
+        "appearance": "Jenny"
+      },
+      {
+        "id": "53ef2d99-1328-4cb6-bf72-407fbe15a015",
+        "name": "Aiden Aspen",
+        "appearance": "Aiden"
+      },
+      {
+        "id": "7cbb903e-4cd2-40b0-a2d1-ef85f248e0d7",
+        "name": "Xander Corvus",
+        "appearance": null
+      }
+    ]
+  }
+}

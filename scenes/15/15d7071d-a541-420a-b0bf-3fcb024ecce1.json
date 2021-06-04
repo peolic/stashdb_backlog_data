@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "4e849cb7-aa22-43b4-b923-c833caea5d84",
+        "name": "Dillion & Karlie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4917b4d2-f85b-4bcd-b1cd-f4541ce113ef",
+        "name": "Dillion Harper",
+        "appearance": "Dillion"
+      },
+      {
+        "id": "3aa16034-4901-48f3-97c1-02ca921689c8",
+        "name": "Karlie Montana",
+        "appearance": "Karlie"
+      },
+      {
+        "id": "3ef069d7-d654-4671-8a5a-30e84ebcc667",
+        "name": "Richie Calhoun",
+        "appearance": null
+      }
+    ]
+  }
+}

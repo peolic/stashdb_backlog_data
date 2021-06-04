@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "79f7049c-493b-4389-b3b3-b90e856cedc6",
+        "name": "Jane",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jane ?",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}

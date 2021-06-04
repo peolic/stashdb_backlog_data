@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "4854634e-60ec-4803-acf4-30ad956e5d11",
+        "name": "Cara Danvers",
+        "appearance": null
+      }
+    ]
+  }
+}

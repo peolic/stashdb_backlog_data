@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "6870d990-df22-42a5-a356-f009054d236a",
+        "name": "Alessia Luna",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3aef1d06-478c-4fff-9c23-adfa99038d2f",
+        "name": "Kennedy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Abby O'Toole",
+        "appearance": "Kennedy",
+        "status": "new"
+      }
+    ]
+  }
+}

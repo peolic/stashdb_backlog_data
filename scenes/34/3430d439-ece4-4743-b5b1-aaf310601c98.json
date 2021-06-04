@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "8d737a53-f423-4b2e-abc0-6a8724f14aea",
+        "name": "Daisy Lynn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "404f24a6-c6c6-4f45-856f-69eea6b5b6a3",
+        "name": "Kasey Miller",
+        "appearance": "Daisy Lynne"
+      }
+    ]
+  }
+}

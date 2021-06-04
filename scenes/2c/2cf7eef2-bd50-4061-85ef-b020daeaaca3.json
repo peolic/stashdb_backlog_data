@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5c00bf7c-22f5-48c2-aad4-1dbc82ae46fe",
+        "name": "Luscious & Ms.Cleo",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "54f5a0fa-3a28-418c-a62f-f7952f9ba149",
+        "name": "Luscious Louis",
+        "appearance": "Luscious"
+      },
+      {
+        "id": "033c68f5-7615-4529-9c1a-a3165234840f",
+        "name": "Ms. Cleo",
+        "appearance": null
+      }
+    ]
+  }
+}

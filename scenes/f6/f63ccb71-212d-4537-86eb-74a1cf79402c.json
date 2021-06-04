@@ -1,0 +1,22 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "cc0854d8-4868-4b0c-882e-3bea9955c886",
+        "name": "Karina White",
+        "appearance": null
+      },
+      {
+        "id": "b1da23f8-79f6-421a-b8db-c2439d395c5e",
+        "name": "Katie Jordin",
+        "appearance": null
+      },
+      {
+        "id": "a8cad2fa-62f3-4da9-9701-a9c39f55a3e2",
+        "name": "Lexi Bloom",
+        "appearance": null
+      }
+    ]
+  }
+}

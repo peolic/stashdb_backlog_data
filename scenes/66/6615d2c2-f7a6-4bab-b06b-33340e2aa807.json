@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "1c714889-8f25-4fcf-9fd6-46ad35f33a47",
+        "name": "Jayme Langford",
+        "appearance": "Jasmine",
+        "old_appearance": null
+      }
+    ]
+  }
+}

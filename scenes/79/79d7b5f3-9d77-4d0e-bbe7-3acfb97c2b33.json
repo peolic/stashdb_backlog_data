@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "bc304cc3-7ecc-469b-a566-1762a769a1b0",
+        "name": "Codi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "029db2a2-3cbe-4d48-8852-ebe8780a39ad",
+        "name": "Codi Milo",
+        "appearance": "Codi"
+      }
+    ]
+  }
+}

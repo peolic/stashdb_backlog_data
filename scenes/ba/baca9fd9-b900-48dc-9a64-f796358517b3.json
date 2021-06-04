@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a005b1da-bd20-46db-a43a-ec03542b46ec",
+        "name": "Rose",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8e37a45c-8b63-4149-a44e-6db5ae5490b2",
+        "name": "Rose D",
+        "appearance": "Rose"
+      },
+      {
+        "id": "5334ac18-f18d-4ad0-91ae-ada88e1754b9",
+        "name": "Ruby Rayes",
+        "appearance": null
+      }
+    ]
+  }
+}

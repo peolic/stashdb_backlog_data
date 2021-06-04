@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "976ab0df-fc1e-4d6a-b24a-56309df4be2a",
+        "name": "Cyrstal Rae",
+        "appearance": null
+      }
+    ]
+  }
+}

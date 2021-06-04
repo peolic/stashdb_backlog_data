@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "127b12a1-0103-4086-8e2b-3c3747d7714b",
+        "name": "Eva Notty",
+        "appearance": "Eva"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Chloe Dreams",
+        "appearance": "Chloe",
+        "status": "new"
+      }
+    ]
+  }
+}

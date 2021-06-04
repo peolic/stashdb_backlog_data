@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a5ea6a71-9d27-46fb-a80b-1bd701dd6e12",
+        "name": "Ayanna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "aff01dfe-9467-4548-bfc9-aaa04c38b32b",
+        "name": "Charley Chase",
+        "appearance": "Ayanna"
+      }
+    ]
+  }
+}

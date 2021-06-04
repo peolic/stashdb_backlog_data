@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0f5a6c4b-b67f-435c-94ad-cc194be47c66",
+        "name": "Kenzi Ryans",
+        "appearance": "Kenzi"
+      },
+      {
+        "id": "23d6029c-5c15-4909-be71-d15719eb1a3d",
+        "name": "Jake Adams",
+        "appearance": "Jake"
+      }
+    ]
+  }
+}

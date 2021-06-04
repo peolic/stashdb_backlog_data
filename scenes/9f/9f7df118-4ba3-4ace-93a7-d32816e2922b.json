@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "7e1d9cdb-31c5-4fcc-b1ea-3a94ff7d9bbb",
+        "name": "Jade",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jade",
+        "appearance": null,
+        "disambiguation": "2005, We Live Together",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "30f9e014-f606-4887-87b4-bbce4f3007d7",
+        "name": "Vanessa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "01fb2432-8191-41bc-9d7f-c398928210c3",
+        "name": "Bea Wolf",
+        "appearance": "Vanessa"
+      }
+    ]
+  }
+}

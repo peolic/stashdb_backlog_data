@@ -1,0 +1,28 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "a6fe4e76-eefd-4c8a-91fd-575b6ca9be62",
+        "name": "Kelly & Charley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ba956913-3686-4304-9dd6-2ff4224f5377",
+        "name": "Kelly Divine",
+        "appearance": "Kelly"
+      },
+      {
+        "id": "aff01dfe-9467-4548-bfc9-aaa04c38b32b",
+        "name": "Charley Chase",
+        "appearance": null
+      },
+      {
+        "id": "555d897a-add7-486a-894d-5caab071f39d",
+        "name": "Danny Wylde",
+        "appearance": null
+      }
+    ]
+  }
+}

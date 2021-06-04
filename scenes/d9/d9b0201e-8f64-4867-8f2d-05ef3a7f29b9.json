@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "130221c5-02ac-4b9a-b329-b3f8ab209805",
+        "name": "Emma Hix",
+        "appearance": null
+      }
+    ]
+  }
+}
