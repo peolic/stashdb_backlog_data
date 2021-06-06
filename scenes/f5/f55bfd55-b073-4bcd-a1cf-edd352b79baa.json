@@ -1,0 +1,26 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "f8f6b564-1435-47ab-993b-77de5c347c6c",
+        "name": "Lena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fcb777bd-d7c5-442c-988d-bc3e3e98de5d",
+        "name": "Lena Alexis",
+        "appearance": "Lena"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1830%3a+lena/year=2019/castingcouch%2dhd-1830-lena.htm"
+  ]
+}

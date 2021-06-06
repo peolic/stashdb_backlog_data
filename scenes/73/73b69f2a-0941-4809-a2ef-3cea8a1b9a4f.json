@@ -1,0 +1,36 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "0c0ba619-336b-48fe-aa0e-8ce663bcda3f",
+        "name": "Paisley",
+        "appearance": null
+      },
+      {
+        "id": "a005b1da-bd20-46db-a43a-ec03542b46ec",
+        "name": "Rose",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1a61e953-a44b-40f9-9759-969cef9a6d03",
+        "name": "Paisley Brooks",
+        "appearance": "Paisley"
+      },
+      {
+        "id": "fd466ef0-5a66-4e46-a8f0-4c1e5f607a27",
+        "name": "Maya Kendrick",
+        "appearance": "Rose"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+906%3a+paisley+and+rose/year=2016/netvideogirls_906%3a_paisley_and_rose.htm"
+  ]
+}
