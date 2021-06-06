@@ -11,57 +11,57 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout tools repository
-      uses: actions/checkout@v2
-      with:
-        repository: peolic/stashdb_backlog
-        token: ${{ secrets.TOKEN }}
-        path: backlog
+      - name: Checkout tools repository
+        uses: actions/checkout@v2
+        with:
+          repository: peolic/stashdb_backlog
+          token: ${{ secrets.TOKEN }}
+          path: backlog
 
-    - name: Checkout data repository
-      uses: actions/checkout@v2
-      with:
-        path: backlog/backlog_data
+      - name: Checkout data repository
+        uses: actions/checkout@v2
+        with:
+          path: backlog/backlog_data
 
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.9
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
 
-    - name: Install dependencies
-      working-directory: backlog
-      run: |
-        python -m pip install --upgrade pip
-        pip install beautifulsoup4 cssutils requests
+      - name: Install dependencies
+        working-directory: backlog
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 cssutils requests
 
-    - name: Generate new data
-      working-directory: backlog
-      run: |
-        python make_backlog_data.py
+      - name: Generate new data
+        working-directory: backlog
+        run: |
+          python make_backlog_data.py
 
-    - name: Check for changes
-      working-directory: backlog/backlog_data
-      run: |
-        git add --intent-to-add .
-        if git diff --exit-code; then
-          echo "changes_exist=false" >> $GITHUB_ENV
-        else
-          echo "changes_exist=true" >> $GITHUB_ENV
-        fi
+      - name: Check for changes
+        working-directory: backlog/backlog_data
+        run: |
+          git add --intent-to-add .
+          if git diff --exit-code; then
+            echo "changes_exist=false" >> $GITHUB_ENV
+          else
+            echo "changes_exist=true" >> $GITHUB_ENV
+          fi
 
-    - name: Commit files
-      if: ${{ env.changes_exist == 'true' }}
-      working-directory: backlog/backlog_data
-      run: |
-        git config --local user.email "66393006+peolic@users.noreply.github.com"
-        git config --local user.name "peolic"
-        git add -A
-        git commit -m "update data"
+      - name: Commit files
+        if: ${{ env.changes_exist == 'true' }}
+        working-directory: backlog/backlog_data
+        run: |
+          git config --local user.email "66393006+peolic@users.noreply.github.com"
+          git config --local user.name "peolic"
+          git add -A
+          git commit -m "update data"
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      if: ${{ env.changes_exist == 'true' }}
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
-        directory: backlog/backlog_data
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        if: ${{ env.changes_exist == 'true' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          directory: backlog/backlog_data
