@@ -61,6 +61,6 @@ jobs:
       uses: ad-m/github-push-action@master
       if: ${{ env.changes_exist == 'true' }}
       with:
-        github_token: ${{ secrets.TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
         directory: backlog/backlog_data
