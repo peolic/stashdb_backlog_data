@@ -43,7 +43,7 @@ jobs:
         working-directory: backlog/backlog_data
         run: |
           git add --intent-to-add .
-          if git diff --exit-code; then
+          if git diff --stat --exit-code; then
             echo "changes_exist=false" >> $GITHUB_ENV
           else
             echo "changes_exist=true" >> $GITHUB_ENV
