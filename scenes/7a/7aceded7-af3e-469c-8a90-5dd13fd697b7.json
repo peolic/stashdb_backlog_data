@@ -1,0 +1,15 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1966%3a+ava/year=2020/castingcouch%2dhd-1966-ava.htm"
+  ]
+}
