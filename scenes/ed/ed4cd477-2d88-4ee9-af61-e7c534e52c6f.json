@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ef8ce727-b30d-485b-96ce-ce7f621aa1f2",
+        "name": "Colby",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fcab4202-3584-4247-9aad-e8e9213aceab",
+        "name": "Colby McAdams",
+        "appearance": "Colby"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1097%3a+colby/year=2009/backroom-casting-couch-1097-colby.htm"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "57c5a9e9-fcc2-422a-bff0-448efe1e65e3",
+        "name": "Elizabeth",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Elizabeth",
+        "appearance": null,
+        "disambiguation": "2009, ExploitedX",
+        "status": "new"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1071%3a+elizabeth/year=2009/backroom-casting-couch-1071-elizabeth.htm"
+  ]
+}

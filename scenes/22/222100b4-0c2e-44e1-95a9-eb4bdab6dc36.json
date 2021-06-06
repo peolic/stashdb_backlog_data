@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6a1ca62e-4cbe-4036-9313-3aadace94074",
+        "name": "Kaitlynn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f05e46b3-1ee7-4f59-8d74-eda5b51aeea3",
+        "name": "Elle Michaels",
+        "appearance": "Kaitlynn"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1184%3a+kaitlynn/year=2010/backroom_casting_couch_1184%3a_kaitlynn.htm"
+  ]
+}

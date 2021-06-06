@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "6de67999-4519-4896-b52f-def78a8de464",
+        "name": "Kim",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e0ca739d-ed95-4fbc-bb6a-c40886deaa73",
+        "name": "Kim Torres",
+        "appearance": "Kim"
+      }
+    ]
+  },
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1562%3a+kim/year=2019/backroom_casting_couch_1562%3a_kim.htm"
+  ]
+}
