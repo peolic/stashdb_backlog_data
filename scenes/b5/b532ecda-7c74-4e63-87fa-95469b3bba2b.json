@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=when+in+rome/year=2012/when-in-rome.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -24,8 +27,5 @@
         "appearance": null
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=when+in+rome/year=2012/when-in-rome.htm"
-  ]
+  }
 }

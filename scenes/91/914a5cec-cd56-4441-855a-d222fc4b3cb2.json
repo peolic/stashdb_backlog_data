@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=avy+part+deux/year=2004/avy-part-deux.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Avy"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=avy+part+deux/year=2004/avy-part-deux.htm"
-  ]
+  }
 }

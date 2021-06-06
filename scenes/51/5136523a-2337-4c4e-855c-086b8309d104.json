@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=cum+on+over/year=2006/cum-on-over.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -24,8 +27,5 @@
         "appearance": "Brian"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=cum+on+over/year=2006/cum-on-over.htm"
-  ]
+  }
 }

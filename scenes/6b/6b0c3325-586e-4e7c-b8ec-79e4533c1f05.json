@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl%3a+ashley+and+lex/year=2018/net_girl%3a_ashley_and_lex.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Ashley"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=net+girl%3a+ashley+and+lex/year=2018/net_girl%3a_ashley_and_lex.htm"
-  ]
+  }
 }

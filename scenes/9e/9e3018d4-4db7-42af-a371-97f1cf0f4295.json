@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1759%3a+natalie/year=2019/net-girl-1759-natalie.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Donnie"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=net+girl+1759%3a+natalie/year=2019/net-girl-1759-natalie.htm"
-  ]
+  }
 }

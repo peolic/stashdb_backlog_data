@@ -1,5 +1,7 @@
 {
-  "title": "Sinnamon",
+  "comments": [
+    "https://www.iafd.com/title.rme/title=sinnamon/year=2004/sinnamon.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -16,7 +18,5 @@
       }
     ]
   },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=sinnamon/year=2004/sinnamon.htm"
-  ]
+  "title": "Sinnamon"
 }

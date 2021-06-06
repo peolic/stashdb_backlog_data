@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1674%3a+alex/year=2019/castingcouch%2dhd_1674%3a_alex.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -25,8 +28,5 @@
         "appearance": "Jonte"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1674%3a+alex/year=2019/castingcouch%2dhd_1674%3a_alex.htm"
-  ]
+  }
 }

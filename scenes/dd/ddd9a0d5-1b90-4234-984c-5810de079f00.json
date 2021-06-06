@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "Tagged incorrectly"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Hunter"
       }
     ]
-  },
-  "comments": [
-    "Tagged incorrectly"
-  ]
+  }
 }

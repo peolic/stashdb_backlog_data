@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=taylor+2/year=2004/taylor-2.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -14,8 +17,5 @@
         "appearance": "Taylor"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=taylor+2/year=2004/taylor-2.htm"
-  ]
+  }
 }

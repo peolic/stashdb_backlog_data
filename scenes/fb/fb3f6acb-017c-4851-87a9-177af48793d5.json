@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "Already linked as Angel Reign"
+  ],
   "performers": {
     "remove": [
       {
@@ -8,8 +11,5 @@
       }
     ],
     "append": []
-  },
-  "comments": [
-    "Already linked as Angel Reign"
-  ]
+  }
 }

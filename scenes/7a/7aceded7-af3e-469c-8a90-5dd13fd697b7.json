@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1966%3a+ava/year=2020/castingcouch%2dhd-1966-ava.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Chris"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1966%3a+ava/year=2020/castingcouch%2dhd-1966-ava.htm"
-  ]
+  }
 }

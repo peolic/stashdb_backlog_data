@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=sexual+charity/year=2018/sexual-charity.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": null
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=sexual+charity/year=2018/sexual-charity.htm"
-  ]
+  }
 }

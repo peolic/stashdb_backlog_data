@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=double+trouble+%28v%29/year=2006/double-trouble-%28v%29.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Melissa"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=double+trouble+%28v%29/year=2006/double-trouble-%28v%29.htm"
-  ]
+  }
 }

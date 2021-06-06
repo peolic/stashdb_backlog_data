@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=big+apple+pie/year=2002/big-apple-pie.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -19,8 +22,5 @@
         "appearance": "Harley"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=big+apple+pie/year=2002/big-apple-pie.htm"
-  ]
+  }
 }

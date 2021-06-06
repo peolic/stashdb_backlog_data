@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1830%3a+lena/year=2019/castingcouch%2dhd-1830-lena.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -19,8 +22,5 @@
         "appearance": "Chris"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1830%3a+lena/year=2019/castingcouch%2dhd-1830-lena.htm"
-  ]
+  }
 }

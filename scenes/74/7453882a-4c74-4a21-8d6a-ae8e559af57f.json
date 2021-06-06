@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/m/iza-ashley"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Alina"
       }
     ]
-  },
-  "comments": [
-    "https://www.indexxx.com/m/iza-ashley"
-  ]
+  }
 }

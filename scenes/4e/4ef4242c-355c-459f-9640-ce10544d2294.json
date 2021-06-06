@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd%3a+christian/year=2018/castingcouch%2dhd%3a_christian.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Chris"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd%3a+christian/year=2018/castingcouch%2dhd%3a_christian.htm"
-  ]
+  }
 }

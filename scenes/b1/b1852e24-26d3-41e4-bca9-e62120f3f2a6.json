@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1562%3a+kim/year=2019/backroom_casting_couch_1562%3a_kim.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Kim"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1562%3a+kim/year=2019/backroom_casting_couch_1562%3a_kim.htm"
-  ]
+  }
 }

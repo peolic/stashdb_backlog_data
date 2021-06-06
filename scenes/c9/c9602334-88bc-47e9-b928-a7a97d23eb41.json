@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=susan+2/year=2004/susan-2.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Susan"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=susan+2/year=2004/susan-2.htm"
-  ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "comments": [
+    "From 'Jonte' tag",
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd%3a+april/year=2018/castingcouch%2dhd%3a_april.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -24,9 +28,5 @@
         "appearance": null
       }
     ]
-  },
-  "comments": [
-    "From 'Jonte' tag",
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd%3a+april/year=2018/castingcouch%2dhd%3a_april.htm"
-  ]
+  }
 }

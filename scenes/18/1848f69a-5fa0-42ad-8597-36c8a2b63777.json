@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "From 'Donnie' tag"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Donnie"
       }
     ]
-  },
-  "comments": [
-    "From 'Donnie' tag"
-  ]
+  }
 }

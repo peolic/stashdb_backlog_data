@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1572%3a+sami/year=2019/backroom_casting_couch_1572%3a_sami.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Sami"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1572%3a+sami/year=2019/backroom_casting_couch_1572%3a_sami.htm"
-  ]
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1875%3a+kourtney/year=2019/castingcouch%2dhd-1875-kourtney.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Chris"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1875%3a+kourtney/year=2019/castingcouch%2dhd-1875-kourtney.htm"
-  ]
+  }
 }

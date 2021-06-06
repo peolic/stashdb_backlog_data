@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=bust+a+move/year=2006/bust-a-move.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -9,8 +12,5 @@
         "disambiguation": "2003-2009, Reality Kings"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=bust+a+move/year=2006/bust-a-move.htm"
-  ]
+  }
 }

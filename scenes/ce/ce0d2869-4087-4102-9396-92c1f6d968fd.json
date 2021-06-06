@@ -1,5 +1,7 @@
 {
-  "title": "Lolo Lolo Lola",
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lolo+lolo+lola/year=2004/lolo-lolo-lola.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -16,7 +18,5 @@
       }
     ]
   },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=lolo+lolo+lola/year=2004/lolo-lolo-lola.htm"
-  ]
+  "title": "Lolo Lolo Lola"
 }

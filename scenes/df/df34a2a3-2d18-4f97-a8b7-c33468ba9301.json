@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "http://www.data18.com/content/14012"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Hunter"
       }
     ]
-  },
-  "comments": [
-    "http://www.data18.com/content/14012"
-  ]
+  }
 }

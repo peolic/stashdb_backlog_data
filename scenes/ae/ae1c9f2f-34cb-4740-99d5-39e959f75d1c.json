@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=ice%2cice%2cbaby/year=2004/ice%2cice%2cbaby.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Ice"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=ice%2cice%2cbaby/year=2004/ice%2cice%2cbaby.htm"
-  ]
+  }
 }

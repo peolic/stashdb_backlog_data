@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=tight+package/year=2004/tight-package.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Mckenzie"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=tight+package/year=2004/tight-package.htm"
-  ]
+  }
 }

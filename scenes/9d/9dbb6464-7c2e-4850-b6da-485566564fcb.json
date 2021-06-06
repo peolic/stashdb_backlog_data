@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/m/kelsie-s"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Jelena"
       }
     ]
-  },
-  "comments": [
-    "https://www.indexxx.com/m/kelsie-s"
-  ]
+  }
 }

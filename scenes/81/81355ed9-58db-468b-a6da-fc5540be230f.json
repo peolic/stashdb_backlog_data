@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1858%3a+ashley/year=2019/castingcouch%2dhd-1858-ashley.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -21,8 +24,5 @@
         "appearance": "Chris"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1858%3a+ashley/year=2019/castingcouch%2dhd-1858-ashley.htm"
-  ]
+  }
 }

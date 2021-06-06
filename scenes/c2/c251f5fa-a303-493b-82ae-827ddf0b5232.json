@@ -1,5 +1,7 @@
 {
-  "title": "Luna Luna Luna",
+  "comments": [
+    "https://www.iafd.com/title.rme/title=luna+luna+luna/year=2004/luna-luna-luna.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -11,7 +13,5 @@
       }
     ]
   },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=luna+luna+luna/year=2004/luna-luna-luna.htm"
-  ]
+  "title": "Luna Luna Luna"
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "From 'Jante' tag"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Jonte"
       }
     ]
-  },
-  "comments": [
-    "From 'Jante' tag"
-  ]
+  }
 }

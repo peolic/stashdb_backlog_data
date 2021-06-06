@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=asian+contemporary/year=2011/asian-contemporary.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -24,8 +27,5 @@
         "appearance": "Ariel B"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=asian+contemporary/year=2011/asian-contemporary.htm"
-  ]
+  }
 }

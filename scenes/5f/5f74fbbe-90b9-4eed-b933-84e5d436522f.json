@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=double+d+payment/year=2012/double-d-payment.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Steve"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=double+d+payment/year=2012/double-d-payment.htm"
-  ]
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/m/genie-onyx"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Natalie"
       }
     ]
-  },
-  "comments": [
-    "https://www.indexxx.com/m/genie-onyx"
-  ]
+  }
 }

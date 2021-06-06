@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=karina+1/year=2004/karina-1.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Karina"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=karina+1/year=2004/karina-1.htm"
-  ]
+  }
 }

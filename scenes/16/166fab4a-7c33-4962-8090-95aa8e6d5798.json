@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=knockboot+trilogy/year=2003/knockboot-trilogy.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Hunter"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=knockboot+trilogy/year=2003/knockboot-trilogy.htm"
-  ]
+  }
 }

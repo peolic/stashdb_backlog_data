@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=turn+on/year=2004/turn-on.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Madison"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=turn+on/year=2004/turn-on.htm"
-  ]
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1071%3a+elizabeth/year=2009/backroom-casting-couch-1071-elizabeth.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -16,8 +19,5 @@
         "status": "new"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1071%3a+elizabeth/year=2009/backroom-casting-couch-1071-elizabeth.htm"
-  ]
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lena/year=2004/lena.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -14,8 +17,5 @@
         "appearance": "Lena"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=lena/year=2004/lena.htm"
-  ]
+  }
 }

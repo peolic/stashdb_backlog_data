@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=case+no.7485960/year=2019/case-no%2e7485960.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": null
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=case+no.7485960/year=2019/case-no%2e7485960.htm"
-  ]
+  }
 }

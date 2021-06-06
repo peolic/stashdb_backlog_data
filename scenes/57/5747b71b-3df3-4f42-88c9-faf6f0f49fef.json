@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "'Kristen' seems to be a typo on the site"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": null
       }
     ]
-  },
-  "comments": [
-    "'Kristen' seems to be a typo on the site"
-  ]
+  }
 }

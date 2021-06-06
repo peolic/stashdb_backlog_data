@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=case+no.+8182546/year=2016/case-no%2e-8182546.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": null
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=case+no.+8182546/year=2016/case-no%2e-8182546.htm"
-  ]
+  }
 }

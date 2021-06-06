@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=return+of+isabella/year=2004/return-of-isabella.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Isabella"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=return+of+isabella/year=2004/return-of-isabella.htm"
-  ]
+  }
 }

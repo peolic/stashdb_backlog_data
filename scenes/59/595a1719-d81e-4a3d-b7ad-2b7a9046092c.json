@@ -1,4 +1,8 @@
 {
+  "comments": [
+    "From 'Jonte' tag",
+    "https://www.iafd.com/title.rme/title=net+girl%3a+lex+and+aria/year=2018/net_girl%3a_lex_and_aria.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -19,9 +23,5 @@
         "appearance": "Jonte"
       }
     ]
-  },
-  "comments": [
-    "From 'Jonte' tag",
-    "https://www.iafd.com/title.rme/title=net+girl%3a+lex+and+aria/year=2018/net_girl%3a_lex_and_aria.htm"
-  ]
+  }
 }

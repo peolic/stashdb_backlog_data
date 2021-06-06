@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=more+than+friends+4/year=2015/more-than-friends-4.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -19,8 +22,5 @@
         "appearance": "James"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=more+than+friends+4/year=2015/more-than-friends-4.htm"
-  ]
+  }
 }

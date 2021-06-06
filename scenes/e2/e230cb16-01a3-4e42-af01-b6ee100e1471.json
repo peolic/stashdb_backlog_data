@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "Remove duped alias"
+  ],
   "performers": {
     "remove": [],
     "append": [],
@@ -10,8 +13,5 @@
         "old_appearance": "Sarah Kay"
       }
     ]
-  },
-  "comments": [
-    "Remove duped alias"
-  ]
+  }
 }

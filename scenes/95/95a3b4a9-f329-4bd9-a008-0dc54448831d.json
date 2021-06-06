@@ -1,5 +1,7 @@
 {
-  "title": "Bridgette's Interview",
+  "comments": [
+    "https://www.iafd.com/title.rme/title=bridgette%27s+interview/year=2004/bridgette&apos;s-interview.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -11,7 +13,5 @@
       }
     ]
   },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=bridgette%27s+interview/year=2004/bridgette&apos;s-interview.htm"
-  ]
+  "title": "Bridgette's Interview"
 }

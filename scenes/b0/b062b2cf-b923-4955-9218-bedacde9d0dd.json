@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=furry+friend/year=2003/furry-friend.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Madison"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=furry+friend/year=2003/furry-friend.htm"
-  ]
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/m/ariadna-moon"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Erica"
       }
     ]
-  },
-  "comments": [
-    "https://www.indexxx.com/m/ariadna-moon"
-  ]
+  }
 }

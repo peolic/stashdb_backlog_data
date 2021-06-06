@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=natasha+2/year=2004/natasha-2.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -9,8 +12,5 @@
         "status": "new"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=natasha+2/year=2004/natasha-2.htm"
-  ]
+  }
 }

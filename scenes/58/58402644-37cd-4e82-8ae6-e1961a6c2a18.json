@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=brandi+1/year=2004/brandi-1.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -9,8 +12,5 @@
         "disambiguation": "2004-05, Bang Bros"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=brandi+1/year=2004/brandi-1.htm"
-  ]
+  }
 }

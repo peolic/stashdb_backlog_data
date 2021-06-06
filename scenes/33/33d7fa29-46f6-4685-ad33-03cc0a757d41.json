@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=pink+lace/year=2006/pink-lace.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -9,8 +12,5 @@
         "disambiguation": "2002-2006, Reality Kings"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=pink+lace/year=2006/pink-lace.htm"
-  ]
+  }
 }

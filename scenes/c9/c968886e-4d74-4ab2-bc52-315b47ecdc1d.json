@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/set/19229/bang-bus-ashley/"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Ashley"
       }
     ]
-  },
-  "comments": [
-    "https://www.indexxx.com/set/19229/bang-bus-ashley/"
-  ]
+  }
 }

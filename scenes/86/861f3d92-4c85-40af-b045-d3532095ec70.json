@@ -1,4 +1,8 @@
 {
+  "comments": [
+    "From 'Jonte' tag",
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1660%3a+anna/year=2019/castingcouch%2dhd_1660%3a_anna.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -24,9 +28,5 @@
         "appearance": "Chris"
       }
     ]
-  },
-  "comments": [
-    "From 'Jonte' tag",
-    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1660%3a+anna/year=2019/castingcouch%2dhd_1660%3a_anna.htm"
-  ]
+  }
 }

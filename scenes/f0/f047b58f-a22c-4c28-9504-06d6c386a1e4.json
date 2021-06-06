@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=wild+lioness/year=2008/wild-lioness.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -26,8 +29,5 @@
         "status": "new"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=wild+lioness/year=2008/wild-lioness.htm"
-  ]
+  }
 }

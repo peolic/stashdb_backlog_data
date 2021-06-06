@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=harmony/year=2004/harmony.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
@@ -8,8 +11,5 @@
         "appearance": "Harmony"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=harmony/year=2004/harmony.htm"
-  ]
+  }
 }

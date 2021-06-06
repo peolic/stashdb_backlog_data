@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=whatever+it+takes/year=2005/whatever-it-takes.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -16,8 +19,5 @@
         "status": "new"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=whatever+it+takes/year=2005/whatever-it-takes.htm"
-  ]
+  }
 }

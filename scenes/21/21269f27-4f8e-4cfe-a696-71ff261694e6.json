@@ -1,4 +1,8 @@
 {
+  "comments": [
+    "From 'Jonte' tag",
+    "https://www.iafd.com/title.rme/title=net+girl%3a+athena+and+destiny/year=2018/net_girl%3a_athena_and_destiny.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -29,9 +33,5 @@
         "appearance": "Jonte"
       }
     ]
-  },
-  "comments": [
-    "From 'Jonte' tag",
-    "https://www.iafd.com/title.rme/title=net+girl%3a+athena+and+destiny/year=2018/net_girl%3a_athena_and_destiny.htm"
-  ]
+  }
 }

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=mary+jane+mayhem/year=2012/mary-jane-mayhem.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Alex"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=mary+jane+mayhem/year=2012/mary-jane-mayhem.htm"
-  ]
+  }
 }

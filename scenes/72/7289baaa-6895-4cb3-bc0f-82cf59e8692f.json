@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=tight+package+%28ii%29/year=2004/tight-package-%28ii%29.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -14,8 +17,5 @@
         "appearance": "Sabina"
       }
     ]
-  },
-  "comments": [
-    "https://www.iafd.com/title.rme/title=tight+package+%28ii%29/year=2004/tight-package-%28ii%29.htm"
-  ]
+  }
 }
