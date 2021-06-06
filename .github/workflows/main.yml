@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         path: backlog/backlog_data
-        
+
     - name: Set up Python 3.9
       uses: actions/setup-python@v2
       with:
@@ -42,6 +42,7 @@ jobs:
     - name: Check for changes
       working-directory: backlog/backlog_data
       run: |
+        git add --intent-to-add .
         if git diff --exit-code; then
           echo "changes_exist=false" >> $GITHUB_ENV
         else
