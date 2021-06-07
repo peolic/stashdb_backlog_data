@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "60b847d4-0058-4517-a93c-7e34808c437d",
+        "name": "Justin Magnum",
+        "appearance": null
+      }
+    ]
+  }
+}
