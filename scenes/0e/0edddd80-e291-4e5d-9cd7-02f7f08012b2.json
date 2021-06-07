@@ -1,7 +1,4 @@
 {
-  "comments": [
-    "From 'Jonte' tag"
-  ],
   "performers": {
     "remove": [
       {
@@ -15,11 +12,6 @@
         "id": "8594a3a2-27a6-411a-bf96-90d551a31996",
         "name": "Karmen Santana",
         "appearance": "Carmen"
-      },
-      {
-        "id": "7c06cc04-d37e-47cc-bdf6-5b6f831dcc54",
-        "name": "Jax Slayher",
-        "appearance": "Jonte"
       }
     ]
   }
