@@ -9,6 +9,10 @@ jobs:
   main:
     name: Update Data
     runs-on: ubuntu-latest
+    
+    env:
+      PATH_TOOLS: backlog
+      PATH_DATA: backlog/backlog_data
 
     steps:
       - name: Checkout tools repository
@@ -16,12 +20,12 @@ jobs:
         with:
           repository: peolic/stashdb_backlog
           token: ${{ secrets.TOKEN }}
-          path: backlog
+          path: ${{ env.PATH_TOOLS }}
 
       - name: Checkout data repository
         uses: actions/checkout@v2
         with:
-          path: backlog/backlog_data
+          path: ${{ env.PATH_DATA }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
@@ -29,18 +33,18 @@ jobs:
           python-version: 3.9
 
       - name: Install dependencies
-        working-directory: backlog
+        working-directory: ${{ env.PATH_TOOLS }}
         run: |
           python -m pip install --upgrade pip
           pip install beautifulsoup4 cssutils requests
 
       - name: Generate new data
-        working-directory: backlog
+        working-directory: ${{ env.PATH_TOOLS }}
         run: |
           python make_backlog_data.py
 
       - name: Check for changes
-        working-directory: backlog/backlog_data
+        working-directory: ${{ env.PATH_DATA }}
         run: |
           git add --intent-to-add .
           if git diff --stat --exit-code; then
@@ -51,7 +55,7 @@ jobs:
 
       - name: Commit files
         if: ${{ env.changes_exist == 'true' }}
-        working-directory: backlog/backlog_data
+        working-directory: ${{ env.PATH_DATA }}
         run: |
           git config --local user.email "66393006+peolic@users.noreply.github.com"
           git config --local user.name "peolic"
@@ -64,4 +68,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-          directory: backlog/backlog_data
+          directory: ${{ env.PATH_DATA }}
