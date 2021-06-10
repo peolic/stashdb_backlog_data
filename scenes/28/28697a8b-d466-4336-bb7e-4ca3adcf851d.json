@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821",
+    "\"Ep 2014-12-25 - Selma Returns ... Josie Jagger\""
+  ],
+  "date": "2014-12-25",
+  "performers": {
+    "remove": [
+      {
+        "id": "3415c236-de6e-4ced-bfa0-c844a1d0473f",
+        "name": "Selma",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "42767d4f-29c8-4f5b-9415-f1cb55d485bb",
+        "name": "Josie Jagger",
+        "appearance": "Selma"
+      }
+    ]
+  }
+}
