@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd%3a+rebecca/year=2017/castingcouch%2dhd-rebecca.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "b8633cd3-6066-43f6-a806-d5b94374a14d",
+        "name": "Rebecca",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fe42a44d-0764-441a-abf6-40be44bc9641",
+        "name": "Chanel Carson",
+        "appearance": "Rebecca"
+      }
+    ]
+  }
+}

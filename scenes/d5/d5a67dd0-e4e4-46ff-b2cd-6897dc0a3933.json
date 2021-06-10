@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1932%3a+rose/year=2020/netvideogirls-1932-rose.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a005b1da-bd20-46db-a43a-ec03542b46ec",
+        "name": "Rose",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8884a41c-0fe0-446b-84e5-381cac915e88",
+        "name": "Rose Banks",
+        "appearance": "Rose"
+      }
+    ]
+  }
+}
