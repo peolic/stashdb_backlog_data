@@ -10,6 +10,14 @@
         "name": "Tee Reel",
         "appearance": "Chris"
       }
+    ],
+    "update": [
+      {
+        "id": "ef21ab8d-24e0-4b54-8eb1-8bae59016f63",
+        "name": "Ava Valentina",
+        "appearance": "Ava",
+        "old_appearance": null
+      }
     ]
   }
 }

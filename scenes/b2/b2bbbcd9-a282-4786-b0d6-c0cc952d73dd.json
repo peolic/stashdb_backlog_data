@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": null,
+        "name": "Margaret",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "2015-07-18",
+        "appearance": null
+      }
+    ]
+  }
+}

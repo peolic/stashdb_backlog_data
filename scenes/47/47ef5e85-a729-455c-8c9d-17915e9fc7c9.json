@@ -1,4 +1,5 @@
 {
+  "duration": "5785",
   "performers": {
     "remove": [],
     "append": [
@@ -6,6 +7,11 @@
         "id": "8d51ce19-e937-4706-bb90-d232a9ed59c3",
         "name": "Maddy May",
         "appearance": null
+      },
+      {
+        "id": "a1aaf2e9-5519-4dc8-a52c-8c364545c805",
+        "name": "J. Jay",
+        "appearance": "Jay"
       }
     ]
   }

@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": null,
+        "name": "Sydney",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "2019-04-03",
+        "appearance": null
+      }
+    ]
+  }
+}
