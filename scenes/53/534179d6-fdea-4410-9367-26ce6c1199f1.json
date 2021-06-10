@@ -1,17 +1,26 @@
 {
+  "comments": [
+    "From 'Mark' tag",
+    "https://www.iafd.com/title.rme/title=netvideogirls+1817%3a+jaimie/year=2019/netvideogirls_1817%3a_jaimie.htm"
+  ],
   "performers": {
     "remove": [
       {
-        "id": null,
+        "id": "6c3ccc20-d764-40e4-a642-249ffae35e73",
         "name": "Jaimie",
         "appearance": null
       }
     ],
     "append": [
       {
-        "id": null,
-        "name": "2019-10-15",
-        "appearance": null
+        "id": "4aba8e0d-f53e-45f6-b6b3-e5616e9cc6f3",
+        "name": "Jaimie Vine",
+        "appearance": "Jaimie"
+      },
+      {
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
       }
     ]
   }

@@ -1,17 +1,14 @@
 {
+  "comments": [
+    "From 'Mark' tag"
+  ],
   "performers": {
-    "remove": [
-      {
-        "id": null,
-        "name": "Raye",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
       {
-        "id": null,
-        "name": "2019-06-25",
-        "appearance": null
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
       }
     ]
   }

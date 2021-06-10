@@ -1,17 +1,26 @@
 {
+  "comments": [
+    "From 'Mark' tag",
+    "https://www.iafd.com/title.rme/title=netvideogirls+1833%3a+sadie/year=2019/netvideogirls-1833-sadie.htm"
+  ],
   "performers": {
     "remove": [
       {
-        "id": null,
+        "id": "0a16757d-a558-4879-ab10-1ab6175c403f",
         "name": "Sadie",
         "appearance": null
       }
     ],
     "append": [
       {
-        "id": null,
-        "name": "2019-10-29",
-        "appearance": null
+        "id": "2164c544-89dd-46d2-b9c5-f88a31262fd4",
+        "name": "Sadie Creams",
+        "appearance": "Sadie"
+      },
+      {
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
       }
     ]
   }

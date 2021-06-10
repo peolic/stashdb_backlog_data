@@ -1,17 +1,15 @@
 {
+  "comments": [
+    "From 'Mark' tag",
+    "https://www.iafd.com/title.rme/title=netvideogirls+1643%3a+katya/year=2019/netvideogirls-1643-katya.htm"
+  ],
   "performers": {
-    "remove": [
-      {
-        "id": null,
-        "name": "Katya",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
       {
-        "id": null,
-        "name": "2019-04-16",
-        "appearance": null
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
       }
     ]
   }
