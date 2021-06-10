@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "From 'Donnie' tag",
+    "https://www.iafd.com/title.rme/title=netvideogirls+1684%3a+ari/year=2019/netvideogirls-1684-ari.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "47fd30f5-8a74-404d-8a77-125aca89aa73",
+        "name": "Ari",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Ari Garcia",
+        "appearance": "Ari",
+        "status": "new"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

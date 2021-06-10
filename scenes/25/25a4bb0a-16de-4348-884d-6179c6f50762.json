@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
+    "\"Ep 2014.02 - Nala = Naya Lynn (CCHD)\"",
+    "https://www.freeones.com/forums/threads/naya-lynn.757397/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "7d9f0c70-8045-4320-9bcc-c515448ddb11",
+        "name": "Nala",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Naya Lynn",
+        "appearance": "Nala",
+        "status": "new"
+      }
+    ]
+  }
+}

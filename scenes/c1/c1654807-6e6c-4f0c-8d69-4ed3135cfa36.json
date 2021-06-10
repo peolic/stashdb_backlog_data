@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1744%3a+adira+and+anastasia/year=2019/net_girl_1744%3a_adira_and_anastasia.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5b921829-239a-4fa3-bbc5-87ed944fb20c",
+        "name": "Anastasia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Anastasia",
+        "appearance": null,
+        "disambiguation": "2019, NVG",
+        "status": "new"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

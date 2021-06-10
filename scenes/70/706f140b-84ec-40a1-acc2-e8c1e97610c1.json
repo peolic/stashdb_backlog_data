@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1583%3a+ava/year=2019/backroom_casting_couch_1583%3a_ava.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2be43546-58bb-4650-9a12-0b958eceb319",
+        "name": "Ava",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "36cc3cd2-4118-4dc7-ad75-7a44579917c3",
+        "name": "Ava Dior",
+        "appearance": "Ava"
+      }
+    ]
+  }
+}

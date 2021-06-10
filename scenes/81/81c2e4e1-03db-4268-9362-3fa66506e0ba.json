@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "From 'Donnie' tag",
+    "https://www.iafd.com/title.rme/title=netvideogirls+1791%3a+dani/year=2019/netvideogirls-1791-dani.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6545429d-2bff-4d8a-8979-a47916bf7875",
+        "name": "Dani",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Daniella Vioti",
+        "appearance": "Dani",
+        "status": "new"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1826%3a+violet/year=2019/netvideogirls_1826%3a_violet.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "44b9c1f5-739b-4098-8272-647b50a4916a",
+        "name": "Voilet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d3a105b4-62f8-48ea-b1a5-1871b6d31f78",
+        "name": "Violet Smith",
+        "appearance": "Voilet"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1919%3a+elle/year=2020/castingcouch%2dhd-1919-elle.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "da33326f-8ec4-4b4a-b88d-63517b4378d5",
+        "name": "Elle",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "90095183-f204-4b12-86df-6af3848443a9",
+        "name": "Elle Loveland",
+        "appearance": "Elle"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}

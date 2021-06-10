@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From part 1's scene description"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "166d2806-a941-4e90-90bd-7ba1fe30cc8a",
+        "name": "Choky Ice",
+        "appearance": "Csoky Ice"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1678%3a+ava/year=2019/netvideogirls-1678-ava.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2be43546-58bb-4650-9a12-0b958eceb319",
+        "name": "Ava",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Vivian Lang",
+        "appearance": "Ava",
+        "status": "new"
+      },
+      {
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
+      }
+    ]
+  }
+}

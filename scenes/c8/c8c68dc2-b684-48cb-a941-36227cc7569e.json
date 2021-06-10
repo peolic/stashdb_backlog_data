@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/kira-rio-ava-net-video-girls.842272/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2be43546-58bb-4650-9a12-0b958eceb319",
+        "name": "Ava",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kira Rio",
+        "appearance": "Ava",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "Ep 2015-08-29 - Ava ... Ava Alva (typo)",
+    "https://www.indexxx.com/m/ava-alba"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2be43546-58bb-4650-9a12-0b958eceb319",
+        "name": "Ava",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bd0acc6b-a302-434d-aa03-8827b1885185",
+        "name": "Ava Alba",
+        "appearance": "Ava"
+      }
+    ]
+  }
+}

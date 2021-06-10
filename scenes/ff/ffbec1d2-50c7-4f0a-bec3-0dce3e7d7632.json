@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "From 'Donnie' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1749%3a+jackie/year=2019/net_girl_1749%3a_jackie.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6199d4de-05eb-48de-9e5c-4860d9be1aa1",
+        "name": "Jackie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jackie Alder",
+        "appearance": "Jackie",
+        "status": "new"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

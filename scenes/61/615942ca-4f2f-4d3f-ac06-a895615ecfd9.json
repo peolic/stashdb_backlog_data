@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "From 'Donnie' tag",
+    "https://www.iafd.com/title.rme/title=netvideogirls%3a+charity/year=2018/netvideogirls%3a_charity.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ea7094c0-17c1-4720-ad0d-d46ba6a133e2",
+        "name": "Charity",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Serenity Adams",
+        "appearance": "Charity",
+        "status": "new"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}
