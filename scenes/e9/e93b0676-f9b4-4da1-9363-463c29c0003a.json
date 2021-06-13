@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=stoked+summer/year=2013/stoked-summer.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d9e039a6-6f74-45d3-9ca5-2f6cd23302fa",
+        "name": "Charlotte Stokely",
+        "appearance": null
+      }
+    ]
+  }
+}
