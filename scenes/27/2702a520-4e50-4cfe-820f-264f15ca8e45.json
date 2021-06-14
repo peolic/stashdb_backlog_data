@@ -34,6 +34,16 @@
       "algorithm": "oshash",
       "hash": "660e617df3911baf",
       "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "c45a4f12b475cc02",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "phash",
+      "hash": "d8d311e6cde73a40",
+      "correct_scene_id": null
     }
   ]
 }
