@@ -1,5 +1,12 @@
 {
   "duration": "4938",
+  "fingerprints": [
+    {
+      "algorithm": "oshash",
+      "hash": "c1772931bb7f5a68",
+      "correct_scene_id": "47ef5e85-a729-455c-8c9d-17915e9fc7c9"
+    }
+  ],
   "performers": {
     "remove": [],
     "append": [

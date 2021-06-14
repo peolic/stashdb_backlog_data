@@ -3,5 +3,12 @@
     "https://www.backroomcastingcouch.com/site/trailers/jade.html"
   ],
   "date": "2011-10-17",
-  "duration": "1548"
+  "duration": "1548",
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "e2f28f8884f2d9e8",
+      "correct_scene_id": null
+    }
+  ]
 }
