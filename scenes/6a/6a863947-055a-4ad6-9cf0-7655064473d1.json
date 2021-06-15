@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2bd6a490-fdcd-4566-a0f0-950f538498b7",
+        "name": "Lindsey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "80a46ee6-4067-40bc-93af-a0d1c3dcb381",
+        "name": "Lindsey Springer",
+        "appearance": "Lindsey"
+      }
+    ]
+  }
+}
