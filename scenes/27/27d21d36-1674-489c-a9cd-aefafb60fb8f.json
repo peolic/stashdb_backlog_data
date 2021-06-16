@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=all+the+right+places/year=2007/all-the-right-places.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "d8da5a35-278e-4718-a591-1c9b5835c656",
+        "name": "Jenny Hendrix",
+        "appearance": null
+      }
+    ]
+  }
+}
