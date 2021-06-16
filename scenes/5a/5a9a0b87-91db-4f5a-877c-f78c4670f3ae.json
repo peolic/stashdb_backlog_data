@@ -1,12 +1,9 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=brown+sugar+sweets/year=2005/brown_sugar_sweets.htm"
+  ],
   "performers": {
-    "remove": [
-      {
-        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
-        "name": "Nikki",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
       {
         "id": "d4d3a409-2ed9-4efb-bd2d-255f2f2b2c74",

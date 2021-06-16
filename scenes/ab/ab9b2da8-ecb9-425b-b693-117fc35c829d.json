@@ -2,22 +2,12 @@
   "performers": {
     "remove": [
       {
-        "id": "f35ed6a2-8113-4639-9e5a-9b952051b78b",
-        "name": "Angel",
-        "appearance": null
-      },
-      {
         "id": "2ef20a18-c8a1-4962-9bea-a95d59418e26",
         "name": "Lina",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "81033f5e-38b7-4df4-8fc4-a838a0c2616e",
-        "name": "Olivia Grace",
-        "appearance": "Angel"
-      },
       {
         "id": "7d28980e-62cc-45ed-8656-af48d3d6eb87",
         "name": "Lena Love",
