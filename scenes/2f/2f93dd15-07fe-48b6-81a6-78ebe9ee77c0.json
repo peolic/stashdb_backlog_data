@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/set/126803/40oz-bounce-kim-sierra/"
+  ],
   "performers": {
     "remove": [
       {
@@ -18,7 +21,7 @@
         "id": null,
         "name": "Kim Treats",
         "appearance": "Kim",
-        "status": "new"
+        "status": "c"
       },
       {
         "id": "77f1a884-f568-4af5-af34-c1db03a4a424",
