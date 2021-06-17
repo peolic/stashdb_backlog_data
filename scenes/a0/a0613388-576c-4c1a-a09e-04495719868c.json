@@ -1,0 +1,32 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=pleasant+duo/year=2009/pleasant-duo.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a9322c68-806a-476e-9f9b-a870dbad8fd1",
+        "name": "Olivia",
+        "appearance": null
+      },
+      {
+        "id": "7ca6e933-ea4c-48f8-867a-80f309295f70",
+        "name": "Bianka",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Olivia Gem",
+        "appearance": "Olivia",
+        "status": "new"
+      },
+      {
+        "id": "6a1fe8c0-d285-47f2-a0d2-3a5b5428ccce",
+        "name": "Bianka Lovely",
+        "appearance": "Bianka"
+      }
+    ]
+  }
+}

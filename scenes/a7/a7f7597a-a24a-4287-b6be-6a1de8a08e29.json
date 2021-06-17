@@ -1,0 +1,17 @@
+{
+  "comments": [
+    "Remove duped alias"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "5ebf78e5-b0c5-43cb-9484-7168fa456f73",
+        "name": "Dulsineya",
+        "appearance": null,
+        "old_appearance": "Dulsineya "
+      }
+    ]
+  }
+}
