@@ -56,9 +56,12 @@ jobs:
       - name: Commit files
         if: ${{ env.changes_exist == 'true' }}
         working-directory: ${{ env.PATH_DATA }}
+        env:
+          GIT_AUTHOR_NAME: peolic
+          GIT_AUTHOR_EMAIL: 66393006+peolic@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
-          git config --local user.email "66393006+peolic@users.noreply.github.com"
-          git config --local user.name "peolic"
           git add -A
           git commit -m "update data"
 
