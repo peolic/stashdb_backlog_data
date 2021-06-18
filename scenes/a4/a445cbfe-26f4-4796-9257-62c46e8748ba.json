@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=glory+hole%3a+sydney/year=2004/glory-hole-sydney.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ec679601-50c8-444c-bc6a-6000dfd792ca",
+        "name": "Sydney",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sydnee Lemoure",
+        "appearance": "Sydney",
+        "status": "new"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "Based on the visible back tattoo",
+    "https://www.erocurves.com/galleries/24698/7_big.jpg"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8016e266-e8ff-4ed4-8c46-4074cfa66b06",
+        "name": "Misti Love",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6aa4faae-af11-4533-a1f5-a318db596487",
+        "name": "Brooke Benson",
+        "appearance": "Misti Love"
+      }
+    ]
+  }
+}
