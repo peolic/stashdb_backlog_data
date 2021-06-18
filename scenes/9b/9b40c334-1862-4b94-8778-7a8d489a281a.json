@@ -3,18 +3,14 @@
     "https://www.iafd.com/title.rme/title=wired+pussy+4660/year=2007/wired-pussy-4660.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "6ca13468-4444-4905-a800-576dd72a76ed",
-        "name": "Brook Scott",
-        "appearance": null
-      }
-    ],
-    "append": [
+    "remove": [],
+    "append": [],
+    "update": [
       {
         "id": "e0bb7ee7-e2d4-43b0-abfe-5de0739c09b5",
         "name": "Brooke Scott",
-        "appearance": "Brook Scott"
+        "appearance": "Brook Scott",
+        "old_appearance": null
       }
     ]
   }

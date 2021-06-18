@@ -15,10 +15,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "6d27cb24-984f-4299-bb97-94553da8ae02",
         "name": "Kim Treats",
-        "appearance": "Kim",
-        "status": "c"
+        "appearance": "Kim"
       },
       {
         "id": "0b60a705-cbd0-4627-97f9-f11436644dfc",
