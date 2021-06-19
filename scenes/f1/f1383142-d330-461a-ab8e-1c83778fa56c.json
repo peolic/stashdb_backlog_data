@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=innocent+fun/year=2011/innocent-fun.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "726aad09-2b92-4685-8649-d3635fbf5957",
+        "name": "Jessica Lynn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jessica Lynn",
+        "appearance": null,
+        "disambiguation": "2011-13",
+        "status": "new"
+      }
+    ]
+  }
+}

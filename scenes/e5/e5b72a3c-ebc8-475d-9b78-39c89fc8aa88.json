@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=jessica+lynn+hardcore/year=2011/jessica-lynn-hardcore.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "726aad09-2b92-4685-8649-d3635fbf5957",
+        "name": "Jessica Lynn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jessica Lynn",
+        "appearance": null,
+        "disambiguation": "2011-13",
+        "status": "new"
+      },
+      {
+        "id": "82d4cbaf-cb0b-4ad7-b5d7-d8dbbbb43e97",
+        "name": "Levi Cash",
+        "appearance": null
+      }
+    ]
+  }
+}
