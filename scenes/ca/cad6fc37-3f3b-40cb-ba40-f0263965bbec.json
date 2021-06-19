@@ -1,0 +1,14 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [],
+    "update": [
+      {
+        "id": "6b41acc8-cf31-43dc-a86c-b22a8e43ae73",
+        "name": "Dani Desire",
+        "appearance": "Deni Desire",
+        "old_appearance": null
+      }
+    ]
+  }
+}
