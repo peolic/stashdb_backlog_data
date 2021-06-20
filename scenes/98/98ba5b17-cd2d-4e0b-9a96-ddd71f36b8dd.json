@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=flash+dance/year=2005/flash-dance.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -20,8 +23,9 @@
       },
       {
         "id": null,
-        "name": "Joey ?",
+        "name": "Joey",
         "appearance": null,
+        "disambiguation": "2005, We Live Together",
         "status": "new"
       }
     ]

@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=sweet+like+kandi/year=2006/sweet-like-kandi.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -25,14 +28,16 @@
       },
       {
         "id": null,
-        "name": "Nevaeh ?",
+        "name": "Nevaeh",
         "appearance": null,
+        "disambiguation": "Nevaeh McDermott",
         "status": "new"
       },
       {
         "id": null,
-        "name": "Kandi ?",
+        "name": "Kandi",
         "appearance": null,
+        "disambiguation": "2006",
         "status": "new"
       }
     ]

@@ -7,8 +7,9 @@
     "append": [
       {
         "id": null,
-        "name": "Natasha ???",
-        "appearance": "Natasha",
+        "name": "Natasha",
+        "appearance": null,
+        "disambiguation": "2004-05",
         "status": "new"
       }
     ]

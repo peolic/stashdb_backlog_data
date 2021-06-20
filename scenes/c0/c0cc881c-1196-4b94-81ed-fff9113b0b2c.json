@@ -1,17 +1,12 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=guessing+game/year=2008/guessing-game.htm"
+    "https://www.iafd.com/title.rme/title=royal+flash/year=2010/royal-flash.htm"
   ],
   "performers": {
     "remove": [
       {
         "id": "b5f0026e-d741-4791-a7b1-85962fd3c4de",
         "name": "Nevaeh",
-        "appearance": null
-      },
-      {
-        "id": "c30ef2a8-65cf-4416-aba1-cac09f6baaec",
-        "name": "Nicole",
         "appearance": null
       }
     ],
@@ -22,11 +17,6 @@
         "appearance": null,
         "disambiguation": "Nevaeh McDermott",
         "status": "new"
-      },
-      {
-        "id": "785f8b50-28da-464e-8583-70e46e7d9490",
-        "name": "Veronica Hill",
-        "appearance": "Nicole"
       }
     ]
   }

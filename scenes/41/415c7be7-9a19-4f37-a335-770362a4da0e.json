@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -20,8 +23,9 @@
       },
       {
         "id": null,
-        "name": "Candace ?",
+        "name": "Candace",
         "appearance": null,
+        "disambiguation": "2005, We Live Together",
         "status": "new"
       }
     ]
