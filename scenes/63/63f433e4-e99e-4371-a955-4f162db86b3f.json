@@ -7,7 +7,8 @@
       {
         "id": "726aad09-2b92-4685-8649-d3635fbf5957",
         "name": "Jessica Lynn",
-        "appearance": null
+        "appearance": null,
+        "disambiguation": "2005-16"
       }
     ],
     "append": [
@@ -16,7 +17,8 @@
         "name": "Jessica Lynn",
         "appearance": null,
         "disambiguation": "2011-13",
-        "status": "new"
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/14bf5c33-1168-48de-8d43-8450671bd33c"
       }
     ]
   }

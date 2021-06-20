@@ -15,7 +15,8 @@
         "id": null,
         "name": "Linda Melrose",
         "appearance": "Olivia",
-        "status": "new"
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=lindamelrose/gender=f/linda-melrose.htm"
       }
     ]
   }

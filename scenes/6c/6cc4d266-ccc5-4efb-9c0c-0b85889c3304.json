@@ -13,7 +13,8 @@
         "name": "Hunter",
         "appearance": null,
         "disambiguation": "2000-01",
-        "status": "new"
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=hunter01/gender=f/hunter.htm"
       }
     ]
   }

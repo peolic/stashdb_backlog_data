@@ -23,7 +23,8 @@
         "id": null,
         "name": "Shelly Jones",
         "appearance": "Shelly",
-        "status": "new"
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=shelleyjones/gender=f/shelly-jones.htm"
       }
     ]
   }

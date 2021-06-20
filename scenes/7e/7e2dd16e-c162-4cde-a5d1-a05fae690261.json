@@ -6,7 +6,8 @@
         "id": null,
         "name": "Alice Moore",
         "appearance": null,
-        "status": "new"
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=alicemoore/gender=f/alice-moore.htm"
       }
     ]
   }

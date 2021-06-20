@@ -12,7 +12,8 @@
         "id": null,
         "name": "Taylor Jones",
         "appearance": "Taylor",
-        "status": "new"
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=taylorjones/gender=f/taylor-jones.htm"
       },
       {
         "id": "d7dacf0c-04db-4082-b970-08de634051dd",

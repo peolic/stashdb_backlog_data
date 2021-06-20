@@ -12,7 +12,8 @@
         "id": null,
         "name": "Summer Smith",
         "appearance": "Summer",
-        "status": "new"
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=summersmith_06/gender=f/summer-smith.htm"
       }
     ]
   }
