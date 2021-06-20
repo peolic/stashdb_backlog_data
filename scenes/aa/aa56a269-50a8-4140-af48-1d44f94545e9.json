@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.indexxx.com/m/catsy-cats"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "35dbf816-697f-4f55-9845-ec3d908a04c8",
+        "name": "Deniese",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Catsy Cats",
+        "appearance": "Deniese",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/catsy-cats"
+      }
+    ]
+  }
+}
