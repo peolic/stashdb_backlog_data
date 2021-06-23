@@ -6,12 +6,6 @@
     "remove": [],
     "append": [
       {
-        "id": "5d160f7d-2770-4882-bb75-d52e1ac9e8e4",
-        "name": "Melanie",
-        "appearance": "Melani",
-        "disambiguation": "2016, Bang Bros"
-      },
-      {
         "id": "bafb14b1-a489-4b4e-8e2b-944876499e68",
         "name": "Max Cartel",
         "appearance": null
