@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/11331/lez-cuties-april-grace/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "987dba9a-6987-4e67-a981-c437c32449a9",
+        "name": "April",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cb1dad96-d146-46a2-b524-894b4393f747",
+        "name": "Elena B.",
+        "appearance": "April"
+      }
+    ]
+  }
+}
