@@ -1,0 +1,37 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "Ep 2015-09-10 - (Evelyn and Chayanne Attack) Dorothy",
+    "Ep 2015-09-10 - (Evelyn and) Chayanne (Attack Dorothy) ... Violet Winters"
+  ],
+  "date": "2015-09-10",
+  "performers": {
+    "remove": [
+      {
+        "id": "17b8397b-f4ce-4941-9066-19f82586b579",
+        "name": "Dorothy",
+        "appearance": null
+      },
+      {
+        "id": "ab2aa6e2-fcf5-4a5a-ac55-a0ed24b3e48c",
+        "name": "Chayanne",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": "669e8c13-f48a-4608-a906-6b6cf3bde3d6",
+        "name": "Jamie Hendrix",
+        "appearance": "Dorothy"
+      },
+      {
+        "id": null,
+        "name": "Violet Winters",
+        "appearance": "Chayanne",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=violetwinters/gender=f/violet-winters.htm"
+      }
+    ]
+  }
+}

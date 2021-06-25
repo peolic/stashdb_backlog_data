@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823%20;%20Ep%202015-09-10%20-%20(Evelyn%20and%20Chayanne%20Attack)%20Dorothy",
+    "Ep 2015-07-03 - Dorothy ... Jamie Hendrix"
+  ],
+  "date": "2015-07-03",
+  "performers": {
+    "remove": [
+      {
+        "id": "17b8397b-f4ce-4941-9066-19f82586b579",
+        "name": "Dorothy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "669e8c13-f48a-4608-a906-6b6cf3bde3d6",
+        "name": "Jamie Hendrix",
+        "appearance": "Dorothy"
+      }
+    ]
+  }
+}

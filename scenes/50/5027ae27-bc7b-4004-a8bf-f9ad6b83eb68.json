@@ -1,0 +1,34 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489824",
+    "\ufeffhttps://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489824",
+    "Ep 2016-03-09 - Pepper (and Blaire) ... Pepper Xo (Netgirl)"
+  ],
+  "date": "2016-03-09",
+  "performers": {
+    "remove": [
+      {
+        "id": "ac42d30f-f5ab-4afd-8a88-e4baa8ead307",
+        "name": "Pepper",
+        "appearance": null
+      },
+      {
+        "id": "e736939f-fdbb-4f09-a731-7e1b5227c100",
+        "name": "Blaire",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "45b59d6d-99b0-4651-98bb-e75d067c3f0b",
+        "name": "Pepper XO",
+        "appearance": "Pepper"
+      },
+      {
+        "id": "01fb2432-8191-41bc-9d7f-c398928210c3",
+        "name": "Bea Wolf",
+        "appearance": "Blaire"
+      }
+    ]
+  }
+}
