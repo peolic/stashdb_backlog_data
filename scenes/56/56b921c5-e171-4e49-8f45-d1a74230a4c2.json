@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=sign+of+the+cross/year=2009/sign_of_the_cross.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "35140ce4-7978-4be6-900d-178709a0951e",
+        "name": "Mina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Mina",
+        "appearance": null,
+        "disambiguation": "2009, Dominated Girls",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=mina_dg_09/gender=f/mina.htm"
+      }
+    ]
+  }
+}

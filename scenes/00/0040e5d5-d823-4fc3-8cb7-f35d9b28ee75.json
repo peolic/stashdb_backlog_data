@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/676761/woodmancastingx-abby-cross-mina/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "35140ce4-7978-4be6-900d-178709a0951e",
+        "name": "Mina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "11bc144a-12fe-4bd4-a73f-a0a84f86eeb9",
+        "name": "Samantha Star",
+        "appearance": "Mina"
+      }
+    ]
+  }
+}
