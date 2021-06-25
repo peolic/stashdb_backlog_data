@@ -8,6 +8,11 @@
         "id": "35140ce4-7978-4be6-900d-178709a0951e",
         "name": "Mina",
         "appearance": null
+      },
+      {
+        "id": "d4974b00-e1e2-400b-8362-948d4d23a270",
+        "name": "Nomi",
+        "appearance": null
       }
     ],
     "append": [
@@ -15,6 +20,11 @@
         "id": "8c817def-4083-4245-9272-57c39dead113",
         "name": "Mia Moon",
         "appearance": "Mina"
+      },
+      {
+        "id": "dd984083-f82d-484d-ba4b-759ea1e0ed31",
+        "name": "Nomi Melone",
+        "appearance": "Nomi"
       }
     ]
   }

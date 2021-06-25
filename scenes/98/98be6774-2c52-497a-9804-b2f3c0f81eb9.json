@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/660150/stunning-18-wendy/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "567ce103-d409-48e0-95d8-94bf6eed0f7a",
+        "name": "Wendy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Wendy",
+        "appearance": null,
+        "disambiguation": "Stunning 18",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/wendy-29"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/508300/sapphic-erotica-donna-butterfly/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "137e138b-b87a-4c53-aa14-2a005edb4048",
+        "name": "Donna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4b5692e7-76de-4923-8856-c3a236075a6e",
+        "name": "Donna Sting",
+        "appearance": "Donna"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+603%3a+heather+and+lila/year=2014/netvideogirls_603%3a_heather_and_lila.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "760907ee-e559-4c74-a917-25fb43aa7079",
+        "name": "Lila",
+        "appearance": null
+      },
+      {
+        "id": "d033fae2-e749-4068-945b-df3064ae017e",
+        "name": "Heather",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "459b1a5c-c37f-4af3-ac97-b4d6afa979e9",
+        "name": "Addison Belgium",
+        "appearance": "Lila"
+      },
+      {
+        "id": "6b49dec6-63ba-4ba3-a28b-0398e99c3f5b",
+        "name": "Marilyn Moore",
+        "appearance": "Heather"
+      }
+    ]
+  }
+}

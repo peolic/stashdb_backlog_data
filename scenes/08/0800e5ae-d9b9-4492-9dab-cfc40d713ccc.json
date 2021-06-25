@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd%3a+nikki/year=2014/castingcouch%2dhd%3a_nikki.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
+        "name": "Nikki",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sasha Shyne",
+        "appearance": "Nikki",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=sashashyne/gender=f/sasha-shyne.htm"
+      }
+    ]
+  }
+}
