@@ -1,9 +1,22 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=blacks+on+blondes%3a+chloe+cherry/year=2016/blacks_on_blondes%3a_chloe_cherry.htm"
+  ],
   "fingerprints": [
     {
       "algorithm": "phash",
       "hash": "e5ff817463815790",
       "correct_scene_id": null
     }
-  ]
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c55d2b85-c104-4abd-bf49-31d404ba77ab",
+        "name": "Mandingo",
+        "appearance": null
+      }
+    ]
+  }
 }
