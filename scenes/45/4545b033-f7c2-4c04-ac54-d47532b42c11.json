@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=happy+hour/year=2008/happy_hour.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "abf6d5e5-f79d-4777-aaec-d6e28ace88fe",
+        "name": "Ivy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4c2820c4-40c4-4d0e-9f1f-bc766de10417",
+        "name": "Lola Martin",
+        "appearance": "Ivy"
+      }
+    ]
+  }
+}
