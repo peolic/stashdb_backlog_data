@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=blondie+makes+a+sexual+deal+with+taxi+driver/year=2013/blondie-makes-a-sexual-deal-with-taxi-driver.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5ebac1af-9986-490c-9a5d-ed250608f475",
+        "name": "Johanna Joobiez",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e0f37003-7842-46bb-aba1-dd0ae6de26ee",
+        "name": "Mercedez Galatea",
+        "appearance": "Johanna"
+      },
+      {
+        "id": "e79ac66d-95c0-4c18-8548-4e7ae78e1e9a",
+        "name": "Martin Gun",
+        "appearance": null
+      }
+    ]
+  }
+}

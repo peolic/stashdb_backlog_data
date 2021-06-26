@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=my+naughty+album+5305/year=2016/my-naughty-album-5305.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a955a17d-7823-41eb-92e2-638f7c2573c6",
+        "name": "Damian Dickey",
+        "appearance": "Thomas J."
+      }
+    ]
+  }
+}
