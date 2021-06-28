@@ -2,22 +2,12 @@
   "performers": {
     "remove": [
       {
-        "id": "f73128b1-96d9-4895-94d7-6d4d450c7149",
-        "name": "Athena",
-        "appearance": null
-      },
-      {
         "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
         "name": "Nikki",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "7787aac0-70b1-437e-94e5-0bd2fd66eae3",
-        "name": "Athena Palomino",
-        "appearance": "Athena"
-      },
       {
         "id": "8c297125-bbbc-4639-b188-b993782032ad",
         "name": "Daisy Dahl",

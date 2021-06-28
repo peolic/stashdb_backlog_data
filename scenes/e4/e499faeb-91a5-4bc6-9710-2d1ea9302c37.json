@@ -5,24 +5,12 @@
   "performers": {
     "remove": [
       {
-        "id": "a990373b-94fc-479b-aa1b-167640aa03b0",
-        "name": "Rachel",
-        "appearance": null
-      },
-      {
         "id": "63ce093f-d427-4c20-a069-8aaadca8b6af",
         "name": "Maia",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": null,
-        "name": "Rachel Rogers",
-        "appearance": "Rachel",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/7f4ad403-2b16-45bc-8017-f0bc0df96b34"
-      },
       {
         "id": "9e53556b-decf-4d13-87bf-d6677c33840a",
         "name": "Maia Davis",
