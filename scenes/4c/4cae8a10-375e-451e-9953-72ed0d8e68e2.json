@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "Duplicate performer already listed in Duplicate Performers. Secondary name is a Woodman Casting alias. Her IAFD"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1adb0e67-7570-4e69-8011-00fc5d5c8e0f",
+        "name": "Sanie Foxy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ba0e98cc-e37d-461c-a592-bd2b534a33b6",
+        "name": "Foxy Sanie",
+        "appearance": null
+      }
+    ]
+  }
+}
