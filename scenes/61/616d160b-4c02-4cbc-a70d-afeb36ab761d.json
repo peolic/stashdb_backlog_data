@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lets+help+each+other+cum/year=2013/lets-help-each-other-cum.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "cafbb8a1-c383-4c68-983f-d35c6dafd8f2",
+        "name": "Natalie",
+        "appearance": null
+      },
+      {
+        "id": "25111e61-914a-4d5b-bfc4-62d4bd13acc7",
+        "name": "Emily",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1fab8b73-662c-495e-b7eb-224adda0b22f",
+        "name": "Natalie Heart",
+        "appearance": "Natalie"
+      },
+      {
+        "id": "fe7f036a-5814-40b4-826d-f3e603b53346",
+        "name": "Emily Kae",
+        "appearance": "Emily"
+      }
+    ]
+  }
+}
