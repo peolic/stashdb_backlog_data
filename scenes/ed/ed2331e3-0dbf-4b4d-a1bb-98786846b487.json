@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/417837/twistys-mary/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2f8980d0-bc8c-4e70-b4b4-517c2f30d6be",
+        "name": "Mary",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c8844693-17e3-4c6b-a050-1ca47eef387e",
+        "name": "Lily Russell",
+        "appearance": "Mary"
+      }
+    ]
+  }
+}

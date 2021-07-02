@@ -1,22 +1,17 @@
 {
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "\ufeffhttps://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "Ep 2015-09-09 - Tammi ... [NOBABE]Brooke Banks[/NOBABE] (CCHD)"
+  ],
+  "date": "2015-09-09",
   "performers": {
-    "remove": [
-      {
-        "id": "5992893c-7edb-4fd8-81eb-06152ff199ad",
-        "name": "Tammi",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "afe01282-7112-49a5-8b18-ba25b48652dc",
-        "name": "Quinn Waters",
-        "appearance": "Tammi"
-      },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
         "name": "Tee Reel",
-        "appearance": null
+        "appearance": "Chris"
       }
     ]
   }

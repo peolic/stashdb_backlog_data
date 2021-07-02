@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/432595/first-bgg-stonell-ludmila/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e804b28a-a17c-4176-bc09-48b4399ef012",
+        "name": "Ludmila",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c8844693-17e3-4c6b-a050-1ca47eef387e",
+        "name": "Lily Russell",
+        "appearance": "Ludmila"
+      }
+    ]
+  }
+}
