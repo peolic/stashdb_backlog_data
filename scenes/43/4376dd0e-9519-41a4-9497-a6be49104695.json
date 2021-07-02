@@ -1,0 +1,29 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1217%3a+tiffany/year=2018/castingcouch%2dhd_1217%3a_tiffany.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "782fd292-10ac-4f94-8f7f-3331d57f1a01",
+        "name": "Tiffany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Tiffany",
+        "appearance": null,
+        "disambiguation": "2018, CCHD",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=tiffany_nvg_1217/gender=f/tiffany.htm"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}

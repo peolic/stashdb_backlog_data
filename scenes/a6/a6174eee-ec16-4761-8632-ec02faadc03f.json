@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl%3a+kendra+and+tiffany/year=2017/net-girl-kendra-and-tiffany.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -16,7 +19,7 @@
       {
         "id": "66eeb8f2-264a-430f-bda1-b20be7de728d",
         "name": "Matt Sloan",
-        "appearance": null
+        "appearance": "Matt"
       }
     ]
   }
