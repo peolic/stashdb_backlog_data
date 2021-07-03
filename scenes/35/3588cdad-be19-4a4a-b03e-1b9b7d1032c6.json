@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1434%3a+aria/year=2018/net-girl-1434-aria.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -12,6 +15,11 @@
         "id": "fe2a3c9c-2e61-4484-9eaf-eca423917f6a",
         "name": "Aria Lee",
         "appearance": "Aria"
+      },
+      {
+        "id": "5963ab21-e32f-4335-85c7-f85b06593163",
+        "name": "Lucas Frost",
+        "appearance": "Jason"
       }
     ]
   }
