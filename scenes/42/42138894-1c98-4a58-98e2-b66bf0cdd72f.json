@@ -1,6 +1,7 @@
 {
   "comments": [
     "From 'Jason' tag",
+    "From 'Jesse' tag",
     "https://www.iafd.com/title.rme/title=net+girl+1565%3a+gemma/year=2019/net-girl-1565-gemma.htm"
   ],
   "performers": {
@@ -21,6 +22,14 @@
         "id": "5963ab21-e32f-4335-85c7-f85b06593163",
         "name": "Lucas Frost",
         "appearance": "Jason"
+      },
+      {
+        "id": null,
+        "name": "Jesse",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/2e55f42e-da5e-4b65-8d6d-180e07b5f5c5"
       }
     ]
   }

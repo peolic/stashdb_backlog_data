@@ -1,4 +1,9 @@
 {
+  "comments": [
+    "From 'Ryan' tag",
+    "From 'John' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1505%3a+lilian/year=2018/net_girl_1505%3a_lilian.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -12,6 +17,22 @@
         "id": "06a48e71-bc53-45ae-9937-12817d4d8a11",
         "name": "Lilian Stone",
         "appearance": "Lillian"
+      },
+      {
+        "id": null,
+        "name": "Ryan",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/d14cd47c-830e-4687-b74f-6f9634dccdd7"
+      },
+      {
+        "id": null,
+        "name": "John",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/51a4252d-5ba5-446a-bb95-e378812173af"
       }
     ]
   }

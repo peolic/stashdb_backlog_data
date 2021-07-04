@@ -1,0 +1,30 @@
+{
+  "comments": [
+    "From 'Jesse' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1453%3a+judy/year=2018/net-girl-1453-judy.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "d8d905cf-8763-4840-bb52-c0219f9515c3",
+        "name": "Judy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "2d4e644b-3dca-4bc9-9872-d204f30f38ac",
+        "name": "Judy Jolie",
+        "appearance": "Judy"
+      },
+      {
+        "id": null,
+        "name": "Jesse",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/2e55f42e-da5e-4b65-8d6d-180e07b5f5c5"
+      }
+    ]
+  }
+}

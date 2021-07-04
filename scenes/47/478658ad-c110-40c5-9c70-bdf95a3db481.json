@@ -1,7 +1,7 @@
 {
   "comments": [
-    "From 'Donnie' tag",
-    "https://www.iafd.com/title.rme/title=netvideogirls+1772%3a+kelly/year=2019/netvideogirls-1772-kelly.htm"
+    "From 'Ryan' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1798%3a+kelly/year=2019/net_girl_1798%3a_kelly.htm"
   ],
   "performers": {
     "remove": [
@@ -13,9 +13,12 @@
     ],
     "append": [
       {
-        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
-        "name": "Donnie Rock",
-        "appearance": "Donnie"
+        "id": null,
+        "name": "Ryan",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/d14cd47c-830e-4687-b74f-6f9634dccdd7"
       },
       {
         "id": null,

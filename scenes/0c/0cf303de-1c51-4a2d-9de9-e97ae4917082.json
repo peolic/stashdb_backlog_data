@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/507935/sapphic-erotica-avril-judy/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "d8d905cf-8763-4840-bb52-c0219f9515c3",
+        "name": "Judy",
+        "appearance": null
+      },
+      {
+        "id": "f7cbe9b1-f9af-47df-bf16-55bd4b4b13c7",
+        "name": "Avril",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8171629e-5543-4be9-b674-4943caddaac1",
+        "name": "Judy Smile",
+        "appearance": "Judy"
+      },
+      {
+        "id": "8f6858c0-1f6c-44e5-be9f-b82615cbcef4",
+        "name": "Avril Sun",
+        "appearance": "Avril"
+      }
+    ]
+  }
+}

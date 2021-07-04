@@ -1,4 +1,8 @@
 {
+  "comments": [
+    "From 'Jesse' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1461%3a+gemma+and+aria/year=2018/net-girl-1461-gemma-and-aria.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -22,6 +26,14 @@
         "id": "8ecb3b82-b7db-4110-9f35-c4015aa56ade",
         "name": "Gemma Parker",
         "appearance": "Gemma"
+      },
+      {
+        "id": null,
+        "name": "Jesse",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/2e55f42e-da5e-4b65-8d6d-180e07b5f5c5"
       }
     ]
   }

@@ -1,22 +1,17 @@
 {
   "comments": [
     "From 'Ryan' tag",
-    "https://www.iafd.com/title.rme/title=netvideogirls+1449%3a+xandra/year=2018/netvideogirls_1449%3a_xandra.htm"
+    "https://www.iafd.com/title.rme/title=netvideogirls+1459%3a+melissa/year=2018/netvideogirls-1459-melissa.htm"
   ],
   "performers": {
     "remove": [
       {
-        "id": "4d9066d1-db94-44f1-8167-33c750d95e47",
-        "name": "Xandra",
+        "id": "92536c1f-38e4-42ab-b9cb-29d58044f51b",
+        "name": "Melissa",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "975ca42d-4d7a-4d89-bc28-f4eaa50926e5",
-        "name": "Xandra Sixx",
-        "appearance": "Xandra"
-      },
       {
         "id": null,
         "name": "Ryan",
@@ -24,6 +19,11 @@
         "disambiguation": "NVG",
         "status": "c",
         "status_url": "https://stashdb.org/edits/d14cd47c-830e-4687-b74f-6f9634dccdd7"
+      },
+      {
+        "id": "367640c5-b139-466f-bb86-2e47e08aaade",
+        "name": "Melissa Lopez",
+        "appearance": "Melissa"
       }
     ]
   }
