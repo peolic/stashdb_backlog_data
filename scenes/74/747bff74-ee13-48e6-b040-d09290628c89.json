@@ -1,9 +1,17 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=all+for+the+taking/year=2007/all_for_the_taking.htm"
+  ],
   "performers": {
     "remove": [
       {
         "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
         "name": "Mike",
+        "appearance": null
+      },
+      {
+        "id": "9177c184-00fc-4269-87c5-2978d2f9e732",
+        "name": "Faith",
         "appearance": null
       }
     ],
@@ -12,6 +20,11 @@
         "id": "a311ff77-1978-445d-a79f-0279d7c0bfe1",
         "name": "Mike Adriano",
         "appearance": "Mike"
+      },
+      {
+        "id": "d8ddcce4-2fa9-4551-99aa-7ff6aa94a490",
+        "name": "Faith Leon",
+        "appearance": "Faith"
       }
     ]
   }

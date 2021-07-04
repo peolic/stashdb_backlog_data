@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=double+nutt/year=2007/double-nutt.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -12,6 +15,14 @@
         "id": "a311ff77-1978-445d-a79f-0279d7c0bfe1",
         "name": "Mike Adriano",
         "appearance": "Mike"
+      }
+    ],
+    "update": [
+      {
+        "id": "3ac66fea-972c-4cbc-98ee-bbe89c50dff8",
+        "name": "Aubrey Addams",
+        "appearance": "Aubrey",
+        "old_appearance": null
       }
     ]
   }

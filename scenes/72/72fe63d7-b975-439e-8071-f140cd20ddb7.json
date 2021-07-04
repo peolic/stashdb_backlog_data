@@ -1,9 +1,27 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=generation+sex/year=2007/generation-sex.htm"
+  ],
   "performers": {
     "remove": [
       {
         "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
         "name": "Mike",
+        "appearance": null
+      },
+      {
+        "id": "617379de-310f-444b-9c45-ee43d92c3e18",
+        "name": "Krystal",
+        "appearance": null
+      },
+      {
+        "id": "af777c93-aded-4364-ac66-899bb0bb0b25",
+        "name": "Holly",
+        "appearance": null
+      },
+      {
+        "id": "3dcaaef7-3c4b-4dc7-873a-3e8c936a753b",
+        "name": "Sasha",
         "appearance": null
       }
     ],
@@ -12,6 +30,21 @@
         "id": "a311ff77-1978-445d-a79f-0279d7c0bfe1",
         "name": "Mike Adriano",
         "appearance": "Mike"
+      },
+      {
+        "id": "be2a854b-5ddd-4128-9a33-963b26268820",
+        "name": "Krystal Jordan",
+        "appearance": "Krystal"
+      },
+      {
+        "id": "941e5495-e8aa-4d17-b06c-b1e86f3c64a1",
+        "name": "Holly Morgan",
+        "appearance": "Holly"
+      },
+      {
+        "id": "09cb72c9-0e9d-4f1f-8f86-780409ab0c1b",
+        "name": "Sascha Ink",
+        "appearance": "Sasha"
       }
     ]
   }

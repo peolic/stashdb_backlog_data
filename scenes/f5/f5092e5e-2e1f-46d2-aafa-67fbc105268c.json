@@ -1,9 +1,22 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=pulsating+pussies/year=2007/pulsating-pussies.htm"
+  ],
   "performers": {
     "remove": [
       {
         "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
         "name": "Mike",
+        "appearance": null
+      },
+      {
+        "id": "530b2992-77a8-4662-a997-373133b794c9",
+        "name": "Katie",
+        "appearance": null
+      },
+      {
+        "id": "97c97456-72fe-4ec8-9d64-5f946ca2fc90",
+        "name": "Chloe",
         "appearance": null
       }
     ],
@@ -12,6 +25,16 @@
         "id": "a311ff77-1978-445d-a79f-0279d7c0bfe1",
         "name": "Mike Adriano",
         "appearance": "Mike"
+      },
+      {
+        "id": "e456b790-580f-4ac3-95f3-9b8bee5d6ff1",
+        "name": "Katie Ray",
+        "appearance": "Katie"
+      },
+      {
+        "id": "f9656eec-cdad-4e06-92ee-80f5305f1e62",
+        "name": "Chloe Morgan",
+        "appearance": "Chloe"
       }
     ]
   }
