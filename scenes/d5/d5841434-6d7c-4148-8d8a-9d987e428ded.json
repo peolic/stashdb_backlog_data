@@ -1,0 +1,29 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=emma%27s+hot+surprise/year=2017/emma&apos;s-hot-surprise.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8bf615f6-058b-46e2-b8b8-5f85fb69fd27",
+        "name": "Emma",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Emma",
+        "appearance": null,
+        "disambiguation": "2018-19, Colombia Fuck Fest",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=emma_colombia/gender=f/emma.htm"
+      },
+      {
+        "id": "bafb14b1-a489-4b4e-8e2b-944876499e68",
+        "name": "Max Cartel",
+        "appearance": null
+      }
+    ]
+  }
+}
