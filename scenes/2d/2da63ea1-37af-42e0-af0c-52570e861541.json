@@ -1,0 +1,41 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1526%3a+lacy+and+jojo/year=2018/net_girl_1526%3a_lacy_and_jojo.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "086ea3b4-bf0e-4c1f-a0a2-2a65cfbb9f88",
+        "name": "Lacy",
+        "appearance": null
+      },
+      {
+        "id": "71417720-c211-43ca-ad46-5fb1f0325216",
+        "name": "Jojo",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "83706694-bb72-4f71-8e75-2772da9e18bd",
+        "name": "Lacy Lennon",
+        "appearance": "Lacy"
+      },
+      {
+        "id": null,
+        "name": "Jojo Frost",
+        "appearance": "Jojo",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jojofrost/gender=f/jojo-frost.htm"
+      },
+      {
+        "id": null,
+        "name": "Jesse",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jesse_nvg/gender=m/jesse.htm"
+      }
+    ]
+  }
+}

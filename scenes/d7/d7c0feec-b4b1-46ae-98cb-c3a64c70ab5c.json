@@ -1,0 +1,25 @@
+{
+  "comments": [
+    "Same right flank tattoo as Net Video Girls scene",
+    "https://i.ibb.co/ngfzNr0/Amber-Amber-Gold-Net-Video-Girls-2017-01-08.png",
+    "https://img.freeones.com/photos/001/lg/yz/LGYZvHfNrGYTuND9FqfL2E/big/27c6f92d-d249-468a-9903-330e3a99fe3f.jpg"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
+        "name": "Amber",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Amber Gold",
+        "appearance": "Amber",
+        "status": "new",
+        "status_url": "https://web.archive.org/web/20181018002734/http://idealimagemodels.com/models/amber-gold/"
+      }
+    ]
+  }
+}
