@@ -3,19 +3,8 @@
     "https://www.iafd.com/title.rme/title=round+and+brown+36dd+goodness/year=2011/round-and-brown-36dd-goodness.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "a2ac978e-d935-491b-8f11-444fe91f250b",
-        "name": "London",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "952c9ddc-7aaa-44b3-8594-cc7487122524",
-        "name": "London Reigns",
-        "appearance": "London"
-      },
       {
         "id": "8555befa-646c-4f51-9554-fb4748ea50a6",
         "name": "Joey Brass",
