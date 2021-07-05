@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809478",
+    "Ep 2016-09-23...NG...Tiffany Returns And Attacks Rachel...Velvet Rain"
+  ],
+  "date": "2016-09-23",
+  "performers": {
+    "remove": [
+      {
+        "id": "a990373b-94fc-479b-aa1b-167640aa03b0",
+        "name": "Rachel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "865f6646-5db4-4c05-8167-c79c7e7a4f70",
+        "name": "Velvet Rain",
+        "appearance": "Rachel"
+      }
+    ]
+  }
+}
