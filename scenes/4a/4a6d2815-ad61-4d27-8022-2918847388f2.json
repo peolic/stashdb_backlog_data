@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+849%3a+julia/year=2016/netvideogirls-849-julia.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e141a74f-cb3b-4886-a99d-48d4cd2e2537",
+        "name": "Julia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "April Nicole",
+        "appearance": "Julia",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=nicolenicks/gender=f/april-nicole.htm"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}

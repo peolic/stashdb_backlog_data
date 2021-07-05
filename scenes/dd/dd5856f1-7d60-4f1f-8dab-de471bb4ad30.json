@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489824",
+    "Ep 2016-05-30 - Eliza Returns (4) ... Eliza Jane (Netgirl)"
+  ],
+  "date": "2016-05-30",
+  "performers": {
+    "remove": [
+      {
+        "id": "239c5290-89b1-409f-b970-4f06408f6762",
+        "name": "Eliza",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "cf3e9866-fad2-4b5c-a146-5b825488b42f",
+        "name": "Eliza Jane",
+        "appearance": "Eliza"
+      }
+    ]
+  }
+}

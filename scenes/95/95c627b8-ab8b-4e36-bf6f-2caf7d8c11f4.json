@@ -1,0 +1,34 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809478",
+    "Amira identified by tattoo under panties",
+    "https://www.indexxx.com/m/katya-rodriguez"
+  ],
+  "date": "2016-10-21",
+  "performers": {
+    "remove": [
+      {
+        "id": "afc2bfe2-1ed5-4f5c-bb48-a8fd79584bcf",
+        "name": "Amira",
+        "appearance": null
+      },
+      {
+        "id": "7ad6b898-949a-4c45-bc17-c39b02970f2a",
+        "name": "Mika",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5597bd0b-b509-4d06-b2e9-d119c02a3681",
+        "name": "Nikki Knightly",
+        "appearance": "Amira"
+      },
+      {
+        "id": "5b46d54f-3d2d-449d-a1ce-73317b52f24a",
+        "name": "Katya Rodriguez",
+        "appearance": "Mika"
+      }
+    ]
+  }
+}
