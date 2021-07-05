@@ -4,6 +4,13 @@
     "Ep 2016-04-11 - Amira ... Lexy Rose A.K.A. [NOBABE]Nikki Knightly[/NOBABE] (Netgirl)"
   ],
   "date": "2016-04-11",
+  "fingerprints": [
+    {
+      "algorithm": "oshash",
+      "hash": "2caa1350d14d026c",
+      "correct_scene_id": null
+    }
+  ],
   "performers": {
     "remove": [
       {

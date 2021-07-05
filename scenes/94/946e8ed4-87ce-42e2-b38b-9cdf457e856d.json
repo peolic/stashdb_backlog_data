@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489824",
+    "https://www.iafd.com/title.rme/title=netvideogirls%3a+kenna+and+raya/year=2016/netvideogirls-kenna-and-raya.htm",
+    "Ep 2016-03-31 - Kenna (and Raya) ... Kenna Knight"
+  ],
+  "date": "2016-03-31",
+  "performers": {
+    "remove": [
+      {
+        "id": "719a6860-3e4e-4fc0-991b-12e61e24b8b6",
+        "name": "Kenna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kenna Knight",
+        "appearance": "Kenna",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=kennaknight/gender=f/kenna-knight.htm"
+      }
+    ]
+  }
+}
