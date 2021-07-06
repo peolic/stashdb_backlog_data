@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=hot+vixen/year=2003/hot_vixen.htm"
+  ],
+  "image": "https://jdbimgs.com/covers/k2/K2qR6.jpg",
+  "performers": {
+    "remove": [
+      {
+        "id": "fcb9fd6f-bba8-444f-a95a-569ba58dad86",
+        "name": "Jayden",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "69b40abf-d320-4c86-8209-16ad7f7b3972",
+        "name": "Jayden Foxx",
+        "appearance": "Jayden"
+      }
+    ]
+  }
+}
