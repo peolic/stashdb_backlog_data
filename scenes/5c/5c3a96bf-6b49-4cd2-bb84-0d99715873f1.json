@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=hot+legs+and+feet+9277/year=2006",
+    "https://www.indexxx.com/set/2935/hot-legs-and-feet-cindy-tanja/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8f46e361-22d3-493b-999d-173923c772e9",
+        "name": "Cindy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c0b4ee94-d587-46d9-8d7d-5bf346c6e9da",
+        "name": "Veronica Clinton",
+        "appearance": "Cindy"
+      }
+    ]
+  }
+}

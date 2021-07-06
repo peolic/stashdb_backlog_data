@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/373/1by-day-cindy/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8f46e361-22d3-493b-999d-173923c772e9",
+        "name": "Cindy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c0b4ee94-d587-46d9-8d7d-5bf346c6e9da",
+        "name": "Veronica Clinton",
+        "appearance": "Cindy"
+      }
+    ]
+  }
+}
