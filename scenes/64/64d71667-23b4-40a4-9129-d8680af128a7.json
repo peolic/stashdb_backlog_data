@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/1782/1by-day-scarlet-t/"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "433d36c1-c70d-4588-bef6-66f592efa4c9",
+        "name": "Scarlet T.",
+        "appearance": null
+      }
+    ]
+  }
+}
