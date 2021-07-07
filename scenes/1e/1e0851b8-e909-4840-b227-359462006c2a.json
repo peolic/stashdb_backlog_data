@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
+    "Ep 2014.50 - Kaily = Kiki Lux (CCHD)",
+    "https://abload.de/img/53d7233344f14pdbpy.jpg"
+  ],
+  "date": "2014-07-22",
+  "performers": {
+    "remove": [
+      {
+        "id": "b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb",
+        "name": "Kaily",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kiki Lux",
+        "appearance": "Kaily",
+        "status": "new",
+        "status_url": "https://web.archive.org/web/20140806005207/http://idealimagemanagement.com/main/profile.php?talent_id=554"
+      }
+    ]
+  }
+}
