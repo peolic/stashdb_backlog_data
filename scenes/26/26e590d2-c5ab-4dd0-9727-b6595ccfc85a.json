@@ -1,24 +1,7 @@
 {
   "comments": [
     "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809478",
-    "Ep 2016-11-22...NVG...Melonie...Alana Summeres",
-    "Identified by tattoos"
+    "Ep 2016-11-22...NVG...Melonie...Alana Summeres"
   ],
-  "date": "2016-11-22",
-  "performers": {
-    "remove": [
-      {
-        "id": "c0af9286-3d0a-4e6f-bad7-15650169ea60",
-        "name": "Melonie",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "21b57b0d-f32c-448c-b151-b53f3500cad4",
-        "name": "Alana Summers",
-        "appearance": "Melonie"
-      }
-    ]
-  }
+  "date": "2016-11-22"
 }

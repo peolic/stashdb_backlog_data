@@ -17,12 +17,10 @@
         "appearance": "Judy"
       },
       {
-        "id": null,
+        "id": "e8765c3b-274b-4fc9-b805-d070c7388d1c",
         "name": "Grant",
         "appearance": null,
-        "disambiguation": "NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/fa4ba48f-07c9-4475-bd82-4448b8e476d4"
+        "disambiguation": "NVG"
       }
     ]
   }

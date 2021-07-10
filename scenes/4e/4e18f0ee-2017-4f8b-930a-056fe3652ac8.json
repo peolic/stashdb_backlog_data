@@ -13,12 +13,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "408adfb8-ff95-4e8f-bb05-f030c7865e30",
         "name": "Ryan",
         "appearance": null,
-        "disambiguation": "NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/d14cd47c-830e-4687-b74f-6f9634dccdd7"
+        "disambiguation": "NVG"
       },
       {
         "id": "367640c5-b139-466f-bb86-2e47e08aaade",

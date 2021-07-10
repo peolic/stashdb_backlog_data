@@ -19,12 +19,10 @@
         "status_url": "https://www.iafd.com/person.rme/perfid=lanalaurent/gender=f/lana-laurent.htm"
       },
       {
-        "id": null,
+        "id": "98b1a3bb-7dbb-4b79-b65c-e56d2d092689",
         "name": "Leroy",
         "appearance": null,
-        "disambiguation": "NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/12075758-dd16-4b76-8c34-baf3d520c59f"
+        "disambiguation": "NVG"
       }
     ]
   }

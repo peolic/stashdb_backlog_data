@@ -20,12 +20,10 @@
         "status_url": "https://www.iafd.com/person.rme/perfid=bellrichardson/gender=f/bell-richardson.htm"
       },
       {
-        "id": null,
+        "id": "bd216084-c2cf-439a-a45e-37cb1a19a319",
         "name": "John",
         "appearance": null,
-        "disambiguation": "NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/51a4252d-5ba5-446a-bb95-e378812173af"
+        "disambiguation": "NVG"
       }
     ]
   }
