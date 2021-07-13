@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls%3a+camille/year=2017/netvideogirls%3a_camille.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "3da23023-5fdd-488b-bfb1-dd624f58e919",
+        "name": "Camille",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "065f3e37-92f2-4da2-aadd-7436d30c3274",
+        "name": "Lala Camile",
+        "appearance": "Camille"
+      }
+    ]
+  }
+}
