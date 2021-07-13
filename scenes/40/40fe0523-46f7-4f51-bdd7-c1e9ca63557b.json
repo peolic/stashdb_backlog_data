@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/34574/flower-tucci-flower-tucci-skyler/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a60dc89f-951a-47e4-8553-c374f32298f2",
+        "name": "Skyler",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "01786bc8-7a15-4129-874d-784c84130d50",
+        "name": "Harmony Rose",
+        "appearance": "Skyler"
+      }
+    ]
+  }
+}

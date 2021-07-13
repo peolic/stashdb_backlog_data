@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1304%3a+selena/year=2018/netvideogirls_1304%3a_selena.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -11,7 +14,15 @@
       {
         "id": "a5797200-9a35-4aae-9049-c1189d750010",
         "name": "Selena Stone",
-        "appearance": null
+        "appearance": "Selena"
+      },
+      {
+        "id": null,
+        "name": "Dan",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=dan_nvg/gender=m/dan.htm"
       }
     ]
   }

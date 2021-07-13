@@ -1,0 +1,32 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1313%3a+sasha/year=2018/netvideogirls-1313-sasha.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "3dcaaef7-3c4b-4dc7-873a-3e8c936a753b",
+        "name": "Sasha",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sasha",
+        "appearance": null,
+        "disambiguation": "2018, NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=sasha_nvg_18/gender=f/sasha.htm"
+      },
+      {
+        "id": null,
+        "name": "Dan",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=dan_nvg/gender=m/dan.htm"
+      }
+    ]
+  }
+}

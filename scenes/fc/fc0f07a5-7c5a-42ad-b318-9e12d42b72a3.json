@@ -1,9 +1,14 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=netvideogirls+980%3a+selena/year=2017/netvideogirls_980%3a_selena.htm"
+    "https://www.iafd.com/title.rme/title=netvideogirls+1163%3a+selena+and+isabella/year=2017/netvideogirls_1163%3a_selena_and_isabella.htm"
   ],
   "performers": {
     "remove": [
+      {
+        "id": "180acde9-3d16-4632-a872-b757d4f05a78",
+        "name": "Isabella",
+        "appearance": null
+      },
       {
         "id": "4b469800-47bc-40b6-a5bc-daa8422663b5",
         "name": "Selena",
@@ -11,6 +16,13 @@
       }
     ],
     "append": [
+      {
+        "id": null,
+        "name": "Emelie Valentine",
+        "appearance": "Isabella",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=emelievalentine/gender=f/emelie-valentine.htm"
+      },
       {
         "id": null,
         "name": "Luna Lust",

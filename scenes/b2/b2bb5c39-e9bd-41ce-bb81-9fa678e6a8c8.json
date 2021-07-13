@@ -1,0 +1,21 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "2d35a5bd-bb48-48fa-92c5-b690fb433ac7",
+        "name": "Harmony",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Harmony",
+        "appearance": null,
+        "disambiguation": "2019, Leg Sex",
+        "status": "new",
+        "status_url": "https://www.legsex.com/foot-models/Harmony/5962/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1108%3a+harmony/year=2009/backroom_casting_couch_1108%3a_harmony.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2d35a5bd-bb48-48fa-92c5-b690fb433ac7",
+        "name": "Harmony",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "49cbfd95-db58-421a-aecf-ee95bd8a9a01",
+        "name": "Cameron Bay",
+        "appearance": "Harmony"
+      }
+    ]
+  }
+}

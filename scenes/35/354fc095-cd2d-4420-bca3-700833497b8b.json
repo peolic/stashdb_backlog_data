@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1355%3a+kiara+and+lex/year=2018/net-girl-1355-kiara-and-lex.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -12,6 +15,14 @@
         "id": "51982117-38cf-43af-a55f-db51a116f396",
         "name": "Kiara Cole",
         "appearance": "Kiara"
+      },
+      {
+        "id": null,
+        "name": "Dan",
+        "appearance": null,
+        "disambiguation": "NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=dan_nvg/gender=m/dan.htm"
       }
     ]
   }

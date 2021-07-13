@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/22025/nubiles-harmony/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2d35a5bd-bb48-48fa-92c5-b690fb433ac7",
+        "name": "Harmony",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Harmony",
+        "appearance": null,
+        "disambiguation": "Canadian, 2008",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/harmony"
+      }
+    ]
+  }
+}

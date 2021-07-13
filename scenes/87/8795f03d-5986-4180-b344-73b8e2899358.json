@@ -1,22 +1,22 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=net+girl+981%3a+scarlett+and+selena/year=2017/net-girl-981-scarlett-and-selena.htm"
+    "https://www.iafd.com/title.rme/title=net+girl+1102%3a+isabella/year=2017/net-girl-1102-isabella.htm"
   ],
   "performers": {
     "remove": [
       {
-        "id": "4b469800-47bc-40b6-a5bc-daa8422663b5",
-        "name": "Selena",
+        "id": "180acde9-3d16-4632-a872-b757d4f05a78",
+        "name": "Isabella",
         "appearance": null
       }
     ],
     "append": [
       {
         "id": null,
-        "name": "Luna Lust",
-        "appearance": "Selena",
+        "name": "Emelie Valentine",
+        "appearance": "Isabella",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lunalust/gender=f/luna-lust.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=emelievalentine/gender=f/emelie-valentine.htm"
       },
       {
         "id": "66eeb8f2-264a-430f-bda1-b20be7de728d",
