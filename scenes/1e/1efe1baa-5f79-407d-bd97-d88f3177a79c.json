@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=complete+package/year=2007/complete_package.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "9bdfccad-8b35-4965-8387-90e86b937d00",
+        "name": "Lani",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Lani",
+        "appearance": null,
+        "disambiguation": "2007, Cum Fiesta",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=lani_08/gender=f/lani.htm"
+      }
+    ]
+  }
+}

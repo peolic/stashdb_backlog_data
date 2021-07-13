@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=naughty+bookworms+269/year=2004/naughty_bookworms_269.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "9bdfccad-8b35-4965-8387-90e86b937d00",
+        "name": "Lani",
+        "appearance": null,
+        "status": "merge"
+      }
+    ],
+    "append": [
+      {
+        "id": "57d43a6b-bd5b-4ffd-9e99-ede555f86417",
+        "name": "Lani Lei",
+        "appearance": "Lani"
+      }
+    ]
+  }
+}
