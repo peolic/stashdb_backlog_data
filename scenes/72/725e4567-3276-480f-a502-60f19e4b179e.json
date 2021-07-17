@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=rack+attack/year=2008/rack-attack.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6b12b93a-69ad-42c8-9a12-55e336f89262",
+        "name": "Skylar",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Skylar Monroe",
+        "appearance": "Skylar",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=skylarmonroe/gender=f/skylar-monroe.htm"
+      }
+    ]
+  }
+}
