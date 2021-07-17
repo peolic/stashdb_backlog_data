@@ -4,7 +4,8 @@
       {
         "id": "e4d921fb-f4da-4325-8a98-db85e19000a8",
         "name": "Amilia",
-        "appearance": null
+        "appearance": null,
+        "status": "merge"
       },
       {
         "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
