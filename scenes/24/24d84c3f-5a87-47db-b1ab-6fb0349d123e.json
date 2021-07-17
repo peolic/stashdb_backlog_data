@@ -1,0 +1,34 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1139%3a+sophia/year=2018/net_girl_1139%3a_sophia.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "29bec398-5a54-4896-a1b9-c51137b52a07",
+        "name": "Sophia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sophia",
+        "appearance": null,
+        "disambiguation": "2016-18, ExCoGi & Net Girl",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=sophia_excogi_1653/gender=f/sophia.htm"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}

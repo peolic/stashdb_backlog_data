@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1109%3a+daisy+and+ivy/year=2017/net_girl_1109%3a_daisy_and_ivy.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "abf6d5e5-f79d-4777-aaec-d6e28ace88fe",
+        "name": "Ivy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d27dc389-1fda-4f27-a677-cc0e4d9805cb",
+        "name": "Ivy Wolfe",
+        "appearance": "Ivy"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}
