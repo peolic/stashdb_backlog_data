@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1121%3a+ivy%2c+nikki+and+ella/year=2017/netvideogirls-1121-ivy%2c-nikki-and-ella.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -9,6 +12,11 @@
       {
         "id": "abf6d5e5-f79d-4777-aaec-d6e28ace88fe",
         "name": "Ivy",
+        "appearance": null
+      },
+      {
+        "id": "59c0aeac-d098-4554-aeaa-4f966134cfc6",
+        "name": "Ella",
         "appearance": null
       }
     ],
@@ -22,6 +30,13 @@
         "id": "d27dc389-1fda-4f27-a677-cc0e4d9805cb",
         "name": "Ivy Wolfe",
         "appearance": "Ivy"
+      },
+      {
+        "id": null,
+        "name": "Ella Kat",
+        "appearance": "Ella",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=ellakat/gender=f/ella-kat.htm"
       }
     ]
   }
