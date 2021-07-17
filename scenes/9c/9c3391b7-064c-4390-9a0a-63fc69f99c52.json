@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1068%3a+piper/year=2017/netvideogirls_1068%3a_piper.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "b751537d-c3fc-4122-b555-7e5962a65623",
+        "name": "Piper",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dfcf4839-52fa-4732-bcd4-f05eacb5cf9c",
+        "name": "Pyper Prentice",
+        "appearance": "Piper"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": null
+      }
+    ]
+  }
+}

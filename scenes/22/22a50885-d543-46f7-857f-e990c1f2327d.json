@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1105%3a+macy/year=2017/netvideogirls-1105-macy.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "02f5cef2-3a14-4950-9eea-e50882825f33",
+        "name": "Macy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "62d40f74-0dbd-40eb-8600-2351666f8b3d",
+        "name": "Macy Meadows",
+        "appearance": "Macy"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      },
+      {
+        "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
+        "name": "Donnie Rock",
+        "appearance": "Donnie"
+      }
+    ]
+  }
+}

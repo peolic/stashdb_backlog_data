@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1089%3a+torri/year=2017/netvideogirls-1089-torri.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "51578ec2-ad5c-467b-9b63-1a4bfffc6e73",
+        "name": "Tori",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fcd2c895-cd9a-4a29-9dbf-c0bb98fe7163",
+        "name": "Tory Bellamy",
+        "appearance": "Tori"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}

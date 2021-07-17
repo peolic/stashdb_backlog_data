@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1021%3a+avery/year=2017/netvideogirls_1021%3a_avery.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5491caac-279f-4b76-9ccc-7b014f701943",
+        "name": "Avery",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "675f1873-8a7e-49e8-9df3-fc5380f8248d",
+        "name": "Avery Stone",
+        "appearance": "Avery"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}
