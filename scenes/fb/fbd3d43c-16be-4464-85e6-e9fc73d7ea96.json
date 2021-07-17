@@ -1,0 +1,32 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=teacher%27s+pet+9/year=2004/teacher&apos;s-pet-9.htm",
+    "Scene #1"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
+        "name": "Stacy",
+        "appearance": null
+      },
+      {
+        "id": "0f9e8cc2-2f22-4eb8-803c-8e213447d8be",
+        "name": "Peterson",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "455c1e51-a41c-4e96-b240-f7ba6125867b",
+        "name": "Stacey Sweet",
+        "appearance": "Stacy"
+      },
+      {
+        "id": "ec1031ed-21be-474d-b12f-1412df32a000",
+        "name": "Brad Baldwin",
+        "appearance": "Peterson"
+      }
+    ]
+  }
+}

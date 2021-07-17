@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813",
+    "Ep 2010.23 - Vanessa = Stephanie Kane A.K.A. [NOBABE]Stephanie Cane[/NOBABE]"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "30f9e014-f606-4887-87b4-bbce4f3007d7",
+        "name": "Vanessa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "44003a55-0d75-4722-9b94-a3f28480ab2e",
+        "name": "Stephanie Cane",
+        "appearance": "Vanessa"
+      }
+    ]
+  }
+}

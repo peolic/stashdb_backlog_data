@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=stay+sweet/year=2004/stay-sweet.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
+        "name": "Stacy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "455c1e51-a41c-4e96-b240-f7ba6125867b",
+        "name": "Stacey Sweet",
+        "appearance": "Stacy"
+      }
+    ]
+  }
+}

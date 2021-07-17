@@ -1,0 +1,38 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+824%3a+delilah+and+carli/year=2016/netvideogirls_824%3a_delilah_and_carli.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1c2030fd-27bd-4916-8254-37701d32cd82",
+        "name": "Carli",
+        "appearance": null
+      },
+      {
+        "id": "bab83509-2d62-4163-9ae5-d7b7e1617e48",
+        "name": "Delilah",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3338f66a-4896-4d64-ae3d-15fba211bbaf",
+        "name": "Karlie Brooks",
+        "appearance": "Carli"
+      },
+      {
+        "id": null,
+        "name": "Delilah Dare",
+        "appearance": "Delilah",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=delilahdare/gender=f/delilah-dare.htm"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}

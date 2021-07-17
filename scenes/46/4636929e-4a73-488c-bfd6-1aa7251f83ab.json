@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814",
+    "Ep 2013.15 - Vanessa = Vixxen Hart (CCHD)"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "30f9e014-f606-4887-87b4-bbce4f3007d7",
+        "name": "Vanessa",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3bd5b35a-5463-49e8-8ca8-5031bc585fca",
+        "name": "Vixxen Hart",
+        "appearance": "Vanessa"
+      }
+    ]
+  }
+}

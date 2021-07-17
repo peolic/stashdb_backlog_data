@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1032%3a+carmen/year=2017/netvideogirls_1032%3a_carmen.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "0d216d2c-f738-45e4-a834-0a8c51849b90",
+        "name": "Carmen",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Carmen Treasure",
+        "appearance": "Carmen",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=carmentreasures/gender=f/carmen-treasure.htm"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}

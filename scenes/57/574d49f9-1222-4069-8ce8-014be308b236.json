@@ -1,0 +1,35 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809478",
+    "Ep 2016-12-02...NVG...Jasmine Returns And Attacks Stacy..Stacy Sterling",
+    "https://www.indexxx.com/m/jasmine-summers"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
+        "name": "Stacy",
+        "appearance": null
+      },
+      {
+        "id": "2b420676-8c19-4395-87a3-6b72cde0bcc8",
+        "name": "Jasmine",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Bitty Bunny",
+        "appearance": "Stacy",
+        "status": "new",
+        "status_url": "https://www.freeones.com/forums/threads/bitty-bunny-stacy-sterling.907049/"
+      },
+      {
+        "id": "34b8e8b5-9828-4d9f-9a7b-de1d8856a53b",
+        "name": "Jasmine Summers",
+        "appearance": "Jasmine"
+      }
+    ]
+  }
+}

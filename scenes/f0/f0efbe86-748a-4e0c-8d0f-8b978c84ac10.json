@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1067%3a+charley/year=2017/castingcouch%2dhd-1067-charley.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e0f870a0-7021-493f-81df-f9803f4d863e",
+        "name": "Charley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Charley Daniels",
+        "appearance": "Charley",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=charleydaniels/gender=f/charley-daniels.htm"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}

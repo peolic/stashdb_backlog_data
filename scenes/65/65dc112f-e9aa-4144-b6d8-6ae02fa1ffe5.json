@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "From scene description"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
+        "name": "Stacy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d68d6e20-da1c-4a02-9bc0-69ccf683f8f3",
+        "name": "Stacy Carpenter",
+        "appearance": "Stacy"
+      }
+    ]
+  }
+}

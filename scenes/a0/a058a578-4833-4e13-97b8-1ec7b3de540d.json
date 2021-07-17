@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+914%3a+shelby/year=2016/netvideogirls_914%3a_shelby.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8ae5657c-7874-4641-8163-8f59ac6b41ec",
+        "name": "Shelby",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ffa0ed71-f436-47de-af38-e42a9a54b7b6",
+        "name": "Kennedy Jax",
+        "appearance": "Shelby"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}
