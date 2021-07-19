@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "77a5e677-4587-4141-aa29-edc35cd6ea53",
+        "name": "Bridgette B",
+        "appearance": null
+      }
+    ]
+  }
+}
