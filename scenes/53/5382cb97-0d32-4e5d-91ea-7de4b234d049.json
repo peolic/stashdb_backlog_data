@@ -1,0 +1,25 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "Ep 2015-06-17 - Taylor ... Violet Sunset (CCHD)"
+  ],
+  "date": "2015-06-17",
+  "performers": {
+    "remove": [
+      {
+        "id": "506a32da-71c1-4be2-81d6-18b1c407bc3a",
+        "name": "Taylor",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Violet Sunset",
+        "appearance": "Taylor",
+        "status": "new",
+        "status_url": "https://forum.adultdvdtalk.com/violet-sunset"
+      }
+    ]
+  }
+}

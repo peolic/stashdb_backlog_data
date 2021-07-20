@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1053%3a+lindsey/year=2008/backroom-casting-couch-1053-lindsey.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2bd6a490-fdcd-4566-a0f0-950f538498b7",
+        "name": "Lindsey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7604a857-6dda-4872-b748-565f2c270900",
+        "name": "Dylan Tyler",
+        "appearance": "Lindsey"
+      }
+    ]
+  }
+}

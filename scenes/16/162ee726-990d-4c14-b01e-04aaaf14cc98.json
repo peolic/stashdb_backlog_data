@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813",
+    "Ep 2010.39 - Amy ... Kenna Kane"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6388fcfe-b2ec-4eea-a971-1719ef4664dc",
+        "name": "Amy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "265fd63a-7867-40b7-a623-7ae163502114",
+        "name": "Kenna Kane",
+        "appearance": "Amy"
+      }
+    ]
+  }
+}
