@@ -3,6 +3,26 @@
   "performers": {
     "remove": [
       {
+        "id": "f535ad24-d401-4cee-ab57-1e9511000f2d",
+        "name": "Aspen Romanoff",
+        "appearance": null
+      },
+      {
+        "id": "9213ab5a-38ee-4422-abad-10761f8b2933",
+        "name": "Sasha Price",
+        "appearance": null
+      },
+      {
+        "id": "90fab893-3fbc-4d97-89e6-1a14f6a178f9",
+        "name": "Alice Pink",
+        "appearance": null
+      },
+      {
+        "id": "8afc3c2b-777f-48c2-9bf5-603843d54ec4",
+        "name": "Izzy Bell",
+        "appearance": null
+      },
+      {
         "id": "95310346-cc8b-4783-b5b5-326ad8288c40",
         "name": "Tara Ashley",
         "appearance": null
