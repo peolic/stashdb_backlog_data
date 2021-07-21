@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=teen+tryouts+audition+35/year=2004/teen-tryouts-audition-35.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "65dcfb16-1e87-46ca-b287-64f5c658c499",
+        "name": "Tristan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a5f7aeac-8940-4dd4-9216-35fa63a911b2",
+        "name": "Tristan Segal",
+        "appearance": null
+      }
+    ]
+  }
+}

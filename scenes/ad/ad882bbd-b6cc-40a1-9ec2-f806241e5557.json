@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=take+a+peek+at+the+monster/year=2007/take-a-peek-at-the-monster.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "65dcfb16-1e87-46ca-b287-64f5c658c499",
+        "name": "Tristan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7416cd3b-248d-4083-b673-2852e6840dfd",
+        "name": "Tristan Kingsley",
+        "appearance": "Tristan"
+      },
+      {
+        "id": "10beea94-d2a9-414e-8db6-af8c9266cd5b",
+        "name": "Castro Supreme",
+        "appearance": "Castro"
+      }
+    ]
+  }
+}

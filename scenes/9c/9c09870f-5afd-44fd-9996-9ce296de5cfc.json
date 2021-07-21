@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
+    "Ep 2015-05-19 - Angeline (\"Angie\") ... Savannah Stevens (CCHD)"
+  ],
+  "date": "2015-05-19",
+  "performers": {
+    "remove": [
+      {
+        "id": "0bd6e717-b3bb-4aac-a1ef-96cf9ce09855",
+        "name": "Angeline",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b04c53d8-9b7d-4e36-aab7-f21ab7865b25",
+        "name": "Savannah Stevens",
+        "appearance": "Angeline"
+      }
+    ]
+  }
+}
