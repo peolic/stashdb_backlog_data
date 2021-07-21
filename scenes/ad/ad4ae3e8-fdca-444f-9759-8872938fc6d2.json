@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1502%3a+sabrina/year=2018/backroom-casting-couch-1502-sabrina.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2d1c9bb9-232a-4a77-947d-eb5eb135ad58",
+        "name": "Sabrina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Nicole Kidd",
+        "appearance": "Sabrina",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=nicolekidd/gender=f/nicole-kidd.htm"
+      }
+    ]
+  }
+}

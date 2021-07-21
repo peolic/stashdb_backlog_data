@@ -1,0 +1,35 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
+    "Ep 2014.13 - Ashley (Attacks Sabrina) = Hayden Marie",
+    "Ep 2014.13 - (Ashley Attacks) Sabrina = Layla Adams"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "eb9bbdcf-beb4-4ef5-8d11-995c327cab0f",
+        "name": "Ashley",
+        "appearance": null
+      },
+      {
+        "id": "2d1c9bb9-232a-4a77-947d-eb5eb135ad58",
+        "name": "Sabrina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Hayden Marie",
+        "appearance": "Ashley",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=haydenmarie/gender=f/hayden-marie.htm"
+      },
+      {
+        "id": "db5b4573-1645-40e3-9145-8bba89ad7d7d",
+        "name": "Layla Adams",
+        "appearance": "Sabrina"
+      }
+    ]
+  }
+}
