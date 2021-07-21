@@ -6,12 +6,10 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "0e56dc58-4a39-4296-8ce7-aadd36282412",
         "name": "Dan",
         "appearance": null,
-        "disambiguation": "NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/31f8a6ef-422c-48ce-8cc1-41000170de2d"
+        "disambiguation": "NVG"
       }
     ]
   }
