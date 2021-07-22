@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/1055068/naughty-mag-angelica-haileey-james/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "53343ddc-5fe9-4d25-bf88-fe050436de1d",
+        "name": "Angelica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Angelica Meow",
+        "appearance": "Angelica",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=angelicameow/gender=f/angelica-meow.htm"
+      }
+    ]
+  }
+}

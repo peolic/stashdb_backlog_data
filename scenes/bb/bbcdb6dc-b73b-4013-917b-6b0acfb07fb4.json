@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/506714/sapphic-erotica-aiden-angelica/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "53343ddc-5fe9-4d25-bf88-fe050436de1d",
+        "name": "Angelica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "876d0c32-4c7f-4e86-9095-f25045dcd65f",
+        "name": "Black Angelica",
+        "appearance": "Angelica"
+      }
+    ]
+  }
+}

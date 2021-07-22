@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/627287/babes-angelica/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "53343ddc-5fe9-4d25-bf88-fe050436de1d",
+        "name": "Angelica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "827c414d-de25-4975-87ff-d97d07c919a5",
+        "name": "Krystal Boyd",
+        "appearance": "Angelica"
+      }
+    ]
+  }
+}

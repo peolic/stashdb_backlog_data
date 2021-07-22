@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lick+and+stick/year=2007/lick_and_stick.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "53343ddc-5fe9-4d25-bf88-fe050436de1d",
+        "name": "Angelica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f202d349-8f77-4e7c-8fa6-0d35529f32f5",
+        "name": "Angelica Jordan",
+        "appearance": "Angelica"
+      }
+    ]
+  }
+}
