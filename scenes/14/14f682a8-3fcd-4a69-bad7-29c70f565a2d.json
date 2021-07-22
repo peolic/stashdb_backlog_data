@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=boys+for+rent+2/year=2016/boys-for-rent-2.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "4570f069-c551-4a56-95a9-92f408031e94",
+        "name": "Alex Tanner",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Alex Tanner",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=alextanner_15/gender=m/alex-tanner.htm"
+      }
+    ]
+  }
+}
