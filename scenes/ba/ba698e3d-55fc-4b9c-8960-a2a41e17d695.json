@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1773%3a+savannah+and+aliya/year=2019/net_girl_1773%3a_savannah_and_aliya.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -22,6 +25,14 @@
         "id": "412c9333-813f-433e-a64a-67871ff352d8",
         "name": "Savannah Sixx",
         "appearance": "Savannah"
+      }
+    ],
+    "update": [
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler",
+        "old_appearance": null
       }
     ]
   }
