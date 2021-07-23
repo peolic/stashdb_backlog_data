@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=north+pole+36/year=2002/north-pole-36.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "266f2f0e-5fc2-4eb1-9c3a-7b276ce93910",
+        "name": "Romana",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "708ec953-5b51-4122-b599-ea5a53cdc6f5",
+        "name": "Kristy Roman",
+        "appearance": "Romana"
+      }
+    ]
+  }
+}

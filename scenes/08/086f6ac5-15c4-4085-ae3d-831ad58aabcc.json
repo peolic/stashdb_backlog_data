@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=rub+it/year=2003/rub_it.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8cbb7b9e-cddc-469c-bc01-89472e422c82",
+        "name": "Kristy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f7219353-7995-4a69-9c95-06ca6bc66ce1",
+        "name": "Kira Silver",
+        "appearance": "Kristy"
+      }
+    ]
+  }
+}
