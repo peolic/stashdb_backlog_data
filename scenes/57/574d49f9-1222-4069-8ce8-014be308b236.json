@@ -8,24 +8,12 @@
   "performers": {
     "remove": [
       {
-        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
-        "name": "Stacy",
-        "appearance": null
-      },
-      {
         "id": "2b420676-8c19-4395-87a3-6b72cde0bcc8",
         "name": "Jasmine",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": null,
-        "name": "Bitty Bunny",
-        "appearance": "Stacy",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/5fa6fed0-4d4a-4944-ba16-d9f456e1a6f6"
-      },
       {
         "id": "34b8e8b5-9828-4d9f-9a7b-de1d8856a53b",
         "name": "Jasmine Summers",
