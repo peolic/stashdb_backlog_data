@@ -1,11 +1,25 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=send+me+an+angel/year=2015/send_me_an_angel.htm"
+  ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "85bc7695-a22d-4757-8f23-951b30874406",
+        "name": "Thomas J",
+        "appearance": null
+      }
+    ],
     "append": [
       {
         "id": "b7081511-ecfa-4097-90c6-9a1e0b0d0fac",
         "name": "Claudia Macc",
         "appearance": null
+      },
+      {
+        "id": "a955a17d-7823-41eb-92e2-638f7c2573c6",
+        "name": "Damian Dickey",
+        "appearance": "Radek Chrisantos"
       }
     ]
   }

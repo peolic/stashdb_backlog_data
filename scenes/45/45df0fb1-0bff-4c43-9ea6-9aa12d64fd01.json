@@ -1,11 +1,9 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=crack+inspector/year=2007"
+  ],
   "performers": {
     "remove": [
-      {
-        "id": "729c55ac-f66c-42bc-8f9c-83bf32e9d288",
-        "name": "Cierra",
-        "appearance": null
-      },
       {
         "id": "987dba9a-6987-4e67-a981-c437c32449a9",
         "name": "April",
@@ -13,11 +11,6 @@
       }
     ],
     "append": [
-      {
-        "id": "a85ffd4c-4309-469a-950d-2f75c2d0058c",
-        "name": "Ciera Sage",
-        "appearance": "Cierra"
-      },
       {
         "id": "8a1828df-55a7-4bc1-947f-0f31f0be7055",
         "name": "April Blossom",

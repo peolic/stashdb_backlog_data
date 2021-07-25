@@ -1,11 +1,17 @@
 {
+  "comments": [
+    "weird, IAFD lists Emma Louise as performer but the file name suggests performer Kimmie Fox",
+    "https://www.iafd.com/title.rme/title=hot+brunette+has+a+very+tight+arse/year=2016/hot-brunette-has-a-very-tight-arse.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
       {
         "id": null,
-        "name": "Kimmie Fox",
-        "appearance": null
+        "name": "Kimmie Foxx",
+        "appearance": "Kimmie Fox",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=kimmiefox/gender=f/kimmie-foxx.htm"
       }
     ]
   }
