@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "5f6346ad-a211-4438-b83c-e80699b2c6c5",
+        "name": "Gabriella Daniels",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "e1a348ec-1b21-40ff-baec-bce4f72cbeed",
+        "name": "Lucia Denville",
+        "appearance": null
+      }
+    ]
+  }
+}

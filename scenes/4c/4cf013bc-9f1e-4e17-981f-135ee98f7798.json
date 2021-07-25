@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "640d727c-51b7-4eb9-ad33-308404c91c08",
+        "name": "Ashley Downs",
+        "appearance": null
+      }
+    ]
+  }
+}

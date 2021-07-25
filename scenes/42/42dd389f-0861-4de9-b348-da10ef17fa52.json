@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a90cc0c3-adcc-4652-ac0c-051072e7649f",
+        "name": "Sasha Zima",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "df282d93-2c28-47dd-a6e9-83d203bcdd3b",
+        "name": "Stacey Saran",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Kimmie Fox",
+        "appearance": null
+      }
+    ]
+  }
+}

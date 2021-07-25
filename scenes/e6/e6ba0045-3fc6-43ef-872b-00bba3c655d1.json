@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "6f67e063-eec0-4a10-a50f-fa0a9ffb3050",
+        "name": "Tamara Grace",
+        "appearance": null
+      }
+    ]
+  }
+}

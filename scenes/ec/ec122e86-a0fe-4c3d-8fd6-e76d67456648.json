@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "fd66f886-90fa-433b-9b2a-d5e77cadb764",
+        "name": "Sahara Knite",
+        "appearance": null
+      }
+    ]
+  }
+}

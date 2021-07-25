@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
+        "name": "Eva",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d7b8e408-729d-40de-8dc8-a7342356ed70",
+        "name": "Eva Johnson",
+        "appearance": null
+      }
+    ]
+  }
+}

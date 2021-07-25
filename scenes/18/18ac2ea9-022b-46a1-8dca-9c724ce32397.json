@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "e092a22d-a087-413f-9eda-82891126f171",
+        "name": "Kayla Green",
+        "appearance": null
+      }
+    ]
+  }
+}
