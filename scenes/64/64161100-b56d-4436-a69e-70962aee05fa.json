@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "77bcaf93-7e3d-4419-9ac9-530a7ad63e9d",
+        "name": "Ellie Springlare",
+        "appearance": null
+      }
+    ]
+  }
+}

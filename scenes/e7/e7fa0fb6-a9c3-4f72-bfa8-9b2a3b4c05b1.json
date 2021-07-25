@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "fd889d0b-ba19-42e1-8956-78ca82778b2d",
+        "name": "Nathaly Cherie",
+        "appearance": null
+      }
+    ]
+  }
+}

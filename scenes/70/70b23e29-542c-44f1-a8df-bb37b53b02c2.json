@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "bede3bc4-9dd4-4dd3-89ab-b6036f321b6c",
+        "name": "Emma Butt",
+        "appearance": null
+      }
+    ]
+  }
+}

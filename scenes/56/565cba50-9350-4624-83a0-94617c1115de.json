@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "b7081511-ecfa-4097-90c6-9a1e0b0d0fac",
+        "name": "Claudia Macc",
+        "appearance": null
+      }
+    ]
+  }
+}

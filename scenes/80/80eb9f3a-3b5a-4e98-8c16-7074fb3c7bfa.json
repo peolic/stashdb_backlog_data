@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "70b0f5cb-4925-4d14-9dcd-08d434506ac5",
+        "name": "Jasmine Jae",
+        "appearance": null
+      }
+    ]
+  }
+}

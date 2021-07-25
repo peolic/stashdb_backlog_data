@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "0c11e613-bf5f-4996-85d7-ea3468ad3ca7",
+        "name": "Carly Rae",
+        "appearance": null
+      }
+    ]
+  }
+}

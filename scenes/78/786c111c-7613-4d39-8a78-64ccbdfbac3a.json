@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "8885f955-e2ef-4d24-9830-6667344c9a53",
+        "name": "Lola Marie",
+        "appearance": null
+      }
+    ]
+  }
+}
