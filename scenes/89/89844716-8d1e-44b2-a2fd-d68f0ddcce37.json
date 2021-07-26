@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=strip+club+dancer+gets+naughty/year=2017/strip-club-dancer-gets-naughty.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Jai James",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jaijames/gender=f/jai-james.htm"
+      },
+      {
+        "id": "b559da20-b8d9-450f-a8bc-5c4efa509a76",
+        "name": "Ian Tate",
+        "appearance": "John Petty"
+      }
+    ]
+  }
+}

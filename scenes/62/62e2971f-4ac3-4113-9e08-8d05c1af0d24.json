@@ -1,0 +1,17 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=ebony+jai+james+finds+it+harder/year=2018/ebony-jai-james-finds-it-harder.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Jai James",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jaijames/gender=f/jai-james.htm"
+      }
+    ]
+  }
+}

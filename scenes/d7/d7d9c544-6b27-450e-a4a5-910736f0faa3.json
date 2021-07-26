@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=fake+handyman+%2d+jai+james/year=2017/fake-handyman-%2d-jai-james.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Jai James",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jaijames/gender=f/jai-james.htm"
+      },
+      {
+        "id": "5d01e10f-953a-419c-b3bb-281c77157d6b",
+        "name": "Steve Q.",
+        "appearance": null
+      }
+    ]
+  }
+}

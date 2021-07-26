@@ -1,0 +1,17 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=fakehub+originals+bloopers/year=2018/fakehub-originals-bloopers.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Jai James",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jaijames/gender=f/jai-james.htm"
+      }
+    ]
+  }
+}
