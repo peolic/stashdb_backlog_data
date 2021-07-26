@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=candy+kayne+returns+just+for+sex/year=2018/candy-kayne-returns-just-for-sex.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "7f4e3a27-a5a6-49cf-818d-ce0f16b94d27",
+        "name": "Candi Kayne",
+        "appearance": null
+      }
+    ]
+  }
+}

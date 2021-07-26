@@ -1,0 +1,17 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=african+model+leaves+agent+speechless/year=2015/african-model-leaves-agent-speechless.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Saffina Gold",
+        "appearance": "Kichomi",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=kichomi_taxi/gender=f/saffina-gold.htm"
+      }
+    ]
+  }
+}
