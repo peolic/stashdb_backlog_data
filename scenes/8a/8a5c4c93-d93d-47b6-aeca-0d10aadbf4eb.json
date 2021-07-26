@@ -1,0 +1,17 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=first+fare+%2d+first+fuck/year=2018/first_fare_%2d_first_fuck.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Danny Torro",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=dannytorro/gender=m/danny-torro.htm"
+      }
+    ]
+  }
+}
