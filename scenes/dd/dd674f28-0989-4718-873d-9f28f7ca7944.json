@@ -1,0 +1,20 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=thanking+a+soldier+for+his+service/year=2016/thanking_a_soldier_for_his_service.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "4d5dea1f-9f97-4545-b6b5-1c677d4294e3",
+        "name": "Rebecca More",
+        "appearance": null
+      },
+      {
+        "id": "3f35ac42-48b5-415a-b1a5-e0aa84833d02",
+        "name": "Billy King",
+        "appearance": null
+      }
+    ]
+  }
+}
