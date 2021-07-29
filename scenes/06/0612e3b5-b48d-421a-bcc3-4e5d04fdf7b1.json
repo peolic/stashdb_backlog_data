@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1564%3a+summer/year=2019/backroom-casting-couch-1564-summer.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -11,7 +14,7 @@
       {
         "id": "359d5e3f-8831-4a78-aa8c-2bec8b6d01d0",
         "name": "Allie Addison",
-        "appearance": null
+        "appearance": "Summer"
       }
     ]
   }
