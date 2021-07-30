@@ -1,16 +1,14 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=partner+swap+2/year=2018/partner-swap-2.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
       {
-        "id": "dce0dfbf-2dc6-4762-8909-c336b599d999",
-        "name": "Licky Lex",
-        "appearance": null
-      },
-      {
         "id": "a206f844-ae0d-4b13-af43-9fc6a403881b",
         "name": "Ridge Crix",
-        "appearance": null
+        "appearance": "Ridge"
       }
     ]
   }
