@@ -5,23 +5,12 @@
   "performers": {
     "remove": [
       {
-        "id": "e4d921fb-f4da-4325-8a98-db85e19000a8",
-        "name": "Amilia",
-        "appearance": null,
-        "status": "merge"
-      },
-      {
         "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
         "name": "Nikki",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "6a77ee3b-1baf-463f-9c17-9f4f3840a7d2",
-        "name": "Amilia Onyx",
-        "appearance": "Amilia"
-      },
       {
         "id": "8c297125-bbbc-4639-b188-b993782032ad",
         "name": "Daisy Dahl",
