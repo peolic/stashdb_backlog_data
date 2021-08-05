@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=poolside+shark/year=2004/poolside-shark.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2a93cd41-276a-42b3-b6e3-7f4799e40c45",
+        "name": "Shay",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e427fdf8-02c7-45a1-a377-db1ab64a50ae",
+        "name": "Shay Lamar",
+        "appearance": "Shay"
+      }
+    ]
+  }
+}

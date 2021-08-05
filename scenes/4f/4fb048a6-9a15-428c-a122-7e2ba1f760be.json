@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lonely+pleasures/year=2013/lonely-pleasures.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2a93cd41-276a-42b3-b6e3-7f4799e40c45",
+        "name": "Shay",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8ec68402-d441-4e8f-914e-810254a1bc19",
+        "name": "Shay Parker",
+        "appearance": "Shay"
+      }
+    ]
+  }
+}

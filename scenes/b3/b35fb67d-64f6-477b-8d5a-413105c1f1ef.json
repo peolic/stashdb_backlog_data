@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/13150/nubiles-kristina/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "72fe40bc-4607-4d32-96aa-d22414c96c5f",
+        "name": "Kristina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kristina Wood",
+        "appearance": "Kristina",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/kristina-wood"
+      }
+    ]
+  }
+}

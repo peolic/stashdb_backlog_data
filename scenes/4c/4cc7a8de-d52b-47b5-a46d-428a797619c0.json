@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "70aa3712-1a55-483e-b09e-43a27cf990ad",
+        "name": "Kali Lane",
+        "appearance": "Kali"
+      }
+    ]
+  }
+}

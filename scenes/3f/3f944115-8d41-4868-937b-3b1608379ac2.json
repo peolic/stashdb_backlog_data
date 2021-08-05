@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c867d79a-3273-4ef7-8466-600c763045cb",
+        "name": "Klementine",
+        "appearance": null
+      }
+    ]
+  }
+}

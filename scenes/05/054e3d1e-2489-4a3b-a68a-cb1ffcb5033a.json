@@ -1,0 +1,12 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "70b7dfdc-6620-46f0-a75e-74c124005906",
+        "name": "Renae Cruz",
+        "appearance": "Renae"
+      }
+    ]
+  }
+}
