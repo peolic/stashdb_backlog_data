@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=exploited+college+girls+1883%3a+candi/year=2019/exploited_college_girls_1883%3a_candi.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1d85b30e-9d2c-4907-a763-fe9577974b3b",
+        "name": "Candi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "be277f85-86f9-4226-91ea-f4bd3b7d16fe",
+        "name": "Ashley Manson",
+        "appearance": "Candi"
+      },
+      {
+        "id": "23d6029c-5c15-4909-be71-d15719eb1a3d",
+        "name": "Jake Adams",
+        "appearance": "Jake"
+      }
+    ]
+  }
+}
