@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=we+need+cocks/year=2011/we-need-cocks.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "150ef0f3-1cff-4a7c-b8b0-0729300c2608",
+        "name": "Jessica",
+        "appearance": null
+      },
+      {
+        "id": "e04ceffd-5310-49fa-a91a-31393963a314",
+        "name": "Ivey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dda3d6e6-40f1-4fcb-b2fc-e74c7269a3b7",
+        "name": "Miss Marie",
+        "appearance": "Jessica"
+      },
+      {
+        "id": "46c7cd40-d434-4351-99bd-04a18393d1d5",
+        "name": "Emily Eve",
+        "appearance": "Ivey"
+      }
+    ]
+  }
+}

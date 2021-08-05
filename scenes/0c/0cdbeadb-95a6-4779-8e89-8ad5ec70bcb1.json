@@ -8,6 +8,11 @@
         "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
         "name": "Nikki",
         "appearance": null
+      },
+      {
+        "id": "d22fd548-43e6-4c45-bae0-2eebc4dac061",
+        "name": "Chayenne",
+        "appearance": null
       }
     ],
     "append": [
@@ -20,6 +25,14 @@
         "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
         "name": "Tyler D.",
         "appearance": "Tyler"
+      },
+      {
+        "id": null,
+        "name": "Cheyenne",
+        "appearance": "Chayenne",
+        "disambiguation": "2012, 2017",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=cheyenne_tat/gender=f/cheyenne.htm"
       }
     ]
   }
