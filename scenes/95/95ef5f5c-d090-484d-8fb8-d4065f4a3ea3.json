@@ -8,11 +8,6 @@
         "id": "97eee769-deca-48e3-8d2e-2a62301c2343",
         "name": "Callie Nicole",
         "appearance": null
-      },
-      {
-        "id": "3dcaaef7-3c4b-4dc7-873a-3e8c936a753b",
-        "name": "Sasha",
-        "appearance": null
       }
     ],
     "append": [
@@ -20,11 +15,6 @@
         "id": "b5fdc89f-6ce7-47e7-af0c-1d6ec90e2acc",
         "name": "Callie Cobra",
         "appearance": null
-      },
-      {
-        "id": "ee70e40c-f486-4efd-8b87-2cfc6eb4cc86",
-        "name": "Sasha Heart",
-        "appearance": "Sasha"
       }
     ]
   }

@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=flopper+fetish+festival/year=2012/flopper-fetish-festival.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1022e42a-1288-4d3b-89e7-3881ee2c5def",
+        "name": "Pamela",
+        "appearance": null
+      },
+      {
+        "id": "610990f6-2e27-446f-8119-dc591eff021e",
+        "name": "Lily",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "27548741-985a-4682-8021-e9c87218552e",
+        "name": "Pamela Blond",
+        "appearance": "Pamela"
+      },
+      {
+        "id": "51653b32-03d6-4608-af71-f7779ef57fca",
+        "name": "Lily E",
+        "appearance": "Lily"
+      }
+    ]
+  }
+}
