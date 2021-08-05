@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=slutty+touchy/year=2013/slutty_touchy.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "29bec398-5a54-4896-a1b9-c51137b52a07",
+        "name": "Sophia",
+        "appearance": null
+      },
+      {
+        "id": "a005b1da-bd20-46db-a43a-ec03542b46ec",
+        "name": "Rose",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d9da5fc5-9d84-4e6f-9bfb-53e2f4f5ad0f",
+        "name": "Sofia Cruz",
+        "appearance": "Sophia"
+      },
+      {
+        "id": "35b18ca0-ff32-4338-ba8e-3554ce8991e3",
+        "name": "Rose Monroe",
+        "appearance": "Rose"
+      }
+    ]
+  }
+}

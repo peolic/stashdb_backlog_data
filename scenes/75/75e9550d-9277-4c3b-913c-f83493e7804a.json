@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=youve+never+kissed+a+girl/year=2013/youve_never_kissed_a_girl.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "02f5cef2-3a14-4950-9eea-e50882825f33",
+        "name": "Macy",
+        "appearance": null
+      },
+      {
+        "id": "37f86373-4723-4b48-9332-7c6613bcd358",
+        "name": "Lola",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "61f879bf-afc8-4e5b-8179-a930a6e3ee10",
+        "name": "Macy Cartel",
+        "appearance": "Macy"
+      },
+      {
+        "id": "1c910c98-cdb5-4269-9851-3507031b0c3b",
+        "name": "Lola Milano",
+        "appearance": "Lola"
+      }
+    ]
+  }
+}
