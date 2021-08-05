@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=i+came+to+see+you/year=2013/i_came_to_see_you.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "d09abac5-9e73-41b4-aae4-228c4874090d",
+        "name": "Florence",
+        "appearance": null
+      },
+      {
+        "id": "25111e61-914a-4d5b-bfc4-62d4bd13acc7",
+        "name": "Emily",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "23959e98-77c1-4d19-947c-16bd323eb132",
+        "name": "Florence Dolce",
+        "appearance": "Florence"
+      },
+      {
+        "id": "1eee3e10-19d2-469b-822d-64323546d659",
+        "name": "Emily Benjamins",
+        "appearance": "Emily"
+      }
+    ]
+  }
+}
