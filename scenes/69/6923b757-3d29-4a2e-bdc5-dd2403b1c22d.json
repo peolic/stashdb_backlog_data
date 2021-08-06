@@ -1,0 +1,29 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+1239%3a+luci/year=2018/netvideogirls-1239-luci.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6ce555a1-3826-4db2-b2c8-5bcd12a9495a",
+        "name": "Luci",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Luci",
+        "appearance": null,
+        "disambiguation": "2018, NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=luci_nvg/gender=f/luci.htm"
+      },
+      {
+        "id": "ea58b02b-90a2-4819-b67b-2df5af85f009",
+        "name": "Conor Coxxx",
+        "appearance": "Josh"
+      }
+    ]
+  }
+}

@@ -12,6 +12,12 @@
         "id": "c4491f37-92c2-4e57-8e08-fe54e5be3208",
         "name": "Aubree Ice",
         "appearance": "Geneva"
+      },
+      {
+        "id": "408adfb8-ff95-4e8f-bb05-f030c7865e30",
+        "name": "Ryan",
+        "appearance": null,
+        "disambiguation": "NVG"
       }
     ]
   }

@@ -15,6 +15,12 @@
         "id": "177071f4-7222-4316-bebe-08becc4508c8",
         "name": "Violet Rain",
         "appearance": "Violet"
+      },
+      {
+        "id": "408adfb8-ff95-4e8f-bb05-f030c7865e30",
+        "name": "Ryan",
+        "appearance": null,
+        "disambiguation": "NVG"
       }
     ]
   }

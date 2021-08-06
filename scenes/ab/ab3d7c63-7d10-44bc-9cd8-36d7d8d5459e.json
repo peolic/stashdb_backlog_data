@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1395%3a+kendra/year=2018/net_girl_1395%3a_kendra.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -12,6 +15,11 @@
         "id": "4a4fa1a9-268c-4b54-897d-179b01edc01a",
         "name": "Kendra Spade",
         "appearance": "Kendra"
+      },
+      {
+        "id": "4adbf172-749d-4791-bae4-2b363a78d63b",
+        "name": "Charles Dera",
+        "appearance": null
       }
     ]
   }

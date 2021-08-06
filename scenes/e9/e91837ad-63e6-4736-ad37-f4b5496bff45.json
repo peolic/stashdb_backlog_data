@@ -1,14 +1,9 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=net+girl+1863%3a+leyla+and+bella/year=2019/net_girl_1863%3a_leyla_and_bella.htm"
+    "https://www.iafd.com/title.rme/title=netvideogirls+1811%3a+leyla/year=2019/netvideogirls-1811-leyla.htm"
   ],
   "performers": {
     "remove": [
-      {
-        "id": "237ce928-dcdc-4f13-bc55-6490b804252c",
-        "name": "Bella",
-        "appearance": null
-      },
       {
         "id": "043e8a33-ab5d-49da-8b6d-7d103366f526",
         "name": "Leyla",
@@ -16,11 +11,6 @@
       }
     ],
     "append": [
-      {
-        "id": "c5fe0901-6277-4ded-93f1-66ff660f66e1",
-        "name": "Bella Rolland",
-        "appearance": "Bella"
-      },
       {
         "id": null,
         "name": "Leyla",

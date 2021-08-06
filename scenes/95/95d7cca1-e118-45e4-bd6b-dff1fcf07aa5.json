@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1805%3a+paisley+and+winter/year=2019/net_girl_1805%3a_paisley_and_winter.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -22,6 +25,14 @@
         "id": "892086a8-ce52-4f2f-b9a0-6a737666200d",
         "name": "Paisley Bennett",
         "appearance": "Paisley"
+      }
+    ],
+    "update": [
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler",
+        "old_appearance": null
       }
     ]
   }
