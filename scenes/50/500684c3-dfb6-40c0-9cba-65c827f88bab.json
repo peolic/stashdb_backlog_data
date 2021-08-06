@@ -1,10 +1,22 @@
 {
   "comments": [
-    "From 'Donnie' tag"
+    "From 'Donnie' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1549%3a+violet/year=2019/net_girl_1549%3a_violet.htm"
   ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "44b9c1f5-739b-4098-8272-647b50a4916a",
+        "name": "Violet",
+        "appearance": null
+      }
+    ],
     "append": [
+      {
+        "id": "a5c1f628-6c26-45ce-bbf0-79b37e955022",
+        "name": "Violet Myers",
+        "appearance": "Violet"
+      },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
         "name": "Donnie Rock",

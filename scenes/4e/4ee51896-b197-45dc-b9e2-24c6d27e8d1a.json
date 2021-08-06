@@ -1,10 +1,25 @@
 {
   "comments": [
-    "From 'Donnie' tag"
+    "From 'Donnie' tag",
+    "https://www.iafd.com/title.rme/title=net+girl+1538%3a+mercy/year=2018/net_girl_1538%3a_mercy.htm"
   ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "feb0a164-e46e-4eeb-877b-c06e87f022b4",
+        "name": "Mercy",
+        "appearance": null
+      }
+    ],
     "append": [
+      {
+        "id": null,
+        "name": "Mercy",
+        "appearance": null,
+        "disambiguation": "2018, NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=mercy_nvg_1509/gender=f/mercy.htm"
+      },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
         "name": "Donnie Rock",

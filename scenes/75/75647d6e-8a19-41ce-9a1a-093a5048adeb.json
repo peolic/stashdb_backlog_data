@@ -1,15 +1,11 @@
 {
   "comments": [
     "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809479",
-    "Ep 2017-02-21...NG...Ember...Ember Snow And Nicole"
+    "Ep 2017-02-13...NVG...Nicole...Nina Nirvana"
   ],
+  "date": "2017-02-13",
   "performers": {
     "remove": [
-      {
-        "id": "3e1e29ba-2e06-4513-9e14-238ec566e86d",
-        "name": "Ember",
-        "appearance": null
-      },
       {
         "id": "c30ef2a8-65cf-4416-aba1-cac09f6baaec",
         "name": "Nicole",
@@ -17,11 +13,6 @@
       }
     ],
     "append": [
-      {
-        "id": "16cc67c9-005c-471a-a084-93281b54636e",
-        "name": "Ember Snow",
-        "appearance": "Ember"
-      },
       {
         "id": "ad9b4a1d-ddd5-47c7-975e-6fdab319e348",
         "name": "Nina Nirvana",
