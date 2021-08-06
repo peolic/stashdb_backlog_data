@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=quebec+sexy+stars+2/year=2008/quebec-sexy-stars-2.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1022e42a-1288-4d3b-89e7-3881ee2c5def",
+        "name": "Pamela",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Pamela Kayne",
+        "appearance": "Pamela",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=pamela_can/gender=f/pamela-kayne.htm"
+      }
+    ]
+  }
+}
