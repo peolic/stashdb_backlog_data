@@ -1,0 +1,29 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=eh+papa+colombian+style+booty/year=2009/eh-papa-colombian-style-booty.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "72fe40bc-4607-4d32-96aa-d22414c96c5f",
+        "name": "Kristina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kristina",
+        "appearance": null,
+        "disambiguation": "2009, Bang Bros",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=kristina_bb_09/gender=f/kristina.htm"
+      },
+      {
+        "id": "f71623a0-8f9c-4388-9a1c-e47877e5c5c3",
+        "name": "Shane Dizzle",
+        "appearance": null
+      }
+    ]
+  }
+}

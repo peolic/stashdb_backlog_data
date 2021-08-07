@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/677782/woodmancastingx-kristina/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "72fe40bc-4607-4d32-96aa-d22414c96c5f",
+        "name": "Kristina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "746a6963-00fd-4198-aa76-c84ea076ef31",
+        "name": "Zora Banks",
+        "appearance": "Kristina"
+      }
+    ]
+  }
+}

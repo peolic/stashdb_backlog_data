@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=voluptuous+stern/year=2002/voluptuous_stern.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1e767152-5013-4834-a499-9d5c95872c91",
+        "name": "Kacey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dfa295db-72e4-4c49-a8d7-748ea418e273",
+        "name": "Kacey Kox",
+        "appearance": "Kacey"
+      },
+      {
+        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
+        "name": "Shawn Rees",
+        "appearance": "Hunter"
+      }
+    ]
+  }
+}

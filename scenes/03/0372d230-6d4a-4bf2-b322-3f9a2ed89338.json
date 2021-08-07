@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/109727/nubiles-sharon/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8857cca5-3c9f-4bdb-a28d-ef2434bc36b4",
+        "name": "Sharon",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "71304b4c-96c4-4888-bf0e-c136fbc8c32b",
+        "name": "Kristina Rud",
+        "appearance": "Sharon"
+      }
+    ]
+  }
+}
