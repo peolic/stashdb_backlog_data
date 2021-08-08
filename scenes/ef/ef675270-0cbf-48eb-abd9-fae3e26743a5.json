@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
+    "Ep 2014.41 - (Lillian) Bonnie Attacks = Summer Lace"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "9b7f0ae1-6506-46f3-9d09-f8bb3db9e495",
+        "name": "Bonnie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fbdafa9c-9527-4e04-9360-1e391dde83af",
+        "name": "Summer Lace",
+        "appearance": "Bonnie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/687218/massage-creep-nautica/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "7dafec7b-8fbc-40c2-aa1d-bd2b50fb002d",
+        "name": "Nautica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "34f0b1f3-9260-44d9-8d82-90c85780331e",
+        "name": "Nautica Thorn",
+        "appearance": "Nautica"
+      }
+    ]
+  }
+}

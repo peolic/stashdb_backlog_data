@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "Same back tattoo"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "97c97456-72fe-4ec8-9d64-5f946ca2fc90",
+        "name": "Chloe",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b7f5d061-8659-43b6-95a6-9ad249b5725c",
+        "name": "Rachel Raven",
+        "appearance": "Chloe"
+      }
+    ]
+  }
+}

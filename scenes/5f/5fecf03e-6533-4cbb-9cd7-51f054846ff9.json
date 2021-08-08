@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801",
+    "Ep 2003.10 - Sasha = Nautica Thorn"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "3dcaaef7-3c4b-4dc7-873a-3e8c936a753b",
+        "name": "Sasha",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "34f0b1f3-9260-44d9-8d82-90c85780331e",
+        "name": "Nautica Thorn",
+        "appearance": "Sasha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813",
+    "Ep 2012.04 - Candace = Brooke Whispers"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e97e1271-614c-4768-adce-dc53e2e32a8e",
+        "name": "Candace",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "17f86bae-7983-4cd9-9154-209ded8a5eac",
+        "name": "Brooke Whispers",
+        "appearance": "Candace"
+      }
+    ]
+  }
+}
