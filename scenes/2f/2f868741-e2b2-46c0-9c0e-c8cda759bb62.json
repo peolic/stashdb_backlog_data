@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489808",
+    "Ep 2009.81 - Amy = Faith Star"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6388fcfe-b2ec-4eea-a971-1719ef4664dc",
+        "name": "Amy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "469b2f6a-ff7e-445e-866e-44a17da5080e",
+        "name": "Faith Star",
+        "appearance": "Amy"
+      }
+    ]
+  }
+}

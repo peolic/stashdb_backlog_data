@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804",
+    "Ep 2006.05 - Lorena = Lorena Sanchez"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "2812e40e-9756-4ed4-9b1f-e02c3d9dda9b",
+        "name": "Lorena",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4a1111d4-301e-4d10-93ff-7de088d0c235",
+        "name": "Lorena Sanchez",
+        "appearance": "Lorena"
+      }
+    ]
+  }
+}

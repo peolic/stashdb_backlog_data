@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489803",
+    "Ep 2003.48 - Amanda (& Erica) = Ashley Roberts / Ashlee Roberts"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "66db8f1d-d933-4020-90d8-ba8a0df8d908",
+        "name": "Amanda",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9750754d-b9db-45ec-9ed7-e0b467ba8068",
+        "name": "Ashlee Roberts",
+        "appearance": "Amanda"
+      }
+    ]
+  }
+}
