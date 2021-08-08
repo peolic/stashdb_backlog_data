@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/794540/rub-a-teen-haley/",
+    "https://www.iafd.com/title.rme/title=relieving+some+stress/year=2015/relieving-some-stress.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "68b22a34-5e04-4840-b1a2-a5e95737acf8",
+        "name": "Haley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bfbbd7ed-316a-4921-8bc2-2ed92915c7db",
+        "name": "Shrima Malati",
+        "appearance": "Haley"
+      }
+    ]
+  }
+}

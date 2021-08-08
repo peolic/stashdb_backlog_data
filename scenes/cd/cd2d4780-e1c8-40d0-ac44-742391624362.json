@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/534267/rub-a-teen-olga/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "502552b2-d38b-419e-a6d1-cb9ef333bded",
+        "name": "Olga",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fbd84d79-aa12-4e92-b8e9-1bc4843d3b2d",
+        "name": "Fantina",
+        "appearance": "Olga"
+      }
+    ]
+  }
+}
