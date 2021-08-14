@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/52826/monsters-of-cock-victoria/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ae1239d5-c552-41d8-9105-40a9061b5d2e",
+        "name": "Victoria",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b7653275-16fe-4f6b-990a-70f348d472d4",
+        "name": "Victoria Seacrast",
+        "appearance": "Victoria"
+      }
+    ]
+  }
+}

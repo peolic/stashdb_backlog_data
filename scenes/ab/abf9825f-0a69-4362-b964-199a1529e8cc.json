@@ -1,0 +1,36 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=project+runway/year=2007/project-runway.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ae1239d5-c552-41d8-9105-40a9061b5d2e",
+        "name": "Victoria",
+        "appearance": null
+      },
+      {
+        "id": "de497179-599c-40bd-bf1c-d258ab6ae47c",
+        "name": "Levi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e5546aa0-f3fb-49ba-88e9-06f894f98376",
+        "name": "Victoria Vonn",
+        "appearance": "Victoria"
+      },
+      {
+        "id": "538432b7-8b10-4bb1-b73f-0e3dc20511a6",
+        "name": "Levi Steele",
+        "appearance": "Levi"
+      },
+      {
+        "id": "62b85311-48e5-4ed5-bc15-2608f5354de5",
+        "name": "Ashley Sanders",
+        "appearance": "Karen"
+      }
+    ]
+  }
+}
