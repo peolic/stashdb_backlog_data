@@ -1,0 +1,16 @@
+{
+  "comments": [
+    "Possibly incorrect studio, looks like her BRCC scene",
+    "https://stashdb.org/scenes/bcad5940-f184-42ae-b9c5-efad075b8239"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "59384e93-a606-4a89-abc7-ee083f34c618",
+        "name": "Kacey Jordan",
+        "appearance": "Kacey"
+      }
+    ]
+  }
+}

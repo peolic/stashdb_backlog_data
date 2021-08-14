@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=big+money/year=2011/big-money.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "329266d1-ae14-4f41-a601-12a7bc5a07f0",
+        "name": "Kendall Karson",
+        "appearance": null
+      }
+    ]
+  }
+}

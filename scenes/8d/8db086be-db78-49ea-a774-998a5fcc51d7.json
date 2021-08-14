@@ -1,0 +1,36 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/1008907/exploited-college-girls-penny-daisy/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e568a2fa-06d7-434a-958a-23b297248bf4",
+        "name": "Penny",
+        "appearance": null
+      },
+      {
+        "id": "8a0d98c5-5a09-4bc3-9610-a95cebede9f8",
+        "name": "Daisy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Heather Kelly",
+        "appearance": "Penny",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=heatherkelly/gender=f/heather-kelly.htm"
+      },
+      {
+        "id": null,
+        "name": "Daisy",
+        "appearance": null,
+        "disambiguation": "2014, ExCoGi",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/daisy-30"
+      }
+    ]
+  }
+}

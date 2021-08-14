@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/35295/pure-18-cody/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "daff3ebb-807c-4a6d-b532-04b3862c56c8",
+        "name": "Cody",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6c4413bd-9f9c-4082-b3a2-9b11d4ab2fbd",
+        "name": "Kody Kay",
+        "appearance": "Cody"
+      }
+    ]
+  }
+}
