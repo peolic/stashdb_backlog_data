@@ -1,0 +1,25 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1070%3a+brittany/year=2008/backroom_casting_couch_1070%3a_brittany.htm",
+    "https://www.indexxx.com/m/brittany-31"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1818f1da-77cb-462f-a751-8ce624d0ce0c",
+        "name": "Brittany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Brittany",
+        "appearance": null,
+        "disambiguation": "2008, ExploitedX",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/brittany-31"
+      }
+    ]
+  }
+}

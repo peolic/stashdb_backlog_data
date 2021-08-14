@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1069%3a+danica/year=2009/backroom-casting-couch-1069-danica.htm",
+    "https://www.indexxx.com/m/danica-blue"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "35efce4c-bed9-4b9b-8c64-3ecc66bc22ea",
+        "name": "Danica",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6465dfab-ea40-46a0-a9a9-a2d910b1420b",
+        "name": "Danica Blue",
+        "appearance": "Danica"
+      }
+    ]
+  }
+}

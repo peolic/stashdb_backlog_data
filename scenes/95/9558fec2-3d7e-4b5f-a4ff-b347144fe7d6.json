@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.indexxx.com/m/taylor-ashley"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c33528f9-f1d5-48be-9226-1fd13690aa0d",
+        "name": "Ashley Doll",
+        "appearance": "Taylor"
+      }
+    ]
+  }
+}
