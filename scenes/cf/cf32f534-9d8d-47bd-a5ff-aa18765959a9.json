@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1086%3a+hailey/year=2017/castingcouch%2dhd_1086%3a_hailey.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "02ee2125-795f-4e13-b32a-4f6323bb7d0e",
+        "name": "Hailey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Haylee Haven",
+        "appearance": "Hailey",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=hayleehaven/gender=f/haylee-haven.htm"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}

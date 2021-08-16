@@ -15,11 +15,6 @@
         "appearance": null
       },
       {
-        "id": "af777c93-aded-4364-ac66-899bb0bb0b25",
-        "name": "Holly",
-        "appearance": null
-      },
-      {
         "id": "3dcaaef7-3c4b-4dc7-873a-3e8c936a753b",
         "name": "Sasha",
         "appearance": null
@@ -37,14 +32,17 @@
         "appearance": "Krystal"
       },
       {
-        "id": "941e5495-e8aa-4d17-b06c-b1e86f3c64a1",
-        "name": "Holly Morgan",
-        "appearance": "Holly"
-      },
-      {
         "id": "09cb72c9-0e9d-4f1f-8f86-780409ab0c1b",
         "name": "Sascha Ink",
         "appearance": "Sasha"
+      }
+    ],
+    "update": [
+      {
+        "id": "941e5495-e8aa-4d17-b06c-b1e86f3c64a1",
+        "name": "Holly Morgan",
+        "appearance": "Holly",
+        "old_appearance": null
       }
     ]
   }
