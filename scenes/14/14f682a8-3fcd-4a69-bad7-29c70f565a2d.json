@@ -15,8 +15,9 @@
         "id": null,
         "name": "Alex Tanner",
         "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=alextanner_15/gender=m/alex-tanner.htm"
+        "disambiguation": "male",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/32fd87d2-a98a-4800-9cbc-45bb73e525c0"
       }
     ]
   }
