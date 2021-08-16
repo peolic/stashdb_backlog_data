@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=foreign+exchange+3/year=2005/foreign-exchange-3.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "06804ce2-d63e-4abf-80aa-324275509d99",
+        "name": "Jordan Ashley",
+        "appearance": null
+      }
+    ]
+  }
+}
