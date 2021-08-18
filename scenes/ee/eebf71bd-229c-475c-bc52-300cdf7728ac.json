@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=role+playing+-+boss+secretary/year=2016"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "86da656e-d1ee-44e1-aea5-b455dbbbcf07",
+        "name": "Jean",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "75b26dfc-faa5-4839-a8de-d9f3054f8f4e",
+        "name": "Jean Val Jean",
+        "appearance": "Jean"
+      }
+    ]
+  }
+}
