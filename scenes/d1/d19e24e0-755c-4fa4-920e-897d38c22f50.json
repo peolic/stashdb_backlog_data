@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/m/goldie-baby"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "cd057cdd-8f69-4d68-8cb3-bc424b560a67",
+        "name": "Goldi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6362abe8-f2c5-440b-8de2-0dfadf266381",
+        "name": "Goldie Baby",
+        "appearance": "Goldi"
+      }
+    ]
+  }
+}

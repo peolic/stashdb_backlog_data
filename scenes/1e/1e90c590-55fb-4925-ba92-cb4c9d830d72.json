@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/831526/nubiles-giselle/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "0252ec9e-cfc8-42d4-bd43-0e2d95cc2f4e",
+        "name": "Giselle",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6362abe8-f2c5-440b-8de2-0dfadf266381",
+        "name": "Goldie Baby",
+        "appearance": "Giselle"
+      }
+    ]
+  }
+}

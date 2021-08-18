@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1603%3a+ariel/year=2019/castingcouch%2dhd_1603%3a_ariel.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "f8f55b7c-b449-4a54-8599-ce5ad01a658c",
+        "name": "Ariel",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Ariel Dream",
+        "appearance": "Ariel",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=arieldream/gender=f/ariel-dream.htm"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}
