@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=cute+and+uninhibited+newcomer/year=2011/cute-and-uninhibited-newcomer.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "616b2b45-455c-4e11-b083-2f14bab64411",
+        "name": "Goldie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Goldie E",
+        "appearance": "Goldie",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=goldie_10_cz/gender=f/goldie.htm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=skin+diamond/year=2014/skin-diamond.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "c69e975b-10a5-41dd-82e1-0c484e1d1b6d",
+        "name": "Winston Burbank",
+        "appearance": null
+      }
+    ]
+  }
+}
