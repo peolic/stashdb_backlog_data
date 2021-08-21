@@ -9,7 +9,7 @@ jobs:
   main:
     name: Update Data
     runs-on: ubuntu-latest
-    
+
     env:
       PATH_TOOLS: backlog
       PATH_DATA: backlog/backlog_data
@@ -72,3 +72,16 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
           directory: ${{ env.PATH_DATA }}
+
+      - name: Release cache data
+        uses: softprops/action-gh-release@v1
+        if: ${{ env.changes_exist == 'true' }}
+        with:
+          name: Cache
+          target_commitish: main
+          prerelease: true
+          fail_on_unmatched_files: true
+          files: |
+            ${{ env.PATH_TOOLS }}/.stashdb_backlog_index.json
+            ${{ env.PATH_TOOLS }}/.stashdb_backlog.json
+          token: ${{ secrets.GITHUB_TOKEN }}
