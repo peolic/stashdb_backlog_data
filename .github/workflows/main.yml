@@ -78,6 +78,7 @@ jobs:
         if: ${{ env.changes_exist == 'true' }}
         with:
           name: Cache
+          tag_name: cache
           target_commitish: main
           prerelease: true
           fail_on_unmatched_files: true
