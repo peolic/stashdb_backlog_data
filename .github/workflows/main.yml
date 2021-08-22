@@ -42,6 +42,8 @@ jobs:
         working-directory: ${{ env.PATH_TOOLS }}
         run: |
           python make_backlog_data.py
+          mv .stashdb_backlog_index.json stashdb_backlog_index.json
+          mv .stashdb_backlog.json stashdb_backlog.json
 
       - name: Check for changes
         working-directory: ${{ env.PATH_DATA }}
@@ -73,6 +75,12 @@ jobs:
           branch: ${{ github.ref }}
           directory: ${{ env.PATH_DATA }}
 
+      - name: Push tag
+        if: ${{ env.changes_exist == 'true' }}
+        working-directory: ${{ env.PATH_DATA }}
+        run: |
+          git push origin HEAD:refs/tags/cache -f
+
       - name: Release cache data
         uses: softprops/action-gh-release@v1
         if: ${{ env.changes_exist == 'true' }}
@@ -81,8 +89,9 @@ jobs:
           tag_name: cache
           target_commitish: main
           prerelease: true
+          body: "All the data in cache format."
           fail_on_unmatched_files: true
           files: |
-            ${{ env.PATH_TOOLS }}/.stashdb_backlog_index.json
-            ${{ env.PATH_TOOLS }}/.stashdb_backlog.json
+            ${{ env.PATH_TOOLS }}/stashdb_backlog_index.json
+            ${{ env.PATH_TOOLS }}/stashdb_backlog.json
           token: ${{ secrets.GITHUB_TOKEN }}
