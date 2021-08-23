@@ -1,0 +1,28 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=kendall+know+what+she+wants/year=2011/kendall-know-what-she-wants.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "57a55562-8d05-4ad9-aaaa-c811647946fa",
+        "name": "Kendall",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f439f21e-bc42-49b7-8a41-44b8c7b564e2",
+        "name": "Kendal Kross",
+        "appearance": "Kendall"
+      },
+      {
+        "id": null,
+        "name": "Nikk Toretto",
+        "appearance": "Italian Stallion",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=nikktoretto/gender=m/nikk-toretto.htm"
+      }
+    ]
+  }
+}

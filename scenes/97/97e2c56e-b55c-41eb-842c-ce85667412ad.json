@@ -1,7 +1,4 @@
 {
-  "comments": [
-    "https://www.iafd.com/title.rme/title=welcum+to+the+team/year=2014/welcum-to-the-team.htm"
-  ],
   "performers": {
     "remove": [
       {
@@ -15,6 +12,11 @@
         "id": "07164df2-3629-470d-b028-d93554676ada",
         "name": "Alison Faye",
         "appearance": "Kendall"
+      },
+      {
+        "id": "a94908b3-8f69-4278-8910-5157076e77c8",
+        "name": "Peter North",
+        "appearance": null
       }
     ]
   }
