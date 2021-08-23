@@ -89,7 +89,7 @@ jobs:
           tag_name: cache
           target_commitish: main
           prerelease: true
-          body: "All the data in cache format."
+          # body: "All the data in cache format."
           fail_on_unmatched_files: true
           files: |
             ${{ env.PATH_TOOLS }}/stashdb_backlog_index.json
