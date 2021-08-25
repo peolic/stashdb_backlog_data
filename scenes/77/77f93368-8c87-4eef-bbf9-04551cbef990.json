@@ -1,0 +1,20 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=amber+chase/year=2013/amber_chase.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "08548b66-4d90-476b-92fe-bfa04349ffda",
+        "name": "Amber Chase",
+        "appearance": null
+      },
+      {
+        "id": "6586831d-5c30-4466-9622-8a092434ca8d",
+        "name": "Donnie Cabo",
+        "appearance": null
+      }
+    ]
+  }
+}

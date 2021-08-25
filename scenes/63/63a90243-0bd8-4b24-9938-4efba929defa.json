@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "653fe20d-830d-4fd2-b766-f71d5242d7b4",
+        "name": "Aaralyn Barra",
+        "appearance": "Aaralyn"
+      },
+      {
+        "id": null,
+        "name": "Tiffany Taylor",
+        "appearance": "Tiffany"
+      }
+    ]
+  }
+}
