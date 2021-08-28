@@ -1,0 +1,41 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=futbol+follies/year=2005/futbol-follies.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "505ba8dc-ed3a-423a-a7d5-639f1461bc6a",
+        "name": "Nyomi",
+        "appearance": null
+      },
+      {
+        "id": "e45c94fe-b9eb-4e2e-9527-d9f5ef403188",
+        "name": "Kaiya",
+        "appearance": null
+      },
+      {
+        "id": "e97e1271-614c-4768-adce-dc53e2e32a8e",
+        "name": "Candace",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d4faaf67-7c71-4449-bdbc-baa0a90465cf",
+        "name": "Nyomi Zen",
+        "appearance": "Nyomi"
+      },
+      {
+        "id": "5b989467-36fd-4f69-aded-9dc850aaf662",
+        "name": "Kaiya Lynn",
+        "appearance": "Kaiya"
+      },
+      {
+        "id": "09696520-05b7-44dc-b9de-3ea2c1b25a7b",
+        "name": "Candace Von",
+        "appearance": "Candace"
+      }
+    ]
+  }
+}
