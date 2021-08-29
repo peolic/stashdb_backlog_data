@@ -3,19 +3,8 @@
     "https://www.iafd.com/title.rme/title=she+made+us+lesbians+2181/year=2010/she-made-us-lesbians-2181.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "72fe40bc-4607-4d32-96aa-d22414c96c5f",
-        "name": "Kristina",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "cc842a37-de9c-41f8-b78b-8e9397488897",
-        "name": "Kecey",
-        "appearance": "Kristina"
-      },
       {
         "id": "e513978e-a25f-4f2d-b4ce-b18c3b34892c",
         "name": "Samantha Vasili",

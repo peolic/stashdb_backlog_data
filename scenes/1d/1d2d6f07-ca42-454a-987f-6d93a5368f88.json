@@ -3,20 +3,8 @@
     "https://www.iafd.com/title.rme/title=whiteteensblackcocks+6571%3a+poppy/year=2007/whiteteensblackcocks-6571-poppy.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "e2d10780-3efc-4330-bf4e-373498e4d315",
-        "name": "Poppy",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "271924b1-0163-43ef-a77f-baafc33b7abb",
-        "name": "Emanuel",
-        "appearance": "Poppy",
-        "disambiguation": "Phoebe June"
-      },
       {
         "id": null,
         "name": "Starrio",
