@@ -13,11 +13,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "f7418bc2-b704-49f2-ada4-ee287d6d812e",
         "name": "Pamela Kayne",
-        "appearance": "Pamela",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/bfc150dc-ea76-4831-81bc-603dff04524e"
+        "appearance": "Pamela"
       }
     ]
   }

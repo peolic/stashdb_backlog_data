@@ -12,12 +12,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "a89fb71f-3868-471b-9ff5-62cb9550c5a3",
         "name": "Alex Tanner",
         "appearance": null,
-        "disambiguation": "male",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/32fd87d2-a98a-4800-9cbc-45bb73e525c0"
+        "disambiguation": "male"
       }
     ]
   }

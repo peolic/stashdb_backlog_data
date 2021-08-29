@@ -6,11 +6,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "c3c5a5e3-1b10-45e7-a889-4af7f212e7d9",
         "name": "Kristina Wood",
-        "appearance": "Justine",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/31913337-2aa0-4c15-9c61-088eb7716b85"
+        "appearance": "Justine"
       }
     ]
   }
