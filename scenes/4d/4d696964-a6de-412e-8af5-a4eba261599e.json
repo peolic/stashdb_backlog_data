@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=ass+galore/year=2012/ass-galore.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ebbbf50b-79d5-4ca5-8a39-47a19f5bfd86",
+        "name": "Thierry",
+        "appearance": null
+      }
+    ],
+    "append": []
+  }
+}
