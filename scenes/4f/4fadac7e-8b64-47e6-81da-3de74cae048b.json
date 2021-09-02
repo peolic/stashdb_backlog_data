@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=black+gf+4/year=2013/black-gf-4.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "61f2c71d-b079-4cea-9d9f-6b3bf6b7134e",
+        "name": "Sapphire",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5d226e3f-a360-465d-bece-8cb8514bef9f",
+        "name": "Sapphire Kiss",
+        "appearance": "Sapphire"
+      }
+    ]
+  }
+}

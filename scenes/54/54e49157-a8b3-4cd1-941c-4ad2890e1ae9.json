@@ -1,0 +1,20 @@
+{
+  "comments": [
+    "From scene description"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "266114aa-be03-431b-81da-1b474cf45f04",
+        "name": "Marquetta Jewel",
+        "appearance": null
+      },
+      {
+        "id": "b15e4f6c-55bd-4ca5-b4e9-c198b1b62e8c",
+        "name": "Jenna Presley",
+        "appearance": null
+      }
+    ]
+  }
+}
