@@ -40,6 +40,8 @@ jobs:
 
       - name: Generate new data
         working-directory: ${{ env.PATH_TOOLS }}
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
           python make_backlog_data.py
           mv .stashdb_backlog_index.json stashdb_backlog_index.json
