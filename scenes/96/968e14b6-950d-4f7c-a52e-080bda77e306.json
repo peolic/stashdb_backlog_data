@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From scene description"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "296d320d-5699-40b3-82fd-9f4fa9bf6e97",
+        "name": "Luna C. Kitsuen",
+        "appearance": null
+      }
+    ]
+  }
+}

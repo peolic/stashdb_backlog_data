@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From scene description"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "9aa727b3-f75a-4aa7-a914-2c9c30feaeff",
+        "name": "Cinna Bunz",
+        "appearance": null
+      }
+    ]
+  }
+}
