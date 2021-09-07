@@ -1,14 +1,20 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=cute+18%2dyear%2dold+gets+agent%27s+cock+hard+for+a+fucking/year=2014/cute-18%2dyear%2dold-gets-agent&apos;s-cock-hard-for-a-fucking.htm"
+    "https://www.iafd.com/title.rme/title=longing+for+more/year=2014/longing-for-more.htm"
   ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "b6248ce8-3f9e-43ba-b43e-94ffed4e324c",
+        "name": "Lucy Heart",
+        "appearance": null
+      }
+    ],
     "append": [
       {
         "id": null,
         "name": "Lucy Heart",
-        "appearance": "Veronica Heart",
+        "appearance": null,
         "disambiguation": "UK",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=lucyheart_uk/gender=f/lucy-heart.htm"

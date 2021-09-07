@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=legal+porno+sz287/year=2013/legal-porno-sz287.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c2c34f30-1572-4785-93ec-c527fe9af772",
+        "name": "Scarlet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b3609eec-314c-4241-ac28-d4725c53cc58",
+        "name": "Galina Galkina",
+        "appearance": "Scarlet"
+      }
+    ]
+  }
+}

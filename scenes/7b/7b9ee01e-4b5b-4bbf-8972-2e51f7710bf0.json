@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "c2c34f30-1572-4785-93ec-c527fe9af772",
+        "name": "Scarlet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b6248ce8-3f9e-43ba-b43e-94ffed4e324c",
+        "name": "Lucy Heart",
+        "appearance": "Scarlet"
+      }
+    ]
+  }
+}
