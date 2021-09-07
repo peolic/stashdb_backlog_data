@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=scarlet+tease/year=2019/scarlet-tease.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "dfa40576-5b91-4c6a-8121-267ef2ce25e9",
+        "name": "Mia Scarlett",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fb20697d-b530-434b-881e-db94845ddcaa",
+        "name": "Scarlet Domingo",
+        "appearance": "Mia Scarlett"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=ass+tease/year=2019/ass-tease.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c2c34f30-1572-4785-93ec-c527fe9af772",
+        "name": "Scarlet",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fb20697d-b530-434b-881e-db94845ddcaa",
+        "name": "Scarlet Domingo",
+        "appearance": "Scarlet"
+      }
+    ]
+  }
+}
