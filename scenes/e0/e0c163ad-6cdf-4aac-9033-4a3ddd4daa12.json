@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=bad+weather/year=2012/bad_weather.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "89592b60-3026-42fd-9e01-de37e9d7d4a9",
+        "name": "Sierra",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6ff51895-1d40-46af-803c-fb75d5b6367e",
+        "name": "Sierra Day",
+        "appearance": "Sierra"
+      }
+    ]
+  }
+}

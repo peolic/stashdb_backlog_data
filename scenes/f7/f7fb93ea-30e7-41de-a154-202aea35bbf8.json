@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804",
+    "Ep 2006.06 - Sierra = Ava Rose"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "89592b60-3026-42fd-9e01-de37e9d7d4a9",
+        "name": "Sierra",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7f3c8920-29ee-49f7-8988-4480de3369fc",
+        "name": "Ava Rose",
+        "appearance": "Sierra"
+      }
+    ]
+  }
+}
