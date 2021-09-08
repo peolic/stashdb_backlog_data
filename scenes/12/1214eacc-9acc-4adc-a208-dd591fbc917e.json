@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=christmas+swap/year=2020/christmas_swap.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "76a0dd28-3b8b-4f17-b159-b78642b99a33",
+        "name": "Brick Danger",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Tony Cannon",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=tonycannon/gender=m/tony-cannon.htm"
+      }
+    ]
+  }
+}

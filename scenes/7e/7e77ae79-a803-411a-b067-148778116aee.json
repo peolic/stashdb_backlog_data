@@ -1,0 +1,20 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=let%27s+swap+to+solve+this/year=2021/let%27s_swap_to_solve_this.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "76a0dd28-3b8b-4f17-b159-b78642b99a33",
+        "name": "Brick Danger",
+        "appearance": null
+      },
+      {
+        "id": "25afee3a-f581-4590-a224-a34fa1749c09",
+        "name": "Peter Green",
+        "appearance": null
+      }
+    ]
+  }
+}

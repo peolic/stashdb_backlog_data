@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=new+year%27s+switch/year=2020/new_year%27s_switch.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "e8cd8877-003a-470e-b72b-bf84e2c6b6c6",
+        "name": "Marcus London",
+        "appearance": null
+      },
+      {
+        "id": null,
+        "name": "Spike Irons",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=spikeirons/gender=m/spike-irons.htm"
+      }
+    ]
+  }
+}
