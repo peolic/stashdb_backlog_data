@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=jack%27s+playground+4/year=2003/jack&apos;s-playground-4.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a6b177ef-2f90-49ea-a182-092a653c7b0d",
+        "name": "Jj",
+        "appearance": null
+      },
+      {
+        "id": "976ab0df-fc1e-4d6a-b24a-56309df4be2a",
+        "name": "Cyrstal Rae",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "96d1f3bc-838d-49d4-8938-f31be18f1089",
+        "name": "Barrett Blade",
+        "appearance": "J.J."
+      },
+      {
+        "id": "240aefab-1b96-43f2-a16a-5433de410505",
+        "name": "Cynthia Pendragon",
+        "appearance": null
+      }
+    ]
+  }
+}

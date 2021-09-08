@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lez+be+honest+here/year=2015/lez-be-honest-here.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "b6982233-614f-4891-89c2-5d20fb23c5bf",
+        "name": "Alexis",
+        "appearance": null
+      },
+      {
+        "id": "5841806f-576b-4a44-8372-eb74984eae0a",
+        "name": "Catania",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a058c321-b703-4be2-9807-1ee7ac285db5",
+        "name": "Kate Shira",
+        "appearance": "Alexis"
+      },
+      {
+        "id": "1f48b4e6-da27-4c40-9b3f-2bf3760312d2",
+        "name": "Jessi Gold",
+        "appearance": "Catania"
+      }
+    ]
+  }
+}

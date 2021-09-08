@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=jack%27s+playground+8/year=2004/jack&apos;s-playground-8.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a6b177ef-2f90-49ea-a182-092a653c7b0d",
+        "name": "Jj",
+        "appearance": null
+      },
+      {
+        "id": "29bec398-5a54-4896-a1b9-c51137b52a07",
+        "name": "Sophia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "96d1f3bc-838d-49d4-8938-f31be18f1089",
+        "name": "Barrett Blade",
+        "appearance": "J.J."
+      },
+      {
+        "id": "59b233c8-fc58-4d8c-a195-9db3ec4189a9",
+        "name": "Sophia Gently",
+        "appearance": "Sophia"
+      }
+    ]
+  }
+}

@@ -8,6 +8,11 @@
         "id": "5b0a0433-20c3-49f1-96c3-1771305f1f72",
         "name": "Mason",
         "appearance": null
+      },
+      {
+        "id": "a6b177ef-2f90-49ea-a182-092a653c7b0d",
+        "name": "Jj",
+        "appearance": null
       }
     ],
     "append": [
@@ -19,7 +24,7 @@
       {
         "id": "96d1f3bc-838d-49d4-8938-f31be18f1089",
         "name": "Barrett Blade",
-        "appearance": null
+        "appearance": "J.J."
       }
     ]
   }
