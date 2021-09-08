@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=abroad+affair/year=2008/abroad-affair.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "29ce14b6-adce-441f-9446-baf53bf021ee",
+        "name": "Dave",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Dave Inferno",
+        "appearance": "Dave"
+      }
+    ]
+  }
+}
