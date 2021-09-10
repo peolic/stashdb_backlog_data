@@ -1,13 +1,21 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=exploited+college+girls+1958%3a+asia+oakley/year=2021/exploited-college-girls-1958-asia-oakley.htm"
+  ],
   "performers": {
     "remove": [],
     "append": [
       {
         "id": null,
-        "name": "Asia Oakley",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=asiaoakley/gender=f/asia-oakley.htm"
+        "name": "Asia Rivera",
+        "appearance": "Asia Oakley",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/f27feab7-0a27-44a0-8dbb-9453cb877079"
+      },
+      {
+        "id": "23d6029c-5c15-4909-be71-d15719eb1a3d",
+        "name": "Jake Adams",
+        "appearance": null
       }
     ]
   }
