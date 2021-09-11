@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=sweet+taste+of+sin/year=2014/sweet-taste-of-sin.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e40954bf-e1b5-417c-a539-0c92fa1fcecc",
+        "name": "Dallas",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6b3b6666-c387-4cb7-9c0b-4db2db2a06d4",
+        "name": "Miss Dallas",
+        "appearance": "Dallas"
+      }
+    ]
+  }
+}
