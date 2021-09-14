@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "She's an extra only in the scene for literally 18 seconds (I counted) Shouldn't be included here."
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "b2c78b8a-487d-4497-982e-b8eef5e7abd0",
+        "name": "Blake Morgan",
+        "appearance": null
+      }
+    ],
+    "append": []
+  }
+}
