@@ -1,0 +1,94 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "oshash",
+      "hash": "e34228297d964a1f",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "99f2079edcf5ab5b",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "b0226c71f193d46e",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "f0dc5ce3902c4ff7",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "0d2f19957f164632",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "c07196651fff5ecf",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "a6547bdd099168d5",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "f8ace03acd9488ee",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "3f9b7d35bf77ad40",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "7d9324700b7a2b2c",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "38e8f7b8814c6795",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "5549bbb92ba159a77a177fb068e587f0",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "a676d77c4b5d45d538d96ff6df7ccabf",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "45cec9b04d72a2ce9b57efb5d1914242",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "7583071557bda29c17774edbc8ae320c",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "phash",
+      "hash": "8d27e74f5c60c2d2",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "phash",
+      "hash": "8f07e74f5c60c2d2",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "phash",
+      "hash": "8f07e74f5e6042d2",
+      "correct_scene_id": null
+    }
+  ]
+}
