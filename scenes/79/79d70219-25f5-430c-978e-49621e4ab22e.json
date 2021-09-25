@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/493703/throated-luna-star/"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "ffabb46d-154f-49ae-bba1-923096ded2bd",
+        "name": "Luna Star",
+        "appearance": null
+      }
+    ]
+  }
+}
