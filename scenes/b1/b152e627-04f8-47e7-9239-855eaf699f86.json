@@ -1,0 +1,17 @@
+{
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "9e4efdd6-3a32-43d1-892d-f7f681a19ead",
+        "name": "Jersey Jaxin",
+        "appearance": "Jersey"
+      },
+      {
+        "id": "f2564c52-1ebf-4165-aeac-d891c0adfb0b",
+        "name": "Alicia Angel",
+        "appearance": "Anjel"
+      }
+    ]
+  }
+}

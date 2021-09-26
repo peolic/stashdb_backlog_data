@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=clit+thrasher/year=2004/clit-thrasher.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8f5b641b-2ef2-4c88-ac79-02933f9c6a9f",
+        "name": "Kristi",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b5b8715f-cc6b-47e7-ba56-687817ef1d9c",
+        "name": "Mya Mason",
+        "appearance": "Kristi"
+      }
+    ]
+  }
+}

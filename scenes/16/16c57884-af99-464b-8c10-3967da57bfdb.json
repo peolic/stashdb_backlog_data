@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/800137/stunning-18-jill/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "eebbb363-276f-4f52-b0a8-03d1632aea25",
+        "name": "Jill",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "4387230d-de21-4e40-8766-324ba8566873",
+        "name": "Nasita",
+        "appearance": "Jill"
+      }
+    ]
+  }
+}
