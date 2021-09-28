@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.thenude.com/cover/woodmancastingx/308918/lola-love-in-lola-love-casting-by-pierre-woodman"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6a417408-9e4c-4f54-b7ae-0cb1373e4cf4",
+        "name": "Lola Love",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a8c21764-1b62-46f9-b179-409c8940c4bc",
+        "name": "Sata Jones",
+        "appearance": "Lola Love"
+      }
+    ]
+  }
+}
