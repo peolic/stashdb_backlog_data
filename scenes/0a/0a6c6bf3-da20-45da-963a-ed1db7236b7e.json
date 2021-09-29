@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=amanda+lee+solo/year=2014/amanda-lee-solo.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "9d200e4b-af26-4a3b-95f1-801307c8507a",
+        "name": "Amanda Lee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c4fb00e4-cbc7-4da9-a731-b8b2bc65271f",
+        "name": "Amanda Evans",
+        "appearance": "Amanda Lee"
+      }
+    ]
+  }
+}
