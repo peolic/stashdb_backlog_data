@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=muscle+massage/year=2012/muscle-massage.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -11,7 +14,7 @@
       {
         "id": "c5389e1d-5e12-46a8-89dd-a71681450107",
         "name": "Rosemary Radeva",
-        "appearance": null
+        "appearance": "Rosemary"
       }
     ]
   }
