@@ -3,24 +3,5 @@
     "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823",
     "Ep 2015-07-27 - Jaelyn (and Kimber) ... Jaelyn Chase"
   ],
-  "date": "2015-07-27",
-  "performers": {
-    "remove": [
-      {
-        "id": "c9c0208b-ccf9-404b-b075-48e685919bac",
-        "name": "Jaeline",
-        "appearance": null,
-        "status": "edit"
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Jaelyn Chase",
-        "appearance": "Jaeline",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jaelynchase/gender=f/jaelyn-chase.htm"
-      }
-    ]
-  }
+  "date": "2015-07-27"
 }

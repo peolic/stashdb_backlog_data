@@ -6,11 +6,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "c2eca697-8569-4590-a17d-f62f8717d5a6",
         "name": "Dave Inferno",
-        "appearance": null,
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/e3892a19-85d8-4ee3-8f97-fce606db7b83"
+        "appearance": null
       }
     ]
   }
