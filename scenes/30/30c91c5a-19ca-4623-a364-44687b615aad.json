@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=come+and+get+it/year=2015/come-and-get-it.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5bb6461c-2a22-40ff-ab10-e162ea7db6cc",
+        "name": "Sofie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1524dce9-fc74-4bac-b0eb-b5a8715b4c0d",
+        "name": "Naomi Nevena",
+        "appearance": "Sofie"
+      }
+    ]
+  }
+}
