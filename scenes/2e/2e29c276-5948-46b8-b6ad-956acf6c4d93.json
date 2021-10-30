@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "541a2276-7392-4bfc-9b44-660554b56f35",
+        "name": "Mercedes",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e4abf1fa-6f04-45ba-b59a-499226d23936",
+        "name": "Roxy Bell",
+        "appearance": "Mercedes"
+      }
+    ]
+  }
+}
