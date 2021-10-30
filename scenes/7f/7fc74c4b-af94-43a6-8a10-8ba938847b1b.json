@@ -1,4 +1,16 @@
 {
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "a280fce1a8cbcdcd",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "aa8f8c42c2d2f54a",
+      "correct_scene_id": null
+    }
+  ],
   "performers": {
     "remove": [
       {
