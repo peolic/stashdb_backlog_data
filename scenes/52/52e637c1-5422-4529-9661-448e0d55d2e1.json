@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From 'Moe The Monster' tag"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "74ee2fe3-3406-4a3e-a356-ab137f6de9ed",
+        "name": "Moe Johnson",
+        "appearance": null
+      }
+    ]
+  }
+}

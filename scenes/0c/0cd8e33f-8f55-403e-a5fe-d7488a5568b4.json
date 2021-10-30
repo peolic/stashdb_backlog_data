@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From 'Nat Turnher' tag"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a09b2806-6f26-40e5-a7a5-025d6a011b1d",
+        "name": "Nat Turnher",
+        "appearance": null
+      }
+    ]
+  }
+}

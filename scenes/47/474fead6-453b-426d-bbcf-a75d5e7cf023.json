@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From 'Nick Moreno' tag"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "77a8491a-756e-40b1-98ff-ec4323eed009",
+        "name": "Nick Moreno",
+        "appearance": null
+      }
+    ]
+  }
+}

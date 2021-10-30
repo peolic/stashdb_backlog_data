@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "From 'Lexington Steele' tag"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "9590f35a-9c62-4781-8cd3-597c5478cd6b",
+        "name": "Lexington Steele",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/791233/stunning-18-anna-lee/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "daa8fdd0-3eed-427c-a206-8a517b4098e2",
+        "name": "Anna Lee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "df9b446f-f10a-487e-9b53-92473bbb5897",
+        "name": "Foxy M",
+        "appearance": "Anna Lee"
+      }
+    ]
+  }
+}
