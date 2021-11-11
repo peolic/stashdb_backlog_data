@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=teen%27s+xxx+craving/year=2018/teen&apos;s-xxx-craving.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "50723b4b-0158-40b0-b59c-60093841ba40",
+        "name": "Riley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a2f07d0f-8103-4788-89bd-124f12427e8a",
+        "name": "Nelya Smalls",
+        "appearance": "Riley"
+      },
+      {
+        "id": "9214005a-7236-4fb8-8a78-efa3781f948b",
+        "name": "Oliver Trunk",
+        "appearance": "Oliver Stone"
+      }
+    ]
+  }
+}
