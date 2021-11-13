@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/person.rme/perfid=lou_russia_2015/gender=f/lou.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8b811f37-394f-4707-be1a-d8fd9770cf4f",
+        "name": "Katy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5ecde114-b1ad-453c-8d16-cb8645f42ee1",
+        "name": "Lou",
+        "appearance": "Katy"
+      }
+    ]
+  }
+}
