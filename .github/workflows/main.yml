@@ -68,6 +68,7 @@ jobs:
         run: |
           git add -A
           git commit -m "update data"
+          echo "TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S %Z')" >> $GITHUB_ENV
 
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -91,7 +92,7 @@ jobs:
           tag_name: cache
           target_commitish: main
           prerelease: true
-          # body: "All the data in cache format."
+          body: "All the data in cache format.\n\nUpdated: **${{ env.TIMESTAMP }}**"
           fail_on_unmatched_files: true
           files: |
             ${{ env.PATH_TOOLS }}/stashdb_backlog_index.json
