@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "b812a4d2-c13c-4e85-90eb-1a23616af271",
+        "name": "Jenna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "dd75e5b7-c8e3-4b6e-bf5b-0df024f2205c",
+        "name": "Victoria Tiffani",
+        "appearance": "Jenna"
+      }
+    ]
+  }
+}
