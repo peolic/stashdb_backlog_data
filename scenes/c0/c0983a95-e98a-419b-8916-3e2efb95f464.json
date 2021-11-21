@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/132473/1by-day-lauren/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6f3ba01c-1bf4-4f9a-9638-7e01298b832c",
+        "name": "Lauren",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "c6f609a0-0956-44ec-bcad-02663d4a0c2c",
+        "name": "Lauren Crist",
+        "appearance": "Lauren"
+      }
+    ]
+  }
+}

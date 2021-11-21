@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/825776/euro-girls-on-girls-cherry-blush-sapphire/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "61f2c71d-b079-4cea-9d9f-6b3bf6b7134e",
+        "name": "Sapphire",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3127b603-a8e7-4e8a-82ad-0202a08889e0",
+        "name": "Sapphire Blue",
+        "appearance": "Sapphire"
+      }
+    ]
+  }
+}

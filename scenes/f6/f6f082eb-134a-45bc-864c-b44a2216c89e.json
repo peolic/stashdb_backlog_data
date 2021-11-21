@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809479",
+    "Ep 2017-07-11...NVG...Lauren...Anna Kelly"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6f3ba01c-1bf4-4f9a-9638-7e01298b832c",
+        "name": "Lauren",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b0ced2c5-c04d-4802-918b-54265f2ac590",
+        "name": "Anna Kelly",
+        "appearance": "Lauren"
+      }
+    ]
+  }
+}

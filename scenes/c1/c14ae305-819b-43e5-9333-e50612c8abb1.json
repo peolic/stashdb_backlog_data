@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/660005/1by-day-lauren/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6f3ba01c-1bf4-4f9a-9638-7e01298b832c",
+        "name": "Lauren",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Lauren Brock",
+        "appearance": "Lauren",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=lauren_uk/gender=f/lauren-brock.htm"
+      }
+    ]
+  }
+}
