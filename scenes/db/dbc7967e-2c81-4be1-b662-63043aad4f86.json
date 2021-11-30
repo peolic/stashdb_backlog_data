@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=pussy+drill/year=2012/pussy-drill.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "cd3a848a-4ed9-48dd-83a0-7c97c3afeee5",
+        "name": "Trixie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b825b4ef-6787-451c-aa89-d661e2ec3613",
+        "name": "Trixie Star",
+        "appearance": "Trixie"
+      }
+    ]
+  }
+}
