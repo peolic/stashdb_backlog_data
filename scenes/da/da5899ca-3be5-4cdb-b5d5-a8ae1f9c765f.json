@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=gloryhole+initiations%3a+soleil/year=2009/gloryhole-initiations-soleil.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "b8f74471-20cb-4aaf-986e-17d2a7122fd6",
+        "name": "Soleil",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "bc9b7209-3275-4c58-999c-6a28713fd4e0",
+        "name": "Soleil Hughes",
+        "appearance": "Soleil"
+      }
+    ]
+  }
+}
