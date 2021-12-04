@@ -1,6 +1,5 @@
 {
   "comments": [
-    "From 'John' tag",
     "https://www.iafd.com/title.rme/title=net+girl+1419%3a+mya/year=2018/net_girl_1419%3a_mya.htm"
   ],
   "performers": {
@@ -18,12 +17,6 @@
         "appearance": "Mya",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=bellrichardson/gender=f/bell-richardson.htm"
-      },
-      {
-        "id": "bd216084-c2cf-439a-a45e-37cb1a19a319",
-        "name": "John",
-        "appearance": null,
-        "disambiguation": "NVG"
       }
     ]
   }

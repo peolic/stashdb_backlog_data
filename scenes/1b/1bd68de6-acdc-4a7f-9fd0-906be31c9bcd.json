@@ -1,6 +1,5 @@
 {
   "comments": [
-    "From 'Jesse' tag",
     "https://www.iafd.com/title.rme/title=net+girl+1461%3a+gemma+and+aria/year=2018/net-girl-1461-gemma-and-aria.htm"
   ],
   "performers": {
@@ -26,12 +25,6 @@
         "id": "8ecb3b82-b7db-4110-9f35-c4015aa56ade",
         "name": "Gemma Parker",
         "appearance": "Gemma"
-      },
-      {
-        "id": "c929dd41-7ea3-4142-94d6-5786912c9f61",
-        "name": "Jesse",
-        "appearance": null,
-        "disambiguation": "NVG"
       }
     ]
   }

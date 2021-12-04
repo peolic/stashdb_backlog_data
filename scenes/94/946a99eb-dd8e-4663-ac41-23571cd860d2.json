@@ -1,7 +1,6 @@
 {
   "comments": [
     "From 'Donnie' tag",
-    "From 'Ryan' tag",
     "https://www.iafd.com/title.rme/title=net+girl+1672%3a+jessa/year=2019/net_girl_1672%3a_jessa.htm"
   ],
   "performers": {
@@ -11,12 +10,6 @@
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
         "name": "Donnie Rock",
         "appearance": "Donnie"
-      },
-      {
-        "id": "408adfb8-ff95-4e8f-bb05-f030c7865e30",
-        "name": "Ryan",
-        "appearance": null,
-        "disambiguation": "NVG"
       }
     ]
   }

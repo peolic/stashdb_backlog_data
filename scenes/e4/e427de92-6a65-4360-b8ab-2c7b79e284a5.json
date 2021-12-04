@@ -1,7 +1,5 @@
 {
   "comments": [
-    "From 'Ryan' tag",
-    "From 'John' tag",
     "https://www.iafd.com/title.rme/title=net+girl+1505%3a+lilian/year=2018/net_girl_1505%3a_lilian.htm"
   ],
   "performers": {
@@ -17,18 +15,6 @@
         "id": "06a48e71-bc53-45ae-9937-12817d4d8a11",
         "name": "Lilian Stone",
         "appearance": "Lillian"
-      },
-      {
-        "id": "408adfb8-ff95-4e8f-bb05-f030c7865e30",
-        "name": "Ryan",
-        "appearance": null,
-        "disambiguation": "NVG"
-      },
-      {
-        "id": "bd216084-c2cf-439a-a45e-37cb1a19a319",
-        "name": "John",
-        "appearance": null,
-        "disambiguation": "NVG"
       }
     ]
   }
