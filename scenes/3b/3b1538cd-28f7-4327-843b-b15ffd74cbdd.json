@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821",
+    "Ep 2015-04-10 - Blu ... Aubrey Luna"
+  ],
+  "date": "2015-04-10",
+  "performers": {
+    "remove": [
+      {
+        "id": "8516d73a-fcd3-4ac1-a52e-c8a7982727ec",
+        "name": "Blu",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "a2a84f7b-5f7e-4d3b-9fc5-30f6d92cd96b",
+        "name": "Aubrey Luna",
+        "appearance": "Blu"
+      }
+    ]
+  }
+}
