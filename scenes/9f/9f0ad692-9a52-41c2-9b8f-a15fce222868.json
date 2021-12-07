@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=tricky+old+teacher+1718/year=2008/tricky-old-teacher-1718.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "28f38fe9-0b5f-48fa-8397-d5f68ec21b27",
+        "name": "Inga",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9a3503d9-f92e-4d4e-a2ef-a845cb8c9136",
+        "name": "Kadri",
+        "appearance": "Inga"
+      }
+    ]
+  }
+}
