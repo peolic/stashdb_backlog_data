@@ -1,6 +1,6 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=bull+bar/year=2006/bull-bar.htm"
+    "https://www.iafd.com/title.rme/title=booty+grazing/year=2007/booty-grazing.htm"
   ],
   "performers": {
     "remove": [
@@ -15,14 +15,6 @@
         "id": "3ea1fc9d-f477-43eb-8dc1-4dac6189bbad",
         "name": "Malibu",
         "appearance": "Melanie"
-      }
-    ],
-    "update": [
-      {
-        "id": "e4a4972c-6226-4d32-b0fa-0ace026bb973",
-        "name": "Cassidey",
-        "appearance": "Cassidi",
-        "old_appearance": null
       }
     ]
   }
