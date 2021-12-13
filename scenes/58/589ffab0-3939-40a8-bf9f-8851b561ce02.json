@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "Both performers use the same primary name. Performer referenced in Add/With column can have \"1963\" birth year as disambiguation. https://www.iafd.com/title.rme/title=slutty+soles/year=2010/slutty-soles.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6a417408-9e4c-4f54-b7ae-0cb1373e4cf4",
+        "name": "Lola Love",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Lola Love (1963) as (Lola Love)",
+        "appearance": null
+      }
+    ]
+  }
+}
