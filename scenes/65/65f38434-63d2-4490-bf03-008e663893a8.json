@@ -1,14 +1,9 @@
 {
   "comments": [
-    "https://www.indexxx.com/m/abby"
+    "https://www.iafd.com/title.rme/title=deep+feelings/year=2009/deep-feelings.htm"
   ],
   "performers": {
     "remove": [
-      {
-        "id": "4b698998-4a4d-413b-8977-3215a1c6407e",
-        "name": "Abby",
-        "appearance": null
-      },
       {
         "id": "dab252dc-6d39-4ee5-b13b-9a3d9f304fff",
         "name": "Orina",
@@ -16,11 +11,6 @@
       }
     ],
     "append": [
-      {
-        "id": "a02ac289-4627-4a9e-b3df-6a16dd9614fb",
-        "name": "Agathe",
-        "appearance": "Abby"
-      },
       {
         "id": "9c0ccc2c-c324-4e65-b333-76a392407cca",
         "name": "Parisa",

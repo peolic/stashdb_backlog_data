@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/41015/nubiles-yanna/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "cac8e296-3430-45b6-8e81-78ebaecc024d",
+        "name": "Yanna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9c0ccc2c-c324-4e65-b333-76a392407cca",
+        "name": "Parisa",
+        "appearance": "Yanna"
+      }
+    ]
+  }
+}
