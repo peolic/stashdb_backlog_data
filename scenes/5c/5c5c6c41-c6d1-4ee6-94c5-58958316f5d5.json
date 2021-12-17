@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/13555/nubiles-cassie/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "f6693783-37a9-4681-8b28-40208ae86ba2",
+        "name": "Cassie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b813f145-f273-44bf-bf73-a486acaf3693",
+        "name": "Natalia B",
+        "appearance": "Cassie"
+      }
+    ]
+  }
+}

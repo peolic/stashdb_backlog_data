@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "3b0fcc02-f2cb-4007-bc26-221e7503f4f4",
+        "name": "Natalia M.",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f4262e6a-5bb4-40bc-8656-6e89e6b94592",
+        "name": "Violet Rojas",
+        "appearance": "Natalia M."
+      }
+    ]
+  }
+}
