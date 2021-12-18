@@ -57,6 +57,9 @@ jobs:
             echo "changes_exist=true" >> $GITHUB_ENV
           fi
 
+          echo "current_cache=$(git ls-remote origin refs/tags/cache --exit-code | cut -d $'\t' -f1)" >> $GITHUB_ENV
+          echo "TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S %Z')" >> $GITHUB_ENV
+
       - name: Commit files
         if: ${{ env.changes_exist == 'true' }}
         working-directory: ${{ env.PATH_DATA }}
@@ -68,7 +71,6 @@ jobs:
         run: |
           git add -A
           git commit -m "update data"
-          echo "TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S %Z')" >> $GITHUB_ENV
 
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -79,14 +81,14 @@ jobs:
           directory: ${{ env.PATH_DATA }}
 
       - name: Push tag
-        if: ${{ env.changes_exist == 'true' }}
+        if: ${{ env.changes_exist == 'true' || env.current_cache != github.sha }}
         working-directory: ${{ env.PATH_DATA }}
         run: |
           git push origin HEAD:refs/tags/cache -f
 
       - name: Release cache data
         uses: softprops/action-gh-release@v1
-        if: ${{ env.changes_exist == 'true' }}
+        if: ${{ env.changes_exist == 'true' || env.current_cache != github.sha }}
         with:
           name: Cache
           tag_name: cache
