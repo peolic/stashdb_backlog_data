@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=spicy+hot+surprise/year=2014/spicy-hot-surprise.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ac42d30f-f5ab-4afd-8a88-e4baa8ead307",
+        "name": "Pepper",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Pepper",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/pepper"
+      }
+    ]
+  }
+}
