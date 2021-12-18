@@ -13,7 +13,10 @@
         "name": "Mina",
         "appearance": null,
         "disambiguation": "2017, BRCC",
-        "status": "new"
+        "status": "new",
+        "notes": [
+          "no info?"
+        ]
       }
     ]
   }

@@ -13,7 +13,10 @@
         "name": "Abby O'Toole",
         "appearance": "Kennedy",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=abbyotoole/gender=f/abby-o&apos;toole.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=abbyotoole/gender=f/abby-o&apos;toole.htm",
+        "notes": [
+          "https://www.indexxx.com/m/abbey-o-toole"
+        ]
       }
     ]
   }

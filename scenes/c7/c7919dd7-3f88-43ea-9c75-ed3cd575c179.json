@@ -10,7 +10,10 @@
         "name": "Rebecca Richards",
         "appearance": "Brittney",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=rebeccarichards/gender=f/rebecca-richards.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=rebeccarichards/gender=f/rebecca-richards.htm",
+        "notes": [
+          "https://www.indexxx.com/m/rebecca-richards"
+        ]
       }
     ]
   }

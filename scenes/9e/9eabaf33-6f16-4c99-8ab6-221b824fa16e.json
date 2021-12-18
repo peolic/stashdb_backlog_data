@@ -23,7 +23,10 @@
         "name": "Dana Sinnz",
         "appearance": "Dana",
         "status": "new",
-        "status_url": "https://www.indexxx.com/m/dana-sinnz"
+        "status_url": "https://www.indexxx.com/m/dana-sinnz",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=dana05/gender=f/dana.htm"
+        ]
       }
     ]
   }

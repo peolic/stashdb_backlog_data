@@ -10,7 +10,10 @@
         "name": "Alexa Osiris",
         "appearance": "Alex",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=alexaosins/gender=f/alexa-osins.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=alexaosins/gender=f/alexa-osins.htm",
+        "notes": [
+          "https://www.indexxx.com/m/alexa-osiris"
+        ]
       },
       {
         "id": "2640f727-db1c-4124-bf7a-5943560c9746",

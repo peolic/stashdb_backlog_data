@@ -16,7 +16,10 @@
         "name": "Leila Ferraz",
         "appearance": "Leila",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=leilaferraz/gender=f/leila-ferraz.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=leilaferraz/gender=f/leila-ferraz.htm",
+        "notes": [
+          "https://www.indexxx.com/m/leila-1"
+        ]
       }
     ]
   }

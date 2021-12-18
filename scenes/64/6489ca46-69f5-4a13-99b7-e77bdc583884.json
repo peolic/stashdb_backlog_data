@@ -10,7 +10,10 @@
         "name": "Heather Kelly",
         "appearance": "Penny",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=heatherkelly/gender=f/heather-kelly.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=heatherkelly/gender=f/heather-kelly.htm",
+        "notes": [
+          "https://www.indexxx.com/m/penny-18"
+        ]
       }
     ]
   }

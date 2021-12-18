@@ -14,7 +14,10 @@
         "appearance": null,
         "disambiguation": "czech",
         "status": "new",
-        "status_url": "https://www.indexxx.com/m/pepper"
+        "status_url": "https://www.indexxx.com/m/pepper",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=peper/gender=f/peper.htm"
+        ]
       }
     ]
   }

@@ -17,7 +17,10 @@
         "name": "Daisy Leon",
         "appearance": "Daisy",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=daisyleon/gender=f/daisy-leon.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=daisyleon/gender=f/daisy-leon.htm",
+        "notes": [
+          "https://www.indexxx.com/m/daisy-leon"
+        ]
       }
     ]
   }

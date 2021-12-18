@@ -19,7 +19,10 @@
         "name": "Kenna Knight",
         "appearance": "Kenna",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kennaknight/gender=f/kenna-knight.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=kennaknight/gender=f/kenna-knight.htm",
+        "notes": [
+          "https://cdn.stashdb.org/fe/a9/fea9e342-ab8c-4370-a37b-2cfdab89e64d"
+        ]
       }
     ]
   }

@@ -13,7 +13,10 @@
         "name": "Hunter Holzman",
         "appearance": "Hunter",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=hunterholzman/gender=m/hunter-holzman.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=hunterholzman/gender=m/hunter-holzman.htm",
+        "notes": [
+          "https://www.seancody.com/model/18709/hunter"
+        ]
       }
     ]
   }

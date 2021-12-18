@@ -16,7 +16,10 @@
         "name": "Rose Peach",
         "appearance": "Rose",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=rose_excogi_20/gender=f/rose-peach.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=rose_excogi_20/gender=f/rose-peach.htm",
+        "notes": [
+          "https://www.freeones.com/forums/threads/rose-peach.977125/"
+        ]
       },
       {
         "id": "a1aaf2e9-5519-4dc8-a52c-8c364545c805",
