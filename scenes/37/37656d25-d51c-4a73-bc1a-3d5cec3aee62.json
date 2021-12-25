@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.indexxx.com/set/723539/rylsky-art-sarika/"
+  ],
   "performers": {
     "remove": [
       {
@@ -6,7 +9,8 @@
         "name": "Sarika",
         "appearance": null,
         "notes": [
-          "Currently pending merger with Alyssa K: https://stashdb.org/performers/e4eb0d54-6a7b-4fca-89ec-02e0f2a6f577"
+          "Currently pending merger with Alyssa K:",
+          "https://stashdb.org/performers/e4eb0d54-6a7b-4fca-89ec-02e0f2a6f577"
         ]
       }
     ],
