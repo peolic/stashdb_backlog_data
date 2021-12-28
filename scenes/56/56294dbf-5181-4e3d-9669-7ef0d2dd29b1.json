@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lesbian+mechanics/year=2009/lesbian-mechanics.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -11,7 +14,7 @@
       {
         "id": "7b83db31-1ac9-4b7c-be63-06bc72b86c17",
         "name": "Izabella Star",
-        "appearance": null
+        "appearance": "Isabella Star"
       }
     ]
   }
