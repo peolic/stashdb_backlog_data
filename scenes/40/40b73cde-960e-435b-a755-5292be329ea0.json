@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lexi+swallow+and+heather+lee/year=2012/lexi-swallow-and-heather-lee.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "4cd50b70-9bde-43c6-bfac-2b3f16b2491c",
+        "name": "Heather Lee",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Heather Lee (2012)",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=heatherlee_12/gender=f/heather-lee.htm"
+      }
+    ]
+  }
+}

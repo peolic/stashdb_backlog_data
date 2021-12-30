@@ -1,0 +1,24 @@
+{
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801",
+    "Ep 2002.14 - Maria Returns = Luna Blanca"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8e8d8721-6eb5-470b-9614-0fc1d4c059cd",
+        "name": "Maria",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Luna Blanca",
+        "appearance": "Maria",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=lunablanca/gender=f/luna-blanca.htm"
+      }
+    ]
+  }
+}
