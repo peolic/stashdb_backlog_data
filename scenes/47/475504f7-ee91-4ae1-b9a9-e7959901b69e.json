@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=sweet+obsession/year=2016/sweet-obsession.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "729ab966-2d0e-425c-b67c-517b36a2d0f6",
+        "name": "Izzy Delphine",
+        "appearance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=teach+me/year=2016/teach-me.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "40f19492-0d3f-457d-b4ab-ad4752032d37",
+        "name": "Rosaline Rose",
+        "appearance": "Keira Night"
+      }
+    ]
+  }
+}
