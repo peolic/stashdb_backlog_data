@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/475734/errotica-archives-luna/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "105b69ef-b1c0-42ce-ba0c-e0dce5eaad46",
+        "name": "Luna",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "38f1c407-dd6e-47b9-abbf-20593467ca66",
+        "name": "Lea Tyron",
+        "appearance": "Luna"
+      }
+    ]
+  }
+}
