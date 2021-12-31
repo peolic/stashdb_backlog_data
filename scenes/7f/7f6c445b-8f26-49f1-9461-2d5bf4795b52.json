@@ -12,14 +12,9 @@
     ],
     "append": [
       {
-        "id": null,
-        "name": "Magena Yama",
-        "appearance": "Luna",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=magenayama/gender=f/magena-yama.htm",
-        "notes": [
-          "https://www.indexxx.com/m/luna-13"
-        ]
+        "id": "89d8712a-998e-4909-80c8-59d53508785a",
+        "name": "Luna O",
+        "appearance": "Luna"
       }
     ]
   }

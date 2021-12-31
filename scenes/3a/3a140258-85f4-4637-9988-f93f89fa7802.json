@@ -5,22 +5,12 @@
   "performers": {
     "remove": [
       {
-        "id": "b8f74471-20cb-4aaf-986e-17d2a7122fd6",
-        "name": "Soleil",
-        "appearance": null
-      },
-      {
         "id": "da65af49-def6-4a3c-8618-b181cd260958",
         "name": "Marcos",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "bc9b7209-3275-4c58-999c-6a28713fd4e0",
-        "name": "Soleil Hughes",
-        "appearance": "Soleil"
-      },
       {
         "id": "f104db6d-7af1-40c5-a101-d52633826631",
         "name": "Marcos Leon",

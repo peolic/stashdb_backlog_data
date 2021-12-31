@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/907405/tricky-old-teacher-kristina/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "72fe40bc-4607-4d32-96aa-d22414c96c5f",
+        "name": "Kristina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "87f968b6-9ffd-4936-b32e-8cfb06393c72",
+        "name": "Anne Angel",
+        "appearance": "Kristina"
+      }
+    ]
+  }
+}
