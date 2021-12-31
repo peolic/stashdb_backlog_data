@@ -1,0 +1,27 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=fifth+date+first+anal/year=2011/fifth-date-first-anal.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6bd60827-6eb7-47e8-a26e-2073f2e903f5",
+        "name": "Molly Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Molly Madison",
+        "appearance": null,
+        "disambiguation": "tattooed",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=mollymadison/gender=f/molly-madison.htm",
+        "notes": [
+          "https://www.indexxx.com/m/molly-madison-1"
+        ]
+      }
+    ]
+  }
+}
