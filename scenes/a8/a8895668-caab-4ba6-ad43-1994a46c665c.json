@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://noboring.com/trailers/Italien.html"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "27d618d2-ba65-4203-a808-713fd6fb7bbe",
+        "name": "Lora",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "895aa2fd-10e0-4d59-b08e-7685665a250e",
+        "name": "Rose Scott",
+        "appearance": "Lora"
+      }
+    ]
+  }
+}
