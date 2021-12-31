@@ -12,11 +12,6 @@
         "appearance": null
       },
       {
-        "id": "ac42d30f-f5ab-4afd-8a88-e4baa8ead307",
-        "name": "Pepper",
-        "appearance": null
-      },
-      {
         "id": "05d6eceb-2dee-47ad-ac1a-ffcd97926ee2",
         "name": "Ann Marie",
         "appearance": null
@@ -27,11 +22,6 @@
         "id": "5bfb1e43-7b37-42cf-8ba7-3ad2acee306a",
         "name": "Audrey Holiday",
         "appearance": "Lane"
-      },
-      {
-        "id": "45b59d6d-99b0-4651-98bb-e75d067c3f0b",
-        "name": "Pepper XO",
-        "appearance": "Pepper"
       },
       {
         "id": null,

@@ -7,11 +7,6 @@
   "performers": {
     "remove": [
       {
-        "id": "ac42d30f-f5ab-4afd-8a88-e4baa8ead307",
-        "name": "Pepper",
-        "appearance": null
-      },
-      {
         "id": "26c5c7d9-8243-48b0-af55-b85844478604",
         "name": "Candalyn",
         "appearance": null,
@@ -19,11 +14,6 @@
       }
     ],
     "append": [
-      {
-        "id": "45b59d6d-99b0-4651-98bb-e75d067c3f0b",
-        "name": "Pepper XO",
-        "appearance": "Pepper"
-      },
       {
         "id": null,
         "name": "Quinn Kyle",
