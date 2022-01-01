@@ -11,16 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      PATH_TOOLS: backlog
+      PATH_EXPORTER: backlog
       PATH_DATA: backlog/backlog_data
 
     steps:
-      - name: Checkout tools repository
+      - name: Checkout export tool repository
         uses: actions/checkout@v2
         with:
-          repository: peolic/stashdb_backlog
-          token: ${{ secrets.TOKEN }}
-          path: ${{ env.PATH_TOOLS }}
+          repository: peolic/stashdb_backlog_export
+          path: ${{ env.PATH_EXPORTER }}
 
       - name: Checkout data repository
         uses: actions/checkout@v2
@@ -33,19 +32,17 @@ jobs:
           python-version: 3.9
 
       - name: Install dependencies
-        working-directory: ${{ env.PATH_TOOLS }}
+        working-directory: ${{ env.PATH_EXPORTER }}
         run: |
           python -m pip install --upgrade pip
-          pip install beautifulsoup4 cssutils requests
+          pip install requests
 
       - name: Generate new data
-        working-directory: ${{ env.PATH_TOOLS }}
+        working-directory: ${{ env.PATH_EXPORTER }}
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
           python make_backlog_data.py
-          mv .stashdb_backlog_index.json stashdb_backlog_index.json
-          mv .stashdb_backlog.json stashdb_backlog.json
 
       - name: Check for changes
         working-directory: ${{ env.PATH_DATA }}
@@ -97,6 +94,6 @@ jobs:
           body: "All the data in cache format.\n\nUpdated: **${{ env.TIMESTAMP }}**"
           fail_on_unmatched_files: true
           files: |
-            ${{ env.PATH_TOOLS }}/stashdb_backlog_index.json
-            ${{ env.PATH_TOOLS }}/stashdb_backlog.json
+            ${{ env.PATH_EXPORTER }}/stashdb_backlog_index.json
+            ${{ env.PATH_EXPORTER }}/stashdb_backlog.json
           token: ${{ secrets.GITHUB_TOKEN }}
