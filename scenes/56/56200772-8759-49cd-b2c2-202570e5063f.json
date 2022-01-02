@@ -1,18 +1,7 @@
 {
   "performers": {
-    "remove": [
-      {
-        "id": "03656082-1bc4-46ab-8b9d-8f38cbc8fea7",
-        "name": "Brooklyn",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "197e0be2-93e5-4e0b-b6ec-26e7678ea0bb",
-        "name": "Brooklyn Belle",
-        "appearance": "Brooklyn"
-      },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
         "name": "Donnie Rock",

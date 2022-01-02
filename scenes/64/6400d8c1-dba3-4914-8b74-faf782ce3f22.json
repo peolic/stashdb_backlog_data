@@ -9,11 +9,6 @@
         "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
         "name": "Amber",
         "appearance": null
-      },
-      {
-        "id": "03656082-1bc4-46ab-8b9d-8f38cbc8fea7",
-        "name": "Brooklyn",
-        "appearance": null
       }
     ],
     "append": [
@@ -21,11 +16,6 @@
         "id": "bf89db9d-416f-4b8b-87b0-2f144cc8d076",
         "name": "Amber Addis",
         "appearance": "Amber"
-      },
-      {
-        "id": "197e0be2-93e5-4e0b-b6ec-26e7678ea0bb",
-        "name": "Brooklyn Belle",
-        "appearance": "Brooklyn"
       },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
