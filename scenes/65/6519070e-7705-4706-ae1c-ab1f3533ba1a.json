@@ -16,10 +16,13 @@
       },
       {
         "id": null,
-        "name": "Manaje A Star / Manaj-A-Star",
+        "name": "Manaj-A-Star",
         "appearance": "Manaje A Star",
         "status": "new",
-        "status_url": "https://www.indexxx.com/m/manaje-a-star"
+        "status_url": "https://www.iafd.com/person.rme/perfid=manajastar/gender=f/manaj-a-star.htm",
+        "notes": [
+          "https://www.indexxx.com/m/manaje-a-star"
+        ]
       }
     ]
   }

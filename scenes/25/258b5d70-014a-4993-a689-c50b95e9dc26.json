@@ -1,19 +1,33 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1537%3a+allyana/year=2018/castingcouch%2dhd-1537-allyana.htm"
+  ],
   "performers": {
     "remove": [
       {
         "id": "9e24f375-294f-45a9-b741-0faa0d9e05b8",
         "name": "Allyana",
-        "appearance": null
+        "appearance": null,
+        "status": "edit"
       }
     ],
     "append": [
       {
         "id": null,
-        "name": "Allyana Day / Allyana Amore",
+        "name": "Allyana Amore",
         "appearance": "Allyana",
         "status": "new",
-        "status_url": "https://www.freeones.com/forums/threads/allyana-day-allyana.957890/#post-10403698"
+        "status_url": "https://www.iafd.com/person.rme/perfid=allyanaamore/gender=f/allyana-amore.htm",
+        "notes": [
+          "https://web.archive.org/web/20201101022413/https://www.theallyana.com/",
+          "A.K.A. Allyana Day, Allyana Day Amore",
+          "https://www.freeones.com/forums/threads/allyana-day-allyana.957890/#post-10403698"
+        ]
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
       }
     ]
   }

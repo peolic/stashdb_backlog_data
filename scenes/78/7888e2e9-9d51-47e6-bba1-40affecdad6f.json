@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=dog+the+booty+hunter/year=2009/dog-the-booty-hunter.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5c389d80-8757-4093-9a17-e0cb55e32bd4",
+        "name": "Sierra & Stacy",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sierra Lust",
+        "appearance": "Sierra",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=sierralust/gender=f/sierra-lust.htm"
+      },
+      {
+        "id": null,
+        "name": "Stacy Stash",
+        "appearance": "Stacy",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=stacystash/gender=f/stacy-stash.htm"
+      }
+    ]
+  }
+}
