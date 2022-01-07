@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=bully%27s+top/year=2018/bully&apos;s-top.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "b09f1d71-918f-4b99-9789-41eda2fb2f16",
+        "name": "Boris",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d88ca6ba-6b8e-456c-a049-1493ace8159d",
+        "name": "Vitali Kutcher",
+        "appearance": "Boris"
+      }
+    ]
+  }
+}
