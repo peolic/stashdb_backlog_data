@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/507912/sapphic-erotica-diamond-stacy/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
+        "name": "Stacy",
+        "appearance": null
+      },
+      {
+        "id": "2d9ece28-058f-4227-a46d-bd7376276aea",
+        "name": "Diamond",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "9764eccb-0f7c-4993-8737-cffede25c782",
+        "name": "Stacy Snake",
+        "appearance": "Stacy"
+      },
+      {
+        "id": "66238d4a-51ee-49e2-a363-0606850edfb7",
+        "name": "Diamond Cross",
+        "appearance": "Diamond"
+      }
+    ]
+  }
+}

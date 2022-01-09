@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/810577/babes-clover/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ade3df3d-18c9-4f5a-afdb-79598afc7103",
+        "name": "Clover",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "92c3dbf0-f0df-4d0e-9bc6-a70c3c708d8c",
+        "name": "Katya Clover",
+        "appearance": "Clover"
+      }
+    ]
+  }
+}

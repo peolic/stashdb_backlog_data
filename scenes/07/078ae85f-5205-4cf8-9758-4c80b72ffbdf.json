@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=in+his+shoes/year=2015/in_his_shoes.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "d0dc6979-00b8-4bfe-9791-502389695c37",
+        "name": "Ana Rose",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "888358fc-bdfa-462a-968d-f0ba6f28f0dc",
+        "name": "Anna Rose",
+        "appearance": "Ana Rose"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/797636/tricky-masseur-grace-c/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "53c74e27-5029-4216-9aa3-c178c0f44ff4",
+        "name": "Grace C",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "8031ec62-5d36-4614-bd38-6d379d312c4a",
+        "name": "Mary Dee",
+        "appearance": "Grace C"
+      }
+    ]
+  }
+}
