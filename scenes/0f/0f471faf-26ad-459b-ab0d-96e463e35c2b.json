@@ -1,0 +1,31 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=rocco%27s+anal+slaves+2/year=2012/rocco&apos;s-anal-slaves-2.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "239c5290-89b1-409f-b970-4f06408f6762",
+        "name": "Eliza",
+        "appearance": null
+      },
+      {
+        "id": "7a35aa04-6eaf-4a53-a472-59fdc43097a2",
+        "name": "Miranda",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "11610326-6b2f-46e2-9f1d-6bdba03df57e",
+        "name": "Liza Shay",
+        "appearance": "Eliza"
+      },
+      {
+        "id": "58238b52-6da2-4b16-8687-5410cc2d9929",
+        "name": "Dorothea",
+        "appearance": "Miranda"
+      }
+    ]
+  }
+}
