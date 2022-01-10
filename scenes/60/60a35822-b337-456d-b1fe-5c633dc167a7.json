@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/508042/sapphic-erotica-renata-henessy/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "cdf7feff-6eeb-46f4-a8a7-04719bc51cfd",
+        "name": "Renata",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d725dadd-91f5-447c-8586-7f5b19e2e9a0",
+        "name": "Natalia G",
+        "appearance": "Renata"
+      }
+    ]
+  }
+}
