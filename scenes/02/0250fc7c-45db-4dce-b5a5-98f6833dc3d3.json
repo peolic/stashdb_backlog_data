@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/462253/rub-a-teen-jade/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "7e1d9cdb-31c5-4fcc-b1ea-3a94ff7d9bbb",
+        "name": "Jade",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7d20d38c-68a9-4acd-881d-03d9629cdc93",
+        "name": "Netta Jade",
+        "appearance": "Jade"
+      }
+    ]
+  }
+}
