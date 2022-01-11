@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://calendarauditions.com/play/15_maryjane/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "0cc54327-5956-4d9c-a18e-450c1dca5279",
+        "name": "Mary Jane",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "307d2218-d072-4e2d-84c4-5a132e2ea8ef",
+        "name": "Ziggy Star",
+        "appearance": "Mary Jane"
+      }
+    ]
+  }
+}
