@@ -1,0 +1,26 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=hillbilly+hippie+titties/year=2010/hillbilly-hippie-titties.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "ec679601-50c8-444c-bc6a-6000dfd792ca",
+        "name": "Sydney",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "b4880c69-d812-4804-907a-a1246b3d75c7",
+        "name": "Bentley Pierce",
+        "appearance": "Sydney"
+      },
+      {
+        "id": "816ea58e-7ae6-41aa-84af-f3b40b5595e2",
+        "name": "Preston Parker",
+        "appearance": null
+      }
+    ]
+  }
+}

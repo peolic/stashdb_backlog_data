@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "ec679601-50c8-444c-bc6a-6000dfd792ca",
+        "name": "Sydney",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Sydney",
+        "appearance": null,
+        "disambiguation": "2009, Sean Cody",
+        "status": "new"
+      }
+    ]
+  }
+}

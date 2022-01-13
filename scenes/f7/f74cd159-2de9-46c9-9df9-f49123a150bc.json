@@ -1,0 +1,32 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=all+busty/year=2010/all-busty.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "f0640c6c-f9c5-4dff-b775-6fcb936adeed",
+        "name": "Daisy Lee",
+        "appearance": null
+      },
+      {
+        "id": "505e490d-9ee6-4d3f-90da-c21981b54884",
+        "name": "Tony",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "50b201d9-0a70-4951-a0c0-aa0a48cc27f1",
+        "name": "Daisy Lee",
+        "appearance": "Daisy Lee",
+        "disambiguation": "HU"
+      },
+      {
+        "id": "371593de-68fa-439a-bb28-1590e2143906",
+        "name": "Antonio Ross",
+        "appearance": "Tony"
+      }
+    ]
+  }
+}

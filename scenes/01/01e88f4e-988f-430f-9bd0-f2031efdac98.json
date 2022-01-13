@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1580%3a+charley/year=2019/backroom-casting-couch-1580-charley.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e0f870a0-7021-493f-81df-f9803f4d863e",
+        "name": "Charley",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "6a9e0f95-3acf-4b7a-b934-44cce1453e5a",
+        "name": "Belle O'Hara",
+        "appearance": "Charley"
+      }
+    ]
+  }
+}

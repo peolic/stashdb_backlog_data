@@ -4,12 +4,26 @@
     "https://www.iafd.com/title.rme/title=net+girl+1629%3a+sydney/year=2019/net-girl-1629-sydney.htm"
   ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "ec679601-50c8-444c-bc6a-6000dfd792ca",
+        "name": "Sydney",
+        "appearance": null
+      }
+    ],
     "append": [
       {
         "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
         "name": "Seth Gamble",
         "appearance": "Mark"
+      },
+      {
+        "id": null,
+        "name": "Sydney",
+        "appearance": null,
+        "disambiguation": "2019, NVG",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=sydney_nvg_2019/gender=f/sydney.htm"
       }
     ]
   }
