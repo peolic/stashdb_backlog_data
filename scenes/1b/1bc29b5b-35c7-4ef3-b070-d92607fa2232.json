@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=way+better+than+homework/year=2015/way-better-than-homework.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "00f00023-9b0b-45f7-ac2a-14f39e3c9959",
+        "name": "Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "505df677-2113-49ad-9c6d-657b2cee46e1",
+        "name": "Karina Grand",
+        "appearance": "Madison"
+      }
+    ]
+  }
+}

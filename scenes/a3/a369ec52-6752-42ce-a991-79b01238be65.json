@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=pussy+crook/year=2006/pussy-crook.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "00f00023-9b0b-45f7-ac2a-14f39e3c9959",
+        "name": "Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "01164193-e8a4-4a64-9dc9-0d19fa21fc3c",
+        "name": "Logan Heart",
+        "appearance": "Madison"
+      }
+    ]
+  }
+}

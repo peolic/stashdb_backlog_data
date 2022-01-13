@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": null,
+        "name": "Stephanie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Victoria Tiffani",
+        "appearance": null
+      }
+    ]
+  }
+}
