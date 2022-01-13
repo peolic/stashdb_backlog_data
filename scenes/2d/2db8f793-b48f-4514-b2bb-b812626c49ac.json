@@ -1,0 +1,43 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=double+dipper+%28ii%29/year=2013/double-dipper-%28ii%29.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e543da41-5780-461c-81ec-2bd56dbe5d6a",
+        "name": "Kitty",
+        "appearance": null
+      },
+      {
+        "id": "44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b",
+        "name": "Michelle",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kitty",
+        "appearance": null,
+        "disambiguation": "latina, 2013",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=kitty_bangbros/gender=f/kitty.htm",
+        "notes": [
+          "https://www.indexxx.com/m/kitty-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Michelle",
+        "appearance": null,
+        "disambiguation": "latina, 2013",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=michelle_rk/gender=f/michelle.htm",
+        "notes": [
+          "https://www.indexxx.com/m/michelle-86"
+        ]
+      }
+    ]
+  }
+}

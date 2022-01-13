@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=legal+porno+gg210/year=2014/legal-porno-gg210.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "17d4f916-6aa8-46e8-862e-d7153748d82e",
+        "name": "Kasey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "db8ecbe7-4ce0-44b6-be8e-b2094172645e",
+        "name": "Oxana Parys",
+        "appearance": "Kasey"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=kittys+kat/year=2013/kittys-kat.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "e543da41-5780-461c-81ec-2bd56dbe5d6a",
+        "name": "Kitty",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Kitty",
+        "appearance": null,
+        "disambiguation": "latina, 2013",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=kitty_bangbros/gender=f/kitty.htm",
+        "notes": [
+          "https://www.indexxx.com/m/kitty-1"
+        ]
+      }
+    ]
+  }
+}
