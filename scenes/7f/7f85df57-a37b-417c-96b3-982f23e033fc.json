@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=tiki+touch/year=2006/tiki-touch.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "92496929-43ca-44f9-8862-9465c908de36",
+        "name": "Anita",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ee40170e-19ed-43fa-8130-869ab897ab39",
+        "name": "Simone Riley",
+        "appearance": "Anita"
+      }
+    ]
+  }
+}

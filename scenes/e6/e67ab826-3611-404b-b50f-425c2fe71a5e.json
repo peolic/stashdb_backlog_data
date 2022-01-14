@@ -1,0 +1,20 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "5796cd9d-f266-446a-b7fa-b370f27dbee4",
+        "name": "Reina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Reina",
+        "appearance": null,
+        "disambiguation": "2014, CCHD",
+        "status": "new"
+      }
+    ]
+  }
+}

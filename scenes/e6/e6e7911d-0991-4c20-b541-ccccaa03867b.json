@@ -1,0 +1,23 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=jolie/year=2005/jolie.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "aa71d444-e171-4593-bd34-f4010ea974a9",
+        "name": "Jolie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jolie Sky",
+        "appearance": "Jolie",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=joliesky/gender=f/jolie-sky.htm"
+      }
+    ]
+  }
+}

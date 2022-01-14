@@ -1,4 +1,7 @@
 {
+  "comments": [
+    "https://www.iafd.com/title.rme/title=takin%27+it+further/year=2008/takin&apos;-it-further.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -11,12 +14,12 @@
       {
         "id": "6888964b-016a-4173-b72c-c63abd6aa63e",
         "name": "Audrey Elson",
-        "appearance": null
+        "appearance": "Audrey"
       },
       {
         "id": "b90aba7c-a74a-4c78-b009-24b706500e85",
         "name": "Britney Stevens",
-        "appearance": null
+        "appearance": "Brit"
       }
     ]
   }

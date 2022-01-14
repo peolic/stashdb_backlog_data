@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=bangbros+show/year=2011/bangbros-show.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6388fcfe-b2ec-4eea-a971-1719ef4664dc",
+        "name": "Amy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "88178c5d-8d2d-4923-9de3-85d9dee5be07",
+        "name": "Scarlet Maze",
+        "appearance": "Amy"
+      }
+    ]
+  }
+}
