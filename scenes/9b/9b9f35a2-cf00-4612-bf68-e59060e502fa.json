@@ -1,0 +1,22 @@
+{
+  "comments": [
+    "Tattoo",
+    "https://www.indexxx.com/set/483674/in-the-vip-aj-applegate-linda-lay/"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Cameron",
+        "appearance": null,
+        "disambiguation": "2012-13, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=cameron_12_rk/gender=f/cameron.htm",
+        "notes": [
+          "https://www.indexxx.com/m/cameron-9"
+        ]
+      }
+    ]
+  }
+}

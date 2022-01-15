@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=cocked+and+loaded+%28ii%29/year=2008/cocked-and-loaded-%28ii%29.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "3bf4665a-3def-404b-a8ab-b66dd02e9304",
+        "name": "Kat",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "e4b67d9d-10f6-42ec-9ffa-70bf2bc3e329",
+        "name": "Katarina Kat",
+        "appearance": "Kat"
+      }
+    ]
+  }
+}
