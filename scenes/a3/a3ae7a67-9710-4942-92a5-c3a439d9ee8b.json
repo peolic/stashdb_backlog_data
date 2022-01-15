@@ -1,0 +1,32 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/508257/sapphic-erotica-bambi-alica-sally/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8eabfda4-b7c5-4dad-bfef-5279bfd7b817",
+        "name": "Bambi",
+        "appearance": null
+      },
+      {
+        "id": "8480fa9d-de39-4fcb-830e-9c1a453b5bf5",
+        "name": "Sally",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "179d7c52-905d-421b-928f-6368c82305aa",
+        "name": "Bambi",
+        "appearance": null,
+        "disambiguation": "2009-10, GG"
+      },
+      {
+        "id": "6d6fa622-e2ed-48ae-b28c-c026b5578561",
+        "name": "Rose Delight",
+        "appearance": "Sally"
+      }
+    ]
+  }
+}

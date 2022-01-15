@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=pickup+lines+75/year=2003/pickup-lines-75.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6eee37a3-58ab-43c8-8ad4-31e06a737ba6",
+        "name": "Chelsey",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "870f412b-0a91-4066-9461-fd8803ea3e9e",
+        "name": "Kelsey Heart",
+        "appearance": "Chelsey"
+      }
+    ]
+  }
+}

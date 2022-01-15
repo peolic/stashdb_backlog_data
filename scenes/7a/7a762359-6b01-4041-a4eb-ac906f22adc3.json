@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.iafd.com/title.rme/title=big+tittie+teaser/year=2014/big-tittie-teaser.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "99fe8dfa-04a2-4b4d-8531-2e9dd9e57c2c",
+        "name": "Lilith",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "81811abc-d690-410d-a0cb-446f1af2276b",
+        "name": "Bambi Bella",
+        "appearance": "Lilith"
+      }
+    ]
+  }
+}
