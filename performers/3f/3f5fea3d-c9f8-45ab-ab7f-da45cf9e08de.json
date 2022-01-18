@@ -1,5 +1,10 @@
 {
-  "duplicates": [
-    "c9dc21fe-fc6c-474a-b5cf-b2831c4cb31f"
-  ]
+  "duplicates": {
+    "ids": [
+      "c9dc21fe-fc6c-474a-b5cf-b2831c4cb31f"
+    ],
+    "notes": [
+      "Main performer needs to be split before merging, and a disambiguation (Hungary) needs to be added to it."
+    ]
+  }
 }

@@ -1,8 +1,13 @@
 {
-  "duplicates": [
-    "69fdda94-e2d9-417f-92d5-78cc981caeaa",
-    "ab97f3ef-7d72-4e17-9cbc-a8e76fcdd8ae",
-    "98a7bc67-81a5-4123-bea9-713f290217dd",
-    "aae567f0-231e-49ef-8b5b-4d4f2b564363"
-  ]
+  "duplicates": {
+    "ids": [
+      "69fdda94-e2d9-417f-92d5-78cc981caeaa",
+      "ab97f3ef-7d72-4e17-9cbc-a8e76fcdd8ae",
+      "98a7bc67-81a5-4123-bea9-713f290217dd",
+      "aae567f0-231e-49ef-8b5b-4d4f2b564363"
+    ],
+    "notes": [
+      "Some duplicates need to be split up or specific scenes need to be moved."
+    ]
+  }
 }

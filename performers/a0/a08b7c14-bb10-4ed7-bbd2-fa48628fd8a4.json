@@ -1,5 +1,10 @@
 {
-  "duplicates": [
-    "390e27d7-2ed8-4926-bac5-341189d0c2de"
-  ]
+  "duplicates": {
+    "ids": [
+      "390e27d7-2ed8-4926-bac5-341189d0c2de"
+    ],
+    "notes": [
+      "https://www.iafd.com/person.rme/perfid=barryscott/gender=m/barry-scott.htm"
+    ]
+  }
 }

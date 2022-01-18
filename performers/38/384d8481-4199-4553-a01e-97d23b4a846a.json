@@ -1,5 +1,11 @@
 {
-  "duplicates": [
-    "cf85fc8f-9c65-4abd-9e7b-a22b240d3223"
-  ]
+  "duplicates": {
+    "ids": [
+      "cf85fc8f-9c65-4abd-9e7b-a22b240d3223"
+    ],
+    "notes": [
+      "https://www.iafd.com/person.rme/perfid=savannajames/gender=f/elexis-monroe.htm",
+      "https://www.indexxx.com/m/elexis-monroe"
+    ]
+  }
 }

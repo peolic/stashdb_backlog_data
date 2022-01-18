@@ -1,5 +1,10 @@
 {
-  "duplicates": [
-    "2511bb58-035f-4f29-ae95-2801eef1e8fc"
-  ]
+  "duplicates": {
+    "ids": [
+      "2511bb58-035f-4f29-ae95-2801eef1e8fc"
+    ],
+    "notes": [
+      "https://www.iafd.com/person.rme/perfid=nikiwylde/gender=f/niki-wylde.htm"
+    ]
+  }
 }

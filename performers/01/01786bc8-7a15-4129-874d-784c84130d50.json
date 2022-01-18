@@ -1,6 +1,15 @@
 {
-  "duplicates": [
-    "efc4f445-2133-4502-bdd5-55f2634ebfdb",
-    "2d35a5bd-bb48-48fa-92c5-b690fb433ac7"
-  ]
+  "duplicates": {
+    "ids": [
+      "efc4f445-2133-4502-bdd5-55f2634ebfdb",
+      "2d35a5bd-bb48-48fa-92c5-b690fb433ac7"
+    ],
+    "notes": [
+      "Main performer needs to be split up:",
+      "- Listed on Performers To Split Up",
+      "- 1 scene listed on Scene-Performers",
+      "2nd Duplicate needs to be split up:",
+      "- Other scenes listed on Scene-Performers"
+    ]
+  }
 }

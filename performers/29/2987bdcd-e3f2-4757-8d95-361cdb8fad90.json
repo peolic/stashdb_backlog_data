@@ -1,5 +1,10 @@
 {
-  "duplicates": [
-    "1a8529e2-56a9-4c13-8006-1b7329f36388"
-  ]
+  "duplicates": {
+    "ids": [
+      "1a8529e2-56a9-4c13-8006-1b7329f36388"
+    ],
+    "notes": [
+      "dont merge Roxi into Briella Bounce, requires manual work"
+    ]
+  }
 }

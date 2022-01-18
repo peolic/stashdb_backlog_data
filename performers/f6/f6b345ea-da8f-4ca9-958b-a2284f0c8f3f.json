@@ -1,5 +1,13 @@
 {
-  "duplicates": [
-    "adca8305-af48-4fa0-b61a-1a3471b292d5"
-  ]
+  "duplicates": {
+    "ids": [
+      "adca8305-af48-4fa0-b61a-1a3471b292d5"
+    ],
+    "notes": [
+      "Main performer needs to be edited and renamed.",
+      "Duplicate #1 needs to be split (1 scene listed on Scene-Performers)",
+      "https://www.iafd.com/person.rme/perfid=takhafilatova/gender=f/takha-filatova.htm",
+      "https://www.indexxx.com/m/takha-filatova"
+    ]
+  }
 }

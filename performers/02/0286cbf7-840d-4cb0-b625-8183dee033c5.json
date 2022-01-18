@@ -1,5 +1,12 @@
 {
-  "duplicates": [
-    "bf218eb8-e311-4c9f-b061-476d3486f634"
-  ]
+  "duplicates": {
+    "ids": [
+      "bf218eb8-e311-4c9f-b061-476d3486f634"
+    ],
+    "notes": [
+      "Main performer needs to be split up:",
+      "- Listed on Performers To Split Up",
+      "- Scenes listed on Scene-Performers"
+    ]
+  }
 }

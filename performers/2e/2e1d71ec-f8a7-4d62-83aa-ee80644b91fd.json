@@ -1,5 +1,10 @@
 {
-  "duplicates": [
-    "758db8a7-4167-46d9-9863-c1e188cdbaf6"
-  ]
+  "duplicates": {
+    "ids": [
+      "758db8a7-4167-46d9-9863-c1e188cdbaf6"
+    ],
+    "notes": [
+      "https://www.iafd.com/person.rme/perfid=caseyjacks/gender=m/casey-jacks.htm"
+    ]
+  }
 }

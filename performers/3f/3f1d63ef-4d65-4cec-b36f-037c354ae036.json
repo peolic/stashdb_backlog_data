@@ -1,6 +1,8 @@
 {
-  "duplicates": [
-    "063c35d0-8b32-4e60-9e9b-7b47e2c8be82",
-    "8d8b70a1-cf05-421c-aa56-27eed8e80c1b"
-  ]
+  "duplicates": {
+    "ids": [
+      "063c35d0-8b32-4e60-9e9b-7b47e2c8be82",
+      "8d8b70a1-cf05-421c-aa56-27eed8e80c1b"
+    ]
+  }
 }

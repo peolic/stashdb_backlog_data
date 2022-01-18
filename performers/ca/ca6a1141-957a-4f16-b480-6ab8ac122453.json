@@ -1,5 +1,10 @@
 {
-  "duplicates": [
-    "ea3048f8-e69a-4523-a0ab-592e5678492f"
-  ]
+  "duplicates": {
+    "ids": [
+      "ea3048f8-e69a-4523-a0ab-592e5678492f"
+    ],
+    "notes": [
+      "Duplicate #1 needs to be split up"
+    ]
+  }
 }

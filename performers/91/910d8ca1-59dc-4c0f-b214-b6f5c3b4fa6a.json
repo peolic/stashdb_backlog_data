@@ -1,6 +1,14 @@
 {
-  "duplicates": [
-    "4bfcb213-1ed8-40b8-8ac0-1dc82353efee",
-    "68d8e0fe-aa8f-4941-bdf5-8f4406dac3f5"
-  ]
+  "duplicates": {
+    "ids": [
+      "4bfcb213-1ed8-40b8-8ac0-1dc82353efee",
+      "68d8e0fe-aa8f-4941-bdf5-8f4406dac3f5"
+    ],
+    "notes": [
+      "Duplicate #2 (Iza) needs to be split up:",
+      " - probably all scenes **except Reality Kings** feature Izi Ashley",
+      "https://www.indexxx.com/m/iza-ashley",
+      "https://www.iafd.com/person.rme/perfid=iza_14_russ/gender=f/iza.htm"
+    ]
+  }
 }

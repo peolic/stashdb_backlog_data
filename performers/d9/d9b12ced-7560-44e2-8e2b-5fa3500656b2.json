@@ -1,5 +1,12 @@
 {
-  "duplicates": [
-    "b0f70218-f734-4bce-a8cb-1ca8d6a2c40e"
-  ]
+  "duplicates": {
+    "ids": [
+      "b0f70218-f734-4bce-a8cb-1ca8d6a2c40e"
+    ],
+    "notes": [
+      "1st duplicate needs to be split up",
+      "- Scene listed on Scene-Performers",
+      "https://www.iafd.com/person.rme/perfid=peytonbanks/gender=f/payton-banks.htm"
+    ]
+  }
 }

@@ -1,6 +1,13 @@
 {
-  "duplicates": [
-    "e607e647-6e76-4e6b-badf-52283ae5caf5",
-    "07002d80-f776-41f8-91d3-3343bfb2b174"
-  ]
+  "duplicates": {
+    "ids": [
+      "e607e647-6e76-4e6b-badf-52283ae5caf5",
+      "07002d80-f776-41f8-91d3-3343bfb2b174"
+    ],
+    "notes": [
+      "listed on Performers To Split Up",
+      "the target is the performer from 2019 onwards",
+      "https://www.indexxx.com/m/brianna-rose-1"
+    ]
+  }
 }

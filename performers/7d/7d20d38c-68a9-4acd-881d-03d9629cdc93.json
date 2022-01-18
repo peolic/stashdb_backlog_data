@@ -1,6 +1,12 @@
 {
-  "duplicates": [
-    "287a1b8f-d2b8-4bff-b731-1b8423c01ba1",
-    "60539752-aeca-43cd-916a-020de16a56fc"
-  ]
+  "duplicates": {
+    "ids": [
+      "287a1b8f-d2b8-4bff-b731-1b8423c01ba1",
+      "60539752-aeca-43cd-916a-020de16a56fc"
+    ],
+    "notes": [
+      "https://www.indexxx.com/m/netta-1",
+      "https://www.iafd.com/person.rme/perfid=netta_11/gender=f/netta.htm"
+    ]
+  }
 }

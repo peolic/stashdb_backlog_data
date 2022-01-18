@@ -1,5 +1,11 @@
 {
-  "duplicates": [
-    "0725061a-b852-45f3-9262-9ec35c999033"
-  ]
+  "duplicates": {
+    "ids": [
+      "0725061a-b852-45f3-9262-9ec35c999033"
+    ],
+    "notes": [
+      "Duplicate needs to be split up:",
+      "- 1 scene listed on Scene-Performers"
+    ]
+  }
 }

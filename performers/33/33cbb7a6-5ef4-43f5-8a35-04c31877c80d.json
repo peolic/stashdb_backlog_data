@@ -1,5 +1,12 @@
 {
-  "duplicates": [
-    "6af1ccca-dc63-43e8-bd40-8c76c2f4ed75"
-  ]
+  "duplicates": {
+    "ids": [
+      "6af1ccca-dc63-43e8-bd40-8c76c2f4ed75"
+    ],
+    "notes": [
+      "Main performer needs to be split up",
+      "https://www.indexxx.com/m/ashton-pierce-1",
+      "https://www.iafd.com/person.rme/perfid=ashtonpierce/gender=f/ashton-pierce.htm"
+    ]
+  }
 }

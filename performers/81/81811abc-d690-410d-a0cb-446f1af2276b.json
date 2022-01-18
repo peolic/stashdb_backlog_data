@@ -1,9 +1,15 @@
 {
-  "duplicates": [
-    "4f4c43eb-63f4-447e-872a-b7f239561ec6",
-    "dbfbd068-34fa-4970-a091-06c661f5077e",
-    "1e31ae1c-8337-471d-ac82-c36b1a859d21",
-    "461d4720-6308-4127-abc1-2a173e5fa337",
-    "be25c2f5-db89-4ce2-ae67-53c99bb518f0"
-  ]
+  "duplicates": {
+    "ids": [
+      "4f4c43eb-63f4-447e-872a-b7f239561ec6",
+      "dbfbd068-34fa-4970-a091-06c661f5077e",
+      "1e31ae1c-8337-471d-ac82-c36b1a859d21",
+      "461d4720-6308-4127-abc1-2a173e5fa337",
+      "be25c2f5-db89-4ce2-ae67-53c99bb518f0"
+    ],
+    "notes": [
+      "https://www.indexxx.com/m/lilith-lee",
+      "https://www.iafd.com/person.rme/perfid=rachellarouge/gender=f/rachel-la-rouge.htm"
+    ]
+  }
 }

@@ -1,6 +1,11 @@
 {
-  "duplicates": [
-    "c30e2e59-761a-4536-acaf-5aeaa171e621",
-    "4648d025-3759-4f39-bab8-ee5ce324f39b"
-  ]
+  "duplicates": {
+    "ids": [
+      "c30e2e59-761a-4536-acaf-5aeaa171e621",
+      "4648d025-3759-4f39-bab8-ee5ce324f39b"
+    ],
+    "notes": [
+      "Round and Brown scene needs to be moved from Duplicate #1"
+    ]
+  }
 }

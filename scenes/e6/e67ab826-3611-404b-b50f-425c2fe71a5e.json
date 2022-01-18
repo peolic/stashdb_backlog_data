@@ -1,12 +1,6 @@
 {
   "performers": {
-    "remove": [
-      {
-        "id": "5796cd9d-f266-446a-b7fa-b370f27dbee4",
-        "name": "Reina",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
       {
         "id": null,
