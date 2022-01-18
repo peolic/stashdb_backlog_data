@@ -93,7 +93,5 @@ jobs:
           prerelease: true
           body: "All the data in cache format.\n\nUpdated: **${{ env.TIMESTAMP }}**"
           fail_on_unmatched_files: true
-          files: |
-            ${{ env.PATH_EXPORTER }}/stashdb_backlog_index.json
-            ${{ env.PATH_EXPORTER }}/stashdb_backlog.json
+          files: ${{ env.PATH_EXPORTER }}/stashdb_backlog.json
           token: ${{ secrets.GITHUB_TOKEN }}
