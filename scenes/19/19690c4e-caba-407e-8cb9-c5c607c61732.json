@@ -1,0 +1,21 @@
+{
+  "comments": [
+    "https://www.indexxx.com/set/508537/sapphic-erotica-kelsie-moni-vanda/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6fbc2da8-5a9e-4db4-9b3f-961ad405c356",
+        "name": "Moni",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ad171f8c-2367-4f98-9691-c2b23fe4235a",
+        "name": "Monica C",
+        "appearance": "Moni"
+      }
+    ]
+  }
+}
