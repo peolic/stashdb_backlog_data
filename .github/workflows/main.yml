@@ -48,7 +48,7 @@ jobs:
         working-directory: ${{ env.PATH_DATA }}
         run: |
           git add --intent-to-add .
-          if git diff --stat --exit-code; then
+          if git diff HEAD --stat --exit-code; then
             echo "changes_exist=false" >> $GITHUB_ENV
           else
             echo "changes_exist=true" >> $GITHUB_ENV
