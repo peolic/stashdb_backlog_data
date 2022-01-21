@@ -1,0 +1,18 @@
+{
+  "performers": {
+    "remove": [
+      {
+        "id": "00f00023-9b0b-45f7-ac2a-14f39e3c9959",
+        "name": "Madison",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7c91afe8-b5d6-4977-b511-5913aba377a6",
+        "name": "Klara Smetanova",
+        "appearance": "Madison"
+      }
+    ]
+  }
+}
