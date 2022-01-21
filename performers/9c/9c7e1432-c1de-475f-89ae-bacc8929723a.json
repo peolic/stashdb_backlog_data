@@ -1,3 +1,23 @@
 {
-  "split": {}
+  "split": {
+    "name": "Leanna",
+    "shards": [
+      {
+        "id": null,
+        "name": "Heather Anne Chevalier / Malin Mandell",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=leanna_rk_06/gender=f/leanna.htm",
+          "https://www.indexxx.com/m/malin-mandell"
+        ]
+      },
+      {
+        "id": "b8e7b440-4e38-4c74-9df1-79808055d29b",
+        "name": "Leanna Sweet"
+      }
+    ],
+    "notes": [
+      "Scenes of Leanna Sweet added on Scene-Performers, ",
+      "this performer should be modified to be Performer 1's main."
+    ]
+  }
 }

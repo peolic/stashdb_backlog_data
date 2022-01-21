@@ -1,3 +1,24 @@
 {
-  "split": {}
+  "split": {
+    "name": "Candy Sweets",
+    "shards": [
+      {
+        "id": null,
+        "name": "Candy Sweets (Ebony)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=candysweets/gender=f/candy-sweets.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Candy Sweets (Blonde)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=candysweets_11/gender=f/candy-sweets.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers (only two scenes to separate)"
+    ]
+  }
 }

@@ -1,3 +1,36 @@
 {
-  "split": {}
+  "split": {
+    "name": "Rio",
+    "shards": [
+      {
+        "id": null,
+        "name": "Rio Nunes",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rio_bb_10/gender=f/rio-nunes.htm",
+          "https://www.indexxx.com/m/rio-1"
+        ]
+      },
+      {
+        "id": "98d2597f-a7d4-4bd4-b955-693bd9038543",
+        "name": "Rio Mariah"
+      },
+      {
+        "id": null,
+        "name": "Rio (2003, Kink)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rio_kink/gender=f/rio.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Rio (Russian, 2009)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rio_rus/gender=f/rio.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 4 performers. should make Rio Nunes the main performer. All relevant scenes added to Scene-Performers."
+    ]
+  }
 }

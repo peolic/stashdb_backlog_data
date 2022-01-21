@@ -9,5 +9,27 @@
       "- Scenes listed on Scene-Performers"
     ]
   },
-  "split": {}
+  "split": {
+    "name": "Pleasure",
+    "shards": [
+      {
+        "id": null,
+        "name": "Pleasure",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=pleasure_bb_10/gender=f/pleasure.htm",
+          "https://www.indexxx.com/m/pleasure"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Monai Maebach",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=monaimaebach/gender=f/monai-maebach.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers, 2 scenes listed on Scene-Performers."
+    ]
+  }
 }

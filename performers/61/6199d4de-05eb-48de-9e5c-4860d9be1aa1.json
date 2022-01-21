@@ -1,3 +1,14 @@
 {
-  "split": {}
+  "split": {
+    "name": "Jackie",
+    "shards": [
+      {
+        "id": null,
+        "name": "Nella"
+      }
+    ],
+    "notes": [
+      "Sapphic Erotica scenes = Nella"
+    ]
+  }
 }

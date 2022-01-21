@@ -1,3 +1,33 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lisa C",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lisa Luv (aka Lisa C / Liza Horticu / Lisa Velvet",
+        "notes": [
+          "Known as Lisa C on the Teen Mega World Network of sites",
+          "Image 1 under Lisa C profile is her and needs moving to Lisa Luv, then Liza Horticu & Lisa Velvet need merging in to Lisa Luv"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lisaluv_13/gender=f/lisa-luv.htm",
+          "https://www.indexxx.com/m/lisa-c-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Cameron Cruz (aka Lisa C)",
+        "notes": [
+          "Known as Lisa C on VivThomas website",
+          "Image 2 under Lisa C profile is of her"
+        ],
+        "links": [
+          "https://www.indexxx.com/m/cameron-cruz"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }

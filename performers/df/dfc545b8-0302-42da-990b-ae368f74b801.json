@@ -1,4 +1,19 @@
 {
   "duplicate_of": "48db176b-fed0-478b-bf57-b000f40ea54d",
-  "split": {}
+  "split": {
+    "name": "Peaches",
+    "shards": [
+      {
+        "id": "48db176b-fed0-478b-bf57-b000f40ea54d",
+        "name": "Peaches (Johnson)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=peaches_h_03/gender=f/peaches.htm",
+          "https://www.indexxx.com/m/peaches"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers, seems to be mainly (90-ish-%) Peaches (Johnson)."
+    ]
+  }
 }

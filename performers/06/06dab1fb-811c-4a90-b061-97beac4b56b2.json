@@ -1,3 +1,19 @@
 {
-  "split": {}
+  "split": {
+    "name": "Jynx & Heather",
+    "shards": [
+      {
+        "id": "0e41ebc2-e5a4-4f9b-b6f0-bf0b50c2a1cb",
+        "name": "Jynx Maze (as Jynx)"
+      },
+      {
+        "id": "d26adc3e-65be-4734-ac2d-04d971e4f7d7",
+        "name": "Heather Starlet (as Heather)"
+      }
+    ],
+    "notes": [
+      "Mix of two performers",
+      "[@peolic]: Scene added to Scene-Performers."
+    ]
+  }
 }

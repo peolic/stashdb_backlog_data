@@ -1,3 +1,37 @@
 {
-  "split": {}
+  "split": {
+    "name": "Sydney",
+    "shards": [
+      {
+        "id": "b4880c69-d812-4804-907a-a1246b3d75c7",
+        "name": "Bentley Pierce (Casey James)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=caseyjames_11/gender=f/casey-james.htm",
+          "https://www.indexxx.com/m/bentley-pierce"
+        ]
+      },
+      {
+        "id": "c50a0480-625b-41f3-b57b-3ab32a05b0b8",
+        "name": "Sydney Love (Sydney Shaw)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sydneyshaw/gender=f/sydney-shaw.htm",
+          "https://www.indexxx.com/m/sydney-love"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Sydney [2019, NVG]",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sydney_nvg_2019/gender=f/sydney.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Sydney [2009, Sean Cody]"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers. Mostly Bentley Pierce. Scenes listed on Scene-Performers."
+    ]
+  }
 }

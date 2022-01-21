@@ -1,3 +1,47 @@
 {
-  "split": {}
+  "split": {
+    "name": "Anna",
+    "shards": [
+      {
+        "id": "4180ea77-d154-4469-b308-bac6f29c3de7",
+        "name": "Cleopatra Rios   - 5 scenes listed on scene-performers",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=abbey_russian_09/gender=f/abbey.htm",
+          "https://www.indexxx.com/m/anne-6"
+        ]
+      },
+      {
+        "id": "a0e582a5-0f47-4a56-869e-27e6e9cf45e6",
+        "name": "Lili Fox - 2 scenes listed on scene-performers"
+      },
+      {
+        "id": null,
+        "name": "Anna Kove",
+        "text": "1 scene performer needs to be created",
+        "links": [
+          "https://www.indexxx.com/m/anna-kove",
+          "https://stashdb.org/scenes/2be9a799-d19d-409c-8398-2279b51f50ee"
+        ]
+      },
+      {
+        "id": "8b1e5e6d-3e03-43e4-8832-b404d87623bc",
+        "name": "Ann Marie La Sante",
+        "text": "1 scene listed on scene-performers",
+        "links": [
+          "https://stashdb.org/scenes/6691cc16-9c21-4427-8657-9cc82692ebca"
+        ]
+      },
+      {
+        "id": "ad70938c-3311-4c49-a09b-032eac7958ee",
+        "name": "Abella Anderson",
+        "text": "1 scene listed on scene-performers",
+        "links": [
+          "https://stashdb.org/scenes/3d77cb03-245c-417d-86e2-fda0dd1f94a0"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of many performers, noteably all the Living With Anna scenes are Abella Anderson -done"
+    ]
+  }
 }

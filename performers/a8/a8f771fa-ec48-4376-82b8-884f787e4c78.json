@@ -1,3 +1,27 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lucy Bell",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lucy Bell",
+        "links": [
+          "https://www.indexxx.com/m/lucy-bell"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Lucy Belle",
+        "notes": [
+          "Known as Lucy Bell on RK and Viv Thomas"
+        ],
+        "links": [
+          "https://www.indexxx.com/m/lucy-belle"
+        ]
+      }
+    ],
+    "notes": [
+      "RK & Viv Thomas scenes need moving to Lucy Belle"
+    ]
+  }
 }

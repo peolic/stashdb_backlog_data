@@ -1,3 +1,14 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lexi Fox",
+    "shards": [
+      {
+        "id": null,
+        "name": "Vera King"
+      }
+    ],
+    "notes": [
+      "Mix of two performers. 2018 scenes = Vera King"
+    ]
+  }
 }

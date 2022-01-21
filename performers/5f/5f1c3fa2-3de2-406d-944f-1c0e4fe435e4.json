@@ -1,3 +1,18 @@
 {
-  "split": {}
+  "split": {
+    "name": "Katie Gold",
+    "shards": [
+      {
+        "id": "5f1c3fa2-3de2-406d-944f-1c0e4fe435e4",
+        "name": "Katie Gold"
+      },
+      {
+        "id": "2e87fb0f-de79-4628-b51f-a8ce82b5caaf",
+        "name": "Kattie Gold"
+      }
+    ],
+    "notes": [
+      "Mix of two performers 1997-2009 = Katie Gold; 2012-2016 = Kattie Gold"
+    ]
+  }
 }

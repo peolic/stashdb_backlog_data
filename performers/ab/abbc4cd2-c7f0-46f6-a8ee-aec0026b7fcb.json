@@ -1,3 +1,24 @@
 {
-  "split": {}
+  "split": {
+    "name": "Ollie",
+    "shards": [
+      {
+        "id": null,
+        "name": "Ollie",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rix_activeduty/gender=m/ollie.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Ivanka",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ivanka_rus_10/gender=f/ivanka.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }

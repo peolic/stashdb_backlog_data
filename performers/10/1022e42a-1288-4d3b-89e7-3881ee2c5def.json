@@ -1,3 +1,37 @@
 {
-  "split": {}
+  "split": {
+    "name": "Pamela",
+    "shards": [
+      {
+        "id": null,
+        "name": "Pamela Kayne",
+        "text": "(16 scenes)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=pamela_can/gender=f/pamela-kayne.htm",
+          "https://www.indexxx.com/m/pamela-kayne"
+        ]
+      },
+      {
+        "id": "27548741-985a-4682-8021-e9c87218552e",
+        "name": "Pamela Blond",
+        "text": "(16 scenes)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=pamela_12_hung_blond/gender=f/pamela.htm",
+          "https://www.indexxx.com/m/pamela-blond"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Pamela (ukrainian)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=vika/gender=f/vika.htm",
+          "https://www.indexxx.com/m/pamela"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers",
+      "Performers with scene count added to Scene-Performers."
+    ]
+  }
 }

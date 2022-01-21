@@ -9,5 +9,28 @@
       "https://www.iafd.com/person.rme/perfid=ashtonpierce/gender=f/ashton-pierce.htm"
     ]
   },
-  "split": {}
+  "split": {
+    "name": "Ashton Pierce",
+    "shards": [
+      {
+        "id": null,
+        "name": "Ashton Pierce",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ashtonpierce/gender=f/ashton-pierce.htm",
+          "https://www.indexxx.com/m/ashton-pierce-1"
+        ]
+      },
+      {
+        "id": "48d81666-80e7-4bea-835b-915d42db07f2",
+        "name": "Ashton Monroe",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ashtonmonroe/gender=f/ashton-monroe.htm",
+          "https://www.indexxx.com/m/ashton-pierce"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers. Ashton Monroe's scenes listed on Scene-Performers."
+    ]
+  }
 }

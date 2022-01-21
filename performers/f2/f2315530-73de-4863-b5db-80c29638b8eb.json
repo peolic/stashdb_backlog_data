@@ -1,3 +1,17 @@
 {
-  "split": {}
+  "split": {
+    "name": "Gina",
+    "shards": [
+      {
+        "id": "174c03a1-985a-48e8-8c8c-34bac071b911",
+        "name": "Gina Gerson",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=dorisivy/gender=f/gina-gerson.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (mostly Gina Gerson, the rest are unidentified)"
+    ]
+  }
 }

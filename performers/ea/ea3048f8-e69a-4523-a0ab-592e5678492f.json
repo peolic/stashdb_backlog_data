@@ -1,4 +1,34 @@
 {
   "duplicate_of": "ca6a1141-957a-4f16-b480-6ab8ac122453",
-  "split": {}
+  "split": {
+    "name": "Avy",
+    "shards": [
+      {
+        "id": "ca6a1141-957a-4f16-b480-6ab8ac122453",
+        "name": "Avy Lee Roth",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=avyleeroth/gender=f/avy-lee-roth.htm",
+          "https://www.indexxx.com/m/avy-lee-roth"
+        ]
+      },
+      {
+        "id": "931e3038-ccb3-4d11-896e-611e852718ec",
+        "name": "Avy Scott",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=avyscott/gender=f/avy-scott.htm",
+          "https://www.indexxx.com/m/avy-scott"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Avy [RU, 2009]",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=avy_10_russ/gender=f/avy.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 3 performers. Scenes listed on Scene-Performers."
+    ]
+  }
 }

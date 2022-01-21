@@ -1,3 +1,29 @@
 {
-  "split": {}
+  "split": {
+    "name": "Hunter",
+    "shards": [
+      {
+        "id": null,
+        "name": "Hunter I ?"
+      },
+      {
+        "id": null,
+        "name": "Hunter II (SeanCody) male",
+        "links": [
+          "https://www.waybig.com/blog/tag/hunter-ii-sean-cody/"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Hunter Holzman (Hunter III SeanCody) male"
+      },
+      {
+        "id": null,
+        "name": "at least 2 females"
+      }
+    ],
+    "notes": [
+      "Mix of preformers"
+    ]
+  }
 }

@@ -1,3 +1,36 @@
 {
-  "split": {}
+  "split": {
+    "name": "Athena",
+    "shards": [
+      {
+        "id": null,
+        "name": "Athena (Nubiles) / Amber (Karups)",
+        "text": "4 Nubiles scenes",
+        "links": [
+          "https://www.indexxx.com/m/amber-41"
+        ]
+      },
+      {
+        "id": "937a252a-6fb8-46af-be76-67e0d7c0a7c2",
+        "name": "Venus (czech)",
+        "text": "1 scene",
+        "links": [
+          "https://stashdb.org/scenes/21355a65-9668-4f84-a724-cb1ffa0bda12"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Athena (MetArt) / Galya",
+        "text": "1 scene",
+        "links": [
+          "https://www.indexxx.com/m/athena-3",
+          "https://stashdb.org/scenes/832a8b7c-ceaf-4e02-b14b-27dfff6c12d2"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 4 3 performers., mostly Athena Palomino.",
+      "Venus' scene added to Scene-Performers."
+    ]
+  }
 }

@@ -1,3 +1,36 @@
 {
-  "split": {}
+  "split": {
+    "name": "Tina Lee",
+    "shards": [
+      {
+        "id": null,
+        "name": "Tina Lee",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tinalee/gender=f/tina-lee.htm",
+          "https://www.indexxx.com/m/tina"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Tina Lee 2",
+        "notes": [
+          "Asian performer"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tinalee_11_asian/gender=f/tina-lee.htm",
+          "https://www.indexxx.com/m/tina-lee"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Tina Lee 3",
+        "notes": [
+          "Scoreland performer, not on IAFD or Indexxx"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of three performers"
+    ]
+  }
 }

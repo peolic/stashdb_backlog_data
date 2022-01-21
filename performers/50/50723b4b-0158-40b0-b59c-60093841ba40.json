@@ -1,3 +1,17 @@
 {
-  "split": {}
+  "split": {
+    "name": "Riley",
+    "shards": [
+      {
+        "id": null,
+        "name": "Riley (Sean Cody)",
+        "links": [
+          "https://www.seancody.com/model/55567/riley"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of various performers. (at least 2 Males & Female)"
+    ]
+  }
 }

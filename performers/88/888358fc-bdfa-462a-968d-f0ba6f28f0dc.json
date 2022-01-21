@@ -8,5 +8,40 @@
       "https://www.iafd.com/person.rme/perfid=anarose/gender=f/ana-rose.htm"
     ]
   },
-  "split": {}
+  "split": {
+    "name": "Anna Rose",
+    "shards": [
+      {
+        "id": null,
+        "name": "Anna Rose (CZ)",
+        "notes": [
+          "Perhaps have disambiguation Denisa Deen"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=anarose/gender=f/anna-rose.htm",
+          "https://www.indexxx.com/m/anna-rose-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Anna Rose (2004-05)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=annarose/gender=f/anna-rose.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Anna Rose (RU)",
+        "notes": [
+          "Disambiguation as Met Art"
+        ],
+        "links": [
+          "https://www.indexxx.com/m/anna-rose-1"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers (Anna Rose from Met Art isnt added yet it seems) @peolic: Anna Rose (2004-05)'s scenes added to Scene-Performers (needs to be created)."
+    ]
+  }
 }

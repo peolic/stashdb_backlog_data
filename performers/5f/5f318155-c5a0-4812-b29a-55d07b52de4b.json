@@ -1,3 +1,26 @@
 {
-  "split": {}
+  "split": {
+    "name": "Carla Cruz",
+    "shards": [
+      {
+        "id": null,
+        "name": "Carla Crouz",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=carlacrouz/gender=f/carla-crouz.htm",
+          "https://www.indexxx.com/m/carla-crouz"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Carla Cruz",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=carlacruz/gender=f/carla-cruz.htm",
+          "https://www.indexxx.com/m/carla-cruz"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }

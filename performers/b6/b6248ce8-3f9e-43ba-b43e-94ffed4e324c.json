@@ -1,3 +1,23 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lucy Heart",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lucy Heart"
+      },
+      {
+        "id": null,
+        "name": "Lucy Heart (UK) (Veronica Heart)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lucyheart_uk/gender=f/lucy-heart.htm",
+          "https://www.indexxx.com/m/lucy-heart-2"
+        ]
+      }
+    ],
+    "notes": [
+      "Veronica Heart's Twistys & Babes Scenes need splitting to a new performer with disambiguation Veronica Heart",
+      "[@peolic]: Scenes added to Scene-Performers."
+    ]
+  }
 }

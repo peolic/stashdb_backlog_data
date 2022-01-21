@@ -1,3 +1,33 @@
 {
-  "split": {}
+  "split": {
+    "name": "Laura Lee",
+    "shards": [
+      {
+        "id": null,
+        "name": "Laura Lee",
+        "notes": [
+          "Swiss Performer"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lauralee_09/gender=f/laura-lee.htm",
+          "https://www.indexxx.com/m/laura-lee"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Kirsten Plant (as Laura Lee)",
+        "notes": [
+          "Czech Performer",
+          "as Laura Lee across Porn World Network of sites"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kirstenplant/gender=f/kirsten-plant.htm",
+          "https://www.indexxx.com/m/kirsten-plant"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }

@@ -1,3 +1,39 @@
 {
-  "split": {}
+  "split": {
+    "name": "Aspen",
+    "shards": [
+      {
+        "id": "9d820551-5145-461a-bf57-51304794f767",
+        "name": "Aspen Richardsen",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=aspen_rus_10/gender=f/aspen.htm",
+          "https://www.indexxx.com/m/aspen-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Solomon Aspen (male)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=solomon_chaos/gender=m/solomon-aspen.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "unknown female featured on XL Girls",
+        "links": [
+          "https://www.xlgirls.com/bbw-models/Aspen/343/"
+        ]
+      },
+      {
+        "id": null,
+        "name": "unknown female featured on Backroom Casting Couch",
+        "links": [
+          "https://www.backroomcastingcouch.com/site/models/aspen.html"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two primary performers, Aspen (Richardsen) and (Solomon) Aspen (male/gay)"
+    ]
+  }
 }

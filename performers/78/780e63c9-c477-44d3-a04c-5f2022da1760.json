@@ -1,3 +1,25 @@
 {
-  "split": {}
+  "split": {
+    "name": "Vincent Vega",
+    "shards": [
+      {
+        "id": null,
+        "name": "Vincent Vega [RU]",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=arty_12_russ_21sex/gender=m/arty.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Vincent Vega [US]",
+        "text": "(Naughty America network)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=vincentvega/gender=m/vincent-vega.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers."
+    ]
+  }
 }

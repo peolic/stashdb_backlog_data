@@ -1,3 +1,35 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lily Love",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lily Love (American) - -",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lilylove_12/gender=f/lily-love.htm",
+          "https://www.indexxx.com/m/lily-love"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Lily Love (Mexican)",
+        "text": "(4 scenes)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lilylove_mex/gender=f/lily-love.htm"
+        ]
+      },
+      {
+        "id": "a03832e1-a99b-42c8-8626-ce0c343a4bd8",
+        "name": "Gilda Roberts - -",
+        "text": "(1 scene)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lilylove_h/gender=f/lily-love.htm",
+          "https://www.indexxx.com/m/gilda-roberts"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 3 performers. Scenes added to Scene-Performers."
+    ]
+  }
 }

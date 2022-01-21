@@ -1,3 +1,27 @@
 {
-  "split": {}
+  "split": {
+    "name": "Riley Grey",
+    "shards": [
+      {
+        "id": null,
+        "name": "Riley Grey",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rileygrey/gender=f/riley-grey.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Riley Grey (sunflower)",
+        "text": "a.k.a. Madison Mills The BFFs Scene is by a different actor with the same name",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rileygrey_sunflower/gender=f/riley-grey.htm",
+          "https://stashdb.org/scenes/f8a0b464-399f-40e1-94c8-a03840df11cb",
+          "https://seehimfuck.com/models/riley-grey.html"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 2 performers"
+    ]
+  }
 }

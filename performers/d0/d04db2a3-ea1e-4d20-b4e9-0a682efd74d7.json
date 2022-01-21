@@ -1,3 +1,14 @@
 {
-  "split": {}
+  "split": {
+    "name": "Pocahontas",
+    "shards": [
+      {
+        "id": "f73686fd-fe8f-418b-adb5-912bb770655e",
+        "name": "Pokahontas"
+      }
+    ],
+    "notes": [
+      "2 performers. Black one already has another entry: Pokahontas"
+    ]
+  }
 }

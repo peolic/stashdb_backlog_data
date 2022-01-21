@@ -1,3 +1,28 @@
 {
-  "split": {}
+  "split": {
+    "name": "Sophie Rose",
+    "shards": [
+      {
+        "id": null,
+        "name": "Sophie Rose (XL Girls)",
+        "notes": [
+          "nothing on IAFD or Indexxx about her, has two scenes on XL Girls"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Heather Harris (as Sophie Rose)",
+        "notes": [
+          "on Sapphic Erotica as Sophie Rose, so needs moving to Heather Harris"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=heatherharris/gender=f/heather-harris.htm",
+          "https://www.indexxx.com/m/heather-harris"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }

@@ -1,3 +1,27 @@
 {
-  "split": {}
+  "split": {
+    "name": "Carla Novais",
+    "shards": [
+      {
+        "id": null,
+        "name": "Carla Novais",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=carlanovais/gender=f/carla-novais.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Carla Novaes",
+        "notes": [
+          "TS Performer"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=carlanovais_ts/gender=f/carla-novaes.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers (only two scenes to separate)"
+    ]
+  }
 }

@@ -1,3 +1,17 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lucky A",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lucie Theodorova",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=luciet/gender=f/lucie-theodorova.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "2 performers: One TS, the other one is Lucie Theodorova aka Lucky"
+    ]
+  }
 }

@@ -1,3 +1,24 @@
 {
-  "split": {}
+  "split": {
+    "name": "Heather Lee",
+    "shards": [
+      {
+        "id": null,
+        "name": "Heather Lee [1990s]",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=heatherl/gender=f/heather-lee.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Heather Lee [2012]",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=heatherlee_12/gender=f/heather-lee.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers. 2012's scenes listed on Scene-Performers."
+    ]
+  }
 }

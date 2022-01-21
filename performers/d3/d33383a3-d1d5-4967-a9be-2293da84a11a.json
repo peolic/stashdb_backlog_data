@@ -1,3 +1,29 @@
 {
-  "split": {}
+  "split": {
+    "name": "C.J.",
+    "shards": [
+      {
+        "id": null,
+        "name": "C.J. (Romanian - shaved head)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=cj_rom/gender=f/c.j..htm",
+          "https://www.indexxx.com/m/cj-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "C.J. Sullivan",
+        "notes": [
+          "as C.J. on Hogtied",
+          "Images 1 & 2 under C.J. are her"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=cjsullivan/gender=f/c.j.-sullivan.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }

@@ -1,3 +1,36 @@
 {
-  "split": {}
+  "split": {
+    "name": "Mia Rose",
+    "shards": [
+      {
+        "id": null,
+        "name": "Mia Rose (US)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=miarose/gender=f/mia-rose.htm",
+          "https://www.indexxx.com/m/mia-rose",
+          "https://twitter.com/miarosexxx"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Mia Rose (CZ)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=miarose_cz/gender=f/mia-rose.htm",
+          "https://www.indexxx.com/m/mia-rose-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Mia Rose (UK? SexArt)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=miarose_red/gender=f/mia-rose.htm",
+          "https://www.indexxx.com/m/mia-rose-1",
+          "https://www.thenude.com/Mia%20Rose_49270.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers."
+    ]
+  }
 }

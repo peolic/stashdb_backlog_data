@@ -1,3 +1,14 @@
 {
-  "split": {}
+  "split": {
+    "name": "Nessa A",
+    "shards": [
+      {
+        "id": null,
+        "name": "Nessa Devil"
+      }
+    ],
+    "notes": [
+      "Mix of two performers.One of them = Nessa Devil"
+    ]
+  }
 }

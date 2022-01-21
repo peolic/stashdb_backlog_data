@@ -1,3 +1,18 @@
 {
-  "split": {}
+  "split": {
+    "name": "Verunka",
+    "shards": [
+      {
+        "id": "2c96dea2-444e-4c73-8cde-711773cab2c3",
+        "name": "Veronika Fasterova (as Verunka)"
+      },
+      {
+        "id": "bf3f454b-967a-4a8b-8a43-ce64a3298e69",
+        "name": "Paulina Seikola (as Verunka)"
+      }
+    ],
+    "notes": [
+      "Mix of 2 performers."
+    ]
+  }
 }

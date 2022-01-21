@@ -1,3 +1,38 @@
 {
-  "split": {}
+  "split": {
+    "name": "Charley",
+    "shards": [
+      {
+        "id": null,
+        "name": "Holly Henderson",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=holly_11/gender=f/holly-henderson.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Sahara Sky",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=charley_bcc_19/gender=f/sahara-skye.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Charley Daniels",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=charleydaniels/gender=f/charley-daniels.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Charley",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=charley_seancody/gender=m/charley.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of several performers"
+    ]
+  }
 }

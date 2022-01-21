@@ -1,3 +1,19 @@
 {
-  "split": {}
+  "split": {
+    "name": "Lily & Keisha",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lily Love"
+      },
+      {
+        "id": null,
+        "name": "Keisha Grey"
+      }
+    ],
+    "notes": [
+      "Mix of two performers",
+      "[@peolic]: Scene already added to Scene-Performers."
+    ]
+  }
 }

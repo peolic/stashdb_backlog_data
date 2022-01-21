@@ -1,3 +1,24 @@
 {
-  "split": {}
+  "split": {
+    "name": "Sabrina Snow",
+    "shards": [
+      {
+        "id": "634221c8-f97c-4971-b876-4396a13ce060",
+        "name": "Sabrina Snow  (0 scenes)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sabrinasnow/gender=f/sabrina-snow.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Alex Kane (AKA Sabrina Snow)  (2 scenes)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sabrinasnow2/gender=f/alex-kane.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Two scenes belong to younger performer with the same name. The existing performer data is valid, but that performer does not seem to have any scenes in the database at the moment. The younger performer is not in the database as a separate entry."
+    ]
+  }
 }

@@ -1,4 +1,19 @@
 {
   "duplicate_of": "e41ee97b-440b-4e12-a052-88cd9ea64541",
-  "split": {}
+  "split": {
+    "name": "Jessie",
+    "shards": [
+      {
+        "id": "e41ee97b-440b-4e12-a052-88cd9ea64541",
+        "name": "Empera",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=empera/gender=f/empera.htm",
+          "https://www.indexxx.com/m/empera"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers. Some scenes listed on Scene-Performers."
+    ]
+  }
 }

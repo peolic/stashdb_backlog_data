@@ -1,3 +1,24 @@
 {
-  "split": {}
+  "split": {
+    "name": "Alice Black",
+    "shards": [
+      {
+        "id": null,
+        "name": "Alice Black",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=aliceblack/gender=f/alice-black.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Lucie",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lucie_13_cz_blkhr/gender=f/lucie.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
 }
