@@ -15,21 +15,5 @@
       "hash": "a952c8c7908fdfd0",
       "correct_scene_id": null
     }
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "5e7cff44-7656-434a-bee2-2ce3e0f1630d",
-        "name": "Aria",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "5912c855-e864-4c85-9bd7-ce7d1551f489",
-        "name": "Aria Sky",
-        "appearance": "Aria"
-      }
-    ]
-  }
+  ]
 }
