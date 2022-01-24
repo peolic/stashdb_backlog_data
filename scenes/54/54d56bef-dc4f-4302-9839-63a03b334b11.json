@@ -3,21 +3,8 @@
     "https://www.iafd.com/title.rme/title=blacks+on+blondes%3A+dallas/year=2010/blacks_on_blondes%3A_dallas.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "e40954bf-e1b5-417c-a539-0c92fa1fcecc",
-        "name": "Dallas",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": null,
-        "name": "Shelbie Layne",
-        "appearance": "Dallas",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=shelbielyane/gender=f/shelbie-layne.htm"
-      },
       {
         "id": "11c5b191-ae82-4282-bdad-8bdd215cfebe",
         "name": "Flash Brown",
