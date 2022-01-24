@@ -1,14 +1,25 @@
 {
   "comments": [
-    "https://www.indexxx.com/m/iza-ashley"
+    "https://www.indexxx.com/set/907994/young-anal-tryouts-vera-alina/"
   ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "18f11050-6269-4c4d-b97c-6cb4e90d1035",
+        "name": "Vera",
+        "appearance": null
+      }
+    ],
     "append": [
       {
-        "id": "4bfcb213-1ed8-40b8-8ac0-1dc82353efee",
-        "name": "Izi",
+        "id": "910d8ca1-59dc-4c0f-b214-b6f5c3b4fa6a",
+        "name": "Izi Ashley",
         "appearance": "Alina"
+      },
+      {
+        "id": "e5612c0d-5e18-4e54-8be7-4d82fdbc3689",
+        "name": "Adelle Booty",
+        "appearance": "Vera"
       }
     ]
   }
