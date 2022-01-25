@@ -54,6 +54,16 @@
       "algorithm": "phash",
       "hash": "befcf3a0f088e301",
       "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "a8506036705f894f",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "cd476fbb456520a4",
+      "correct_scene_id": null
     }
   ]
 }

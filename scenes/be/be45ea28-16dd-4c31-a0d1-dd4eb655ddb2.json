@@ -1,6 +1,11 @@
 {
   "fingerprints": [
     {
+      "algorithm": "md5",
+      "hash": "d5b8f09ee1eddd39a352649c13ef483f",
+      "correct_scene_id": "c6ae1324-5ba5-4fd8-b58d-ecdcc88ac6f6"
+    },
+    {
       "algorithm": "oshash",
       "hash": "1d3d415e594d8ec7",
       "correct_scene_id": "c6ae1324-5ba5-4fd8-b58d-ecdcc88ac6f6"
