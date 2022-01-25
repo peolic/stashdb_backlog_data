@@ -1,18 +1,6 @@
 {
   "comments": [
-    "https://i40.fastpic.org/big/2012/0904/03/6509d57c1a195da1c4579245218f1c03.jpg",
-    "https://www.iafd.com/title.rme/title=little+girl+big+packages/year=2012/little-girl-big-packages.htm",
-    "https://www.iafd.com/title.rme/title=big+packages/year=2012/big-packages.htm"
+    "https://i40.fastpic.org/big/2012/0904/03/6509d57c1a195da1c4579245218f1c03.jpg"
   ],
-  "duration": "2746",
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "c0beb384-459a-49e2-9a71-bf91fc2cd25e",
-        "name": "Bruno Dickens",
-        "appearance": null
-      }
-    ]
-  }
+  "duration": "2746"
 }
