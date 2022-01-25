@@ -1,20 +1,16 @@
 {
   "comments": [
-    "https://www.iafd.com/title.rme/title=let+all+fingers+do+the+walking/year=2011/let-all-fingers-do-the-walking.htm"
+    "https://www.indexxx.com/set/340065/twistys-casey-james/"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "ec679601-50c8-444c-bc6a-6000dfd792ca",
-        "name": "Sydney",
-        "appearance": null
-      }
-    ],
-    "append": [
+    "remove": [],
+    "append": [],
+    "update": [
       {
         "id": "b4880c69-d812-4804-907a-a1246b3d75c7",
         "name": "Bentley Pierce",
-        "appearance": "Casey James"
+        "appearance": "Casey James",
+        "old_appearance": "Sydney"
       }
     ]
   }

@@ -17,12 +17,10 @@
         "appearance": "Sydney"
       },
       {
-        "id": null,
+        "id": "0fc01213-e001-449a-954d-eb3748118e64",
         "name": "Mojito",
         "appearance": null,
-        "disambiguation": "Bang Bros",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=mojito_bangbros/gender=m/mojito.htm"
+        "disambiguation": "Bang Bros"
       }
     ]
   }

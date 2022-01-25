@@ -6,11 +6,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "199ea196-fc84-4794-aebb-d63412a4a010",
         "name": "Barbie Bangs",
-        "appearance": null,
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/e3b5403b-4ae1-4362-a1a4-bd681e4a387b"
+        "appearance": null
       }
     ]
   }
