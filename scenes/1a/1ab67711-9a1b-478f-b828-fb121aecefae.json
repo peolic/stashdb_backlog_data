@@ -12,15 +12,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "4e2343a8-d60a-4049-9443-cd8c7ad8af97",
         "name": "Lucy Heart",
         "appearance": null,
-        "disambiguation": "UK",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lucyheart_uk/gender=f/lucy-heart.htm",
-        "notes": [
-          "https://www.indexxx.com/m/lucy-heart-2"
-        ]
+        "disambiguation": "UK"
       }
     ]
   }
