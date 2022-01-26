@@ -8,7 +8,10 @@
         "id": "5ebac1af-9986-490c-9a5d-ed250608f475",
         "name": "Johanna Joobiez",
         "appearance": null,
-        "status": "merge"
+        "status": "merge",
+        "notes": [
+          "merge into Lin Lee once the other scene is moved"
+        ]
       }
     ],
     "append": [
