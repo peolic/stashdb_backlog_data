@@ -24,6 +24,11 @@
       "algorithm": "md5",
       "hash": "56f67206236452f4a64c513c3c22ec89",
       "correct_scene_id": null
+    },
+    {
+      "algorithm": "phash",
+      "hash": "c25462db9501e37f",
+      "correct_scene_id": null
     }
   ]
 }
