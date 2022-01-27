@@ -1,27 +1,12 @@
 {
-  "c_studio": [
-    "Exploited College Girls",
-    null
-  ],
   "duplicates": [
     "c5f4be92-101f-41d3-bda0-e19036cca428"
   ],
-  "duration": "3625",
   "fingerprints": [
     {
       "algorithm": "oshash",
       "hash": "f01e88d72179b3d5",
       "correct_scene_id": "5f9a889f-2a9c-446e-bc9e-bbd9b1ccd6c7"
     }
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "a1aaf2e9-5519-4dc8-a52c-8c364545c805",
-        "name": "J. Jay",
-        "appearance": "Jay"
-      }
-    ]
-  }
+  ]
 }

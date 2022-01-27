@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "58da729f-127d-451c-a649-e5054341e34d",
         "name": "Sophia",
         "appearance": null,
-        "disambiguation": "2016-18, ExCoGi & Net Girl",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=sophia_excogi_1653/gender=f/sophia.htm"
+        "disambiguation": "2016 ExCoGi"
       },
       {
         "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
