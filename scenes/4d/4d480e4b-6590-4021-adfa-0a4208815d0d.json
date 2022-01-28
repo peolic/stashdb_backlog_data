@@ -2,12 +2,12 @@
   "fingerprints": [
     {
       "algorithm": "oshash",
-      "hash": "3a5ec9c6b2d300be",
+      "hash": "78f601617bfa20e7",
       "correct_scene_id": null
     },
     {
       "algorithm": "phash",
-      "hash": "887aa3a57ad325a9",
+      "hash": "e3e3a1988289f2f5",
       "correct_scene_id": null
     }
   ]

@@ -4,30 +4,8 @@
       "c9dc21fe-fc6c-474a-b5cf-b2831c4cb31f"
     ],
     "notes": [
-      "Main performer needs to be split before merging, and a disambiguation (Hungary) needs to be added to it."
-    ]
-  },
-  "split": {
-    "name": "Leda",
-    "shards": [
-      {
-        "id": null,
-        "name": "Leda (Hungary)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=leda_12_hung/gender=f/leda.htm",
-          "https://www.indexxx.com/m/leda-1"
-        ]
-      },
-      {
-        "id": "218c5bc0-fe10-441e-83ea-dfd82d043364",
-        "name": "Emma Brown",
-        "links": [
-          "https://www.indexxx.com/m/emma-brown"
-        ]
-      }
-    ],
-    "notes": [
-      "Most scenes are of Leda (Hungary), Emma Brown's scenes confirmed by Indexxx, spotted by werterger on Discord"
+      "Main performer should be unique now (needed to be split).",
+      "A disambiguation (HU for Hungarian) needs to be added to it."
     ]
   }
 }
