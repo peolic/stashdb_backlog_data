@@ -1,0 +1,18 @@
+{
+  "split": {
+    "name": "Ramon (2001-2021, BangBros)",
+    "shards": [
+      {
+        "id": null,
+        "name": "Ramon Monstercock (main)"
+      },
+      {
+        "id": null,
+        "name": "Ramon (2002, Sean Cody)"
+      }
+    ],
+    "notes": [
+      "One scene to split out"
+    ]
+  }
+}
