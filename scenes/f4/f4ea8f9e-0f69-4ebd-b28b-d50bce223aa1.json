@@ -4,7 +4,7 @@
     null
   ],
   "comments": [
-    "https://www.iafd.com/title.rme/title=manual+labor+%28ii%29/year=2007/manual_labor_%28ii%29.htm"
+    "https://www.iafd.com/title.rme/title=bone+raider/year=2004/bone-raider.htm"
   ],
   "performers": {
     "remove": [
@@ -16,9 +16,12 @@
     ],
     "append": [
       {
-        "id": "e0bb7ee7-e2d4-43b0-abfe-5de0739c09b5",
-        "name": "Brooke Scott",
-        "appearance": "Brook"
+        "id": null,
+        "name": "Brooke Banks",
+        "appearance": "Brook",
+        "disambiguation": "2004",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=brookebanks/gender=f/brooke-banks.htm"
       }
     ]
   }
