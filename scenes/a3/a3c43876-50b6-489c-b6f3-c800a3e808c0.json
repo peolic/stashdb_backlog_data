@@ -17,11 +17,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "793c0a35-037d-4f5a-9e77-b2c4ff425b9b",
         "name": "Lieng Lu",
-        "appearance": "Nari",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/7065428b-77e4-4adc-b6e6-790acac46e76"
+        "appearance": "Nari"
       }
     ]
   }
