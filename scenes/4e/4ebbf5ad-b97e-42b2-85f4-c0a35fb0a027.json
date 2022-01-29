@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "3e84bdb5-64f3-41c2-b121-0815aa996a36",
         "name": "Angelica Meow",
-        "appearance": "Angelica",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/73a1beed-0b01-44da-aa33-dc08a7e205e5"
+        "appearance": "Angelica"
       }
     ]
   }
