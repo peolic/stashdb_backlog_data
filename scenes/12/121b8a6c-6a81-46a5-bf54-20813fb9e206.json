@@ -1,26 +1,3 @@
 {
-  "c_studio": [
-    "Tricky Old Teacher",
-    null
-  ],
-  "comments": [
-    "https://www.indexxx.com/set/910497/tricky-old-teacher-masha/"
-  ],
-  "image": "http://img4.thepluginz.com/paysite/23/trickyoldteacher_025/set/big.jpg",
-  "performers": {
-    "remove": [
-      {
-        "id": "b18650fc-c42b-4361-9831-4f3ce0ea075d",
-        "name": "Masha",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "ad171f8c-2367-4f98-9691-c2b23fe4235a",
-        "name": "Monica C",
-        "appearance": "Masha"
-      }
-    ]
-  }
+  "image": "http://img4.thepluginz.com/paysite/23/trickyoldteacher_025/set/big.jpg"
 }

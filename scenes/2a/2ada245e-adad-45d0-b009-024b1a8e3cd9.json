@@ -7,23 +7,8 @@
     "https://www.iafd.com/title.rme/title=beautiful+vietnamese+patient+gives+doctor+a+sexual+reward+for+his+services/year=2015/beautiful-vietnamese-patient-gives-doctor-a-sexual-reward-for-his-services.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "5ebac1af-9986-490c-9a5d-ed250608f475",
-        "name": "Johanna Joobiez",
-        "appearance": null,
-        "status": "merge",
-        "notes": [
-          "merge into Lin Lee once the other scene is moved"
-        ]
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "65d04ef1-46d7-43e6-b5a7-829c52f781e4",
-        "name": "Lin Lee",
-        "appearance": "Johanna Joobiez"
-      },
       {
         "id": "86b86682-4794-4f3c-b048-f9d3d1389c48",
         "name": "George Uhl",

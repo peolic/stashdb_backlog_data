@@ -1,21 +1,6 @@
 {
-  "c_studio": [
-    "Big Naturals",
-    null
-  ],
   "comments": [
-    "Probably not the original image, but it's something instead of nothing",
-    "https://www.javbus.org/en/BIGNATURALS-03-04-14"
+    "Probably not the original image, but it's something instead of nothing"
   ],
-  "image": "https://images.javbus.org/bigsample/cf_b_4.jpg",
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
-        "name": "Shawn Rees",
-        "appearance": "Hunter"
-      }
-    ]
-  }
+  "image": "https://images.javbus.org/bigsample/cf_b_4.jpg"
 }
