@@ -12,11 +12,6 @@
         "id": "22eb6409-3a8a-4c46-9504-58e7c49f6fb8",
         "name": "Riley Anne",
         "appearance": null
-      },
-      {
-        "id": "f24c9aa5-9f30-47c4-bdab-da09bde3dbe9",
-        "name": "Sara James",
-        "appearance": null
       }
     ],
     "append": [
@@ -24,11 +19,6 @@
         "id": "fe6332ae-d119-4e0f-a253-08fb50e6456e",
         "name": "Riley Jensen",
         "appearance": "Riley Anne"
-      },
-      {
-        "id": "5c030907-4949-4198-8af0-0eb5deddcacf",
-        "name": "Sara Jaymes",
-        "appearance": "Sara James"
       }
     ]
   }
