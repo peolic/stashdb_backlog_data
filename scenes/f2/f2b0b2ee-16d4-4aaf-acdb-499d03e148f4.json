@@ -12,11 +12,6 @@
         "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
         "name": "Mike",
         "appearance": null
-      },
-      {
-        "id": "112eaf62-8782-4cbc-8cfb-4bcbec18111a",
-        "name": "Friday",
-        "appearance": null
       }
     ],
     "append": [
@@ -24,13 +19,6 @@
         "id": "a311ff77-1978-445d-a79f-0279d7c0bfe1",
         "name": "Mike Adriano",
         "appearance": "Mike"
-      },
-      {
-        "id": null,
-        "name": "Linda Friday",
-        "appearance": "Friday",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=friday/gender=f/friday.htm"
       }
     ]
   },
