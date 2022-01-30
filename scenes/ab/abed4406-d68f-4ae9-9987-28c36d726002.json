@@ -1,22 +1,5 @@
 {
-  "c_studio": [
-    "18 Years Old",
-    null
-  ],
-  "comments": [
-    "http://www.data18.com/content/1134399"
-  ],
   "duplicates": [
     "b1236d0d-088f-4fc1-8f17-285f64c784ba"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "fd5ad517-21d0-4843-9579-a27b57611cca",
-        "name": "Tommy Gunn",
-        "appearance": null
-      }
-    ]
-  }
+  ]
 }

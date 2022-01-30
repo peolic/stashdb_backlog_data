@@ -1,27 +1,5 @@
 {
-  "c_studio": [
-    "Daughter Swap",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=girl+scout+goodies/year=2020/girl-scout-goodies.htm"
-  ],
   "duplicates": [
     "d0665045-aa92-472f-ac43-5fbfa0f2487a"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "bd464bc8-a92a-4715-85a5-bc90b1c3cb6d",
-        "name": "Bobby Beefcake",
-        "appearance": "Bobby Beefcakes"
-      },
-      {
-        "id": "2e6ac0d5-8c89-481f-af9e-ecd8d99dcac2",
-        "name": "Quinton James",
-        "appearance": null
-      }
-    ]
-  }
+  ]
 }
