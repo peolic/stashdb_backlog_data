@@ -3,6 +3,9 @@
     "Casting Couch-HD",
     null
   ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1878%3a+cindy/year=2019/castingcouch%2dhd-1878-cindy.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -22,7 +25,10 @@
         "name": "Channy Crossfire",
         "appearance": "Cindy",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=channycrossfire/gender=f/channy-crossfire.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=channycrossfire/gender=f/channy-crossfire.htm",
+        "notes": [
+          "http://www.atkmodels.com/blog/models/channy-crossfire/"
+        ]
       }
     ]
   }
