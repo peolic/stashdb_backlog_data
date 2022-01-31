@@ -4,6 +4,11 @@
       "algorithm": "phash",
       "hash": "84c76fe6c452a98b",
       "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "233123db74cbe625",
+      "correct_scene_id": null
     }
   ]
 }

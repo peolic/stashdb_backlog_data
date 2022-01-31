@@ -14,6 +14,11 @@
       "algorithm": "oshash",
       "hash": "c38a17a79bba8660",
       "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "47b3d6d3cc99aac5",
+      "correct_scene_id": null
     }
   ]
 }
