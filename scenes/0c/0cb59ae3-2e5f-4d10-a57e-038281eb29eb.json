@@ -9,11 +9,6 @@
       "algorithm": "oshash",
       "hash": "e52f7059c7d4ea34",
       "correct_scene_id": "0bddeee2-9888-4270-aaaa-3ab3c12621a7"
-    },
-    {
-      "algorithm": "phash",
-      "hash": "ae2f084c4503dbdf",
-      "correct_scene_id": "0bddeee2-9888-4270-aaaa-3ab3c12621a7"
     }
   ]
 }
