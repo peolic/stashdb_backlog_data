@@ -8,19 +8,8 @@
     "Ep 2016-09-08...NG...Bell and Eliza + Tyler"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "239c5290-89b1-409f-b970-4f06408f6762",
-        "name": "Eliza",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "cf3e9866-fad2-4b5c-a146-5b825488b42f",
-        "name": "Eliza Jane",
-        "appearance": "Eliza"
-      },
       {
         "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
         "name": "Tyler D.",
