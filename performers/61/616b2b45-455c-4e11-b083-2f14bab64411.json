@@ -1,0 +1,30 @@
+{
+  "split": {
+    "name": "Goldie",
+    "shards": [
+      {
+        "id": "6362abe8-f2c5-440b-8de2-0dfadf266381",
+        "name": "Goldie Baby"
+      },
+      {
+        "id": "e5dd4d70-6aa8-4c43-87b8-3a122fb14436",
+        "name": "Goldie Blair"
+      },
+      {
+        "id": "72a24214-ebdf-4a2b-ad9a-6855760799aa",
+        "name": "Goldie Glock"
+      },
+      {
+        "id": null,
+        "name": "Goldie E",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=goldie_10_cz/gender=f/goldie.htm",
+          "https://www.indexxx.com/m/goldie-1"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multuple"
+    ]
+  }
+}
