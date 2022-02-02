@@ -7,29 +7,8 @@
     "https://www.iafd.com/title.rme/title=net+girl+1441%3a+lillian+and+carmen/year=2018/net_girl_1441%3a_lillian_and_carmen.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "6a1a7e94-9011-4d13-8a4c-2248f76a9b59",
-        "name": "Lillian",
-        "appearance": null
-      },
-      {
-        "id": "0d216d2c-f738-45e4-a834-0a8c51849b90",
-        "name": "Carmen",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "06a48e71-bc53-45ae-9937-12817d4d8a11",
-        "name": "Lilian Stone",
-        "appearance": "Lillian"
-      },
-      {
-        "id": "8594a3a2-27a6-411a-bf96-90d551a31996",
-        "name": "Karmen Santana",
-        "appearance": "Carmen"
-      },
       {
         "id": "408adfb8-ff95-4e8f-bb05-f030c7865e30",
         "name": "Ryan",

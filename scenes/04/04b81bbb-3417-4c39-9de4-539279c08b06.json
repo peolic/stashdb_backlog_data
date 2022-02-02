@@ -12,24 +12,8 @@
         "id": "9b27b55b-0257-4555-856d-ee36b3af1c3c",
         "name": "Helen B",
         "appearance": null
-      },
-      {
-        "id": "239c5290-89b1-409f-b970-4f06408f6762",
-        "name": "Eliza",
-        "appearance": null
       }
     ],
-    "append": [
-      {
-        "id": "10aea0a9-4abc-4a9d-bd89-a6724e917219",
-        "name": "Grace Young",
-        "appearance": "Helen"
-      },
-      {
-        "id": "11610326-6b2f-46e2-9f1d-6bdba03df57e",
-        "name": "Liza Shay",
-        "appearance": "Eliza"
-      }
-    ]
+    "append": []
   }
 }
