@@ -1,0 +1,32 @@
+{
+  "c_studio": [
+    "Sex Video Casting",
+    null
+  ],
+  "comments": [
+    "https://www.indexxx.com/set/467362/sex-video-casting-goldie/",
+    "https://www.iafd.com/title.rme/title=goal+time/year=2012/goal-time.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "616b2b45-455c-4e11-b083-2f14bab64411",
+        "name": "Goldie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Goldie",
+        "appearance": null,
+        "disambiguation": "2012, Sex Video Casting",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/goldie-5",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=goldie_ddf/gender=f/goldie.htm"
+        ]
+      }
+    ]
+  }
+}

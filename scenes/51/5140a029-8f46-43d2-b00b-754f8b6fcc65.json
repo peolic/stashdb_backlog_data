@@ -11,7 +11,8 @@
       {
         "id": "616b2b45-455c-4e11-b083-2f14bab64411",
         "name": "Goldie",
-        "appearance": null
+        "appearance": null,
+        "status": "edit"
       }
     ],
     "append": [
