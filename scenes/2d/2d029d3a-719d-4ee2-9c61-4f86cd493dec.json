@@ -12,11 +12,6 @@
         "id": "89592b60-3026-42fd-9e01-de37e9d7d4a9",
         "name": "Sierra",
         "appearance": null
-      },
-      {
-        "id": "3f538f81-fd28-403d-87f8-0da132453455",
-        "name": "Vicki",
-        "appearance": null
       }
     ],
     "append": [
@@ -24,11 +19,6 @@
         "id": "6ff51895-1d40-46af-803c-fb75d5b6367e",
         "name": "Sierra Day",
         "appearance": "Sierra"
-      },
-      {
-        "id": "ee24bc4d-6b9a-45ff-b8f4-c182e171e860",
-        "name": "Vicki Chase",
-        "appearance": "Vicki"
       }
     ]
   }
