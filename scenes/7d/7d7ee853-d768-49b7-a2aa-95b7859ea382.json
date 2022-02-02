@@ -21,10 +21,11 @@
         "name": "Goldie",
         "appearance": null,
         "disambiguation": "2004, Pix & Video",
-        "status": "new",
-        "status_url": "https://www.indexxx.com/m/goldie",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/fed5fbc0-b47c-4c32-9895-2490dc2de021",
         "notes": [
-          "https://www.iafd.com/person.rme/perfid=goldie_04_21sextury/gender=f/goldie.htm"
+          "https://www.iafd.com/person.rme/perfid=goldie_04_21sextury/gender=f/goldie.htm",
+          "https://www.indexxx.com/m/goldie"
         ]
       }
     ]
