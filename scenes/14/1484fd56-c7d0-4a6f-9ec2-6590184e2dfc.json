@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "9f781156-be85-4e90-bfb3-288c09a431be",
         "name": "Starrio",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=um567763/gender=m/starrio.htm"
+        "appearance": null
       }
     ]
   }

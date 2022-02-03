@@ -1,19 +1,5 @@
 {
-  "c_studio": [
-    "Passion HD",
-    null
-  ],
   "duplicates": [
     "6da4134f-53f1-4273-bd09-c9727cdd02fd"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
-        "name": "Johnny Castle",
-        "appearance": null
-      }
-    ]
-  }
+  ]
 }

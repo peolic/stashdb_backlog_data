@@ -1,19 +1,5 @@
 {
-  "c_studio": [
-    "Teen BFF",
-    null
-  ],
   "duplicates": [
     "8dd88f08-78fa-40d7-aca8-9208436c94ac"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "9f5a6b5e-2add-41dc-ba5d-65dcbd3b431c",
-        "name": "Johnny Castle",
-        "appearance": null
-      }
-    ]
-  }
+  ]
 }
