@@ -1,19 +1,5 @@
 {
-  "c_studio": [
-    "Teen BFF",
-    null
-  ],
   "duplicates": [
     "a748dd2c-64e6-49b0-a813-90a4e93ccc2a"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "816ea58e-7ae6-41aa-84af-f3b40b5595e2",
-        "name": "Preston Parker",
-        "appearance": null
-      }
-    ]
-  }
+  ]
 }

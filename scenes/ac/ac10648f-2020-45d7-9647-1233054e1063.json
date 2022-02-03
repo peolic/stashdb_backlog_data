@@ -1,20 +1,6 @@
 {
-  "c_studio": [
-    "Teen BFF",
-    null
-  ],
   "duplicates": [
     "9d458454-e8dc-4692-9294-715e51fb25c2",
     "e7a1f433-1aec-4afd-b607-8e59b31eb035"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": "7d564c9b-93ff-49f5-aceb-607b878e0057",
-        "name": "Bruce Venture",
-        "appearance": null
-      }
-    ]
-  }
+  ]
 }
