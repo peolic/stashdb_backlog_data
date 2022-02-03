@@ -1,0 +1,24 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "oshash",
+      "hash": "2253b13a2bc6c4fe",
+      "correct_scene_id": "e93fadb9-2ebd-4d31-b112-5b3e3affd428"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "30aa78ae99f864c8",
+      "correct_scene_id": "e93fadb9-2ebd-4d31-b112-5b3e3affd428"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "75951c998272c7f6",
+      "correct_scene_id": "e93fadb9-2ebd-4d31-b112-5b3e3affd428"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "a5bc73fe438402ae",
+      "correct_scene_id": "e93fadb9-2ebd-4d31-b112-5b3e3affd428"
+    }
+  ]
+}
