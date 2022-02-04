@@ -3,26 +3,33 @@
     "name": "Brooklyn",
     "shards": [
       {
-        "id": "11610326-6b2f-46e2-9f1d-6bdba03df57e",
-        "name": "Liza Shay",
-        "text": "(11 scenes)"
-      },
-      {
         "id": null,
         "name": "Brooklyn Rhodes (2004-06)",
-        "text": "(1 scene)",
         "links": [
           "https://www.iafd.com/person.rme/perfid=brooklynrhodes05/gender=f/brooklyn-rhodes.htm"
         ]
       },
       {
         "id": null,
-        "name": "? Unidentified scenes"
+        "name": "Brooklyn (Armenian 2002-7)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brooklynn02/gender=f/brooklynn.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Brooklyn (2005, White Ghetto)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brooklyn_bl_05/gender=f/brooklyn.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "3 Unidentified BRCC scenes"
       }
     ],
     "notes": [
-      "Mixed with Brooklyn Belle (4 of her scenes in this profile)",
-      "@peolic: Performers with scene count added to Scene-Performers."
+      "Mix of multiple single-name performers."
     ]
   }
 }
