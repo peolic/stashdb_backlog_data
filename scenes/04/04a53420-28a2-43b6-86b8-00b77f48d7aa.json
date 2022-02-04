@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "61e06fa0-c8f6-4ea1-af9c-8b5d9cc58317",
         "name": "Hailey",
         "appearance": null,
-        "disambiguation": "2019, BRCC",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=hailey_brcc_1554/gender=f/hailey.htm"
+        "disambiguation": "2019, BRCC"
       }
     ]
   }

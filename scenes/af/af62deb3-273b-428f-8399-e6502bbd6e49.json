@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "f7a8eac2-f295-4f8a-b2b9-64c923f5890e",
         "name": "Brianna",
         "appearance": null,
-        "disambiguation": "2018, BRCC",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=brianna_brcc_18/gender=f/brianna.htm"
+        "disambiguation": "2018, BRCC"
       }
     ]
   }

@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "d0fd1185-8cc2-4133-872a-58eac7a628c8",
         "name": "Nicole Kidd",
-        "appearance": "Sabrina",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/68c03b21-29cc-4ef4-bcc3-f2232de960a7"
+        "appearance": "Sabrina"
       }
     ]
   }

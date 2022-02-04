@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "ee000b07-1690-4dc7-be06-c1c844b7ec52",
         "name": "Emma",
         "appearance": null,
-        "disambiguation": "2019, BRCC",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=emma_brcc_1551/gender=f/emma.htm"
+        "disambiguation": "2019, BRCC"
       }
     ]
   }
