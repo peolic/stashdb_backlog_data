@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "462a3bd2-6f6d-423f-8b92-a926e92c1c5b",
         "name": "Jim Storm",
-        "appearance": null,
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/914a77e7-e1ff-4b43-bcaf-30c178e1089c"
+        "appearance": null
       }
     ]
   }

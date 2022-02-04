@@ -4,36 +4,8 @@
       "0be9f4c2-50b3-41f6-8fa2-85f764d8b2e8"
     ],
     "notes": [
-      "Main performer needs to be split up:",
-      "- Listed on Performers To Split Up",
-      "- Scenes listed on Scene-Performers",
       "https://www.iafd.com/person.rme/perfid=lucylee/gender=f/lucy-lee.htm",
       "https://www.indexxx.com/m/lucy-lee"
-    ]
-  },
-  "split": {
-    "name": "Lucy Lee",
-    "shards": [
-      {
-        "id": null,
-        "name": "Lucy Lee (US/Asian)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lucylee_or/gender=f/lucy-lee.htm",
-          "https://www.indexxx.com/m/lucy-lee-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lucy Lee (Czech)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lucylee/gender=f/lucy-lee.htm",
-          "https://www.indexxx.com/m/lucy-lee"
-        ]
-      }
-    ],
-    "notes": [
-      "at least two performers are combined here [on iafd] [on indexxx] ",
-      "New performer created for US Lucy Lee, scenes added to Scene-Performers"
     ]
   }
 }
