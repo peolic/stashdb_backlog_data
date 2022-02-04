@@ -3,7 +3,7 @@
     "name": "Vincent Vega",
     "shards": [
       {
-        "id": null,
+        "id": "40431b78-da77-40a7-b597-c6d3bc75c869",
         "name": "Vincent Vega [RU]",
         "links": [
           "https://www.iafd.com/person.rme/perfid=arty_12_russ_21sex/gender=m/arty.htm"
@@ -14,6 +14,7 @@
         "name": "Vincent Vega [US]",
         "text": "(Naughty America network)",
         "links": [
+          "https://stashdb.org/edits/b566fcf3-e144-475b-820a-7c7e951036cf",
           "https://www.iafd.com/person.rme/perfid=vincentvega/gender=m/vincent-vega.htm"
         ]
       }
