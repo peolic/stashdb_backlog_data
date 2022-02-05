@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "be667c09-f2e2-4215-bbcf-9b5072d1c597",
         "name": "Aaliyah Marie",
-        "appearance": "Aaliyah",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=aaliyahmarie/gender=f/aaliyah-marie.htm"
+        "appearance": "Aaliyah"
       }
     ]
   }
