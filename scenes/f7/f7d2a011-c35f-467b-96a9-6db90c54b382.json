@@ -3,6 +3,9 @@
     "40oz Bounce",
     null
   ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=anita+and+serena+shaking+it/year=2012/anita-and-serena-shaking-it.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -23,7 +26,7 @@
         "name": "Serena Cakes",
         "appearance": "Serena",
         "status": "new",
-        "status_url": "http://www.data18.com/content/186320"
+        "status_url": "https://www.iafd.com/person.rme/perfid=serenacakes/gender=f/serena-cakes.htm"
       }
     ]
   }

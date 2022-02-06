@@ -26,7 +26,10 @@
         "name": "Heaven",
         "appearance": null,
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=heaven_bl_09/gender=f/heaven.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=heaven_pp_10/gender=f/heaven.htm",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=heaven_bl_09/gender=f/heaven.htm"
+        ]
       }
     ]
   }
