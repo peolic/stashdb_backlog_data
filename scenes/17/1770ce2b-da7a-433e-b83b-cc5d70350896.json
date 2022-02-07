@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "f227a65a-636a-436a-821a-507442db80e3",
         "name": "Maryjane NM",
-        "appearance": "Mary Jane",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/49076f6d-5701-4746-85d6-2b0877122239"
+        "appearance": "Mary Jane"
       }
     ]
   }
