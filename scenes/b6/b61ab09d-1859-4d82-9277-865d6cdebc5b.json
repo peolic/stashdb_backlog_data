@@ -16,12 +16,11 @@
     ],
     "append": [
       {
-        "id": null,
-        "name": "Brittany Bailey",
+        "id": "ad5e512b-df48-42f5-8579-70e019ebf061",
+        "name": "Brittney Bailey",
         "appearance": "Kasey",
-        "status": "new",
-        "status_url": "https://www.indexxx.com/m/kasey",
         "notes": [
+          "https://www.indexxx.com/m/kasey",
           "https://www.iafd.com/person.rme/perfid=kasey_rk_03/gender=f/kasey.htm",
           "https://www.freeones.com/forums/threads/brittany-bailey-aka-casey.55476/"
         ]

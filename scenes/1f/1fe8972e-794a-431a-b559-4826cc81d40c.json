@@ -1,0 +1,29 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "Fix incorrect performer."
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "02994131-7de9-4f02-adda-82106eb610fb",
+        "name": "Dresden",
+        "appearance": null,
+        "disambiguation": "2015-2022"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Dresden",
+        "appearance": null,
+        "disambiguation": "NVG, 2007",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/52443855-281f-4797-ae65-acc42e415009"
+      }
+    ]
+  }
+}

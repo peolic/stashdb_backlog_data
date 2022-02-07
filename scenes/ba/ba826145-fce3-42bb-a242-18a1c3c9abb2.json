@@ -19,12 +19,8 @@
         "id": null,
         "name": "Maryjane NM",
         "appearance": "Mary Jane",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=maryjanenm/gender=f/maryjane-nm.htm",
-        "notes": [
-          "Italian",
-          "https://www.indexxx.com/m/mary-jane-16"
-        ]
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/49076f6d-5701-4746-85d6-2b0877122239"
       }
     ]
   }
