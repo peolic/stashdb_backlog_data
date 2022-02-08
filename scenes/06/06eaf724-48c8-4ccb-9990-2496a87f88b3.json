@@ -1,0 +1,40 @@
+{
+  "c_studio": [
+    "Extreme Naturals",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=gigantic+pom+poms/year=2006/gigantic-pom-poms.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
+        "name": "Mike",
+        "appearance": null
+      },
+      {
+        "id": "387f9054-9a9d-4ffa-9356-7ac7e320a4c4",
+        "name": "Cassidy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Mike",
+        "appearance": null,
+        "disambiguation": "2002-3, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
+      },
+      {
+        "id": null,
+        "name": "Cassitty",
+        "appearance": "Cassidy",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=cassitty/gender=f/cassitty.htm"
+      }
+    ]
+  }
+}

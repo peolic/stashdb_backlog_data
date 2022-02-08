@@ -1,0 +1,38 @@
+{
+  "c_studio": [
+    "Captain Stabbin",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=anal+delivery/year=2003/anal-delivery.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
+        "name": "Mike",
+        "appearance": null
+      },
+      {
+        "id": "11caabd5-237f-46fe-b296-78873ac4612e",
+        "name": "Beth",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Mike",
+        "appearance": null,
+        "disambiguation": "2002-3, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
+      },
+      {
+        "id": "f45a3e63-231c-4b60-b33a-4f5ccc634853",
+        "name": "Jasmine Lynn",
+        "appearance": "Beth"
+      }
+    ]
+  }
+}

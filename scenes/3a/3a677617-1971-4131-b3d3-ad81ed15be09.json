@@ -1,0 +1,38 @@
+{
+  "c_studio": [
+    "Captain Stabbin",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=tag+team+stabbin/year=2002/tag-team-stabbin.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
+        "name": "Mike",
+        "appearance": null
+      },
+      {
+        "id": "3b8fa1b2-4ccd-41e7-ad5d-8206cb973087",
+        "name": "Autumn",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Mike",
+        "appearance": null,
+        "disambiguation": "2002-3, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
+      },
+      {
+        "id": "7d663538-f64c-48d4-bc2c-9de91ce4fa14",
+        "name": "Autumn Haze",
+        "appearance": "Autumn"
+      }
+    ]
+  }
+}
