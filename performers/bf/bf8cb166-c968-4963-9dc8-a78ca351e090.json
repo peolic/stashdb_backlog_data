@@ -4,7 +4,8 @@
     "shards": [
       {
         "id": null,
-        "name": "[Lane 3  Michael Convertino (all of the remaining 50 scenes)",
+        "name": "Michael Convertino",
+        "text": "(all of the remaining 50 scenes)",
         "links": [
           "https://www.iafd.com/person.rme/perfid=lane_sc_3/gender=m/lane.htm"
         ]
@@ -15,22 +16,17 @@
         "text": "(11 scenes)"
       },
       {
-        "id": "508dd7f3-3b28-4726-8c3c-ec3daacd312a",
-        "name": "Jeska Vardinski",
-        "text": "(1 scene)"
-      },
-      {
         "id": null,
-        "name": "[Lane 2",
-        "text": "(7 scenes 2009-2010)",
+        "name": "Lane (2009-10, Sean Cody)",
+        "text": "(7 scenes)",
         "links": [
           "https://www.iafd.com/person.rme/perfid=lane_sc_2/gender=m/lane.htm"
         ]
       },
       {
         "id": null,
-        "name": "[Lane 1",
-        "text": "(2 scenes 2008)",
+        "name": "Lane (2008, Sean Cody)",
+        "text": "(2 scenes)",
         "links": [
           "https://www.iafd.com/person.rme/perfid=lane_sc_1/gender=m/lane.htm"
         ]
