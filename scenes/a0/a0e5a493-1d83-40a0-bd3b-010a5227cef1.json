@@ -1,0 +1,28 @@
+{
+  "c_studio": [
+    "Gag-n-Gape",
+    null
+  ],
+  "comments": [
+    "Replace placeholder image",
+    "https://teenmegaworld.net/models/kitty.html",
+    "https://www.indexxx.com/set/430720/gag-n-gape-kitty/"
+  ],
+  "image": "https://teenmegaworld.net/content/contentthumbs/88/63/458863-2x.jpg",
+  "performers": {
+    "remove": [
+      {
+        "id": "e543da41-5780-461c-81ec-2bd56dbe5d6a",
+        "name": "Kitty",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "68a9883c-3c76-4cd3-8131-82dc9b896e9b",
+        "name": "Luysan",
+        "appearance": "Kitty"
+      }
+    ]
+  }
+}
