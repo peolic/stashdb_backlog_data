@@ -3,6 +3,9 @@
     "MILF Next Door",
     null
   ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=lickity+split/year=2005/lickity-split.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -19,11 +22,15 @@
     "append": [
       {
         "id": null,
-        "name": "Jacqueline",
-        "appearance": null,
-        "disambiguation": "2005, Reality Kings",
+        "name": "Jacqueline Tavarez",
+        "appearance": "Jacqueline",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jacqueline_05_rk/gender=f/jacqueline.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=jacqueline_05_rk/gender=f/jacqueline.htm",
+        "notes": [
+          "AKA: Jacqueline Love, Jacqueline",
+          "https://www.indexxx.com/m/jacqueline-1",
+          "https://www.freeones.com/jacqueline-love"
+        ]
       },
       {
         "id": "7e7a6a0d-8d3f-405c-88aa-6a3585e078b1",

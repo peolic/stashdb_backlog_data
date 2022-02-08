@@ -3,6 +3,9 @@
     "40oz Bounce",
     null
   ],
+  "comments": [
+    "https://www.indexxx.com/set/367165/null/"
+  ],
   "performers": {
     "remove": [
       {
@@ -23,7 +26,12 @@
         "name": "DeCollector",
         "appearance": "De Collecter",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=decollector/gender=f/decollector.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=decollector/gender=f/decollector.htm",
+        "notes": [
+          "https://www.indexxx.com/m/de-collecter",
+          "https://www.freeones.com/decollecter",
+          "https://www.boobpedia.com/boobs/Decollector"
+        ]
       }
     ]
   }

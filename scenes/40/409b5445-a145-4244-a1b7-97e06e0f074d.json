@@ -4,15 +4,10 @@
     null
   ],
   "comments": [
-    "https://www.iafd.com/title.rme/title=netvideogirls+896%3a+autumn+and+olivia/year=2016/netvideogirls-896-autumn-and-olivia.htm"
+    "https://www.iafd.com/title.rme/title=netvideogirls+934%3a+autumn/year=2017/netvideogirls-934-autumn.htm"
   ],
   "performers": {
     "remove": [
-      {
-        "id": "a9322c68-806a-476e-9f9b-a870dbad8fd1",
-        "name": "Olivia",
-        "appearance": null
-      },
       {
         "id": "3b8fa1b2-4ccd-41e7-ad5d-8206cb973087",
         "name": "Autumn",
@@ -21,22 +16,17 @@
     ],
     "append": [
       {
-        "id": "4ab0f78e-d420-4fce-8876-1e082007b6ca",
-        "name": "Audrey Royal",
-        "appearance": "Olivia"
-      },
-      {
-        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
-        "name": "Tyler D.",
-        "appearance": "Tyler"
-      },
-      {
         "id": null,
         "name": "Autumn",
         "appearance": null,
         "disambiguation": "2016-17, NVG",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=autumn_nvg_2016/gender=f/autumn.htm"
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
       }
     ]
   }

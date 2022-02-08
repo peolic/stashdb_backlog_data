@@ -3,6 +3,9 @@
     "We Live Together",
     null
   ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=nails+or+tail/year=2005/nails-or-tail.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -15,7 +18,7 @@
       {
         "id": null,
         "name": "Amber Lee",
-        "appearance": null,
+        "appearance": "Amber",
         "disambiguation": "2005-06",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm"

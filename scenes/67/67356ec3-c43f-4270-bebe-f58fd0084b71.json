@@ -16,12 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
-        "name": "Marlena",
-        "appearance": "Marlena",
-        "disambiguation": "2004-13",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=marlena/gender=f/marlena.htm"
+        "id": "2fc0096d-1814-4142-bf82-5c32a4b0f72f",
+        "name": "Marlena Mason",
+        "appearance": "Marlena"
       }
     ]
   }

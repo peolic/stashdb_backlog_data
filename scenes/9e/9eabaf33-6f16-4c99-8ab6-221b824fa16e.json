@@ -3,6 +3,9 @@
     "We Live Together",
     null
   ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=puppy+love/year=2006/puppy-love.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -27,7 +30,7 @@
         "name": "Dana Sinnz",
         "appearance": "Dana",
         "status": "new",
-        "status_url": "https://www.indexxx.com/m/dana-sinnz",
+        "status_url": "https://www.iafd.com/person.rme/perfid=dana05/gender=f/dana.htm",
         "notes": [
           "https://www.iafd.com/person.rme/perfid=dana05/gender=f/dana.htm"
         ]
