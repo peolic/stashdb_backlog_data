@@ -3,6 +3,9 @@
     "Casting Couch-HD",
     null
   ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1406%3a+lillian+and+gina/year=2018/castingcouch%2dhd-1406-lillian-and-gina.htm"
+  ],
   "performers": {
     "remove": [
       {
@@ -28,6 +31,11 @@
         "id": "06a48e71-bc53-45ae-9937-12817d4d8a11",
         "name": "Lilian Stone",
         "appearance": "Lillian"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
       }
     ]
   }
