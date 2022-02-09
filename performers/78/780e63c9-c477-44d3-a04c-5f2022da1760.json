@@ -1,4 +1,15 @@
 {
+  "duplicates": {
+    "ids": [
+      "40431b78-da77-40a7-b597-c6d3bc75c869"
+    ],
+    "notes": [
+      "US performer being split out.",
+      "Make sure there are no pending scenes for duplicate #1.",
+      "Add `RU` disambiguation when merging.",
+      "Maybe ask for expedited merge to prevent scenes being added to Duplicate #1 (Vega) post-merge."
+    ]
+  },
   "split": {
     "name": "Vincent Vega",
     "shards": [
