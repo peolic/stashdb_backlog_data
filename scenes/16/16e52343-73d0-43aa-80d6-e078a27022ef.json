@@ -1,0 +1,44 @@
+{
+  "c_studio": [
+    "Happy Tugs",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=service+with+a+smile/year=2010/service-with-a-smile.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "7e1d9cdb-31c5-4fcc-b1ea-3a94ff7d9bbb",
+        "name": "Jade",
+        "appearance": null
+      },
+      {
+        "id": "42170014-5752-4f27-9b74-6f982a373f0f",
+        "name": "Shane",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jade",
+        "appearance": null,
+        "disambiguation": "2010-11, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jade_rk_10/gender=f/jade.htm",
+        "notes": [
+          "https://www.indexxx.com/m/jade-23"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Shane",
+        "appearance": null,
+        "disambiguation": "2010-11, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=shane_620922/gender=m/shane.htm"
+      }
+    ]
+  }
+}

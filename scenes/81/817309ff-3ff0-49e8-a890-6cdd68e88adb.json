@@ -4,8 +4,7 @@
     null
   ],
   "comments": [
-    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809479",
-    "Ep 2017-06-30...CCHD...Tracy...India Climax"
+    "https://www.iafd.com/title.rme/title=castingcouch%2dhd+1175%3a+tracy/year=2017/castingcouch%2dhd_1175%3a_tracy.htm"
   ],
   "performers": {
     "remove": [
@@ -18,10 +17,16 @@
     "append": [
       {
         "id": null,
-        "name": "India Climax",
-        "appearance": "Tracy",
+        "name": "Tracy",
+        "appearance": null,
+        "disambiguation": "2017, NVG",
         "status": "new",
-        "status_url": "http://idealimagemodels.com/models/india-climax/"
+        "status_url": "https://www.iafd.com/person.rme/perfid=tracy_nvg_1175/gender=f/tracy.htm"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
       }
     ]
   }

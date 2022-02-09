@@ -1,0 +1,36 @@
+{
+  "c_studio": [
+    "Naughty Bookworms",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=naughty+bookworms+384/year=2004/naughty-bookworms-384.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "780e63c9-c477-44d3-a04c-5f2022da1760",
+        "name": "Vincent Vega",
+        "appearance": null
+      },
+      {
+        "id": "c1cf85ab-148b-4906-bfc5-ccd353ca37ad",
+        "name": "Jacqueline",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "d8463235-9388-4f5d-9bda-959636490162",
+        "name": "Vincent Vega",
+        "appearance": null,
+        "disambiguation": "US"
+      },
+      {
+        "id": "4d436a11-721c-425d-a892-721d97c72840",
+        "name": "Jacqueline Summers",
+        "appearance": "Jacqueline"
+      }
+    ]
+  }
+}
