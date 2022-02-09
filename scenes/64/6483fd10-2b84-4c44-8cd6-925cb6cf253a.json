@@ -15,11 +15,9 @@
         "appearance": null
       },
       {
-        "id": null,
+        "id": "dd2358e1-be1e-4669-bcdd-4a9a284928cc",
         "name": "Johny Mimmo",
-        "appearance": "Johnny",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=johnymimmo/gender=m/johny-mimmo.htm"
+        "appearance": "Johnny"
       }
     ]
   }

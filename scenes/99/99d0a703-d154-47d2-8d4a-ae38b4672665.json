@@ -1,0 +1,29 @@
+{
+  "c_studio": [
+    "Rawcut",
+    null
+  ],
+  "comments": [
+    "https://www.data18.com/scenes/381309",
+    "https://prog-public-ec.project1content.com/d0e/0f4/198/eee/41f/695/d97/93e/919/bc9/32/video/trailer_1080p.mp4"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "dd2358e1-be1e-4669-bcdd-4a9a284928cc",
+        "name": "Johnny Black",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Johnny Black",
+        "appearance": null,
+        "disambiguation": "2015",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/6a8aebd8-2a98-43dc-af49-a377c8c29f27"
+      }
+    ]
+  }
+}

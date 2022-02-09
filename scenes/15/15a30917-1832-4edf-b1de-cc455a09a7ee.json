@@ -11,7 +11,8 @@
       {
         "id": "dd2358e1-be1e-4669-bcdd-4a9a284928cc",
         "name": "Johnny Black",
-        "appearance": null
+        "appearance": null,
+        "status": "edit"
       }
     ],
     "append": [
