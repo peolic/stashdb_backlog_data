@@ -10,9 +10,10 @@
     "remove": [],
     "append": [
       {
-        "id": "3b86f93f-72aa-43e2-b055-495597ef6fbe",
-        "name": "Yenna Black",
-        "appearance": null
+        "id": "04364388-c101-4982-ac4f-807b19a83df3",
+        "name": "Yenna",
+        "appearance": "Yenna Black",
+        "disambiguation": "Czech 2006-2019"
       },
       {
         "id": "dd2358e1-be1e-4669-bcdd-4a9a284928cc",

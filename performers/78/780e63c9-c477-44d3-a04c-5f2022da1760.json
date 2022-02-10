@@ -4,33 +4,9 @@
       "40431b78-da77-40a7-b597-c6d3bc75c869"
     ],
     "notes": [
-      "US performer being split out.",
-      "Make sure there are no pending scenes for duplicate #1.",
       "Add `RU` disambiguation when merging.",
-      "Maybe ask for expedited merge to prevent scenes being added to Duplicate #1 (Vega) post-merge."
-    ]
-  },
-  "split": {
-    "name": "Vincent Vega",
-    "shards": [
-      {
-        "id": "40431b78-da77-40a7-b597-c6d3bc75c869",
-        "name": "Vincent Vega [RU]",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=arty_12_russ_21sex/gender=m/arty.htm"
-        ]
-      },
-      {
-        "id": "d8463235-9388-4f5d-9bda-959636490162",
-        "name": "Vincent Vega [US]",
-        "text": "(Naughty America network)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vincentvega/gender=m/vincent-vega.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of two performers. US performer's scenes are listed."
+      "Make sure there are no pending scenes for duplicate #1 (Vega).",
+      "Maybe ask for expedited merge to prevent scenes being added to Duplicate #1 (vega) post-merge."
     ]
   }
 }

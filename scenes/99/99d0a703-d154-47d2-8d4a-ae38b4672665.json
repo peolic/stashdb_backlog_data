@@ -17,12 +17,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "2edb1d74-1157-4719-bd83-90401119587c",
         "name": "Johnny Black",
         "appearance": null,
-        "disambiguation": "2015",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/6a8aebd8-2a98-43dc-af49-a377c8c29f27"
+        "disambiguation": "2015"
       }
     ]
   }
