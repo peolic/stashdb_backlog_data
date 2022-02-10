@@ -1,12 +1,3 @@
 {
-  "duplicates": {
-    "ids": [
-      "957db752-a48a-4f4b-8067-b0c1da0322f0"
-    ],
-    "notes": [
-      "Main Performer:",
-      "- Sean Cody scene needs to be split out",
-      "https://www.iafd.com/person.rme/perfid=charlie_10_russian/gender=m/charlie.htm"
-    ]
-  }
+  "duplicate_of": "b8172821-ec19-483d-98db-f9a3d6adc079"
 }
