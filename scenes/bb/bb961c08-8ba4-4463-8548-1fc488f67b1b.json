@@ -17,7 +17,11 @@
         "name": "Monai Maebach",
         "appearance": "Pleasure",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=monaimaebach/gender=f/monai-maebach.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=monaimaebach/gender=f/monai-maebach.htm",
+        "notes": [
+          "Edit \"Sensious & Gemini\" to become Monai Maebach:",
+          "https://stashdb.org/performers/05061921-8ce5-4a76-9891-bd75275c0df6"
+        ]
       }
     ]
   }
