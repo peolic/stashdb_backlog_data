@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "197b2624-e9e9-4002-80eb-c6dacd21b88e",
         "name": "Lauren Brock",
-        "appearance": "Lauren",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/751c6880-7976-4a87-ba7f-507812129548"
+        "appearance": "Lauren"
       }
     ]
   }
