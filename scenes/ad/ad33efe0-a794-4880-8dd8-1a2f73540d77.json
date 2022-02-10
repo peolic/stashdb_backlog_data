@@ -21,7 +21,10 @@
         "appearance": null,
         "disambiguation": "Mexican",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lilylove_mex/gender=f/lily-love.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=lilylove_mex/gender=f/lily-love.htm",
+        "notes": [
+          "https://pbs.twimg.com/media/D-rv_fqU8AAH0S3?name=orig&format=jpg"
+        ]
       }
     ]
   }
