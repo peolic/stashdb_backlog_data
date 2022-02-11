@@ -1,0 +1,25 @@
+{
+  "split": {
+    "name": "Kasey",
+    "shards": [
+      {
+        "id": null,
+        "name": "Kasey (Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kasey_sc_1/gender=m/kasey.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Kasey Kane",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=caseycane/gender=f/casey-cane.htm",
+          "https://www.indexxx.com/m/kasey-3"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 2 performers"
+    ]
+  }
+}

@@ -17,10 +17,14 @@
     "append": [
       {
         "id": null,
-        "name": "Casey Cane",
+        "name": "Kasey Cane",
         "appearance": "Kasey",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=caseycane/gender=f/casey-cane.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=caseycane/gender=f/casey-cane.htm",
+        "notes": [
+          "AKA: Casey Cane",
+          "https://www.indexxx.com/m/kasey-3"
+        ]
       }
     ]
   }
