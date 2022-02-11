@@ -16,14 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "5dfc9191-b0f9-4d2d-8ab8-4ef675ef0193",
         "name": "Madison Keyz",
-        "appearance": "Madison",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=madison_povtrain/gender=f/madison-keyz.htm",
-        "notes": [
-          "https://www.indexxx.com/m/brittni"
-        ]
+        "appearance": "Madison"
       }
     ]
   }

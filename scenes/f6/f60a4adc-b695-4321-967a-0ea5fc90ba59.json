@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "99e8f451-9e8c-46b9-a136-ced823807559",
         "name": "Dakota",
         "appearance": null,
-        "disambiguation": "2020, BRCC",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=dakota_brcc_1613/gender=f/dakota.htm"
+        "disambiguation": "2020, BRCC"
       }
     ]
   }
