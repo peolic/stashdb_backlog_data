@@ -1,0 +1,27 @@
+{
+  "c_studio": [
+    "Captain Stabbin",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/person.rme/perfid=wendeethomas/gender=f/wendee-thomas.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "57c5a9e9-fcc2-422a-bff0-448efe1e65e3",
+        "name": "Elizabeth",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Wendee Thomas",
+        "appearance": "Elizabeth",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=wendeethomas/gender=f/wendee-thomas.htm"
+      }
+    ]
+  }
+}

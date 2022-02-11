@@ -1,0 +1,30 @@
+{
+  "c_studio": [
+    "GF Revenge",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=feeling+good/year=2013/feeling-good.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "57c5a9e9-fcc2-422a-bff0-448efe1e65e3",
+        "name": "Elizabeth",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Elizabeth Angelica",
+        "appearance": "Elizabeth",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=elizabeth_angelica/gender=f/elizabeth.htm",
+        "notes": [
+          "https://www.realitykings.com/model/24975/elizabeth"
+        ]
+      }
+    ]
+  }
+}
