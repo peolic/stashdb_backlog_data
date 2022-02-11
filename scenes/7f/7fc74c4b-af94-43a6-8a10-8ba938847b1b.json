@@ -1,8 +1,4 @@
 {
-  "c_studio": [
-    "Backroom Casting Couch",
-    null
-  ],
   "fingerprints": [
     {
       "algorithm": "phash",
@@ -14,26 +10,5 @@
       "hash": "aa8f8c42c2d2f54a",
       "correct_scene_id": null
     }
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "f35ed6a2-8113-4639-9e5a-9b952051b78b",
-        "name": "Angel",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Angel",
-        "appearance": null,
-        "disambiguation": "2017, BRCC",
-        "status": "new",
-        "notes": [
-          "https://img30.imagetwist.com/th/28232/fhmmvzo5uvw5.jpg"
-        ]
-      }
-    ]
-  }
+  ]
 }
