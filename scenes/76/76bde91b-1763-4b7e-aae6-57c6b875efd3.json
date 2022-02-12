@@ -6,6 +6,61 @@
       "correct_scene_id": null
     },
     {
+      "algorithm": "phash",
+      "hash": "ea82adf285f0bf80",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "2b83bfddab04b806",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "7bbdabfe5db056e3",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "74b89397e6598ed214e35e7b343801b5",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "9c943a3972cc27fb3e0cd26b3f62abd3",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "071eff0b5e0221ea",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "646d601b96ecc08a",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "e7f7149bf4e738ce",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "phash",
+      "hash": "ea80edf285f0bf80",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "38a28778e5664960f8b305fd06c5549a",
+      "correct_scene_id": null
+    },
+    {
+      "algorithm": "md5",
+      "hash": "3b7b76157383701cb24d21d60bb2bf1b",
+      "correct_scene_id": null
+    },
+    {
       "algorithm": "md5",
       "hash": "17944fbb2790c087a046d45bd4715317",
       "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
@@ -91,6 +146,16 @@
       "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
     },
     {
+      "algorithm": "oshash",
+      "hash": "e9a1807da9738212",
+      "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "f5f71600f6673d0f",
+      "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
+    },
+    {
       "algorithm": "md5",
       "hash": "9f30a9a938c4e6b2e6626722e3217eb4",
       "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
@@ -98,6 +163,11 @@
     {
       "algorithm": "oshash",
       "hash": "2f7d2b76c7bb2f83",
+      "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "f2e00f47197baa38",
       "correct_scene_id": "a29cfba8-1799-47cb-8128-3f6591ed6ab2"
     }
   ]
