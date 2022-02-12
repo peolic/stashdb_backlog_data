@@ -4,6 +4,21 @@
       "algorithm": "phash",
       "hash": "f71c73916b1a6c0a",
       "correct_scene_id": "66e0700f-df62-4e66-809b-29ce21859a8a"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "1870b393b95b5fd6",
+      "correct_scene_id": "66e0700f-df62-4e66-809b-29ce21859a8a"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "ad43c8ae30b7bb11",
+      "correct_scene_id": "66e0700f-df62-4e66-809b-29ce21859a8a"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "d99e9a1df7b0bb08",
+      "correct_scene_id": "66e0700f-df62-4e66-809b-29ce21859a8a"
     }
   ]
 }
