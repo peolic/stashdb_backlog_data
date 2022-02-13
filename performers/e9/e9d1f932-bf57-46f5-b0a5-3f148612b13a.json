@@ -1,4 +1,5 @@
 {
+  "name": "Candy Sweet",
   "split": {
     "name": "Candy Sweet",
     "shards": [
@@ -34,5 +35,8 @@
     "notes": [
       "Scenes are mixed up of various performers, needs further attention"
     ]
-  }
+  },
+  "urls": [
+    "https://www.iafd.com/person.rme/perfid=candysweet_12/gender=f/candy-sweet.htm"
+  ]
 }
