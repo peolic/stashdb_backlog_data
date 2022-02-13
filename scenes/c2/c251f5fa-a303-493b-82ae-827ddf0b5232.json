@@ -17,21 +17,19 @@
     ],
     "append": [
       {
+        "id": "b8cefc89-0472-4f84-b351-f8d27a0f457c",
+        "name": "Luna",
+        "appearance": null,
+        "disambiguation": "2004-2008, BangBros",
+        "notes": [
+          "https://www.indexxx.com/m/luna-2"
+        ]
+      },
+      {
         "id": "1b64412c-13d4-4912-8f60-7215f532d78e",
         "name": "Gino",
         "appearance": null,
         "disambiguation": "2004-05, Bang Bros"
-      },
-      {
-        "id": null,
-        "name": "Luna",
-        "appearance": null,
-        "disambiguation": "Colombian, 2004-2008, Bang Bros",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=luna_08/gender=f/luna.htm",
-        "notes": [
-          "https://www.indexxx.com/m/luna-2"
-        ]
       }
     ]
   },

@@ -10,12 +10,10 @@
     "remove": [],
     "append": [
       {
-        "id": null,
-        "name": "Jojo",
+        "id": "33b38863-be82-465b-9e44-2ff40a11ae87",
+        "name": "JoJo",
         "appearance": null,
-        "disambiguation": "2016, Fake Hub",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jojo_ft16/gender=f/jojo.htm"
+        "disambiguation": "Blue Hair"
       }
     ]
   }

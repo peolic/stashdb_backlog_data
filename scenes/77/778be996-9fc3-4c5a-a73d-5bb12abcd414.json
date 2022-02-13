@@ -1,0 +1,30 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813",
+    "Ep 2011.01 - Lucy ... Kelsey Tyler A.K.A. [NOBABE]Natali Laroux[/NOBABE]"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "37fdb2fb-05bd-491d-964f-773dd42e33c2",
+        "name": "Lucy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "fbf27f09-4787-4bb8-ba6f-e94d582a049d",
+        "name": "Kelsey Tyler",
+        "appearance": "Lucy",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=natalilaroux/gender=f/natali-laroux.htm",
+          "https://www.indexxx.com/models/42731/kelsey-tyler/"
+        ]
+      }
+    ]
+  }
+}
