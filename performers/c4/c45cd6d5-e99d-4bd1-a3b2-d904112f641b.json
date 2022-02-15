@@ -1,7 +1,39 @@
 {
   "split": {
     "name": "Alessandra",
-    "shards": [],
+    "shards": [
+      {
+        "id": "d5e64f67-8d13-470c-9a2a-7594e232c72b",
+        "name": "Vova (Nubiles)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=alessandra_08_russ/gender=f/alessandra.htm",
+          "https://www.indexxx.com/m/artemis"
+        ]
+      },
+      {
+        "id": "17947c50-488b-4db6-b742-648c8f0dc80b",
+        "name": "Alessandra Pirez",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=alessandra_sa/gender=f/alessandra.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Alessandra Carvalho",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=alessandracarvalho/gender=f/alessandra-carvalho.htm",
+          "https://www.indexxx.com/m/alessandra-3"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Alessandra (2004, Mike In Brazil)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=alessandra_04_br/gender=f/alessandra.htm",
+          "https://www.indexxx.com/m/alessandra"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
