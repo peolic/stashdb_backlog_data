@@ -1,0 +1,22 @@
+{
+  "c_studio": [
+    "Bratty Sis",
+    null
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a69d9849-7849-4f70-b109-96890d59f143",
+        "name": "Lindsay Lane",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "1813df8d-eff6-4f37-bf9f-83141fc185c6",
+        "name": "Lindsey Lane",
+        "appearance": null
+      }
+    ]
+  }
+}
