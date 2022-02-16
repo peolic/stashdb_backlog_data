@@ -1,0 +1,74 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "oshash",
+      "hash": "5e39bd4327dc1a7b",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "ea50cfbe9869368e",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "0c8fdb216f03e4b5",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "1bbecf3c04937033",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "1fdc92fee208790b",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "237db2f141bfb493",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "659049febb309be0",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "674c5fd2a8e85862",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "8769df3a7a90f96c",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "fbd425aa5b76561e",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "ca9343364be3b589",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "8a9343364be3bd89",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "md5",
+      "hash": "8392561b381844f3d5ca1e6e5a6844fb",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    },
+    {
+      "algorithm": "md5",
+      "hash": "437eaa364fbe6b12c125c6929b24cea2",
+      "correct_scene_id": "2bf6f26d-85bb-4aac-91f5-098e9d2c93a4"
+    }
+  ]
+}
