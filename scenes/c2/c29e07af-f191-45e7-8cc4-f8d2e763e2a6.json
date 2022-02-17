@@ -6,7 +6,8 @@
     {
       "algorithm": "oshash",
       "hash": "f01e88d72179b3d5",
-      "correct_scene_id": "5f9a889f-2a9c-446e-bc9e-bbd9b1ccd6c7"
+      "correct_scene_id": "5f9a889f-2a9c-446e-bc9e-bbd9b1ccd6c7",
+      "duration": 1866
     }
   ]
 }

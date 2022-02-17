@@ -3,82 +3,20 @@
     {
       "algorithm": "phash",
       "hash": "ca15a00d78df9ab9",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "81a918228508f19a",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "md5",
-      "hash": "a9fc2bc1298c9a6da49cce1186ec71b6",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "md5",
-      "hash": "dfdb5be8fa018a5dbfbedc0d5865ea02",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "44f4f4b2ad0fc8dd",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "669e70be38b140b2",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "a396cd0b8dc6d9ec",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "b4921c193fbaaf01",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "ce373f6a6e86b057",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "e3b244d82ee2664d",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "efa2fd038b0efa4d",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "f9ba3b214061ddc0",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "fa1cf045e03797ab",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
+      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0",
+      "duration": 3670
     },
     {
       "algorithm": "phash",
       "hash": "ca15a00d70df9abd",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
+      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0",
+      "duration": 3670
     },
     {
       "algorithm": "phash",
       "hash": "ca15a01d70df9ab9",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
-    },
-    {
-      "algorithm": "md5",
-      "hash": "587ffff5bd99cf5693676b576ce7c4d6",
-      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0"
+      "correct_scene_id": "0bd12d41-88bb-40ac-9eba-1036b96a96d0",
+      "duration": 3670
     }
   ]
 }

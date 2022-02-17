@@ -3,17 +3,20 @@
     {
       "algorithm": "oshash",
       "hash": "94dc5fa8789976e6",
-      "correct_scene_id": null
+      "correct_scene_id": null,
+      "duration": 3012
     },
     {
       "algorithm": "md5",
       "hash": "3a6f1d5d4f77696e3d5e0471cdd41e75",
-      "correct_scene_id": null
+      "correct_scene_id": null,
+      "duration": 3012
     },
     {
       "algorithm": "phash",
       "hash": "a952c8c7908fdfd0",
-      "correct_scene_id": null
+      "correct_scene_id": null,
+      "duration": 3012
     }
   ]
 }

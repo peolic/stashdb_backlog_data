@@ -3,12 +3,14 @@
     {
       "algorithm": "oshash",
       "hash": "3e3adf70495554de",
-      "correct_scene_id": "e4015c7d-244c-4e60-a7f3-a24088dbdc67"
+      "correct_scene_id": "e4015c7d-244c-4e60-a7f3-a24088dbdc67",
+      "duration": 2651
     },
     {
       "algorithm": "phash",
       "hash": "e096d9dbe22b1859",
-      "correct_scene_id": "e4015c7d-244c-4e60-a7f3-a24088dbdc67"
+      "correct_scene_id": "e4015c7d-244c-4e60-a7f3-a24088dbdc67",
+      "duration": 2651
     }
   ]
 }

@@ -3,7 +3,8 @@
     {
       "algorithm": "phash",
       "hash": "ad51a857e81743cd",
-      "correct_scene_id": null
+      "correct_scene_id": null,
+      "duration": 2849
     }
   ]
 }

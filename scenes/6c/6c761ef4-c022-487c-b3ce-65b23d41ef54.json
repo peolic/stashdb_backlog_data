@@ -3,27 +3,8 @@
     {
       "algorithm": "phash",
       "hash": "f74f44b85d122237",
-      "correct_scene_id": "3beb3a33-0a4d-4d16-bfea-398793307aba"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "2f64f8a4796a3836",
-      "correct_scene_id": "3beb3a33-0a4d-4d16-bfea-398793307aba"
-    },
-    {
-      "algorithm": "md5",
-      "hash": "673920a5be631a50598e10bcbf17f2d5",
-      "correct_scene_id": "3beb3a33-0a4d-4d16-bfea-398793307aba"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "7a7fb117b1280bd7",
-      "correct_scene_id": "3beb3a33-0a4d-4d16-bfea-398793307aba"
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "768f692602178c93",
-      "correct_scene_id": "3beb3a33-0a4d-4d16-bfea-398793307aba"
+      "correct_scene_id": "3beb3a33-0a4d-4d16-bfea-398793307aba",
+      "duration": 610
     }
   ]
 }
