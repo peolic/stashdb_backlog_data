@@ -17,11 +17,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "ddfd2e1a-0b3a-4b8d-aa93-3dcb3049e38e",
         "name": "Vivian Lang",
-        "appearance": "Ava",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=ava_nvg_19/gender=f/vivian-lang.htm"
+        "appearance": "Ava"
       },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
