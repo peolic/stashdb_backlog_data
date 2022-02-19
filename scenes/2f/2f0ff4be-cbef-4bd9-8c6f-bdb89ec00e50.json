@@ -13,26 +13,8 @@
       "duration": 1711
     },
     {
-      "algorithm": "oshash",
-      "hash": "3f6e2f9db20ffdd1",
-      "correct_scene_id": "c6a4b71a-0e8b-4a69-ba81-2e4afe4e7e52",
-      "duration": 1711
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "30949f0e51194a6d",
-      "correct_scene_id": "c6a4b71a-0e8b-4a69-ba81-2e4afe4e7e52",
-      "duration": 1711
-    },
-    {
       "algorithm": "md5",
       "hash": "4617f0c3cf4af88a1281f39bf0cc7c85",
-      "correct_scene_id": "c6a4b71a-0e8b-4a69-ba81-2e4afe4e7e52",
-      "duration": 1711
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "d1e9731a052e5cb1",
       "correct_scene_id": "c6a4b71a-0e8b-4a69-ba81-2e4afe4e7e52",
       "duration": 1711
     }

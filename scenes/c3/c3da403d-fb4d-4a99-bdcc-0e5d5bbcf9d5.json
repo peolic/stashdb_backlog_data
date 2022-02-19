@@ -17,24 +17,6 @@
       "hash": "e30f5da8ad25989d8111dcd08224d8fe",
       "correct_scene_id": "8655bf73-4fce-4aa9-b863-df9b75bc5f53",
       "duration": 2278
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "d3e166f1df2e4209",
-      "correct_scene_id": "8655bf73-4fce-4aa9-b863-df9b75bc5f53",
-      "duration": 2278
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "e519a1f611d0de98",
-      "correct_scene_id": "8655bf73-4fce-4aa9-b863-df9b75bc5f53",
-      "duration": 2278
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "1bb6c0ee35dad513",
-      "correct_scene_id": "8655bf73-4fce-4aa9-b863-df9b75bc5f53",
-      "duration": 2278
     }
   ]
 }
