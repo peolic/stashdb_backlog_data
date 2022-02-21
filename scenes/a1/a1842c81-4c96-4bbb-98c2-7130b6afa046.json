@@ -1,8 +1,8 @@
 {
   "fingerprints": [
     {
-      "algorithm": "md5",
-      "hash": "f33f9f6e0b4946d3ceb146a8275f4935",
+      "algorithm": "phash",
+      "hash": "d5911b1aed4dce11",
       "correct_scene_id": "55b652e0-7dd2-4cbc-a02b-227e03328488",
       "duration": 3141
     }
