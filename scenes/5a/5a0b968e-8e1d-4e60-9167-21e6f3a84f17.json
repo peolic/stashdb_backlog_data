@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "43fdd2ce-4097-470d-be2f-5efcb2e6c4e3",
         "name": "Bell Richardson",
-        "appearance": "Mya",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=bellrichardson/gender=f/bell-richardson.htm"
+        "appearance": "Mya"
       }
     ]
   }

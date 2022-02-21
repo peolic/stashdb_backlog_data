@@ -17,12 +17,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "97603708-852d-411d-85b0-fc4080422618",
         "name": "Mercy",
         "appearance": null,
-        "disambiguation": "2018, NVG",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=mercy_nvg_1509/gender=f/mercy.htm"
+        "disambiguation": "2018, NVG"
       },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
