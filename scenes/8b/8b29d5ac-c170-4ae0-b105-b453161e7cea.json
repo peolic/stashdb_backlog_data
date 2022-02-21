@@ -18,14 +18,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "21fde286-4fda-4878-9179-0eb86c7490f9",
         "name": "Anika Kittens",
-        "appearance": "Anika",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=anikakittens/gender=f/anika-kittens.htm",
-        "notes": [
-          "https://www.freeones.com/forums/threads/anika-kittens-anika-net-girl.940761/"
-        ]
+        "appearance": "Anika"
       }
     ]
   }

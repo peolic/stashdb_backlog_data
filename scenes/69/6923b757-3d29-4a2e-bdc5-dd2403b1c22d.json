@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "b0ea9e51-aaa2-4c75-93a8-12a6d4958c0c",
         "name": "Luci",
         "appearance": null,
-        "disambiguation": "2018, NVG",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=luci_nvg/gender=f/luci.htm"
+        "disambiguation": "2018, NVG"
       },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
