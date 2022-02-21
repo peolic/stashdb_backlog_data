@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "7ac74d2e-6d63-4275-9b38-bd6feffbc7a9",
         "name": "Lana Laurent",
-        "appearance": "Lana",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lanalaurent/gender=f/lana-laurent.htm"
+        "appearance": "Lana"
       },
       {
         "id": "98b1a3bb-7dbb-4b79-b65c-e56d2d092689",

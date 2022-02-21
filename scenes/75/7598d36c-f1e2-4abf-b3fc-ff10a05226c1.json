@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "73f19582-df69-40c8-ac3d-c8f01fec4b8d",
         "name": "Jackie Alder",
-        "appearance": "Jackie",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jackiealder/gender=f/jackie-alder.htm"
+        "appearance": "Jackie"
       }
     ]
   }

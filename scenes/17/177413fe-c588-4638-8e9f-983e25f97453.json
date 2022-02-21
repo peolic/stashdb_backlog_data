@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "c9472ab8-b9d5-4a3f-b511-576358c674c6",
         "name": "Emma",
         "appearance": null,
-        "disambiguation": "2019-20, NVG",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=emma_nvg_19/gender=f/emma.htm"
+        "disambiguation": "2019-20, NVG"
       },
       {
         "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
