@@ -1,27 +1,6 @@
 {
-  "c_studio": [
-    "Net Girl",
-    null
-  ],
   "comments": [
-    "https://imagetwist.com/wb9ri6u9vb0z/NetGirl.18.03.07.Anika.Returns.XXX.SD.MP4-KLEENEX_s.jpg",
-    "https://www.iafd.com/title.rme/title=netgirl+1215%3a+anika/year=2018/netgirl_1215%3a_anika.htm"
+    "https://imagetwist.com/wb9ri6u9vb0z/NetGirl.18.03.07.Anika.Returns.XXX.SD.MP4-KLEENEX_s.jpg"
   ],
-  "date": "2018-03-07",
-  "performers": {
-    "remove": [
-      {
-        "id": "ad717db7-cbdc-4fd4-861c-bd3789146d2f",
-        "name": "Anika",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "21fde286-4fda-4878-9179-0eb86c7490f9",
-        "name": "Anika Kittens",
-        "appearance": "Anika"
-      }
-    ]
-  }
+  "date": "2018-03-07"
 }
