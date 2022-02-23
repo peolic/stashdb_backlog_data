@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Crystal and Jane",
+    "shards": [
+      {
+        "id": null,
+        "name": "Crystal",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=crystal_09_brcc/gender=f/crystal.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jane",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jane_09_brcc/gender=f/jane.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Two performers from a Backroom Casting Couch scene. Looks like it was automatically scraped as a single performer"
+    ]
+  }
+}
