@@ -17,14 +17,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "a8f7a9f6-171c-419d-927c-3ff5cf57e3cb",
         "name": "Daisy Leon",
-        "appearance": "Andrea",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=daisyleon/gender=f/daisy-leon.htm",
-        "notes": [
-          "https://www.indexxx.com/m/daisy-leon"
-        ]
+        "appearance": "Andrea"
       }
     ]
   }
