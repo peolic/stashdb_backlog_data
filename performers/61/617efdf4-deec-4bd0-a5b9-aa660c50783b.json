@@ -1,11 +1,3 @@
 {
-  "duplicates": {
-    "ids": [
-      "4234fedb-0d10-4351-a462-b9a7ea484ae6"
-    ],
-    "notes": [
-      "https://www.indexxx.com/m/alita-lee",
-      "Alita Lee may be the preferred name, now"
-    ]
-  }
+  "duplicate_of": "4234fedb-0d10-4351-a462-b9a7ea484ae6"
 }
