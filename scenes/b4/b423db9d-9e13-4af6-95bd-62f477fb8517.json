@@ -20,11 +20,6 @@
     },
     {
       "algorithm": "oshash",
-      "hash": "9965a1bfd6a1e01c",
-      "correct_scene_id": null
-    },
-    {
-      "algorithm": "oshash",
       "hash": "b06908204108e501",
       "correct_scene_id": null,
       "duration": 3782
@@ -51,7 +46,13 @@
       "algorithm": "phash",
       "hash": "93e2ce33d8917592",
       "correct_scene_id": null,
-      "duration": 3782
+      "duration": 3780
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "9965a1bfd6a1e01c",
+      "correct_scene_id": null,
+      "duration": 3780
     }
   ]
 }
