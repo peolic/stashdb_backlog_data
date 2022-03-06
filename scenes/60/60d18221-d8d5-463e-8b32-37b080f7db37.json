@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "b55c5a71-9720-450b-9433-8e4bbe868e3c",
         "name": "Selina Garcia",
-        "appearance": "Selina",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=selinagarcia/gender=f/selina-garcia.htm"
+        "appearance": "Selina"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

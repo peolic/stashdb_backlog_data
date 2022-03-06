@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "03c02507-c4a8-4d04-9c92-660a40f6c8c1",
         "name": "Sasha",
         "appearance": null,
-        "disambiguation": "2018, NVG",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=sasha_nvg_18/gender=f/sasha.htm"
+        "disambiguation": "2018, NVG"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

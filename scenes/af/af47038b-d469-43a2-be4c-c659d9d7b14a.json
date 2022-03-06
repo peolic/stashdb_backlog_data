@@ -8,21 +8,8 @@
     "https://www.iafd.com/title.rme/title=netvideogirls%3a+missy/year=2019/netvideogirls%3a_missy.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "f4ee85b0-1969-4b84-a78d-fc05130950a6",
-        "name": "Missy",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": null,
-        "name": "Missy Maverick",
-        "appearance": "Missy",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=missymaverick/gender=f/missy-maverick.htm"
-      },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
         "name": "Donnie Rock",
