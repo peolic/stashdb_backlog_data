@@ -23,12 +23,10 @@
         "appearance": "Chris"
       },
       {
-        "id": null,
+        "id": "92f80d45-7d0b-487f-8864-bda1a860a03a",
         "name": "Alexis",
         "appearance": null,
-        "disambiguation": "May 2019, NVG",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=alexis_nvg_19_2/gender=f/alexis.htm"
+        "disambiguation": "May 2019, NVG"
       }
     ]
   }

@@ -21,11 +21,9 @@
         "appearance": "Chris"
       },
       {
-        "id": null,
+        "id": "e11d7d9f-a8cf-4001-8a14-b5c6a27df040",
         "name": "Ava Lee",
-        "appearance": "Ava",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=ava_nvg_1895/gender=f/ava-lee.htm"
+        "appearance": "Ava"
       }
     ]
   }

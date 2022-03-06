@@ -16,14 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "e795273a-322c-4ec2-8d7a-0803e9a87e90",
         "name": "Ariel Dream",
-        "appearance": "Ariel",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=arieldream/gender=f/ariel-dream.htm",
-        "notes": [
-          "https://www.freeones.com/forums/threads/ariel-dream.963095/"
-        ]
+        "appearance": "Ariel"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

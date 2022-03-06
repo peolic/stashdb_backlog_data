@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "897688c0-6766-4da5-a571-09d39996faf8",
         "name": "Alex Morgan",
-        "appearance": "Alex",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=alex_nvg_19/gender=f/alex-morgan.htm"
+        "appearance": "Alex"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

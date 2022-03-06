@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "7fda5cfe-f88f-40e5-8779-7140f809f860",
         "name": "Shyla Syn",
-        "appearance": "Shyla",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=shylasyn/gender=f/shyla-syn.htm"
+        "appearance": "Shyla"
       }
     ]
   }
