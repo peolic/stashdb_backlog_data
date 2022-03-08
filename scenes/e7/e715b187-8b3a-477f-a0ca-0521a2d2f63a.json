@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "9e68c730-ce85-417d-bd09-280ee5912d12",
         "name": "Princess Rochelle",
-        "appearance": "Rochelle",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=prinrochelle/gender=f/princess-rochelle.htm"
+        "appearance": "Rochelle"
       }
     ]
   }
