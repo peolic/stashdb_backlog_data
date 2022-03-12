@@ -9,12 +9,32 @@
     {
       "algorithm": "phash",
       "hash": "80f2c858edda6717",
-      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e"
+      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e",
+      "duration": 2097
     },
     {
       "algorithm": "md5",
       "hash": "9231ebb5df6a4b10fe0e9d1f92f5a9cf",
-      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e"
+      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e",
+      "duration": 2097
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "c46a0ff2eb86754d",
+      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e",
+      "duration": 2097
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "de1c09b39769d29f",
+      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e",
+      "duration": 2097
+    },
+    {
+      "algorithm": "md5",
+      "hash": "6a1e55221da2e0c154a87e8313dac338",
+      "correct_scene_id": "7f96ec8b-79ac-4df9-9966-517bbfff356e",
+      "duration": 2097
     }
   ]
 }
