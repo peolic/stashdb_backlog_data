@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Loren",
+    "shards": [
+      {
+        "id": null,
+        "name": "Mila (RUS)",
+        "links": [
+          "https://www.indexxx.com/m/mila"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Loren (BRA)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=loren2003/gender=f/loren.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jewel (RUS)",
+        "links": [
+          "https://www.indexxx.com/m/jewel"
+        ]
+      }
+    ],
+    "notes": [
+      "Three diffrent performers"
+    ]
+  }
+}
