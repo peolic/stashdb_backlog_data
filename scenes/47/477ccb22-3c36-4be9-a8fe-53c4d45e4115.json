@@ -5,6 +5,18 @@
       "hash": "8a1253c58dddb2f4",
       "correct_scene_id": "8642a877-b16a-40d5-b359-67de482417fc",
       "duration": 1395
+    },
+    {
+      "algorithm": "phash",
+      "hash": "8a1253c18dddb2f6",
+      "correct_scene_id": "8642a877-b16a-40d5-b359-67de482417fc",
+      "duration": 1394
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "9f2d52524b4fbf82",
+      "correct_scene_id": "df16cda0-1940-4c39-be2d-18f2b2eed505",
+      "duration": 1337
     }
   ]
 }
