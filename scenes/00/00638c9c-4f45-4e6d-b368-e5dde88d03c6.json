@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "402b9019-9b25-4149-81d9-09bb2e90aa7e",
         "name": "Gina Rosselini",
-        "appearance": "Gina",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=ginarossellini/gender=f/gina-rosselini.htm"
+        "appearance": "Gina"
       },
       {
         "id": "0e56dc58-4a39-4296-8ce7-aadd36282412",
