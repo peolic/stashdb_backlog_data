@@ -13,22 +13,12 @@
   "performers": {
     "remove": [
       {
-        "id": "e91bee7c-5162-4c2d-8300-b64677b7c6aa",
-        "name": "Lexi",
-        "appearance": null
-      },
-      {
         "id": "ae3556f7-a82b-4d7f-88bb-d993c604f118",
         "name": "Lucia",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "df3d2ebb-3810-4a53-9c9d-5c155fb7207c",
-        "name": "Madelyn Rose",
-        "appearance": "Lexi"
-      },
       {
         "id": null,
         "name": "Paris Rayne",
