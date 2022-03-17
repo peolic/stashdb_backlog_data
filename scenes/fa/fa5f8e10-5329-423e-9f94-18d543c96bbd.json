@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "10b49246-8a7c-4d2e-8f19-b3575cb79f9b",
         "name": "Sidney DeSade",
-        "appearance": "Cindy",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/f3aab26b-4d50-442f-92cd-bef13f265778"
+        "appearance": "Cindy"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

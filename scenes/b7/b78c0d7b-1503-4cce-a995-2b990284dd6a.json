@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "3b7d4b2a-7522-4937-9584-c099665d7bce",
         "name": "Nia",
         "appearance": null,
-        "disambiguation": "2019, NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/b0ad6d94-c78b-43d4-882e-b3143e742d4c"
+        "disambiguation": "2019, NVG"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

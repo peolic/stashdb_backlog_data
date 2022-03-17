@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "acbd1409-7a7d-4459-bbcc-6de914fcb4de",
         "name": "Ashley",
         "appearance": null,
-        "disambiguation": "2019, NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/e7a6e69b-4220-4ef7-82bc-0a2007cc4fed"
+        "disambiguation": "2019, NVG"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
