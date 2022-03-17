@@ -21,12 +21,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "b4a9a25c-5a47-4f5e-8208-9d17181a1dc1",
         "name": "Autumn",
         "appearance": null,
-        "disambiguation": "2016-17, NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/481dc52b-d5de-4417-9b15-9780a42fe720"
+        "disambiguation": "2016-17, NVG"
       },
       {
         "id": "4ab0f78e-d420-4fce-8876-1e082007b6ca",
