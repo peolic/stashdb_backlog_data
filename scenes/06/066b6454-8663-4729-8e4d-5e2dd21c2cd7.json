@@ -1,4 +1,7 @@
 {
+  "duplicates": [
+    "f4ab0bb8-c351-4d8e-8619-b8e9063c0bb8"
+  ],
   "fingerprints": [
     {
       "algorithm": "phash",
