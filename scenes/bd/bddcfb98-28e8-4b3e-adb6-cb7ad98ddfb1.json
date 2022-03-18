@@ -2,5 +2,13 @@
   "comments": [
     "http://pronpic.org/1626728400_6780354/"
   ],
-  "duration": "3057"
+  "duration": "3057",
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "e9ccccc263d2a527",
+      "correct_scene_id": null,
+      "duration": 487
+    }
+  ]
 }
