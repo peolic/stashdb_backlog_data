@@ -1,23 +1,6 @@
 {
-  "c_studio": [
-    "Shoplyfter",
-    null
-  ],
   "comments": [
-    "http://pronpic.org/1626728400_6780432/",
-    "https://www.iafd.com/title.rme/title=case+no.+1376006/year=2020/case_no%2e_1376006.htm"
+    "http://pronpic.org/1626728400_6780432/"
   ],
-  "duration": "3048",
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Brock Doom",
-        "appearance": null,
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/fba984fa-50ed-4581-9cf2-f5acc2d63bc5"
-      }
-    ]
-  }
+  "duration": "3048"
 }
