@@ -21,11 +21,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "a856e05e-68ca-4432-a8f5-4496e5afdf79",
         "name": "Emelie Valentine",
-        "appearance": "Isabella",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/370b09e0-4dac-4948-8f28-55f1f3fb10ba"
+        "appearance": "Isabella"
       },
       {
         "id": "8579da75-aabb-4d4f-bdc4-563f1c14c0da",

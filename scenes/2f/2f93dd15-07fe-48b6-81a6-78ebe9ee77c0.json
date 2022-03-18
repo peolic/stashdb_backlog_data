@@ -7,22 +7,8 @@
     "https://www.indexxx.com/set/126803/40oz-bounce-kim-sierra/"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "3c73342c-eb50-4033-ae66-d63bba38eee6",
-        "name": "Sierra & Kim",
-        "appearance": null,
-        "status": "edit"
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": null,
-        "name": "Sierra Lust",
-        "appearance": "Sierra",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=sierralust/gender=f/sierra-lust.htm"
-      },
       {
         "id": "6d27cb24-984f-4299-bb97-94553da8ae02",
         "name": "Kim Treats",

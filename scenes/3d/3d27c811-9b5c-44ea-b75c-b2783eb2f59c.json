@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "d93dce36-598c-45f6-a5c3-acb3ac9221ca",
         "name": "Carmen Treasure",
-        "appearance": "Carmen",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/0cb24670-b14b-4af2-a5cf-a8fb375ef8b6"
+        "appearance": "Carmen"
       },
       {
         "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
