@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "6fc10f34-763d-48e5-8874-7ac008d836c5",
         "name": "Tracy",
         "appearance": null,
-        "disambiguation": "2017, NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/5e6d92cf-0fac-4503-a1a4-cf8f6cecf990"
+        "disambiguation": "2017, NVG"
       },
       {
         "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",

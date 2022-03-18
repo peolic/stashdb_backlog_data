@@ -19,12 +19,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "a1a7885d-e4e6-4463-85c1-ba308a20d377",
         "name": "Rachel",
         "appearance": null,
-        "disambiguation": "2017, NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/f1e5e944-b96a-4ab5-a424-918e35cced68"
+        "disambiguation": "2017, NVG"
       }
     ]
   }
