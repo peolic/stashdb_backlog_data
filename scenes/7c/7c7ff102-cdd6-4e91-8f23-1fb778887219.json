@@ -26,17 +26,10 @@
         "appearance": "Holly"
       },
       {
-        "id": null,
+        "id": "2cd39c3b-5600-41cf-a3c0-5d665b01ad57",
         "name": "Cheyenne",
         "appearance": "Tiffany",
-        "disambiguation": "2012, 2017",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/1bd83e0e-af02-4faa-bfde-9943db9ff2ce",
-        "notes": [
-          "https://www.iafd.com/person.rme/perfid=cheyenne_tat/gender=f/cheyenne.htm",
-          "https://www.indexxx.com/m/cheyenne-3",
-          "https://www.thenude.com/Cheyenne_35693.htm"
-        ]
+        "disambiguation": "2012, 2017"
       }
     ]
   }

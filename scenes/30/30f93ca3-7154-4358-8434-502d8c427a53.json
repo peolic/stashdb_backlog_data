@@ -11,22 +11,12 @@
   "performers": {
     "remove": [
       {
-        "id": "bf8cb166-c968-4963-9dc8-a78ca351e090",
-        "name": "Lane",
-        "appearance": null
-      },
-      {
         "id": "05d6eceb-2dee-47ad-ac1a-ffcd97926ee2",
         "name": "Ann Marie",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "5bfb1e43-7b37-42cf-8ba7-3ad2acee306a",
-        "name": "Audrey Holiday",
-        "appearance": "Lane"
-      },
       {
         "id": null,
         "name": "Nikki Nice",
