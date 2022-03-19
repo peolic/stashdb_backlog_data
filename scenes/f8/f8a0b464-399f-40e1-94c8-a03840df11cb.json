@@ -16,15 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "63fe9491-8072-4857-a956-da440986cb80",
         "name": "Riley Grey",
         "appearance": null,
-        "disambiguation": "2019-",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=rileygrey_sunflower/gender=f/riley-grey.htm",
-        "notes": [
-          "a.k.a. Madison Mills"
-        ]
+        "disambiguation": "Sunflower"
       },
       {
         "id": "e0695b04-b65f-41d3-a083-68a15937ba4b",
