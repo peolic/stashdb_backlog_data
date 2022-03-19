@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "1a060080-9d20-4ae1-90e6-e9f5f8209354",
         "name": "Mia Makepeace",
-        "appearance": "Mia",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=miamakepeace/gender=f/mia-makepeace.htm"
+        "appearance": "Mia"
       }
     ]
   }

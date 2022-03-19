@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "3e63bd34-7f9c-4339-b367-fe20a04575fd",
         "name": "Danny Torro",
-        "appearance": "Samuel Tuar",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=dannytorro/gender=m/danny-torro.htm"
+        "appearance": "Samuel Tuar"
       }
     ]
   }
