@@ -17,16 +17,16 @@
     ],
     "append": [
       {
-        "id": "4abeb470-c2fd-4481-9193-b34a2bb66f62",
-        "name": "Briana Bliss",
-        "appearance": "Brianna Blair"
-      },
-      {
         "id": null,
         "name": "Ms. Desire",
         "appearance": "Mrs. Desire",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=msdesire/gender=f/ms.-desire.htm"
+      },
+      {
+        "id": "4abeb470-c2fd-4481-9193-b34a2bb66f62",
+        "name": "Briana Bliss",
+        "appearance": "Brianna Blair"
       },
       {
         "id": "7192bcba-9fac-4b0c-b8b8-a92b94fdd274",

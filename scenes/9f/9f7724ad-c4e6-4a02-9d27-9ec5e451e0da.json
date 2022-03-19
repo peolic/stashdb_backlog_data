@@ -13,15 +13,15 @@
   "performers": {
     "remove": [
       {
-        "id": "17b8397b-f4ce-4941-9066-19f82586b579",
-        "name": "Dorothy",
-        "appearance": null
-      },
-      {
         "id": "ab2aa6e2-fcf5-4a5a-ac55-a0ed24b3e48c",
         "name": "Chayanne",
         "appearance": null,
         "status": "edit"
+      },
+      {
+        "id": "17b8397b-f4ce-4941-9066-19f82586b579",
+        "name": "Dorothy",
+        "appearance": null
       },
       {
         "id": "bb32bb76-0413-49db-a21d-0e286581d84b",
@@ -31,11 +31,6 @@
     ],
     "append": [
       {
-        "id": "669e8c13-f48a-4608-a906-6b6cf3bde3d6",
-        "name": "Jamie Hendrix",
-        "appearance": "Dorothy"
-      },
-      {
         "id": null,
         "name": "Violet Winters",
         "appearance": "Chayanne",
@@ -44,6 +39,11 @@
         "notes": [
           "https://www.indexxx.com/m/violet-winters"
         ]
+      },
+      {
+        "id": "669e8c13-f48a-4608-a906-6b6cf3bde3d6",
+        "name": "Jamie Hendrix",
+        "appearance": "Dorothy"
       },
       {
         "id": "29fd1ce3-1587-47d8-8903-93e9a94db445",

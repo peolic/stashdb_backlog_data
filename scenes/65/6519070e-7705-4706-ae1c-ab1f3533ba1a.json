@@ -17,11 +17,6 @@
     ],
     "append": [
       {
-        "id": "89997696-6585-4775-9f3d-15655c61fcde",
-        "name": "Mz. Booty",
-        "appearance": null
-      },
-      {
         "id": null,
         "name": "Manaj-A-Star",
         "appearance": "Manaje A Star",
@@ -30,6 +25,11 @@
         "notes": [
           "https://www.indexxx.com/m/manaje-a-star"
         ]
+      },
+      {
+        "id": "89997696-6585-4775-9f3d-15655c61fcde",
+        "name": "Mz. Booty",
+        "appearance": null
       }
     ]
   }

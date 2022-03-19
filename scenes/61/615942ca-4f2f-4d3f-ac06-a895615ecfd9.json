@@ -17,14 +17,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "7fb334c1-0510-46e6-a3f5-1e0645698e0e",
         "name": "Serenity Adams",
-        "appearance": "Charity",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=serenityadams/gender=f/serenity-adams.htm",
-        "notes": [
-          "https://www.freeones.com/forums/threads/serenity-adams-charity.955438/"
-        ]
+        "appearance": "Charity"
       },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",

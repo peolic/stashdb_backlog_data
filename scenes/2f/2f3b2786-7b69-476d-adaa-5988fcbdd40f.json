@@ -17,11 +17,6 @@
     ],
     "append": [
       {
-        "id": "d491df58-ec8a-4d95-9459-62405ac5e442",
-        "name": "Sydnee Capri",
-        "appearance": "Sydnee"
-      },
-      {
         "id": null,
         "name": "Heaven",
         "appearance": null,
@@ -30,6 +25,11 @@
         "notes": [
           "https://www.iafd.com/person.rme/perfid=heaven_bl_09/gender=f/heaven.htm"
         ]
+      },
+      {
+        "id": "d491df58-ec8a-4d95-9459-62405ac5e442",
+        "name": "Sydnee Capri",
+        "appearance": "Sydnee"
       }
     ]
   }
