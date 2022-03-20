@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "347982c4-ccfd-4ccb-ba90-f395bb9aa92e",
         "name": "Shay Gunz",
-        "appearance": "Shae",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=shaygunz/gender=m/shay-gunz.htm"
+        "appearance": "Shae"
       }
     ]
   }
