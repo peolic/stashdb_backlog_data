@@ -17,6 +17,11 @@
         "id": "dbc6a7b1-3ede-45c2-85ff-c5491bbcdb3d",
         "name": "Monica",
         "appearance": null
+      },
+      {
+        "id": "89d5b8c1-d855-484e-a596-7d01b33363b0",
+        "name": "Sergio",
+        "appearance": null
       }
     ],
     "append": [
@@ -37,6 +42,11 @@
         "id": "cdb6ba70-89c9-42c5-9b9e-73581a074783",
         "name": "Alexis Stevens",
         "appearance": "Monica"
+      },
+      {
+        "id": "9b493973-83b9-4d4e-9c82-614ffbd583fc",
+        "name": "Sergio Escoto",
+        "appearance": "Sergio"
       }
     ]
   }

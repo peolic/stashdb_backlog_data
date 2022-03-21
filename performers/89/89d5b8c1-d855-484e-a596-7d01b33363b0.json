@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Sergio",
+    "shards": [
+      {
+        "id": null,
+        "name": "Sergio Suarez (this performer)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sergio/gender=m/sergio.htm"
+        ]
+      },
+      {
+        "id": "9b493973-83b9-4d4e-9c82-614ffbd583fc",
+        "name": "Sergio Escoto",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sergioescoto/gender=m/sergio-escoto.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
