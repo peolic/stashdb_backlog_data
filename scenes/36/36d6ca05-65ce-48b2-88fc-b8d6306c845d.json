@@ -1,0 +1,26 @@
+{
+  "c_studio": [
+    "Net Girl",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=net+girl+1109%3a+daisy+and+ivy/year=2017/net-girl-1109%3a-daisy-and-ivy.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "8a0d98c5-5a09-4bc3-9610-a95cebede9f8",
+        "name": "Daisy",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "7beec29c-840e-4000-ba3f-d8c39bf4dcca",
+        "name": "Daisy",
+        "appearance": null,
+        "disambiguation": "NVG Network 2017"
+      }
+    ]
+  }
+}

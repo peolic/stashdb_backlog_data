@@ -16,13 +16,12 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "409612f9-3115-40d4-9cbf-d7c8b63c6418",
         "name": "Haylee Haven",
         "appearance": "Hailey",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=hayleehaven/gender=f/haylee-haven.htm",
         "notes": [
-          "https://www.indexxx.com/m/haylee-haven"
+          "https://www.indexxx.com/m/haylee-haven",
+          "https://www.iafd.com/person.rme/perfid=hayleehaven/gender=f/haylee-haven.htm"
         ]
       },
       {
