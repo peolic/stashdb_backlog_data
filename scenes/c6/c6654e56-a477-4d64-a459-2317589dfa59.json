@@ -11,20 +11,14 @@
       {
         "id": "42db4de4-2ad5-45b4-b8a6-7389926c7476",
         "name": "Brianna Blair & Mrs. Desire",
-        "appearance": null,
-        "status": "edit"
+        "appearance": null
       }
     ],
     "append": [
       {
-        "id": null,
+        "id": "e7134a02-9bb9-4c85-a175-ee5ccb25000c",
         "name": "Ms. Desire",
-        "appearance": "Mrs. Desire",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=msdesire/gender=f/ms.-desire.htm",
-        "notes": [
-          "https://www.indexxx.com/m/mrs-desire"
-        ]
+        "appearance": "Mrs. Desire"
       },
       {
         "id": "4abeb470-c2fd-4481-9193-b34a2bb66f62",
