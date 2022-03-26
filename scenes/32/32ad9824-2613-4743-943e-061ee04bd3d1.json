@@ -17,12 +17,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "fc5c0643-2ea8-4955-b8a6-8d2834cc98cf",
         "name": "Ruby",
         "appearance": null,
-        "disambiguation": "2019, NVG",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/b4dafff4-85f1-483c-9e71-1f8ef7bd8cc5"
+        "disambiguation": "2019, NVG"
       },
       {
         "id": "322ffadd-ea35-484c-9d5a-ef27faea0057",
