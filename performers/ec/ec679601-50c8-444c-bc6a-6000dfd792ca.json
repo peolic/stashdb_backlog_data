@@ -4,18 +4,11 @@
     "shards": [
       {
         "id": null,
-        "name": "Sydney [2019, NVG]",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sydney_nvg_2019/gender=f/sydney.htm"
-        ]
-      },
-      {
-        "id": null,
         "name": "Sydney [2009, Sean Cody]"
       }
     ],
     "notes": [
-      "Mix of multiple performers. Mostly Bentley Pierce. Scenes listed on Scene-Performers."
+      "Now unique, needs info update"
     ]
   }
 }

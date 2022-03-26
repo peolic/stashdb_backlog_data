@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "38e24794-50a3-4a12-977c-7ecf441ed73b",
         "name": "Adele Hotness",
-        "appearance": "Nasty",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=adelehotness/gender=f/adele-hotness.htm"
+        "appearance": "Nasty"
       }
     ]
   }
