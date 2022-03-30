@@ -16,12 +16,11 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "89a930bb-fde7-47a4-a609-3037f11e7ce0",
         "name": "Jayden Von Teeze",
         "appearance": "Jayden",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jaydenvonteeze/gender=f/jayden-von-teeze.htm",
         "notes": [
+          "https://www.iafd.com/person.rme/perfid=jaydenvonteeze/gender=f/jayden-von-teeze.htm",
           "https://www.indexxx.com/m/jayden"
         ]
       }
