@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "1bd9fae7-3ea8-4f40-9726-5ddd3629225b",
         "name": "Leila Ferraz",
-        "appearance": "Leila",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/8243c864-ab58-42f7-a7a5-a1a1ebaa6b35"
+        "appearance": "Leila"
       }
     ]
   }

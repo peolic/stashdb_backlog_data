@@ -1,0 +1,38 @@
+{
+  "c_studio": [
+    "Backroom Casting Couch",
+    null
+  ],
+  "comments": [
+    "IAFD and",
+    "https://www.indexxx.com/m/gina-west"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "de7a39b1-6c59-4597-8e0c-a813f71507bb",
+        "name": "Kobi and Gina",
+        "appearance": null,
+        "status": "edit"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Corin",
+        "appearance": "Kobi",
+        "disambiguation": "Only Teen Blowjobs",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=corin_bp_11/gender=f/corin.htm",
+        "notes": [
+          "https://www.indexxx.com/m/corin-1"
+        ]
+      },
+      {
+        "id": "5a6bfd12-4fae-41b7-835f-5eceae781d80",
+        "name": "Gina West",
+        "appearance": "Gina"
+      }
+    ]
+  }
+}

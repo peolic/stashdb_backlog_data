@@ -1,0 +1,26 @@
+{
+  "c_studio": [
+    "Backroom Casting Couch",
+    null
+  ],
+  "comments": [
+    "https://www.indexxx.com/m/gina-west",
+    "https://www.freeones.com/forums/threads/performer-guide-backroomcastingcouch-com.725886/#post-8269521"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "f2315530-73de-4863-b5db-80c29638b8eb",
+        "name": "Gina",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5a6bfd12-4fae-41b7-835f-5eceae781d80",
+        "name": "Gina West",
+        "appearance": "Gina"
+      }
+    ]
+  }
+}
