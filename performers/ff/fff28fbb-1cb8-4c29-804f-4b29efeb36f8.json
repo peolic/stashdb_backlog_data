@@ -1,10 +1,3 @@
 {
-  "duplicates": {
-    "ids": [
-      "b8601ddf-c95c-4617-ac2e-09106a99511b"
-    ],
-    "notes": [
-      "https://www.iafd.com/person.rme/perfid=lennaross/gender=f/lenna-ross.htm"
-    ]
-  }
+  "duplicate_of": "b8601ddf-c95c-4617-ac2e-09106a99511b"
 }
