@@ -1,0 +1,16 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "9d9d4538b26976a2",
+      "correct_scene_id": null,
+      "duration": 3493
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "050975bc8c5a9c0c",
+      "correct_scene_id": null,
+      "duration": 3493
+    }
+  ]
+}
