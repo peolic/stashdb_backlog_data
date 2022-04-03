@@ -2,6 +2,12 @@
   "fingerprints": [
     {
       "algorithm": "phash",
+      "hash": "e856e4c6b0b532b9",
+      "correct_scene_id": "b423db9d-9e13-4af6-95bd-62f477fb8517",
+      "duration": 3510
+    },
+    {
+      "algorithm": "phash",
       "hash": "9242de93d9317593",
       "correct_scene_id": null,
       "duration": 3782

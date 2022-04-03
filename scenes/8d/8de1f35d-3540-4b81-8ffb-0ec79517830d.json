@@ -1,0 +1,31 @@
+{
+  "c_studio": [
+    "Big Naturals",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=town+hottie/year=2002/town-hottie.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "782fd292-10ac-4f94-8f7f-3331d57f1a01",
+        "name": "Tiffany",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "f7ae0dcf-5ebf-4481-a4a1-2ffcf9c51107",
+        "name": "Tiffany Hunter",
+        "appearance": "Tiffany",
+        "disambiguation": "realitykings"
+      },
+      {
+        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
+        "name": "Shawn Rees",
+        "appearance": "Hunter"
+      }
+    ]
+  }
+}
