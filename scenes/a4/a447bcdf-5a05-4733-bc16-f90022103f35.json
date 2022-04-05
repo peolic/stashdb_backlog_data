@@ -1,0 +1,28 @@
+{
+  "c_studio": [
+    "White Ghetto",
+    null
+  ],
+  "comments": [
+    "https://www.data18.com/movies/1106045-big-black-gangbang-3",
+    "https://www.adultdvdempire.com/1621382/big-black-gang-bang-3-porn-movies.html"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "0286cbf7-840d-4cb0-b625-8183dee033c5",
+        "name": "Pleasure",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Pleasure Unique",
+        "appearance": "Pleasure",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=pleasureunique/gender=f/pleasure-unique.htm"
+      }
+    ]
+  }
+}
