@@ -4,28 +4,34 @@
     null
   ],
   "comments": [
-    "https://www.iafd.com/title.rme/title=black+wolf+booty+bounce/year=2009/black-wolf-booty-bounce.htm"
+    "higher resolution",
+    "https://www.iafd.com/title.rme/title=black+wolf+booty+bounce/year=2009/black-wolf-booty-bounce.htm",
+    "https://www.indexxx.com/set/126554/40oz-bounce-gemini-sensious/"
   ],
+  "duration": "1779",
+  "image": "http://cdn.pichunter.com/247/1/2471430/2471430_7_o.jpg",
   "performers": {
     "remove": [
       {
         "id": "05061921-8ce5-4a76-9891-bd75275c0df6",
         "name": "Sensious & Gemini",
-        "appearance": null,
-        "status": "edit"
+        "appearance": null
       }
     ],
     "append": [
       {
-        "id": null,
+        "id": "05061921-8ce5-4a76-9891-bd75275c0df6",
         "name": "Monai Maebach",
-        "appearance": "Gemini",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=monaimaebach/gender=f/monai-maebach.htm"
+        "appearance": "Gemini"
       },
       {
         "id": "a37ce2fc-a5f0-486a-ad38-2d6b06321018",
         "name": "Sensious",
+        "appearance": null
+      },
+      {
+        "id": "52d34659-5973-4d01-9f27-de07610ed1ee",
+        "name": "Julius Ceazher",
         "appearance": null
       }
     ]
