@@ -16,17 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "2cbfdc00-c316-45df-9ac4-046f0100142e",
         "name": "Jessica Dalton",
-        "appearance": "Jessie",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jessicadalton_08/gender=f/jessica-dalton.htm",
-        "notes": [
-          "https://www.indexxx.com/m/jessie-dalton",
-          "https://www.thenude.com/Jessica%20Dalton_39178.htm",
-          "https://www.babepedia.com/babe/Jessie_Dalton",
-          "https://www.freeones.com/jessica-dalton"
-        ]
+        "appearance": "Jessie"
       }
     ]
   }
