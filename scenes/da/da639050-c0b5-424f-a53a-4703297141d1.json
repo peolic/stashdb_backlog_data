@@ -1,0 +1,33 @@
+{
+  "c_studio": [
+    "Pure 18",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=cherry+picker/year=2008/cherry-picker.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "a7669e73-ab8c-41ec-9e06-38f83791628b",
+        "name": "Jessie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jessica Dalton",
+        "appearance": "Jessie",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jessicadalton_08/gender=f/jessica-dalton.htm",
+        "notes": [
+          "https://www.indexxx.com/m/jessie-dalton",
+          "https://www.thenude.com/Jessica%20Dalton_39178.htm",
+          "https://www.babepedia.com/babe/Jessie_Dalton",
+          "https://www.freeones.com/jessica-dalton"
+        ]
+      }
+    ]
+  }
+}
