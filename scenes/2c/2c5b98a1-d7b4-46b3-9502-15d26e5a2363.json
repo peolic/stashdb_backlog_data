@@ -12,11 +12,6 @@
         "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
         "name": "Nikki",
         "appearance": null
-      },
-      {
-        "id": "89d5b8c1-d855-484e-a596-7d01b33363b0",
-        "name": "Sergio",
-        "appearance": null
       }
     ],
     "append": [
@@ -26,11 +21,6 @@
         "appearance": "Nikki",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=nblaze/gender=f/nikki-blaze.htm"
-      },
-      {
-        "id": "9b493973-83b9-4d4e-9c82-614ffbd583fc",
-        "name": "Sergio Escoto",
-        "appearance": "Sergio"
       }
     ]
   }
