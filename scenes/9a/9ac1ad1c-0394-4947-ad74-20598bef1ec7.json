@@ -16,14 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "0dcd43dd-01cf-40b8-abb6-48dffc7dc8f2",
         "name": "Cali Winters",
-        "appearance": "Cali",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=caliwinters/gender=f/cali-winters.htm",
-        "notes": [
-          "https://www.indexxx.com/m/cali-winters"
-        ]
+        "appearance": "Cali"
       }
     ]
   }
