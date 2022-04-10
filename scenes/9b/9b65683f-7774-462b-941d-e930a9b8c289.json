@@ -1,3 +1,11 @@
 {
-  "duplicate_of": "9ed44484-5eee-4a86-a7cd-ee11c29a737e"
+  "duplicate_of": "9ed44484-5eee-4a86-a7cd-ee11c29a737e",
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "9c3c3c76070eec6c",
+      "correct_scene_id": "23b686be-d469-42c9-a3e0-9712811382ba",
+      "duration": 1195
+    }
+  ]
 }
