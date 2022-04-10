@@ -1,9 +1,17 @@
 {
   "split": {
     "name": "Josh",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Josh (DirtyFlix, 18videoz)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=vitaliy_rus/gender=m/vitaliy.htm"
+        ]
+      }
+    ],
     "notes": [
-      "Generic performer"
+      "Mix of multiple performers (partial list)"
     ]
   }
 }
