@@ -1,0 +1,25 @@
+{
+  "c_studio": [
+    "Butts & Blacks",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=jordan+strikes+again/year=2007/jordan-strikes-again.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "617379de-310f-444b-9c45-ee43d92c3e18",
+        "name": "Krystal",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "be2a854b-5ddd-4128-9a33-963b26268820",
+        "name": "Krystal Jordan",
+        "appearance": "Krystal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "c_studio": [
+    "Lez Cuties",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=dirty+talk+%28ii%29/year=2007/dirty-talk-%28ii%29.htm",
+    "https://www.indexxx.com/set/9653/lez-cuties-krystal-linda-d/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "617379de-310f-444b-9c45-ee43d92c3e18",
+        "name": "Krystal",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0ab77869-4fdd-4d9a-92aa-4d5622796156",
+        "name": "Kassey Krystal",
+        "appearance": "Krystal"
+      }
+    ]
+  }
+}

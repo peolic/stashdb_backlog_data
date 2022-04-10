@@ -1,0 +1,30 @@
+{
+  "c_studio": [
+    "Wake Up n Fuck",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=wunf+8/year=2010/wunf-8.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "617379de-310f-444b-9c45-ee43d92c3e18",
+        "name": "Krystal",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "ba7f3094-f856-425c-84ca-048e94647ca0",
+        "name": "Chrystal Lee",
+        "appearance": "Krystal"
+      },
+      {
+        "id": "7d77cab6-e6ca-4f1a-8217-3a22cbad8316",
+        "name": "Pierre Woodman",
+        "appearance": null
+      }
+    ]
+  }
+}
