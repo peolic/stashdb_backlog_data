@@ -11,6 +11,12 @@
       "hash": "432bc3b899620af8",
       "correct_scene_id": "b64c99cf-a400-4039-81b1-c731ea00651a",
       "duration": 4723
+    },
+    {
+      "algorithm": "phash",
+      "hash": "cbede0c1c8d3c8ca",
+      "correct_scene_id": "b64c99cf-a400-4039-81b1-c731ea00651a",
+      "duration": 4721
     }
   ]
 }
