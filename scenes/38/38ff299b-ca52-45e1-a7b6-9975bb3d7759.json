@@ -12,11 +12,6 @@
         "id": "a5c7e58a-0324-4a62-a57a-0eb0ee4313ed",
         "name": "Josh",
         "appearance": null
-      },
-      {
-        "id": "e81305cc-24bd-401e-b2fe-4c3c994f87a5",
-        "name": "Justin",
-        "appearance": null
       }
     ],
     "append": [
@@ -25,11 +20,6 @@
         "name": "Josh",
         "appearance": null,
         "disambiguation": "Sean Cody"
-      },
-      {
-        "id": "0e0f2a56-e948-42b9-bf03-a45ac87c0667",
-        "name": "Justin",
-        "appearance": null
       }
     ]
   }
