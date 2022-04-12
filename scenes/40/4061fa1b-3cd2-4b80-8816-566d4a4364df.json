@@ -1,0 +1,21 @@
+{
+  "c_studio": [
+    "X-Art",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=working+out+together/year=2013/working-out-together.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "PD Will",
+        "appearance": "Bryan",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=will_13_eu/gender=m/will.htm"
+      }
+    ]
+  }
+}
