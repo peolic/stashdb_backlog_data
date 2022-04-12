@@ -32,15 +32,15 @@
     },
     {
       "algorithm": "phash",
-      "hash": "9242de93d9317593",
-      "correct_scene_id": null,
-      "duration": 3781
-    },
-    {
-      "algorithm": "phash",
       "hash": "9342d897d9a57583",
       "correct_scene_id": null,
       "duration": 3782
+    },
+    {
+      "algorithm": "phash",
+      "hash": "9242de93d9317593",
+      "correct_scene_id": null,
+      "duration": 3781
     },
     {
       "algorithm": "phash",
