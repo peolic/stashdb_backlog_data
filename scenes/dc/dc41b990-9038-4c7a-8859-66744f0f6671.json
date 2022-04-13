@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "cdb3ee8c-1dd2-4687-9ba7-bf8092fd2023",
         "name": "Emma",
         "appearance": null,
-        "disambiguation": "TS, 2015-16",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=emma_16_ts/gender=f/emma.htm"
+        "disambiguation": "Evil Angel 2015"
       }
     ]
   }
