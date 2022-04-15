@@ -3,7 +3,80 @@
     {
       "algorithm": "phash",
       "hash": "e40f97268f9c7492",
-      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07"
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "6b344e55bba74b8e",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "0d4fa5efc91183db",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "21a80a7732af449e",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "32582f2fb45446d3",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "38dc2bd278ed98c9",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "514c25e176fdfa23",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "phash",
+      "hash": "e40b97268f9d7492",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "md5",
+      "hash": "475cac45d61f9a21c09eea5803074ecd",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "md5",
+      "hash": "d17730ac092254e42e710fc6f4937c5e",
+      "correct_scene_id": "a7e5ff73-fc0f-4e1f-a5a8-d415bada5a07",
+      "duration": 1996
+    },
+    {
+      "algorithm": "md5",
+      "hash": "e5297aad5f2d1dcd951b63ea5cf39539",
+      "correct_scene_id": "f0eee5cf-6818-4f30-995e-d435b3a67c51",
+      "duration": 1979
+    },
+    {
+      "algorithm": "phash",
+      "hash": "b9c22667b087e70b",
+      "correct_scene_id": "f0eee5cf-6818-4f30-995e-d435b3a67c51",
+      "duration": 1979
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "e1bbd68e5c77847b",
+      "correct_scene_id": "f0eee5cf-6818-4f30-995e-d435b3a67c51",
+      "duration": 1979
     }
   ]
 }
