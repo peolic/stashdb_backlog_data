@@ -7,6 +7,12 @@
     },
     {
       "algorithm": "oshash",
+      "hash": "45b098c31fcac193",
+      "correct_scene_id": null,
+      "duration": 5
+    },
+    {
+      "algorithm": "oshash",
       "hash": "e1f77c6db2538180",
       "correct_scene_id": null,
       "duration": 3
@@ -28,6 +34,24 @@
       "hash": "667c3ac82602a4f5",
       "correct_scene_id": null,
       "duration": 94038
+    },
+    {
+      "algorithm": "phash",
+      "hash": "ea59974963f0bc44",
+      "correct_scene_id": null,
+      "duration": 3438
+    },
+    {
+      "algorithm": "phash",
+      "hash": "ea59b74963f0b444",
+      "correct_scene_id": null,
+      "duration": 3438
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "7a3021831df26897",
+      "correct_scene_id": null,
+      "duration": 1402
     }
   ]
 }
