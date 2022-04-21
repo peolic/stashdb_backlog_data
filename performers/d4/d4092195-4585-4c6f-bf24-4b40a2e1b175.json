@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Amber",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Amber Rosexoxo",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=amberrosexoxo/gender=f/amber-rosexoxo.htm",
+          "https://www.indexxx.com/m/amber-48"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
