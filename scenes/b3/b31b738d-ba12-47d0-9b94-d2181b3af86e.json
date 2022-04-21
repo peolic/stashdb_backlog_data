@@ -1,0 +1,27 @@
+{
+  "c_studio": [
+    "First Time Auditions",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=baring+it+all/year=2007/baring-it-all.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "360ee3ca-54e5-46d3-b628-8f41902f5113",
+        "name": "Aj",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Julius Pleaser",
+        "appearance": "AJ",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/09152dd7-9f84-49e8-9507-29b87d61cf4e"
+      }
+    ]
+  }
+}
