@@ -1,0 +1,32 @@
+{
+  "c_studio": [
+    "Facial Fest",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=tips+from+a+pornstar+rachel+starr/year=2012/tips-from-a-pornstar-rachel-starr.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
+        "name": "Amber",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Amber Rosexoxo",
+        "appearance": "Amber",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=amberrosexoxo/gender=f/amber-rosexoxo.htm"
+      },
+      {
+        "id": "816ea58e-7ae6-41aa-84af-f3b40b5595e2",
+        "name": "Preston Parker",
+        "appearance": null
+      }
+    ]
+  }
+}
