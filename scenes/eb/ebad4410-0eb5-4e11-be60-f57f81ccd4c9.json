@@ -1,15 +1,4 @@
 {
-  "c_studio": [
-    "Net Video Girls",
-    null
-  ],
-  "comments": [
-    "NetVideoGirls.17.01.08.Amber.XXX.1080p.MP4-KTR",
-    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809479",
-    "Ep 2017-01-08...NVG...Amber...Amber Gold",
-    "https://calendarauditions.com/pornstar/amber_gold/"
-  ],
-  "date": "2017-01-08",
   "fingerprints": [
     {
       "algorithm": "oshash",
@@ -23,21 +12,5 @@
       "correct_scene_id": "b2a11487-206f-48c7-907e-924d822ae154",
       "duration": 3863
     }
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
-        "name": "Amber",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "4010ef35-acc7-481e-9e13-d0a6e50c7e57",
-        "name": "Amber Gold",
-        "appearance": "Amber"
-      }
-    ]
-  }
+  ]
 }
