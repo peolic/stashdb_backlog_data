@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
-        "name": "Brittany Taylor",
-        "appearance": "Brittany",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=brittanytaylor/gender=f/brittany-taylor.htm"
+        "id": "2a2697aa-7d1c-47c0-be79-a60490872018",
+        "name": "Kayla Lowden",
+        "appearance": "Brittany"
       }
     ]
   }
