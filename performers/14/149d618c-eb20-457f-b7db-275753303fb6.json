@@ -1,0 +1,19 @@
+{
+  "duplicate_of": "f08284a7-c3ae-44b9-8ca6-93c572b9fc1f",
+  "split": {
+    "name": "Roma",
+    "shards": [
+      {
+        "id": "f08284a7-c3ae-44b9-8ca6-93c572b9fc1f",
+        "name": "Jackie Avalon (merge)"
+      },
+      {
+        "id": null,
+        "name": "Roma (Teeny Lovers)"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-04-25). Roma should be merged into Jackie Avalon once clear."
+    ]
+  }
+}
