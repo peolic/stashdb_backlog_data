@@ -1,0 +1,17 @@
+{
+  "split": {
+    "name": "Jerry",
+    "shards": [
+      {
+        "id": "d9398801-bbfa-47bc-9212-cb2b666dd45b",
+        "name": "Jerry Kovak",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jerry_m_04/gender=m/jerry.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
