@@ -1,0 +1,22 @@
+{
+  "split": {
+    "name": "Gregg",
+    "shards": [
+      {
+        "id": "b294d170-865e-4776-9bbd-7e3d85993cc9",
+        "name": "Greg Centauro",
+        "text": "(tattoos)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=gcentauro/gender=m/greg-centauro.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Gregg (Sean Cody)"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (list should be complete as of 2022-04-26)"
+    ]
+  }
+}
