@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Ryder Cummings",
+    "shards": [
+      {
+        "id": null,
+        "name": "Ryder Cummings (black)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rydercummings/gender=f/ryder-cummings.htm",
+          "https://www.indexxx.com/m/ryder-cummings"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Ryder Cummings (latina)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rydercummings_lat/gender=f/ryder-cummings.htm",
+          "https://www.indexxx.com/m/ryder-cummings-1"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of 2 performers"
+    ]
+  }
+}
