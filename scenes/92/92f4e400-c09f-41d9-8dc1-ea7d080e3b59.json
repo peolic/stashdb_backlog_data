@@ -16,14 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "0351c5de-1223-4f5f-92c6-a1310e35deac",
         "name": "Holly Henderson",
-        "appearance": "Holly",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=holly_11/gender=f/holly-henderson.htm",
-        "notes": [
-          "https://www.indexxx.com/m/holly-henderson"
-        ]
+        "appearance": "Holly"
       }
     ]
   }
