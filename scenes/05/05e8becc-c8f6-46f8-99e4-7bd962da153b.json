@@ -1,0 +1,32 @@
+{
+  "c_studio": [
+    "Cum Fiesta",
+    null
+  ],
+  "comments": [
+    "correct",
+    "https://www.iafd.com/title.rme/title=texas+taco/year=2005/texas-taco.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "01786bc8-7a15-4129-874d-784c84130d50",
+        "name": "Harmony Rose",
+        "appearance": "Harmony"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Annika",
+        "appearance": "Harmony",
+        "disambiguation": "2006-2009",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=annika_06/gender=f/annika.htm",
+        "notes": [
+          "https://www.indexxx.com/m/annika-1"
+        ]
+      }
+    ]
+  }
+}

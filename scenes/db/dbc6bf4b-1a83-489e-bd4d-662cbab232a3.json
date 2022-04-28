@@ -16,16 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "7b9d2bd6-9686-4219-95ac-c14351a33e79",
         "name": "Harmony",
         "appearance": null,
-        "disambiguation": "Canadian, 2008",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/010226c7-bbc5-4eb1-8e14-4a33f83cc4e2",
-        "notes": [
-          "https://www.indexxx.com/m/harmony",
-          "https://www.thenude.com/Harmony_11782.htm"
-        ]
+        "disambiguation": "Canadian, 2008"
       }
     ]
   }
