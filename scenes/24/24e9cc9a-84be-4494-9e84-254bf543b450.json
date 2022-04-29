@@ -1,0 +1,30 @@
+{
+  "c_studio": [
+    "My Naughty Latin Maid",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=my+naughty+latin+maid+219/year=2004/my-naughty-latin-maid-219.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "3da23023-5fdd-488b-bfb1-dd624f58e919",
+        "name": "Camille",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Camilla Bored",
+        "appearance": "Camille",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=camillabored/gender=f/camilla-bored.htm",
+        "notes": [
+          "https://www.indexxx.com/m/camilla-1"
+        ]
+      }
+    ]
+  }
+}
