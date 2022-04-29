@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Kittie",
+    "shards": [
+      {
+        "id": "608ac760-a9a6-400f-8a84-90ff4a5c0f28",
+        "name": "Kittie Ku",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kittie_hun/gender=f/kittie.htm",
+          "https://www.indexxx.com/m/kittie"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Kittie (2008-2009, BangBros)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kittie_bang_09/gender=f/kittie.htm",
+          "https://www.indexxx.com/m/kittie-2"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers"
+    ]
+  }
+}
