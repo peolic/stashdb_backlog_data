@@ -1,0 +1,32 @@
+{
+  "c_studio": [
+    "Errotica Archives",
+    null
+  ],
+  "comments": [
+    "https://www.indexxx.com/set/474859/errotica-archives-tea/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5a7f0db7-8e74-42be-9cac-a93386fd5f9a",
+        "name": "Tea",
+        "appearance": null,
+        "disambiguation": "Czech"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Tea",
+        "appearance": null,
+        "disambiguation": "Errotica Archives",
+        "status": "new",
+        "status_url": "https://www.indexxx.com/m/tea-1",
+        "notes": [
+          "https://www.thenude.com/Tea_12657.htm"
+        ]
+      }
+    ]
+  }
+}
