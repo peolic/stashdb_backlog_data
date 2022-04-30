@@ -1,17 +1,6 @@
 {
-  "split": {
-    "name": "Clover",
-    "shards": [
-      {
-        "id": null,
-        "name": "Clover",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=clover_12/gender=m/clover.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Performer should be clear now, info needs to be updated and made unique."
-    ]
-  }
+  "name": "Clover",
+  "urls": [
+    "https://www.iafd.com/person.rme/perfid=clover_12/gender=m/clover.htm"
+  ]
 }
