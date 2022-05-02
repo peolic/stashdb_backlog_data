@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "d56dab81-62c7-4bff-a9f6-cdd050972fd1",
         "name": "Nala Queen",
-        "appearance": "Nala",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/564f2e6e-ec00-42a4-a62a-bec5988096c8"
+        "appearance": "Nala"
       }
     ]
   }
