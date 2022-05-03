@@ -1,14 +1,4 @@
 {
-  "duplicates": {
-    "ids": [
-      "efc4f445-2133-4502-bdd5-55f2634ebfdb"
-    ],
-    "notes": [
-      "Main performer needs to be split up:",
-      "- Listed on Performers To Split Up",
-      "- 1 scene listed on Scene-Performers"
-    ]
-  },
   "split": {
     "name": "Harmony Rose",
     "shards": [
