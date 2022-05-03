@@ -10,12 +10,10 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "518cf4d4-1825-4054-b15b-367b7f7b2414",
         "name": "Will",
         "appearance": "PD Will",
-        "disambiguation": "Blond Czech",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/9015f2c2-3d96-4889-b938-0748881c0c3b"
+        "disambiguation": "Blond Czech"
       }
     ]
   }
