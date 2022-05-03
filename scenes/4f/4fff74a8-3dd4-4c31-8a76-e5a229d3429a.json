@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
-        "name": "Olivia Gem",
-        "appearance": "Olivia",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=olivagem/gender=f/oliva-gem.htm"
+        "id": "1e1f7b6f-6922-4009-988d-ea0701321781",
+        "name": "Oliva Gem",
+        "appearance": "Olivia"
       }
     ]
   }
