@@ -11,10 +11,11 @@
     "append": [
       {
         "id": null,
-        "name": "PD Will",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=will_13_eu/gender=m/will.htm"
+        "name": "Will",
+        "appearance": "PD Will",
+        "disambiguation": "Blond Czech",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/9015f2c2-3d96-4889-b938-0748881c0c3b"
       }
     ]
   }
