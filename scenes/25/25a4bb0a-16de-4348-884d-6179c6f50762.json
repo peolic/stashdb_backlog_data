@@ -13,7 +13,8 @@
       {
         "id": "7d9f0c70-8045-4320-9bcc-c515448ddb11",
         "name": "Nala",
-        "appearance": null
+        "appearance": null,
+        "status": "edit"
       }
     ],
     "append": [
