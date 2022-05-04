@@ -1,0 +1,29 @@
+{
+  "c_studio": [
+    "Backroom Casting Couch",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1608%3a+stephanie/year=2020/backroom-casting-couch-1608%3a-stephanie.htm",
+    "https://www.backroomcastingcouch.com/trailers/Stephanie-video.html"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "65912c4f-49cb-457f-ab1e-8e45eda1c5d0",
+        "name": "Stephanie",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Stephanie",
+        "appearance": null,
+        "disambiguation": "2020, BCC",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=stephanie_brcc_2020/gender=f/stephanie.htm"
+      }
+    ]
+  }
+}

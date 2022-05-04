@@ -1,15 +1,4 @@
 {
-  "duplicates": {
-    "ids": [
-      "07002d80-f776-41f8-91d3-3343bfb2b174"
-    ],
-    "notes": [
-      "listed on Performers To Split Up",
-      "the target is the performer from 2019 onwards",
-      "https://www.indexxx.com/m/brianna-rose-1",
-      "https://www.iafd.com/person.rme/perfid=jessarose/gender=f/brianna-rose.htm"
-    ]
-  },
   "split": {
     "name": "Brianna Rose",
     "shards": [

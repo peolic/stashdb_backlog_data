@@ -1,0 +1,30 @@
+{
+  "c_studio": [
+    "Backroom Casting Couch",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=backroom+casting+couch+1597%3a+lilly/year=2019/backroom-casting-couch-1597%3a-lilly.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "f0c5997e-5d11-4b40-b34f-c9db23bae1b4",
+        "name": "Lilly",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Lilly Swagg",
+        "appearance": "Lilly",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=lilly_brcc_19/gender=f/lilly.htm",
+        "notes": [
+          "http://twitter.com/lillyswagg2"
+        ]
+      }
+    ]
+  }
+}
