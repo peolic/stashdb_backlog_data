@@ -36,11 +36,9 @@
         "appearance": "Nikki"
       },
       {
-        "id": null,
+        "id": "2f8aa242-e235-461e-834b-b6432bd56b7d",
         "name": "Dawn Dynamite",
-        "appearance": "Dawn",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/c2a23a75-d01c-4677-9f25-724fb1ae77f3"
+        "appearance": "Dawn"
       }
     ]
   }
