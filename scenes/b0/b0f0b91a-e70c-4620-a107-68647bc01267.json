@@ -28,7 +28,10 @@
         "name": "Georgia Brown",
         "appearance": "Georgia",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=georgiabrown/gender=f/georgia-brown.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=georgiabrown/gender=f/georgia-brown.htm",
+        "notes": [
+          "https://www.indexxx.com/m/georgia-brown-1"
+        ]
       }
     ]
   }
