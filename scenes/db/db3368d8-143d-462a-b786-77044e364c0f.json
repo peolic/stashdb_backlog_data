@@ -4,7 +4,7 @@
     null
   ],
   "comments": [
-    "https://www.iafd.com/title.rme/title=lets+stay+here/year=2014/lets_stay_here.htm"
+    "https://www.iafd.com/title.rme/title=lets+stay+here/year=2014/lets-stay-here.htm"
   ],
   "performers": {
     "remove": [
@@ -39,11 +39,8 @@
         "id": null,
         "name": "Dawn Dynamite",
         "appearance": "Dawn",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=dawndynamite_2013/gender=f/dawn-dynamite.htm",
-        "notes": [
-          "https://www.indexxx.com/m/dawn-dynamite"
-        ]
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/c2a23a75-d01c-4677-9f25-724fb1ae77f3"
       }
     ]
   }
