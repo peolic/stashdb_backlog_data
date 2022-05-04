@@ -16,17 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "de7a39b1-6c59-4597-8e0c-a813f71507bb",
         "name": "Corin",
         "appearance": null,
-        "disambiguation": "2011, Blowpass",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=corin_bp_11/gender=f/corin.htm",
-        "notes": [
-          "Reuse performer:",
-          "https://stashdb.org/performers/de7a39b1-6c59-4597-8e0c-a813f71507bb",
-          "https://www.indexxx.com/m/corin-1"
-        ]
+        "disambiguation": "2011, Blowpass"
       }
     ]
   }
