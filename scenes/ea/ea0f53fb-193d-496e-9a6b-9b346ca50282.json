@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "69e42dde-84c1-494e-9bdc-12d4df3fbd9a",
         "name": "Lilly Swagg",
         "appearance": "Lilly",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lilly_brcc_19/gender=f/lilly.htm",
         "notes": [
           "http://twitter.com/lillyswagg2"
         ]
