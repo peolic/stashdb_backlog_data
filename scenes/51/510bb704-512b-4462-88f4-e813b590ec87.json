@@ -2,15 +2,15 @@
   "fingerprints": [
     {
       "algorithm": "phash",
-      "hash": "836e56ac8365724f",
+      "hash": "8686fca534b871ba",
       "correct_scene_id": null,
-      "duration": 2645
+      "duration": 4927
     },
     {
       "algorithm": "oshash",
-      "hash": "d2e94cb1e81f693f",
+      "hash": "fe1337dc432479df",
       "correct_scene_id": null,
-      "duration": 2645
+      "duration": 4927
     }
   ]
 }
