@@ -16,14 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "bf1dfac9-3960-4544-b2b0-50ac5a6c0833",
         "name": "Abby Bella",
-        "appearance": "Abby",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=abby_10/gender=f/abby.htm",
-        "notes": [
-          "https://www.indexxx.com/m/abby-bella"
-        ]
+        "appearance": "Abby"
       }
     ]
   }
