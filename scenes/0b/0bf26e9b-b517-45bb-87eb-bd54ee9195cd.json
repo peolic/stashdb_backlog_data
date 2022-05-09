@@ -1,0 +1,25 @@
+{
+  "c_studio": [
+    "Teen Teacher",
+    null
+  ],
+  "comments": [
+    "[Teacher's Pet 12 - Scene 1](https://www.iafd.com/title.rme/title=teacher%27s+pet+12/year=2006/teacher%27s-pet-12.htm)"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "6ca066a8-3199-4f60-8527-2b3d32860b56",
+        "name": "Tia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "94506072-e621-4e28-a9e9-224f7d0d7e0f",
+        "name": "Tia Tanaka",
+        "appearance": "Tia"
+      }
+    ]
+  }
+}
