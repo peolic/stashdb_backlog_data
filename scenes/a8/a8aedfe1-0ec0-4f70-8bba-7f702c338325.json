@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "2a818475-c6c1-47aa-ba39-a64934b571a8",
         "name": "Luna Blanca",
-        "appearance": "Maria L",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lunablanca/gender=f/luna-blanca.htm"
+        "appearance": "Maria L"
       }
     ]
   }
