@@ -10,11 +10,12 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "ce76d45a-12b5-4f5f-bfe7-e8c11dd878e8",
         "name": "Kimmie Lee",
         "appearance": "Kimmy",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kimmylee/gender=f/kimmie-lee.htm"
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=kimmylee/gender=f/kimmie-lee.htm"
+        ]
       }
     ]
   }
