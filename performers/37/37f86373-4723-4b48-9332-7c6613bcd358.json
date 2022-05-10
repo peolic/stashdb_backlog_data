@@ -3,15 +3,6 @@
     "name": "Lola",
     "shards": [
       {
-        "id": "3139f8ea-27a6-4e9f-91e1-0fa04c8686db",
-        "name": "Gigi Lightspeed",
-        "text": "(Twistys, Mike's Apartment)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=veronikav/gender=f/veronika-v..htm",
-          "https://www.indexxx.com/m/veronika-v"
-        ]
-      },
-      {
         "id": "7a859266-894a-4618-ba7f-ce61f5520708",
         "name": "Lola Shine",
         "links": [
@@ -23,7 +14,8 @@
         "id": "4c2820c4-40c4-4d0e-9f1f-bc766de10417",
         "name": "Lola Martin",
         "links": [
-          "https://www.iafd.com/person.rme/perfid=lola/gender=f/lola.htm"
+          "https://www.iafd.com/person.rme/perfid=lola/gender=f/lola.htm",
+          "https://www.indexxx.com/m/lola-martin"
         ]
       },
       {
