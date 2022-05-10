@@ -1,0 +1,21 @@
+{
+  "c_studio": [
+    "Wicked",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=hook-ups+1/year=2002/hook-ups-1.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Jordan Haze",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jordanhaze/gender=f/jordan-haze.htm"
+      }
+    ]
+  }
+}
