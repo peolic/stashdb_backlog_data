@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "0ba64aaa-4b07-4396-b73b-5028395be710",
         "name": "Mr. Cali",
-        "appearance": "Cali",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/21bc1731-39ec-48a5-a660-dde2f8e9605b"
+        "appearance": "Cali"
       }
     ]
   }
