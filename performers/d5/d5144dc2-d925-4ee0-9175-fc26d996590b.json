@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Kimberly",
+    "shards": [
+      {
+        "id": "28b90241-3f19-4fda-beff-465a9b5b7b81",
+        "name": "Pola Sunshine",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=pollysunshine/gender=f/polly-sunshine.htm",
+          "https://www.indexxx.com/m/pola-sunshine"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Kimberly ?",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kimberly_hun_05/gender=f/kimberly.htm",
+          "https://www.indexxx.com/m/kimberly"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

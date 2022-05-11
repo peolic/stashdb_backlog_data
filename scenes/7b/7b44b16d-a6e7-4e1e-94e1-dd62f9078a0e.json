@@ -1,0 +1,30 @@
+{
+  "c_studio": [
+    "Dancing Bear",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=alaina%27s+fiesta/year=2012/alaina%27s-fiesta.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "617379de-310f-444b-9c45-ee43d92c3e18",
+        "name": "Krystal",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Krystal Jewels",
+        "appearance": "Krystal",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=krystal_bd/gender=f/krystal-jewels.htm",
+        "notes": [
+          "https://www.indexxx.com/m/krystal-10"
+        ]
+      }
+    ]
+  }
+}
