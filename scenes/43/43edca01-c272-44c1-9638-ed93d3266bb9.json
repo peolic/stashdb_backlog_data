@@ -1,0 +1,46 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "oshash",
+      "hash": "ee2a786f09c7e874",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    },
+    {
+      "algorithm": "phash",
+      "hash": "a6b7223171e9a38b",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "8e01d23438fbf043",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    },
+    {
+      "algorithm": "md5",
+      "hash": "f61ee13cb5b9a35db6ea6c155f81f0b4",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    },
+    {
+      "algorithm": "phash",
+      "hash": "a7b7233171a9a18b",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    },
+    {
+      "algorithm": "md5",
+      "hash": "fd4c2ebfd6fe35182bc00c82883cdcf9",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "2a9e53defde41951",
+      "correct_scene_id": "9242decd-1764-4e50-952d-d0d9df0679d2",
+      "duration": 4496
+    }
+  ]
+}
