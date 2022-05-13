@@ -13,48 +13,6 @@
       "duration": 4221
     },
     {
-      "algorithm": "md5",
-      "hash": "8f5394c8f23aefeab5188954d4b64fc1",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "5f5749f22b7addb5",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "d2ddcf92c5ae28f2",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "d97e0a152a6b362a",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "e21359233671728f",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
-      "algorithm": "phash",
-      "hash": "e7c5c351838c7cac",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
-      "algorithm": "md5",
-      "hash": "82b3ff2e763ffe457822411900b60c09",
-      "correct_scene_id": null,
-      "duration": 4221
-    },
-    {
       "algorithm": "oshash",
       "hash": "68d2160bcfc3ef8a",
       "correct_scene_id": null,
