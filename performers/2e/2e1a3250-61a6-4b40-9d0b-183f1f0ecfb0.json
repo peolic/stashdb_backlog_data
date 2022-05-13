@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "George",
+    "shards": [
+      {
+        "id": "86b86682-4794-4f3c-b048-f9d3d1389c48",
+        "name": "Image suggests: George Uhl",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=georgeuhl/gender=m/george-uhl.htm"
+        ]
+      },
+      {
+        "id": "5081a76f-adce-4eb4-bf8d-a28412fe4bf5",
+        "name": "Image suggests: George Lee",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=georgelee_2015/gender=m/george-lee.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
