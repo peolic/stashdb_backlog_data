@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "David",
+    "shards": [
+      {
+        "id": null,
+        "name": "David (Sean Cody 2009)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=david_sc_1/gender=m/david.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "David (Sean Cody 2013)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=david_sc_2/gender=m/david.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
