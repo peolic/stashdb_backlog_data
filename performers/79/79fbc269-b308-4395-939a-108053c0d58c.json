@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Peter",
+    "shards": [
+      {
+        "id": null,
+        "name": "Peter (Sean Cody 2007)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=peter_sc_1/gender=m/peter.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Peter (Sean Cody 2010)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=peter_sc_2/gender=m/peter.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Peter (Sean Cody 2012)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=peter_sc_3/gender=m/peter.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
