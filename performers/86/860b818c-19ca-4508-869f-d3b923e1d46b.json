@@ -1,7 +1,26 @@
 {
   "split": {
     "name": "Molly",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Vivian",
+        "text": "at least 1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=vivian_11_russ/gender=f/vivian.htm",
+          "https://stashdb.org/scenes/9127beb4-852e-4185-b535-09a2d44c0c1b"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Angie",
+        "text": "at least 1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=angie_11_russ/gender=f/angie.htm",
+          "https://stashdb.org/scenes/63c83b7d-3ff3-4b06-b057-33c96ca754f0"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

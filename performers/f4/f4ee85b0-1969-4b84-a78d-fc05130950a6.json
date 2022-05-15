@@ -1,7 +1,21 @@
 {
   "split": {
     "name": "Missy",
-    "shards": [],
+    "shards": [
+      {
+        "id": "8b63ed7d-9a43-4696-ab9c-3fcc92e2247d",
+        "name": "Missy Martinez"
+      },
+      {
+        "id": "64b590a8-9a3b-4869-9a8c-f5ba98dce13a",
+        "name": "Claudie   [stash] (Twistys)",
+        "text": "Claudie's profile needs disambiguation ( kouaak)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=claudie_09/gender=f/claudie.htm",
+          "https://www.indexxx.com/m/claudie-3"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
