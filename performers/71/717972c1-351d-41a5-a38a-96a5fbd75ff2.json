@@ -1,0 +1,35 @@
+{
+  "split": {
+    "name": "Peggy",
+    "shards": [
+      {
+        "id": null,
+        "name": "(created) Shy Angela",
+        "text": "(Teen Mega World)",
+        "links": [
+          "https://stashdb.org/edits/dc127497-5023-4ea4-97b7-b7800024fa0d",
+          "https://www.iafd.com/person.rme/perfid=shyangela/gender=f/shy-angela.htm",
+          "https://www.indexxx.com/m/peggy-3"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Peggy (21 Sextury)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=anna_rus_08/gender=f/anna.htm",
+          "https://www.indexxx.com/m/peggy"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Peggy (Teen Core Club)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=peggy_07_russ/gender=f/peggy.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
