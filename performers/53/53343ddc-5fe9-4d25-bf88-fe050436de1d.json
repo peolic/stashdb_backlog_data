@@ -1,7 +1,26 @@
 {
   "split": {
     "name": "Angelica",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Angelica (Hungary, Woodmancastingx.com)",
+        "text": "1 scene",
+        "links": [
+          "https://www.indexxx.com/m/angelica-10",
+          "https://stashdb.org/scenes/00ce314d-4eea-47c0-98dc-067411543c3c"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Angelica (Belarus, Woodmancastingx.com)",
+        "text": "1 scene",
+        "links": [
+          "https://www.indexxx.com/m/angelica-13",
+          "https://stashdb.org/scenes/1dd2379b-8795-4598-8940-87cfcb565aad"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers.",
       "Some scenes (42 out of 60 by 2022-01-13) added to Scene-Performers."

@@ -1,7 +1,32 @@
 {
   "split": {
     "name": "Vita",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Vita (hegre, woodman)",
+        "links": [
+          "https://www.indexxx.com/m/vita-3"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Vita (nubiles)  [studio]",
+        "links": [
+          "https://www.indexxx.com/m/vita",
+          "https://nubiles.net/model/profile/901/vita"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Vita (teenmegaworld) [studio]",
+        "text": "1 scene",
+        "links": [
+          "https://teenmegaworld.net/models/vita.html",
+          "https://stashdb.org/scenes/dfdb7d0d-8ee5-4d47-9d08-76c6768f945e"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
