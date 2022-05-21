@@ -1,7 +1,15 @@
 {
   "split": {
     "name": "Luisa",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Luisa Rossellini  (ddfnetwork)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=luisarossellini/gender=f/luisa-rossellini.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
