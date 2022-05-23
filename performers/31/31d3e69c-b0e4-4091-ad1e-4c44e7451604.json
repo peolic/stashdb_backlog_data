@@ -1,0 +1,38 @@
+{
+  "split": {
+    "name": "Cassandra",
+    "shards": [
+      {
+        "id": null,
+        "name": "Angie Hard",
+        "text": "(21 Sextreme +Bonus)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=angiehard/gender=f/angie-hard.htm",
+          "https://www.indexxx.com/m/angie-hard"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Cassandra (Oye Loca)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=cassandra_oyeloca/gender=f/cassandra.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Cassandra (Canadian, 2002-2006)",
+        "text": "(Doghouse Digital)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=cassandra_can/gender=f/cassandra.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Juliana Jolene"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
