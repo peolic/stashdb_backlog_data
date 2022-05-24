@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Angie",
-    "shards": [],
+    "shards": [
+      {
+        "id": "08d07825-98df-48a0-b303-d3a649e2753b",
+        "name": "Angie Rain",
+        "text": "partial profile here",
+        "links": [
+          "https://www.indexxx.com/m/maiky"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
