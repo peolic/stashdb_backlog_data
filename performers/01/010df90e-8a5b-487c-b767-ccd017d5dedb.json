@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Gwen",
+    "shards": [
+      {
+        "id": "f0694cd2-3c85-44ad-9fa7-267616b5580c",
+        "name": "Gwen A  [stash]",
+        "links": [
+          "https://www.indexxx.com/m/gwen-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Gwen / Olga",
+        "links": [
+          "https://www.indexxx.com/m/gwen"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
