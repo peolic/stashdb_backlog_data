@@ -1,7 +1,26 @@
 {
   "split": {
     "name": "Sheyla",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Ginta (RU)",
+        "text": "at least 1 scene",
+        "links": [
+          "https://www.indexxx.com/m/ginta",
+          "https://stashdb.org/scenes/0d0d2aac-e8c8-4870-834b-5a8042b931a0"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Mariya (RU)",
+        "text": "at least 1 scene",
+        "links": [
+          "https://www.indexxx.com/m/mariya-4",
+          "https://stashdb.org/scenes/a082d75d-a752-4775-b3b4-3e8a7b353543"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
