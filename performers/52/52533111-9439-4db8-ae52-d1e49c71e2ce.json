@@ -1,7 +1,41 @@
 {
   "split": {
     "name": "Xenia",
-    "shards": [],
+    "shards": [
+      {
+        "id": "55848317-c438-44f9-a32b-590e0461c2ba",
+        "name": "Valentina_C (RU)",
+        "text": "scenes 1, 2",
+        "links": [
+          "https://www.indexxx.com/m/valentina-14",
+          "https://stashdb.org/scenes/1ca0d24f-5076-47fb-927f-85d847e391e6",
+          "https://stashdb.org/scenes/4f9f1407-0ddb-46c7-b1ad-611a2853e6cb"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Xenia (RU)",
+        "links": [
+          "https://www.indexxx.com/m/xenia"
+        ]
+      },
+      {
+        "id": "fb43d9c9-6865-4b2b-a240-78fa8f6ea5b3",
+        "name": "Xeniya / Gisela Thorsen   [stash] [stash]",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=xeniya/gender=f/xeniya.htm",
+          "https://www.indexxx.com/m/xeniya-2",
+          "https://stashdb.org/performers/0b2d68eb-7fdd-4549-a4c8-33b95afeca1d"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Xenia (rk.com)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=xenia_rk_02/gender=f/xenia.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

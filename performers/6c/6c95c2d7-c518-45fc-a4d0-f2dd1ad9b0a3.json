@@ -1,7 +1,39 @@
 {
   "split": {
     "name": "Tess",
-    "shards": [],
+    "shards": [
+      {
+        "id": "4ddd9894-6e57-4406-8ed1-49dbff61ccdf",
+        "name": "Tess Lyndon",
+        "text": "most scenes",
+        "links": [
+          "https://www.indexxx.com/m/tess-lyndon"
+        ]
+      },
+      {
+        "id": "3325df3d-2ec7-4e0e-8c60-79a33bf77802",
+        "name": "Roberta Sligen",
+        "text": "probably done ?"
+      },
+      {
+        "id": null,
+        "name": "Coreline Blue",
+        "text": "1 scene",
+        "links": [
+          "https://www.indexxx.com/m/coreline-blue",
+          "https://stashdb.org/scenes/8c90fae6-951d-4bd6-9426-25f3d5689097"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Tess",
+        "text": "1 scene at least",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tess_rus/gender=f/tess.htm",
+          "https://stashdb.org/scenes/881c502f-04df-417d-8ce7-425b42287cb5"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
