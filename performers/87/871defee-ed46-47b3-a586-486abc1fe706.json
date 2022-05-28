@@ -1,7 +1,32 @@
 {
   "split": {
     "name": "Brianna",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Brianna (2003, InTheVip)",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brianna_rk_03/gender=f/brianna.htm",
+          "https://stashdb.org/scenes/9a7392ea-576e-4294-b0b6-93fe730ace18"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Brianna / Kitty / Kate",
+        "text": "1 scene",
+        "links": [
+          "https://www.indexxx.com/m/kitty-5"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Sunshine",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sunshine_lat_06/gender=f/sunshine.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
