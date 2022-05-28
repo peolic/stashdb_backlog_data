@@ -1,7 +1,13 @@
 {
   "split": {
     "name": "Roberta",
-    "shards": [],
+    "shards": [
+      {
+        "id": "3325df3d-2ec7-4e0e-8c60-79a33bf77802",
+        "name": "Roberta Sligen",
+        "text": "probably most scenes"
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

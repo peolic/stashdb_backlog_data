@@ -1,7 +1,17 @@
 {
   "split": {
     "name": "Stacy",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Stacy (2005, Captain Stabbin)",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=stacy_rk_05/gender=f/stacy.htm",
+          "https://stashdb.org/scenes/ce5215e5-81d3-4f5a-a256-f5371b8bd1d3"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
