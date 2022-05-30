@@ -1,7 +1,15 @@
 {
   "split": {
     "name": "Dina",
-    "shards": [],
+    "shards": [
+      {
+        "id": "7169e7fb-6396-4f7f-9b9d-bdd51907c945",
+        "name": "Samantha Snow",
+        "links": [
+          "https://www.indexxx.com/m/samantha-snow"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
