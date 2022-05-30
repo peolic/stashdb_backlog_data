@@ -1,7 +1,20 @@
 {
   "split": {
     "name": "Carrie",
-    "shards": [],
+    "shards": [
+      {
+        "id": "308950e3-2790-4a29-9767-031dd0323f00",
+        "name": "Carrie Sass",
+        "links": [
+          "https://www.indexxx.com/m/carrie-18"
+        ]
+      },
+      {
+        "id": "ecab8cbe-a768-48a6-97d3-de6250b7ecf5",
+        "name": "Sandra Kalerman",
+        "text": "Carrie @ Nubiles"
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
