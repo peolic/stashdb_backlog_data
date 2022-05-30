@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Devin",
-    "shards": [],
+    "shards": [
+      {
+        "id": "e0c9500f-b1a8-47a2-b8a6-ac289a9dcfce",
+        "name": "Sonia Red",
+        "text": "Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/sonia-red"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

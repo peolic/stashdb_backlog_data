@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Esmeralda",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Esmeralda",
+        "text": "Twistys Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/esmeralda"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

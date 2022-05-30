@@ -5,6 +5,7 @@
       {
         "id": "afefe1c8-73e3-42f3-92f3-2611a360479d",
         "name": "Wendy (AKA Kristine)",
+        "text": "probably done ?",
         "links": [
           "https://www.iafd.com/person.rme/perfid=wendy_rus_04/gender=f/wendy.htm",
           "https://www.indexxx.com/m/kristine"
@@ -42,6 +43,19 @@
         "links": [
           "https://www.indexxx.com/m/vendy",
           "https://www.thenude.com/Wendy_12112.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Julia S",
+        "text": "(1 Pass For All Sites)",
+        "notes": [
+          "Use 1 Pass userscript to get good images"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=shirley_10_russ/gender=f/julia-s.htm",
+          "https://www.indexxx.com/m/julia-s",
+          "https://1passforallsites.com/model?id=435"
         ]
       }
     ],
