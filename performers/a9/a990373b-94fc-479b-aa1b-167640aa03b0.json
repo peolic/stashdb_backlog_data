@@ -1,7 +1,37 @@
 {
   "split": {
     "name": "Rachel",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Funky Feel",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=funkyfeel/gender=f/funky-feel.htm",
+          "https://www.indexxx.com/m/nikolett-5"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Rachel (RU)",
+        "links": [
+          "https://www.indexxx.com/m/rachel-3"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Rachel (Sapphic)",
+        "links": [
+          "https://www.indexxx.com/m/rachel-37"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Rachel (HU, mature)",
+        "links": [
+          "https://www.indexxx.com/m/rachel-1"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
