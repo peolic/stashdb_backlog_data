@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Vanesa",
-    "shards": [],
+    "shards": [
+      {
+        "id": "4555aa3b-da14-4f3f-a3a6-b0342bcc87a5",
+        "name": "Vanessa Mio",
+        "text": "MetArt",
+        "links": [
+          "https://www.indexxx.com/m/vanessa-mio"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
