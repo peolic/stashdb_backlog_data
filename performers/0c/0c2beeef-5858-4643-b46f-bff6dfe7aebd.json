@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Polina",
-    "shards": [],
+    "shards": [
+      {
+        "id": "1d78ac63-4b5c-4730-aca5-66eee7601907",
+        "name": "Bretta",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=bretta_rus/gender=f/bretta.htm",
+          "https://www.indexxx.com/m/tanata"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
