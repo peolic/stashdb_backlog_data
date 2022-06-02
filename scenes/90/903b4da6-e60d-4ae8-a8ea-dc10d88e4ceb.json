@@ -1,3 +1,17 @@
 {
-  "duplicate_of": "d3e43204-661c-4ac2-9d7d-3620baf379b8"
+  "duplicate_of": "d3e43204-661c-4ac2-9d7d-3620baf379b8",
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "a58a61c5d5e9c1e3",
+      "correct_scene_id": "d3e43204-661c-4ac2-9d7d-3620baf379b8",
+      "duration": 2169
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "cf16f13563d51f8c",
+      "correct_scene_id": "d3e43204-661c-4ac2-9d7d-3620baf379b8",
+      "duration": 2169
+    }
+  ]
 }
