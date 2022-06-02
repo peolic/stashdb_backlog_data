@@ -10,6 +10,12 @@
       "algorithm": "phash",
       "hash": "e78b59e122fa6503",
       "correct_scene_id": "3fe2c1de-1f85-4b74-ada0-ff7d331038f0",
+      "duration": 8234
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "4dc9888d4a68d392",
+      "correct_scene_id": "3fe2c1de-1f85-4b74-ada0-ff7d331038f0",
       "duration": 8235
     },
     {
