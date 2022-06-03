@@ -20,7 +20,10 @@
         "name": "Linda Melrose",
         "appearance": "Olivia",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lindamelrose/gender=f/linda-melrose.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=lindamelrose/gender=f/linda-melrose.htm",
+        "notes": [
+          "https://www.indexxx.com/m/melrose-sky"
+        ]
       }
     ]
   }
