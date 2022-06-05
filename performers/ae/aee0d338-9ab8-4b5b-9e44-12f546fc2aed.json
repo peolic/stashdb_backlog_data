@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Xavier",
+    "shards": [
+      {
+        "id": null,
+        "name": "Xavier (Reality Kings 2007)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=xavier_rk/gender=m/xavier.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Xavier (Pegas Productions)",
+        "links": [
+          "https://www.pegasproductions.com/xavier"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
