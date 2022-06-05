@@ -1,0 +1,28 @@
+{
+  "c_studio": [
+    "Backroom Casting Couch",
+    null
+  ],
+  "comments": [
+    "Was linked to the wrong perfromer.",
+    "https://www.backroomcastingcouch.com/models/hannah-2.html"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "534f66cb-0168-42d1-8aaf-4e12c5a5a9b2",
+        "name": "Elizabeth",
+        "appearance": null,
+        "disambiguation": "2009 ExploitedX"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Hannah (BRCC 2017)",
+        "appearance": null,
+        "status": "new"
+      }
+    ]
+  }
+}
