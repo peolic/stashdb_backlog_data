@@ -1,7 +1,21 @@
 {
   "split": {
     "name": "Morgan",
-    "shards": [],
+    "shards": [
+      {
+        "id": "be7625ae-eaae-4594-b105-cdce16411a32",
+        "name": "Nataly Gold",
+        "text": "Morgan @ Nubiles"
+      },
+      {
+        "id": "f572f30d-0a73-4d09-baf8-672a078474a6",
+        "name": "Morgan Moon",
+        "text": "Morgan @ Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/morgan-moon"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
