@@ -1,7 +1,24 @@
 {
   "split": {
     "name": "Yasmine",
-    "shards": [],
+    "shards": [
+      {
+        "id": "b8e7b440-4e38-4c74-9df1-79808055d29b",
+        "name": "Leanna Sweet",
+        "text": "ALS Scan",
+        "links": [
+          "https://www.indexxx.com/m/leanna-sweet"
+        ]
+      },
+      {
+        "id": "bf3f454b-967a-4a8b-8a43-ce64a3298e69",
+        "name": "Paulina Seikola",
+        "text": "1 scene (BCC scene, could not confirm it ...)",
+        "links": [
+          "https://stashdb.org/scenes/fa7b4ec4-60f0-4804-95c4-4e26d396fcab"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
