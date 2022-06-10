@@ -1,7 +1,15 @@
 {
   "split": {
     "name": "Gabriella",
-    "shards": [],
+    "shards": [
+      {
+        "id": "3eda05bc-7bed-4264-88cc-4c6396ab55a0",
+        "name": "Gabriella Paltrova",
+        "links": [
+          "https://www.indexxx.com/m/gabriella-paltrova"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
