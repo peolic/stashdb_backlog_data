@@ -1,0 +1,27 @@
+{
+  "split": {
+    "name": "Lotus",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lotus (RU)",
+        "text": "Probably most scenes",
+        "links": [
+          "https://www.indexxx.com/m/lotus-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Lotus (2018, TS)",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lotus_ev_18_ts/gender=f/lotus.htm",
+          "https://stashdb.org/scenes/2a7faec5-2571-465a-bdb3-7cb95bc71acf"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
