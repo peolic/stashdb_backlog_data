@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Keisha",
+    "shards": [
+      {
+        "id": null,
+        "name": "Keisha https://www..com/person.rme/perfid=keisha/gender=f/keisha.htm",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=keisha/gender=f/keisha.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Keisha @ Realitykings https://www..com/person.rme/perfid=keisha_bl_rk/gender=f/keisha.htm",
+        "links": [
+          "https://www.rk.com/model/16989/keisha"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
