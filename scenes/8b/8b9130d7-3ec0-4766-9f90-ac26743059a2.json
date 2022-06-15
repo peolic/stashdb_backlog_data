@@ -1,0 +1,31 @@
+{
+  "c_studio": [
+    "POV Life",
+    null
+  ],
+  "comments": [
+    "Nikki Sweet has alias of Nikki Sweets, matching Nikki Sweets, who is the incorrect performer",
+    "https://www.iafd.com/title.rme/title=neighbor+with+no+tan+lines/year=2020/neighbor-with-no-tan-lines.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "f42f54b7-4d10-47b2-a796-e80ed35d12f1",
+        "name": "Nikki Sweets",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "162c8ef5-2c3b-4fa7-92e0-8f95aefd211f",
+        "name": "Nikki Sweet",
+        "appearance": "Nikki Sweets"
+      },
+      {
+        "id": "84e7e9c3-a5d1-4984-9a8e-94d269af9650",
+        "name": "Tyler Steel",
+        "appearance": null
+      }
+    ]
+  }
+}
