@@ -1,0 +1,10 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "b582006fedb9589d",
+      "correct_scene_id": "769cc64b-ef1e-4169-843c-a7507e10333d",
+      "duration": 2449
+    }
+  ]
+}
