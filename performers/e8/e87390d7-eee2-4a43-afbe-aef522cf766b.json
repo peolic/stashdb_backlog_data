@@ -1,0 +1,40 @@
+{
+  "split": {
+    "name": "Jared",
+    "shards": [
+      {
+        "id": null,
+        "name": "Hoss Kado",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=hosskado/gender=m/hoss-kado.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jared (Reality Kings)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jared_rk_05/gender=f/jared.htm",
+          "https://www.indexxx.com/m/jared"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jared (Boys First Time 2004)"
+      },
+      {
+        "id": "dcc7391e-3cd5-499b-ae22-9ae7bb62e69d",
+        "name": "Travis Lee",
+        "text": "(Sean Cody 2002)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=travislee_jc/gender=m/travis-lee.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (possibly complete list as of 2022-06-16). Performer was renamed, see rename edit"
+    ],
+    "links": [
+      "https://stashdb.org/edits/5c712b89-ca94-42bb-b0c7-67dea3f296ae"
+    ]
+  }
+}

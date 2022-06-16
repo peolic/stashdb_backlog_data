@@ -3,16 +3,22 @@
     "name": "Renee",
     "shards": [
       {
-        "id": "2f70c506-e7e2-4fd9-889a-5e01f0ac2d5f",
-        "name": "Renee Perez",
-        "text": "should be done ?"
-      },
-      {
         "id": "023b0c4e-835a-42b5-a39e-dd1ef0936b79",
         "name": "Renee B",
         "links": [
           "https://www.iafd.com/person.rme/perfid=renee_rus_08/gender=f/renee.htm",
           "https://www.indexxx.com/m/renee-18"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Rene (Bang Bus 2001)",
+        "text": "remastered scene mistagged as Renee 1 additional scene missing performe",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rene_bb/gender=f/rene.htm",
+          "https://www.indexxx.com/m/rene",
+          "https://stashdb.org/scenes/75084efd-5b1b-4694-baaa-35dbeeac20c3",
+          "https://stashdb.org/scenes/b014f7ec-92d2-4044-b90c-7fb454c3dd8d"
         ]
       }
     ],
