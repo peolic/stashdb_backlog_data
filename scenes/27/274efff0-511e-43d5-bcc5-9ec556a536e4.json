@@ -3,10 +3,12 @@
     "Backroom Casting Couch",
     null
   ],
+  "code": "1457",
   "comments": [
     "Was linked to the wrong perfromer.",
-    "https://www.backroomcastingcouch.com/models/hannah-2.html"
+    "https://www.backroomcastingcouch.com/trailers/hannah.html"
   ],
+  "duration": "1967",
   "performers": {
     "remove": [
       {
@@ -21,8 +23,12 @@
         "id": null,
         "name": "Hannah (BRCC 2017)",
         "appearance": null,
-        "status": "new"
+        "status": "new",
+        "notes": [
+          "https://www.backroomcastingcouch.com/models/hannah-2.html"
+        ]
       }
     ]
-  }
+  },
+  "url": "https://www.backroomcastingcouch.com/trailers/hannah.html"
 }
