@@ -1,0 +1,34 @@
+{
+  "split": {
+    "name": "Joselyn",
+    "shards": [
+      {
+        "id": "6dee1853-eadb-4937-b8d7-7ebb63430e3c",
+        "name": "Bella Russa",
+        "text": "(Teen Mega World, 1By-Day)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=bellarussa/gender=f/bella-russa.htm",
+          "https://www.indexxx.com/m/adina-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Joselyn (Reality Kings 2010)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=joselyn_rk10/gender=f/joselyn.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Joselyn (Reality Kings 2006)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=joselyn_rk_06/gender=f/joselyn.htm",
+          "https://www.indexxx.com/m/joselyn-1"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-06-17)"
+    ]
+  }
+}
