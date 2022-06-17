@@ -1,7 +1,24 @@
 {
   "split": {
     "name": "Karla",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Karla (CZ)",
+        "text": "1by-day prob. more",
+        "links": [
+          "https://www.indexxx.com/m/karla"
+        ]
+      },
+      {
+        "id": "83878b2f-fdfa-48e2-b1df-4ee30e1ace80",
+        "name": "Katia Vasquez",
+        "links": [
+          "https://www.indexxx.com/m/katia-vazquez",
+          "https://www.iafd.com/person.rme/perfid=katiavazquez/gender=f/katia-vazquez.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
