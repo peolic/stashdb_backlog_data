@@ -3,7 +3,7 @@
     {
       "algorithm": "oshash",
       "hash": "4f2ecb432b902bd9",
-      "correct_scene_id": "8fd52513-00bc-4e8c-89f4-8773fd331d2b",
+      "correct_scene_id": null,
       "duration": 929
     }
   ]
