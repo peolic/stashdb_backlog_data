@@ -1,0 +1,17 @@
+{
+  "duplicate_of": "10c8dc5a-423a-456f-a87e-a3f37af158fa",
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "d8dc2e48c94c3e37",
+      "correct_scene_id": null,
+      "duration": 4569
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "e5cd37ca30e00eed",
+      "correct_scene_id": null,
+      "duration": 4569
+    }
+  ]
+}
