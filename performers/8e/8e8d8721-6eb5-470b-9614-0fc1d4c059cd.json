@@ -1,7 +1,17 @@
 {
   "split": {
     "name": "Maria",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Lexi (CZ)",
+        "text": "Maria @ Sapphic",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lexi_cz/gender=f/lexi.htm",
+          "https://www.indexxx.com/m/lexi"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
