@@ -1,7 +1,27 @@
 {
   "split": {
     "name": "Charlie",
-    "shards": [],
+    "shards": [
+      {
+        "id": "56c0c538-22c0-4cf0-9105-83b7c735eaf3",
+        "name": "Charlie (CZ)",
+        "text": "some 1By-Day",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=charlie_cz_07/gender=f/charlie.htm",
+          "https://www.indexxx.com/m/charlie"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Charlie Garcia  [boob]",
+        "text": "Twistys",
+        "links": [
+          "https://www.indexxx.com/m/charlie-1",
+          "https://www.boobpedia.com/boobs/Charlie_Garcia",
+          "https://www.iafd.com/person.rme/perfid=charlie/gender=f/charlie.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
