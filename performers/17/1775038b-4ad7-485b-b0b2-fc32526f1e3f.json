@@ -1,0 +1,19 @@
+{
+  "split": {
+    "name": "Roland",
+    "shards": [
+      {
+        "id": null,
+        "name": "Roland Somsak",
+        "text": "at least 1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rolandsomsak/gender=m/roland-somsak.htm",
+          "https://stashdb.org/scenes/eac7ddcc-5bed-45a4-82eb-222afa309c27"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

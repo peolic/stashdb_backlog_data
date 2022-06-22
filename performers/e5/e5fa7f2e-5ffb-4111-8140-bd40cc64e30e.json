@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Martha",
+    "shards": [
+      {
+        "id": "2ddb12b3-e809-4cc5-8b51-8bba9a4a39be",
+        "name": "Bernie Svintis",
+        "links": [
+          "https://www.indexxx.com/m/bernie-svintis",
+          "https://www.iafd.com/person.rme/perfid=marthafbernie/gender=f/bernie-svintis.htm"
+        ]
+      },
+      {
+        "id": "a3be9a3f-18fe-49bc-8a89-716a3c4c550f",
+        "name": "Tarra White",
+        "links": [
+          "https://www.indexxx.com/m/tarra-white",
+          "https://www.iafd.com/person.rme/perfid=tarrawhite/gender=f/tarra-white.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
