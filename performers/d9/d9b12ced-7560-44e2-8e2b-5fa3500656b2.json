@@ -8,5 +8,28 @@
       "- Scene listed on Scene-Performers",
       "https://www.iafd.com/person.rme/perfid=peytonbanks/gender=f/payton-banks.htm"
     ]
+  },
+  "split": {
+    "name": "Payton Banks",
+    "shards": [
+      {
+        "id": null,
+        "name": "2016-2017",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=peytonbanks/gender=f/payton-banks.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "2015",
+        "text": "(Black GFs)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=paytonbanks/gender=f/payton-banks.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2021-09-08)"
+    ]
   }
 }

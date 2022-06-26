@@ -9,10 +9,26 @@
           "https://www.iafd.com/person.rme/perfid=kitanalure/gender=f/kitana-lure.htm",
           "https://www.indexxx.com/m/kitana-lure"
         ]
+      },
+      {
+        "id": "9b7e2009-bfb2-4f4f-a78d-44573ded6295",
+        "name": "Yasmin Blue",
+        "text": "(Teen Core Club)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=yasminblue/gender=f/yasmin-blue.htm",
+          "https://www.indexxx.com/m/yasmin-blue"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Harper (2017, Backroom Casting Couch)",
+        "links": [
+          "https://www.backroomcastingcouch.com/trailers/harper.html"
+        ]
       }
     ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-06-26)"
     ]
   }
 }
