@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Blake",
-    "shards": [
-      {
-        "id": "61f522e4-a09b-4c2c-b0bc-ea557b3350b4",
-        "name": "Blake [Sean Cody 2013]",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=blake_seancody/gender=m/blake.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers."
     ]
