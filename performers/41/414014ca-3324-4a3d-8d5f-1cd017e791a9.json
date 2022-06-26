@@ -1,0 +1,17 @@
+{
+  "split": {
+    "name": "Jason",
+    "shards": [
+      {
+        "id": null,
+        "name": "Jason Voor",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jasonvoor/gender=m/jason-voor.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
