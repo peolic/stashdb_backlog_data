@@ -19,9 +19,12 @@
         "id": null,
         "name": "Amber Lee",
         "appearance": "Amber",
-        "disambiguation": "2005-06",
+        "disambiguation": "2005-2006",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm",
+        "notes": [
+          "https://www.indexxx.com/m/amber-5"
+        ]
       }
     ]
   }
