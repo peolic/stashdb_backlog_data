@@ -1,7 +1,12 @@
 {
   "split": {
     "name": "Chase",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Chase (Sean Cody"
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
