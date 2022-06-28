@@ -1,9 +1,28 @@
 {
   "split": {
     "name": "Farrah",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Farrah ?",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=farrah/gender=f/farrah.htm",
+          "https://www.indexxx.com/m/farrah-1"
+        ]
+      },
+      {
+        "id": "8866813a-d89e-452b-8c1c-cc36310be783",
+        "name": "Farrah Valentine",
+        "text": "(Naughty Mag)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=farrahvalentine/gender=f/paisley-pepper.htm",
+          "https://www.indexxx.com/m/paisley-pepper"
+        ]
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-06-28) ",
+      "Should be done, needs information update"
     ]
   }
 }
