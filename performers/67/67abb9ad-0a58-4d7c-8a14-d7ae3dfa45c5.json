@@ -1,14 +1,7 @@
 {
   "split": {
-    "name": "Damien",
+    "name": "Damion",
     "shards": [
-      {
-        "id": null,
-        "name": "Damion Dayski",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=damiondayski/gender=m/damion-dayski.htm"
-        ]
-      },
       {
         "id": null,
         "name": "Damion",
@@ -18,7 +11,8 @@
       }
     ],
     "notes": [
-      "Two performers for two scenes"
+      "Two performers for two scenes ",
+      "Updated 2022-06-28, one scene remained"
     ]
   }
 }
