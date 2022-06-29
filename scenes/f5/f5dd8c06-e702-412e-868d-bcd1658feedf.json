@@ -20,10 +20,8 @@
         "name": "Peaches",
         "appearance": null,
         "disambiguation": "2011, Nasty Angels",
-        "status": "new",
-        "notes": [
-          "https://cdn.stashdb.org/06/cc/06cc7e8e-b27c-402e-99e4-42aa32d32519"
-        ]
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/c9a6b168-9ba5-4120-8c10-17129b48a5bf"
       }
     ]
   }
