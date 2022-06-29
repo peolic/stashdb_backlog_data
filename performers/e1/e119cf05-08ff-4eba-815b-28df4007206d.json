@@ -1,7 +1,13 @@
 {
   "split": {
     "name": "Mya",
-    "shards": [],
+    "shards": [
+      {
+        "id": "50de82ad-8297-4af7-9990-52d148c68f2c",
+        "name": "Mia Me",
+        "text": "Mya @ Sapphic"
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

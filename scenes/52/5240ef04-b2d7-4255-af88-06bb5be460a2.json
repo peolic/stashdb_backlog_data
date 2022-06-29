@@ -7,19 +7,8 @@
     "https://www.iafd.com/title.rme/title=girls+school+the+newbs/year=2011/girls-school-the-newbs.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
-        "name": "Amber",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "656f68cd-e19b-4e63-8086-e0c13a6aa2c5",
-        "name": "Amber Rosexoxo",
-        "appearance": "Amber"
-      },
       {
         "id": null,
         "name": "Nina (2011, Reality Kings)",
