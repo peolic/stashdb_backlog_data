@@ -1,7 +1,17 @@
 {
   "split": {
     "name": "Pavla",
-    "shards": [],
+    "shards": [
+      {
+        "id": "a5e4dddf-8a82-456f-84e7-d396c1860845",
+        "name": "Paula Wild (1997-2002)",
+        "text": "(duplicate \"Pavla\" on Rocco Siffredi scenes?)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=paulawild/gender=f/paula-wild.htm",
+          "https://www.indexxx.com/m/paula-wild"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
