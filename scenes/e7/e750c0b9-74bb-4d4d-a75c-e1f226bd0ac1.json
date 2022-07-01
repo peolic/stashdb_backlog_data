@@ -1,3 +1,22 @@
 {
-  "duplicate_of": "71e8d9c0-846e-4550-8c3f-3e7b9f4ef6c1"
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "9edae5201c1ce6ec",
+      "correct_scene_id": "71e8d9c0-846e-4550-8c3f-3e7b9f4ef6c1",
+      "duration": 7847
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "def391506be31de1",
+      "correct_scene_id": "71e8d9c0-846e-4550-8c3f-3e7b9f4ef6c1",
+      "duration": 7847
+    },
+    {
+      "algorithm": "md5",
+      "hash": "dd860569beebb3dedfbdde93cde2d5b0",
+      "correct_scene_id": "71e8d9c0-846e-4550-8c3f-3e7b9f4ef6c1",
+      "duration": 7847
+    }
+  ]
 }

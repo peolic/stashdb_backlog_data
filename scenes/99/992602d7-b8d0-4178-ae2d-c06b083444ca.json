@@ -1,5 +1,22 @@
 {
-  "duplicates": [
-    "ebc78e85-a63b-4acb-bc5a-41a4eeeb9dd7"
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "ad68a72dc936d047",
+      "correct_scene_id": "ebc78e85-a63b-4acb-bc5a-41a4eeeb9dd7",
+      "duration": 2632
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "59bb8f1bd95aff78",
+      "correct_scene_id": "ebc78e85-a63b-4acb-bc5a-41a4eeeb9dd7",
+      "duration": 2632
+    },
+    {
+      "algorithm": "md5",
+      "hash": "46064f1afb06317f7cd69e7d05557dac",
+      "correct_scene_id": "ebc78e85-a63b-4acb-bc5a-41a4eeeb9dd7",
+      "duration": 2632
+    }
   ]
 }
