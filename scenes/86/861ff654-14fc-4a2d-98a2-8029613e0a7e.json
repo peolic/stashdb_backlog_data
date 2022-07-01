@@ -1,7 +1,34 @@
 {
+  "c_studio": [
+    "Casting Couch-HD",
+    null
+  ],
   "comments": [
     "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821",
     "Ep 2015-02-13 - Joan (CCHD)"
   ],
-  "date": "2015-02-13"
+  "date": "2015-02-13",
+  "performers": {
+    "remove": [
+      {
+        "id": "cf0af1d2-64b3-4112-a56c-0495d9d8f6c2",
+        "name": "Joan",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Joan",
+        "appearance": null,
+        "disambiguation": "2015, NVG",
+        "status": "new"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
 }
