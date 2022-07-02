@@ -19,9 +19,12 @@
         "id": null,
         "name": "Meg",
         "appearance": null,
-        "disambiguation": "2003, Mike's Apartment",
+        "disambiguation": "2003, Reality Kings",
         "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=meg_rk_03/gender=f/meg.htm"
+        "status_url": "https://www.iafd.com/person.rme/perfid=meg_rk_03/gender=f/meg.htm",
+        "notes": [
+          "https://www.indexxx.com/m/meg-1"
+        ]
       }
     ]
   }

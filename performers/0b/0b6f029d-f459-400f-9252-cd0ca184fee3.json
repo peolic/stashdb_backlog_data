@@ -1,7 +1,15 @@
 {
   "split": {
     "name": "Kevin",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Kevin (2020, BiEmpire)",
+        "links": [
+          "https://www.biempire.com/model/61416/kevin"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
