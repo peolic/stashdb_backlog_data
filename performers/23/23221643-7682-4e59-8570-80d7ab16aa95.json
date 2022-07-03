@@ -4,9 +4,18 @@
     "shards": [
       {
         "id": null,
-        "name": "Gloria (rk.com)",
+        "name": "Gloria (2008, Reality Kings)",
         "links": [
-          "https://www.iafd.com/person.rme/perfid=gloria_07_rk/gender=f/gloria.htm"
+          "https://www.iafd.com/person.rme/perfid=gloria_07_rk/gender=f/gloria.htm",
+          "https://www.indexxx.com/m/gloria-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Gloria (2006, We Live Together)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=gloria06_rk/gender=f/gloria.htm",
+          "https://www.indexxx.com/m/gloria-5"
         ]
       }
     ],

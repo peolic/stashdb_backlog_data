@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "ec0a3325-7ed7-44d0-9119-49279e731935",
         "name": "Chanel",
         "appearance": null,
-        "disambiguation": "2005, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=chanel_rk_05/gender=f/chanel.htm"
+        "disambiguation": "2005, Reality Kings"
       }
     ]
   }
