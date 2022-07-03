@@ -7,7 +7,8 @@
     "https://www.iafd.com/title.rme/title=lesbian+dominates+tattooed+redhead/year=2016/lesbian-dominates-tattooed-redhead.htm"
   ],
   "performers": {
-    "remove": [
+    "remove": [],
+    "append": [
       {
         "id": null,
         "name": "Roo Morgue",
@@ -20,7 +21,6 @@
         "name": "Angel Long",
         "appearance": null
       }
-    ],
-    "append": []
+    ]
   }
 }
