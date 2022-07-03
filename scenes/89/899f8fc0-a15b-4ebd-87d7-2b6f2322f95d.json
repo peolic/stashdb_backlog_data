@@ -15,11 +15,12 @@
         "appearance": null
       },
       {
-        "id": null,
+        "id": "960995b1-1b77-4247-b0a4-aa7b08e339fe",
         "name": "Vellocet",
         "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=vellocet/gender=f/vellocet.htm"
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=vellocet/gender=f/vellocet.htm"
+        ]
       }
     ]
   }
