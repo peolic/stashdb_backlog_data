@@ -5,7 +5,10 @@
       {
         "id": null,
         "name": "Karla (CZ)",
-        "text": "1by-day prob. more",
+        "notes": [
+          "- 1by-day",
+          "- prob. more"
+        ],
         "links": [
           "https://www.indexxx.com/m/karla"
         ]

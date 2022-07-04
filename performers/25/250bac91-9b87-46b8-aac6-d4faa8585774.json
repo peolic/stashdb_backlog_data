@@ -5,7 +5,10 @@
       {
         "id": null,
         "name": "Esmeralda",
-        "text": "Twistys Sapphic",
+        "notes": [
+          "- Twistys",
+          "- Sapphic"
+        ],
         "links": [
           "https://www.indexxx.com/m/esmeralda"
         ]

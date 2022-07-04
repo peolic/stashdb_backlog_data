@@ -5,7 +5,12 @@
       {
         "id": null,
         "name": "Mocha (RU)",
-        "text": "Lez Cuties Cuties Galore Beauty Angels more ?",
+        "notes": [
+          "- Lez Cuties",
+          "- Cuties Galore",
+          "- Beauty Angels",
+          "- more ?"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=alisha_10_russ/gender=f/alisha.htm",
           "https://www.indexxx.com/m/mocha-3"

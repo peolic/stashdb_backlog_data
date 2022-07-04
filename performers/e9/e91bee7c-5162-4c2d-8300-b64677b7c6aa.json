@@ -5,7 +5,11 @@
       {
         "id": "02ecb02b-4c75-427a-b348-6b369b885a88",
         "name": "Lexi Davis",
-        "text": "Passion HD POVD Teen BFF",
+        "notes": [
+          "- Passion HD",
+          "- POVD",
+          "- Teen BFF"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=lexidavis/gender=f/lexi-davis.htm",
           "https://www.indexxx.com/m/lexi-davis"
@@ -14,7 +18,10 @@
       {
         "id": null,
         "name": "Lexi (CZ)",
-        "text": "ALS Scan Club Sandy",
+        "notes": [
+          "- ALS Scan",
+          "- Club Sandy"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=lexi_cz/gender=f/lexi.htm",
           "https://www.indexxx.com/m/lexi"

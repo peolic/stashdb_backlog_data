@@ -9,22 +9,12 @@
   "performers": {
     "remove": [
       {
-        "id": "4bc58e12-5e61-4e16-9503-3b8cddeca7c3",
-        "name": "Isabelle",
-        "appearance": null
-      },
-      {
         "id": "79f7049c-493b-4389-b3b3-b90e856cedc6",
         "name": "Jane",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "c363c13e-c435-4894-ac27-13264e3a63a6",
-        "name": "Isabella Pacino",
-        "appearance": "Isabelle"
-      },
       {
         "id": null,
         "name": "Jane",

@@ -21,7 +21,10 @@
       {
         "id": null,
         "name": "Sally (HU)",
-        "text": "Pix and Video Zoliboy",
+        "notes": [
+          "- Pix and Video",
+          "- Zoliboy"
+        ],
         "links": [
           "https://www.indexxx.com/m/sally"
         ]

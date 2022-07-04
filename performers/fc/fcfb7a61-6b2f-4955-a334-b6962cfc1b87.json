@@ -28,7 +28,10 @@
       {
         "id": null,
         "name": "Gabriela (RU)",
-        "text": "Fame 1By-Day",
+        "notes": [
+          "- Fame",
+          "- 1By-Day"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=gabriela_rs_06/gender=f/gabriela.htm",
           "https://www.indexxx.com/m/gabriela"

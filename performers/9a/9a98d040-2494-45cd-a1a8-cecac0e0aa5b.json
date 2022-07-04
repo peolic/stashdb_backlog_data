@@ -5,7 +5,10 @@
       {
         "id": null,
         "name": "Suzan",
-        "text": "HotLegsAndFeet 1By-Day",
+        "notes": [
+          "- HotLegsAndFeet",
+          "- 1By-Day"
+        ],
         "links": [
           "https://www.indexxx.com/m/suzan"
         ]

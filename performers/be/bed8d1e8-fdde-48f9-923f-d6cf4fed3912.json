@@ -13,7 +13,10 @@
       {
         "id": null,
         "name": "Stella (HU) AKA Stellah",
-        "text": "Twistys (circa 2006) prob. more",
+        "notes": [
+          "- Twistys (circa 2006)",
+          "- prob. more"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=stella_h_02/gender=f/stella.htm",
           "https://www.indexxx.com/m/stella-5"
