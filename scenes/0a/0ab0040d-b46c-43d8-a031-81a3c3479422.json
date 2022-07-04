@@ -4,29 +4,31 @@
     null
   ],
   "comments": [
-    "https://www.iafd.com/title.rme/title=40oz+titty%2dopolis+takeover/year=2008/40oz-titty%2dopolis-takeover.htm"
+    "https://www.iafd.com/title.rme/title=40oz+titty-opolis+takeover/year=2008/40oz-titty-opolis-takeover.htm"
   ],
   "performers": {
     "remove": [
       {
         "id": "d33588c6-ad04-43fb-b2f1-f8eb7b45f72b",
         "name": "Lacey & Kaylina",
-        "appearance": null,
-        "status": "edit"
+        "appearance": null
       }
     ],
     "append": [
       {
-        "id": null,
+        "id": "64756505-af24-4300-bb72-3b4c6f011cdf",
         "name": "Kaylina Rose",
-        "appearance": "Kaylina",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kaylina/gender=f/kaylina-rose.htm"
+        "appearance": "Kaylina"
       },
       {
         "id": "70a43f87-9c0b-4db8-b128-f4dfd1fd49e7",
         "name": "Lacey Duvalle",
         "appearance": "Lacey"
+      },
+      {
+        "id": "29adca25-ab10-4c96-9e9d-7e356c33413d",
+        "name": "Nathan Threat",
+        "appearance": null
       }
     ]
   }

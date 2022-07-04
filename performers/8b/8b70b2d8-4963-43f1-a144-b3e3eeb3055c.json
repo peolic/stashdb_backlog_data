@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Erica",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Nora",
+        "links": [
+          "https://www.indexxx.com/m/nora-7",
+          "https://stashdb.org/scenes/c4e1fc0a-de38-45d9-8a47-0f2c6210a855"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

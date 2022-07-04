@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Georgia",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Georgia AKA Polina Kadynskaya (UKR)",
+        "links": [
+          "https://www.indexxx.com/m/georgia-1",
+          "https://stashdb.org/scenes/7e0f0271-7ee0-4f58-b72e-e894adadb78a"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
