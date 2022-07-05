@@ -1,0 +1,17 @@
+{
+  "split": {
+    "name": "Brenda",
+    "shards": [
+      {
+        "id": "b391bf7d-4e99-4a07-8305-84ab26adff6f",
+        "name": "Brenda Everet",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brenda_12/gender=f/brenda.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
