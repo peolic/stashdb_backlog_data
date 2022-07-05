@@ -1,0 +1,28 @@
+{
+  "split": {
+    "name": "Summer Brooks",
+    "shards": [
+      {
+        "id": null,
+        "name": "Summer Brooks (American)",
+        "text": "since 2017",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=summerbrooks/gender=f/summer-brooks.htm",
+          "https://www.indexxx.com/m/summer-brooks-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Summer Brooks (Hungarian)",
+        "text": "A Girl Knows",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=summer_13/gender=f/summer-brooks.htm",
+          "https://www.indexxx.com/m/summer-brooks"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (possibly complete list as of 2022-07-05)"
+    ]
+  }
+}
