@@ -1,0 +1,25 @@
+{
+  "split": {
+    "name": "Tiana",
+    "shards": [
+      {
+        "id": "0cf65dad-14c0-4b6a-957e-535c402b6098",
+        "name": "Tiana",
+        "text": "AKA Tiana Ross",
+        "notes": [
+          "AKA Tiana Barbela",
+          "AKA Tiana Ason",
+          "- 21sextury"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tiana_11/gender=f/tiana.htm",
+          "https://stashdb.org/performers/0f4d9a4d-5ce3-4085-b5e1-b57b8cd96e2d",
+          "https://stashdb.org/performers/e522a4ac-b07e-4bea-9314-3d22f9a0228f"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
