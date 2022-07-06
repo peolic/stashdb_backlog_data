@@ -16,16 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "b8634c7b-924b-424a-b405-7c63a04189d3",
         "name": "Michelle",
         "appearance": null,
-        "disambiguation": "Latina, 2013",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/bc1b34b2-5c4c-4b55-b17d-37ce44fdeae8",
-        "notes": [
-          "https://www.iafd.com/person.rme/perfid=michelle_rk/gender=f/michelle.htm",
-          "https://www.indexxx.com/m/michelle-86"
-        ]
+        "disambiguation": "Latina, 2013"
       }
     ]
   }
