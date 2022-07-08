@@ -1,7 +1,27 @@
 {
   "split": {
     "name": "Catherine",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Tami",
+        "text": "Catherine @ Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/tami-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Maria",
+        "notes": [
+          "- 1By-Day",
+          "- Hot Legs And Feet"
+        ],
+        "links": [
+          "https://www.indexxx.com/m/maria-22"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

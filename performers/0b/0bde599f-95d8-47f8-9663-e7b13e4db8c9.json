@@ -1,7 +1,13 @@
 {
   "split": {
     "name": "Val",
-    "shards": [],
+    "shards": [
+      {
+        "id": "9b0b1a1b-ce5f-44c2-9d75-d06df641fb31",
+        "name": "Mona Starks",
+        "text": "Val @ Nubiles"
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
