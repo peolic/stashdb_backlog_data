@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Lizzie",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Lizzie (RU)",
+        "text": "Most scenes",
+        "links": [
+          "https://www.indexxx.com/m/lizzie-5"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
