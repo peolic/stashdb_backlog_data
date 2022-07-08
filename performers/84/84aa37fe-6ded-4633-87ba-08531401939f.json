@@ -1,7 +1,28 @@
 {
   "split": {
     "name": "Carol",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Cara (HU)",
+        "text": "Probably a lot of scenes",
+        "links": [
+          "https://www.indexxx.com/m/cara-3",
+          "https://www.iafd.com/person.rme/perfid=carol_hun/gender=f/carol.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Carol (CZ)",
+        "notes": [
+          "- Nubiles",
+          "- more ?"
+        ],
+        "links": [
+          "https://www.indexxx.com/m/carol-1"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
