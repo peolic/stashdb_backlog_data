@@ -15,11 +15,9 @@
         "appearance": null
       },
       {
-        "id": null,
+        "id": "658b1cee-abf1-4694-8d59-3d2ac7be2ba1",
         "name": "Jack Wilson",
-        "appearance": "Jack",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jackwilson_eng/gender=m/jack-wilson.htm"
+        "appearance": "Jack"
       }
     ]
   }
