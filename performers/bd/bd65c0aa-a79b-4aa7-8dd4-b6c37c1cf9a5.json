@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Star",
-    "shards": [],
+    "shards": [
+      {
+        "id": "a76bf08c-4cab-48be-b9d4-6b88b4af7b94",
+        "name": "Star Nine",
+        "text": "Star @ Kink.com",
+        "links": [
+          "https://www.indexxx.com/m/star-nine"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
