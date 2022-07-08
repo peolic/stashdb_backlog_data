@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Lela",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Laura (CZ)",
+        "text": "Lela @ Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/laura"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

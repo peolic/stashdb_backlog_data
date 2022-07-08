@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Xandra",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Katrin (RU)",
+        "text": "Xandra @ Nubiles",
+        "links": [
+          "https://www.indexxx.com/m/katrin-2"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]

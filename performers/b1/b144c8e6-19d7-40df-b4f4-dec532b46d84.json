@@ -1,9 +1,40 @@
 {
   "split": {
     "name": "Zoe",
-    "shards": [],
+    "shards": [
+      {
+        "id": "4cea00b0-384c-4dec-882c-13fce5fad358",
+        "name": "Zoe Fox",
+        "text": "Zoe @ Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/zoe-l-fox"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Zoe (2007, Euro Sex Parties)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=zoe_07_rk/gender=f/zoe.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Zoe (2003, In the VIP)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=zoe_rk_03/gender=f/zoe.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Chantal",
+        "text": "TeenCoreClub",
+        "links": [
+          "https://www.indexxx.com/m/chantal-1"
+        ]
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (possibly complete list as of 2022-07-08)"
     ]
   }
 }
