@@ -12,11 +12,6 @@
         "id": "e543da41-5780-461c-81ec-2bd56dbe5d6a",
         "name": "Kitty",
         "appearance": null
-      },
-      {
-        "id": "44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b",
-        "name": "Michelle",
-        "appearance": null
       }
     ],
     "append": [
@@ -30,12 +25,6 @@
         "notes": [
           "https://www.indexxx.com/m/kitty-1"
         ]
-      },
-      {
-        "id": "b8634c7b-924b-424a-b405-7c63a04189d3",
-        "name": "Michelle",
-        "appearance": null,
-        "disambiguation": "Latina, 2013"
       }
     ]
   }
