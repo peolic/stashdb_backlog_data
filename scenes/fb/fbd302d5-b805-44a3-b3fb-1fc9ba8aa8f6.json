@@ -7,7 +7,13 @@
     "https://www.iafd.com/title.rme/title=busty+load/year=2002/busty-load.htm"
   ],
   "performers": {
-    "remove": [],
+    "remove": [
+      {
+        "id": "1022e42a-1288-4d3b-89e7-3881ee2c5def",
+        "name": "Pamela",
+        "appearance": null
+      }
+    ],
     "append": [
       {
         "id": null,
