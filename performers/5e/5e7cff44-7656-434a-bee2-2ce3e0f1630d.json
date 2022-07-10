@@ -1,9 +1,37 @@
 {
   "split": {
     "name": "Aria",
-    "shards": [],
+    "shards": [
+      {
+        "id": "af831afa-30ca-4646-88b0-e4e193a5e80d",
+        "name": "Aria Noir",
+        "notes": [
+          "- Digital Playground",
+          "- Wicked"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=mariasilva/gender=f/aria.htm"
+        ]
+      },
+      {
+        "id": "004c283a-dea9-4795-b994-0a67e843cdfe",
+        "name": "Lina Arian",
+        "text": "Naughty Mag",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=efina_13_ukr/gender=f/efina.htm",
+          "https://www.indexxx.com/m/lina-arian-joy"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Aria (2014, Backroom Casting Couch)",
+        "links": [
+          "https://www.backroomcastingcouch.com/models/aria.html"
+        ]
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-07-10)"
     ]
   }
 }
