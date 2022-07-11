@@ -1,0 +1,22 @@
+{
+  "c_studio": [
+    "Nubile Films",
+    null
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "3348f0ef-5279-42d1-bf0f-161a7eb76b92",
+        "name": "Ricky",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "3b724951-d699-4a86-a90e-ed8d40854ccd",
+        "name": "Ricky Rascal",
+        "appearance": null
+      }
+    ]
+  }
+}
