@@ -1,0 +1,23 @@
+{
+  "split": {
+    "name": "Paolo",
+    "shards": [
+      {
+        "id": null,
+        "name": "Tommy Bravo",
+        "text": "TS Seduction",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tommybravo/gender=m/tommy-bravo.htm"
+        ]
+      },
+      {
+        "id": "51979ab6-df21-43db-9fc9-f594a5c38af8",
+        "name": "Paolo (MySweetApple)",
+        "text": "Model Time"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-07-11)"
+    ]
+  }
+}
