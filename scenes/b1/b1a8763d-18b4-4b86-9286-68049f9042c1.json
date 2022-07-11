@@ -19,9 +19,10 @@
         "id": null,
         "name": "Megan Wylder",
         "appearance": "Megan",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=meganwylder/gender=f/megan-wylder.htm",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/1fe0f940-9571-4c43-b581-1d4653962931",
         "notes": [
+          "https://www.iafd.com/person.rme/perfid=meganwylder/gender=f/megan-wylder.htm",
           "https://www.indexxx.com/m/megan-11"
         ]
       }
