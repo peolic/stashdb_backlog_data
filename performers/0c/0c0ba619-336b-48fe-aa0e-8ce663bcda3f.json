@@ -10,10 +10,31 @@
           "https://www.iafd.com/person.rme/perfid=anniebunz/gender=f/cassidey.htm",
           "https://www.indexxx.com/m/cassidey-rae"
         ]
+      },
+      {
+        "id": "a8f145ca-5b18-4dc5-8312-4f4a2e8e2ac2",
+        "name": "Brooke Summers",
+        "text": "Casting Couch-HD (2014), originally as Praisley.",
+        "notes": [
+          "fix date, add alias to performer",
+          "Ep 2014-12-25 - Praisley ... Brooke Summers (CCHD)"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brookesummers_2014/gender=f/brooke-summers.htm",
+          "https://www.indexxx.com/m/brooke-summers",
+          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Paisey (2014, Backroom Casting Couch)",
+        "links": [
+          "https://www.backroomcastingcouch.com/models/paisley.html"
+        ]
       }
     ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-07-12)"
     ]
   }
 }
