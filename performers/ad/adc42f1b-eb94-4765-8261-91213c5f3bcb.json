@@ -1,7 +1,17 @@
 {
   "split": {
     "name": "Viki",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Valentina (Polish)",
+        "text": "The Life Erotic",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=valentina_pol/gender=f/valentina.htm",
+          "https://www.indexxx.com/m/valentina-4"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
