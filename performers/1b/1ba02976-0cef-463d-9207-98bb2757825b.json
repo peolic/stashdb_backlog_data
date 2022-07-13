@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Simone",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Natalia",
+        "text": "Simone @ Sapphic",
+        "links": [
+          "https://www.indexxx.com/m/natalia-9"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
