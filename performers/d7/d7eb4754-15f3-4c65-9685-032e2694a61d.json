@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Oscar",
+    "shards": [
+      {
+        "id": null,
+        "name": "Oscar (2002, 8th Street Latinas)",
+        "text": "8th Street Latinas (2002)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=oscar_latin_rk/gender=m/oscar.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Oscar (2003, 8th Street Latinas)",
+        "text": "8th Street Latinas (2003)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=oscar_latin_rk_2/gender=m/oscar.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
