@@ -1,0 +1,28 @@
+{
+  "split": {
+    "name": "Lina",
+    "shards": [
+      {
+        "id": null,
+        "name": "Scarlett (2005-2006, BangBros)",
+        "text": "8th Street Latinas (2005)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=scarlett_bangbros/gender=f/scarlett.htm",
+          "https://www.indexxx.com/m/scarlett"
+        ]
+      },
+      {
+        "id": "538a524b-dbea-4eed-bbd3-1efbd9781b89",
+        "name": "Lena Love",
+        "text": "at least Tricky Agent",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lina_12_russ/gender=f/lina-love.htm",
+          "https://www.indexxx.com/m/lena-love"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
