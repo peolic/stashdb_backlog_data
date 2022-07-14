@@ -1,9 +1,31 @@
 {
   "split": {
     "name": "Clarice",
-    "shards": [],
+    "shards": [
+      {
+        "id": "207309d8-3acd-44bb-8d1d-1aa37ea8b4c3",
+        "name": "Clarice A AKA Amelie Lou",
+        "notes": [
+          "- Errotica Archives",
+          "- MetArt"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=clarice/gender=f/clarice.htm",
+          "https://www.indexxx.com/m/clarice"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Claric (Teen Mega World)",
+        "text": "Teen Mega World",
+        "links": [
+          "https://www.indexxx.com/m/clarice-3",
+          "https://teenmegaworld.net/models/clarice.html"
+        ]
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-07-14)"
     ]
   }
 }
