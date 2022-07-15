@@ -1,0 +1,39 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+742%3a+layla/year=2015/netvideogirls-742%3a-layla.htm"
+  ],
+  "date": "2015-01-24",
+  "performers": {
+    "remove": [
+      {
+        "id": "aee6fea2-5245-4517-af23-1970163816b2",
+        "name": "Layla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Natalia Heart",
+        "appearance": "Layla",
+        "disambiguation": "2015",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=nataliaheart_15/gender=f/natalia-heart.htm",
+        "notes": [
+          "https://forum.adultdvdtalk.com/natalia-heart--sensational-new-artist",
+          "https://www.freeones.com/forums/threads/natalia-heart.824029/",
+          "https://web.archive.org/web/20150502180557/http://adultstarmodels.com/talent-view/natalia-heart/"
+        ]
+      },
+      {
+        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
+        "name": "Seth Gamble",
+        "appearance": "Mark"
+      }
+    ]
+  }
+}
