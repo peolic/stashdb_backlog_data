@@ -1,0 +1,27 @@
+{
+  "split": {
+    "name": "May A",
+    "shards": [
+      {
+        "id": "82e617a6-1f82-47a5-a2bc-342f39146cac",
+        "name": "Jordan Maze",
+        "text": "Viv Thomas",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=magdi/gender=f/magdi.htm",
+          "https://www.indexxx.com/m/may"
+        ]
+      },
+      {
+        "id": null,
+        "name": "May (2016, Evil Angel)",
+        "notes": [
+          "Rouge Adventures #44",
+          "performer is not listed on it, though"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-07-15)"
+    ]
+  }
+}
