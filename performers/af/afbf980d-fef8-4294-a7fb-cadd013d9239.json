@@ -1,7 +1,23 @@
 {
   "split": {
     "name": "Lori",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Lori (2005, First Time Auditions)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lori_rk_05/gender=f/lori.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Laura Honey",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=laurahoney/gender=f/laura-honey.htm",
+          "https://stashdb.org/scenes/4a0f5f3c-1122-44d2-8e5d-64f10cedd41e"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
