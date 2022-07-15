@@ -1,9 +1,30 @@
 {
   "split": {
     "name": "Brie",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Brie (2003, Reality Kings)",
+        "text": "Wives in Pantyhose",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brie_rk_03/gender=f/brie.htm",
+          "https://www.indexxx.com/m/brie#"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Brie (2001-2002)",
+        "notes": [
+          "- Devil's Film",
+          "- Peter North"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brie/gender=f/brie.htm"
+        ]
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-07-15)"
     ]
   }
 }
