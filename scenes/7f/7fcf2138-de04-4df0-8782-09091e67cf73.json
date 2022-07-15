@@ -1,0 +1,20 @@
+{
+  "c_studio": [
+    "Casting Couch-HD",
+    null
+  ],
+  "comments": [
+    "https://www.imagevenue.com/view/o/?i=66135_nvg.13.04.26.marie_123_246lo.jpg&h=img199"
+  ],
+  "date": "2013-04-26",
+  "performers": {
+    "remove": [
+      {
+        "id": "29abd354-101c-4a5f-9efa-7f1359aba38b",
+        "name": "Marie",
+        "appearance": null
+      }
+    ],
+    "append": []
+  }
+}
