@@ -1,0 +1,33 @@
+{
+  "split": {
+    "name": "Jennie",
+    "shards": [
+      {
+        "id": "048e0aba-94ee-44d5-90a8-02d2eb5db3b1",
+        "name": "Jenny Lynn (2005)",
+        "text": "We Live Together",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jennylynn_05/gender=f/jenny-lynn.htm",
+          "https://www.indexxx.com/m/jenny-lynn"
+        ]
+      },
+      {
+        "id": "6bd93a91-52ec-4a74-abe6-02d9d4955f5a",
+        "name": "Jennie AKA Lafee",
+        "text": "Devil's Film (Network)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jennie_rus/gender=f/jennie.htm",
+          "https://www.indexxx.com/m/anita-baby"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jess Silvermoon",
+        "text": "Fake Agent"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
