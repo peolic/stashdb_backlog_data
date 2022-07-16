@@ -74,9 +74,13 @@
         ]
       },
       {
-        "id": null,
+        "id": "5b92e15a-f56b-4ea5-8778-c17150d08a64",
         "name": "Maggie Gold",
-        "text": "White Ghetto"
+        "text": "White Ghetto",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=maggie_11_cz/gender=f/maggie-gold.htm",
+          "https://www.indexxx.com/m/maggie-gold"
+        ]
       }
     ],
     "notes": [
