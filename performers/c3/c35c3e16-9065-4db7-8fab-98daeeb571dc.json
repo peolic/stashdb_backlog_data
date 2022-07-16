@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Ken",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Ken Masters",
+        "text": "at least some Tranny Surprise",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kenmasters/gender=m/ken-masters.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
