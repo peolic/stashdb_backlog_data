@@ -1,7 +1,18 @@
 {
   "split": {
     "name": "Dillon",
-    "shards": [],
+    "shards": [
+      {
+        "id": "1fde16ed-bb21-42ae-b529-603dd300eb1b",
+        "name": "Dillon Day AKA Dillion Day, Dillon A",
+        "text": "most scenes",
+        "links": [
+          "https://stashdb.org/performers/1eeabb09-d495-4417-8266-e9ca5a9062c2",
+          "https://stashdb.org/performers/ca3483cb-4b93-4325-aeca-11572fd7faf6",
+          "https://www.iafd.com/person.rme/perfid=dillionday/gender=m/dillon-day.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
