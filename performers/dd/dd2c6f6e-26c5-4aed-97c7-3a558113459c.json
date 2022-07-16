@@ -1,0 +1,18 @@
+{
+  "split": {
+    "name": "Max",
+    "shards": [
+      {
+        "id": "d53b62e0-6d12-4287-9ebe-ac3dc9d6a72b",
+        "name": "Alex Monetti",
+        "text": "at least some Doghouse Digital",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=alexmonetti/gender=m/alex-monetti.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
