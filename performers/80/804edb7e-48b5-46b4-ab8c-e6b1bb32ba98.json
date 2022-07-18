@@ -1,0 +1,32 @@
+{
+  "split": {
+    "name": "Oliver",
+    "shards": [
+      {
+        "id": null,
+        "name": "Oliver (2014-2015, Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=oliver_sc_4/gender=m/oliver.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Oliver (2014, Sean Cody)",
+        "text": "Sean Cody 2014-04-11",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=oliver_sc_3/gender=m/oliver.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Oliver (2010, Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=oliver_sc_2/gender=m/oliver.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
