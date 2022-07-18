@@ -3,10 +3,14 @@
     "name": "Tori",
     "shards": [
       {
-        "id": null,
-        "name": "Tori (Czech)",
-        "text": "ALS Scan",
+        "id": "bf299cf3-69fb-45d9-8150-b9aaeb2b6af3",
+        "name": "Tori (CZ, 2004-2009) AKA Estee, Tori A",
+        "notes": [
+          "- ALS Scan",
+          "- DDF Network"
+        ],
         "links": [
+          "https://stashdb.org/performers/426d7c29-b614-4eec-b8ee-719442ebf7a9",
           "https://www.iafd.com/person.rme/perfid=tori_cz_04/gender=f/tori.htm",
           "https://www.indexxx.com/m/tori"
         ]
@@ -70,10 +74,14 @@
           "https://www.indexxx.com/m/violetta-8",
           "http://www.pornteengirl.com/model/kristina-soul.html"
         ]
+      },
+      {
+        "id": null,
+        "name": "Tori (2008, Boys First Time)"
       }
     ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-07-18)"
     ]
   }
 }
