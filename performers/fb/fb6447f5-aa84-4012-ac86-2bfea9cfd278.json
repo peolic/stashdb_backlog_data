@@ -1,7 +1,17 @@
 {
   "split": {
     "name": "Violetta",
-    "shards": [],
+    "shards": [
+      {
+        "id": "41764419-b659-45f6-a4e3-5bdc4d518304",
+        "name": "Kristina Soul",
+        "text": "Viv Thomas",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kristinasoul/gender=f/kristina-soul.htm",
+          "https://www.indexxx.com/m/violetta-8"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
