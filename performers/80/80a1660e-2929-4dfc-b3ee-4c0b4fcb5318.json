@@ -1,7 +1,23 @@
 {
   "split": {
     "name": "July",
-    "shards": [],
+    "shards": [
+      {
+        "id": "505df677-2113-49ad-9c6d-657b2cee46e1",
+        "name": "Karina Grand",
+        "text": "1 Pass for All Sites",
+        "notes": [
+          "additionally 2 scenes missing performer:"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lanaroberts/gender=f/karina-grand.htm",
+          "https://www.indexxx.com/m/karina-grand",
+          "https://1passforallsites.com/model?id=1052",
+          "https://stashdb.org/scenes/e40dacfa-7108-49fb-b60b-8fe11d84ac7c",
+          "https://stashdb.org/scenes/25661eb8-7a4c-4206-84fb-32880c9ad5de"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
