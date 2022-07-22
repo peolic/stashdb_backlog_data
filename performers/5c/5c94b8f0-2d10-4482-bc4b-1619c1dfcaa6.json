@@ -1,14 +1,19 @@
 {
   "split": {
     "name": "Reka",
-    "shards": [],
-    "notes": [
-      "Mix of multiple performers (partial list)",
-      "The evilagel scene might have wrong metadata on IAFD / evilangel. See comment on this indexxx profile."
+    "shards": [
+      {
+        "id": "4ffc701b-7565-40f2-9aa0-66594d27445a",
+        "name": "Reka Gabor",
+        "text": "Evil Angel",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rekagabor/gender=f/reka-gabor.htm",
+          "https://www.indexxx.com/m/reka-gabor"
+        ]
+      }
     ],
-    "links": [
-      "https://stashdb.org/scenes/f2bc6376-c762-4e76-b968-6c68bfc576ff",
-      "https://www.indexxx.com/m/reka-gabor"
+    "notes": [
+      "Mix of multiple performers (partial list)"
     ]
   }
 }
