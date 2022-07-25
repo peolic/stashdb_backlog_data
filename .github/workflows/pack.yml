@@ -1,0 +1,56 @@
+name: Pack Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  main:
+    name: Pack Data
+    runs-on: ubuntu-latest
+
+    env:
+      PATH_EXPORTER: backlog
+      PATH_DATA: backlog/backlog_data
+
+    steps:
+      - name: Checkout export tool repository
+        uses: actions/checkout@v3
+        with:
+          repository: peolic/stashdb_backlog_export
+          path: ${{ env.PATH_EXPORTER }}
+
+      - name: Checkout data repository
+        uses: actions/checkout@v3
+        with:
+          path: ${{ env.PATH_DATA }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Pack data
+        working-directory: ${{ env.PATH_EXPORTER }}
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          python pack_backlog_data.py
+
+      - name: Push tag
+        if: ${{ env.changes_exist == 'true' || env.current_cache != github.sha }}
+        working-directory: ${{ env.PATH_DATA }}
+        run: |
+          git push origin HEAD:refs/tags/cache -f
+
+      - name: Release cache data
+        uses: softprops/action-gh-release@v1
+        if: ${{ env.changes_exist == 'true' || env.current_cache != github.sha }}
+        with:
+          name: Cache
+          tag_name: cache
+          target_commitish: main
+          prerelease: true
+          body: "All the data in cache format.\n\nUpdated: **${{ env.TIMESTAMP }}**"
+          fail_on_unmatched_files: true
+          files: ${{ env.PATH_EXPORTER }}/stashdb_backlog.json
+          token: ${{ secrets.GITHUB_TOKEN }}
