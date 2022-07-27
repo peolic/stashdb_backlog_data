@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Elisa",
+    "shards": [
+      {
+        "id": "e8cb3e72-323f-400b-b0fc-319f0b66ab26",
+        "name": "Alice Wonderbang",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=alicewonderbang/gender=f/alice-wonderbang.htm",
+          "https://www.indexxx.com/m/elisa-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Eliza (2006, Perfect Gonzo)",
+        "text": "Only Swallows",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=elisa_eu_06/gender=f/elisa.htm",
+          "https://www.indexxx.com/m/eliza"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-07-27)",
+      "Performer was renamed to Alice Wonderbang while a different performer's scene still remained."
+    ],
+    "links": [
+      "https://stashdb.org/edits/93449fa5-fb58-4592-ae62-2560dde02aaa"
+    ]
+  }
+}
