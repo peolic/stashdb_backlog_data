@@ -5,7 +5,10 @@
       {
         "id": "ea45156c-2b57-4a28-a262-fbff18fd2dc7",
         "name": "Lucie Haluzikova AKA Lucie H.",
-        "text": "(DDF Network, ALS Scan)",
+        "notes": [
+          "- ALS Scan",
+          "- DDF Network"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=luciehaluzikova/gender=f/lucie-haluzikova.htm",
           "https://www.indexxx.com/m/lucie-h-2"
