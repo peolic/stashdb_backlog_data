@@ -1,0 +1,29 @@
+{
+  "c_studio": [
+    "Jr College Lesbians",
+    null
+  ],
+  "comments": [
+    "Same as \"Virgin Teen Lesbians: Jenny and Gwen - V2\" on IAFD",
+    "http://virginteenlesbians.com/en/s1/trailer/9056/"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Gwen",
+        "appearance": null,
+        "disambiguation": "Canadian, 2007-2010",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=gwen_07/gender=f/gwen.htm"
+      },
+      {
+        "id": "05ffb71f-3fe2-4682-8bf3-7a52c113885a",
+        "name": "Jenny G",
+        "appearance": "Jenny",
+        "disambiguation": "2005-2010"
+      }
+    ]
+  }
+}
