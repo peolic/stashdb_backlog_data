@@ -3,8 +3,17 @@
     {
       "algorithm": "phash",
       "hash": "f4f4f18796076702",
-      "correct_scene_id": "88f385b6-2cdb-467b-ae2c-690e2a4f5e69",
-      "duration": 1359
+      "correct_scene_id": "88f385b6-2cdb-467b-ae2c-690e2a4f5e69"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "36b209c79cdc628b",
+      "correct_scene_id": "88f385b6-2cdb-467b-ae2c-690e2a4f5e69"
+    },
+    {
+      "algorithm": "md5",
+      "hash": "8c3678457315f1053f729774739d4666",
+      "correct_scene_id": "88f385b6-2cdb-467b-ae2c-690e2a4f5e69"
     }
   ]
 }
