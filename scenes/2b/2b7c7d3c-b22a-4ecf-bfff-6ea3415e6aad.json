@@ -1,0 +1,21 @@
+{
+  "c_studio": [
+    "Hardcore Partying",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=samantha+taisa+jessi+and+christina+love+to+play+games/year=2010/samantha_taisa_jessi_and_christina_love_to_play_games.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Johnny Danger",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=johnnydanger/gender=m/johnny-danger.htm"
+      }
+    ]
+  }
+}
