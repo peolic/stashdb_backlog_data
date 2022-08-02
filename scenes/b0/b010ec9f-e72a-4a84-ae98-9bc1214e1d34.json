@@ -1,0 +1,32 @@
+{
+  "c_studio": [
+    "Inexperienced Amateurs",
+    null
+  ],
+  "comments": [
+    "Studio used the male performer's name to describe the female. Maybe a mistake.",
+    "https://www.data18.com/scenes/150416"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Raven Lynn",
+        "appearance": null,
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=rileycyrus/gender=f/riley-cyrus.htm",
+        "notes": [
+          "A.K.A. Raven, Riley Cyrus, Rylie Cyris, Miss Raven Lynn",
+          "https://www.indexxx.com/m/raven-lynn",
+          "https://www.thenude.com/_39817.htm"
+        ]
+      },
+      {
+        "id": "e1d64791-05b3-4a8c-a4b1-ef6962a02d4c",
+        "name": "Jared King",
+        "appearance": "Aiden Boyd"
+      }
+    ]
+  }
+}
