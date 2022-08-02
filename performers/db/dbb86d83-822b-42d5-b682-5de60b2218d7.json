@@ -13,7 +13,10 @@
       {
         "id": "d33383a3-d1d5-4967-a9be-2293da84a11a",
         "name": "C.J. (2008-15 ROU)",
-        "text": "(Evil Angel, Rocco Siffredi)",
+        "notes": [
+          "- Evil Angel",
+          "- Rocco Siffredi"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=cj_rom/gender=f/c.j..htm",
           "https://www.indexxx.com/m/cj-2"
