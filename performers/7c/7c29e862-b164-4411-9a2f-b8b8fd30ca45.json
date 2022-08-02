@@ -1,0 +1,21 @@
+{
+  "split": {
+    "name": "Tommy",
+    "shards": [
+      {
+        "id": null,
+        "name": "Thomas Deer",
+        "notes": [
+          "- Babes",
+          "- maybe more"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tommydeer/gender=m/tommy-deer.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
