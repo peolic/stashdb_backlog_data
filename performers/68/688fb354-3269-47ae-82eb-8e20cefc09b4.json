@@ -1,5 +1,4 @@
 {
-  "name": "Lexi Leigh",
   "split": {
     "name": "Lexi Leigh",
     "shards": [
@@ -25,9 +24,5 @@
     "notes": [
       "Possibly a mix of two performers. Needs confirmation."
     ]
-  },
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=lexileigh_06/gender=f/lexi-leigh.htm",
-    "https://www.indexxx.com/m/lexi-leigh"
-  ]
+  }
 }
