@@ -9,22 +9,17 @@
   "performers": {
     "remove": [
       {
-        "id": "4478c63b-404d-4958-b114-630e251b94c9",
-        "name": "Cali",
+        "id": "23221643-7682-4e59-8570-80d7ab16aa95",
+        "name": "Gloria",
         "appearance": null
       },
       {
-        "id": "23221643-7682-4e59-8570-80d7ab16aa95",
-        "name": "Gloria",
+        "id": "4478c63b-404d-4958-b114-630e251b94c9",
+        "name": "Cali",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "3d32d3e4-0a99-4829-b4e1-6ce3012e6776",
-        "name": "Cali Cassidy",
-        "appearance": "Cali"
-      },
       {
         "id": null,
         "name": "Gloria",
@@ -35,6 +30,11 @@
         "notes": [
           "https://www.indexxx.com/m/gloria-5"
         ]
+      },
+      {
+        "id": "3d32d3e4-0a99-4829-b4e1-6ce3012e6776",
+        "name": "Cali Cassidy",
+        "appearance": "Cali"
       }
     ]
   }

@@ -9,33 +9,12 @@
   "performers": {
     "remove": [
       {
-        "id": "4478c63b-404d-4958-b114-630e251b94c9",
-        "name": "Cali",
-        "appearance": null
-      },
-      {
-        "id": "b5f0026e-d741-4791-a7b1-85962fd3c4de",
-        "name": "Nevaeh",
-        "appearance": null
-      },
-      {
         "id": "0333fb7e-8509-44f4-9cc3-187ca85ba28c",
         "name": "Kandi",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "3d32d3e4-0a99-4829-b4e1-6ce3012e6776",
-        "name": "Cali Cassidy",
-        "appearance": "Cali"
-      },
-      {
-        "id": "2885b2a1-1ed9-44ca-978f-db030c0f624b",
-        "name": "Nevaeh",
-        "appearance": null,
-        "disambiguation": "2005-13"
-      },
       {
         "id": null,
         "name": "Kandi",
