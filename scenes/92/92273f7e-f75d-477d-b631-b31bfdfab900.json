@@ -2,7 +2,13 @@
   "fingerprints": [
     {
       "algorithm": "phash",
-      "hash": "d2d2d6e129a92da9",
+      "hash": "d2d2d6c529a92da9",
+      "correct_scene_id": null,
+      "duration": 2021
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "c1b30dcded28c7ca",
       "correct_scene_id": null,
       "duration": 2021
     },
