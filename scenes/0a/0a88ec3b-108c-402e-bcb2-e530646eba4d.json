@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "15c32632-3075-4751-ad54-8f7b9086de5c",
         "name": "Savannah",
         "appearance": null,
-        "disambiguation": "2005, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=savannah_rk_05/gender=f/savannah.htm"
+        "disambiguation": "2005, Reality Kings"
       }
     ]
   }
