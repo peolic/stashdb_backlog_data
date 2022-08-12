@@ -1,0 +1,25 @@
+{
+  "c_studio": [
+    "Private Casting X",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=shocked+but+still+ready+to+fuck/year=2014/shocked-but-still-ready-to-fuck.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "505e490d-9ee6-4d3f-90da-c21981b54884",
+        "name": "Tony",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "0e2037f1-66b2-4a26-b3f9-df649408712c",
+        "name": "Tony Profane",
+        "appearance": "Tony"
+      }
+    ]
+  }
+}
