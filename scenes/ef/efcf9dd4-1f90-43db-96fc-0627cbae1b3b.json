@@ -1,5 +1,13 @@
 {
   "duplicates": [
     "70be6957-ddeb-412a-959c-e33ff723e2e9"
+  ],
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "f623b698cba158c5",
+      "correct_scene_id": "453f3653-aa81-44f0-8d59-1195e0fa0e8c",
+      "duration": 1634
+    }
   ]
 }
