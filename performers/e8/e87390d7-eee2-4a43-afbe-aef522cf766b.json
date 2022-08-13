@@ -3,7 +3,7 @@
     "name": "Jared",
     "shards": [
       {
-        "id": null,
+        "id": "e87390d7-eee2-4a43-afbe-aef522cf766b",
         "name": "Hoss Kado",
         "links": [
           "https://www.iafd.com/person.rme/perfid=hosskado/gender=m/hoss-kado.htm"
@@ -20,14 +20,6 @@
       {
         "id": null,
         "name": "Jared (Boys First Time 2004)"
-      },
-      {
-        "id": "dcc7391e-3cd5-499b-ae22-9ae7bb62e69d",
-        "name": "Travis Lee",
-        "text": "aka Jared (Sean Cody 2002)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=travislee_jc/gender=m/travis-lee.htm"
-        ]
       }
     ],
     "notes": [
