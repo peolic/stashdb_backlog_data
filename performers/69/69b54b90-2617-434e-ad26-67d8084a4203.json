@@ -1,0 +1,17 @@
+{
+  "split": {
+    "name": "Knox",
+    "shards": [
+      {
+        "id": null,
+        "name": "Knox (Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=knox_seancody/gender=m/knox.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
