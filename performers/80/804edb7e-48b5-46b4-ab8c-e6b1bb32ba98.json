@@ -3,21 +3,6 @@
     "name": "Oliver",
     "shards": [
       {
-        "id": "3bde5f92-06aa-4779-b3ee-36f067637d6b",
-        "name": "Oliver (2014-2015, Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=oliver_sc_4/gender=m/oliver.htm"
-        ]
-      },
-      {
-        "id": "0fe3e4bd-97a3-465b-af5f-6ffa9f60425a",
-        "name": "Oliver (2014, Sean Cody)",
-        "text": "Sean Cody 2014-04-11",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=oliver_sc_3/gender=m/oliver.htm"
-        ]
-      },
-      {
         "id": null,
         "name": "Oliver (2010, Sean Cody)",
         "links": [
