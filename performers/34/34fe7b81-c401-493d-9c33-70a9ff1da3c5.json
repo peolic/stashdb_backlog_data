@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Byron",
+    "shards": [
+      {
+        "id": null,
+        "name": "Byron (Sean Cody 2011)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=byron_sc_1/gender=m/byron.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Byron (Sean Cody 2011-08)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=byron_sc_2/gender=m/byron.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-08-13)"
+    ]
+  }
+}
