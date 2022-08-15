@@ -1,9 +1,24 @@
 {
   "split": {
     "name": "Vanessa Ortiz",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Vanessa Ortiz",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=vanessaortiz/gender=f/vanessa-ortiz.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Vanessa Ortiz [iktg]",
+        "links": [
+          "https://www.iknowthatgirl.com/model/27575/vanessa-ortiz"
+        ]
+      }
+    ],
     "notes": [
-      "Most scenes (all but one) belong to one performer; profile image (1 of 1) belongs to the one outlier scene"
+      "Most scenes (all but one) belong to one performer; profile image (1 of 1) belongs to the performer from the one outlier scene"
     ]
   }
 }
