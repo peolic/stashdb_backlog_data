@@ -1,0 +1,21 @@
+{
+  "split": {
+    "name": "Sebastien",
+    "shards": [
+      {
+        "id": null,
+        "name": "Sebastien (Sean Cody 2006)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sebastien_sc/gender=m/sebastien.htm"
+        ]
+      },
+      {
+        "id": "c0c6cf5f-4e9b-427d-a2ae-7e630e7efcf7",
+        "name": "Brandon Ashton aka Sebastien (Sean Cody 2016)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=brandonashton/gender=m/brandon-ashton.htm"
+        ]
+      }
+    ]
+  }
+}
