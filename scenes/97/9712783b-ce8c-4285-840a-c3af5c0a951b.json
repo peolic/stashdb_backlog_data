@@ -13,22 +13,12 @@
   "performers": {
     "remove": [
       {
-        "id": "50723b4b-0158-40b0-b59c-60093841ba40",
-        "name": "Riley",
-        "appearance": null
-      },
-      {
         "id": "c9045588-1e46-4d2b-94ca-1a6ccb35cac1",
         "name": "Mary Ann",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "748f35ff-03a8-4db0-850e-a03977132b96",
-        "name": "Riley Reyes",
-        "appearance": "Riley"
-      },
       {
         "id": null,
         "name": "Samantha Gold",
