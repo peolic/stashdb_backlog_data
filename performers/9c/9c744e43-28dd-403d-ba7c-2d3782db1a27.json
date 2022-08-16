@@ -1,7 +1,15 @@
 {
   "split": {
     "name": "Rich",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Rich (Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rich_sc_1/gender=m/rich.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
