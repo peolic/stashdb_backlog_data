@@ -1,6 +1,33 @@
 {
-  "name": "Romana",
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=romana_rus_12/gender=f/romana.htm"
-  ]
+  "split": {
+    "name": "Romana",
+    "shards": [
+      {
+        "id": "ce1c8f6d-a37c-41fe-8ea1-5dad3be5697a",
+        "name": "Romana (Russian, 2011-17)",
+        "notes": [
+          "- \u000218videoz\u0003",
+          "- \u000221 Sextury\u0003",
+          "- 21 Bonus (likely)",
+          "- \u0002First Anal Quest\u0003 "
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=romana_rus_12/gender=f/romana.htm",
+          "https://www.indexxx.com/m/romana-7"
+        ]
+      },
+      {
+        "id": "b3fa5bc3-f8cf-49a9-b45f-ea544c004671",
+        "name": "Kirsten Plant",
+        "text": "Teen Mega World",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kirstenplant/gender=f/kirsten-plant.htm",
+          "https://www.indexxx.com/m/kirsten-plant"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
 }
