@@ -1,0 +1,28 @@
+{
+  "c_studio": [
+    "Hustler",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=barely+legal+pov+13/year=2013/barely-legal-pov-13.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "248a2cce-22b8-49db-83c6-ac11be46091c",
+        "name": "Dirty Dan",
+        "appearance": null,
+        "disambiguation": "Kink"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Dan Silver",
+        "appearance": "Dirty Dan",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=dansilver/gender=m/dan-silver.htm"
+      }
+    ]
+  }
+}

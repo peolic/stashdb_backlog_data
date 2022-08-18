@@ -4,20 +4,16 @@
     null
   ],
   "comments": [
-    "https://www.iafd.com/title.rme/title=sexy+cabbie+gets+what+she+wants/year=2016/sexy_cabbie_gets_what_she_wants.htm"
+    "https://www.iafd.com/title.rme/title=sexy+cabbie+gets+what+she+wants/year=2016/sexy-cabbie-gets-what-she-wants.htm"
   ],
   "performers": {
     "remove": [],
     "append": [
       {
-        "id": "29d4a648-c14d-4519-9533-044c1773b136",
-        "name": "Elicia Solis",
-        "appearance": null
-      },
-      {
         "id": null,
         "name": "Dirty Dan",
         "appearance": null,
+        "disambiguation": "UK",
         "status": "new",
         "status_url": "https://www.iafd.com/person.rme/perfid=dirtydan2/gender=m/dirty-dan.htm"
       }
