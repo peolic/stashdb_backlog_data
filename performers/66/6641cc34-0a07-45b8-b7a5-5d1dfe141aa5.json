@@ -1,9 +1,40 @@
 {
   "split": {
     "name": "Drew",
-    "shards": [],
+    "shards": [
+      {
+        "id": "4f6d49da-c2ef-4bf0-a909-213b90043d06",
+        "name": "Drew Butterfly",
+        "text": "Ass Parade",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=drewbutterfly/gender=f/drew-butterfly.htm",
+          "https://www.indexxx.com/m/drew-butterfly"
+        ]
+      },
+      {
+        "id": "c2f432f1-62c3-44c0-9afa-7ff5dc0aad24",
+        "name": "Juliana AKA Juliana Drew (made-up name)",
+        "text": "Teen Core Club",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=juliana_rus/gender=f/juliana.htm",
+          "https://www.indexxx.com/m/yuliana-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Drew Andrews",
+        "text": "Devil's Tgirls",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=drewandrews/gender=m/drew-andrews.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Drew (2004, Boys First Time)"
+      }
+    ],
     "notes": [
-      "Performer is not unique. Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-08-18)"
     ]
   }
 }
