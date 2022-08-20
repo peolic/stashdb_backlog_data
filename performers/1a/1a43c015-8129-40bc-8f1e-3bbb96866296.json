@@ -1,0 +1,56 @@
+{
+  "split": {
+    "name": "Thomas",
+    "shards": [
+      {
+        "id": null,
+        "name": "Thomas Crown"
+      },
+      {
+        "id": "f3847844-c80a-4a87-a47b-b8c438d06b38",
+        "name": "Thomas Stone",
+        "text": "Mike's Apartment",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=thomasstone/gender=m/thomas-stone.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Thomas (2002, Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=thomas_sc_1/gender=m/thomas.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Thomas (2009, Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=thomas_sc_2/gender=m/thomas.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Thomas (2013, Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=thomas_sc_3/gender=m/thomas.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Thomas (2018, Sean Cody) / Harris (CorbinFisher)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=harris_cf_2/gender=m/thomas.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Thomas (18videoz)",
+        "text": "maybe multiple performers"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)",
+      "Non unique Thomas was merged into Thomas Crown."
+    ]
+  }
+}
