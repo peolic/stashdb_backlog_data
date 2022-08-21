@@ -1,12 +1,4 @@
 {
-  "c_studio": [
-    "Disgrace That Bitch",
-    null
-  ],
-  "comments": [
-    "Tony (Profane) is perhaps the videographer, adding him anyway",
-    "https://www.iafd.com/title.rme/title=locked+out+and+fucked+out/year=2013/locked-out-and-fucked-out.htm"
-  ],
   "fingerprints": [
     {
       "algorithm": "phash",
@@ -14,21 +6,5 @@
       "correct_scene_id": "227ba06b-7919-4741-9793-7d8dbc3363e0",
       "duration": 1827
     }
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "505e490d-9ee6-4d3f-90da-c21981b54884",
-        "name": "Tony",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "0e2037f1-66b2-4a26-b3f9-df649408712c",
-        "name": "Tony Profane",
-        "appearance": "Tony"
-      }
-    ]
-  }
+  ]
 }
