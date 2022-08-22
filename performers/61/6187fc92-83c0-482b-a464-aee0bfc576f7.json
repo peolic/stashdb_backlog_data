@@ -1,0 +1,27 @@
+{
+  "split": {
+    "name": "Adam",
+    "shards": [
+      {
+        "id": null,
+        "name": "John Barber",
+        "text": "Bi Empire",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=hugobrtnik/gender=m/john-barber.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Adam (Sean Cody 2002)"
+      },
+      {
+        "id": null,
+        "name": "Adam (Sean Cody 2011)"
+      },
+      {
+        "id": null,
+        "name": "Adam (Sean Cody 2014)"
+      }
+    ]
+  }
+}
