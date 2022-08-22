@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Marlene",
+    "shards": [
+      {
+        "id": null,
+        "name": "Marlene (rk.com, 2003)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=marlene_rk03/gender=f/marlene.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Marlene (Captain Stabbin, 2005)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=marlene_rk_05/gender=f/marlene.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Marlene (SexMex)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=marlene_sxmx/gender=f/marlene.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
