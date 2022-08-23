@@ -1,0 +1,28 @@
+{
+  "split": {
+    "name": "Susan",
+    "shards": [
+      {
+        "id": null,
+        "name": "Susan (CZ, 2005)",
+        "text": "DDF Network",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=susan_ddf/gender=f/susan.htm",
+          "https://www.indexxx.com/m/susan"
+        ]
+      },
+      {
+        "id": "fdc07932-230d-4483-86b7-09498f8dce63",
+        "name": "Kata AKA Kata R.",
+        "text": "ALS Scan",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kata_h_03/gender=f/kata.htm",
+          "https://www.indexxx.com/m/barbara-1"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
