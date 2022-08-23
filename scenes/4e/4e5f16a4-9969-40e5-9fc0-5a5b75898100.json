@@ -1,0 +1,40 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489824",
+    "Ep 2016-06-17 - Jess",
+    "Visually matched"
+  ],
+  "date": "2016-06-17",
+  "performers": {
+    "remove": [
+      {
+        "id": "23378573-c6a8-4973-9120-ff1666e5fb81",
+        "name": "Jess",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Jay Pink",
+        "appearance": "Jess",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=jess_16/gender=f/jess.htm",
+        "notes": [
+          "https://www.indexxx.com/m/jay-pink",
+          "https://www.thenude.com/_36225.htm",
+          "https://www.atkmodels.com/blog/models/jay-pink/"
+        ]
+      },
+      {
+        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
+        "name": "Tyler D.",
+        "appearance": "Tyler"
+      }
+    ]
+  }
+}
