@@ -1,5 +1,4 @@
 {
-  "name": "Michelle Wild [HU]",
   "split": {
     "name": "Michelle Wild",
     "shards": [
@@ -37,9 +36,5 @@
     "notes": [
       "Mix of multiple performers (complete list as of 2022-07-25)"
     ]
-  },
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=michellewild/gender=f/michelle-wild.htm",
-    "https://www.indexxx.com/m/michelle-wild"
-  ]
+  }
 }
