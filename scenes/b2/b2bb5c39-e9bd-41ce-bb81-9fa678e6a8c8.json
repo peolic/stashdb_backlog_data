@@ -3,6 +3,10 @@
     "Leg Sex",
     null
   ],
+  "comments": [
+    "Same as \"[The] Morning After...\"",
+    "https://www.legsex.com/foot-fetish-photos/Harmony/45604/"
+  ],
   "performers": {
     "remove": [
       {
@@ -13,12 +17,9 @@
     ],
     "append": [
       {
-        "id": null,
-        "name": "Harmony",
-        "appearance": null,
-        "disambiguation": "2019, Leg Sex",
-        "status": "new",
-        "status_url": "https://www.legsex.com/foot-models/Harmony/5962/"
+        "id": "bf20a298-e2c8-4641-9b16-6ab2d3caac8a",
+        "name": "Harmony Paxton",
+        "appearance": "Harmony"
       }
     ]
   }
