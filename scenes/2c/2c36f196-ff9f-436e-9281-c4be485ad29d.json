@@ -1,0 +1,27 @@
+{
+  "c_studio": [
+    "8th Street Latinas",
+    null
+  ],
+  "comments": [
+    "Performer removed without creating a new one",
+    "https://www.iafd.com/title.rme/title=double+thick+clit/year=2002/double-thick-clit.htm"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Adrian",
+        "appearance": null,
+        "disambiguation": "2002, Reality Kings",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=adrian_latin_2002/gender=m/adrian.htm",
+        "notes": [
+          "Birthdate possibly 1974-02-20",
+          "https://pornstarlookup.com/pornstar/8233/adrian"
+        ]
+      }
+    ]
+  }
+}
