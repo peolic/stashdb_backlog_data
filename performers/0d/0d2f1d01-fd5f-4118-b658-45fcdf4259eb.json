@@ -1,9 +1,22 @@
 {
   "split": {
     "name": "Andy",
-    "shards": [],
+    "shards": [
+      {
+        "id": "dba8d913-fa4c-4b1b-911d-9e1f43cf5a6d",
+        "name": "Michal Herak",
+        "text": "Male Reality",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=michalherak/gender=m/michal-herak.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Andy (2008, Boys First Time)"
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-08-26)"
     ]
   }
 }
