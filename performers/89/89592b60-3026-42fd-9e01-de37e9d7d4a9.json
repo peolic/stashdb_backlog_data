@@ -17,6 +17,35 @@
       },
       {
         "id": null,
+        "name": "Sierra (1992-1996)",
+        "notes": [
+          "- Rocco Siffredi",
+          "- Wicked"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sierra/gender=f/sierra.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Sierra (2002, Reality Kings)",
+        "text": "Captain Stabbin (2002)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sierra_rk_02/gender=f/sierra.htm",
+          "https://www.indexxx.com/m/sierra-4"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Sierra (2004, Reality Kings)",
+        "text": "Captain Stabbin (2004)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sierra_rk_04/gender=f/sierra.htm",
+          "https://www.indexxx.com/m/sierra-3"
+        ]
+      },
+      {
+        "id": null,
         "name": "Sierra (2019, Backroom Casting Couch)",
         "links": [
           "https://www.iafd.com/person.rme/perfid=sierra_brcc_1553/gender=f/sierra.htm",
@@ -37,10 +66,14 @@
         "links": [
           "https://www.backroomcastingcouch.com/models/sierra.html"
         ]
+      },
+      {
+        "id": null,
+        "name": "Sierra (18 Flesh)"
       }
     ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2022-08-28)"
     ]
   }
 }
