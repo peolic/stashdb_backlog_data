@@ -10,31 +10,20 @@
   "duration": "2020",
   "image": "http://pornfreeworld.com/galls/40oz_pics/booty_m4j7e/booty_pic/ass_79.jpg",
   "performers": {
-    "remove": [
-      {
-        "id": "8437af7b-01e3-448a-b06d-67b3a88be8a7",
-        "name": "Satin Lace & De Collecter",
-        "appearance": null,
-        "status": "edit"
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": null,
-        "name": "DeCollector",
-        "appearance": "De Collecter",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=decollector/gender=f/decollector.htm",
-        "notes": [
-          "https://www.indexxx.com/m/de-collecter",
-          "https://www.freeones.com/decollecter",
-          "https://www.boobpedia.com/boobs/Decollector"
-        ]
-      },
       {
         "id": "6393f2b9-5527-4b3c-bef7-5d9f5a320854",
         "name": "Mz Satin Lace",
         "appearance": "Satin Lace"
+      }
+    ],
+    "update": [
+      {
+        "id": "8437af7b-01e3-448a-b06d-67b3a88be8a7",
+        "name": "De Collecter",
+        "appearance": null,
+        "old_appearance": "Satin Lace & De Collecter"
       }
     ]
   }
