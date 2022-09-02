@@ -3,14 +3,6 @@
     "name": "John",
     "shards": [
       {
-        "id": "b559da20-b8d9-450f-a8bc-5c4efa509a76",
-        "name": "John Bishop",
-        "text": "Fakehub",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=iantate/gender=m/ian-tate.htm"
-        ]
-      },
-      {
         "id": "9106a9c2-e502-452e-b702-099905e4b820",
         "name": "John Stwo",
         "text": "True Amateurs",
@@ -27,7 +19,7 @@
         ]
       },
       {
-        "id": null,
+        "id": "aa57c8bb-7add-4aac-895f-02f01fb2ec47",
         "name": "John (2015-2017, GF Revenge)",
         "text": "GF Revenge (2015, 2017)",
         "links": [
