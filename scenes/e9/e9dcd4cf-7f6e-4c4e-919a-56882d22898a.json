@@ -9,23 +9,12 @@
   "performers": {
     "remove": [
       {
-        "id": "92c3e6f1-7fe5-4c2e-883a-bf1b78ca57a5",
-        "name": "Kaitlyn",
-        "appearance": null
-      },
-      {
         "id": "360c2f8f-6d1d-4f5d-99a9-616b657bce09",
         "name": "Traci",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "7e7a6a0d-8d3f-405c-88aa-6a3585e078b1",
-        "name": "Kaitlyn",
-        "appearance": null,
-        "disambiguation": "2005-06, MILF Next Door"
-      },
       {
         "id": null,
         "name": "Traci",

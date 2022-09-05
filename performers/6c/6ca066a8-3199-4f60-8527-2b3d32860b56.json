@@ -27,7 +27,10 @@
       },
       {
         "id": "925b39af-a21f-419c-be0e-a4159016f001",
-        "name": "Tia Thomas"
+        "name": "Tia Thomas",
+        "notes": [
+          "Probably done"
+        ]
       }
     ],
     "notes": [
