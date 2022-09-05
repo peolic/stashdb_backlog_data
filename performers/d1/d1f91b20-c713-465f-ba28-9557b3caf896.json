@@ -1,6 +1,6 @@
 {
   "split": {
-    "name": "Felecia",
+    "name": "Felecia Danay",
     "shards": [
       {
         "id": "1cbe7f00-3265-4300-8966-dcdc772ee7ed",
@@ -32,7 +32,11 @@
       }
     ],
     "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-15)"
+      "Mix of multiple performers (complete list as of 2022-07-15)",
+      "Felecia was renamed to Felecia Danay, being non-unique."
+    ],
+    "links": [
+      "https://stashdb.org/edits/8f2572cb-7e54-40b8-9a0e-73eb07a3c852"
     ]
   }
 }
