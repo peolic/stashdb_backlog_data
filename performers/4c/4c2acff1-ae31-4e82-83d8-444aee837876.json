@@ -1,0 +1,35 @@
+{
+  "split": {
+    "name": "Ray",
+    "shards": [
+      {
+        "id": null,
+        "name": "Ray AKA Javi Garcia",
+        "notes": [
+          "- Bromo",
+          "- Why Not Bi"
+        ],
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ray_behindfriends/gender=m/ray.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Ray (Sean Cody 2002)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ray_sc_1/gender=m/ray.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Ray (Sean Cody 2010)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ray_sc_2/gender=m/ray.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
