@@ -1,0 +1,89 @@
+{
+  "fingerprints": [
+    {
+      "algorithm": "phash",
+      "hash": "b562b542587f8b94",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "3775caf05a5d48c1",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "0fa9067bf1bb0ca1",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "71040d27594d96da",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "85ebaea13e3e6c6f",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "b56a3562507f8b94",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "d7d11a4b2eb0e0c6",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "fb48b5a617f3a87c",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "b562b542547f8b94",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "b56ab542507f8b94",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "phash",
+      "hash": "bd62b542587f0b94",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "0b4d1eef843f6b82",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "0fa9067c27bb0cd7",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "1c3974afae3d37a0",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "md5",
+      "hash": "135aadeede11c459fe61b14a0267180a",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "md5",
+      "hash": "46d3890b496b8c05b952c07215546bde",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    },
+    {
+      "algorithm": "md5",
+      "hash": "d7d69fbab9fd3c215df04c560d917f22",
+      "correct_scene_id": "b2221974-5fd2-4aad-b220-b220ee97fc11"
+    }
+  ]
+}
