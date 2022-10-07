@@ -1,17 +1,7 @@
 {
   "split": {
     "name": "Carmen",
-    "shards": [
-      {
-        "id": null,
-        "name": "Carmen (2005, We Live Together)",
-        "text": "We Live Together",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=carmen_rk2005/gender=f/carmen.htm",
-          "https://www.indexxx.com/m/carmen-10"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
