@@ -1,11 +1,4 @@
 {
-  "c_studio": [
-    "BFFs",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=sorority+sisters/year=2015/sorority-sisters.htm"
-  ],
   "fingerprints": [
     {
       "algorithm": "phash",
@@ -19,23 +12,5 @@
       "correct_scene_id": "79e07a59-be31-4ed1-a42d-257102be2968",
       "duration": 2693
     }
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "2829b6cf-8235-443f-9ece-84b106b6340f",
-        "name": "Desiree",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Desiree Lewis",
-        "appearance": "Desiree",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=desireelewis/gender=f/desiree-lewis.htm"
-      }
-    ]
-  }
+  ]
 }
