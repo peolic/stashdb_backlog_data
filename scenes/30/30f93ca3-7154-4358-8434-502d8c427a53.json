@@ -1,33 +1,7 @@
 {
-  "c_studio": [
-    "Net Girl",
-    null
-  ],
   "comments": [
     "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489824",
     "Ep 2016-01-28 - Pepper (and Lane Attack Ann Marie) ... Pepper Xo (Netgirl)"
   ],
-  "date": "2016-01-28",
-  "performers": {
-    "remove": [
-      {
-        "id": "05d6eceb-2dee-47ad-ac1a-ffcd97926ee2",
-        "name": "Ann Marie",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Nikki Nice",
-        "appearance": "Ann Marie",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=nikkinice_15/gender=f/nikki-nice.htm",
-        "notes": [
-          "https://www.freeones.com/nikki-nice",
-          "https://twitter.com/xnikkinicexxx"
-        ]
-      }
-    ]
-  }
+  "date": "2016-01-28"
 }
