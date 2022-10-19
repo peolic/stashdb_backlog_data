@@ -19,12 +19,11 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "f172f62f-6504-4449-b6c1-b3adb665758e",
         "name": "Aimee Davis",
         "appearance": "Amy",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=aimeedavis/gender=f/aimee-davis.htm",
         "notes": [
+          "https://www.iafd.com/person.rme/perfid=aimeedavis/gender=f/aimee-davis.htm",
           "https://www.indexxx.com/m/aimee-davis",
           "https://www.thenude.com/Aimee%20Davis_35622.htm"
         ]
