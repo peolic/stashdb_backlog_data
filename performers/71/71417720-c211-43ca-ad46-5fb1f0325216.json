@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Jojo",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jojo (2007, Cum Fiesta)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jojo_08/gender=f/jojo.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
