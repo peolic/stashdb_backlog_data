@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Clint",
+    "shards": [
+      {
+        "id": null,
+        "name": "Clint (Sean Cody 2004)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=clint_sc_1/gender=m/clint.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Clint (Sean Cody 2010)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=clint_sc_2/gender=m/clint.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Clint (Sean Cody 2015)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=francois_cm/gender=m/francois.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

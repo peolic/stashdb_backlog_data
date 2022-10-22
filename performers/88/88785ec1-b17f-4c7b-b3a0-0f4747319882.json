@@ -1,0 +1,18 @@
+{
+  "split": {
+    "name": "Bruce",
+    "shards": [
+      {
+        "id": null,
+        "name": "Bruce (Sean Cody 2003)"
+      },
+      {
+        "id": null,
+        "name": "Bruce (Sean Cody 2009)"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

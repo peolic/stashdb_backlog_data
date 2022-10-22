@@ -1,0 +1,24 @@
+{
+  "split": {
+    "name": "Christopher",
+    "shards": [
+      {
+        "id": null,
+        "name": "Christopher (Sean Cody 2009)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=christopher_sc_1/gender=m/christopher.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Christopher (Sean Cody 2014)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=christopher_sc_3/gender=m/christopher.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

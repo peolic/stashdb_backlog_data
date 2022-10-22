@@ -1,0 +1,22 @@
+{
+  "split": {
+    "name": "Colby",
+    "shards": [
+      {
+        "id": null,
+        "name": "Colby (Sean Cody 2010)",
+        "text": "This is NOT Colby Keller, GEVI has it listed wrong"
+      },
+      {
+        "id": null,
+        "name": "Todd (Corbin Fisher 2015) aka Colby (Sean Cody 2014)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=colby_todd/gender=m/todd.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-10-22)"
+    ]
+  }
+}
