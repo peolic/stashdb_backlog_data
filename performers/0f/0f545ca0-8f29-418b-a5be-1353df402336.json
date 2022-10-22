@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Neal",
+    "shards": [
+      {
+        "id": null,
+        "name": "Matt Valin aka Neal (Sean Cody 2008)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=neal_sc_1/gender=m/matt-valin.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Neal (Sean Cody 2009)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=neal_sc_2/gender=m/neal.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Neal (Sean Cody 2015)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=neal_sc_3/gender=m/neal.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Ziggy",
+    "shards": [
+      {
+        "id": "e09c93e9-189c-42f8-9dcb-80b671f0b559",
+        "name": "Ziggy Blue",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ziggy/gender=f/ziggy.htm",
+          "https://www.indexxx.com/m/ziggy"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Ziggy (Reality Kings 2010)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ziggy_rk11/gender=m/ziggy.htm",
+          "https://stashdb.org/scenes/8cc4c20b-abe1-4263-b519-c3fc1e814a8f"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers (complete list as of 2022-06-17)"
+    ]
+  }
+}

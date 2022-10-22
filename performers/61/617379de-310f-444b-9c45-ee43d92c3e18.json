@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Krystal",
+    "shards": [
+      {
+        "id": "557d1f7b-d3c3-428c-9569-1651444b49ae",
+        "name": "Krystal (2004 Reality Kings)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=krystal_rk_04/gender=f/krystal.htm",
+          "https://www.indexxx.com/m/krystal-2"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Krystal (2013 BRCC)"
+      },
+      {
+        "id": null,
+        "name": "Crystal Kerrington (2002-2005)",
+        "text": "(Give Me Teens)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=ckerrington/gender=f/crystal-kerrington.htm",
+          "https://www.iafd.com/title.rme/title=teen+tryouts+audition+20/year=2002/teen-tryouts-audition-20.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-04-21)"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "split": {
+    "name": "Pola",
+    "shards": [
+      {
+        "id": null,
+        "name": "Pola (2005-2006, 1 Pass For All Sites)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=pola_dhv/gender=f/pola.htm",
+          "https://www.indexxx.com/m/pola-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Maranda",
+        "text": "(Devil's Film)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=maranda_05_eu/gender=f/maranda.htm",
+          "https://www.indexxx.com/m/susan-b"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of two performers (complete list as of 2022-05-13)"
+    ]
+  }
+}

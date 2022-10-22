@@ -1,0 +1,17 @@
+{
+  "split": {
+    "name": "Casper",
+    "shards": [
+      {
+        "id": null,
+        "name": "Casper (Sean Cody 2017)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=casper_seancody/gender=m/casper.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

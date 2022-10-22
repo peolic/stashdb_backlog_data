@@ -1,0 +1,35 @@
+{
+  "split": {
+    "name": "Carolyn",
+    "shards": [
+      {
+        "id": "2dc96e4b-6aa8-4d2a-b76f-6f0f3248fdea",
+        "name": "Caroline Daily",
+        "text": "Cum Fiesta",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=carolinedaily/gender=f/caroline-daily.htm",
+          "https://www.indexxx.com/m/caroline-daily"
+        ]
+      },
+      {
+        "id": "c3c41e01-e8cf-40c5-8d36-9a3d1d8fc70f",
+        "name": "Saphire Rae",
+        "text": "Captain Stabbin",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=saphirerae/gender=f/saphire-rae.htm",
+          "https://www.indexxx.com/m/saphire-rae"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Carolyn (Teen Core Club)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=carolyn_09_russ/gender=f/carolyn.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-07-06)"
+    ]
+  }
+}

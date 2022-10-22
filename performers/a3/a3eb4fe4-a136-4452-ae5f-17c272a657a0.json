@@ -1,0 +1,28 @@
+{
+  "split": {
+    "name": "Lela",
+    "shards": [
+      {
+        "id": "771528ae-979a-4ae4-80e4-3fb2a2054075",
+        "name": "Laura (CZ)",
+        "text": "Lela @ Sapphic",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=laura_vah/gender=f/laura.htm",
+          "https://www.indexxx.com/m/laura"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Faye (RU)",
+        "text": "Teen Core Club",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=fayerus10/gender=f/faye.htm",
+          "https://www.indexxx.com/m/faye-2"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

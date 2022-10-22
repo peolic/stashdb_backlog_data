@@ -1,0 +1,32 @@
+{
+  "split": {
+    "name": "Jared",
+    "shards": [
+      {
+        "id": "e87390d7-eee2-4a43-afbe-aef522cf766b",
+        "name": "Hoss Kado",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=hosskado/gender=m/hoss-kado.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jared (Reality Kings)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=jared_rk_05/gender=f/jared.htm",
+          "https://www.indexxx.com/m/jared"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Jared (Boys First Time 2004)"
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (possibly complete list as of 2022-06-16). Hoss Kado will need to be split off and the pag reverted to the generic Jared. Performer was renamed, see rename edit"
+    ],
+    "links": [
+      "https://stashdb.org/edits/5c712b89-ca94-42bb-b0c7-67dea3f296ae"
+    ]
+  }
+}

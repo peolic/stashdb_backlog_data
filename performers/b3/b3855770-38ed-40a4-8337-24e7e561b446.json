@@ -1,0 +1,36 @@
+{
+  "split": {
+    "name": "Olivia A",
+    "shards": [
+      {
+        "id": null,
+        "name": "Olivia (b. 1969)",
+        "text": "(Twistys)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=olivia/gender=f/olivia.htm",
+          "https://www.indexxx.com/m/olivia-a-1"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Olivia A (Viv Thomas)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=olivia_viv/gender=f/olivia.htm",
+          "https://www.indexxx.com/m/olivia-a-3"
+        ]
+      },
+      {
+        "id": "a51f0ca7-c55a-45b6-baf6-68e59b2d0fbb",
+        "name": "Kelly Shibari",
+        "text": "(Fame Digital)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kellyshibar/gender=f/kelly-shibari.htm",
+          "https://www.indexxx.com/m/kelly-shibari"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-07-02)"
+    ]
+  }
+}

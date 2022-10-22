@@ -1,0 +1,17 @@
+{
+  "split": {
+    "name": "Howard",
+    "shards": [
+      {
+        "id": null,
+        "name": "Howard (Sean Cody 2016)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=howard_seancody/gender=m/howard.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

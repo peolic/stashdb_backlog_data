@@ -1,0 +1,28 @@
+{
+  "split": {
+    "name": "Rosa",
+    "shards": [
+      {
+        "id": null,
+        "name": "Rosa (2003, rk.com)",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rosa_rk_03/gender=f/rosa.htm",
+          "https://stashdb.org/scenes/e77b063d-237b-489b-b04f-97db94fee1d4"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Rosa (2004, rk.com)",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=rosa_rk_04/gender=f/rosa.htm",
+          "https://stashdb.org/scenes/93cdb819-574e-439e-b5fe-f42be77c6e17"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "split": {
+    "name": "Gloria",
+    "shards": [
+      {
+        "id": null,
+        "name": "Gloria (2006, We Live Together)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=gloria06_rk/gender=f/gloria.htm",
+          "https://www.indexxx.com/m/gloria-5"
+        ]
+      },
+      {
+        "id": "56333050-758e-482c-9ed8-fe008d81fa8a",
+        "name": "Autumn Viviana",
+        "text": "Gapeland",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=vivian_11_russ/gender=f/vivian.htm",
+          "https://www.indexxx.com/m/autumn-viviana"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Abbey",
+    "shards": [
+      {
+        "id": "b6ca514d-4a06-4be7-9594-8bf0bc142151",
+        "name": "Abbey / Shalke",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=abbey_rus_07/gender=f/abbey.htm",
+          "https://www.indexxx.com/m/abbey"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Abbey (Teen Core Club)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=mariya_rus_08_02/gender=f/mariya.htm",
+          "https://www.indexxx.com/m/mary-48"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

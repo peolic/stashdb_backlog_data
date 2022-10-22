@@ -1,0 +1,31 @@
+{
+  "split": {
+    "name": "Chad",
+    "shards": [
+      {
+        "id": null,
+        "name": "Chad (Sean Cody 2001)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=chad_sc_1/gender=m/chad.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Chad (Sean Cody 2010)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=chad_sc_2/gender=m/chad.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Chad (Sean Cody 2014)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=chad_sc_4/gender=m/chad.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

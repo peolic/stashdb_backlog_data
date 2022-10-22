@@ -1,0 +1,25 @@
+{
+  "split": {
+    "name": "Knox",
+    "shards": [
+      {
+        "id": null,
+        "name": "Knox (Sean Cody)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=knox_seancody/gender=m/knox.htm"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Knox (2005, Kink)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=knox_kink/gender=m/knox.htm",
+          "https://www.kink.com/model/10587/Knox"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-09-06)"
+    ]
+  }
+}

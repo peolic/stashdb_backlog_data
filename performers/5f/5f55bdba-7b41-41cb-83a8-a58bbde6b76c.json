@@ -1,0 +1,39 @@
+{
+  "split": {
+    "name": "Pavlina",
+    "shards": [
+      {
+        "id": null,
+        "name": "Nea",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=wendy_vah/gender=f/wendy.htm",
+          "https://www.indexxx.com/m/nea",
+          "https://stashdb.org/scenes/cf224431-5d6b-49e9-9f01-8bf0b6d0c986"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Paola",
+        "text": "1 scene",
+        "links": [
+          "https://www.indexxx.com/m/paola-9",
+          "https://stashdb.org/scenes/bbf5e25f-6bf7-4079-b022-6c12706f121c"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Pavlina (Slovakia)",
+        "text": "1 scene",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=pavlinak/gender=f/pavlina-k..htm",
+          "https://www.indexxx.com/m/pavlina-2",
+          "https://stashdb.org/scenes/4e09e585-5a49-47bb-9f90-87c69accb988"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}

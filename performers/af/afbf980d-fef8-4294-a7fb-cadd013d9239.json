@@ -1,0 +1,28 @@
+{
+  "split": {
+    "name": "Lori",
+    "shards": [
+      {
+        "id": null,
+        "name": "Lori (2005, First Time Auditions)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=lori_rk_05/gender=f/lori.htm",
+          "https://www.indexxx.com/m/lori"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Laura Honey",
+        "text": "Mike's Apartment",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=laurahoney/gender=f/laura-honey.htm",
+          "https://www.indexxx.com/m/loretta",
+          "https://stashdb.org/scenes/4a0f5f3c-1122-44d2-8e5d-64f10cedd41e"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (partial list)"
+    ]
+  }
+}
