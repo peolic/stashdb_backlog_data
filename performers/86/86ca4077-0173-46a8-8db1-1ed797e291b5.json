@@ -1,7 +1,16 @@
 {
   "split": {
     "name": "Tasha",
-    "shards": [],
+    "shards": [
+      {
+        "id": "48e799e5-07b2-49d7-a2f4-7120ce123b80",
+        "name": "Dasia Porter",
+        "text": "Casting Couch-HD",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=dasiaporter/gender=f/dasia-porter.htm"
+        ]
+      }
+    ],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
