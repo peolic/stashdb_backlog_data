@@ -1,0 +1,36 @@
+{
+  "c_studio": [
+    "Blacks on Blondes",
+    null
+  ],
+  "comments": [
+    "Nikki Knightly is incorrect",
+    "https://www.iafd.com/title.rme/title=blacks+on+blondes%3a+lexi+rose/year=2013/blacks-on-blondes%3a-lexi-rose.htm",
+    "https://www.indexxx.com/set/662531/blacks-on-blondes-lexi-rose/"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "5597bd0b-b509-4d06-b2e9-d119c02a3681",
+        "name": "Nikki Knightly",
+        "appearance": "Lexi Rose"
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Lexi Rose (2013)",
+        "appearance": null,
+        "status": "new",
+        "notes": [
+          "https://www.indexxx.com/m/lexi-rose-2"
+        ]
+      },
+      {
+        "id": "c55d2b85-c104-4abd-bf49-31d404ba77ab",
+        "name": "Mandingo",
+        "appearance": null
+      }
+    ]
+  }
+}
