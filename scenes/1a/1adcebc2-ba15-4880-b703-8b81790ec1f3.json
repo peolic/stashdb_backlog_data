@@ -5,6 +5,12 @@
       "hash": "e896699236c996e9",
       "correct_scene_id": null,
       "duration": 1403
+    },
+    {
+      "algorithm": "phash",
+      "hash": "e8966d9254c996e9",
+      "correct_scene_id": null,
+      "duration": 573
     }
   ]
 }
