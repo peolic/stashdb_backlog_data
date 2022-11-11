@@ -1,0 +1,46 @@
+{
+  "split": {
+    "name": "Liv",
+    "shards": [
+      {
+        "id": null,
+        "name": "Liv A",
+        "text": "Rylsky Art",
+        "links": [
+          "https://www.indexxx.com/m/liv-a",
+          "https://www.thenude.com/_12353.htm"
+        ]
+      },
+      {
+        "id": "ff7506d3-009f-4470-a7ce-f6520f0d299a",
+        "name": "Liv Wylder",
+        "text": "First Time Auditions",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=livwylder/gender=f/liv-wylder.htm",
+          "https://www.indexxx.com/m/liv-wylder"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Liv (2004, Reality Kings)",
+        "text": "We Live Together",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=liv_rk04/gender=f/liv.htm",
+          "https://www.indexxx.com/m/liv-2"
+        ]
+      },
+      {
+        "id": "63e9e7c5-af4e-45bf-bbe8-566745cfb6dd",
+        "name": "Sandy Wire",
+        "text": "Teen Core Club",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=sandywire/gender=f/sandy-wire.htm",
+          "https://www.indexxx.com/m/sandy-wire"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-11-11)"
+    ]
+  }
+}
