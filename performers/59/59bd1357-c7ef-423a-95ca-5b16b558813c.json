@@ -17,7 +17,10 @@
       {
         "id": "c9d592be-f517-4c55-8bd1-e2c9f65afe8e",
         "name": "CC Ryder",
-        "text": "Cum Fiesta",
+        "notes": [
+          "\u0002- Cum Fiesta\u0003",
+          "- Done ?"
+        ],
         "links": [
           "https://www.iafd.com/person.rme/perfid=katelyn_rk_06/gender=f/katelyn.htm",
           "https://www.indexxx.com/m/cc-ryder"
