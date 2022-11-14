@@ -9,22 +9,12 @@
   "performers": {
     "remove": [
       {
-        "id": "d66532b5-a426-4188-ae1e-15886e75fdaa",
-        "name": "Johnny",
-        "appearance": null
-      },
-      {
         "id": "10ed6635-4709-40ec-90cc-c92f2f235b89",
         "name": "Meg",
         "appearance": null
       }
     ],
     "append": [
-      {
-        "id": "4ba5441d-9220-4b36-a710-e3bc96cc3d32",
-        "name": "Johnny Nitro",
-        "appearance": "Johnny"
-      },
       {
         "id": null,
         "name": "Meg",
