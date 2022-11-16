@@ -1,0 +1,28 @@
+{
+  "c_studio": [
+    "Mature.nl",
+    null
+  ],
+  "comments": [
+    "This is not Lilly Peterson. Performer doesn't seem to have IAFD profile yet"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "25d49bbe-767f-4928-99eb-63ec6b2c6ef2",
+        "name": "Laura Blond",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": null,
+        "name": "Laura Blond",
+        "appearance": null,
+        "disambiguation": "2022, Mature.nl",
+        "status": "new",
+        "status_url": "https://www.mature.nl/en/model/9822/laura-blond"
+      }
+    ]
+  }
+}
