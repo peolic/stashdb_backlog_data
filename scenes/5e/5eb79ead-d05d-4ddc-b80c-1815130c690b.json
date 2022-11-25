@@ -38,66 +38,6 @@
     },
     {
       "algorithm": "oshash",
-      "hash": "30420c2ac38a658b",
-      "correct_scene_id": null,
-      "duration": 41
-    },
-    {
-      "algorithm": "phash",
-      "hash": "830707070f9eadfc",
-      "correct_scene_id": null,
-      "duration": 41
-    },
-    {
-      "algorithm": "md5",
-      "hash": "8581049673a7e80a6655f2ce4ab103d9",
-      "correct_scene_id": null,
-      "duration": 41
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "5cfe06ca68757b31",
-      "correct_scene_id": null,
-      "duration": 42
-    },
-    {
-      "algorithm": "phash",
-      "hash": "8207070707d5fafd",
-      "correct_scene_id": null,
-      "duration": 42
-    },
-    {
-      "algorithm": "md5",
-      "hash": "0b9f251edff4a7cbd66a8765f36ead9a",
-      "correct_scene_id": null,
-      "duration": 42
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "59bd919fc8f896cf",
-      "correct_scene_id": null,
-      "duration": 45
-    },
-    {
-      "algorithm": "phash",
-      "hash": "8207078707c7f2fd",
-      "correct_scene_id": null,
-      "duration": 45
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "ba89e76661b6c14f",
-      "correct_scene_id": null,
-      "duration": 55
-    },
-    {
-      "algorithm": "phash",
-      "hash": "830707070f9f9cfc",
-      "correct_scene_id": null,
-      "duration": 55
-    },
-    {
-      "algorithm": "oshash",
       "hash": "1164f28b3222d27b",
       "correct_scene_id": null,
       "duration": 56
@@ -155,18 +95,6 @@
       "hash": "82078707057ff87d",
       "correct_scene_id": null,
       "duration": 71
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "a00e80c63ad25312",
-      "correct_scene_id": null,
-      "duration": 80
-    },
-    {
-      "algorithm": "phash",
-      "hash": "83070307079ffbf8",
-      "correct_scene_id": null,
-      "duration": 80
     },
     {
       "algorithm": "oshash",
@@ -263,30 +191,6 @@
       "hash": "82870f07079efcf8",
       "correct_scene_id": null,
       "duration": 202
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "6ae2b21a15b499fa",
-      "correct_scene_id": null,
-      "duration": 247
-    },
-    {
-      "algorithm": "phash",
-      "hash": "82070707077ff97c",
-      "correct_scene_id": null,
-      "duration": 247
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "8db53d573c27c385",
-      "correct_scene_id": null,
-      "duration": 276
-    },
-    {
-      "algorithm": "phash",
-      "hash": "820707070787f7fe",
-      "correct_scene_id": null,
-      "duration": 276
     },
     {
       "algorithm": "oshash",
@@ -401,18 +305,6 @@
       "hash": "82070707878ffdf8",
       "correct_scene_id": null,
       "duration": 582
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "1b58fcbad26f156d",
-      "correct_scene_id": null,
-      "duration": 679
-    },
-    {
-      "algorithm": "phash",
-      "hash": "820707070f9afdfc",
-      "correct_scene_id": null,
-      "duration": 679
     },
     {
       "algorithm": "oshash",
