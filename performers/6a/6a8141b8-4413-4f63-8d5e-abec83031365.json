@@ -1,0 +1,26 @@
+{
+  "split": {
+    "name": "Tatyana",
+    "shards": [
+      {
+        "id": null,
+        "name": "Tatyana (Teen Mega World)",
+        "text": "Teen Mega World",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tatyana_09_tmw/gender=f/tatyana.htm",
+          "https://www.indexxx.com/m/tatyana-3"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Tatyana (2005, Northstar)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=tatyana_latin_05/gender=f/tatyana.htm"
+        ]
+      }
+    ],
+    "notes": [
+      "Mix of multiple performers (complete list as of 2022-12-02)"
+    ]
+  }
+}
