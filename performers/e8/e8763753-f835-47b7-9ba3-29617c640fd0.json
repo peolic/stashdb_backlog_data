@@ -1,6 +1,6 @@
 {
   "split": {
-    "name": "Lorena",
+    "name": "Lorena Garcia",
     "shards": [
       {
         "id": "e8763753-f835-47b7-9ba3-29617c640fd0",
@@ -56,7 +56,11 @@
       }
     ],
     "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-16)"
+      "Mix of multiple performers named Lorena (complete list as of 2022-07-16)",
+      "Lorena was merged into Lorena Garcia, being non-unique"
+    ],
+    "links": [
+      "https://stashdb.org/edits/4cab7f5a-1d98-4f19-b3ae-68f2a77a0e48"
     ]
   }
 }
