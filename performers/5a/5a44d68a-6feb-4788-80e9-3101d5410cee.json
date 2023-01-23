@@ -1,22 +1,7 @@
 {
   "split": {
     "name": "Casey",
-    "shards": [
-      {
-        "id": "0319ce9b-e8ca-4083-af7e-db08c5f1c991",
-        "name": "Casey (Sean Cody 2002)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=casey_sc_1/gender=m/casey.htm"
-        ]
-      },
-      {
-        "id": "b699d51a-0692-4393-b313-3d35570f38ca",
-        "name": "Casey (Sean Cody 2009)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=casey_sc_2/gender=m/casey.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
