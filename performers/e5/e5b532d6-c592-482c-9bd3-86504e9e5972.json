@@ -1,29 +1,7 @@
 {
   "split": {
     "name": "Clint",
-    "shards": [
-      {
-        "id": "0849c1ba-9b4a-4b1b-af19-591f3d4c4e67",
-        "name": "Clint (Sean Cody 2004)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=clint_sc_1/gender=m/clint.htm"
-        ]
-      },
-      {
-        "id": "c030d59b-f3c5-4f7a-b387-1760942066d1",
-        "name": "Clint (Sean Cody 2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=clint_sc_2/gender=m/clint.htm"
-        ]
-      },
-      {
-        "id": "8c3f0fde-6c3d-4037-9963-ee44c306fb7b",
-        "name": "Clint (Sean Cody 2015)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=francois_cm/gender=m/francois.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
