@@ -15,10 +15,22 @@
         "links": [
           "https://www.iafd.com/person.rme/perfid=cory_seancody/gender=m/cory.htm"
         ]
+      },
+      {
+        "id": "20609069-4f2e-4bba-8382-3a0ebee6182a",
+        "name": "Levi (Reality Kings)",
+        "text": "2010 scene"
+      },
+      {
+        "id": null,
+        "name": "Cory (Reality Kings 2004)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=cory_rk04/gender=f/cory.htm"
+        ]
       }
     ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2023-01-26)"
     ]
   }
 }
