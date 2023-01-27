@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Dallas",
-    "shards": [
-      {
-        "id": "f7644983-210b-4024-a3ed-b628ae843f8f",
-        "name": "Dallas (Sean Cody 2017)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dallas_seancody/gender=m/dallas.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
