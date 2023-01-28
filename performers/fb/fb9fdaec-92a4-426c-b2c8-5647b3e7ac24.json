@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Dante",
-    "shards": [
-      {
-        "id": "6ffbf86d-57f7-4382-ada4-15c08f3266cf",
-        "name": "Dante (Kink 2008)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dante_kink/gender=m/dante.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
