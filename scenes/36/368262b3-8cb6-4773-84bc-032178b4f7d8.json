@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "74eb0cd4-10ec-41a2-b72c-d7ae4c035e93",
         "name": "Saffina Gold",
-        "appearance": "Kichomi",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kichomi_taxi/gender=f/saffina-gold.htm"
+        "appearance": "Kichomi"
       }
     ]
   }
