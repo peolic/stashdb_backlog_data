@@ -1,9 +1,14 @@
 {
   "split": {
     "name": "Dexter",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Dexter (Hard Porn World)"
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2023-01-29)"
     ]
   }
 }
