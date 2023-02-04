@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Erik",
-    "shards": [
-      {
-        "id": "8ebec1d5-52e9-4f40-9862-fc3ac9dbb9f5",
-        "name": "Erik (Sean Cody 2012)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=erik_sc_1/gender=m/erik.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
