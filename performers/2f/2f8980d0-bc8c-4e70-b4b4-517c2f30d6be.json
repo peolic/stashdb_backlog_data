@@ -3,13 +3,21 @@
     "name": "Mary",
     "shards": [
       {
-        "id": "5cbaffd4-5eb1-4bfd-a90f-527f5ac2f4ab",
-        "name": "Ruth Folwer AKA Mary A (2011-2017, Russian)",
-        "text": "(GG scenes)",
+        "id": null,
+        "name": "Mary (2003, We Live Together)",
+        "text": "We Live Together",
         "links": [
-          "https://stashdb.org/performers/ce98e429-01df-47dc-a37e-7450665e1e73",
-          "https://www.iafd.com/person.rme/perfid=mary_eu_11/gender=f/mary.htm",
-          "https://www.indexxx.com/m/maryna"
+          "https://www.iafd.com/person.rme/perfid=mary_rk03/gender=f/mary.htm",
+          "https://www.indexxx.com/m/mary-5"
+        ]
+      },
+      {
+        "id": "7a992021-69cb-4d82-bd7a-9d4f6a0fe80e",
+        "name": "Mari Lee AKA Marlee",
+        "text": "Mike's Apartment",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=marilee_eu/gender=f/mari-lee.htm",
+          "https://www.indexxx.com/m/mary-6"
         ]
       }
     ],
