@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Jonathan",
-    "shards": [
-      {
-        "id": "a53c7bd2-a0f0-4824-948e-e9a9cfbd1392",
-        "name": "Jonathan (Sean Cody 2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jonathan_sc_1/gender=m/jonathan.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
