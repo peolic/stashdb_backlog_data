@@ -1,9 +1,36 @@
 {
   "split": {
     "name": "Baby",
-    "shards": [],
+    "shards": [
+      {
+        "id": null,
+        "name": "Baby",
+        "text": "The Life Erotic",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=baby_myp/gender=f/baby.htm",
+          "https://www.indexxx.com/m/olga-15"
+        ]
+      },
+      {
+        "id": "bded9508-84e5-4729-892f-9ba1991613f4",
+        "name": "Amy Days",
+        "text": "Cuties Galore",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=katherine_07/gender=f/katherine.htm",
+          "https://www.indexxx.com/m/katherine"
+        ]
+      },
+      {
+        "id": null,
+        "name": "Diamond Pipes",
+        "text": "White Ghetto",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=diamondpipes/gender=f/diamond-pipes.htm"
+        ]
+      }
+    ],
     "notes": [
-      "Mix of multiple performers (partial list)"
+      "Mix of multiple performers (complete list as of 2023-03-19)"
     ]
   }
 }
