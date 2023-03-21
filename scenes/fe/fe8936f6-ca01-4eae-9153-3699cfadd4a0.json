@@ -1,0 +1,25 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489808",
+    "Ep 2010.10 - Bethany = Cindy Jones"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "9571d924-6630-4ef7-87b4-d64235744c4a",
+        "name": "Cindy Jones",
+        "appearance": "Bethany"
+      },
+      {
+        "id": "6586831d-5c30-4466-9622-8a092434ca8d",
+        "name": "Donnie Cabo",
+        "appearance": "Zack"
+      }
+    ]
+  }
+}
