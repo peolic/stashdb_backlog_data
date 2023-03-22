@@ -25,6 +25,24 @@
       "duration": 1090
     },
     {
+      "algorithm": "oshash",
+      "hash": "d1813915cc0ba1e0",
+      "correct_scene_id": null,
+      "duration": 1090
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "abf0a3de083664e5",
+      "correct_scene_id": null,
+      "duration": 1090
+    },
+    {
+      "algorithm": "oshash",
+      "hash": "1f0a9a8badfeed9b",
+      "correct_scene_id": null,
+      "duration": 1090
+    },
+    {
       "algorithm": "md5",
       "hash": "4b8abd93e4c2995003ff9a5e392d2be4",
       "correct_scene_id": null,
