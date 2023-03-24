@@ -4,13 +4,7 @@
     null
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "87299666-a11e-4c4e-8e4b-0cd2f442655d",
-        "name": "Juanita",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
       {
         "id": null,
@@ -18,12 +12,6 @@
         "appearance": null,
         "disambiguation": "2009, NVG",
         "status": "new"
-      },
-      {
-        "id": "990110c9-f881-48e9-8318-f333fefb0165",
-        "name": "Juanita",
-        "appearance": null,
-        "disambiguation": "2009, NVG"
       }
     ]
   }
