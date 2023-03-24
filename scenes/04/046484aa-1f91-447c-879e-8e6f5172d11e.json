@@ -10,15 +10,10 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "bd2b1032-7fc1-4eb1-81b9-328f2ce78517",
         "name": "Abbey",
         "appearance": "Aliana",
-        "disambiguation": "Teen Core Club",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=mariya_rus_08_02/gender=f/mariya.htm",
-        "notes": [
-          "https://www.indexxx.com/m/mary-48"
-        ]
+        "disambiguation": "Teen Core Club"
       }
     ]
   }
