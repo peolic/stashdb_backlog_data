@@ -1,6 +1,6 @@
 {
   "split": {
-    "name": "Jerry",
+    "name": "Jerry Kovak",
     "shards": [
       {
         "id": "d9398801-bbfa-47bc-9212-cb2b666dd45b",
@@ -38,7 +38,11 @@
       }
     ],
     "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-26)"
+      "Mix of multiple performers named Jerry (complete list as of 2022-08-26)",
+      "Jerry was merged into Jerry Kovac, being non-unique."
+    ],
+    "links": [
+      "https://stashdb.org/edits/7914f987-c5eb-4cac-b94f-1de07da4f286"
     ]
   }
 }
