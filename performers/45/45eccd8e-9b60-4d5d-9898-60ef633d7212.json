@@ -1,26 +1,6 @@
 {
-  "split": {
-    "name": "Mary Blond",
-    "shards": [
-      {
-        "id": "45eccd8e-9b60-4d5d-9898-60ef633d7212",
-        "name": "Mary Blond (2000-2001)",
-        "text": "Rocco Siffredi",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mary_pr/gender=f/mary-blond.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Mary Blond (2010)",
-        "text": "Lusty Grandmas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=maryblond_10/gender=f/mary-blond.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-15)"
-    ]
-  }
+  "name": "Mary Blonde [2000-2001]",
+  "urls": [
+    "https://www.iafd.com/person.rme/perfid=mary_pr/gender=f/mary-blond.htm"
+  ]
 }
