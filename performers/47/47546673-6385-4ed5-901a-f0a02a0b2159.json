@@ -1,20 +1,20 @@
 {
   "split": {
-    "name": "Kelsey",
+    "name": "Kelsey (Teen Core Club)",
     "shards": [
-      {
-        "id": null,
-        "name": "Kelsey (Nubiles)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kelsey_rus/gender=f/kelsey.htm",
-          "https://www.indexxx.com/m/reyna"
-        ]
-      },
       {
         "id": null,
         "name": "Kelsey (Teen Core Club)",
         "links": [
           "https://www.iafd.com/person.rme/perfid=kelsey_08_russ/gender=f/kelsey.htm"
+        ]
+      },
+      {
+        "id": "26152fe6-d981-4238-a64f-28cde649cd4f",
+        "name": "Kelsey (Nubiles)",
+        "links": [
+          "https://www.iafd.com/person.rme/perfid=kelsey_rus/gender=f/kelsey.htm",
+          "https://www.indexxx.com/m/reyna"
         ]
       },
       {
@@ -28,7 +28,11 @@
       }
     ],
     "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-03)"
+      "Mix of multiple performers (complete list as of 2022-07-03)",
+      "Kelsey was renamed, being non-unique."
+    ],
+    "links": [
+      "https://stashdb.org/edits/620d28be-bff7-44b8-b70b-88c143853056"
     ]
   }
 }
