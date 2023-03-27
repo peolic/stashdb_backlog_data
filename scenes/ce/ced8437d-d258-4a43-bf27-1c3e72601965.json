@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "fcc7da02-bef2-4da8-9211-b3480d2da779",
         "name": "Connor Pills",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=conorpills/gender=m/conor-pills.htm"
+        "appearance": null
       }
     ]
   }
