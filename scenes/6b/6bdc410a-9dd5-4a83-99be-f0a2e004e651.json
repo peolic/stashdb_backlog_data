@@ -1,0 +1,26 @@
+{
+  "c_studio": [
+    "Teeny Lovers",
+    null
+  ],
+  "comments": [
+    "Roberta performer was deleted instead of being split"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": null,
+        "name": "Amina",
+        "appearance": null,
+        "disambiguation": "Ukrainian, 2009-2010",
+        "status": "new",
+        "status_url": "https://www.iafd.com/person.rme/perfid=amina_eu_09/gender=f/amina.htm",
+        "notes": [
+          "https://www.indexxx.com/m/amina-5",
+          "https://cdn.stashdb.org/images/bd/cc/bdcc89b6-23d4-4772-8207-2157aa35e7bd"
+        ]
+      }
+    ]
+  }
+}

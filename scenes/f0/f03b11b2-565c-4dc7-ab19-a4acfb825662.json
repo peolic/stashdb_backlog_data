@@ -1,0 +1,21 @@
+{
+  "c_studio": [
+    "NylonsX",
+    null
+  ],
+  "comments": [
+    "Roberta performer was deleted instead of being split",
+    "https://www.indexxx.com/set/432799/nylonsx-roberta/"
+  ],
+  "performers": {
+    "remove": [],
+    "append": [
+      {
+        "id": "a7b1c99d-48f5-402b-b706-b52802eac406",
+        "name": "Jess",
+        "appearance": "Roberta",
+        "disambiguation": "RU, 2010-2015"
+      }
+    ]
+  }
+}
