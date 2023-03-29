@@ -1,36 +1,3 @@
 {
-  "c_studio": [
-    "MILF Hunter",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=body+splash/year=2005/body_splash.htm"
-  ],
-  "duration": "2284",
-  "performers": {
-    "remove": [
-      {
-        "id": "23378573-c6a8-4973-9120-ff1666e5fb81",
-        "name": "Jess",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "039b0d35-4f58-4f71-940b-68e3fe20abd5",
-        "name": "Jess",
-        "appearance": null,
-        "disambiguation": "2005, MILF Hunter",
-        "notes": [
-          "https://www.iafd.com/person.rme/perfid=jess_rk_05/gender=f/jess.htm",
-          "https://www.indexxx.com/m/jess-1"
-        ]
-      },
-      {
-        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
-        "name": "Shawn Rees",
-        "appearance": null
-      }
-    ]
-  }
+  "duration": "2284"
 }
