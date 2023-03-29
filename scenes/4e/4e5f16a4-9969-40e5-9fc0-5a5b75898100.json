@@ -10,25 +10,8 @@
   ],
   "date": "2016-06-17",
   "performers": {
-    "remove": [
-      {
-        "id": "23378573-c6a8-4973-9120-ff1666e5fb81",
-        "name": "Jess",
-        "appearance": null
-      }
-    ],
+    "remove": [],
     "append": [
-      {
-        "id": "828811cf-8f46-4403-a0da-301770228570",
-        "name": "Jay Pink",
-        "appearance": "Jess",
-        "notes": [
-          "https://www.iafd.com/person.rme/perfid=jess_16/gender=f/jess.htm",
-          "https://www.indexxx.com/m/jay-pink",
-          "https://www.thenude.com/_36225.htm",
-          "https://www.atkmodels.com/blog/models/jay-pink/"
-        ]
-      },
       {
         "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
         "name": "Tyler D.",
