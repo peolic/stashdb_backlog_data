@@ -17,17 +17,19 @@
     ],
     "append": [
       {
-        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
-        "name": "Shawn Rees",
-        "appearance": null
-      },
-      {
-        "id": null,
+        "id": "039b0d35-4f58-4f71-940b-68e3fe20abd5",
         "name": "Jess",
         "appearance": null,
         "disambiguation": "2005, MILF Hunter",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jess_rk_05/gender=f/jess.htm"
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=jess_rk_05/gender=f/jess.htm",
+          "https://www.indexxx.com/m/jess-1"
+        ]
+      },
+      {
+        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
+        "name": "Shawn Rees",
+        "appearance": null
       }
     ]
   }
