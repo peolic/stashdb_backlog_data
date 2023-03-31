@@ -1,0 +1,25 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "Correct performer - Kiwi Ling is on the 2014 scene (remastered)"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "612bb541-5543-494f-bb6b-0fa050c17bf9",
+        "name": "Kiwi Ling",
+        "appearance": "Jade"
+      }
+    ],
+    "append": [
+      {
+        "id": "e1551ff5-40fa-4a8e-aa03-ba7bb1c68aaa",
+        "name": "Jazmine Star",
+        "appearance": "Jade"
+      }
+    ]
+  }
+}
