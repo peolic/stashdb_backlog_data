@@ -7,26 +7,17 @@
     "https://www.iafd.com/title.rme/title=royalty+and+nikki+call+on+the+assmen/year=2009/royalty-and-nikki-call-on-the-assmen.htm"
   ],
   "performers": {
-    "remove": [
-      {
-        "id": "ea1760fd-f0bd-44b1-aed0-8ca1623fde06",
-        "name": "Royalty & Nikki",
-        "appearance": null,
-        "status": "edit"
-      }
-    ],
+    "remove": [],
     "append": [
       {
         "id": null,
         "name": "Nikki Muscato",
         "appearance": "Nikki",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=nikkimoscato/gender=f/nikki-moscato.htm"
-      },
-      {
-        "id": "e36a5fa1-3b60-45ed-bb52-2c1fdf5a57e7",
-        "name": "Victoria Cakes",
-        "appearance": "Royalty"
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/2807bce1-5139-4a12-8fec-8ffce66e8f40",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=nikkimoscato/gender=f/nikki-moscato.htm"
+        ]
       }
     ]
   }

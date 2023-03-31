@@ -11,8 +11,7 @@
       {
         "id": "b7ac5e49-db9b-4c57-a948-03e0222deda0",
         "name": "Sophie & Bonnie",
-        "appearance": null,
-        "status": "edit"
+        "appearance": null
       }
     ],
     "append": [
@@ -20,8 +19,11 @@
         "id": null,
         "name": "Bonnie Clydesdale",
         "appearance": "Bonnie",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=bobbieclydesdale/gender=f/bonnie-clydesdale.htm"
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/b3d83b06-0aef-4de7-855c-06bb32b670a0",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=bobbieclydesdale/gender=f/bonnie-clydesdale.htm"
+        ]
       },
       {
         "id": "a5c73645-d48d-46a6-a281-9bf081673e20",

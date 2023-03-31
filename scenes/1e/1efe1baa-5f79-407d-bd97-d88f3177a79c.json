@@ -20,8 +20,11 @@
         "name": "Lani",
         "appearance": null,
         "disambiguation": "2007, Cum Fiesta",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lani_08/gender=f/lani.htm"
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/d897cfde-f0c1-48d0-b3a8-0946bad9f253",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=lani_08/gender=f/lani.htm"
+        ]
       }
     ]
   }

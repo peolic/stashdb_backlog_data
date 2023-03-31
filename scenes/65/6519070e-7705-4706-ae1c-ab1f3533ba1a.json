@@ -11,8 +11,7 @@
       {
         "id": "ec0770bb-d770-4cf1-a120-a02f6cf8c068",
         "name": "Mz Booty & Manaje A Star",
-        "appearance": null,
-        "status": "edit"
+        "appearance": null
       }
     ],
     "append": [
@@ -20,9 +19,10 @@
         "id": null,
         "name": "Manaj-A-Star",
         "appearance": "Manaje A Star",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=manajastar/gender=f/manaj-a-star.htm",
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/ffe6f5b4-2783-45bf-a5ca-fec690d0d131",
         "notes": [
+          "https://www.iafd.com/person.rme/perfid=manajastar/gender=f/manaj-a-star.htm",
           "https://www.indexxx.com/m/manaje-a-star"
         ]
       },
