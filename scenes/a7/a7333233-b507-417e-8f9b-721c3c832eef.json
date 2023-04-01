@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "0e1b6d5b-059d-4999-871b-e6258c52b12d",
         "name": "Nikki Muscato",
         "appearance": "Nikki",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/2807bce1-5139-4a12-8fec-8ffce66e8f40",
         "notes": [
           "https://www.iafd.com/person.rme/perfid=nikkimoscato/gender=f/nikki-moscato.htm"
         ]

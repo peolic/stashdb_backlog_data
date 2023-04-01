@@ -16,11 +16,9 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "0a8c82ea-7cd9-4e0f-9670-1cfebe8fb056",
         "name": "Bonnie Clydesdale",
         "appearance": "Bonnie",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/b3d83b06-0aef-4de7-855c-06bb32b670a0",
         "notes": [
           "https://www.iafd.com/person.rme/perfid=bobbieclydesdale/gender=f/bonnie-clydesdale.htm"
         ]

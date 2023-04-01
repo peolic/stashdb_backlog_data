@@ -10,11 +10,9 @@
     "remove": [],
     "append": [
       {
-        "id": null,
+        "id": "b797f4b3-ef4f-47de-ad32-95e0d1e75a8e",
         "name": "Shai Blakstar",
         "appearance": "Shai",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/f6520483-9da0-4f35-b23c-3938461aa245",
         "notes": [
           "https://www.iafd.com/person.rme/perfid=shaiblakstar/gender=f/shai-blakstar.htm"
         ]
