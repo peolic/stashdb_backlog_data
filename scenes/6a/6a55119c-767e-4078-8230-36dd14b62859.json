@@ -1,0 +1,28 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "1a2779f9-6dc6-485c-9726-d85ea9b739ca",
+        "name": "Milla",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "05a0ea01-dfe6-47c7-ba20-584f62032a0d",
+        "name": "Sadine Godiva",
+        "appearance": "Milla"
+      },
+      {
+        "id": "2caf66c3-ce2f-4bd0-80ea-1de446902b15",
+        "name": "Mike",
+        "appearance": null,
+        "disambiguation": "NVG"
+      }
+    ]
+  }
+}

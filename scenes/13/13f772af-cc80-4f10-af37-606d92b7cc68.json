@@ -1,0 +1,35 @@
+{
+  "c_studio": [
+    "Net Video Girls",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=netvideogirls+452%3a+sophia%2c+violet+and+mila/year=2012/netvideogirls-452%3a-sophia%2c-violet-and-mila.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "29bec398-5a54-4896-a1b9-c51137b52a07",
+        "name": "Sophia",
+        "appearance": null
+      },
+      {
+        "id": "ba39b216-4377-483d-8931-aaf891774dec",
+        "name": "Mila",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "31c58dc8-9a6b-4059-a034-64477817bf7f",
+        "name": "Alice Gee",
+        "appearance": "Sophia"
+      },
+      {
+        "id": "05a0ea01-dfe6-47c7-ba20-584f62032a0d",
+        "name": "Sadine Godiva",
+        "appearance": "Mila"
+      }
+    ]
+  }
+}
