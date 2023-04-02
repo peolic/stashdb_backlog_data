@@ -1,37 +1,3 @@
 {
-  "split": {
-    "name": "Natalya",
-    "shards": [
-      {
-        "id": "6a5c150d-d1e0-424b-abb8-7f97820d0936",
-        "name": "Little Rita",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=natalya_11/gender=f/natalya.htm",
-          "https://www.indexxx.com/m/little-rita"
-        ]
-      },
-      {
-        "id": "082c9b76-0b4b-4e8b-b4fb-f9c7fd738618",
-        "name": "Natalya AKA Natile",
-        "text": "Silverstone DVD",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=natalya_uk/gender=f/natalya.htm",
-          "https://www.indexxx.com/m/natile"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Natalya (Teen Mega World)",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.indexxx.com/m/natalya-3",
-          "https://teenmegaworld.net/models/natalya.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-18)"
-    ]
-  }
+  "duplicate_of": "6a5c150d-d1e0-424b-abb8-7f97820d0936"
 }
