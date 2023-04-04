@@ -1,0 +1,31 @@
+{
+  "c_studio": [
+    "Casting Couch-HD",
+    null
+  ],
+  "comments": [
+    "https://www.iafd.com/title.rme/title=castingcouch-hd+983%3a+sophia/year=2017/castingcouch-hd-983%3a-sophia.htm"
+  ],
+  "performers": {
+    "remove": [
+      {
+        "id": "29bec398-5a54-4896-a1b9-c51137b52a07",
+        "name": "Sophia",
+        "appearance": null
+      }
+    ],
+    "append": [
+      {
+        "id": "5b6a6218-6819-4193-945b-3a334cbb7aa0",
+        "name": "Sophia",
+        "appearance": null,
+        "disambiguation": "NVG Network 2017"
+      },
+      {
+        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
+        "name": "Tee Reel",
+        "appearance": "Chris"
+      }
+    ]
+  }
+}
