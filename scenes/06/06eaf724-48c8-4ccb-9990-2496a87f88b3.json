@@ -25,8 +25,11 @@
         "name": "Mike",
         "appearance": null,
         "disambiguation": "2002-3, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
+        "status": "c",
+        "status_url": "https://stashdb.org/edits/79426a28-3773-4fd4-bf67-e729aa3c9526",
+        "notes": [
+          "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
+        ]
       },
       {
         "id": null,
