@@ -1,15 +1,7 @@
 {
   "split": {
     "name": "Romeo",
-    "shards": [
-      {
-        "id": "baa4445a-3b9e-4ace-9ed2-f196f5815a9e",
-        "name": "Romeo (Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=romeo_sc_1/gender=m/romeo.htm"
-        ]
-      }
-    ],
+    "shards": [],
     "notes": [
       "Mix of multiple performers (partial list)"
     ]
