@@ -16,12 +16,10 @@
     ],
     "append": [
       {
-        "id": null,
+        "id": "5dcf37b0-2f3c-40e3-88a0-a5b3207b5784",
         "name": "Mike",
         "appearance": null,
         "disambiguation": "2002-3, Reality Kings",
-        "status": "c",
-        "status_url": "https://stashdb.org/edits/79426a28-3773-4fd4-bf67-e729aa3c9526",
         "notes": [
           "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
         ]
