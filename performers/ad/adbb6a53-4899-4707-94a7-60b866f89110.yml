@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Kit",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kit (Sean Cody 2017)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kit_seancody/gender=m/kit.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Kit
+  fragments:
+    - id: null
+      name: Kit (Sean Cody 2017)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kit_seancody/gender=m/kit.htm
+  notes:
+    - Mix of multiple performers (partial list)

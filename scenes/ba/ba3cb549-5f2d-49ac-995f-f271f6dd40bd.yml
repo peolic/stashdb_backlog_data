@@ -1,26 +1,17 @@
-{
-  "c_studio": [
-    "MetArt",
-    null
-  ],
-  "comments": [
-    "Roberta performer was deleted instead of being split",
-    "https://www.indexxx.com/set/224143/metart-roberta/"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Roberta",
-        "appearance": null,
-        "disambiguation": "2003, MetArt",
-        "status": "new",
-        "status_url": "https://www.indexxx.com/m/roberta-2",
-        "notes": [
-          "https://www.thenude.com/_1550.htm"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - MetArt
+  - null
+comments:
+  - Roberta performer was deleted instead of being split
+  - https://www.indexxx.com/set/224143/metart-roberta/
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Roberta
+      appearance: null
+      disambiguation: 2003, MetArt
+      status: new
+      status_url: https://www.indexxx.com/m/roberta-2
+      notes:
+        - https://www.thenude.com/_1550.htm

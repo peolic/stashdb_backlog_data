@@ -1,28 +1,17 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "b3ce18a3c2d8d66c",
-      "correct_scene_id": "ac47dbb9-144e-47f3-bba5-d8c92e206035",
-      "duration": 1797
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "5a54b8f5a3800fc7",
-      "correct_scene_id": "ac47dbb9-144e-47f3-bba5-d8c92e206035",
-      "duration": 1797
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "c38a17a79bba8660",
-      "correct_scene_id": "ac47dbb9-144e-47f3-bba5-d8c92e206035",
-      "duration": 1797
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "47b3d6d3cc99aac5",
-      "correct_scene_id": "ac47dbb9-144e-47f3-bba5-d8c92e206035",
-      "duration": 1797
-    }
-  ]
-}
+fingerprints:
+  - algorithm: phash
+    hash: b3ce18a3c2d8d66c
+    correct_scene_id: ac47dbb9-144e-47f3-bba5-d8c92e206035
+    duration: 1797
+  - algorithm: oshash
+    hash: 5a54b8f5a3800fc7
+    correct_scene_id: ac47dbb9-144e-47f3-bba5-d8c92e206035
+    duration: 1797
+  - algorithm: oshash
+    hash: c38a17a79bba8660
+    correct_scene_id: ac47dbb9-144e-47f3-bba5-d8c92e206035
+    duration: 1797
+  - algorithm: oshash
+    hash: 47b3d6d3cc99aac5
+    correct_scene_id: ac47dbb9-144e-47f3-bba5-d8c92e206035
+    duration: 1797

@@ -1,22 +1,14 @@
-{
-  "c_studio": [
-    "Ass Parade",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=natasha+2/year=2004/natasha-2.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Natasha",
-        "appearance": null,
-        "disambiguation": "2004-05",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=natasha_bb/gender=f/natasha.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Ass Parade
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=natasha+2/year=2004/natasha-2.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Natasha
+      appearance: null
+      disambiguation: 2004-05
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=natasha_bb/gender=f/natasha.htm

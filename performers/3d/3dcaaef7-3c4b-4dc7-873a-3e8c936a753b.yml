@@ -1,68 +1,45 @@
-{
-  "split": {
-    "name": "Sasha",
-    "shards": [
-      {
-        "id": "9213ab5a-38ee-4422-abad-10761f8b2933",
-        "name": "Sasha Price",
-        "text": "2017 Backroom Casting Couch",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sashaprice/gender=f/sasha-price.htm",
-          "https://www.backroomcastingcouch.com/models/sasha.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sasha (2010, BangBros)",
-        "text": "Big Tits, Round Asses",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sasha_it_10/gender=f/sasha.htm",
-          "https://www.indexxx.com/m/sasha-23",
-          "https://bangbros.com/model31582/sasha"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sasha (2002, BangBros)",
-        "text": "Bang Bus",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sasha_02_bb/gender=f/sasha.htm",
-          "https://www.indexxx.com/m/sasha-20",
-          "https://bangbros.com/model1261/sasha"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michelle Vargas",
-        "text": "MILF Soup",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michellevargas/gender=f/michelle-vargas.htm",
-          "https://www.indexxx.com/m/sasha-4",
-          "https://bangbros.com/model22105/sasha"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sasha (2001, BangBros)",
-        "text": "+ BangBros Remastered",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sasha_bb/gender=f/sasha.htm",
-          "https://www.indexxx.com/m/sasha-21",
-          "https://bangbros.com/model415/sasha"
-        ]
-      },
-      {
-        "id": "222f04a8-8170-478b-af68-1f3388268dbc",
-        "name": "Sasha Rose",
-        "text": "at least Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lynn_rus_09/gender=f/sasha-rose.htm",
-          "https://www.indexxx.com/m/sasha-rose"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Sasha
+  fragments:
+    - id: 9213ab5a-38ee-4422-abad-10761f8b2933
+      name: Sasha Price
+      text: 2017 Backroom Casting Couch
+      links:
+        - https://www.iafd.com/person.rme/perfid=sashaprice/gender=f/sasha-price.htm
+        - https://www.backroomcastingcouch.com/models/sasha.html
+    - id: null
+      name: Sasha (2010, BangBros)
+      text: Big Tits, Round Asses
+      links:
+        - https://www.iafd.com/person.rme/perfid=sasha_it_10/gender=f/sasha.htm
+        - https://www.indexxx.com/m/sasha-23
+        - https://bangbros.com/model31582/sasha
+    - id: null
+      name: Sasha (2002, BangBros)
+      text: Bang Bus
+      links:
+        - https://www.iafd.com/person.rme/perfid=sasha_02_bb/gender=f/sasha.htm
+        - https://www.indexxx.com/m/sasha-20
+        - https://bangbros.com/model1261/sasha
+    - id: null
+      name: Michelle Vargas
+      text: MILF Soup
+      links:
+        - https://www.iafd.com/person.rme/perfid=michellevargas/gender=f/michelle-vargas.htm
+        - https://www.indexxx.com/m/sasha-4
+        - https://bangbros.com/model22105/sasha
+    - id: null
+      name: Sasha (2001, BangBros)
+      text: + BangBros Remastered
+      links:
+        - https://www.iafd.com/person.rme/perfid=sasha_bb/gender=f/sasha.htm
+        - https://www.indexxx.com/m/sasha-21
+        - https://bangbros.com/model415/sasha
+    - id: 222f04a8-8170-478b-af68-1f3388268dbc
+      name: Sasha Rose
+      text: at least Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=lynn_rus_09/gender=f/sasha-rose.htm
+        - https://www.indexxx.com/m/sasha-rose
+  notes:
+    - Mix of multiple performers (partial list)

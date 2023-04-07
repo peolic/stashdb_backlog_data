@@ -1,41 +1,26 @@
-{
-  "split": {
-    "name": "Veronica",
-    "shards": [
-      {
-        "id": null,
-        "name": "Veronica Jones",
-        "text": "Nubiles circa 2006",
-        "links": [
-          "https://www.indexxx.com/m/veronica-jones-1",
-          "https://www.thenude.com/_7215.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Veronica Green",
-        "text": "Net Video Girls (2016)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=veronicagreen/gender=f/veronica-green.htm",
-          "https://www.indexxx.com/m/veronica-green",
-          "https://www.freeones.com/forums/threads/veronica-green.896126/"
-        ]
-      },
-      {
-        "id": "2b00a731-4bb0-4ce6-9fc2-93507c81b393",
-        "name": "Krystal Carrington",
-        "text": "Net Video Girls (2013)",
-        "notes": [
-          "Released: 2013-11-28"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=krystalcarrington/gender=f/krystal-carrington.htm",
-          "https://www.indexxx.com/m/krystal-carrington"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Veronica
+  fragments:
+    - id: null
+      name: Veronica Jones
+      text: Nubiles circa 2006
+      links:
+        - https://www.indexxx.com/m/veronica-jones-1
+        - https://www.thenude.com/_7215.htm
+    - id: null
+      name: Veronica Green
+      text: Net Video Girls (2016)
+      links:
+        - https://www.iafd.com/person.rme/perfid=veronicagreen/gender=f/veronica-green.htm
+        - https://www.indexxx.com/m/veronica-green
+        - https://www.freeones.com/forums/threads/veronica-green.896126/
+    - id: 2b00a731-4bb0-4ce6-9fc2-93507c81b393
+      name: Krystal Carrington
+      text: Net Video Girls (2013)
+      notes:
+        - 'Released: 2013-11-28'
+      links:
+        - https://www.iafd.com/person.rme/perfid=krystalcarrington/gender=f/krystal-carrington.htm
+        - https://www.indexxx.com/m/krystal-carrington
+  notes:
+    - Mix of multiple performers (partial list)

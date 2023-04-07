@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Stacey Sweet",
-    "shards": [
-      {
-        "id": null,
-        "name": "Stacey Sweet (b.1985 / career 2004-2007)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=staceysweet/gender=f/stacey-sweet.htm",
-          "https://www.indexxx.com/m/stacey-sweet"
-        ]
-      }
-    ],
-    "notes": [
-      "Performer should be clear now, info needs to be updated and made unique."
-    ]
-  }
-}
+split:
+  name: Stacey Sweet
+  fragments:
+    - id: null
+      name: Stacey Sweet (b.1985 / career 2004-2007)
+      links:
+        - https://www.iafd.com/person.rme/perfid=staceysweet/gender=f/stacey-sweet.htm
+        - https://www.indexxx.com/m/stacey-sweet
+  notes:
+    - Performer should be clear now, info needs to be updated and made unique.

@@ -1,33 +1,21 @@
-{
-  "split": {
-    "name": "Flora",
-    "shards": [
-      {
-        "id": null,
-        "name": "Luda ? / Bridget A (Ferro Network)",
-        "text": "MILFs On Sticks",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=luda03/gender=f/luda.htm",
-          "https://www.indexxx.com/m/luda-10"
-        ]
-      },
-      {
-        "id": "83f6c05a-fa30-463d-951c-a567378f4820",
-        "name": "Ludmilla Habibulina",
-        "notes": [
-          "- 18 Virgin Sex",
-          "- Dirty Ass 2 Mouth",
-          "- Dirty Daddys Girls"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=milena_eu_03/gender=f/milena.htm",
-          "https://www.indexxx.com/m/millena",
-          "https://1passforallsites.com/model?id=269"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-16)"
-    ]
-  }
-}
+split:
+  name: Flora
+  fragments:
+    - id: null
+      name: Luda ? / Bridget A (Ferro Network)
+      text: MILFs On Sticks
+      links:
+        - https://www.iafd.com/person.rme/perfid=luda03/gender=f/luda.htm
+        - https://www.indexxx.com/m/luda-10
+    - id: 83f6c05a-fa30-463d-951c-a567378f4820
+      name: Ludmilla Habibulina
+      notes:
+        - '- 18 Virgin Sex'
+        - '- Dirty Ass 2 Mouth'
+        - '- Dirty Daddys Girls'
+      links:
+        - https://www.iafd.com/person.rme/perfid=milena_eu_03/gender=f/milena.htm
+        - https://www.indexxx.com/m/millena
+        - https://1passforallsites.com/model?id=269
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-16)

@@ -1,21 +1,12 @@
-{
-  "split": {
-    "name": "Paulo",
-    "shards": [
-      {
-        "id": "c38cc401-634f-4dde-967e-14964ae6fd57",
-        "name": "Paulo Machy AKA Paulo Macky",
-        "notes": [
-          "- Tranny Surprise?",
-          "- Trans Angels Network?"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paulomachy_05/gender=m/paulo-machy.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (possibly complete list as of 2022-07-13)"
-    ]
-  }
-}
+split:
+  name: Paulo
+  fragments:
+    - id: c38cc401-634f-4dde-967e-14964ae6fd57
+      name: Paulo Machy AKA Paulo Macky
+      notes:
+        - '- Tranny Surprise?'
+        - '- Trans Angels Network?'
+      links:
+        - https://www.iafd.com/person.rme/perfid=paulomachy_05/gender=m/paulo-machy.htm
+  notes:
+    - Mix of multiple performers (possibly complete list as of 2022-07-13)

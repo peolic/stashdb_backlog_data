@@ -1,92 +1,61 @@
-{
-  "split": {
-    "name": "Vanessa",
-    "shards": [
-      {
-        "id": null,
-        "name": "Vanessa",
-        "text": "1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vanessa_latin_rk/gender=f/vanessa.htm",
-          "https://www.indexxx.com/m/vanessa-42",
-          "https://stashdb.org/scenes/79f41fe0-4de0-41b6-8039-dc233b50b49d",
-          "https://www.realitykings.com/model/3133/vanessa"
-        ]
-      },
-      {
-        "id": "39f23985-618e-4b88-bd22-759f3f621ae6",
-        "name": "Lara Page",
-        "text": "(DDF)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=larapage/gender=f/lara-page.htm",
-          "https://www.indexxx.com/m/paloma-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Vanessa (2011-2012, Reality Kings)",
-        "text": "(Street Blowjobs, DareDorm)",
-        "notes": [
-          "- at least 1 scene"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vanessa_rk12/gender=f/vanessa.htm",
-          "https://www.indexxx.com/m/vanessa-18",
-          "https://stashdb.org/scenes/da2ba3c7-f6d2-405d-aa7a-bca7a15481c7",
-          "https://www.realitykings.com/model/15281/vanessa"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Vanessa",
-        "text": "1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vanessa_rk_10/gender=f/vanessa.htm",
-          "https://www.indexxx.com/m/vanessa-40",
-          "https://stashdb.org/scenes/fa157257-29e2-4d78-a408-a06da9c8596f"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Vanessa",
-        "text": "at least 1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vanessa_nicolette/gender=f/vanessa.htm",
-          "https://stashdb.org/scenes/9fd7024b-d8c3-41d0-816e-e261c5cc5733"
-        ]
-      },
-      {
-        "id": "bd703e63-1392-4a07-9a54-677897e5e6ff",
-        "name": "Vanessa Monroe",
-        "text": "(Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/vanessa-monroe"
-        ]
-      },
-      {
-        "id": "9b93d3a3-4d39-4652-a426-10e3cd390e78",
-        "name": "Vanessa Lee",
-        "links": [
-          "https://www.indexxx.com/m/vanessa-lee",
-          "https://www.iafd.com/person.rme/perfid=vanessalee_08/gender=f/vanessa-lee.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Mandy Roberts",
-        "text": "Net Video Girls (2010)",
-        "notes": [
-          "Ep 2010.13 - Vanessa = Mandy Roberts"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mandyroberts/gender=f/mandy-roberts.htm",
-          "https://www.indexxx.com/m/mandy-roberts",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Vanessa
+  fragments:
+    - id: null
+      name: Vanessa
+      text: 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=vanessa_latin_rk/gender=f/vanessa.htm
+        - https://www.indexxx.com/m/vanessa-42
+        - https://stashdb.org/scenes/79f41fe0-4de0-41b6-8039-dc233b50b49d
+        - https://www.realitykings.com/model/3133/vanessa
+    - id: 39f23985-618e-4b88-bd22-759f3f621ae6
+      name: Lara Page
+      text: (DDF)
+      links:
+        - https://www.iafd.com/person.rme/perfid=larapage/gender=f/lara-page.htm
+        - https://www.indexxx.com/m/paloma-5
+    - id: null
+      name: Vanessa (2011-2012, Reality Kings)
+      text: (Street Blowjobs, DareDorm)
+      notes:
+        - '- at least 1 scene'
+      links:
+        - https://www.iafd.com/person.rme/perfid=vanessa_rk12/gender=f/vanessa.htm
+        - https://www.indexxx.com/m/vanessa-18
+        - https://stashdb.org/scenes/da2ba3c7-f6d2-405d-aa7a-bca7a15481c7
+        - https://www.realitykings.com/model/15281/vanessa
+    - id: null
+      name: Vanessa
+      text: 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=vanessa_rk_10/gender=f/vanessa.htm
+        - https://www.indexxx.com/m/vanessa-40
+        - https://stashdb.org/scenes/fa157257-29e2-4d78-a408-a06da9c8596f
+    - id: null
+      name: Vanessa
+      text: at least 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=vanessa_nicolette/gender=f/vanessa.htm
+        - https://stashdb.org/scenes/9fd7024b-d8c3-41d0-816e-e261c5cc5733
+    - id: bd703e63-1392-4a07-9a54-677897e5e6ff
+      name: Vanessa Monroe
+      text: (Nubiles)
+      links:
+        - https://www.indexxx.com/m/vanessa-monroe
+    - id: 9b93d3a3-4d39-4652-a426-10e3cd390e78
+      name: Vanessa Lee
+      links:
+        - https://www.indexxx.com/m/vanessa-lee
+        - https://www.iafd.com/person.rme/perfid=vanessalee_08/gender=f/vanessa-lee.htm
+    - id: null
+      name: Mandy Roberts
+      text: Net Video Girls (2010)
+      notes:
+        - Ep 2010.13 - Vanessa = Mandy Roberts
+      links:
+        - https://www.iafd.com/person.rme/perfid=mandyroberts/gender=f/mandy-roberts.htm
+        - https://www.indexxx.com/m/mandy-roberts
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813
+  notes:
+    - Mix of multiple performers (partial list)

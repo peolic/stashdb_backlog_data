@@ -1,9 +1,5 @@
-{
-  "split": {
-    "name": "David Sobota",
-    "shards": [],
-    "notes": [
-      "Performer is not unique, incomplete list"
-    ]
-  }
-}
+split:
+  name: David Sobota
+  fragments: []
+  notes:
+    - Performer is not unique, incomplete list

@@ -1,53 +1,35 @@
-{
-  "split": {
-    "name": "Bianka",
-    "shards": [
-      {
-        "id": null,
-        "name": "Bianka ?",
-        "text": "(Gag-n-Gape)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bianka_09/gender=f/bianka.htm",
-          "https://www.indexxx.com/m/bianka-5"
-        ]
-      },
-      {
-        "id": "6a1fe8c0-d285-47f2-a0d2-3a5b5428ccce",
-        "name": "Bianka Lovely",
-        "text": "(Mike's Apartment 2009)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=biankalovely/gender=f/bianka-lovely.htm",
-          "https://www.indexxx.com/m/bianka-4",
-          "https://stashdb.org/scenes/6290ed9e-b409-461a-80f9-30f696f97f38"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Busty Sonia",
-        "text": "(Big Naturals)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bustysonia/gender=f/busty-sonia.htm",
-          "https://www.indexxx.com/m/bianka-1"
-        ]
-      },
-      {
-        "id": "2fe9ecff-b09d-43ed-a997-d34cd5fead6b",
-        "name": "Bianka (HU, 2006)",
-        "notes": [
-          "- Mike's Apartment (2006)",
-          "- Sex Video Casting",
-          "additional scenes missing performer"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bianka_ddf/gender=f/bianka.htm",
-          "https://www.indexxx.com/m/bianka",
-          "https://stashdb.org/scenes/cc9707d9-bea4-4499-a53b-c5730465931c",
-          "https://stashdb.org/scenes/912a8564-a60e-4ad4-8f20-6f430ad6393d"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Bianka
+  fragments:
+    - id: null
+      name: Bianka ?
+      text: (Gag-n-Gape)
+      links:
+        - https://www.iafd.com/person.rme/perfid=bianka_09/gender=f/bianka.htm
+        - https://www.indexxx.com/m/bianka-5
+    - id: 6a1fe8c0-d285-47f2-a0d2-3a5b5428ccce
+      name: Bianka Lovely
+      text: (Mike's Apartment 2009)
+      links:
+        - https://www.iafd.com/person.rme/perfid=biankalovely/gender=f/bianka-lovely.htm
+        - https://www.indexxx.com/m/bianka-4
+        - https://stashdb.org/scenes/6290ed9e-b409-461a-80f9-30f696f97f38
+    - id: null
+      name: Busty Sonia
+      text: (Big Naturals)
+      links:
+        - https://www.iafd.com/person.rme/perfid=bustysonia/gender=f/busty-sonia.htm
+        - https://www.indexxx.com/m/bianka-1
+    - id: 2fe9ecff-b09d-43ed-a997-d34cd5fead6b
+      name: Bianka (HU, 2006)
+      notes:
+        - '- Mike''s Apartment (2006)'
+        - '- Sex Video Casting'
+        - additional scenes missing performer
+      links:
+        - https://www.iafd.com/person.rme/perfid=bianka_ddf/gender=f/bianka.htm
+        - https://www.indexxx.com/m/bianka
+        - https://stashdb.org/scenes/cc9707d9-bea4-4499-a53b-c5730465931c
+        - https://stashdb.org/scenes/912a8564-a60e-4ad4-8f20-6f430ad6393d
+  notes:
+    - Mix of multiple performers (partial list)

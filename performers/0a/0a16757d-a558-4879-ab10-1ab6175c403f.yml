@@ -1,47 +1,28 @@
-{
-  "split": {
-    "name": "Sadie",
-    "shards": [
-      {
-        "id": null,
-        "name": "Sadie (Backroom Casting Couch 2015)",
-        "notes": [
-          "Unsure where \"Teen Sadie\" comes from"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=teensadie/gender=f/teen-sadie.htm",
-          "https://www.backroomcastingcouch.com/models/sadie.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sadie (Mofos 2013)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sadie_2014/gender=f/sadie.htm",
-          "https://www.indexxx.com/m/sadie-24"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sadie (Backroom Casting Couch 2012)",
-        "links": [
-          "https://www.backroomcastingcouch.com/models/sadie-2.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sadie (Devil's Film 1999)",
-        "notes": [
-          "(Transexual performer)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sadie_ts/gender=f/sadie.htm",
-          "https://stashdb.org/scenes/410e3323-f7ea-4a2c-9b0d-d526262e7eb9"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-05)"
-    ]
-  }
-}
+split:
+  name: Sadie
+  fragments:
+    - id: null
+      name: Sadie (Backroom Casting Couch 2015)
+      notes:
+        - Unsure where "Teen Sadie" comes from
+      links:
+        - https://www.iafd.com/person.rme/perfid=teensadie/gender=f/teen-sadie.htm
+        - https://www.backroomcastingcouch.com/models/sadie.html
+    - id: null
+      name: Sadie (Mofos 2013)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sadie_2014/gender=f/sadie.htm
+        - https://www.indexxx.com/m/sadie-24
+    - id: null
+      name: Sadie (Backroom Casting Couch 2012)
+      links:
+        - https://www.backroomcastingcouch.com/models/sadie-2.html
+    - id: null
+      name: Sadie (Devil's Film 1999)
+      notes:
+        - (Transexual performer)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sadie_ts/gender=f/sadie.htm
+        - https://stashdb.org/scenes/410e3323-f7ea-4a2c-9b0d-d526262e7eb9
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-05)

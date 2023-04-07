@@ -1,42 +1,27 @@
-{
-  "split": {
-    "name": "Melody Sweet",
-    "shards": [
-      {
-        "id": null,
-        "name": "Melody Max",
-        "notes": [
-          "- Give Me Teens",
-          "- Peter North"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=melody_02/gender=f/melody-max.htm",
-          "https://www.indexxx.com/m/melody-7"
-        ]
-      },
-      {
-        "id": "28e393bb-ae8b-4ed0-b4df-9c677bbcd3bc",
-        "name": "Melody Love",
-        "text": "White Ghetto \"Shut Up And Swallow #02\"",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=melodylove/gender=f/melody-love.htm",
-          "https://www.indexxx.com/m/melody-love"
-        ]
-      },
-      {
-        "id": "8b54e163-d9bf-4f60-8115-7f70d6cae0fc",
-        "name": "Candi Licious (Filipino)",
-        "text": "White Ghetto \"Asian Cream Pie Invasion #02\" seems like the same scene as in \"Asian Mail Order Brides 2 (2013)\"",
-        "notes": [
-          "Alias on the DVD cover is Melody"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=candilicious/gender=f/candi-licious.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-11)"
-    ]
-  }
-}
+split:
+  name: Melody Sweet
+  fragments:
+    - id: null
+      name: Melody Max
+      notes:
+        - '- Give Me Teens'
+        - '- Peter North'
+      links:
+        - https://www.iafd.com/person.rme/perfid=melody_02/gender=f/melody-max.htm
+        - https://www.indexxx.com/m/melody-7
+    - id: 28e393bb-ae8b-4ed0-b4df-9c677bbcd3bc
+      name: Melody Love
+      text: 'White Ghetto "Shut Up And Swallow #02"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=melodylove/gender=f/melody-love.htm
+        - https://www.indexxx.com/m/melody-love
+    - id: 8b54e163-d9bf-4f60-8115-7f70d6cae0fc
+      name: Candi Licious (Filipino)
+      text: 'White Ghetto "Asian Cream Pie Invasion #02" seems like the same scene
+        as in "Asian Mail Order Brides 2 (2013)"'
+      notes:
+        - Alias on the DVD cover is Melody
+      links:
+        - https://www.iafd.com/person.rme/perfid=candilicious/gender=f/candi-licious.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-11)

@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Marcel",
-    "shards": [
-      {
-        "id": null,
-        "name": "Marcel (Sean Cody)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/89979"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Marcel
+  fragments:
+    - id: null
+      name: Marcel (Sean Cody)
+      links:
+        - https://gayeroticvideoindex.com/performer/89979
+  notes:
+    - Mix of multiple performers (partial list)

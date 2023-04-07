@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Ross",
-    "shards": [
-      {
-        "id": null,
-        "name": "Ross (2004-2008, Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ross_sc_1/gender=m/ross.htm",
-          "https://gayeroticvideoindex.com/performer/96779"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ross Sevrance",
-        "text": "VIP Crew",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=rosssevrance/gender=m/ross-sevrance.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Ross
+  fragments:
+    - id: null
+      name: Ross (2004-2008, Sean Cody)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ross_sc_1/gender=m/ross.htm
+        - https://gayeroticvideoindex.com/performer/96779
+    - id: null
+      name: Ross Sevrance
+      text: VIP Crew
+      links:
+        - https://www.iafd.com/person.rme/perfid=rosssevrance/gender=m/ross-sevrance.htm
+  notes:
+    - Mix of multiple performers (partial list)

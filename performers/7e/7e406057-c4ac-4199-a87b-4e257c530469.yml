@@ -1,50 +1,30 @@
-{
-  "split": {
-    "name": "Nico",
-    "shards": [
-      {
-        "id": null,
-        "name": "Nico (2003, Naughty America)",
-        "text": "Naughty Bookworms",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nico04/gender=f/nico.htm",
-          "https://www.indexxx.com/m/nico"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nico (2014, Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nico_sc_2/gender=m/nico.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nico (2011, Blowpass)",
-        "text": "Throated",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nico_xxx/gender=m/nico.htm"
-        ]
-      },
-      {
-        "id": "5e6e286b-8e21-4d9d-ac71-69dbe633be52",
-        "name": "Nico Aguilar AKA Libor",
-        "text": "at least some Mile High Media",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nicoaguilar/gender=m/nico-aguilar.htm"
-        ]
-      },
-      {
-        "id": "7c8e3869-20c6-46c2-b0ed-2e726618a8a3",
-        "name": "Nico Elise",
-        "text": "at least Burning Angel",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nicoelise/gender=f/nico-elise.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Nico
+  fragments:
+    - id: null
+      name: Nico (2003, Naughty America)
+      text: Naughty Bookworms
+      links:
+        - https://www.iafd.com/person.rme/perfid=nico04/gender=f/nico.htm
+        - https://www.indexxx.com/m/nico
+    - id: null
+      name: Nico (2014, Sean Cody)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nico_sc_2/gender=m/nico.htm
+    - id: null
+      name: Nico (2011, Blowpass)
+      text: Throated
+      links:
+        - https://www.iafd.com/person.rme/perfid=nico_xxx/gender=m/nico.htm
+    - id: 5e6e286b-8e21-4d9d-ac71-69dbe633be52
+      name: Nico Aguilar AKA Libor
+      text: at least some Mile High Media
+      links:
+        - https://www.iafd.com/person.rme/perfid=nicoaguilar/gender=m/nico-aguilar.htm
+    - id: 7c8e3869-20c6-46c2-b0ed-2e726618a8a3
+      name: Nico Elise
+      text: at least Burning Angel
+      links:
+        - https://www.iafd.com/person.rme/perfid=nicoelise/gender=f/nico-elise.htm
+  notes:
+    - Mix of multiple performers (partial list)

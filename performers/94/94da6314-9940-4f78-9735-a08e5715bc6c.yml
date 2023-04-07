@@ -1,6 +1,3 @@
-{
-  "name": "Candy Cat",
-  "urls": [
-    "https://www.indexxx.com/m/candy-cat"
-  ]
-}
+name: Candy Cat
+urls:
+  - https://www.indexxx.com/m/candy-cat

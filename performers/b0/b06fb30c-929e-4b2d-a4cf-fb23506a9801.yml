@@ -1,40 +1,25 @@
-{
-  "split": {
-    "name": "Becky",
-    "shards": [
-      {
-        "id": null,
-        "name": "Becky (2015, 8th Street Latinas)",
-        "text": "1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=becky15/gender=f/becky.htm",
-          "https://stashdb.org/scenes/402e16b3-a348-4264-aeb0-3d58c3d7dbce"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Becky (RU)",
-        "notes": [
-          "- Lez Cuties",
-          "- 21sextury"
-        ],
-        "links": [
-          "https://www.indexxx.com/m/becky",
-          "https://www.iafd.com/person.rme/perfid=becky_07_russ_rdhd/gender=f/becky.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Becky (2004, Cum Girls)",
-        "text": "1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=becky_rk_04/gender=f/becky.htm",
-          "https://stashdb.org/scenes/69053959-c2c6-4d93-9136-94dd0765f9d0"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Becky
+  fragments:
+    - id: null
+      name: Becky (2015, 8th Street Latinas)
+      text: 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=becky15/gender=f/becky.htm
+        - https://stashdb.org/scenes/402e16b3-a348-4264-aeb0-3d58c3d7dbce
+    - id: null
+      name: Becky (RU)
+      notes:
+        - '- Lez Cuties'
+        - '- 21sextury'
+      links:
+        - https://www.indexxx.com/m/becky
+        - https://www.iafd.com/person.rme/perfid=becky_07_russ_rdhd/gender=f/becky.htm
+    - id: null
+      name: Becky (2004, Cum Girls)
+      text: 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=becky_rk_04/gender=f/becky.htm
+        - https://stashdb.org/scenes/69053959-c2c6-4d93-9136-94dd0765f9d0
+  notes:
+    - Mix of multiple performers (partial list)

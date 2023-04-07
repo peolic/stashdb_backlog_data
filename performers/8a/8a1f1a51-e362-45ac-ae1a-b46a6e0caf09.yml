@@ -1,11 +1,6 @@
-{
-  "duplicates": {
-    "ids": [
-      "804c1bee-c6d4-4486-8b35-18630c32f55a"
-    ],
-    "notes": [
-      "https://www.iafd.com/person.rme/perfid=diana_rbt/gender=f/minka-mounds.htm",
-      "https://www.indexxx.com/m/tiffany-61"
-    ]
-  }
-}
+duplicates:
+  ids:
+    - 804c1bee-c6d4-4486-8b35-18630c32f55a
+  notes:
+    - https://www.iafd.com/person.rme/perfid=diana_rbt/gender=f/minka-mounds.htm
+    - https://www.indexxx.com/m/tiffany-61

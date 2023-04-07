@@ -1,36 +1,21 @@
-{
-  "split": {
-    "name": "Valerie",
-    "shards": [
-      {
-        "id": null,
-        "name": "Valerie (HU)",
-        "links": [
-          "https://www.indexxx.com/m/valerie"
-        ]
-      },
-      {
-        "id": "14496399-3f5f-42a5-b272-042dc2831ef9",
-        "name": "Valerie Herrera",
-        "notes": [
-          "\u0002- Valerie @ Nubiles\u0003",
-          "\u0002- Valerie @ 8th Street Latinas / VIP Crew\u0003"
-        ],
-        "links": [
-          "https://www.indexxx.com/m/valerie-herrera"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Petra",
-        "text": "Valerie @ Sapphic (circa 2003)",
-        "links": [
-          "https://www.indexxx.com/m/petra-41"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Valerie
+  fragments:
+    - id: null
+      name: Valerie (HU)
+      links:
+        - https://www.indexxx.com/m/valerie
+    - id: 14496399-3f5f-42a5-b272-042dc2831ef9
+      name: Valerie Herrera
+      notes:
+        - "\x02- Valerie @ Nubiles\x03"
+        - "\x02- Valerie @ 8th Street Latinas / VIP Crew\x03"
+      links:
+        - https://www.indexxx.com/m/valerie-herrera
+    - id: null
+      name: Petra
+      text: Valerie @ Sapphic (circa 2003)
+      links:
+        - https://www.indexxx.com/m/petra-41
+  notes:
+    - Mix of multiple performers (partial list)

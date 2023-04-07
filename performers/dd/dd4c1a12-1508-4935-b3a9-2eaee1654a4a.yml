@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Daniella",
-    "shards": [
-      {
-        "id": null,
-        "name": "Daniella (blonde, 2005)",
-        "text": "Zoliboy",
-        "links": [
-          "https://www.indexxx.com/m/daniella"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Daniella
+  fragments:
+    - id: null
+      name: Daniella (blonde, 2005)
+      text: Zoliboy
+      links:
+        - https://www.indexxx.com/m/daniella
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,28 +1,17 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=shoppin+n+pussypoppin/year=2006/shoppin-n-pussypoppin.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "c4412f13-dee5-47ad-a727-bf3c340c4b06",
-        "name": "Stacy",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Stacy",
-        "appearance": null,
-        "disambiguation": "2006, We Live Together",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=stacy_rk06/gender=f/stacy.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=shoppin+n+pussypoppin/year=2006/shoppin-n-pussypoppin.htm
+performers:
+  remove:
+    - id: c4412f13-dee5-47ad-a727-bf3c340c4b06
+      name: Stacy
+      appearance: null
+  append:
+    - id: null
+      name: Stacy
+      appearance: null
+      disambiguation: 2006, We Live Together
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=stacy_rk06/gender=f/stacy.htm

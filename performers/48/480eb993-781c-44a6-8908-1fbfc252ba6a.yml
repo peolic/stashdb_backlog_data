@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Chyna",
-    "shards": [
-      {
-        "id": null,
-        "name": "Blaque Chyna",
-        "text": "Round and Brown",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chyna_bl_rk/gender=f/blaque-chyna.htm",
-          "https://www.indexxx.com/m/chyna"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Chyna
+  fragments:
+    - id: null
+      name: Blaque Chyna
+      text: Round and Brown
+      links:
+        - https://www.iafd.com/person.rme/perfid=chyna_bl_rk/gender=f/blaque-chyna.htm
+        - https://www.indexxx.com/m/chyna
+  notes:
+    - Mix of multiple performers (partial list)

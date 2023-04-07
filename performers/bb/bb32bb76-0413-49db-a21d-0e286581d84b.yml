@@ -1,50 +1,30 @@
-{
-  "split": {
-    "name": "Evelyn",
-    "shards": [
-      {
-        "id": "a8521bba-ebba-4fac-8626-095ee886994f",
-        "name": "Evelyn Baum",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=evelyn_05_eu/gender=f/evelyn.htm",
-          "https://www.indexxx.com/m/evelyn-2"
-        ]
-      },
-      {
-        "id": "ed71d012-f5b5-48cd-a726-4dba8bbcaf61",
-        "name": "Karina O",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=karinao/gender=f/karina-o.htm",
-          "https://www.indexxx.com/m/karina-19"
-        ]
-      },
-      {
-        "id": "acc9c6f7-5cfb-4f73-a97d-2d4ae6da566a",
-        "name": "Evelyn (All Fine Girls)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=evelyn_rahel/gender=f/evelyn.htm",
-          "https://www.indexxx.com/m/evelyn-18"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Tinah Star",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=evelyn_09/gender=f/evelyn.htm",
-          "https://www.indexxx.com/m/evelyn-11"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Evelyn (2004, First Time Auditions)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=evelyn_rk_04/gender=f/evelyn.htm",
-          "https://www.indexxx.com/m/evelyn-7"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Evelyn
+  fragments:
+    - id: a8521bba-ebba-4fac-8626-095ee886994f
+      name: Evelyn Baum
+      links:
+        - https://www.iafd.com/person.rme/perfid=evelyn_05_eu/gender=f/evelyn.htm
+        - https://www.indexxx.com/m/evelyn-2
+    - id: ed71d012-f5b5-48cd-a726-4dba8bbcaf61
+      name: Karina O
+      links:
+        - https://www.iafd.com/person.rme/perfid=karinao/gender=f/karina-o.htm
+        - https://www.indexxx.com/m/karina-19
+    - id: acc9c6f7-5cfb-4f73-a97d-2d4ae6da566a
+      name: Evelyn (All Fine Girls)
+      links:
+        - https://www.iafd.com/person.rme/perfid=evelyn_rahel/gender=f/evelyn.htm
+        - https://www.indexxx.com/m/evelyn-18
+    - id: null
+      name: Tinah Star
+      links:
+        - https://www.iafd.com/person.rme/perfid=evelyn_09/gender=f/evelyn.htm
+        - https://www.indexxx.com/m/evelyn-11
+    - id: null
+      name: Evelyn (2004, First Time Auditions)
+      links:
+        - https://www.iafd.com/person.rme/perfid=evelyn_rk_04/gender=f/evelyn.htm
+        - https://www.indexxx.com/m/evelyn-7
+  notes:
+    - Mix of multiple performers (partial list)

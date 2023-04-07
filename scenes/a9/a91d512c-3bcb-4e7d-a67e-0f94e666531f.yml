@@ -1,13 +1,7 @@
-{
-  "duplicates": [
-    "8ed6a1f3-76d2-4399-82a9-04d197939da9"
-  ],
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "861306de5993c5fc",
-      "correct_scene_id": null,
-      "duration": 1515
-    }
-  ]
-}
+duplicates:
+  - 8ed6a1f3-76d2-4399-82a9-04d197939da9
+fingerprints:
+  - algorithm: phash
+    hash: 861306de5993c5fc
+    correct_scene_id: null
+    duration: 1515

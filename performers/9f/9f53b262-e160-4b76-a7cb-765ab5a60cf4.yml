@@ -1,7 +1,4 @@
-{
-  "name": "Taylor Bow",
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=rileyryder/gender=f/riley-ryder.htm",
-    "https://www.indexxx.com/m/taylor-bow"
-  ]
-}
+name: Taylor Bow
+urls:
+  - https://www.iafd.com/person.rme/perfid=rileyryder/gender=f/riley-ryder.htm
+  - https://www.indexxx.com/m/taylor-bow

@@ -1,66 +1,46 @@
-{
-  "split": {
-    "name": "Virginia",
-    "shards": [
-      {
-        "id": null,
-        "name": "Virginia ?",
-        "text": "most scenes:",
-        "notes": [
-          "- 1By-Day",
-          "- Devil's Film:",
-          "  - \"Cream Pie for the Straight Girl #01\"",
-          "  - \"Reverse Interracial Gang Bang #01\"",
-          "- Hands on Hardcore",
-          "- Hot Legs and Feet",
-          "- Give Me Teens \"18 Year Old Pussy #06\"",
-          "- Mike's Apartment",
-          "- Only Blowjob",
-          "- Rocco Siffredi"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=virginia_cz_04/gender=f/virginia.htm",
-          "https://www.indexxx.com/m/virginia"
-        ]
-      },
-      {
-        "id": "833540a8-306c-40aa-ac53-81c907216620",
-        "name": "Tina Hunter",
-        "notes": [
-          "- Euro Girls on Girls",
-          "- Eve Angel Official"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=tinahunter/gender=f/tina-hunter.htm",
-          "https://www.indexxx.com/m/tina-hunter"
-        ]
-      },
-      {
-        "id": "2d4ede35-cab9-4048-80a2-cc8b97371a64",
-        "name": "Prada (Russian, 2006-2015)",
-        "notes": [
-          "- Devil's Film:",
-          "  - \"Anal POV #08\"",
-          "  - \"Throat Bangers #13\"",
-          "- Give Me Teens \"Teen Cum Swappers #02\""
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jenifer_06/gender=f/jenifer.htm",
-          "https://www.indexxx.com/m/prada"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Virginia (2003, Naughty America)",
-        "text": "Naughty Bookworms",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=virginia_na_03/gender=f/virginia.htm",
-          "https://www.indexxx.com/m/virginia-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-03-30)"
-    ]
-  }
-}
+split:
+  name: Virginia
+  fragments:
+    - id: null
+      name: Virginia ?
+      text: 'most scenes:'
+      notes:
+        - '- 1By-Day'
+        - '- Devil''s Film:'
+        - '  - "Cream Pie for the Straight Girl #01"'
+        - '  - "Reverse Interracial Gang Bang #01"'
+        - '- Hands on Hardcore'
+        - '- Hot Legs and Feet'
+        - '- Give Me Teens "18 Year Old Pussy #06"'
+        - '- Mike''s Apartment'
+        - '- Only Blowjob'
+        - '- Rocco Siffredi'
+      links:
+        - https://www.iafd.com/person.rme/perfid=virginia_cz_04/gender=f/virginia.htm
+        - https://www.indexxx.com/m/virginia
+    - id: 833540a8-306c-40aa-ac53-81c907216620
+      name: Tina Hunter
+      notes:
+        - '- Euro Girls on Girls'
+        - '- Eve Angel Official'
+      links:
+        - https://www.iafd.com/person.rme/perfid=tinahunter/gender=f/tina-hunter.htm
+        - https://www.indexxx.com/m/tina-hunter
+    - id: 2d4ede35-cab9-4048-80a2-cc8b97371a64
+      name: Prada (Russian, 2006-2015)
+      notes:
+        - '- Devil''s Film:'
+        - '  - "Anal POV #08"'
+        - '  - "Throat Bangers #13"'
+        - '- Give Me Teens "Teen Cum Swappers #02"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=jenifer_06/gender=f/jenifer.htm
+        - https://www.indexxx.com/m/prada
+    - id: null
+      name: Virginia (2003, Naughty America)
+      text: Naughty Bookworms
+      links:
+        - https://www.iafd.com/person.rme/perfid=virginia_na_03/gender=f/virginia.htm
+        - https://www.indexxx.com/m/virginia-1
+  notes:
+    - Mix of multiple performers (complete list as of 2023-03-30)

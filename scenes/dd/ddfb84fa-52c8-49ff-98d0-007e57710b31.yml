@@ -1,21 +1,13 @@
-{
-  "c_studio": [
-    "Boys First Time",
-    null
-  ],
-  "comments": [
-    "Performer removed without creating a new one"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Adrian",
-        "appearance": null,
-        "disambiguation": "Boys First Time",
-        "status": "new"
-      }
-    ]
-  }
-}
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - Performer removed without creating a new one
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Adrian
+      appearance: null
+      disambiguation: Boys First Time
+      status: new

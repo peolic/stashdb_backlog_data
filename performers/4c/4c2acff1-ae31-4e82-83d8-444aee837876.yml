@@ -1,20 +1,11 @@
-{
-  "split": {
-    "name": "Ray",
-    "shards": [
-      {
-        "id": null,
-        "name": "Ray (Nasty Angels)",
-        "text": "2011 scene"
-      },
-      {
-        "id": null,
-        "name": "Ray (Home Porno Tapes)",
-        "text": "2012 scene"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Ray
+  fragments:
+    - id: null
+      name: Ray (Nasty Angels)
+      text: 2011 scene
+    - id: null
+      name: Ray (Home Porno Tapes)
+      text: 2012 scene
+  notes:
+    - Mix of multiple performers (partial list)

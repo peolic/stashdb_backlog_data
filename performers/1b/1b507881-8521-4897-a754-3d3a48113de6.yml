@@ -1,47 +1,29 @@
-{
-  "split": {
-    "name": "Dennis",
-    "shards": [
-      {
-        "id": "0affbeac-d897-4af6-9659-688cdceb096e",
-        "name": "Dennis Goore",
-        "notes": [
-          "- \u0002The Score Group\u0003",
-          "- \u0002Granny Ghetto\u0003",
-          "- Rocco Siffredi"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dennis_eu/gender=m/dennis.htm",
-          "https://www.pornmegaload.com/male-performer/Dennis/8321/"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Dennis (2002-2003, Tranny Surprise)",
-        "text": "Tranny Surprise",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dennis_03_rk/gender=m/dennis.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Dennis (2002, 8th Street Latinas)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dennis_rk/gender=m/dennis.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Dennis (2002, Cum Fiesta)",
-        "text": "Cum Fiesta",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dennis_blk_rk/gender=m/dennis.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Dennis
+  fragments:
+    - id: 0affbeac-d897-4af6-9659-688cdceb096e
+      name: Dennis Goore
+      notes:
+        - "- \x02The Score Group\x03"
+        - "- \x02Granny Ghetto\x03"
+        - '- Rocco Siffredi'
+      links:
+        - https://www.iafd.com/person.rme/perfid=dennis_eu/gender=m/dennis.htm
+        - https://www.pornmegaload.com/male-performer/Dennis/8321/
+    - id: null
+      name: Dennis (2002-2003, Tranny Surprise)
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=dennis_03_rk/gender=m/dennis.htm
+    - id: null
+      name: Dennis (2002, 8th Street Latinas)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=dennis_rk/gender=m/dennis.htm
+    - id: null
+      name: Dennis (2002, Cum Fiesta)
+      text: Cum Fiesta
+      links:
+        - https://www.iafd.com/person.rme/perfid=dennis_blk_rk/gender=m/dennis.htm
+  notes:
+    - Mix of multiple performers (partial list)

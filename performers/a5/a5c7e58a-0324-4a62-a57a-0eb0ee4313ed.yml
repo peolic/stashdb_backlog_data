@@ -1,25 +1,14 @@
-{
-  "split": {
-    "name": "Josh",
-    "shards": [
-      {
-        "id": null,
-        "name": "Josh (DirtyFlix, 18videoz)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vitaliy_rus/gender=m/vitaliy.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Josh (ALS Scan)",
-        "text": "ALS Scan",
-        "links": [
-          "https://www.alsscan.com/model/josh/movies/latest"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Josh
+  fragments:
+    - id: null
+      name: Josh (DirtyFlix, 18videoz)
+      links:
+        - https://www.iafd.com/person.rme/perfid=vitaliy_rus/gender=m/vitaliy.htm
+    - id: null
+      name: Josh (ALS Scan)
+      text: ALS Scan
+      links:
+        - https://www.alsscan.com/model/josh/movies/latest
+  notes:
+    - Mix of multiple performers (partial list)

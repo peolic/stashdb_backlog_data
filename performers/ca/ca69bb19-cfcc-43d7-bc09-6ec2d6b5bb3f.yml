@@ -1,20 +1,12 @@
-{
-  "split": {
-    "name": "Lusya",
-    "shards": [
-      {
-        "id": "19f13519-e60a-4622-bcce-15d35e3cc1d6",
-        "name": "Sarah Creta AKA Sarah C",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ariel_09_russ/gender=f/ariel.htm",
-          "https://www.indexxx.com/m/katty",
-          "https://teenmegaworld.net/models/lusya.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Lusya
+  fragments:
+    - id: 19f13519-e60a-4622-bcce-15d35e3cc1d6
+      name: Sarah Creta AKA Sarah C
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=ariel_09_russ/gender=f/ariel.htm
+        - https://www.indexxx.com/m/katty
+        - https://teenmegaworld.net/models/lusya.html
+  notes:
+    - Mix of multiple performers (partial list)

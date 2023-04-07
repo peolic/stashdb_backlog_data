@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Karin",
-    "shards": [
-      {
-        "id": "de192844-1bb7-4bd0-9ab5-be19ed65dc5d",
-        "name": "Carin Kay",
-        "text": "Karin @ Nubiles.net",
-        "links": [
-          "https://www.indexxx.com/m/carin-kay"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Karin
+  fragments:
+    - id: de192844-1bb7-4bd0-9ab5-be19ed65dc5d
+      name: Carin Kay
+      text: Karin @ Nubiles.net
+      links:
+        - https://www.indexxx.com/m/carin-kay
+  notes:
+    - Mix of multiple performers (partial list)

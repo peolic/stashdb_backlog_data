@@ -1,38 +1,24 @@
-{
-  "c_studio": [
-    "Net Video Girls",
-    null
-  ],
-  "comments": [
-    "https://imagetwist.com/3qlvvnnrvdg6/www.0xxx.ws_NetVideoGirls.16.09.01.Jordan.Returns.XXX.2160p.MP4-KTR.mp4-5.jpg",
-    "https://www.iafd.com/title.rme/title=netvideogirls+848%3a+jordan/year=2016/netvideogirls_848%3a_jordan.htm"
-  ],
-  "date": "2016-09-01",
-  "performers": {
-    "remove": [
-      {
-        "id": "731504f8-529f-4866-83d1-16b0d93e23fa",
-        "name": "Jordan",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Rin Belle",
-        "appearance": "Jordan",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=rinbelle/gender=f/rin-belle.htm",
-        "notes": [
-          "https://www.boobpedia.com/boobs/Rin_Belle",
-          "http://web.archive.org/web/20170122014722/http://360modelsagency.com/profile/rin-belle/"
-        ]
-      },
-      {
-        "id": "781c8dea-4dd0-4ea6-ba72-d64ffd445208",
-        "name": "Tyler D.",
-        "appearance": "Tyler"
-      }
-    ]
-  }
-}
+c_studio:
+  - Net Video Girls
+  - null
+comments:
+  - https://imagetwist.com/3qlvvnnrvdg6/www.0xxx.ws_NetVideoGirls.16.09.01.Jordan.Returns.XXX.2160p.MP4-KTR.mp4-5.jpg
+  - https://www.iafd.com/title.rme/title=netvideogirls+848%3a+jordan/year=2016/netvideogirls_848%3a_jordan.htm
+date: '2016-09-01'
+performers:
+  remove:
+    - id: 731504f8-529f-4866-83d1-16b0d93e23fa
+      name: Jordan
+      appearance: null
+  append:
+    - id: null
+      name: Rin Belle
+      appearance: Jordan
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=rinbelle/gender=f/rin-belle.htm
+      notes:
+        - https://www.boobpedia.com/boobs/Rin_Belle
+        - http://web.archive.org/web/20170122014722/http://360modelsagency.com/profile/rin-belle/
+    - id: 781c8dea-4dd0-4ea6-ba72-d64ffd445208
+      name: Tyler D.
+      appearance: Tyler

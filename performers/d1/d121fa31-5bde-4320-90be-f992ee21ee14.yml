@@ -1,31 +1,19 @@
-{
-  "split": {
-    "name": "Elana",
-    "shards": [
-      {
-        "id": "e392be3c-4450-44a2-b13a-d1d9deb8d8e1",
-        "name": "Elena (RU, 1998-2006) AKA Elena A",
-        "text": "Peter North",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=elena/gender=f/elena.htm"
-        ]
-      },
-      {
-        "id": "56a47d56-e308-439b-bf35-7f1a684cc6cd",
-        "name": "Elena Rivera",
-        "text": "Net Video Girls",
-        "notes": [
-          "Ep 2007.01 - (Carmen and) Elana = Elena Rivera "
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=elenarivera/gender=f/elena-rivera.htm",
-          "https://www.indexxx.com/m/elena-rivera",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-03-29)"
-    ]
-  }
-}
+split:
+  name: Elana
+  fragments:
+    - id: e392be3c-4450-44a2-b13a-d1d9deb8d8e1
+      name: Elena (RU, 1998-2006) AKA Elena A
+      text: Peter North
+      links:
+        - https://www.iafd.com/person.rme/perfid=elena/gender=f/elena.htm
+    - id: 56a47d56-e308-439b-bf35-7f1a684cc6cd
+      name: Elena Rivera
+      text: Net Video Girls
+      notes:
+        - 'Ep 2007.01 - (Carmen and) Elana = Elena Rivera '
+      links:
+        - https://www.iafd.com/person.rme/perfid=elenarivera/gender=f/elena-rivera.htm
+        - https://www.indexxx.com/m/elena-rivera
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804
+  notes:
+    - Mix of multiple performers (complete list as of 2023-03-29)

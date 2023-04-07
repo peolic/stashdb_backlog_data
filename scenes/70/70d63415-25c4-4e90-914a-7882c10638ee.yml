@@ -1,31 +1,19 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=no+panties+allowed/year=2008/no-panties-allowed.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "c7add0da-01c0-4f23-b71f-67dc34220f42",
-        "name": "Eva",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Envi",
-        "appearance": "Eva",
-        "disambiguation": "2008",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=envi_lez_2008/gender=f/envi.htm",
-        "notes": [
-          "https://www.indexxx.com/m/eva-4"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=no+panties+allowed/year=2008/no-panties-allowed.htm
+performers:
+  remove:
+    - id: c7add0da-01c0-4f23-b71f-67dc34220f42
+      name: Eva
+      appearance: null
+  append:
+    - id: null
+      name: Envi
+      appearance: Eva
+      disambiguation: '2008'
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=envi_lez_2008/gender=f/envi.htm
+      notes:
+        - https://www.indexxx.com/m/eva-4

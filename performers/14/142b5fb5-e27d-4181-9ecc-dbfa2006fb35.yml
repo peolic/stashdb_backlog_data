@@ -1,34 +1,22 @@
-{
-  "split": {
-    "name": "Julian",
-    "shards": [
-      {
-        "id": "14f3c14a-d22f-4277-9734-5a048eb182c5",
-        "name": "Julian Rios",
-        "notes": [
-          "- Cumshot Oasis",
-          "- Peter North",
-          "- New Sensations",
-          "- Suze Randall",
-          "- Vivid",
-          "- Wicked"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=julian/gender=m/julian.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Julian (2004, Reality Kings)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=julian_rk_04/gender=f/julian.htm",
-          "https://www.indexxx.com/m/julian"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Julian
+  fragments:
+    - id: 14f3c14a-d22f-4277-9734-5a048eb182c5
+      name: Julian Rios
+      notes:
+        - '- Cumshot Oasis'
+        - '- Peter North'
+        - '- New Sensations'
+        - '- Suze Randall'
+        - '- Vivid'
+        - '- Wicked'
+      links:
+        - https://www.iafd.com/person.rme/perfid=julian/gender=m/julian.htm
+    - id: null
+      name: Julian (2004, Reality Kings)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=julian_rk_04/gender=f/julian.htm
+        - https://www.indexxx.com/m/julian
+  notes:
+    - Mix of multiple performers (partial list)

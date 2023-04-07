@@ -1,27 +1,15 @@
-{
-  "split": {
-    "name": "Curtis",
-    "shards": [
-      {
-        "id": null,
-        "name": "Curtis (DickDorm)",
-        "notes": [
-          "no info, all performers linked to scene are possibly useless"
-        ],
-        "links": [
-          "https://www.iafd.com/title.rme/title=give+me+balls/year=2011/give-me-balls.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Curtis (18videoz, DirtyFlix)",
-        "notes": [
-          "possibly all the same guy?"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Curtis
+  fragments:
+    - id: null
+      name: Curtis (DickDorm)
+      notes:
+        - no info, all performers linked to scene are possibly useless
+      links:
+        - https://www.iafd.com/title.rme/title=give+me+balls/year=2011/give-me-balls.htm
+    - id: null
+      name: Curtis (18videoz, DirtyFlix)
+      notes:
+        - possibly all the same guy?
+  notes:
+    - Mix of multiple performers (partial list)

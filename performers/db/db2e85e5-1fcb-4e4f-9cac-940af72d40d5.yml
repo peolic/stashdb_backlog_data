@@ -1,93 +1,60 @@
-{
-  "split": {
-    "name": "Celeste",
-    "shards": [
-      {
-        "id": "94709f85-0174-4218-a9ed-7395c775e630",
-        "name": "Celeste (1992-2005)",
-        "notes": [
-          "- Rocco Siffredi",
-          "- Twistys",
-          "- Wicked",
-          "performer needs disambiguation, birthday correction and links"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celeste/gender=f/celeste.htm",
-          "https://www.indexxx.com/m/celeste-1",
-          "https://www.wicked.com/en/pornstar/view/Celeste/58992"
-        ]
-      },
-      {
-        "id": "27ec558c-9912-4963-900a-55a4b741f7b5",
-        "name": "Celeste Star",
-        "notes": [
-          "- Nubiles",
-          "- \u0002We Live Together\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celestestar/gender=f/celeste-star.htm",
-          "https://www.indexxx.com/m/celeste-star"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Celeste (2008, Naughty America)",
-        "text": "Latin Adultery",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celeste_arg/gender=f/celeste.htm",
-          "https://www.indexxx.com/m/celeste-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Celeste (2015, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celeste_backroomcastingcouch/gender=f/celeste.htm",
-          "https://www.backroomcastingcouch.com/models/celeste.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Celeste (2003, Reality Kings)",
-        "text": "Captain Stabbin",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celeste_rk_03/gender=f/celeste.htm",
-          "https://www.indexxx.com/m/celeste-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Celeste (2004, Reality Kings)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celeste_rk_04/gender=f/celeste.htm",
-          "https://www.indexxx.com/m/celeste-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Celeste (2007, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celeste_07/gender=f/celeste.htm",
-          "https://www.indexxx.com/m/celeste-4"
-        ]
-      },
-      {
-        "id": "6f20d1ec-3458-4a23-9bb4-300e452ededa",
-        "name": "Celeste Fuentes",
-        "text": "Tranny Surprise",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=celestefuentests/gender=f/celeste-fuentes.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Celeste (18 Flesh)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-09)"
-    ]
-  }
-}
+split:
+  name: Celeste
+  fragments:
+    - id: 94709f85-0174-4218-a9ed-7395c775e630
+      name: Celeste (1992-2005)
+      notes:
+        - '- Rocco Siffredi'
+        - '- Twistys'
+        - '- Wicked'
+        - performer needs disambiguation, birthday correction and links
+      links:
+        - https://www.iafd.com/person.rme/perfid=celeste/gender=f/celeste.htm
+        - https://www.indexxx.com/m/celeste-1
+        - https://www.wicked.com/en/pornstar/view/Celeste/58992
+    - id: 27ec558c-9912-4963-900a-55a4b741f7b5
+      name: Celeste Star
+      notes:
+        - '- Nubiles'
+        - "- \x02We Live Together\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=celestestar/gender=f/celeste-star.htm
+        - https://www.indexxx.com/m/celeste-star
+    - id: null
+      name: Celeste (2008, Naughty America)
+      text: Latin Adultery
+      links:
+        - https://www.iafd.com/person.rme/perfid=celeste_arg/gender=f/celeste.htm
+        - https://www.indexxx.com/m/celeste-5
+    - id: null
+      name: Celeste (2015, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=celeste_backroomcastingcouch/gender=f/celeste.htm
+        - https://www.backroomcastingcouch.com/models/celeste.html
+    - id: null
+      name: Celeste (2003, Reality Kings)
+      text: Captain Stabbin
+      links:
+        - https://www.iafd.com/person.rme/perfid=celeste_rk_03/gender=f/celeste.htm
+        - https://www.indexxx.com/m/celeste-3
+    - id: null
+      name: Celeste (2004, Reality Kings)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=celeste_rk_04/gender=f/celeste.htm
+        - https://www.indexxx.com/m/celeste-2
+    - id: null
+      name: Celeste (2007, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=celeste_07/gender=f/celeste.htm
+        - https://www.indexxx.com/m/celeste-4
+    - id: 6f20d1ec-3458-4a23-9bb4-300e452ededa
+      name: Celeste Fuentes
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=celestefuentests/gender=f/celeste-fuentes.htm
+    - id: null
+      name: Celeste (18 Flesh)
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-09)

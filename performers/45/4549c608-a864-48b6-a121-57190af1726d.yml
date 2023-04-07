@@ -1,33 +1,21 @@
-{
-  "split": {
-    "name": "Berta",
-    "shards": [
-      {
-        "id": "bfe2ce2c-879a-4263-943d-5d01a9272142",
-        "name": "Saskia Lorensen",
-        "notes": [
-          "\u0002- Teen Mega World\u0003",
-          "- 18videoz ?"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=saskialorensen/gender=f/saskia-lorensen.htm",
-          "https://www.indexxx.com/m/grace-6",
-          "https://teenmegaworld.net/models/berta.html",
-          "http://www.pornteengirl.com/model/berta.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Freya",
-        "text": "Fab Sluts",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=freya_15/gender=f/freya.htm",
-          "https://www.indexxx.com/m/freya-2"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Berta
+  fragments:
+    - id: bfe2ce2c-879a-4263-943d-5d01a9272142
+      name: Saskia Lorensen
+      notes:
+        - "\x02- Teen Mega World\x03"
+        - '- 18videoz ?'
+      links:
+        - https://www.iafd.com/person.rme/perfid=saskialorensen/gender=f/saskia-lorensen.htm
+        - https://www.indexxx.com/m/grace-6
+        - https://teenmegaworld.net/models/berta.html
+        - http://www.pornteengirl.com/model/berta.html
+    - id: null
+      name: Freya
+      text: Fab Sluts
+      links:
+        - https://www.iafd.com/person.rme/perfid=freya_15/gender=f/freya.htm
+        - https://www.indexxx.com/m/freya-2
+  notes:
+    - Mix of multiple performers (partial list)

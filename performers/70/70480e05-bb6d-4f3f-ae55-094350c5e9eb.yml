@@ -1,23 +1,14 @@
-{
-  "split": {
-    "name": "Kiss",
-    "shards": [
-      {
-        "id": "6213f58c-0d03-4841-a1f9-1c64c2348563",
-        "name": "Kiss (UK, 1991-2010)",
-        "notes": [
-          "- Evil Angel",
-          "- Glory Hole",
-          "- Lesbian Factor"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kiss/gender=f/kiss.htm",
-          "https://www.indexxx.com/m/kriss-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-24)"
-    ]
-  }
-}
+split:
+  name: Kiss
+  fragments:
+    - id: 6213f58c-0d03-4841-a1f9-1c64c2348563
+      name: Kiss (UK, 1991-2010)
+      notes:
+        - '- Evil Angel'
+        - '- Glory Hole'
+        - '- Lesbian Factor'
+      links:
+        - https://www.iafd.com/person.rme/perfid=kiss/gender=f/kiss.htm
+        - https://www.indexxx.com/m/kriss-1
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-24)

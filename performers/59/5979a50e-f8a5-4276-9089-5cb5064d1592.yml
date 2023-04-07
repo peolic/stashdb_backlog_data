@@ -1,42 +1,27 @@
-{
-  "split": {
-    "name": "Cherie",
-    "shards": [
-      {
-        "id": "1401fadc-e7cf-468e-8bf6-e9ed53fbdcd2",
-        "name": "Cherie Houston",
-        "notes": [
-          "- BangBros",
-          "- Devil's Film (Network)",
-          "- Twistys",
-          "- Wicked"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=cherie/gender=f/cherie.htm",
-          "https://www.indexxx.com/m/cherie-houston"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Cherie",
-        "text": "Captain Stabbin",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=cherie_rk_04/gender=f/cherie.htm",
-          "https://www.indexxx.com/m/cherie-2"
-        ]
-      },
-      {
-        "id": "9cd66d9b-79f1-4704-a287-33aeff26f40e",
-        "name": "Cherry Poppens",
-        "text": "Naughty Bookworms",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=cherrypoppens/gender=f/cherry-poppens.htm",
-          "https://www.indexxx.com/m/cherry-poppens"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-12-23)"
-    ]
-  }
-}
+split:
+  name: Cherie
+  fragments:
+    - id: 1401fadc-e7cf-468e-8bf6-e9ed53fbdcd2
+      name: Cherie Houston
+      notes:
+        - '- BangBros'
+        - '- Devil''s Film (Network)'
+        - '- Twistys'
+        - '- Wicked'
+      links:
+        - https://www.iafd.com/person.rme/perfid=cherie/gender=f/cherie.htm
+        - https://www.indexxx.com/m/cherie-houston
+    - id: null
+      name: Cherie
+      text: Captain Stabbin
+      links:
+        - https://www.iafd.com/person.rme/perfid=cherie_rk_04/gender=f/cherie.htm
+        - https://www.indexxx.com/m/cherie-2
+    - id: 9cd66d9b-79f1-4704-a287-33aeff26f40e
+      name: Cherry Poppens
+      text: Naughty Bookworms
+      links:
+        - https://www.iafd.com/person.rme/perfid=cherrypoppens/gender=f/cherry-poppens.htm
+        - https://www.indexxx.com/m/cherry-poppens
+  notes:
+    - Mix of multiple performers (complete list as of 2022-12-23)

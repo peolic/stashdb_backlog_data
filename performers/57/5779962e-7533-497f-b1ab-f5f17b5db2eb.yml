@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Mel",
-    "shards": [
-      {
-        "id": null,
-        "name": "Mel (Sean Cody 2005)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/90408"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Mel
+  fragments:
+    - id: null
+      name: Mel (Sean Cody 2005)
+      links:
+        - https://gayeroticvideoindex.com/performer/90408
+  notes:
+    - Mix of multiple performers (partial list)

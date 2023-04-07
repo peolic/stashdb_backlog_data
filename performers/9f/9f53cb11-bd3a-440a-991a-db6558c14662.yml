@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Isabela",
-    "shards": [
-      {
-        "id": null,
-        "name": "Isabela Dias or Isabela Moraes",
-        "text": "(Mike in Brazil)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=isabela_panteras/gender=f/isabela.htm",
-          "https://www.indexxx.com/m/isabela-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Isabela (1990, Evil Angel)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=isabella_br_90/gender=f/isabella.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-03)"
-    ]
-  }
-}
+split:
+  name: Isabela
+  fragments:
+    - id: null
+      name: Isabela Dias or Isabela Moraes
+      text: (Mike in Brazil)
+      links:
+        - https://www.iafd.com/person.rme/perfid=isabela_panteras/gender=f/isabela.htm
+        - https://www.indexxx.com/m/isabela-1
+    - id: null
+      name: Isabela (1990, Evil Angel)
+      links:
+        - https://www.iafd.com/person.rme/perfid=isabella_br_90/gender=f/isabella.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-03)

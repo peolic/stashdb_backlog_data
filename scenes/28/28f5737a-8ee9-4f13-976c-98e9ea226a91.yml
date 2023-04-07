@@ -1,46 +1,29 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "ea187f24dbe708c2",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    },
-    {
-      "algorithm": "md5",
-      "hash": "62c823be0ba735a79b00dd4529b56b02",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "f0985e779865c91e",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    },
-    {
-      "algorithm": "phash",
-      "hash": "ea127f24dbe708c2",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "7bc46fc8dfaf5da0",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    },
-    {
-      "algorithm": "md5",
-      "hash": "8c04fa19277d766906fb765af641b5cc",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "62a069bc8d827baf",
-      "correct_scene_id": "1e6a85ec-c7ac-4b68-a74c-cdc85caa5337",
-      "duration": 2648
-    }
-  ]
-}
+fingerprints:
+  - algorithm: phash
+    hash: ea187f24dbe708c2
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648
+  - algorithm: md5
+    hash: 62c823be0ba735a79b00dd4529b56b02
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648
+  - algorithm: oshash
+    hash: f0985e779865c91e
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648
+  - algorithm: phash
+    hash: ea127f24dbe708c2
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648
+  - algorithm: oshash
+    hash: 7bc46fc8dfaf5da0
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648
+  - algorithm: md5
+    hash: 8c04fa19277d766906fb765af641b5cc
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648
+  - algorithm: oshash
+    hash: 62a069bc8d827baf
+    correct_scene_id: 1e6a85ec-c7ac-4b68-a74c-cdc85caa5337
+    duration: 2648

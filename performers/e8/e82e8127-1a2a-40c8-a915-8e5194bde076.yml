@@ -1,25 +1,14 @@
-{
-  "split": {
-    "name": "Maxine",
-    "shards": [
-      {
-        "id": null,
-        "name": "Maxine A",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=maxine_ddf/gender=f/maxine.htm",
-          "https://www.indexxx.com/m/maxine-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Maxine (lustygrandmas)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=maxine_lg/gender=f/maxine.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-05-12)"
-    ]
-  }
-}
+split:
+  name: Maxine
+  fragments:
+    - id: null
+      name: Maxine A
+      links:
+        - https://www.iafd.com/person.rme/perfid=maxine_ddf/gender=f/maxine.htm
+        - https://www.indexxx.com/m/maxine-2
+    - id: null
+      name: Maxine (lustygrandmas)
+      links:
+        - https://www.iafd.com/person.rme/perfid=maxine_lg/gender=f/maxine.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-05-12)

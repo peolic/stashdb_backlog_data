@@ -1,46 +1,29 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "c8dcd691e3b23694",
-      "correct_scene_id": "4a55302d-3a11-47d0-8a53-e2071560e012",
-      "duration": 3055
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "5c03a6fdb494006c",
-      "correct_scene_id": "4a55302d-3a11-47d0-8a53-e2071560e012",
-      "duration": 3055
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "9ac0bb7927ccc53a",
-      "correct_scene_id": "4a55302d-3a11-47d0-8a53-e2071560e012",
-      "duration": 3055
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "d59cde8dd6111a0d",
-      "correct_scene_id": "4a55302d-3a11-47d0-8a53-e2071560e012",
-      "duration": 3055
-    },
-    {
-      "algorithm": "md5",
-      "hash": "5063bd1374f0b413a556ac7b7c41c651",
-      "correct_scene_id": "4a55302d-3a11-47d0-8a53-e2071560e012",
-      "duration": 3055
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "9476cdb7bf37b0f3",
-      "correct_scene_id": null,
-      "duration": 600
-    },
-    {
-      "algorithm": "phash",
-      "hash": "8ccbe129d38ca6ea",
-      "correct_scene_id": null,
-      "duration": 600
-    }
-  ]
-}
+fingerprints:
+  - algorithm: phash
+    hash: c8dcd691e3b23694
+    correct_scene_id: 4a55302d-3a11-47d0-8a53-e2071560e012
+    duration: 3055
+  - algorithm: oshash
+    hash: 5c03a6fdb494006c
+    correct_scene_id: 4a55302d-3a11-47d0-8a53-e2071560e012
+    duration: 3055
+  - algorithm: oshash
+    hash: 9ac0bb7927ccc53a
+    correct_scene_id: 4a55302d-3a11-47d0-8a53-e2071560e012
+    duration: 3055
+  - algorithm: oshash
+    hash: d59cde8dd6111a0d
+    correct_scene_id: 4a55302d-3a11-47d0-8a53-e2071560e012
+    duration: 3055
+  - algorithm: md5
+    hash: 5063bd1374f0b413a556ac7b7c41c651
+    correct_scene_id: 4a55302d-3a11-47d0-8a53-e2071560e012
+    duration: 3055
+  - algorithm: oshash
+    hash: 9476cdb7bf37b0f3
+    correct_scene_id: null
+    duration: 600
+  - algorithm: phash
+    hash: 8ccbe129d38ca6ea
+    correct_scene_id: null
+    duration: 600

@@ -1,83 +1,54 @@
-{
-  "split": {
-    "name": "Sofie",
-    "shards": [
-      {
-        "id": "e0ff5e48-0dc8-48b7-bcfb-223573b17f52",
-        "name": "Ebba Sofie",
-        "text": "(incorrect alias)",
-        "notes": [
-          "- Czech VR"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ebbasofie/gender=f/ebba-sofie.htm",
-          "https://www.indexxx.com/m/ebba-sofie"
-        ]
-      },
-      {
-        "id": "717977dd-bd23-4752-859e-3579a6c8f3ce",
-        "name": "Sofie H.",
-        "text": "Interracial Vision",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sofie_16_cz/gender=f/sofie.htm",
-          "https://www.indexxx.com/m/sofie-h"
-        ]
-      },
-      {
-        "id": "1524dce9-fc74-4bac-b0eb-b5a8715b4c0d",
-        "name": "Naomi Nevena",
-        "notes": [
-          "- Gonzo",
-          "- Doghouse Digital",
-          "- \u0002SexyHub\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=naominevena/gender=f/naomi-nevena.htm",
-          "https://www.indexxx.com/m/naomi-nevena"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sofie (2009, White Ghetto)",
-        "notes": [
-          "- Bushy Bushy",
-          "- Hairy Twatter"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sofie_wg/gender=f/sofie.htm",
-          "https://www.indexxx.com/m/sofi-b"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sofie (2011, 21 Sextreme)",
-        "text": "Mighty Mistress",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sofie_11/gender=f/sofie.htm",
-          "https://www.indexxx.com/m/sofie"
-        ]
-      },
-      {
-        "id": "c7415bd8-fcc9-4297-a871-486bf1b9660f",
-        "name": "Sofie Lilith",
-        "text": "MetArt",
-        "links": [
-          "https://www.indexxx.com/m/sofie-lilith",
-          "https://www.thenude.com/_43383.htm",
-          "https://www.boobpedia.com/boobs/Sofie_Lilith"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sofie (2007, White Ghetto)",
-        "text": "Granny Ghetto",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sofie_granny/gender=f/sofie.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-03)"
-    ]
-  }
-}
+split:
+  name: Sofie
+  fragments:
+    - id: e0ff5e48-0dc8-48b7-bcfb-223573b17f52
+      name: Ebba Sofie
+      text: (incorrect alias)
+      notes:
+        - '- Czech VR'
+      links:
+        - https://www.iafd.com/person.rme/perfid=ebbasofie/gender=f/ebba-sofie.htm
+        - https://www.indexxx.com/m/ebba-sofie
+    - id: 717977dd-bd23-4752-859e-3579a6c8f3ce
+      name: Sofie H.
+      text: Interracial Vision
+      links:
+        - https://www.iafd.com/person.rme/perfid=sofie_16_cz/gender=f/sofie.htm
+        - https://www.indexxx.com/m/sofie-h
+    - id: 1524dce9-fc74-4bac-b0eb-b5a8715b4c0d
+      name: Naomi Nevena
+      notes:
+        - '- Gonzo'
+        - '- Doghouse Digital'
+        - "- \x02SexyHub\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=naominevena/gender=f/naomi-nevena.htm
+        - https://www.indexxx.com/m/naomi-nevena
+    - id: null
+      name: Sofie (2009, White Ghetto)
+      notes:
+        - '- Bushy Bushy'
+        - '- Hairy Twatter'
+      links:
+        - https://www.iafd.com/person.rme/perfid=sofie_wg/gender=f/sofie.htm
+        - https://www.indexxx.com/m/sofi-b
+    - id: null
+      name: Sofie (2011, 21 Sextreme)
+      text: Mighty Mistress
+      links:
+        - https://www.iafd.com/person.rme/perfid=sofie_11/gender=f/sofie.htm
+        - https://www.indexxx.com/m/sofie
+    - id: c7415bd8-fcc9-4297-a871-486bf1b9660f
+      name: Sofie Lilith
+      text: MetArt
+      links:
+        - https://www.indexxx.com/m/sofie-lilith
+        - https://www.thenude.com/_43383.htm
+        - https://www.boobpedia.com/boobs/Sofie_Lilith
+    - id: null
+      name: Sofie (2007, White Ghetto)
+      text: Granny Ghetto
+      links:
+        - https://www.iafd.com/person.rme/perfid=sofie_granny/gender=f/sofie.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-03)

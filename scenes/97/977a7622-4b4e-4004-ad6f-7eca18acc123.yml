@@ -1,27 +1,17 @@
-{
-  "c_studio": [
-    "Tugjobs",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=ariana%27s+handjob/year=2004/ariana&apos;s-handjob.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Ariana",
-        "appearance": null,
-        "disambiguation": "Latina, 2003-04",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=ariana_rk_03/gender=f/ariana.htm"
-      },
-      {
-        "id": "422e52f3-e15a-4e51-8475-c9a95a06a687",
-        "name": "Ramon Monster",
-        "appearance": "Ramon"
-      }
-    ]
-  }
-}
+c_studio:
+  - Tugjobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=ariana%27s+handjob/year=2004/ariana&apos;s-handjob.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Ariana
+      appearance: null
+      disambiguation: Latina, 2003-04
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=ariana_rk_03/gender=f/ariana.htm
+    - id: 422e52f3-e15a-4e51-8475-c9a95a06a687
+      name: Ramon Monster
+      appearance: Ramon

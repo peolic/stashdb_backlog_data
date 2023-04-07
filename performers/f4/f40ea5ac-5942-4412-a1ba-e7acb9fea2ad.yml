@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Joli",
-    "shards": [
-      {
-        "id": null,
-        "name": "Joli (2005-2006, BangBros)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=joli_bang_05/gender=f/joli.htm",
-          "https://www.indexxx.com/m/joli"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Joli (2004, Dogfart Network)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=joli_df04/gender=f/joli.htm",
-          "https://www.indexxx.com/m/joli-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-10)"
-    ]
-  }
-}
+split:
+  name: Joli
+  fragments:
+    - id: null
+      name: Joli (2005-2006, BangBros)
+      links:
+        - https://www.iafd.com/person.rme/perfid=joli_bang_05/gender=f/joli.htm
+        - https://www.indexxx.com/m/joli
+    - id: null
+      name: Joli (2004, Dogfart Network)
+      links:
+        - https://www.iafd.com/person.rme/perfid=joli_df04/gender=f/joli.htm
+        - https://www.indexxx.com/m/joli-1
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-10)

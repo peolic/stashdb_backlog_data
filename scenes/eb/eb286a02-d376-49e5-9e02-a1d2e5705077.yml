@@ -1,27 +1,18 @@
-{
-  "c_studio": [
-    "Big Mouthfuls",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=mandy%27s+mouthful/year=2004/mandy%27s-mouthful.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Mandy Taylor",
-        "appearance": "Mandy",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=mandytaylor/gender=f/mandy-taylor.htm",
-        "notes": [
-          "https://www.indexxx.com/m/mandy-5",
-          "https://www.boobpedia.com/boobs/Mandy_Taylor",
-          "https://www.freeones.com/mandy-taylor",
-          "https://www.babepedia.com/babe/Mandy_Taylor"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - Big Mouthfuls
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=mandy%27s+mouthful/year=2004/mandy%27s-mouthful.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Mandy Taylor
+      appearance: Mandy
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=mandytaylor/gender=f/mandy-taylor.htm
+      notes:
+        - https://www.indexxx.com/m/mandy-5
+        - https://www.boobpedia.com/boobs/Mandy_Taylor
+        - https://www.freeones.com/mandy-taylor
+        - https://www.babepedia.com/babe/Mandy_Taylor

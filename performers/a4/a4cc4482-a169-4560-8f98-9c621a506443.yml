@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Ty",
-    "shards": [
-      {
-        "id": null,
-        "name": "Ty (Sean Cody)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/90484"
-        ]
-      }
-    ],
-    "notes": [
-      "One of two performers listed"
-    ]
-  }
-}
+split:
+  name: Ty
+  fragments:
+    - id: null
+      name: Ty (Sean Cody)
+      links:
+        - https://gayeroticvideoindex.com/performer/90484
+  notes:
+    - One of two performers listed

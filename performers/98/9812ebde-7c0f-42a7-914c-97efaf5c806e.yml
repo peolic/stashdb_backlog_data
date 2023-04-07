@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Dustin",
-    "shards": [
-      {
-        "id": null,
-        "name": "Dustin (2011, Reality Kings)",
-        "text": "Dare Dorm",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dustin_dd_11/gender=m/dustin.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Dustin
+  fragments:
+    - id: null
+      name: Dustin (2011, Reality Kings)
+      text: Dare Dorm
+      links:
+        - https://www.iafd.com/person.rme/perfid=dustin_dd_11/gender=m/dustin.htm
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,24 +1,13 @@
-{
-  "split": {
-    "name": "Zachary",
-    "shards": [
-      {
-        "id": null,
-        "name": "Zachary (Sean Cody 2009)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/101258"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Zachary (Sean Cody 2015)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/101262"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers"
-    ]
-  }
-}
+split:
+  name: Zachary
+  fragments:
+    - id: null
+      name: Zachary (Sean Cody 2009)
+      links:
+        - https://gayeroticvideoindex.com/performer/101258
+    - id: null
+      name: Zachary (Sean Cody 2015)
+      links:
+        - https://gayeroticvideoindex.com/performer/101262
+  notes:
+    - Mix of multiple performers

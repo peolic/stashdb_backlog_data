@@ -1,32 +1,20 @@
-{
-  "c_studio": [
-    "GF Revenge",
-    null
-  ],
-  "comments": [
-    "Matched by tattoo",
-    "https://www.data18.com/scenes/1184455"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "b6fb7b06-48ce-44a6-9dac-cee2ab34d5b9",
-        "name": "Cameron",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Cameron",
-        "appearance": null,
-        "disambiguation": "2012-13, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=cameron_12_rk/gender=f/cameron.htm",
-        "notes": [
-          "https://www.indexxx.com/m/cameron-9"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - Matched by tattoo
+  - https://www.data18.com/scenes/1184455
+performers:
+  remove:
+    - id: b6fb7b06-48ce-44a6-9dac-cee2ab34d5b9
+      name: Cameron
+      appearance: null
+  append:
+    - id: null
+      name: Cameron
+      appearance: null
+      disambiguation: 2012-13, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=cameron_12_rk/gender=f/cameron.htm
+      notes:
+        - https://www.indexxx.com/m/cameron-9

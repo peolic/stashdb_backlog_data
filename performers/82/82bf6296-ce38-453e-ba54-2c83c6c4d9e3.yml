@@ -1,91 +1,60 @@
-{
-  "split": {
-    "name": "Kelli",
-    "shards": [
-      {
-        "id": "fff9b307-f896-4843-8c3c-16b8bb376ffc",
-        "name": "Kelly Kline",
-        "text": "incorrect alias except Cum Fiesta:",
-        "notes": [
-          "- Brazzers",
-          "- Cum Fiesta",
-          "- Digital Playground",
-          "- Twistys",
-          "- Wicked"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kellykline/gender=f/kelly-kline.htm",
-          "https://www.indexxx.com/m/kelly-kline"
-        ]
-      },
-      {
-        "id": "bee2f0d9-8ba1-4b6c-a374-954e725137de",
-        "name": "Michelle Sweet",
-        "text": "Naughty Bookworms",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michellesweet/gender=f/michelle-sweet.htm",
-          "https://www.indexxx.com/m/michelle-sweet"
-        ]
-      },
-      {
-        "id": "cf2bb300-491d-4700-9a44-f17e611b1caf",
-        "name": "Kelly L. (2001-2008, Ukrainian)",
-        "text": "Rocco Siffredi",
-        "notes": [
-          "(Rocco's Fetish Extreme includes Animal Trainer #12 scene)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kelli_eu/gender=f/kelli.htm",
-          "https://www.indexxx.com/m/kelly-l"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kelly Carson",
-        "text": "Mike in Brazil",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kellycarson/gender=f/kelly-carson.htm",
-          "https://www.indexxx.com/m/kelli-2"
-        ]
-      },
-      {
-        "id": "6fcc3661-a465-482d-aea9-2238b5d1747f",
-        "name": "Kelle Marie",
-        "text": "MILF Next Door",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kellemarie/gender=f/kelle-marie.htm",
-          "https://www.indexxx.com/m/kelle-marie"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kelli Kyle",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kellikyle/gender=f/kelli-kyle.htm",
-          "https://www.indexxx.com/m/kelli-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Keli Anderson (2003-2008)",
-        "text": "In the VIP",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kelianderson/gender=f/keli-anderson.htm",
-          "https://www.indexxx.com/m/kelli-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kelly Bismarc",
-        "text": "Tranny Surprise",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kellybismarc/gender=f/kelly-bismarc.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-25)"
-    ]
-  }
-}
+split:
+  name: Kelli
+  fragments:
+    - id: fff9b307-f896-4843-8c3c-16b8bb376ffc
+      name: Kelly Kline
+      text: 'incorrect alias except Cum Fiesta:'
+      notes:
+        - '- Brazzers'
+        - '- Cum Fiesta'
+        - '- Digital Playground'
+        - '- Twistys'
+        - '- Wicked'
+      links:
+        - https://www.iafd.com/person.rme/perfid=kellykline/gender=f/kelly-kline.htm
+        - https://www.indexxx.com/m/kelly-kline
+    - id: bee2f0d9-8ba1-4b6c-a374-954e725137de
+      name: Michelle Sweet
+      text: Naughty Bookworms
+      links:
+        - https://www.iafd.com/person.rme/perfid=michellesweet/gender=f/michelle-sweet.htm
+        - https://www.indexxx.com/m/michelle-sweet
+    - id: cf2bb300-491d-4700-9a44-f17e611b1caf
+      name: Kelly L. (2001-2008, Ukrainian)
+      text: Rocco Siffredi
+      notes:
+        - '(Rocco''s Fetish Extreme includes Animal Trainer #12 scene)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=kelli_eu/gender=f/kelli.htm
+        - https://www.indexxx.com/m/kelly-l
+    - id: null
+      name: Kelly Carson
+      text: Mike in Brazil
+      links:
+        - https://www.iafd.com/person.rme/perfid=kellycarson/gender=f/kelly-carson.htm
+        - https://www.indexxx.com/m/kelli-2
+    - id: 6fcc3661-a465-482d-aea9-2238b5d1747f
+      name: Kelle Marie
+      text: MILF Next Door
+      links:
+        - https://www.iafd.com/person.rme/perfid=kellemarie/gender=f/kelle-marie.htm
+        - https://www.indexxx.com/m/kelle-marie
+    - id: null
+      name: Kelli Kyle
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=kellikyle/gender=f/kelli-kyle.htm
+        - https://www.indexxx.com/m/kelli-3
+    - id: null
+      name: Keli Anderson (2003-2008)
+      text: In the VIP
+      links:
+        - https://www.iafd.com/person.rme/perfid=kelianderson/gender=f/keli-anderson.htm
+        - https://www.indexxx.com/m/kelli-1
+    - id: null
+      name: Kelly Bismarc
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=kellybismarc/gender=f/kelly-bismarc.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-25)

@@ -1,38 +1,23 @@
-{
-  "split": {
-    "name": "Ariel",
-    "shards": [
-      {
-        "id": "19f13519-e60a-4622-bcce-15d35e3cc1d6",
-        "name": "Sarah Creta AKA Sarah C",
-        "text": "The Life Erotic",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ariel_09_russ/gender=f/ariel.htm",
-          "https://www.indexxx.com/m/katty"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ariella",
-        "notes": [
-          "- 1By-Day",
-          "- More ?"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ariella_11/gender=f/ariella.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ariel (2013, GG)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ariel_13_russ_blo/gender=f/ariel.htm",
-          "https://stashdb.org/scenes/5942c590-9725-48c6-a8b4-135889046048"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Ariel
+  fragments:
+    - id: 19f13519-e60a-4622-bcce-15d35e3cc1d6
+      name: Sarah Creta AKA Sarah C
+      text: The Life Erotic
+      links:
+        - https://www.iafd.com/person.rme/perfid=ariel_09_russ/gender=f/ariel.htm
+        - https://www.indexxx.com/m/katty
+    - id: null
+      name: Ariella
+      notes:
+        - '- 1By-Day'
+        - '- More ?'
+      links:
+        - https://www.iafd.com/person.rme/perfid=ariella_11/gender=f/ariella.htm
+    - id: null
+      name: Ariel (2013, GG)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ariel_13_russ_blo/gender=f/ariel.htm
+        - https://stashdb.org/scenes/5942c590-9725-48c6-a8b4-135889046048
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,37 +1,23 @@
-{
-  "split": {
-    "name": "Lacy",
-    "shards": [
-      {
-        "id": null,
-        "name": "Lacey (2005, Reality Kings)",
-        "text": "Cum Fiesta",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lacy_rk_2005/gender=f/lacy.htm",
-          "https://www.indexxx.com/m/lacy-1"
-        ]
-      },
-      {
-        "id": "fabc980c-7054-47c3-a653-49680a12709d",
-        "name": "Alanna Thomas",
-        "text": "MILF Hunter",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alanathomas/gender=f/alana-thomas.htm",
-          "https://www.indexxx.com/m/alana-thomas"
-        ]
-      },
-      {
-        "id": "013dedf1-1955-4f38-b769-3bc2e29b2e3a",
-        "name": "Lacey Vega",
-        "text": "Net Video Girls (2014)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=laceyvega/gender=f/lacey-vega.htm",
-          "https://www.indexxx.com/m/lacey-vega"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Lacy
+  fragments:
+    - id: null
+      name: Lacey (2005, Reality Kings)
+      text: Cum Fiesta
+      links:
+        - https://www.iafd.com/person.rme/perfid=lacy_rk_2005/gender=f/lacy.htm
+        - https://www.indexxx.com/m/lacy-1
+    - id: fabc980c-7054-47c3-a653-49680a12709d
+      name: Alanna Thomas
+      text: MILF Hunter
+      links:
+        - https://www.iafd.com/person.rme/perfid=alanathomas/gender=f/alana-thomas.htm
+        - https://www.indexxx.com/m/alana-thomas
+    - id: 013dedf1-1955-4f38-b769-3bc2e29b2e3a
+      name: Lacey Vega
+      text: Net Video Girls (2014)
+      links:
+        - https://www.iafd.com/person.rme/perfid=laceyvega/gender=f/lacey-vega.htm
+        - https://www.indexxx.com/m/lacey-vega
+  notes:
+    - Mix of multiple performers (partial list)

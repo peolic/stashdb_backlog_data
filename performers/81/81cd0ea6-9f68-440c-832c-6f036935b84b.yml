@@ -1,60 +1,37 @@
-{
-  "split": {
-    "name": "Sonia",
-    "shards": [
-      {
-        "id": null,
-        "name": "Sonya",
-        "text": "(DDF Network)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sonya_eu_05/gender=f/sonya.htm",
-          "https://www.indexxx.com/m/sonia"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sonia (Teen Mega World)",
-        "links": [
-          "https://www.indexxx.com/m/sonia-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Annette",
-        "text": "(1 Pass for All Sites)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=annette_rus/gender=f/annette.htm",
-          "https://www.indexxx.com/m/annette-10"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sonia (2008 or 2009, Teen Core Club)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sonia_09_russ/gender=f/sonia.htm",
-          "https://teencoreclub.com/video/21285/bic-884"
-        ]
-      },
-      {
-        "id": "e524f404-a17b-4092-8a94-0f5a48ab0163",
-        "name": "Sonia Carrere",
-        "text": "(Extreme Naturals)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=soniacarrere/gender=f/sonia-carrere.htm",
-          "https://www.indexxx.com/m/sonia-carrere"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sonia (2002, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sonia_rk/gender=f/sonia.htm",
-          "https://www.indexxx.com/m/sonia-2"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-21)"
-    ]
-  }
-}
+split:
+  name: Sonia
+  fragments:
+    - id: null
+      name: Sonya
+      text: (DDF Network)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sonya_eu_05/gender=f/sonya.htm
+        - https://www.indexxx.com/m/sonia
+    - id: null
+      name: Sonia (Teen Mega World)
+      links:
+        - https://www.indexxx.com/m/sonia-3
+    - id: null
+      name: Annette
+      text: (1 Pass for All Sites)
+      links:
+        - https://www.iafd.com/person.rme/perfid=annette_rus/gender=f/annette.htm
+        - https://www.indexxx.com/m/annette-10
+    - id: null
+      name: Sonia (2008 or 2009, Teen Core Club)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sonia_09_russ/gender=f/sonia.htm
+        - https://teencoreclub.com/video/21285/bic-884
+    - id: e524f404-a17b-4092-8a94-0f5a48ab0163
+      name: Sonia Carrere
+      text: (Extreme Naturals)
+      links:
+        - https://www.iafd.com/person.rme/perfid=soniacarrere/gender=f/sonia-carrere.htm
+        - https://www.indexxx.com/m/sonia-carrere
+    - id: null
+      name: Sonia (2002, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sonia_rk/gender=f/sonia.htm
+        - https://www.indexxx.com/m/sonia-2
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-21)

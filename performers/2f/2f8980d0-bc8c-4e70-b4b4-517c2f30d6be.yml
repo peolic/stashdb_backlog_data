@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Mary",
-    "shards": [
-      {
-        "id": null,
-        "name": "Mary (2003, We Live Together)",
-        "text": "We Live Together",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mary_rk03/gender=f/mary.htm",
-          "https://www.indexxx.com/m/mary-5"
-        ]
-      },
-      {
-        "id": "7a992021-69cb-4d82-bd7a-9d4f6a0fe80e",
-        "name": "Mari Lee AKA Marlee",
-        "text": "Mike's Apartment",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marilee_eu/gender=f/mari-lee.htm",
-          "https://www.indexxx.com/m/mary-6"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Mary
+  fragments:
+    - id: null
+      name: Mary (2003, We Live Together)
+      text: We Live Together
+      links:
+        - https://www.iafd.com/person.rme/perfid=mary_rk03/gender=f/mary.htm
+        - https://www.indexxx.com/m/mary-5
+    - id: 7a992021-69cb-4d82-bd7a-9d4f6a0fe80e
+      name: Mari Lee AKA Marlee
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=marilee_eu/gender=f/mari-lee.htm
+        - https://www.indexxx.com/m/mary-6
+  notes:
+    - Mix of multiple performers (partial list)

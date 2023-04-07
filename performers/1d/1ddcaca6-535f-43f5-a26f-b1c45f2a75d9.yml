@@ -1,80 +1,53 @@
-{
-  "split": {
-    "name": "Kate",
-    "shards": [
-      {
-        "id": "0ec7abd9-6d91-45fe-bb71-c749dc297684",
-        "name": "Kate Fore",
-        "notes": [
-          "- Euro Sex Parties",
-          "- Sineplex CZ"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kate_cz_07/gender=f/kate.htm",
-          "https://www.indexxx.com/m/kate-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kate (2007, MILF Next Door)",
-        "text": "MILF Next Door",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kate_rk_07/gender=f/kate.htm",
-          "https://www.indexxx.com/m/kate-8"
-        ]
-      },
-      {
-        "id": "678dfdf2-baf2-47c9-b90a-2883d2fdbb69",
-        "name": "Cindy (Hungarian, 2003-2009) AKA Cindy K. (DDF)",
-        "text": "ALS Scan",
-        "links": [
-          "https://stashdb.org/performers/cd251b6a-b1bf-49a7-aa66-f1732f838bfb",
-          "https://www.iafd.com/person.rme/perfid=cindy_h_03/gender=f/cindy.htm",
-          "https://www.indexxx.com/m/cindy-k"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nura (ATKingdom)",
-        "text": "18 Virgin Sex",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kate_07_rus/gender=f/kate.htm",
-          "https://www.indexxx.com/m/nura",
-          "https://1passforallsites.com/model?id=272"
-        ]
-      },
-      {
-        "id": "a7ffd159-aa8c-4b3f-b78e-64513afe5fd5",
-        "name": "Zanna (Kazakhstan)",
-        "text": "GG (2013)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=abia_11/gender=f/abia.htm",
-          "https://www.indexxx.com/m/zanna"
-        ]
-      },
-      {
-        "id": "57b8ff30-a79c-4a5d-9141-e8cdefd760e5",
-        "name": "Stonell AKA Katey, Sue Kenyon",
-        "text": "GG (2014)",
-        "links": [
-          "https://stashdb.org/performers/0f2f3075-4501-4fa9-9094-6ad581e1e9e7",
-          "https://stashdb.org/performers/7e7adfb8-4a54-4d3c-8c11-fe7aaba1b39d",
-          "https://www.iafd.com/person.rme/perfid=stonell_11_russ/gender=f/stonell.htm",
-          "https://www.indexxx.com/m/katey-3"
-        ]
-      },
-      {
-        "id": "d3a5bef5-19f5-46a1-96e6-27c64004fb10",
-        "name": "Jessica Rox",
-        "text": "Dirty Flix",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=leonydark/gender=f/leony-dark.htm",
-          "https://www.indexxx.com/m/jessica-rox"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Kate
+  fragments:
+    - id: 0ec7abd9-6d91-45fe-bb71-c749dc297684
+      name: Kate Fore
+      notes:
+        - '- Euro Sex Parties'
+        - '- Sineplex CZ'
+      links:
+        - https://www.iafd.com/person.rme/perfid=kate_cz_07/gender=f/kate.htm
+        - https://www.indexxx.com/m/kate-2
+    - id: null
+      name: Kate (2007, MILF Next Door)
+      text: MILF Next Door
+      links:
+        - https://www.iafd.com/person.rme/perfid=kate_rk_07/gender=f/kate.htm
+        - https://www.indexxx.com/m/kate-8
+    - id: 678dfdf2-baf2-47c9-b90a-2883d2fdbb69
+      name: Cindy (Hungarian, 2003-2009) AKA Cindy K. (DDF)
+      text: ALS Scan
+      links:
+        - https://stashdb.org/performers/cd251b6a-b1bf-49a7-aa66-f1732f838bfb
+        - https://www.iafd.com/person.rme/perfid=cindy_h_03/gender=f/cindy.htm
+        - https://www.indexxx.com/m/cindy-k
+    - id: null
+      name: Nura (ATKingdom)
+      text: 18 Virgin Sex
+      links:
+        - https://www.iafd.com/person.rme/perfid=kate_07_rus/gender=f/kate.htm
+        - https://www.indexxx.com/m/nura
+        - https://1passforallsites.com/model?id=272
+    - id: a7ffd159-aa8c-4b3f-b78e-64513afe5fd5
+      name: Zanna (Kazakhstan)
+      text: GG (2013)
+      links:
+        - https://www.iafd.com/person.rme/perfid=abia_11/gender=f/abia.htm
+        - https://www.indexxx.com/m/zanna
+    - id: 57b8ff30-a79c-4a5d-9141-e8cdefd760e5
+      name: Stonell AKA Katey, Sue Kenyon
+      text: GG (2014)
+      links:
+        - https://stashdb.org/performers/0f2f3075-4501-4fa9-9094-6ad581e1e9e7
+        - https://stashdb.org/performers/7e7adfb8-4a54-4d3c-8c11-fe7aaba1b39d
+        - https://www.iafd.com/person.rme/perfid=stonell_11_russ/gender=f/stonell.htm
+        - https://www.indexxx.com/m/katey-3
+    - id: d3a5bef5-19f5-46a1-96e6-27c64004fb10
+      name: Jessica Rox
+      text: Dirty Flix
+      links:
+        - https://www.iafd.com/person.rme/perfid=leonydark/gender=f/leony-dark.htm
+        - https://www.indexxx.com/m/jessica-rox
+  notes:
+    - Mix of multiple performers (partial list)

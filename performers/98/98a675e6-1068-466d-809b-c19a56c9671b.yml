@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Santi",
-    "shards": [
-      {
-        "id": null,
-        "name": "Santi",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=um638110b/gender=m/santi.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Santi
+  fragments:
+    - id: null
+      name: Santi
+      links:
+        - https://www.iafd.com/person.rme/perfid=um638110b/gender=m/santi.htm
+  notes:
+    - Mix of multiple performers (partial list)

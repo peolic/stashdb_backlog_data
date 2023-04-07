@@ -1,30 +1,18 @@
-{
-  "split": {
-    "name": "Vanilla",
-    "shards": [
-      {
-        "id": null,
-        "name": "Vanilla (2005, We Live Together)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vanilla_rk05/gender=f/vanilla.htm",
-          "https://www.indexxx.com/m/vanilla-2"
-        ]
-      },
-      {
-        "id": "0799f3ae-5941-4fb6-a451-00c6bc458114",
-        "name": "Vanilla Skye",
-        "notes": [
-          "- Digital Playground",
-          "- 1 pass for all sites"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vanillaskye/gender=f/vanilla-skye.htm",
-          "https://www.indexxx.com/m/vanilla-skye"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-08)"
-    ]
-  }
-}
+split:
+  name: Vanilla
+  fragments:
+    - id: null
+      name: Vanilla (2005, We Live Together)
+      links:
+        - https://www.iafd.com/person.rme/perfid=vanilla_rk05/gender=f/vanilla.htm
+        - https://www.indexxx.com/m/vanilla-2
+    - id: 0799f3ae-5941-4fb6-a451-00c6bc458114
+      name: Vanilla Skye
+      notes:
+        - '- Digital Playground'
+        - '- 1 pass for all sites'
+      links:
+        - https://www.iafd.com/person.rme/perfid=vanillaskye/gender=f/vanilla-skye.htm
+        - https://www.indexxx.com/m/vanilla-skye
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-08)

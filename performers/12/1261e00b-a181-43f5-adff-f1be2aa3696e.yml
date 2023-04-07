@@ -1,37 +1,23 @@
-{
-  "split": {
-    "name": "Agata",
-    "shards": [
-      {
-        "id": "f0cf6b59-f941-4409-8bca-d8eb623fc308",
-        "name": "Agata AKA Fern (Cuties Galore)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=fern_rus_09/gender=f/fern.htm",
-          "https://www.indexxx.com/m/agata-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Agata AKA Anges Nagy",
-        "text": "Most scenes ?",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=agnesnagy/gender=f/agnes-nagy.htm",
-          "https://www.indexxx.com/m/agata-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Natasha",
-        "text": "Nasty Angels ?",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=natasha_rus/gender=f/natasha.htm",
-          "https://www.indexxx.com/m/natasha-55"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Agata
+  fragments:
+    - id: f0cf6b59-f941-4409-8bca-d8eb623fc308
+      name: Agata AKA Fern (Cuties Galore)
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=fern_rus_09/gender=f/fern.htm
+        - https://www.indexxx.com/m/agata-1
+    - id: null
+      name: Agata AKA Anges Nagy
+      text: Most scenes ?
+      links:
+        - https://www.iafd.com/person.rme/perfid=agnesnagy/gender=f/agnes-nagy.htm
+        - https://www.indexxx.com/m/agata-3
+    - id: null
+      name: Natasha
+      text: Nasty Angels ?
+      links:
+        - https://www.iafd.com/person.rme/perfid=natasha_rus/gender=f/natasha.htm
+        - https://www.indexxx.com/m/natasha-55
+  notes:
+    - Mix of multiple performers (partial list)

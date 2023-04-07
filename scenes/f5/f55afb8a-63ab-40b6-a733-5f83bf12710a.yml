@@ -1,10 +1,5 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "md5",
-      "hash": "1b8050160d6a1ec9b27b625f6ed11826",
-      "correct_scene_id": "9cd80ce8-5ea9-4d0c-9bd1-6fc6dcae0595",
-      "duration": 3768
-    }
-  ]
-}
+fingerprints:
+  - algorithm: md5
+    hash: 1b8050160d6a1ec9b27b625f6ed11826
+    correct_scene_id: 9cd80ce8-5ea9-4d0c-9bd1-6fc6dcae0595
+    duration: 3768

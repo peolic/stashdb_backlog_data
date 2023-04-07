@@ -1,27 +1,16 @@
-{
-  "split": {
-    "name": "Myriam A",
-    "shards": [
-      {
-        "id": null,
-        "name": "Myriam (Canadian, 2004-2009)",
-        "text": "Devil's Film",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=myrian_can/gender=f/myriam.htm",
-          "https://www.indexxx.com/m/myriam-1"
-        ]
-      },
-      {
-        "id": "6b9f8ee5-32aa-4887-967b-8f1676033135",
-        "name": "Janine (Czech, 2000-2001) AKA Janine D",
-        "text": "Rocco Siffredi",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=janine_cz/gender=f/janine.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-28)"
-    ]
-  }
-}
+split:
+  name: Myriam A
+  fragments:
+    - id: null
+      name: Myriam (Canadian, 2004-2009)
+      text: Devil's Film
+      links:
+        - https://www.iafd.com/person.rme/perfid=myrian_can/gender=f/myriam.htm
+        - https://www.indexxx.com/m/myriam-1
+    - id: 6b9f8ee5-32aa-4887-967b-8f1676033135
+      name: Janine (Czech, 2000-2001) AKA Janine D
+      text: Rocco Siffredi
+      links:
+        - https://www.iafd.com/person.rme/perfid=janine_cz/gender=f/janine.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-28)

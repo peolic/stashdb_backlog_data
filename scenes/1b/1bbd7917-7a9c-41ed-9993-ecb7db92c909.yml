@@ -1,10 +1,5 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "oshash",
-      "hash": "95adfcf03ccbeaa9",
-      "correct_scene_id": null,
-      "duration": 539
-    }
-  ]
-}
+fingerprints:
+  - algorithm: oshash
+    hash: 95adfcf03ccbeaa9
+    correct_scene_id: null
+    duration: 539

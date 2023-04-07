@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Keisha",
-    "shards": [
-      {
-        "id": null,
-        "name": "Keisha (2012, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=keisha_bl_rk/gender=f/keisha.htm",
-          "https://www.indexxx.com/m/keisha-3",
-          "https://www.realitykings.com/model/16989/keisha"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-24)"
-    ]
-  }
-}
+split:
+  name: Keisha
+  fragments:
+    - id: null
+      name: Keisha (2012, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=keisha_bl_rk/gender=f/keisha.htm
+        - https://www.indexxx.com/m/keisha-3
+        - https://www.realitykings.com/model/16989/keisha
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-24)

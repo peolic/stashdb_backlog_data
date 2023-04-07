@@ -1,41 +1,26 @@
-{
-  "split": {
-    "name": "Karina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Karina Laboom",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/karina-laboom",
-          "https://www.thenude.com/_21712.htm"
-        ]
-      },
-      {
-        "id": "42d2b315-e42e-4113-8e00-8ff79d4c73b2",
-        "name": "Janet Peron",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=janetperon/gender=f/janet-peron.htm",
-          "https://www.indexxx.com/m/janet-peron"
-        ]
-      },
-      {
-        "id": "5207e692-c014-4edb-9044-e6d8d9179bce",
-        "name": "Vivienne (UKR, 2001-2009) AKA Vivienn",
-        "notes": [
-          "- ALS Scan",
-          "- Mike's Apartment",
-          "- Twistys"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vivienne_pr/gender=f/vivienne.htm",
-          "https://www.indexxx.com/m/vivien-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Karina
+  fragments:
+    - id: null
+      name: Karina Laboom
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/karina-laboom
+        - https://www.thenude.com/_21712.htm
+    - id: 42d2b315-e42e-4113-8e00-8ff79d4c73b2
+      name: Janet Peron
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=janetperon/gender=f/janet-peron.htm
+        - https://www.indexxx.com/m/janet-peron
+    - id: 5207e692-c014-4edb-9044-e6d8d9179bce
+      name: Vivienne (UKR, 2001-2009) AKA Vivienn
+      notes:
+        - '- ALS Scan'
+        - '- Mike''s Apartment'
+        - '- Twistys'
+      links:
+        - https://www.iafd.com/person.rme/perfid=vivienne_pr/gender=f/vivienne.htm
+        - https://www.indexxx.com/m/vivien-1
+  notes:
+    - Mix of multiple performers (partial list)

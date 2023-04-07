@@ -1,89 +1,56 @@
-{
-  "split": {
-    "name": "Ryan",
-    "shards": [
-      {
-        "id": null,
-        "name": "Ryan (2015, Reality Kings)",
-        "notes": [
-          "- Dare Dorm (2015)",
-          "- GF Revenge (2015)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryan_gf_15/gender=m/ryan.htm"
-        ]
-      },
-      {
-        "id": "b8349012-b050-4fb1-a433-54023435e1e4",
-        "name": "Ryan Reid",
-        "text": "Abbie Maley",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=brynleebraxton/gender=f/ryan-reid.htm",
-          "https://www.indexxx.com/m/ryan-reid",
-          "https://abbiemaley.com/models/Ryan.html"
-        ]
-      },
-      {
-        "id": "e0a699a3-9058-4afa-a7bd-5b89645c69d3",
-        "name": "Ryan Conner",
-        "text": "MILF Hunter",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryanconner/gender=f/ryan-conner.htm",
-          "https://www.indexxx.com/m/ryan-conner"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ryan (2004, Reality Kings)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryan_rk_04/gender=f/ryan.htm",
-          "https://www.indexxx.com/m/ryan-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ryan (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryan_10_russ/gender=f/ryan.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ryan (2008, Reality Kings)",
-        "text": "In the VIP (2008)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryan_rk_08/gender=m/ryan.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ryan (2010, Dare Dorm)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryan_rk10/gender=m/ryan.htm",
-          "https://www.realitykings.com/model/24734/ryan"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ryan (2011, Dare Dorm)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ryan_rk11/gender=m/ryan.htm",
-          "https://www.realitykings.com/model/24604/ryan"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ryan",
-        "text": "[NonSex] Big Tits Boss",
-        "links": [
-          "https://www.iafd.com/title.rme/title=employee+of+the+month/year=2008/employee-of-the-month.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Ryan
+  fragments:
+    - id: null
+      name: Ryan (2015, Reality Kings)
+      notes:
+        - '- Dare Dorm (2015)'
+        - '- GF Revenge (2015)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryan_gf_15/gender=m/ryan.htm
+    - id: b8349012-b050-4fb1-a433-54023435e1e4
+      name: Ryan Reid
+      text: Abbie Maley
+      links:
+        - https://www.iafd.com/person.rme/perfid=brynleebraxton/gender=f/ryan-reid.htm
+        - https://www.indexxx.com/m/ryan-reid
+        - https://abbiemaley.com/models/Ryan.html
+    - id: e0a699a3-9058-4afa-a7bd-5b89645c69d3
+      name: Ryan Conner
+      text: MILF Hunter
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryanconner/gender=f/ryan-conner.htm
+        - https://www.indexxx.com/m/ryan-conner
+    - id: null
+      name: Ryan (2004, Reality Kings)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryan_rk_04/gender=f/ryan.htm
+        - https://www.indexxx.com/m/ryan-3
+    - id: null
+      name: Ryan (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryan_10_russ/gender=f/ryan.htm
+    - id: null
+      name: Ryan (2008, Reality Kings)
+      text: In the VIP (2008)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryan_rk_08/gender=m/ryan.htm
+    - id: null
+      name: Ryan (2010, Dare Dorm)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryan_rk10/gender=m/ryan.htm
+        - https://www.realitykings.com/model/24734/ryan
+    - id: null
+      name: Ryan (2011, Dare Dorm)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ryan_rk11/gender=m/ryan.htm
+        - https://www.realitykings.com/model/24604/ryan
+    - id: null
+      name: Ryan
+      text: '[NonSex] Big Tits Boss'
+      links:
+        - https://www.iafd.com/title.rme/title=employee+of+the+month/year=2008/employee-of-the-month.htm
+  notes:
+    - Mix of multiple performers (partial list)

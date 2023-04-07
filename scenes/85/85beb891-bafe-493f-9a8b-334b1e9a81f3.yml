@@ -1,46 +1,29 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "aeb32a75a220f4d6",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "4567097396b3f7f6",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "686046a863f0afd3",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "e915e69ef330d64a",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    },
-    {
-      "algorithm": "phash",
-      "hash": "beb322758220f5d6",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    },
-    {
-      "algorithm": "md5",
-      "hash": "83a8959805886acd94eb5610912e4b8b",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    },
-    {
-      "algorithm": "md5",
-      "hash": "b8eef93a69d2ae8fd0e5c434445deed0",
-      "correct_scene_id": "27b470a3-f8a1-4547-9f40-18fb95510cb5",
-      "duration": 2293
-    }
-  ]
-}
+fingerprints:
+  - algorithm: phash
+    hash: aeb32a75a220f4d6
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293
+  - algorithm: oshash
+    hash: 4567097396b3f7f6
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293
+  - algorithm: oshash
+    hash: 686046a863f0afd3
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293
+  - algorithm: oshash
+    hash: e915e69ef330d64a
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293
+  - algorithm: phash
+    hash: beb322758220f5d6
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293
+  - algorithm: md5
+    hash: 83a8959805886acd94eb5610912e4b8b
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293
+  - algorithm: md5
+    hash: b8eef93a69d2ae8fd0e5c434445deed0
+    correct_scene_id: 27b470a3-f8a1-4547-9f40-18fb95510cb5
+    duration: 2293

@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Sebastien",
-    "shards": [
-      {
-        "id": null,
-        "name": "Sebastien (Sean Cody 2006)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sebastien_sc/gender=m/sebastien.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Sebastien
+  fragments:
+    - id: null
+      name: Sebastien (Sean Cody 2006)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sebastien_sc/gender=m/sebastien.htm
+  notes:
+    - Mix of multiple performers (partial list)

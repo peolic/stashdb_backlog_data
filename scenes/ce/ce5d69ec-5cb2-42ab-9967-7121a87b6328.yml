@@ -1,28 +1,17 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=stacking+buns/year=2005/stacking-buns.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "6e33cd08-73c6-4212-8b38-679521b201fd",
-        "name": "Roxy",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Roxy",
-        "appearance": null,
-        "disambiguation": "We Live Together",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=roxy_rk05/gender=f/roxy.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=stacking+buns/year=2005/stacking-buns.htm
+performers:
+  remove:
+    - id: 6e33cd08-73c6-4212-8b38-679521b201fd
+      name: Roxy
+      appearance: null
+  append:
+    - id: null
+      name: Roxy
+      appearance: null
+      disambiguation: We Live Together
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=roxy_rk05/gender=f/roxy.htm

@@ -1,15 +1,8 @@
-{
-  "split": {
-    "name": "Bobby",
-    "shards": [
-      {
-        "id": null,
-        "name": "Bobby (Kink.com 2002)",
-        "text": "Butt Machine Boys scene 663"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Bobby
+  fragments:
+    - id: null
+      name: Bobby (Kink.com 2002)
+      text: Butt Machine Boys scene 663
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,31 +1,19 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=nails+or+tail/year=2005/nails-or-tail.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "d4092195-4585-4c6f-bf24-4b40a2e1b175",
-        "name": "Amber",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Amber Lee",
-        "appearance": "Amber",
-        "disambiguation": "2005-2006",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm",
-        "notes": [
-          "https://www.indexxx.com/m/amber-5"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=nails+or+tail/year=2005/nails-or-tail.htm
+performers:
+  remove:
+    - id: d4092195-4585-4c6f-bf24-4b40a2e1b175
+      name: Amber
+      appearance: null
+  append:
+    - id: null
+      name: Amber Lee
+      appearance: Amber
+      disambiguation: 2005-2006
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm
+      notes:
+        - https://www.indexxx.com/m/amber-5

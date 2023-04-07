@@ -1,81 +1,51 @@
-{
-  "split": {
-    "name": "Jasmine",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jasmine (2010 BangBros)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasmine_br_10/gender=f/jasmine.htm",
-          "https://www.indexxx.com/m/jasmine-20"
-        ]
-      },
-      {
-        "id": "fc875a55-c047-4595-86f3-996694d44df1",
-        "name": "Jazzmine X (?)",
-        "text": "(Peter North, White Ghetto)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasmine_or_04/gender=f/jasmine.htm",
-          "https://www.indexxx.com/m/jazmine-1",
-          "https://www.whiteghetto.com/en/pornstar/view/Jasmine/8690",
-          "https://www.peternorth.com/en/pornstar/view/Jasmine/8690"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jasmine (MILF Next Door)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasmine_rk_05/gender=f/jasmine.htm",
-          "https://www.indexxx.com/m/jasmine-10"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jasmine (Beauty-Angels)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasmine_rus_20/gender=f/jasmine.htm",
-          "https://www.indexxx.com/m/jasmine-53",
-          "https://www.thenude.com/Jasmine_50020.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jasmine (2005, Net Video Girls)",
-        "notes": [
-          "Ep 2005.03 - (Lily and) Jasmine"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489803"
-        ]
-      },
-      {
-        "id": "fa7f15af-7640-4755-bd2f-fbf3b362b9c8",
-        "name": "Jasmine Tame",
-        "text": "UNCONFIRMED - Cumshot Oasis",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasminetame/gender=f/jasmine-tame.htm",
-          "https://www.indexxx.com/m/jasmine-tame",
-          "http://www.pornstarnetwork.com/dvd/pick-up-lines-volume-87-16177.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jasmine (2015, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasmine_backroomcastingcouch/gender=f/jasmine.htm",
-          "https://www.backroomcastingcouch.com/models/jasmine.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jasmine (2017, Backroom Casting Couch)",
-        "links": [
-          "https://www.backroomcastingcouch.com/models/jasmine-2.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Jasmine
+  fragments:
+    - id: null
+      name: Jasmine (2010 BangBros)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasmine_br_10/gender=f/jasmine.htm
+        - https://www.indexxx.com/m/jasmine-20
+    - id: fc875a55-c047-4595-86f3-996694d44df1
+      name: Jazzmine X (?)
+      text: (Peter North, White Ghetto)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasmine_or_04/gender=f/jasmine.htm
+        - https://www.indexxx.com/m/jazmine-1
+        - https://www.whiteghetto.com/en/pornstar/view/Jasmine/8690
+        - https://www.peternorth.com/en/pornstar/view/Jasmine/8690
+    - id: null
+      name: Jasmine (MILF Next Door)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasmine_rk_05/gender=f/jasmine.htm
+        - https://www.indexxx.com/m/jasmine-10
+    - id: null
+      name: Jasmine (Beauty-Angels)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasmine_rus_20/gender=f/jasmine.htm
+        - https://www.indexxx.com/m/jasmine-53
+        - https://www.thenude.com/Jasmine_50020.htm
+    - id: null
+      name: Jasmine (2005, Net Video Girls)
+      notes:
+        - Ep 2005.03 - (Lily and) Jasmine
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489803
+    - id: fa7f15af-7640-4755-bd2f-fbf3b362b9c8
+      name: Jasmine Tame
+      text: UNCONFIRMED - Cumshot Oasis
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasminetame/gender=f/jasmine-tame.htm
+        - https://www.indexxx.com/m/jasmine-tame
+        - http://www.pornstarnetwork.com/dvd/pick-up-lines-volume-87-16177.html
+    - id: null
+      name: Jasmine (2015, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasmine_backroomcastingcouch/gender=f/jasmine.htm
+        - https://www.backroomcastingcouch.com/models/jasmine.html
+    - id: null
+      name: Jasmine (2017, Backroom Casting Couch)
+      links:
+        - https://www.backroomcastingcouch.com/models/jasmine-2.html
+  notes:
+    - Mix of multiple performers (partial list)

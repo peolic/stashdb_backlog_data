@@ -1,7 +1,4 @@
-{
-  "name": "Kara Stone",
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=karastone/gender=f/kara-stone.htm",
-    "https://www.indexxx.com/m/kara-stone"
-  ]
-}
+name: Kara Stone
+urls:
+  - https://www.iafd.com/person.rme/perfid=karastone/gender=f/kara-stone.htm
+  - https://www.indexxx.com/m/kara-stone

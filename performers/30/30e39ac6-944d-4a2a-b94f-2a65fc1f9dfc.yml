@@ -1,70 +1,45 @@
-{
-  "split": {
-    "name": "Sarah",
-    "shards": [
-      {
-        "id": null,
-        "name": "Sandy (2013, Sineplex CZ)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sarah_lp_13/gender=f/sarah.htm",
-          "https://www.indexxx.com/m/sarah-38"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sarah (2017, Backroom Casting Couch)",
-        "links": [
-          "https://www.backroomcastingcouch.com/models/sarah-4.html"
-        ]
-      },
-      {
-        "id": "4aed8f95-ed8f-49f9-99f8-9e065152b5f0",
-        "name": "Sarah O'Neal AKA Sarah O'neil",
-        "text": "Wicked (2003)",
-        "links": [
-          "https://stashdb.org/performers/3e822a83-f3fd-43d3-9da3-b416ffe4223e",
-          "https://www.iafd.com/person.rme/perfid=sarahoneal/gender=f/sarah-o'neal.htm",
-          "https://www.indexxx.com/m/sarah-oneill"
-        ]
-      },
-      {
-        "id": "9b17bbd9-2d5d-4617-b693-4e7d096dd653",
-        "name": "Stacy Silver",
-        "text": "Wicked (2001)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacysilver/gender=f/stacy-silver.htm",
-          "https://www.indexxx.com/m/stacy-silver"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Alina Snow",
-        "text": "Net Video Girls (2013)",
-        "notes": [
-          "Ep 2013.54 - Sarah = Alina Snow"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alinasnow/gender=f/alina-snow.htm",
-          "https://www.indexxx.com/m/alina-snow",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sarah (2002, 2004, Net Video Girls)",
-        "text": "2 Net Video Girls scenes - 2002 and 2004",
-        "notes": [
-          "Ep 2002.29 - Sarah",
-          "Returned Ep 2004.43",
-          "Ep 2004.43 - Sarah (and Nari)"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Sarah
+  fragments:
+    - id: null
+      name: Sandy (2013, Sineplex CZ)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sarah_lp_13/gender=f/sarah.htm
+        - https://www.indexxx.com/m/sarah-38
+    - id: null
+      name: Sarah (2017, Backroom Casting Couch)
+      links:
+        - https://www.backroomcastingcouch.com/models/sarah-4.html
+    - id: 4aed8f95-ed8f-49f9-99f8-9e065152b5f0
+      name: Sarah O'Neal AKA Sarah O'neil
+      text: Wicked (2003)
+      links:
+        - https://stashdb.org/performers/3e822a83-f3fd-43d3-9da3-b416ffe4223e
+        - https://www.iafd.com/person.rme/perfid=sarahoneal/gender=f/sarah-o'neal.htm
+        - https://www.indexxx.com/m/sarah-oneill
+    - id: 9b17bbd9-2d5d-4617-b693-4e7d096dd653
+      name: Stacy Silver
+      text: Wicked (2001)
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacysilver/gender=f/stacy-silver.htm
+        - https://www.indexxx.com/m/stacy-silver
+    - id: null
+      name: Alina Snow
+      text: Net Video Girls (2013)
+      notes:
+        - Ep 2013.54 - Sarah = Alina Snow
+      links:
+        - https://www.iafd.com/person.rme/perfid=alinasnow/gender=f/alina-snow.htm
+        - https://www.indexxx.com/m/alina-snow
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814
+    - id: null
+      name: Sarah (2002, 2004, Net Video Girls)
+      text: 2 Net Video Girls scenes - 2002 and 2004
+      notes:
+        - Ep 2002.29 - Sarah
+        - Returned Ep 2004.43
+        - Ep 2004.43 - Sarah (and Nari)
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801
+  notes:
+    - Mix of multiple performers (partial list)

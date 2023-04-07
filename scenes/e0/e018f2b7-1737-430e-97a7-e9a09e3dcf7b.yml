@@ -1,25 +1,16 @@
-{
-  "c_studio": [
-    "Street BlowJobs",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=1+for+the+team/year=2008/1-for-the-team.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Dillan Andrews",
-        "appearance": "Dillan",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=dillanandrews/gender=f/dillan-andrews.htm",
-        "notes": [
-          "https://www.indexxx.com/m/dillan",
-          "https://cdn.stashdb.org/images/7c/f9/7cf980b0-d215-4613-9b8a-9883bf0b8770"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=1+for+the+team/year=2008/1-for-the-team.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Dillan Andrews
+      appearance: Dillan
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=dillanandrews/gender=f/dillan-andrews.htm
+      notes:
+        - https://www.indexxx.com/m/dillan
+        - https://cdn.stashdb.org/images/7c/f9/7cf980b0-d215-4613-9b8a-9883bf0b8770

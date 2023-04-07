@@ -1,52 +1,35 @@
-{
-  "split": {
-    "name": "Kristina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kristina Kovari",
-        "text": "(Woodman Casting 2009-02-07)",
-        "links": [
-          "https://www.indexxx.com/m/fiyona",
-          "https://www.thenude.com/_6441.htm",
-          "https://stashdb.org/scenes/5ede4aa6-8e9f-4811-9f6c-c8beb70a476b",
-          "https://www.boobpedia.com/boobs/Kristina_Kovari",
-          "https://www.freeones.com/kristina-kovari",
-          "https://www.freeones.com/forums/threads/kristina-kovari-aka-brenda-eva-dam-fiyona-kovaria-linda.202749/"
-        ]
-      },
-      {
-        "id": "f2e90126-ed2f-4832-b9d3-3ae6a9bdd8aa",
-        "name": "Nore Arilena AKA Leenda",
-        "text": "(Tricky Old Teacher, Young Anal Tryouts)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=leenda/gender=f/leenda.htm",
-          "https://www.indexxx.com/m/nore-arilena",
-          "https://stashdb.org/scenes/99557938-e25d-4e86-867f-1c3c40db85eb",
-          "https://stashdb.org/scenes/0d218a7a-f345-42c3-873b-d069db93984d"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Julia Al",
-        "text": "(About Girls Love)",
-        "links": [
-          "https://www.indexxx.com/m/julia-al",
-          "https://www.thenude.com/_4488.htm",
-          "https://stashdb.org/scenes/102654a7-5288-48be-b239-36025f5bc3ce"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kristina (2007, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kristina_rk07/gender=f/kristina.htm",
-          "https://www.indexxx.com/m/kristina-4"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Kristina
+  fragments:
+    - id: null
+      name: Kristina Kovari
+      text: (Woodman Casting 2009-02-07)
+      links:
+        - https://www.indexxx.com/m/fiyona
+        - https://www.thenude.com/_6441.htm
+        - https://stashdb.org/scenes/5ede4aa6-8e9f-4811-9f6c-c8beb70a476b
+        - https://www.boobpedia.com/boobs/Kristina_Kovari
+        - https://www.freeones.com/kristina-kovari
+        - https://www.freeones.com/forums/threads/kristina-kovari-aka-brenda-eva-dam-fiyona-kovaria-linda.202749/
+    - id: f2e90126-ed2f-4832-b9d3-3ae6a9bdd8aa
+      name: Nore Arilena AKA Leenda
+      text: (Tricky Old Teacher, Young Anal Tryouts)
+      links:
+        - https://www.iafd.com/person.rme/perfid=leenda/gender=f/leenda.htm
+        - https://www.indexxx.com/m/nore-arilena
+        - https://stashdb.org/scenes/99557938-e25d-4e86-867f-1c3c40db85eb
+        - https://stashdb.org/scenes/0d218a7a-f345-42c3-873b-d069db93984d
+    - id: null
+      name: Julia Al
+      text: (About Girls Love)
+      links:
+        - https://www.indexxx.com/m/julia-al
+        - https://www.thenude.com/_4488.htm
+        - https://stashdb.org/scenes/102654a7-5288-48be-b239-36025f5bc3ce
+    - id: null
+      name: Kristina (2007, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kristina_rk07/gender=f/kristina.htm
+        - https://www.indexxx.com/m/kristina-4
+  notes:
+    - Mix of multiple performers (partial list)

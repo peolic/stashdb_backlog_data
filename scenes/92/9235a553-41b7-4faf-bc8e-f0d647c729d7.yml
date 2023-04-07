@@ -1,6 +1,3 @@
-{
-  "duplicates": [
-    "77d54921-8d85-428e-a642-9b5591160c6b",
-    "fda8de10-d0e5-45a5-aa57-bc2b0ad00747"
-  ]
-}
+duplicates:
+  - 77d54921-8d85-428e-a642-9b5591160c6b
+  - fda8de10-d0e5-45a5-aa57-bc2b0ad00747

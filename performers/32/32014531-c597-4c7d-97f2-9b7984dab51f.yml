@@ -1,42 +1,30 @@
-{
-  "split": {
-    "name": "Serena Silva",
-    "shards": [
-      {
-        "id": "32014531-c597-4c7d-97f2-9b7984dab51f",
-        "name": "Serena Silva AKA Serena Suarez",
-        "notes": [
-          "- Dare Dorm",
-          "- Nancy @ Net Video GIrls (2009)"
-        ],
-        "links": [
-          "https://stashdb.org/performers/b82b2839-a471-443f-b5a1-34f98c0d30d9",
-          "https://www.iafd.com/person.rme/perfid=serenasilva/gender=f/serena-silva.htm",
-          "https://www.indexxx.com/m/serena-silva"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Alaska",
-        "notes": [
-          "- Cruelty Party",
-          "- Street BlowJobs",
-          "IAFD link does not work currently. Correction submitted to IAFD on Nov 13, 2022."
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alaska_rk/gender=f/alaska_rk.htm",
-          "https://www.indexxx.com/m/alaska"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-11-18)",
-      "Was merged with Alaska as per IAFD and indexxx at the time, but later found out that both were incorrect.",
-      "Correction submitted to IAFD on Nov 13, 2022."
-    ],
-    "links": [
-      "https://stashdb.org/edits/a49da521-602b-4b63-8a50-1a75a4e4565d",
-      "https://docs.google.com/document/d/15_tHazGipXs9wiyGt4d6JXzNL90WfNFtPcoWfB1_NMM/view"
-    ]
-  }
-}
+split:
+  name: Serena Silva
+  fragments:
+    - id: 32014531-c597-4c7d-97f2-9b7984dab51f
+      name: Serena Silva AKA Serena Suarez
+      notes:
+        - '- Dare Dorm'
+        - '- Nancy @ Net Video GIrls (2009)'
+      links:
+        - https://stashdb.org/performers/b82b2839-a471-443f-b5a1-34f98c0d30d9
+        - https://www.iafd.com/person.rme/perfid=serenasilva/gender=f/serena-silva.htm
+        - https://www.indexxx.com/m/serena-silva
+    - id: null
+      name: Alaska
+      notes:
+        - '- Cruelty Party'
+        - '- Street BlowJobs'
+        - IAFD link does not work currently. Correction submitted to IAFD on Nov 13,
+          2022.
+      links:
+        - https://www.iafd.com/person.rme/perfid=alaska_rk/gender=f/alaska_rk.htm
+        - https://www.indexxx.com/m/alaska
+  notes:
+    - Mix of multiple performers (complete list as of 2022-11-18)
+    - Was merged with Alaska as per IAFD and indexxx at the time, but later found
+      out that both were incorrect.
+    - Correction submitted to IAFD on Nov 13, 2022.
+  links:
+    - https://stashdb.org/edits/a49da521-602b-4b63-8a50-1a75a4e4565d
+    - https://docs.google.com/document/d/15_tHazGipXs9wiyGt4d6JXzNL90WfNFtPcoWfB1_NMM/view

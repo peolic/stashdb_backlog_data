@@ -1,34 +1,21 @@
-{
-  "c_studio": [
-    "Casting Couch-HD",
-    null
-  ],
-  "comments": [
-    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821",
-    "Ep 2015-01-28 - Gabby ... Reina Storm / Tova Storm (CCHD)"
-  ],
-  "date": "2015-01-28",
-  "performers": {
-    "remove": [
-      {
-        "id": "4bc7cb18-337a-4e9e-9a47-8467c240e737",
-        "name": "Gabby",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Tova Storm",
-        "appearance": "Gabby",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=tovastorm/gender=f/tova-storm.htm"
-      },
-      {
-        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
-        "name": "Tee Reel",
-        "appearance": "Chris"
-      }
-    ]
-  }
-}
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821
+  - Ep 2015-01-28 - Gabby ... Reina Storm / Tova Storm (CCHD)
+date: '2015-01-28'
+performers:
+  remove:
+    - id: 4bc7cb18-337a-4e9e-9a47-8467c240e737
+      name: Gabby
+      appearance: null
+  append:
+    - id: null
+      name: Tova Storm
+      appearance: Gabby
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=tovastorm/gender=f/tova-storm.htm
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris

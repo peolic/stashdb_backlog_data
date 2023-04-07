@@ -1,33 +1,20 @@
-{
-  "c_studio": [
-    "Casting Couch-HD",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch-hd+640%3a+nikki/year=2014/castingcouch-hd-640%3a-nikki.htm"
-  ],
-  "date": "2014-07-17",
-  "performers": {
-    "remove": [
-      {
-        "id": "ec26f084-d8e3-4e30-bd8f-241987cfc788",
-        "name": "Nikki",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Sasha Shyne",
-        "appearance": "Nikki",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=sashashyne/gender=f/sasha-shyne.htm"
-      },
-      {
-        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
-        "name": "Tee Reel",
-        "appearance": "Chris"
-      }
-    ]
-  }
-}
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=castingcouch-hd+640%3a+nikki/year=2014/castingcouch-hd-640%3a-nikki.htm
+date: '2014-07-17'
+performers:
+  remove:
+    - id: ec26f084-d8e3-4e30-bd8f-241987cfc788
+      name: Nikki
+      appearance: null
+  append:
+    - id: null
+      name: Sasha Shyne
+      appearance: Nikki
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=sashashyne/gender=f/sasha-shyne.htm
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris

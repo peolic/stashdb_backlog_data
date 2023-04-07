@@ -1,50 +1,32 @@
-{
-  "c_studio": [
-    "Casting Couch-HD",
-    null
-  ],
-  "comments": [
-    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814",
-    "Ep 2013.09 - Aubry (and Tabitha) ... Erica Echo (CCHD)"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "a758f7d8-993d-451f-9193-56330528576b",
-        "name": "Aubrey",
-        "appearance": null
-      },
-      {
-        "id": "782fd292-10ac-4f94-8f7f-3331d57f1a01",
-        "name": "Tiffany",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Erica Echo",
-        "appearance": "Aubrey",
-        "status": "new",
-        "status_url": "https://www.indexxx.com/m/erica-echo",
-        "notes": [
-          "https://www.thenude.com/_37138.htm",
-          "https://www.boobpedia.com/boobs/Erica_Echo",
-          "https://www.babepedia.com/babe/Erica_Echo",
-          "https://www.freeones.com/erica-echo"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Tiffany (2013, NVG)",
-        "appearance": null,
-        "status": "new"
-      },
-      {
-        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
-        "name": "Tee Reel",
-        "appearance": "Chris"
-      }
-    ]
-  }
-}
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814
+  - Ep 2013.09 - Aubry (and Tabitha) ... Erica Echo (CCHD)
+performers:
+  remove:
+    - id: a758f7d8-993d-451f-9193-56330528576b
+      name: Aubrey
+      appearance: null
+    - id: 782fd292-10ac-4f94-8f7f-3331d57f1a01
+      name: Tiffany
+      appearance: null
+  append:
+    - id: null
+      name: Erica Echo
+      appearance: Aubrey
+      status: new
+      status_url: https://www.indexxx.com/m/erica-echo
+      notes:
+        - https://www.thenude.com/_37138.htm
+        - https://www.boobpedia.com/boobs/Erica_Echo
+        - https://www.babepedia.com/babe/Erica_Echo
+        - https://www.freeones.com/erica-echo
+    - id: null
+      name: Tiffany (2013, NVG)
+      appearance: null
+      status: new
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris

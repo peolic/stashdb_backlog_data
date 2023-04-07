@@ -1,29 +1,16 @@
-{
-  "split": {
-    "name": "Vic",
-    "shards": [
-      {
-        "id": null,
-        "name": "Vic (Sean Cody 2006)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/89954"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Vic (Sean Cody 2014)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/102644"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Vic (GF Revenge)",
-        "text": "2010 scene"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-11-18)"
-    ]
-  }
-}
+split:
+  name: Vic
+  fragments:
+    - id: null
+      name: Vic (Sean Cody 2006)
+      links:
+        - https://gayeroticvideoindex.com/performer/89954
+    - id: null
+      name: Vic (Sean Cody 2014)
+      links:
+        - https://gayeroticvideoindex.com/performer/102644
+    - id: null
+      name: Vic (GF Revenge)
+      text: 2010 scene
+  notes:
+    - Mix of multiple performers (complete list as of 2022-11-18)

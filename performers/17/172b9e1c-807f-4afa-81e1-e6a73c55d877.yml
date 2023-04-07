@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Darci",
-    "shards": [
-      {
-        "id": null,
-        "name": "Malena ?",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alina_eu_06/gender=f/alina.htm",
-          "https://www.indexxx.com/m/malena"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Darci (2003, Reality Kings)",
-        "text": "Captain Stabbin",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=darci_rk_03/gender=f/darci.htm",
-          "https://www.indexxx.com/m/darci"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-04)"
-    ]
-  }
-}
+split:
+  name: Darci
+  fragments:
+    - id: null
+      name: Malena ?
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=alina_eu_06/gender=f/alina.htm
+        - https://www.indexxx.com/m/malena
+    - id: null
+      name: Darci (2003, Reality Kings)
+      text: Captain Stabbin
+      links:
+        - https://www.iafd.com/person.rme/perfid=darci_rk_03/gender=f/darci.htm
+        - https://www.indexxx.com/m/darci
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-04)

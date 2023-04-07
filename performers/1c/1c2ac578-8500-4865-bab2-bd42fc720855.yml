@@ -1,24 +1,13 @@
-{
-  "split": {
-    "name": "Petra",
-    "shards": [
-      {
-        "id": null,
-        "name": "Petra (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/petra-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Petra (TheLifeErotic)",
-        "links": [
-          "https://www.indexxx.com/m/petra-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Petra
+  fragments:
+    - id: null
+      name: Petra (Nubiles)
+      links:
+        - https://www.indexxx.com/m/petra-1
+    - id: null
+      name: Petra (TheLifeErotic)
+      links:
+        - https://www.indexxx.com/m/petra-3
+  notes:
+    - Mix of multiple performers (partial list)

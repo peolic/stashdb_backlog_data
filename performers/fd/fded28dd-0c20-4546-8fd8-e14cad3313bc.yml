@@ -1,24 +1,15 @@
-{
-  "split": {
-    "name": "Britney",
-    "shards": [
-      {
-        "id": "6a9a7b27-5398-402b-995c-99219e189421",
-        "name": "Brigitte Hunter",
-        "text": "at least:",
-        "notes": [
-          "- 21 Sextury",
-          "- 21 Sextreme",
-          "- 21 Bonus"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=britney_eu_06/gender=f/britney.htm",
-          "https://www.indexxx.com/m/brigitte-hunter"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Britney
+  fragments:
+    - id: 6a9a7b27-5398-402b-995c-99219e189421
+      name: Brigitte Hunter
+      text: 'at least:'
+      notes:
+        - '- 21 Sextury'
+        - '- 21 Sextreme'
+        - '- 21 Bonus'
+      links:
+        - https://www.iafd.com/person.rme/perfid=britney_eu_06/gender=f/britney.htm
+        - https://www.indexxx.com/m/brigitte-hunter
+  notes:
+    - Mix of multiple performers (partial list)

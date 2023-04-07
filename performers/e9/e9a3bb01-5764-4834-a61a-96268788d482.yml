@@ -1,39 +1,24 @@
-{
-  "split": {
-    "name": "Katie Collins",
-    "shards": [
-      {
-        "id": null,
-        "name": "Katie Collins (2011, UK)",
-        "text": "Twistys",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katiecollins_10_uk/gender=f/katie-collins.htm",
-          "https://www.indexxx.com/m/katie-collins-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Katie Collins (2010-2012, US) AKA Jizzelle Jennings",
-        "notes": [
-          "- Bang Bus",
-          "- Dare Dorm",
-          "- GF Revenge"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katiecollins/gender=f/katie-collins.htm",
-          "https://www.indexxx.com/m/katie-collins"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Dick Dorm scene",
-        "links": [
-          "https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-12-27)"
-    ]
-  }
-}
+split:
+  name: Katie Collins
+  fragments:
+    - id: null
+      name: Katie Collins (2011, UK)
+      text: Twistys
+      links:
+        - https://www.iafd.com/person.rme/perfid=katiecollins_10_uk/gender=f/katie-collins.htm
+        - https://www.indexxx.com/m/katie-collins-1
+    - id: null
+      name: Katie Collins (2010-2012, US) AKA Jizzelle Jennings
+      notes:
+        - '- Bang Bus'
+        - '- Dare Dorm'
+        - '- GF Revenge'
+      links:
+        - https://www.iafd.com/person.rme/perfid=katiecollins/gender=f/katie-collins.htm
+        - https://www.indexxx.com/m/katie-collins
+    - id: null
+      name: Dick Dorm scene
+      links:
+        - https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097
+  notes:
+    - Mix of multiple performers (complete list as of 2022-12-27)

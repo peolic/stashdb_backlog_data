@@ -1,24 +1,14 @@
-{
-  "split": {
-    "name": "Blaire",
-    "shards": [
-      {
-        "id": null,
-        "name": "Blaire (2007, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bliare_rk/gender=f/blaire.htm",
-          "https://www.indexxx.com/m/blaire"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Blaire (2005, Net Video Girls)",
-        "text": "Net Video Girls"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-04-06)"
-    ]
-  }
-}
+split:
+  name: Blaire
+  fragments:
+    - id: null
+      name: Blaire (2007, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=bliare_rk/gender=f/blaire.htm
+        - https://www.indexxx.com/m/blaire
+    - id: null
+      name: Blaire (2005, Net Video Girls)
+      text: Net Video Girls
+  notes:
+    - Mix of multiple performers (complete list as of 2023-04-06)

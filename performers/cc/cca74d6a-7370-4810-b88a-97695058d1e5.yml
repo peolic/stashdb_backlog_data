@@ -1,75 +1,48 @@
-{
-  "split": {
-    "name": "Fiona",
-    "shards": [
-      {
-        "id": null,
-        "name": "Fiona (Teen Mega World)",
-        "notes": [
-          "- Creampie Angels",
-          "- I Fucked Her Finally"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marie_16_tryteens/gender=f/marie.htm",
-          "https://www.indexxx.com/m/fiona-1"
-        ]
-      },
-      {
-        "id": "4f48d8be-f88c-4264-bc26-434b5373faef",
-        "name": "Fiona Cheeks",
-        "notes": [
-          "- Big Wet Butts - incorrect alias",
-          "- Twistys - incorrect alias"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=fionacheeks/gender=f/fiona-cheeks.htm",
-          "https://www.indexxx.com/m/fiona-cheeks"
-        ]
-      },
-      {
-        "id": "23412c3a-f5c4-4a00-95a7-38b6c9e82ef1",
-        "name": "Fiona Bones",
-        "text": "Jules Jordan",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=fionabones/gender=f/fiona-bones.htm",
-          "https://www.indexxx.com/m/fiona-3"
-        ]
-      },
-      {
-        "id": "6208d30a-30aa-4149-bd82-bdc26ced098a",
-        "name": "Vyona AKA Ilona Best",
-        "text": "Mikes Apartment (2005-2006)",
-        "links": [
-          "https://stashdb.org/performers/7682c91e-4752-457a-a55f-68ad101391fe",
-          "https://www.iafd.com/person.rme/perfid=vyona_h_04/gender=f/vyona.htm",
-          "https://www.indexxx.com/m/vyona"
-        ]
-      },
-      {
-        "id": "be7625ae-eaae-4594-b105-cdce16411a32",
-        "name": "Nataly Gold (Russian)",
-        "notes": [
-          "- 18 Virgin Sex",
-          "- Spoiled Virgins"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=natalygold/gender=f/nataly-gold.htm",
-          "https://www.indexxx.com/m/nataly-gold",
-          "https://1passforallsites.com/model?id=439"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Fiona (2011, Reality Kings)",
-        "text": "Horny Birds"
-      },
-      {
-        "id": null,
-        "name": "Fiona (Nasty Angels)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-15)"
-    ]
-  }
-}
+split:
+  name: Fiona
+  fragments:
+    - id: null
+      name: Fiona (Teen Mega World)
+      notes:
+        - '- Creampie Angels'
+        - '- I Fucked Her Finally'
+      links:
+        - https://www.iafd.com/person.rme/perfid=marie_16_tryteens/gender=f/marie.htm
+        - https://www.indexxx.com/m/fiona-1
+    - id: 4f48d8be-f88c-4264-bc26-434b5373faef
+      name: Fiona Cheeks
+      notes:
+        - '- Big Wet Butts - incorrect alias'
+        - '- Twistys - incorrect alias'
+      links:
+        - https://www.iafd.com/person.rme/perfid=fionacheeks/gender=f/fiona-cheeks.htm
+        - https://www.indexxx.com/m/fiona-cheeks
+    - id: 23412c3a-f5c4-4a00-95a7-38b6c9e82ef1
+      name: Fiona Bones
+      text: Jules Jordan
+      links:
+        - https://www.iafd.com/person.rme/perfid=fionabones/gender=f/fiona-bones.htm
+        - https://www.indexxx.com/m/fiona-3
+    - id: 6208d30a-30aa-4149-bd82-bdc26ced098a
+      name: Vyona AKA Ilona Best
+      text: Mikes Apartment (2005-2006)
+      links:
+        - https://stashdb.org/performers/7682c91e-4752-457a-a55f-68ad101391fe
+        - https://www.iafd.com/person.rme/perfid=vyona_h_04/gender=f/vyona.htm
+        - https://www.indexxx.com/m/vyona
+    - id: be7625ae-eaae-4594-b105-cdce16411a32
+      name: Nataly Gold (Russian)
+      notes:
+        - '- 18 Virgin Sex'
+        - '- Spoiled Virgins'
+      links:
+        - https://www.iafd.com/person.rme/perfid=natalygold/gender=f/nataly-gold.htm
+        - https://www.indexxx.com/m/nataly-gold
+        - https://1passforallsites.com/model?id=439
+    - id: null
+      name: Fiona (2011, Reality Kings)
+      text: Horny Birds
+    - id: null
+      name: Fiona (Nasty Angels)
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-15)

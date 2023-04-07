@@ -1,24 +1,13 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "oshash",
-      "hash": "40874eda3c074aa6",
-      "correct_scene_id": "10b35bb3-f516-42ee-bc10-c8849ca3c5c0"
-    },
-    {
-      "algorithm": "phash",
-      "hash": "e2f5e0b628e9a7c0",
-      "correct_scene_id": "10b35bb3-f516-42ee-bc10-c8849ca3c5c0"
-    },
-    {
-      "algorithm": "phash",
-      "hash": "e2f5e0be28e1a7c0",
-      "correct_scene_id": "10b35bb3-f516-42ee-bc10-c8849ca3c5c0"
-    },
-    {
-      "algorithm": "phash",
-      "hash": "eaf5e0b628e1a7c0",
-      "correct_scene_id": "10b35bb3-f516-42ee-bc10-c8849ca3c5c0"
-    }
-  ]
-}
+fingerprints:
+  - algorithm: oshash
+    hash: 40874eda3c074aa6
+    correct_scene_id: 10b35bb3-f516-42ee-bc10-c8849ca3c5c0
+  - algorithm: phash
+    hash: e2f5e0b628e9a7c0
+    correct_scene_id: 10b35bb3-f516-42ee-bc10-c8849ca3c5c0
+  - algorithm: phash
+    hash: e2f5e0be28e1a7c0
+    correct_scene_id: 10b35bb3-f516-42ee-bc10-c8849ca3c5c0
+  - algorithm: phash
+    hash: eaf5e0b628e1a7c0
+    correct_scene_id: 10b35bb3-f516-42ee-bc10-c8849ca3c5c0

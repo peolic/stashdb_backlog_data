@@ -1,116 +1,74 @@
-{
-  "split": {
-    "name": "Amanda",
-    "shards": [
-      {
-        "id": null,
-        "name": "Amanda (2016, Backroom Casting Couch)",
-        "links": [
-          "https://www.backroomcastingcouch.com/models/amanda.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Olga H",
-        "text": "(2 of Young Porn Home Video)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=olgah/gender=f/olga-h.htm",
-          "https://www.indexxx.com/m/olga-h"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amanda (2009, Young Porn Home Video)",
-        "links": [
-          "https://www.iafd.com/title.rme/title=young+porn+home+video+2039/year=2009/young-porn-home-video-2039.htm",
-          "https://www.indexxx.com/set/906815/null/"
-        ]
-      },
-      {
-        "id": "973bb0a7-6e5c-45b0-bafc-080b12e3cee0",
-        "name": "Amanda Blow",
-        "text": "(Massage Parlor)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=amandablow/gender=f/amanda-blow.htm",
-          "https://www.indexxx.com/m/amanda-blow"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amanda (2009, My Life In Brazil)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=amanda_br_10/gender=f/amanda.htm",
-          "https://www.indexxx.com/m/amanda-28",
-          "https://bangbros.com/model28702/amanda"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amanda (2008, BangBros)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=amanda_bb_08/gender=f/amanda.htm",
-          "https://www.indexxx.com/m/amanda-1",
-          "https://bangbros.com/model22312/amanda"
-        ]
-      },
-      {
-        "id": "029d676f-0cd7-42d0-8035-5b9224909a5e",
-        "name": "Lara Sharm",
-        "text": "(Dirty World Tour)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=larasharm/gender=f/lara-sharm.htm",
-          "https://www.indexxx.com/m/lara-sharm",
-          "https://bangbros.com/model24661/amanda"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amanda (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/amanda-11",
-          "https://www.thenude.com/_29414.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amanda or Candi (2005, First Time Auditions)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=amanda_rk_05/gender=f/amanda.htm",
-          "https://www.indexxx.com/m/amanda-10",
-          "https://www.indexxx.com/m/candi-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amanda (2003, Reality Kings)",
-        "text": "Tranny Surprise (2003)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=amanda99/gender=f/amanda.htm"
-        ]
-      },
-      {
-        "id": "b8316399-054a-484f-b809-8e39a3b71a80",
-        "name": "Amanda Teen",
-        "text": "Tranny Surprise (2008)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=amandateen_ts/gender=f/amanda-teen.htm"
-        ]
-      },
-      {
-        "id": "1f05590c-6043-4d6e-a749-437ed3a028ab",
-        "name": "Madison James",
-        "notes": [
-          "- \u0002Net Video Girls (2004)\u0003",
-          "- Net Video Girls (2006)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madisonjames/gender=f/madison-james.htm",
-          "https://www.indexxx.com/m/madison-james"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Amanda
+  fragments:
+    - id: null
+      name: Amanda (2016, Backroom Casting Couch)
+      links:
+        - https://www.backroomcastingcouch.com/models/amanda.html
+    - id: null
+      name: Olga H
+      text: (2 of Young Porn Home Video)
+      links:
+        - https://www.iafd.com/person.rme/perfid=olgah/gender=f/olga-h.htm
+        - https://www.indexxx.com/m/olga-h
+    - id: null
+      name: Amanda (2009, Young Porn Home Video)
+      links:
+        - https://www.iafd.com/title.rme/title=young+porn+home+video+2039/year=2009/young-porn-home-video-2039.htm
+        - https://www.indexxx.com/set/906815/null/
+    - id: 973bb0a7-6e5c-45b0-bafc-080b12e3cee0
+      name: Amanda Blow
+      text: (Massage Parlor)
+      links:
+        - https://www.iafd.com/person.rme/perfid=amandablow/gender=f/amanda-blow.htm
+        - https://www.indexxx.com/m/amanda-blow
+    - id: null
+      name: Amanda (2009, My Life In Brazil)
+      links:
+        - https://www.iafd.com/person.rme/perfid=amanda_br_10/gender=f/amanda.htm
+        - https://www.indexxx.com/m/amanda-28
+        - https://bangbros.com/model28702/amanda
+    - id: null
+      name: Amanda (2008, BangBros)
+      links:
+        - https://www.iafd.com/person.rme/perfid=amanda_bb_08/gender=f/amanda.htm
+        - https://www.indexxx.com/m/amanda-1
+        - https://bangbros.com/model22312/amanda
+    - id: 029d676f-0cd7-42d0-8035-5b9224909a5e
+      name: Lara Sharm
+      text: (Dirty World Tour)
+      links:
+        - https://www.iafd.com/person.rme/perfid=larasharm/gender=f/lara-sharm.htm
+        - https://www.indexxx.com/m/lara-sharm
+        - https://bangbros.com/model24661/amanda
+    - id: null
+      name: Amanda (Nubiles)
+      links:
+        - https://www.indexxx.com/m/amanda-11
+        - https://www.thenude.com/_29414.htm
+    - id: null
+      name: Amanda or Candi (2005, First Time Auditions)
+      links:
+        - https://www.iafd.com/person.rme/perfid=amanda_rk_05/gender=f/amanda.htm
+        - https://www.indexxx.com/m/amanda-10
+        - https://www.indexxx.com/m/candi-3
+    - id: null
+      name: Amanda (2003, Reality Kings)
+      text: Tranny Surprise (2003)
+      links:
+        - https://www.iafd.com/person.rme/perfid=amanda99/gender=f/amanda.htm
+    - id: b8316399-054a-484f-b809-8e39a3b71a80
+      name: Amanda Teen
+      text: Tranny Surprise (2008)
+      links:
+        - https://www.iafd.com/person.rme/perfid=amandateen_ts/gender=f/amanda-teen.htm
+    - id: 1f05590c-6043-4d6e-a749-437ed3a028ab
+      name: Madison James
+      notes:
+        - "- \x02Net Video Girls (2004)\x03"
+        - '- Net Video Girls (2006)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=madisonjames/gender=f/madison-james.htm
+        - https://www.indexxx.com/m/madison-james
+  notes:
+    - Mix of multiple performers (partial list)

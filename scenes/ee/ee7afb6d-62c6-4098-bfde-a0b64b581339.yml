@@ -1,32 +1,19 @@
-{
-  "c_studio": [
-    "Team Squirt",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=soaked+and+poked/year=2007/soaked-and-poked.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "dccf386b-bb85-4f65-8e75-2dc19a230b60",
-        "name": "Tiffani",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Tiffany Martin",
-        "appearance": "Tiffani",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=tiffanymartin/gender=f/tiffany-martin.htm"
-      },
-      {
-        "id": "8a8d1b88-9925-4708-bc57-3dc7072ac7fc",
-        "name": "Derrick Pierce",
-        "appearance": null
-      }
-    ]
-  }
-}
+c_studio:
+  - Team Squirt
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=soaked+and+poked/year=2007/soaked-and-poked.htm
+performers:
+  remove:
+    - id: dccf386b-bb85-4f65-8e75-2dc19a230b60
+      name: Tiffani
+      appearance: null
+  append:
+    - id: null
+      name: Tiffany Martin
+      appearance: Tiffani
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=tiffanymartin/gender=f/tiffany-martin.htm
+    - id: 8a8d1b88-9925-4708-bc57-3dc7072ac7fc
+      name: Derrick Pierce
+      appearance: null

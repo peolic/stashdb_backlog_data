@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Hunter",
-    "shards": [
-      {
-        "id": null,
-        "name": "Hunter (Teen Core Club)",
-        "links": [
-          "http://web.archive.org/web/20170513123629/http://teencoreclub.com/models/hunter/",
-          "https://yespornpics.com/sex/spermantino-hunter-tub-blowjob-america"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of preformers"
-    ]
-  }
-}
+split:
+  name: Hunter
+  fragments:
+    - id: null
+      name: Hunter (Teen Core Club)
+      links:
+        - http://web.archive.org/web/20170513123629/http://teencoreclub.com/models/hunter/
+        - https://yespornpics.com/sex/spermantino-hunter-tub-blowjob-america
+  notes:
+    - Mix of preformers

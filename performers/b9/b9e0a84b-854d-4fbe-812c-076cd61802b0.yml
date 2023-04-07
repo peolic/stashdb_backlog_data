@@ -1,27 +1,16 @@
-{
-  "split": {
-    "name": "Suzy",
-    "shards": [
-      {
-        "id": "789f029f-6e85-4153-b80e-48a3c8d91873",
-        "name": "Katarina Sidney",
-        "text": "(\u00022007-\u00032008 Euro Sex Parties)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katarinasidney/gender=f/katarina-sidney.htm",
-          "https://www.indexxx.com/m/katarina-sidney"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Suzy (Nubiles, ATK)",
-        "links": [
-          "https://www.indexxx.com/m/suzy-1",
-          "https://www.thenude.com/_29667.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Suzy
+  fragments:
+    - id: 789f029f-6e85-4153-b80e-48a3c8d91873
+      name: Katarina Sidney
+      text: "(\x022007-\x032008 Euro Sex Parties)"
+      links:
+        - https://www.iafd.com/person.rme/perfid=katarinasidney/gender=f/katarina-sidney.htm
+        - https://www.indexxx.com/m/katarina-sidney
+    - id: null
+      name: Suzy (Nubiles, ATK)
+      links:
+        - https://www.indexxx.com/m/suzy-1
+        - https://www.thenude.com/_29667.htm
+  notes:
+    - Mix of multiple performers (partial list)

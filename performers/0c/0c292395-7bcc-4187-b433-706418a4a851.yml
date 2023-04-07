@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Phillip",
-    "shards": [
-      {
-        "id": null,
-        "name": "Phillip (Sean Cody 2012)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=phillip_sc_1/gender=m/phillip.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Phillip
+  fragments:
+    - id: null
+      name: Phillip (Sean Cody 2012)
+      links:
+        - https://www.iafd.com/person.rme/perfid=phillip_sc_1/gender=m/phillip.htm
+  notes:
+    - Mix of multiple performers (partial list)

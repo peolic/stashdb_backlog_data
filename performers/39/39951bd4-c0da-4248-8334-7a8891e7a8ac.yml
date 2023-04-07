@@ -1,39 +1,27 @@
-{
-  "split": {
-    "name": "Zack",
-    "shards": [
-      {
-        "id": "db864f7f-f392-4680-94d7-f4f5b00c9495",
-        "name": "Sabby",
-        "notes": [
-          "- \u0002Maybe all of 21* Network\u0003",
-          "- \u0002Girls Rimming\u0003",
-          "- ALS Scan",
-          "- Anal Introductions",
-          "- DaringSex HD",
-          "- \u0002MixedX\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=szabi/gender=m/szabi.htm",
-          "https://www.21sextury.com/en/pornstar/view/Zack/38999",
-          "https://girlsrimming.com/tour/models/zack.html",
-          "https://www.alsscan.com/model/zack",
-          "https://www.mixedx.com/en/pornstar/view/Zack/61861"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Zack Lemec",
-        "text": "(Pegas Productions)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=zacklemec/gender=m/zack-lemec.htm",
-          "https://www.pegasproductions.com/zack"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (possibly complete list as of 2022-06-11). ",
-      "At first glance, looks like most scenes are of Sabby (fragment #1)."
-    ]
-  }
-}
+split:
+  name: Zack
+  fragments:
+    - id: db864f7f-f392-4680-94d7-f4f5b00c9495
+      name: Sabby
+      notes:
+        - "- \x02Maybe all of 21* Network\x03"
+        - "- \x02Girls Rimming\x03"
+        - '- ALS Scan'
+        - '- Anal Introductions'
+        - '- DaringSex HD'
+        - "- \x02MixedX\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=szabi/gender=m/szabi.htm
+        - https://www.21sextury.com/en/pornstar/view/Zack/38999
+        - https://girlsrimming.com/tour/models/zack.html
+        - https://www.alsscan.com/model/zack
+        - https://www.mixedx.com/en/pornstar/view/Zack/61861
+    - id: null
+      name: Zack Lemec
+      text: (Pegas Productions)
+      links:
+        - https://www.iafd.com/person.rme/perfid=zacklemec/gender=m/zack-lemec.htm
+        - https://www.pegasproductions.com/zack
+  notes:
+    - 'Mix of multiple performers (possibly complete list as of 2022-06-11). '
+    - 'At first glance, looks like most scenes are of Sabby (fragment #1).'

@@ -1,98 +1,62 @@
-{
-  "split": {
-    "name": "Lacey",
-    "shards": [
-      {
-        "id": "3a3b0ea3-7f46-41ff-8ad8-a32f4edb9f06",
-        "name": "Kimmy Olsen",
-        "text": "Net Video Girls (2011, 2013)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kimmyolsen/gender=f/kimmy-olsen.htm",
-          "https://www.indexxx.com/m/kimmy-olsen"
-        ]
-      },
-      {
-        "id": "cf0fa6a9-6f27-476b-b854-dbb34642e9c2",
-        "name": "Katrin AKA Kira C.",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrin_rus_08/gender=f/katrin.htm",
-          "https://www.indexxx.com/m/lacey"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lacey (Teen Mega World)",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.indexxx.com/m/lacey-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lacey (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lacey_10_russ/gender=f/lacey.htm"
-        ]
-      },
-      {
-        "id": "7347ed04-3374-4430-a5b1-bda268d36d42",
-        "name": "Lacy Cruz",
-        "text": "Big Mouthfuls",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lacy_or_05/gender=f/lacy-cruz.htm",
-          "https://www.indexxx.com/m/lacy-cruz"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lacey (2004, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.indexxx.com/m/lacey-4"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lacey (2005, Reality Kings)",
-        "text": "We Live Together",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lacey_rk05/gender=f/lacey.htm",
-          "https://www.indexxx.com/m/lacey-3"
-        ]
-      },
-      {
-        "id": "62060338-105b-4eb8-9188-e798fc7fc8c6",
-        "name": "Nadezhda",
-        "text": "First Anal Quest",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nadezhda/gender=f/nadezhda.htm",
-          "https://www.indexxx.com/m/nadezhda"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lacey (2015, Backroom Casting Couch)",
-        "text": "Backroom Casting Couch",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lacey_backroomcastingcouch/gender=f/lacey.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lacey (2010, Dare Dorm)",
-        "text": "(unknown)",
-        "notes": [
-          "- Dare Dorm"
-        ],
-        "links": [
-          "https://www.iafd.com/title.rme/title=so+fresh/year=2010/so-fresh.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-12-24)"
-    ]
-  }
-}
+split:
+  name: Lacey
+  fragments:
+    - id: 3a3b0ea3-7f46-41ff-8ad8-a32f4edb9f06
+      name: Kimmy Olsen
+      text: Net Video Girls (2011, 2013)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kimmyolsen/gender=f/kimmy-olsen.htm
+        - https://www.indexxx.com/m/kimmy-olsen
+    - id: cf0fa6a9-6f27-476b-b854-dbb34642e9c2
+      name: Katrin AKA Kira C.
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrin_rus_08/gender=f/katrin.htm
+        - https://www.indexxx.com/m/lacey
+    - id: null
+      name: Lacey (Teen Mega World)
+      text: Teen Mega World
+      links:
+        - https://www.indexxx.com/m/lacey-5
+    - id: null
+      name: Lacey (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=lacey_10_russ/gender=f/lacey.htm
+    - id: 7347ed04-3374-4430-a5b1-bda268d36d42
+      name: Lacy Cruz
+      text: Big Mouthfuls
+      links:
+        - https://www.iafd.com/person.rme/perfid=lacy_or_05/gender=f/lacy-cruz.htm
+        - https://www.indexxx.com/m/lacy-cruz
+    - id: null
+      name: Lacey (2004, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.indexxx.com/m/lacey-4
+    - id: null
+      name: Lacey (2005, Reality Kings)
+      text: We Live Together
+      links:
+        - https://www.iafd.com/person.rme/perfid=lacey_rk05/gender=f/lacey.htm
+        - https://www.indexxx.com/m/lacey-3
+    - id: 62060338-105b-4eb8-9188-e798fc7fc8c6
+      name: Nadezhda
+      text: First Anal Quest
+      links:
+        - https://www.iafd.com/person.rme/perfid=nadezhda/gender=f/nadezhda.htm
+        - https://www.indexxx.com/m/nadezhda
+    - id: null
+      name: Lacey (2015, Backroom Casting Couch)
+      text: Backroom Casting Couch
+      links:
+        - https://www.iafd.com/person.rme/perfid=lacey_backroomcastingcouch/gender=f/lacey.htm
+    - id: null
+      name: Lacey (2010, Dare Dorm)
+      text: (unknown)
+      notes:
+        - '- Dare Dorm'
+      links:
+        - https://www.iafd.com/title.rme/title=so+fresh/year=2010/so-fresh.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-12-24)

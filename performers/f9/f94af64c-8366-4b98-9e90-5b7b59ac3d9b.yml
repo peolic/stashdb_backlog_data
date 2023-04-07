@@ -1,32 +1,18 @@
-{
-  "split": {
-    "name": "Phoenix",
-    "shards": [
-      {
-        "id": "829b66e4-231a-435c-b1e9-ea36ef09fef5",
-        "name": "Phoenix Ray",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=phoenixray/gender=f/phoenix-ray.htm",
-          "https://www.indexxx.com/m/phoenix-ray"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Phoenix (ALS Scan)",
-        "links": [
-          "https://www.indexxx.com/m/phoenix-8"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Phoenix (2005, Tug Jobs)",
-        "links": [
-          "https://www.indexxx.com/m/phoenix"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers."
-    ]
-  }
-}
+split:
+  name: Phoenix
+  fragments:
+    - id: 829b66e4-231a-435c-b1e9-ea36ef09fef5
+      name: Phoenix Ray
+      links:
+        - https://www.iafd.com/person.rme/perfid=phoenixray/gender=f/phoenix-ray.htm
+        - https://www.indexxx.com/m/phoenix-ray
+    - id: null
+      name: Phoenix (ALS Scan)
+      links:
+        - https://www.indexxx.com/m/phoenix-8
+    - id: null
+      name: Phoenix (2005, Tug Jobs)
+      links:
+        - https://www.indexxx.com/m/phoenix
+  notes:
+    - Mix of multiple performers.

@@ -1,23 +1,15 @@
-{
-  "c_studio": [
-    "Jr College Lesbians",
-    null
-  ],
-  "comments": [
-    "Same as Virgin Teen Lesbians 1 Scene 5",
-    "https://www.adultdvdempire.com/1317957/virgin-teen-lesbians-porn-movies.html"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Lexxy",
-        "appearance": "Lexy",
-        "disambiguation": "Canadian, 2006-2008",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lexy_07/gender=f/lexy.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Jr College Lesbians
+  - null
+comments:
+  - Same as Virgin Teen Lesbians 1 Scene 5
+  - https://www.adultdvdempire.com/1317957/virgin-teen-lesbians-porn-movies.html
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Lexxy
+      appearance: Lexy
+      disambiguation: Canadian, 2006-2008
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=lexy_07/gender=f/lexy.htm

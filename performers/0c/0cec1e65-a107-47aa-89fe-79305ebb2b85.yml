@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Jaiden",
-    "shards": [
-      {
-        "id": "3e9d1b8c-37bf-464d-84bc-47ce7476353f",
-        "name": "Liana (RU, b. 1990)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=liana_rus_09/gender=f/liana.htm",
-          "https://www.indexxx.com/m/liana"
-        ]
-      },
-      {
-        "id": "5b70ef91-8fd8-4621-a648-e73af4e3c5de",
-        "name": "April Rain",
-        "text": "Cum Fiesta",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=aprilrain/gender=f/april-rain.htm",
-          "https://www.indexxx.com/m/jaiden"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-04)"
-    ]
-  }
-}
+split:
+  name: Jaiden
+  fragments:
+    - id: 3e9d1b8c-37bf-464d-84bc-47ce7476353f
+      name: Liana (RU, b. 1990)
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=liana_rus_09/gender=f/liana.htm
+        - https://www.indexxx.com/m/liana
+    - id: 5b70ef91-8fd8-4621-a648-e73af4e3c5de
+      name: April Rain
+      text: Cum Fiesta
+      links:
+        - https://www.iafd.com/person.rme/perfid=aprilrain/gender=f/april-rain.htm
+        - https://www.indexxx.com/m/jaiden
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-04)

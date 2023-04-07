@@ -1,141 +1,96 @@
-{
-  "split": {
-    "name": "Paris",
-    "shards": [
-      {
-        "id": "95daf9be-dc25-4a7b-88a6-610d85f65e51",
-        "name": "Paris Kennedy",
-        "notes": [
-          "- Digital Playground - incorrect alias",
-          "- Net Video Girls (2003)",
-          "Ep 2003.20 - Paris = Paris Kennedy",
-          "Ep 2003.32 - Paris Returns = Paris Kennedy"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=pariskennedy/gender=f/paris-kennedy.htm",
-          "https://www.indexxx.com/m/paris-kennedy",
-          "https://www.data18.com/name/paris-kennedy",
-          "https://www.digitalplayground.com/modelprofile/36497/paris",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801"
-        ]
-      },
-      {
-        "id": "51c68478-418f-41bb-af27-e07f817c6c46",
-        "name": "Jeanie Marie Sullivan",
-        "text": "Net Video Girls (2011)",
-        "notes": [
-          "Ep 2011.02 - Paris = Jeanie Marie Sullivan"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jmsullivan/gender=f/jeanie-marie-sullivan.htm",
-          "https://www.indexxx.com/m/jeanie-marie-sullivan",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Paris (CZ, 2005-2007)",
-        "text": "DDF Network",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paris_06/gender=f/paris.htm",
-          "https://www.indexxx.com/m/paris"
-        ]
-      },
-      {
-        "id": "5c619cb3-65f5-4860-b82c-ced5080621ad",
-        "name": "Justine Taylor",
-        "notes": [
-          "\u0002- Bang Bus (2010-04-28)\u0003",
-          "- Money Talks"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=justinetaylor_score/gender=f/justine-taylor.htm",
-          "https://www.indexxx.com/m/justine-taylor"
-        ]
-      },
-      {
-        "id": "4669cb46-089e-42d1-ac9b-5af4e6caa6e7",
-        "name": "Paris Lincoln",
-        "text": "Mile High Media: same as \"Lesbian Strap-On Fantasies: Roommates with Benefits\" scene 2",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=parislincoln/gender=f/paris-lincoln.htm",
-          "https://www.indexxx.com/m/paris-lincoln",
-          "https://www.data18.com/scenes/369066"
-        ]
-      },
-      {
-        "id": "4dc1d831-4e36-4375-b712-703481dcf5e1",
-        "name": "Paris Sweet",
-        "notes": [
-          "- 8th Street Latinas",
-          "- In the VIP",
-          "- Latina Sex Tapes - incorrect alias"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=parissweet/gender=f/paris-sweet.htm",
-          "https://www.indexxx.com/m/paris-sweet"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Paris (2010, Ass Parade)",
-        "text": "Ass Parade",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paris_bangbros/gender=f/paris.htm",
-          "https://www.indexxx.com/m/paris-16",
-          "https://bangbros.com/model31969/paris"
-        ]
-      },
-      {
-        "id": "6da24509-ad4b-41ec-a1bf-e5071125f398",
-        "name": "Molly Summers",
-        "text": "Bang Bus (2010-10-20)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mollysummers/gender=f/molly-summers.htm",
-          "https://www.indexxx.com/m/paris-17",
-          "https://bangbros.com/model32410/paris"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Paris (2007, Reality Kings)",
-        "text": "Captain Stabbin",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paris_rk_07/gender=f/paris.htm",
-          "https://www.indexxx.com/m/paris-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Paris (2012, Reality Kings)",
-        "text": "Big Naturals",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paris_rk_2012/gender=f/paris.htm",
-          "https://www.indexxx.com/m/paris-20"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Paris (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paris_08_russ/gender=f/paris.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Paris (2008, White Ghetto)",
-        "text": "White Ghetto",
-        "notes": [
-          "Presumably the right-most performer in the photo"
-        ],
-        "links": [
-          "https://www.adultdvdempire.com/1410825/big-fat-lesbian-orgy-porn-movies.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-09)"
-    ]
-  }
-}
+split:
+  name: Paris
+  fragments:
+    - id: 95daf9be-dc25-4a7b-88a6-610d85f65e51
+      name: Paris Kennedy
+      notes:
+        - '- Digital Playground - incorrect alias'
+        - '- Net Video Girls (2003)'
+        - Ep 2003.20 - Paris = Paris Kennedy
+        - Ep 2003.32 - Paris Returns = Paris Kennedy
+      links:
+        - https://www.iafd.com/person.rme/perfid=pariskennedy/gender=f/paris-kennedy.htm
+        - https://www.indexxx.com/m/paris-kennedy
+        - https://www.data18.com/name/paris-kennedy
+        - https://www.digitalplayground.com/modelprofile/36497/paris
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801
+    - id: 51c68478-418f-41bb-af27-e07f817c6c46
+      name: Jeanie Marie Sullivan
+      text: Net Video Girls (2011)
+      notes:
+        - Ep 2011.02 - Paris = Jeanie Marie Sullivan
+      links:
+        - https://www.iafd.com/person.rme/perfid=jmsullivan/gender=f/jeanie-marie-sullivan.htm
+        - https://www.indexxx.com/m/jeanie-marie-sullivan
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813
+    - id: null
+      name: Paris (CZ, 2005-2007)
+      text: DDF Network
+      links:
+        - https://www.iafd.com/person.rme/perfid=paris_06/gender=f/paris.htm
+        - https://www.indexxx.com/m/paris
+    - id: 5c619cb3-65f5-4860-b82c-ced5080621ad
+      name: Justine Taylor
+      notes:
+        - "\x02- Bang Bus (2010-04-28)\x03"
+        - '- Money Talks'
+      links:
+        - https://www.iafd.com/person.rme/perfid=justinetaylor_score/gender=f/justine-taylor.htm
+        - https://www.indexxx.com/m/justine-taylor
+    - id: 4669cb46-089e-42d1-ac9b-5af4e6caa6e7
+      name: Paris Lincoln
+      text: 'Mile High Media: same as "Lesbian Strap-On Fantasies: Roommates with
+        Benefits" scene 2'
+      links:
+        - https://www.iafd.com/person.rme/perfid=parislincoln/gender=f/paris-lincoln.htm
+        - https://www.indexxx.com/m/paris-lincoln
+        - https://www.data18.com/scenes/369066
+    - id: 4dc1d831-4e36-4375-b712-703481dcf5e1
+      name: Paris Sweet
+      notes:
+        - '- 8th Street Latinas'
+        - '- In the VIP'
+        - '- Latina Sex Tapes - incorrect alias'
+      links:
+        - https://www.iafd.com/person.rme/perfid=parissweet/gender=f/paris-sweet.htm
+        - https://www.indexxx.com/m/paris-sweet
+    - id: null
+      name: Paris (2010, Ass Parade)
+      text: Ass Parade
+      links:
+        - https://www.iafd.com/person.rme/perfid=paris_bangbros/gender=f/paris.htm
+        - https://www.indexxx.com/m/paris-16
+        - https://bangbros.com/model31969/paris
+    - id: 6da24509-ad4b-41ec-a1bf-e5071125f398
+      name: Molly Summers
+      text: Bang Bus (2010-10-20)
+      links:
+        - https://www.iafd.com/person.rme/perfid=mollysummers/gender=f/molly-summers.htm
+        - https://www.indexxx.com/m/paris-17
+        - https://bangbros.com/model32410/paris
+    - id: null
+      name: Paris (2007, Reality Kings)
+      text: Captain Stabbin
+      links:
+        - https://www.iafd.com/person.rme/perfid=paris_rk_07/gender=f/paris.htm
+        - https://www.indexxx.com/m/paris-5
+    - id: null
+      name: Paris (2012, Reality Kings)
+      text: Big Naturals
+      links:
+        - https://www.iafd.com/person.rme/perfid=paris_rk_2012/gender=f/paris.htm
+        - https://www.indexxx.com/m/paris-20
+    - id: null
+      name: Paris (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=paris_08_russ/gender=f/paris.htm
+    - id: null
+      name: Paris (2008, White Ghetto)
+      text: White Ghetto
+      notes:
+        - Presumably the right-most performer in the photo
+      links:
+        - https://www.adultdvdempire.com/1410825/big-fat-lesbian-orgy-porn-movies.html
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-09)

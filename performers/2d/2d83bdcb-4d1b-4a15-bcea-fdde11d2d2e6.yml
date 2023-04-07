@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Rod",
-    "shards": [
-      {
-        "id": null,
-        "name": "Rod (Sean Cody)",
-        "text": "1 scene",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/90061"
-        ]
-      }
-    ],
-    "notes": [
-      "One of two performers listed"
-    ]
-  }
-}
+split:
+  name: Rod
+  fragments:
+    - id: null
+      name: Rod (Sean Cody)
+      text: 1 scene
+      links:
+        - https://gayeroticvideoindex.com/performer/90061
+  notes:
+    - One of two performers listed

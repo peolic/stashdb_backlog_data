@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Desteny",
-    "shards": [
-      {
-        "id": null,
-        "name": "Desteny (TS)",
-        "text": "Devil's Tgirls",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=desteny/gender=f/desteny.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-22)"
-    ]
-  }
-}
+split:
+  name: Desteny
+  fragments:
+    - id: null
+      name: Desteny (TS)
+      text: Devil's Tgirls
+      links:
+        - https://www.iafd.com/person.rme/perfid=desteny/gender=f/desteny.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-22)

@@ -1,98 +1,66 @@
-{
-  "split": {
-    "name": "Michelle",
-    "shards": [
-      {
-        "id": null,
-        "name": "Greta ?",
-        "text": "(Michelle @ 1 Pass for All Sites)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=greta_rus/gender=f/greta.htm",
-          "https://www.indexxx.com/m/greta-4",
-          "https://1passforallsites.com/model?id=159"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michelle",
-        "text": "HairyTwatter",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michelle_lp_13/gender=f/michelle.htm",
-          "https://www.indexxx.com/m/michelle-22"
-        ]
-      },
-      {
-        "id": "33586549-667e-484b-b776-5263e77fbdc8",
-        "name": "Tania G.",
-        "text": "Mike's Apartment (2007-04-25) - incorrect alias",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=misaf/gender=f/misa-f..htm",
-          "https://www.indexxx.com/m/michaela-7"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michaela H",
-        "text": "1By-Day (2007)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michaelah/gender=f/michaela-h.htm",
-          "https://www.indexxx.com/m/michelle-3"
-        ]
-      },
-      {
-        "id": "1268fc39-3594-4305-8392-c61dc5e14796",
-        "name": "Mischelle (CZ) AKA Michelle Love",
-        "notes": [
-          "- Mike's Apartment (2007-04-11, 2009-01-14)",
-          "- Euro Sex Parties (2007-12-27)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mischelle_12/gender=f/mischelle.htm",
-          "https://www.indexxx.com/m/mischelle-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michelle (2010, GF Revenge)",
-        "text": "GF Revenge (possibly all)",
-        "notes": [
-          "- \"Feeling Crazy\" 2010-03-30",
-          "- \"Red Feeling\" 2010-04-01",
-          "- \"Big Tits\" 2010-02-07",
-          "- \"Sexy Feeling\" 2010-01-16",
-          "- \"Wet Cheeks\" 2000-01-01"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michelle_gf_10/gender=f/michelle.htm",
-          "https://www.realitykings.com/model/24762/michelle"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michelle Devine (2003)",
-        "text": "8th Street Latinas",
-        "notes": [
-          "Additionally - 2 BangBros scenes missing performers"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michelle_bang_03/gender=f/michelle-divine.htm",
-          "https://www.indexxx.com/m/michelle-divine",
-          "https://stashdb.org/scenes/50f52a65-3013-49e9-935a-e86b49852ac6",
-          "https://stashdb.org/scenes/bf23bc17-3ac2-4b60-824e-1753633f9742"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michelle (Teen Mega World)",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michelle_08_tmw/gender=f/michelle.htm",
-          "https://www.indexxx.com/m/michelle-48"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Michelle
+  fragments:
+    - id: null
+      name: Greta ?
+      text: (Michelle @ 1 Pass for All Sites)
+      links:
+        - https://www.iafd.com/person.rme/perfid=greta_rus/gender=f/greta.htm
+        - https://www.indexxx.com/m/greta-4
+        - https://1passforallsites.com/model?id=159
+    - id: null
+      name: Michelle
+      text: HairyTwatter
+      links:
+        - https://www.iafd.com/person.rme/perfid=michelle_lp_13/gender=f/michelle.htm
+        - https://www.indexxx.com/m/michelle-22
+    - id: 33586549-667e-484b-b776-5263e77fbdc8
+      name: Tania G.
+      text: Mike's Apartment (2007-04-25) - incorrect alias
+      links:
+        - https://www.iafd.com/person.rme/perfid=misaf/gender=f/misa-f..htm
+        - https://www.indexxx.com/m/michaela-7
+    - id: null
+      name: Michaela H
+      text: 1By-Day (2007)
+      links:
+        - https://www.iafd.com/person.rme/perfid=michaelah/gender=f/michaela-h.htm
+        - https://www.indexxx.com/m/michelle-3
+    - id: 1268fc39-3594-4305-8392-c61dc5e14796
+      name: Mischelle (CZ) AKA Michelle Love
+      notes:
+        - '- Mike''s Apartment (2007-04-11, 2009-01-14)'
+        - '- Euro Sex Parties (2007-12-27)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=mischelle_12/gender=f/mischelle.htm
+        - https://www.indexxx.com/m/mischelle-1
+    - id: null
+      name: Michelle (2010, GF Revenge)
+      text: GF Revenge (possibly all)
+      notes:
+        - '- "Feeling Crazy" 2010-03-30'
+        - '- "Red Feeling" 2010-04-01'
+        - '- "Big Tits" 2010-02-07'
+        - '- "Sexy Feeling" 2010-01-16'
+        - '- "Wet Cheeks" 2000-01-01'
+      links:
+        - https://www.iafd.com/person.rme/perfid=michelle_gf_10/gender=f/michelle.htm
+        - https://www.realitykings.com/model/24762/michelle
+    - id: null
+      name: Michelle Devine (2003)
+      text: 8th Street Latinas
+      notes:
+        - Additionally - 2 BangBros scenes missing performers
+      links:
+        - https://www.iafd.com/person.rme/perfid=michelle_bang_03/gender=f/michelle-divine.htm
+        - https://www.indexxx.com/m/michelle-divine
+        - https://stashdb.org/scenes/50f52a65-3013-49e9-935a-e86b49852ac6
+        - https://stashdb.org/scenes/bf23bc17-3ac2-4b60-824e-1753633f9742
+    - id: null
+      name: Michelle (Teen Mega World)
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=michelle_08_tmw/gender=f/michelle.htm
+        - https://www.indexxx.com/m/michelle-48
+  notes:
+    - Mix of multiple performers (partial list)

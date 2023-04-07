@@ -1,38 +1,23 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=beach+cruisers/year=2005/beach-cruisers.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "dccf386b-bb85-4f65-8e75-2dc19a230b60",
-        "name": "Tiffani",
-        "appearance": null
-      },
-      {
-        "id": "e97e1271-614c-4768-adce-dc53e2e32a8e",
-        "name": "Candace",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "43d38baf-2d41-4f2d-be1c-ad90faa10248",
-        "name": "Tiffani DiGivanni",
-        "appearance": "Tiffani"
-      },
-      {
-        "id": null,
-        "name": "Candace",
-        "appearance": null,
-        "disambiguation": "2005, We Live Together",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=beach+cruisers/year=2005/beach-cruisers.htm
+performers:
+  remove:
+    - id: dccf386b-bb85-4f65-8e75-2dc19a230b60
+      name: Tiffani
+      appearance: null
+    - id: e97e1271-614c-4768-adce-dc53e2e32a8e
+      name: Candace
+      appearance: null
+  append:
+    - id: 43d38baf-2d41-4f2d-be1c-ad90faa10248
+      name: Tiffani DiGivanni
+      appearance: Tiffani
+    - id: null
+      name: Candace
+      appearance: null
+      disambiguation: 2005, We Live Together
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm

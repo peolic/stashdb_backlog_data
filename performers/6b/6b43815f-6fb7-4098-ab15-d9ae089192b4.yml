@@ -1,77 +1,49 @@
-{
-  "split": {
-    "name": "Jazmine",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jazmin Chaudhry",
-        "notes": [
-          "- Frisky Baby Sitters",
-          "- Street Blowjobs"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jazmin_in/gender=f/jazmin.htm",
-          "https://www.indexxx.com/m/jazmin-7"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jazmine Rose (1998-2005)",
-        "notes": [
-          "- Evil Angel (Network)",
-          "- Rocco Siffredi",
-          "- Peter North"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jazmine_br/gender=f/jazmine.htm"
-        ]
-      },
-      {
-        "id": "fc875a55-c047-4595-86f3-996694d44df1",
-        "name": "Jazzmine X (?)",
-        "text": "Porn Pros",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jasmine_or_04/gender=f/jasmine.htm",
-          "https://www.indexxx.com/m/jazmine-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jazmine (2019, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jazmine_brcc_1561/gender=f/jazmine.htm",
-          "https://www.backroomcastingcouch.com/models/jazmine.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jazmine (2011, Reality Kings)",
-        "text": "GF Revenge",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jazmine_gf_11/gender=f/jazmine.htm",
-          "https://www.realitykings.com/model/24618/jazmine"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jazmine (2003-2005)",
-        "text": "In the VIP",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jazmine06/gender=f/jazmine.htm",
-          "https://www.indexxx.com/m/jazmine"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jazmine (2012, Reality Kings)",
-        "text": "Black GFs",
-        "links": [
-          "https://www.realitykings.com/model/24960/jazmine"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-23)"
-    ]
-  }
-}
+split:
+  name: Jazmine
+  fragments:
+    - id: null
+      name: Jazmin Chaudhry
+      notes:
+        - '- Frisky Baby Sitters'
+        - '- Street Blowjobs'
+      links:
+        - https://www.iafd.com/person.rme/perfid=jazmin_in/gender=f/jazmin.htm
+        - https://www.indexxx.com/m/jazmin-7
+    - id: null
+      name: Jazmine Rose (1998-2005)
+      notes:
+        - '- Evil Angel (Network)'
+        - '- Rocco Siffredi'
+        - '- Peter North'
+      links:
+        - https://www.iafd.com/person.rme/perfid=jazmine_br/gender=f/jazmine.htm
+    - id: fc875a55-c047-4595-86f3-996694d44df1
+      name: Jazzmine X (?)
+      text: Porn Pros
+      links:
+        - https://www.iafd.com/person.rme/perfid=jasmine_or_04/gender=f/jasmine.htm
+        - https://www.indexxx.com/m/jazmine-1
+    - id: null
+      name: Jazmine (2019, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jazmine_brcc_1561/gender=f/jazmine.htm
+        - https://www.backroomcastingcouch.com/models/jazmine.html
+    - id: null
+      name: Jazmine (2011, Reality Kings)
+      text: GF Revenge
+      links:
+        - https://www.iafd.com/person.rme/perfid=jazmine_gf_11/gender=f/jazmine.htm
+        - https://www.realitykings.com/model/24618/jazmine
+    - id: null
+      name: Jazmine (2003-2005)
+      text: In the VIP
+      links:
+        - https://www.iafd.com/person.rme/perfid=jazmine06/gender=f/jazmine.htm
+        - https://www.indexxx.com/m/jazmine
+    - id: null
+      name: Jazmine (2012, Reality Kings)
+      text: Black GFs
+      links:
+        - https://www.realitykings.com/model/24960/jazmine
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-23)

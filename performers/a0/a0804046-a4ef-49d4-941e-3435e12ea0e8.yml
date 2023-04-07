@@ -1,14 +1,7 @@
-{
-  "split": {
-    "name": "Ingrid",
-    "shards": [
-      {
-        "id": null,
-        "name": "Ingrid (Teeny Lovers)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-15)"
-    ]
-  }
-}
+split:
+  name: Ingrid
+  fragments:
+    - id: null
+      name: Ingrid (Teeny Lovers)
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-15)

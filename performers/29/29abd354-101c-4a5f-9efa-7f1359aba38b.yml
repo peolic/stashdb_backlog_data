@@ -1,70 +1,44 @@
-{
-  "split": {
-    "name": "Marie",
-    "shards": [
-      {
-        "id": "c9190835-3b50-499b-bb32-63a276e7f7b6",
-        "name": "Kat Krown",
-        "text": "Net Video Girls (2013)",
-        "notes": [
-          "Ep 2013.27 - Marie = Kat Krown"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katkrown/gender=f/kat-krown.htm",
-          "https://www.indexxx.com/m/kat-krown",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Fiona (Teen Mega World)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marie_16_tryteens/gender=f/marie.htm",
-          "https://www.indexxx.com/m/fiona-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marie (2007, Lesbian Factor)",
-        "text": "Lesbian Factor",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marie_lfact/gender=f/marie.htm"
-        ]
-      },
-      {
-        "id": "45eccd8e-9b60-4d5d-9898-60ef633d7212",
-        "name": "Mary Blond (2000-2001)",
-        "text": "Silverstone DVD - missing male",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mary_pr/gender=f/mary-blond.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marie (French, 1997, Woodman)",
-        "text": "Woodman Casting X",
-        "links": [
-          "https://www.indexxx.com/m/marie-45"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marie (2008-2009, NVG)",
-        "text": "Net Video Girls (2008-2009)"
-      },
-      {
-        "id": "5e32c2c2-12d1-48a6-9bb1-af905a35f1d7",
-        "name": "Payton Smith",
-        "text": "Net Video Girls (2011)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=paytonsmith/gender=f/payton-smith.htm",
-          "https://www.indexxx.com/m/payton-smith"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-15)"
-    ]
-  }
-}
+split:
+  name: Marie
+  fragments:
+    - id: c9190835-3b50-499b-bb32-63a276e7f7b6
+      name: Kat Krown
+      text: Net Video Girls (2013)
+      notes:
+        - Ep 2013.27 - Marie = Kat Krown
+      links:
+        - https://www.iafd.com/person.rme/perfid=katkrown/gender=f/kat-krown.htm
+        - https://www.indexxx.com/m/kat-krown
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814
+    - id: null
+      name: Fiona (Teen Mega World)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=marie_16_tryteens/gender=f/marie.htm
+        - https://www.indexxx.com/m/fiona-1
+    - id: null
+      name: Marie (2007, Lesbian Factor)
+      text: Lesbian Factor
+      links:
+        - https://www.iafd.com/person.rme/perfid=marie_lfact/gender=f/marie.htm
+    - id: 45eccd8e-9b60-4d5d-9898-60ef633d7212
+      name: Mary Blond (2000-2001)
+      text: Silverstone DVD - missing male
+      links:
+        - https://www.iafd.com/person.rme/perfid=mary_pr/gender=f/mary-blond.htm
+    - id: null
+      name: Marie (French, 1997, Woodman)
+      text: Woodman Casting X
+      links:
+        - https://www.indexxx.com/m/marie-45
+    - id: null
+      name: Marie (2008-2009, NVG)
+      text: Net Video Girls (2008-2009)
+    - id: 5e32c2c2-12d1-48a6-9bb1-af905a35f1d7
+      name: Payton Smith
+      text: Net Video Girls (2011)
+      links:
+        - https://www.iafd.com/person.rme/perfid=paytonsmith/gender=f/payton-smith.htm
+        - https://www.indexxx.com/m/payton-smith
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-15)

@@ -1,11 +1,6 @@
-{
-  "duplicates": {
-    "ids": [
-      "08d07da2-d7cd-4ca7-97c4-0fc1ec3f328a"
-    ],
-    "notes": [
-      "https://www.iafd.com/person.rme/perfid=britneystevens/gender=f/britney-stevens.htm",
-      "https://www.indexxx.com/m/britney-stevens"
-    ]
-  }
-}
+duplicates:
+  ids:
+    - 08d07da2-d7cd-4ca7-97c4-0fc1ec3f328a
+  notes:
+    - https://www.iafd.com/person.rme/perfid=britneystevens/gender=f/britney-stevens.htm
+    - https://www.indexxx.com/m/britney-stevens

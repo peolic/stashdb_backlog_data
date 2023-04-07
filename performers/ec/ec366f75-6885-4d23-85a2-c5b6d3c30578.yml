@@ -1,66 +1,40 @@
-{
-  "split": {
-    "name": "Michael",
-    "shards": [
-      {
-        "id": null,
-        "name": "Michael (2011, DDF Network)",
-        "text": "Sex Video Casting",
-        "links": [
-          "https://www.indexxx.com/m/michael"
-        ]
-      },
-      {
-        "id": "691a73f1-db2e-48cc-91a4-5136f57e0626",
-        "name": "Michaela Bal",
-        "text": "DDF Network (2004)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michaelabal/gender=f/michaela-bal.htm",
-          "https://www.indexxx.com/m/michaela-bal"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michael (2006, Kink)",
-        "text": "Men In Pain (2006)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michael_kink/gender=m/michael.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michael (2003, Kink)",
-        "text": "Men In Pain (2003)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michael2_kink/gender=m/michael.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michael (Leg Sex)",
-        "links": [
-          "https://web.archive.org/web/20180623100723/http://www.pornmegaload.com/male-performer/Michael/8421/?nats=MTAwNC45Ljk5LjIyOS42ODMuMC4wLjAuMA"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michael (2008, Reality Kings)",
-        "text": "See My Wife",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michael_rk_08/gender=m/michael.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Michael (2019, True Amateurs)",
-        "text": "True Amateurs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michael_ta_19/gender=m/michael.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Michael
+  fragments:
+    - id: null
+      name: Michael (2011, DDF Network)
+      text: Sex Video Casting
+      links:
+        - https://www.indexxx.com/m/michael
+    - id: 691a73f1-db2e-48cc-91a4-5136f57e0626
+      name: Michaela Bal
+      text: DDF Network (2004)
+      links:
+        - https://www.iafd.com/person.rme/perfid=michaelabal/gender=f/michaela-bal.htm
+        - https://www.indexxx.com/m/michaela-bal
+    - id: null
+      name: Michael (2006, Kink)
+      text: Men In Pain (2006)
+      links:
+        - https://www.iafd.com/person.rme/perfid=michael_kink/gender=m/michael.htm
+    - id: null
+      name: Michael (2003, Kink)
+      text: Men In Pain (2003)
+      links:
+        - https://www.iafd.com/person.rme/perfid=michael2_kink/gender=m/michael.htm
+    - id: null
+      name: Michael (Leg Sex)
+      links:
+        - https://web.archive.org/web/20180623100723/http://www.pornmegaload.com/male-performer/Michael/8421/?nats=MTAwNC45Ljk5LjIyOS42ODMuMC4wLjAuMA
+    - id: null
+      name: Michael (2008, Reality Kings)
+      text: See My Wife
+      links:
+        - https://www.iafd.com/person.rme/perfid=michael_rk_08/gender=m/michael.htm
+    - id: null
+      name: Michael (2019, True Amateurs)
+      text: True Amateurs
+      links:
+        - https://www.iafd.com/person.rme/perfid=michael_ta_19/gender=m/michael.htm
+  notes:
+    - Mix of multiple performers (partial list)

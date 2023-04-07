@@ -1,22 +1,12 @@
-{
-  "split": {
-    "name": "Kiana",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kiana (2015, CCHD)",
-        "text": "(Casting Couch-HD)"
-      },
-      {
-        "id": null,
-        "name": "Kiana (2008, Spermatino / Teen Core Club)",
-        "links": [
-          "https://teencoreclub.com/videos/1746/spermantino-kiana/"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers"
-    ]
-  }
-}
+split:
+  name: Kiana
+  fragments:
+    - id: null
+      name: Kiana (2015, CCHD)
+      text: (Casting Couch-HD)
+    - id: null
+      name: Kiana (2008, Spermatino / Teen Core Club)
+      links:
+        - https://teencoreclub.com/videos/1746/spermantino-kiana/
+  notes:
+    - Mix of multiple performers

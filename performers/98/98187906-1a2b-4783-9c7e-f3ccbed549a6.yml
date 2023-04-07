@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Judith",
-    "shards": [
-      {
-        "id": null,
-        "name": "Judith",
-        "text": "Club Sandy / Zoliboy",
-        "links": [
-          "https://www.indexxx.com/m/judith"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Judith
+  fragments:
+    - id: null
+      name: Judith
+      text: Club Sandy / Zoliboy
+      links:
+        - https://www.indexxx.com/m/judith
+  notes:
+    - Mix of multiple performers (partial list)

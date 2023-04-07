@@ -1,23 +1,15 @@
-{
-  "c_studio": [
-    "Teenage Delinquents",
-    null
-  ],
-  "comments": [
-    "Same as Slutty Campus Teens 1 Scene 4",
-    "https://www.adultdvdempire.com/1434158/slutty-campus-teens-vol-1-porn-videos.html"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Arianna",
-        "appearance": null,
-        "disambiguation": "2006, Pink VIsual",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=arianna_pv_07/gender=f/arianna.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Teenage Delinquents
+  - null
+comments:
+  - Same as Slutty Campus Teens 1 Scene 4
+  - https://www.adultdvdempire.com/1434158/slutty-campus-teens-vol-1-porn-videos.html
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Arianna
+      appearance: null
+      disambiguation: 2006, Pink VIsual
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=arianna_pv_07/gender=f/arianna.htm

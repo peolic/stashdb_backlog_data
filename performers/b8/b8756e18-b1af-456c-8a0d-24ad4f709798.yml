@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Luke",
-    "shards": [
-      {
-        "id": null,
-        "name": "Luke (Sean Cody 2011)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/103499"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Luke
+  fragments:
+    - id: null
+      name: Luke (Sean Cody 2011)
+      links:
+        - https://gayeroticvideoindex.com/performer/103499
+  notes:
+    - Mix of multiple performers (partial list)

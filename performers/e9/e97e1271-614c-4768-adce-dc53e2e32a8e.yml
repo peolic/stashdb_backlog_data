@@ -1,25 +1,14 @@
-{
-  "split": {
-    "name": "Candace",
-    "shards": [
-      {
-        "id": null,
-        "name": "Candace (2005, We Live Together)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm",
-          "https://www.indexxx.com/m/candace-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Candace (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/candace-4"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Candace
+  fragments:
+    - id: null
+      name: Candace (2005, We Live Together)
+      links:
+        - https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm
+        - https://www.indexxx.com/m/candace-1
+    - id: null
+      name: Candace (Nubiles)
+      links:
+        - https://www.indexxx.com/m/candace-4
+  notes:
+    - Mix of multiple performers (partial list)

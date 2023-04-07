@@ -1,10 +1,5 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "e65284c1eceb4cab",
-      "correct_scene_id": "b5f88f1f-9d21-44c1-a61a-0dc20dfce8ac",
-      "duration": 3774
-    }
-  ]
-}
+fingerprints:
+  - algorithm: phash
+    hash: e65284c1eceb4cab
+    correct_scene_id: b5f88f1f-9d21-44c1-a61a-0dc20dfce8ac
+    duration: 3774

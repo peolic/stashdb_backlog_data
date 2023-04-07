@@ -1,49 +1,31 @@
-{
-  "split": {
-    "name": "Louise",
-    "shards": [
-      {
-        "id": "a058c321-b703-4be2-9807-1ee7ac285db5",
-        "name": "Kate Shira",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kate_10_russ/gender=f/kate-shira.htm",
-          "https://www.indexxx.com/m/nikky-b",
-          "https://teenmegaworld.net/models/louise.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Louise (Sapphic Erotica)",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=eva_03/gender=f/eva.htm",
-          "https://www.indexxx.com/m/lasie"
-        ]
-      },
-      {
-        "id": "cbf6b451-b661-49fd-aa5c-d5e4ddc18ba7",
-        "name": "Ivett / Louise (HU, 2010-2013) AKA Ivett B",
-        "notes": [
-          "- Daily Sex Dose",
-          "- Mike's Apartment"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ivett_11_hung/gender=f/ivett.htm",
-          "https://www.indexxx.com/m/louise-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Louise Mattos",
-        "text": "Cumshot Oasis",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lmattos/gender=f/louise-mattos.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-15)"
-    ]
-  }
-}
+split:
+  name: Louise
+  fragments:
+    - id: a058c321-b703-4be2-9807-1ee7ac285db5
+      name: Kate Shira
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=kate_10_russ/gender=f/kate-shira.htm
+        - https://www.indexxx.com/m/nikky-b
+        - https://teenmegaworld.net/models/louise.html
+    - id: null
+      name: Louise (Sapphic Erotica)
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=eva_03/gender=f/eva.htm
+        - https://www.indexxx.com/m/lasie
+    - id: cbf6b451-b661-49fd-aa5c-d5e4ddc18ba7
+      name: Ivett / Louise (HU, 2010-2013) AKA Ivett B
+      notes:
+        - '- Daily Sex Dose'
+        - '- Mike''s Apartment'
+      links:
+        - https://www.iafd.com/person.rme/perfid=ivett_11_hung/gender=f/ivett.htm
+        - https://www.indexxx.com/m/louise-5
+    - id: null
+      name: Louise Mattos
+      text: Cumshot Oasis
+      links:
+        - https://www.iafd.com/person.rme/perfid=lmattos/gender=f/louise-mattos.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-15)

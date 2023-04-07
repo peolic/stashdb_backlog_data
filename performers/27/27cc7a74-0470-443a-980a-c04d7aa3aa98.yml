@@ -1,37 +1,23 @@
-{
-  "split": {
-    "name": "Nikole",
-    "shards": [
-      {
-        "id": null,
-        "name": "Nikole (Ukrainian, 2001-2002)",
-        "text": "Woodman Casting X",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nicole_uk_04/gender=f/nicole.htm",
-          "https://www.indexxx.com/m/nikole-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nikole (2005, Reality Kings)",
-        "text": "Mike in Brazil",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nicole_br_twm/gender=f/nicole.htm",
-          "https://www.indexxx.com/m/nikole-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nikole (2006, Reality Kings)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nikole_rk/gender=f/nikole.htm",
-          "https://www.indexxx.com/m/nikole-2"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Nikole
+  fragments:
+    - id: null
+      name: Nikole (Ukrainian, 2001-2002)
+      text: Woodman Casting X
+      links:
+        - https://www.iafd.com/person.rme/perfid=nicole_uk_04/gender=f/nicole.htm
+        - https://www.indexxx.com/m/nikole-5
+    - id: null
+      name: Nikole (2005, Reality Kings)
+      text: Mike in Brazil
+      links:
+        - https://www.iafd.com/person.rme/perfid=nicole_br_twm/gender=f/nicole.htm
+        - https://www.indexxx.com/m/nikole-3
+    - id: null
+      name: Nikole (2006, Reality Kings)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=nikole_rk/gender=f/nikole.htm
+        - https://www.indexxx.com/m/nikole-2
+  notes:
+    - Mix of multiple performers (partial list)

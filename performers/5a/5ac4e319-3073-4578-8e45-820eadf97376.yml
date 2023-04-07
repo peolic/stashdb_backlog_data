@@ -1,24 +1,13 @@
-{
-  "split": {
-    "name": "Tucker",
-    "shards": [
-      {
-        "id": null,
-        "name": "Tucker (2005, Sean Cody)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/90154"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Tucker (2012, Sean Cody)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/103434"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-31)"
-    ]
-  }
-}
+split:
+  name: Tucker
+  fragments:
+    - id: null
+      name: Tucker (2005, Sean Cody)
+      links:
+        - https://gayeroticvideoindex.com/performer/90154
+    - id: null
+      name: Tucker (2012, Sean Cody)
+      links:
+        - https://gayeroticvideoindex.com/performer/103434
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-31)

@@ -1,25 +1,14 @@
-{
-  "split": {
-    "name": "Margo",
-    "shards": [
-      {
-        "id": null,
-        "name": "Mirabella (RU)",
-        "text": "Margo @ FirstAnalQuest",
-        "links": [
-          "https://www.indexxx.com/m/mirabella"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Adela (Latvian)",
-        "links": [
-          "https://www.indexxx.com/m/adela-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Margo
+  fragments:
+    - id: null
+      name: Mirabella (RU)
+      text: Margo @ FirstAnalQuest
+      links:
+        - https://www.indexxx.com/m/mirabella
+    - id: null
+      name: Adela (Latvian)
+      links:
+        - https://www.indexxx.com/m/adela-1
+  notes:
+    - Mix of multiple performers (partial list)

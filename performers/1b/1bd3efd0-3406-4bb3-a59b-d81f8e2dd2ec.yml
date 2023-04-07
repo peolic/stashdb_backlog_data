@@ -1,30 +1,18 @@
-{
-  "split": {
-    "name": "Maya",
-    "shards": [
-      {
-        "id": "93aaf043-bcae-4711-948e-499773c9a71f",
-        "name": "Maya Angel (Russian)",
-        "notes": [
-          "- \u000221 Sextury\u0003",
-          "- DDF Network"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=maya_rus_05/gender=f/maya.htm",
-          "https://www.indexxx.com/m/maya"
-        ]
-      },
-      {
-        "id": "60f459cb-325f-4625-8496-dd0f924af9f7",
-        "name": "Alexandria Devine",
-        "text": "Net Video Girls (2011)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alexandriadevine/gender=f/alexandria-devine.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Maya
+  fragments:
+    - id: 93aaf043-bcae-4711-948e-499773c9a71f
+      name: Maya Angel (Russian)
+      notes:
+        - "- \x0221 Sextury\x03"
+        - '- DDF Network'
+      links:
+        - https://www.iafd.com/person.rme/perfid=maya_rus_05/gender=f/maya.htm
+        - https://www.indexxx.com/m/maya
+    - id: 60f459cb-325f-4625-8496-dd0f924af9f7
+      name: Alexandria Devine
+      text: Net Video Girls (2011)
+      links:
+        - https://www.iafd.com/person.rme/perfid=alexandriadevine/gender=f/alexandria-devine.htm
+  notes:
+    - Mix of multiple performers (partial list)

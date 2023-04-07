@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Lada",
-    "shards": [
-      {
-        "id": null,
-        "name": "Linda / Lada (? 2010 Russian Redhead)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=linda_10_russ_rdhd/gender=f/linda.htm",
-          "https://www.indexxx.com/m/lada"
-        ]
-      },
-      {
-        "id": "70ede16c-57a8-4bbc-8d4e-efe4d5fd8288",
-        "name": "Yolly",
-        "text": "Give Me Teens",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lola_rus_08_01/gender=f/lola.htm",
-          "https://www.indexxx.com/m/yolly"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Lada
+  fragments:
+    - id: null
+      name: Linda / Lada (? 2010 Russian Redhead)
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=linda_10_russ_rdhd/gender=f/linda.htm
+        - https://www.indexxx.com/m/lada
+    - id: 70ede16c-57a8-4bbc-8d4e-efe4d5fd8288
+      name: Yolly
+      text: Give Me Teens
+      links:
+        - https://www.iafd.com/person.rme/perfid=lola_rus_08_01/gender=f/lola.htm
+        - https://www.indexxx.com/m/yolly
+  notes:
+    - Mix of multiple performers (partial list)

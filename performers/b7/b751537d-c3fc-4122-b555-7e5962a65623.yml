@@ -1,46 +1,29 @@
-{
-  "split": {
-    "name": "Piper",
-    "shards": [
-      {
-        "id": "8031ec62-5d36-4614-bd38-6d379d312c4a",
-        "name": "Mary Dee",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sophiayoung_14/gender=f/sophia-young.htm",
-          "https://www.indexxx.com/m/grace-c"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Piper McCormick",
-        "text": "Devil's Film",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=pmccormick/gender=f/piper-mccormick.htm",
-          "https://www.devilsfilm.com/en/pornstar/view/Piper/4647"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Piper (2009, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=piper_09_brcc/gender=f/piper.htm",
-          "https://www.backroomcastingcouch.com/models/piper.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Melissa Mercuri",
-        "text": "Nasty Angels: same as SeventeenVideo",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=melissamercuri/gender=f/melissa-mercuri.htm",
-          "https://www.indexxx.com/m/petra-19",
-          "https://www.indexxx.com/set/586355/seventeenvideo-daphne-c/"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-28)"
-    ]
-  }
-}
+split:
+  name: Piper
+  fragments:
+    - id: 8031ec62-5d36-4614-bd38-6d379d312c4a
+      name: Mary Dee
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=sophiayoung_14/gender=f/sophia-young.htm
+        - https://www.indexxx.com/m/grace-c
+    - id: null
+      name: Piper McCormick
+      text: Devil's Film
+      links:
+        - https://www.iafd.com/person.rme/perfid=pmccormick/gender=f/piper-mccormick.htm
+        - https://www.devilsfilm.com/en/pornstar/view/Piper/4647
+    - id: null
+      name: Piper (2009, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=piper_09_brcc/gender=f/piper.htm
+        - https://www.backroomcastingcouch.com/models/piper.html
+    - id: null
+      name: Melissa Mercuri
+      text: 'Nasty Angels: same as SeventeenVideo'
+      links:
+        - https://www.iafd.com/person.rme/perfid=melissamercuri/gender=f/melissa-mercuri.htm
+        - https://www.indexxx.com/m/petra-19
+        - https://www.indexxx.com/set/586355/seventeenvideo-daphne-c/
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-28)

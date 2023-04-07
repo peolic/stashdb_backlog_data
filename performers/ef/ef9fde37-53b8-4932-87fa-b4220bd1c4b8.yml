@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Owen",
-    "shards": [
-      {
-        "id": null,
-        "name": "Owen (2018, BCC)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=owen_brcc_18/gender=f/owen.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-05-10)"
-    ]
-  }
-}
+split:
+  name: Owen
+  fragments:
+    - id: null
+      name: Owen (2018, BCC)
+      links:
+        - https://www.iafd.com/person.rme/perfid=owen_brcc_18/gender=f/owen.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-05-10)

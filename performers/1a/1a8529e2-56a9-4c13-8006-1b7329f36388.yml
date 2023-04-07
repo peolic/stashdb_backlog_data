@@ -1,36 +1,22 @@
-{
-  "split": {
-    "name": "Roxi",
-    "shards": [
-      {
-        "id": null,
-        "name": "Roxi (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/roxi",
-          "https://www.thenude.com/Roxi_12060.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Roxi",
-        "text": "(Extreme Asses / Round and Brown)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=roxi_rk_09/gender=f/roxi.htm",
-          "https://www.indexxx.com/m/roxi-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Roxi",
-        "text": "(MILF Hunter)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=roxi_bb_09/gender=f/roxi.htm",
-          "https://www.indexxx.com/m/roxi-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Roxi
+  fragments:
+    - id: null
+      name: Roxi (Nubiles)
+      links:
+        - https://www.indexxx.com/m/roxi
+        - https://www.thenude.com/Roxi_12060.htm
+    - id: null
+      name: Roxi
+      text: (Extreme Asses / Round and Brown)
+      links:
+        - https://www.iafd.com/person.rme/perfid=roxi_rk_09/gender=f/roxi.htm
+        - https://www.indexxx.com/m/roxi-2
+    - id: null
+      name: Roxi
+      text: (MILF Hunter)
+      links:
+        - https://www.iafd.com/person.rme/perfid=roxi_bb_09/gender=f/roxi.htm
+        - https://www.indexxx.com/m/roxi-1
+  notes:
+    - Mix of multiple performers (partial list)

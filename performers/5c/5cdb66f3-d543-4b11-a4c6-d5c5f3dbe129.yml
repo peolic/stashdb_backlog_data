@@ -1,68 +1,46 @@
-{
-  "split": {
-    "name": "Terry",
-    "shards": [
-      {
-        "id": "58d7792a-72ae-4c82-b986-f20da509b03a",
-        "name": "Terry Sullivan",
-        "notes": [
-          "AKA Terry Anne; 5 Scenes from multiple studios:",
-          "- Public Pickups",
-          "- Mike's Apartment",
-          "- Euro Sex Parties",
-          "- Sapphic Erotica"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=terrysullivan/gender=f/terry-sullivan.htm",
-          "https://www.indexxx.com/m/terry-anne"
-        ]
-      },
-      {
-        "id": "5ea75b09-837b-4c5e-8ff4-3ebd8a1d2698",
-        "name": "Terry Bliss",
-        "notes": [
-          "6 scenes from two studios",
-          "- Teen Mega World network",
-          "- Porn Mega Load"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=terrybliss/gender=f/terry-bliss.htm",
-          "https://www.indexxx.com/m/terry-bliss"
-        ]
-      },
-      {
-        "id": "694b6b44-5c22-49d2-ac6b-a89edc0f7aa2",
-        "name": "Jana Vox (merge with Galina B. + Rocki; possibly rename)",
-        "text": "(Nubiles)",
-        "links": [
-          "https://stashdb.org/performers/37089458-c3a0-40d8-9ce8-ac10e697c248",
-          "https://stashdb.org/performers/2a896f6a-b9b4-4044-be65-ba4f84f04d2d",
-          "https://www.iafd.com/person.rme/perfid=rocki_rus_09/gender=f/rocki.htm",
-          "https://www.indexxx.com/m/terry-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Terry (2004, Reality Kings)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=terry_rk_04/gender=f/terry.htm",
-          "https://www.indexxx.com/m/terry-2"
-        ]
-      },
-      {
-        "id": "d5ea2e93-a52a-459f-892b-419411987493",
-        "name": "Nastia Goldis",
-        "text": "I Fucked Her Finally",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nastiacoldis/gender=f/nastia-goldis.htm",
-          "https://www.indexxx.com/m/emmy-3",
-          "https://1passforallsites.com/model?id=293"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Terry
+  fragments:
+    - id: 58d7792a-72ae-4c82-b986-f20da509b03a
+      name: Terry Sullivan
+      notes:
+        - 'AKA Terry Anne; 5 Scenes from multiple studios:'
+        - '- Public Pickups'
+        - '- Mike''s Apartment'
+        - '- Euro Sex Parties'
+        - '- Sapphic Erotica'
+      links:
+        - https://www.iafd.com/person.rme/perfid=terrysullivan/gender=f/terry-sullivan.htm
+        - https://www.indexxx.com/m/terry-anne
+    - id: 5ea75b09-837b-4c5e-8ff4-3ebd8a1d2698
+      name: Terry Bliss
+      notes:
+        - 6 scenes from two studios
+        - '- Teen Mega World network'
+        - '- Porn Mega Load'
+      links:
+        - https://www.iafd.com/person.rme/perfid=terrybliss/gender=f/terry-bliss.htm
+        - https://www.indexxx.com/m/terry-bliss
+    - id: 694b6b44-5c22-49d2-ac6b-a89edc0f7aa2
+      name: Jana Vox (merge with Galina B. + Rocki; possibly rename)
+      text: (Nubiles)
+      links:
+        - https://stashdb.org/performers/37089458-c3a0-40d8-9ce8-ac10e697c248
+        - https://stashdb.org/performers/2a896f6a-b9b4-4044-be65-ba4f84f04d2d
+        - https://www.iafd.com/person.rme/perfid=rocki_rus_09/gender=f/rocki.htm
+        - https://www.indexxx.com/m/terry-1
+    - id: null
+      name: Terry (2004, Reality Kings)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=terry_rk_04/gender=f/terry.htm
+        - https://www.indexxx.com/m/terry-2
+    - id: d5ea2e93-a52a-459f-892b-419411987493
+      name: Nastia Goldis
+      text: I Fucked Her Finally
+      links:
+        - https://www.iafd.com/person.rme/perfid=nastiacoldis/gender=f/nastia-goldis.htm
+        - https://www.indexxx.com/m/emmy-3
+        - https://1passforallsites.com/model?id=293
+  notes:
+    - Mix of multiple performers (partial list)

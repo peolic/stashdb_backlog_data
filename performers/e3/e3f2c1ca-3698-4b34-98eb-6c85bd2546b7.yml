@@ -1,27 +1,16 @@
-{
-  "split": {
-    "name": "Sara B",
-    "shards": [
-      {
-        "id": null,
-        "name": "Sara B (MetArt Network)",
-        "text": "MetArt",
-        "links": [
-          "https://www.indexxx.com/m/sara-b"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sara (Slovak, 1999-2002)",
-        "text": "Rocco Siffredi",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sara_eu/gender=f/sara.htm",
-          "https://www.indexxx.com/m/sara-74"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-19)"
-    ]
-  }
-}
+split:
+  name: Sara B
+  fragments:
+    - id: null
+      name: Sara B (MetArt Network)
+      text: MetArt
+      links:
+        - https://www.indexxx.com/m/sara-b
+    - id: null
+      name: Sara (Slovak, 1999-2002)
+      text: Rocco Siffredi
+      links:
+        - https://www.iafd.com/person.rme/perfid=sara_eu/gender=f/sara.htm
+        - https://www.indexxx.com/m/sara-74
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-19)

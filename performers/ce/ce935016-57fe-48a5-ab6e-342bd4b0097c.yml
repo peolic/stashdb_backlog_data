@@ -1,47 +1,29 @@
-{
-  "split": {
-    "name": "Monique",
-    "shards": [
-      {
-        "id": "6b950a05-9152-427a-82f7-782333299966",
-        "name": "Monique Woods",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=moniquewoods/gender=f/monique-woods.htm",
-          "https://www.indexxx.com/m/monique-woods"
-        ]
-      },
-      {
-        "id": "f62bdce0-fc27-491d-be48-a670ed8aa8e1",
-        "name": "Monique Alexander",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=malexander/gender=f/monique-alexander.htm",
-          "https://www.indexxx.com/m/monique-alexander"
-        ]
-      },
-      {
-        "id": "9f527dd1-12d7-468d-8cf4-e7898a3c2e0a",
-        "name": "Monique ?",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=monique8/gender=f/monique.htm",
-          "https://www.indexxx.com/m/monique-8"
-        ]
-      },
-      {
-        "id": "d24dcfa5-bd80-4de9-a7f4-7728e50fa4ef",
-        "name": "Monique Sunshine AKA Sunshine D",
-        "text": "(2009 Net Video Girls)",
-        "notes": [
-          "AKA: Sunshine, Michelle Lane",
-          "Ep 2009.13 - Monique = Sunshine"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sunshine01/gender=f/sunshine.htm",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Monique
+  fragments:
+    - id: 6b950a05-9152-427a-82f7-782333299966
+      name: Monique Woods
+      links:
+        - https://www.iafd.com/person.rme/perfid=moniquewoods/gender=f/monique-woods.htm
+        - https://www.indexxx.com/m/monique-woods
+    - id: f62bdce0-fc27-491d-be48-a670ed8aa8e1
+      name: Monique Alexander
+      links:
+        - https://www.iafd.com/person.rme/perfid=malexander/gender=f/monique-alexander.htm
+        - https://www.indexxx.com/m/monique-alexander
+    - id: 9f527dd1-12d7-468d-8cf4-e7898a3c2e0a
+      name: Monique ?
+      links:
+        - https://www.iafd.com/person.rme/perfid=monique8/gender=f/monique.htm
+        - https://www.indexxx.com/m/monique-8
+    - id: d24dcfa5-bd80-4de9-a7f4-7728e50fa4ef
+      name: Monique Sunshine AKA Sunshine D
+      text: (2009 Net Video Girls)
+      notes:
+        - 'AKA: Sunshine, Michelle Lane'
+        - Ep 2009.13 - Monique = Sunshine
+      links:
+        - https://www.iafd.com/person.rme/perfid=sunshine01/gender=f/sunshine.htm
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804
+  notes:
+    - Mix of multiple performers (partial list)

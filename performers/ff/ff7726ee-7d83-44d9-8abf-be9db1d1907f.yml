@@ -1,18 +1,9 @@
-{
-  "split": {
-    "name": "Gary",
-    "shards": [
-      {
-        "id": null,
-        "name": "Gary (2011, Reality Kings)"
-      },
-      {
-        "id": null,
-        "name": "Gary (2014, Reality Kings)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-02-05)"
-    ]
-  }
-}
+split:
+  name: Gary
+  fragments:
+    - id: null
+      name: Gary (2011, Reality Kings)
+    - id: null
+      name: Gary (2014, Reality Kings)
+  notes:
+    - Mix of multiple performers (complete list as of 2023-02-05)

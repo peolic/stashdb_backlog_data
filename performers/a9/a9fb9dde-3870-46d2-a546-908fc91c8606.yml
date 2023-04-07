@@ -1,27 +1,16 @@
-{
-  "split": {
-    "name": "Flower",
-    "shards": [
-      {
-        "id": null,
-        "name": "Yvette / Ivett Posa",
-        "text": "Lusty Grandmas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=flower_lg_12/gender=f/flower.htm",
-          "https://www.indexxx.com/m/yvette-8"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Flower (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=flower_07_russ/gender=f/flower.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-09)"
-    ]
-  }
-}
+split:
+  name: Flower
+  fragments:
+    - id: null
+      name: Yvette / Ivett Posa
+      text: Lusty Grandmas
+      links:
+        - https://www.iafd.com/person.rme/perfid=flower_lg_12/gender=f/flower.htm
+        - https://www.indexxx.com/m/yvette-8
+    - id: null
+      name: Flower (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=flower_07_russ/gender=f/flower.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-09)

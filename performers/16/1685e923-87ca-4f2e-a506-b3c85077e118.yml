@@ -1,91 +1,59 @@
-{
-  "split": {
-    "name": "Stacey",
-    "shards": [
-      {
-        "id": "44f48554-b427-443d-b269-cd0480b81d0f",
-        "name": "Gioia Biel",
-        "text": "Euro Humpers",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=gioiabiel/gender=f/gioia-biel.htm",
-          "https://www.indexxx.com/m/gioia-beil"
-        ]
-      },
-      {
-        "id": "83f6c05a-fa30-463d-951c-a567378f4820",
-        "name": "Ludmilla Habibulina",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=milena_eu_03/gender=f/milena.htm",
-          "https://www.indexxx.com/m/millena"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2009, BangBros)",
-        "text": "Bang Bus",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_bang_09/gender=f/stacey.htm",
-          "https://www.indexxx.com/m/stacey-2#",
-          "https://bangbros.com/model26902/stacey"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2011, BangBros)",
-        "text": "Facial Fest",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_hisp_bb/gender=f/stacey.htm",
-          "https://www.indexxx.com/m/stacey-11",
-          "https://bangbros.com/model33445/stacey"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2019, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_brcc_1555/gender=f/stacey.htm",
-          "https://www.backroomcastingcouch.com/models/stacey-2.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2006, Street Blowjobs)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_rk2006/gender=f/stacey.htm",
-          "https://www.indexxx.com/m/stacey-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2006, MILF Next Door)",
-        "text": "MILF Next Door",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_rk_06/gender=f/stacey.htm",
-          "https://www.indexxx.com/m/stacey-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2003, MILF Hunter)",
-        "text": "MILF Hunter",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_rk_03/gender=f/stacey.htm",
-          "https://www.indexxx.com/m/stacey"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stacey (2002, Tranny Surprise)",
-        "text": "Tranny Surprise",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=stacey_rk_ts/gender=f/stacey.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Stacey
+  fragments:
+    - id: 44f48554-b427-443d-b269-cd0480b81d0f
+      name: Gioia Biel
+      text: Euro Humpers
+      links:
+        - https://www.iafd.com/person.rme/perfid=gioiabiel/gender=f/gioia-biel.htm
+        - https://www.indexxx.com/m/gioia-beil
+    - id: 83f6c05a-fa30-463d-951c-a567378f4820
+      name: Ludmilla Habibulina
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=milena_eu_03/gender=f/milena.htm
+        - https://www.indexxx.com/m/millena
+    - id: null
+      name: Stacey (2009, BangBros)
+      text: Bang Bus
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_bang_09/gender=f/stacey.htm
+        - https://www.indexxx.com/m/stacey-2#
+        - https://bangbros.com/model26902/stacey
+    - id: null
+      name: Stacey (2011, BangBros)
+      text: Facial Fest
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_hisp_bb/gender=f/stacey.htm
+        - https://www.indexxx.com/m/stacey-11
+        - https://bangbros.com/model33445/stacey
+    - id: null
+      name: Stacey (2019, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_brcc_1555/gender=f/stacey.htm
+        - https://www.backroomcastingcouch.com/models/stacey-2.html
+    - id: null
+      name: Stacey (2006, Street Blowjobs)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_rk2006/gender=f/stacey.htm
+        - https://www.indexxx.com/m/stacey-1
+    - id: null
+      name: Stacey (2006, MILF Next Door)
+      text: MILF Next Door
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_rk_06/gender=f/stacey.htm
+        - https://www.indexxx.com/m/stacey-3
+    - id: null
+      name: Stacey (2003, MILF Hunter)
+      text: MILF Hunter
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_rk_03/gender=f/stacey.htm
+        - https://www.indexxx.com/m/stacey
+    - id: null
+      name: Stacey (2002, Tranny Surprise)
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=stacey_rk_ts/gender=f/stacey.htm
+  notes:
+    - Mix of multiple performers (partial list)

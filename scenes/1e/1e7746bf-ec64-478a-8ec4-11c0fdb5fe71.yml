@@ -1,31 +1,19 @@
-{
-  "c_studio": [
-    "Mike's Apartment",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=private+display/year=2003/private-display.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "10ed6635-4709-40ec-90cc-c92f2f235b89",
-        "name": "Meg",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Meg",
-        "appearance": null,
-        "disambiguation": "2003, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=meg_rk_03/gender=f/meg.htm",
-        "notes": [
-          "https://www.indexxx.com/m/meg-1"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - Mike's Apartment
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=private+display/year=2003/private-display.htm
+performers:
+  remove:
+    - id: 10ed6635-4709-40ec-90cc-c92f2f235b89
+      name: Meg
+      appearance: null
+  append:
+    - id: null
+      name: Meg
+      appearance: null
+      disambiguation: 2003, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=meg_rk_03/gender=f/meg.htm
+      notes:
+        - https://www.indexxx.com/m/meg-1

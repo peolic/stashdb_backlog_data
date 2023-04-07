@@ -1,81 +1,53 @@
-{
-  "split": {
-    "name": "Wendy",
-    "shards": [
-      {
-        "id": "afefe1c8-73e3-42f3-92f3-2611a360479d",
-        "name": "Wendy (AKA Kristine)",
-        "text": "probably done ?",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=wendy_rus_04/gender=f/wendy.htm",
-          "https://www.indexxx.com/m/kristine"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Wendy (2009, BangBros)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=wendy_bang_09/gender=f/wendy.htm",
-          "https://www.indexxx.com/m/wendy-4"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lea Magic",
-        "text": "(Euro Humpers)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=leamagic/gender=f/lea-magic.htm",
-          "https://www.indexxx.com/m/lea-magic"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jueliza",
-        "text": "(Wives in Pantyhose)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jueliza_rk/gender=f/jueliza.htm",
-          "https://www.indexxx.com/m/jueliza"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Wendy (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/vendy",
-          "https://www.thenude.com/Wendy_12112.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Julia S",
-        "text": "3 scenes from 1 Pass:",
-        "notes": [
-          "* Multiple models mapped by 1passforall",
-          "- I Fucked Her Finally",
-          "- Spoiled Virgins (2010-12-02)",
-          "- Tricky Old Teacher"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=shirley_10_russ/gender=f/julia-s.htm",
-          "https://www.indexxx.com/m/julia-s",
-          "https://1passforallsites.com/model?id=435"
-        ]
-      },
-      {
-        "id": "13657a53-60f2-448e-a7ae-1e5cee7c4d8d",
-        "name": "Dania",
-        "text": "Spoiled Virgins (2012-02-25)",
-        "notes": [
-          "* Multiple models mapped by 1passforall"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dania_11_russ/gender=f/dania.htm",
-          "https://www.indexxx.com/m/dania-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Wendy
+  fragments:
+    - id: afefe1c8-73e3-42f3-92f3-2611a360479d
+      name: Wendy (AKA Kristine)
+      text: probably done ?
+      links:
+        - https://www.iafd.com/person.rme/perfid=wendy_rus_04/gender=f/wendy.htm
+        - https://www.indexxx.com/m/kristine
+    - id: null
+      name: Wendy (2009, BangBros)
+      links:
+        - https://www.iafd.com/person.rme/perfid=wendy_bang_09/gender=f/wendy.htm
+        - https://www.indexxx.com/m/wendy-4
+    - id: null
+      name: Lea Magic
+      text: (Euro Humpers)
+      links:
+        - https://www.iafd.com/person.rme/perfid=leamagic/gender=f/lea-magic.htm
+        - https://www.indexxx.com/m/lea-magic
+    - id: null
+      name: Jueliza
+      text: (Wives in Pantyhose)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jueliza_rk/gender=f/jueliza.htm
+        - https://www.indexxx.com/m/jueliza
+    - id: null
+      name: Wendy (Nubiles)
+      links:
+        - https://www.indexxx.com/m/vendy
+        - https://www.thenude.com/Wendy_12112.htm
+    - id: null
+      name: Julia S
+      text: '3 scenes from 1 Pass:'
+      notes:
+        - '* Multiple models mapped by 1passforall'
+        - '- I Fucked Her Finally'
+        - '- Spoiled Virgins (2010-12-02)'
+        - '- Tricky Old Teacher'
+      links:
+        - https://www.iafd.com/person.rme/perfid=shirley_10_russ/gender=f/julia-s.htm
+        - https://www.indexxx.com/m/julia-s
+        - https://1passforallsites.com/model?id=435
+    - id: 13657a53-60f2-448e-a7ae-1e5cee7c4d8d
+      name: Dania
+      text: Spoiled Virgins (2012-02-25)
+      notes:
+        - '* Multiple models mapped by 1passforall'
+      links:
+        - https://www.iafd.com/person.rme/perfid=dania_11_russ/gender=f/dania.htm
+        - https://www.indexxx.com/m/dania-1
+  notes:
+    - Mix of multiple performers (partial list)

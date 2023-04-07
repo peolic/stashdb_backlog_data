@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Quincy",
-    "shards": [
-      {
-        "id": "52e9a997-a81e-44d9-849a-577dfb1eecc7",
-        "name": "Carmen (2003) AKA Carmen F",
-        "text": "Net Video Girls (2003+2014)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=carmen03/gender=f/carmen.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Quincy (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=quincy_09_russ/gender=f/quincy.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-12-25)"
-    ]
-  }
-}
+split:
+  name: Quincy
+  fragments:
+    - id: 52e9a997-a81e-44d9-849a-577dfb1eecc7
+      name: Carmen (2003) AKA Carmen F
+      text: Net Video Girls (2003+2014)
+      links:
+        - https://www.iafd.com/person.rme/perfid=carmen03/gender=f/carmen.htm
+    - id: null
+      name: Quincy (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=quincy_09_russ/gender=f/quincy.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-12-25)

@@ -1,7 +1,4 @@
-{
-  "name": "Spicy J",
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=spicyj/gender=f/spicy-j.htm",
-    "https://www.indexxx.com/m/spicy-j"
-  ]
-}
+name: Spicy J
+urls:
+  - https://www.iafd.com/person.rme/perfid=spicyj/gender=f/spicy-j.htm
+  - https://www.indexxx.com/m/spicy-j

@@ -1,90 +1,62 @@
-{
-  "split": {
-    "name": "Anita",
-    "shards": [
-      {
-        "id": null,
-        "name": "Anita (CZ, 2005-2013)",
-        "text": "Mike's Apartment (2007-05-23)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anita_cz/gender=f/anita.htm",
-          "https://www.indexxx.com/m/rihanna"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Anita (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/anita-2",
-          "https://www.thenude.com/_11713.htm"
-        ]
-      },
-      {
-        "id": "f2f06d73-a09c-4223-8c49-7bd14a658566",
-        "name": "Aneta J",
-        "text": "refer to list:",
-        "notes": [
-          "- 21 Sextury",
-          "- 21 Bonus",
-          "- Babes - incorrect alias, expected Aneta J",
-          "moved to incorrect performer, iafd may be wrong",
-          "- Euro Sex Parties",
-          "- Mike's Apartment (2007-10-03)",
-          "- \u0002Doghouse Digital\u0003",
-          "- She's A Freak",
-          "- \u0002Sexy Hub - incorrect alias, expected Veronika\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=veronikaj/gender=f/veronika-j..htm",
-          "https://www.indexxx.com/m/anetta-v",
-          "https://stashdb.org/scenes/a82c5530-b92f-4a34-a6b5-e45d3f4c250c",
-          "https://stashdb.org/scenes/20206b2a-365e-425e-b1d0-32b23bfa6125"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jewelz",
-        "text": "Net Video Girls",
-        "notes": [
-          "matched left shoulder blade tattoo",
-          "Ep 2005.33 - Anita Returns",
-          "Ep 2009.87 - Anita"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jewelz/gender=f/jewelz.htm",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804"
-        ]
-      },
-      {
-        "id": "51e177c2-ae80-4313-a057-c4681e7ad687",
-        "name": "Elis Bamby",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=gina_eu_05/gender=f/gina.htm",
-          "https://www.indexxx.com/m/nadia",
-          "https://teenmegaworld.net/models/anita.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Anita (Hungarian, 2000)",
-        "text": "Woodman Casting X"
-      },
-      {
-        "id": "0a0ef155-1ed0-4759-8079-49184002bde3",
-        "name": "Anita Blue (2004-, USA)",
-        "notes": [
-          "- \u0002Cum Girls\u0003",
-          "- Wives in Pantyhose"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anitablue/gender=f/anita-blue.htm",
-          "https://www.indexxx.com/m/anita-blue"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Anita
+  fragments:
+    - id: null
+      name: Anita (CZ, 2005-2013)
+      text: Mike's Apartment (2007-05-23)
+      links:
+        - https://www.iafd.com/person.rme/perfid=anita_cz/gender=f/anita.htm
+        - https://www.indexxx.com/m/rihanna
+    - id: null
+      name: Anita (Nubiles)
+      links:
+        - https://www.indexxx.com/m/anita-2
+        - https://www.thenude.com/_11713.htm
+    - id: f2f06d73-a09c-4223-8c49-7bd14a658566
+      name: Aneta J
+      text: 'refer to list:'
+      notes:
+        - '- 21 Sextury'
+        - '- 21 Bonus'
+        - '- Babes - incorrect alias, expected Aneta J'
+        - moved to incorrect performer, iafd may be wrong
+        - '- Euro Sex Parties'
+        - '- Mike''s Apartment (2007-10-03)'
+        - "- \x02Doghouse Digital\x03"
+        - '- She''s A Freak'
+        - "- \x02Sexy Hub - incorrect alias, expected Veronika\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=veronikaj/gender=f/veronika-j..htm
+        - https://www.indexxx.com/m/anetta-v
+        - https://stashdb.org/scenes/a82c5530-b92f-4a34-a6b5-e45d3f4c250c
+        - https://stashdb.org/scenes/20206b2a-365e-425e-b1d0-32b23bfa6125
+    - id: null
+      name: Jewelz
+      text: Net Video Girls
+      notes:
+        - matched left shoulder blade tattoo
+        - Ep 2005.33 - Anita Returns
+        - Ep 2009.87 - Anita
+      links:
+        - https://www.iafd.com/person.rme/perfid=jewelz/gender=f/jewelz.htm
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804
+    - id: 51e177c2-ae80-4313-a057-c4681e7ad687
+      name: Elis Bamby
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=gina_eu_05/gender=f/gina.htm
+        - https://www.indexxx.com/m/nadia
+        - https://teenmegaworld.net/models/anita.html
+    - id: null
+      name: Anita (Hungarian, 2000)
+      text: Woodman Casting X
+    - id: 0a0ef155-1ed0-4759-8079-49184002bde3
+      name: Anita Blue (2004-, USA)
+      notes:
+        - "- \x02Cum Girls\x03"
+        - '- Wives in Pantyhose'
+      links:
+        - https://www.iafd.com/person.rme/perfid=anitablue/gender=f/anita-blue.htm
+        - https://www.indexxx.com/m/anita-blue
+  notes:
+    - Mix of multiple performers (partial list)

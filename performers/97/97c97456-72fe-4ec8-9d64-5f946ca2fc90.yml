@@ -1,127 +1,84 @@
-{
-  "split": {
-    "name": "Chloe",
-    "shards": [
-      {
-        "id": null,
-        "name": "Chloe",
-        "text": "Dogfart Network",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloe_03/gender=f/chloe.htm",
-          "https://www.indexxx.com/m/chloe-20"
-        ]
-      },
-      {
-        "id": "7929819b-1773-4969-990d-95e6dc3fec1b",
-        "name": "Chloe Chanel AKA Natalia Moore",
-        "notes": [
-          "- \u0002Pure 18\u0003",
-          "- Sex Pro Adventures",
-          "- Street Blowjobs (2010)"
-        ],
-        "links": [
-          "https://stashdb.org/performers/4fc0c9e6-014a-4aaa-9844-51ef6633f16e",
-          "https://www.iafd.com/person.rme/perfid=chloechanel/gender=f/chloe-chanel.htm",
-          "https://www.indexxx.com/m/chloe-chanel"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chloe (Nubiles)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/chloe-1",
-          "https://www.thenude.com/_12301.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Amie Boo AKA Chloe Hamilton",
-        "text": "Twistys (2012)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloehamilton/gender=f/chloe-hamilton.htm",
-          "https://www.indexxx.com/m/chloe-8"
-        ]
-      },
-      {
-        "id": "181f81e1-59cf-4b7b-bd98-47d0db179aa0",
-        "name": "Chloe Nicole",
-        "notes": [
-          "- \u0002Sweetheart Video\u0003",
-          "- Twistys (2005)",
-          "- \u0002Wicked\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloenichole/gender=f/chloe.htm",
-          "https://www.indexxx.com/m/cloe-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chloe (2003, Reality Kings)",
-        "text": "Street Blowjobs (2003)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloe_rk03/gender=f/chloe.htm",
-          "https://www.indexxx.com/m/chloe-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chloe (2010, Reality Kings)",
-        "text": "MILF Hunter",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloe_10_latin/gender=f/chloe.htm",
-          "https://www.indexxx.com/m/chloe-19"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chloe (2005, Reality Kings)",
-        "notes": [
-          "- Dangerous Dongs",
-          "- Wives in Pantyhose"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloe_rk_05/gender=f/chloe.htm",
-          "https://www.indexxx.com/m/chloe-24"
-        ]
-      },
-      {
-        "id": "f9656eec-cdad-4e06-92ee-80f5305f1e62",
-        "name": "Chloe Morgan",
-        "notes": [
-          "- \u0002Cum Fiesta\u0003",
-          "- VIP Crew"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloemorgan/gender=f/chloe-morgan.htm",
-          "https://www.indexxx.com/m/chloe-morgan"
-        ]
-      },
-      {
-        "id": "29c0f5fe-f7b7-43d9-873f-a9131771b03c",
-        "name": "Chloe Blue",
-        "notes": [
-          "- \u0002Legal Porno\u0003",
-          "- Teen Core Club"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chloe_12/gender=f/chloe-blue.htm",
-          "https://www.indexxx.com/m/chloey-1"
-        ]
-      },
-      {
-        "id": "9c561e53-b740-40f9-bb9e-f4c07878d569",
-        "name": "Lovenia Lux",
-        "text": "Rub A Teen",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lovenilux/gender=f/lovenia-lux.htm",
-          "https://www.indexxx.com/m/lovenia-lux"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Chloe
+  fragments:
+    - id: null
+      name: Chloe
+      text: Dogfart Network
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloe_03/gender=f/chloe.htm
+        - https://www.indexxx.com/m/chloe-20
+    - id: 7929819b-1773-4969-990d-95e6dc3fec1b
+      name: Chloe Chanel AKA Natalia Moore
+      notes:
+        - "- \x02Pure 18\x03"
+        - '- Sex Pro Adventures'
+        - '- Street Blowjobs (2010)'
+      links:
+        - https://stashdb.org/performers/4fc0c9e6-014a-4aaa-9844-51ef6633f16e
+        - https://www.iafd.com/person.rme/perfid=chloechanel/gender=f/chloe-chanel.htm
+        - https://www.indexxx.com/m/chloe-chanel
+    - id: null
+      name: Chloe (Nubiles)
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/chloe-1
+        - https://www.thenude.com/_12301.htm
+    - id: null
+      name: Amie Boo AKA Chloe Hamilton
+      text: Twistys (2012)
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloehamilton/gender=f/chloe-hamilton.htm
+        - https://www.indexxx.com/m/chloe-8
+    - id: 181f81e1-59cf-4b7b-bd98-47d0db179aa0
+      name: Chloe Nicole
+      notes:
+        - "- \x02Sweetheart Video\x03"
+        - '- Twistys (2005)'
+        - "- \x02Wicked\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloenichole/gender=f/chloe.htm
+        - https://www.indexxx.com/m/cloe-1
+    - id: null
+      name: Chloe (2003, Reality Kings)
+      text: Street Blowjobs (2003)
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloe_rk03/gender=f/chloe.htm
+        - https://www.indexxx.com/m/chloe-3
+    - id: null
+      name: Chloe (2010, Reality Kings)
+      text: MILF Hunter
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloe_10_latin/gender=f/chloe.htm
+        - https://www.indexxx.com/m/chloe-19
+    - id: null
+      name: Chloe (2005, Reality Kings)
+      notes:
+        - '- Dangerous Dongs'
+        - '- Wives in Pantyhose'
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloe_rk_05/gender=f/chloe.htm
+        - https://www.indexxx.com/m/chloe-24
+    - id: f9656eec-cdad-4e06-92ee-80f5305f1e62
+      name: Chloe Morgan
+      notes:
+        - "- \x02Cum Fiesta\x03"
+        - '- VIP Crew'
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloemorgan/gender=f/chloe-morgan.htm
+        - https://www.indexxx.com/m/chloe-morgan
+    - id: 29c0f5fe-f7b7-43d9-873f-a9131771b03c
+      name: Chloe Blue
+      notes:
+        - "- \x02Legal Porno\x03"
+        - '- Teen Core Club'
+      links:
+        - https://www.iafd.com/person.rme/perfid=chloe_12/gender=f/chloe-blue.htm
+        - https://www.indexxx.com/m/chloey-1
+    - id: 9c561e53-b740-40f9-bb9e-f4c07878d569
+      name: Lovenia Lux
+      text: Rub A Teen
+      links:
+        - https://www.iafd.com/person.rme/perfid=lovenilux/gender=f/lovenia-lux.htm
+        - https://www.indexxx.com/m/lovenia-lux
+  notes:
+    - Mix of multiple performers (partial list)

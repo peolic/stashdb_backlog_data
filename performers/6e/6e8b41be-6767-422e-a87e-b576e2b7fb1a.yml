@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Haily",
-    "shards": [
-      {
-        "id": null,
-        "name": "Haily (UKR)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/haily"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Haily
+  fragments:
+    - id: null
+      name: Haily (UKR)
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/haily
+  notes:
+    - Mix of multiple performers (partial list)

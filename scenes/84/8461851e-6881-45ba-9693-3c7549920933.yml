@@ -1,27 +1,16 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=marketplace+meetup/year=2006/marketplace-meetup.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "45ec2636-c80c-4a4c-9a21-8f73c53ce903",
-        "name": "Summer",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Summer Smith",
-        "appearance": "Summer",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=summersmith_06/gender=f/summer-smith.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=marketplace+meetup/year=2006/marketplace-meetup.htm
+performers:
+  remove:
+    - id: 45ec2636-c80c-4a4c-9a21-8f73c53ce903
+      name: Summer
+      appearance: null
+  append:
+    - id: null
+      name: Summer Smith
+      appearance: Summer
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=summersmith_06/gender=f/summer-smith.htm

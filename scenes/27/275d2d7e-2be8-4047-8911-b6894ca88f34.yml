@@ -1,46 +1,29 @@
-{
-  "c_studio": [
-    "Casting Couch-HD",
-    null
-  ],
-  "comments": [
-    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
-    "Ep 2014.59 - Kaily (Attacks Julie) = Kiki Lux (CCHD)",
-    "Ep 2014.59 - (Kaily Attacks) Julie = Danielle Diamond",
-    "http://img263.imagevenue.com/img.php?image=57853_nvg.14.08.14.kaily.attacks_123_567lo.jpg"
-  ],
-  "date": "2014-08-14",
-  "performers": {
-    "remove": [
-      {
-        "id": "f43c2a58-c981-4ee5-aaf2-55a40dfc0e12",
-        "name": "Julie",
-        "appearance": null
-      },
-      {
-        "id": "b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb",
-        "name": "Kaily",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "a1fa2834-4c9a-4778-baaf-7650f1c43d17",
-        "name": "Danielle Diamond",
-        "appearance": "Julie"
-      },
-      {
-        "id": null,
-        "name": "Kiki Lux",
-        "appearance": "Kaily",
-        "status": "new",
-        "status_url": "https://web.archive.org/web/20140806005207/http://idealimagemanagement.com/main/profile.php?talent_id=554"
-      },
-      {
-        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
-        "name": "Tee Reel",
-        "appearance": "Chris"
-      }
-    ]
-  }
-}
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817
+  - Ep 2014.59 - Kaily (Attacks Julie) = Kiki Lux (CCHD)
+  - Ep 2014.59 - (Kaily Attacks) Julie = Danielle Diamond
+  - http://img263.imagevenue.com/img.php?image=57853_nvg.14.08.14.kaily.attacks_123_567lo.jpg
+date: '2014-08-14'
+performers:
+  remove:
+    - id: f43c2a58-c981-4ee5-aaf2-55a40dfc0e12
+      name: Julie
+      appearance: null
+    - id: b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb
+      name: Kaily
+      appearance: null
+  append:
+    - id: a1fa2834-4c9a-4778-baaf-7650f1c43d17
+      name: Danielle Diamond
+      appearance: Julie
+    - id: null
+      name: Kiki Lux
+      appearance: Kaily
+      status: new
+      status_url: https://web.archive.org/web/20140806005207/http://idealimagemanagement.com/main/profile.php?talent_id=554
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris

@@ -1,59 +1,38 @@
-{
-  "split": {
-    "name": "Angelina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Angelina (The Life Erotic)",
-        "links": [
-          "https://www.indexxx.com/m/angelina-18"
-        ]
-      },
-      {
-        "id": "1948ab76-c1b3-413c-9f85-680d530165e9",
-        "name": "Angelina (HU, Blonde) AKA Vicky Sweet",
-        "text": "DDF Network (2001-2005)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=vickysweet/gender=f/vicky-sweet.htm",
-          "https://www.indexxx.com/m/angelina-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Angelina (HU, Brunette)",
-        "text": "1By-Day (2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=angelina_ddf/gender=f/angelina.htm",
-          "https://www.indexxx.com/m/angelina"
-        ]
-      },
-      {
-        "id": "84cd1126-34d9-479c-b508-014a6c7b2b2a",
-        "name": "Kristina Manson",
-        "text": "18 Eighteen",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kristinamanson/gender=f/kristina-manson.htm",
-          "https://www.indexxx.com/m/kristina-manson"
-        ]
-      },
-      {
-        "id": "d9204323-6d95-458f-810c-3b960acedd7d",
-        "name": "Angelina (2012-2014)",
-        "notes": [
-          "- 8th Street Latinas (2012)",
-          "- Bootylicious Mag",
-          "- \u0002BangBros\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=angelina_11_rk/gender=f/angelina.htm",
-          "https://www.iafd.com/person.rme/perfid=angelina_2014/gender=f/angelina.htm",
-          "https://www.indexxx.com/m/angelina-4",
-          "https://www.bootyliciousmag.com/big-booty-girls/Angelina/7623/"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Angelina
+  fragments:
+    - id: null
+      name: Angelina (The Life Erotic)
+      links:
+        - https://www.indexxx.com/m/angelina-18
+    - id: 1948ab76-c1b3-413c-9f85-680d530165e9
+      name: Angelina (HU, Blonde) AKA Vicky Sweet
+      text: DDF Network (2001-2005)
+      links:
+        - https://www.iafd.com/person.rme/perfid=vickysweet/gender=f/vicky-sweet.htm
+        - https://www.indexxx.com/m/angelina-1
+    - id: null
+      name: Angelina (HU, Brunette)
+      text: 1By-Day (2010)
+      links:
+        - https://www.iafd.com/person.rme/perfid=angelina_ddf/gender=f/angelina.htm
+        - https://www.indexxx.com/m/angelina
+    - id: 84cd1126-34d9-479c-b508-014a6c7b2b2a
+      name: Kristina Manson
+      text: 18 Eighteen
+      links:
+        - https://www.iafd.com/person.rme/perfid=kristinamanson/gender=f/kristina-manson.htm
+        - https://www.indexxx.com/m/kristina-manson
+    - id: d9204323-6d95-458f-810c-3b960acedd7d
+      name: Angelina (2012-2014)
+      notes:
+        - '- 8th Street Latinas (2012)'
+        - '- Bootylicious Mag'
+        - "- \x02BangBros\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=angelina_11_rk/gender=f/angelina.htm
+        - https://www.iafd.com/person.rme/perfid=angelina_2014/gender=f/angelina.htm
+        - https://www.indexxx.com/m/angelina-4
+        - https://www.bootyliciousmag.com/big-booty-girls/Angelina/7623/
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,25 +1,14 @@
-{
-  "split": {
-    "name": "Misty",
-    "shards": [
-      {
-        "id": "e4d92ff8-3b0e-4dcd-aac0-fdaa83f07d38",
-        "name": "Misty Mendez",
-        "links": [
-          "https://www.indexxx.com/m/misty-mendez",
-          "https://www.iafd.com/person.rme/perfid=misty99/gender=f/misty-mendez.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Misty Atkinson",
-        "links": [
-          "https://www.indexxx.com/m/misty-atkinson"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Misty
+  fragments:
+    - id: e4d92ff8-3b0e-4dcd-aac0-fdaa83f07d38
+      name: Misty Mendez
+      links:
+        - https://www.indexxx.com/m/misty-mendez
+        - https://www.iafd.com/person.rme/perfid=misty99/gender=f/misty-mendez.htm
+    - id: null
+      name: Misty Atkinson
+      links:
+        - https://www.indexxx.com/m/misty-atkinson
+  notes:
+    - Mix of multiple performers (partial list)

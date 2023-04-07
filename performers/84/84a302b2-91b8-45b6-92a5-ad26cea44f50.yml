@@ -1,9 +1,5 @@
-{
-  "split": {
-    "name": "Hayden",
-    "shards": [],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Hayden
+  fragments: []
+  notes:
+    - Mix of multiple performers (partial list)

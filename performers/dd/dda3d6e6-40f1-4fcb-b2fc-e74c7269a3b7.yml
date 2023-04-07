@@ -1,31 +1,21 @@
-{
-  "split": {
-    "name": "Marie Bossette",
-    "shards": [
-      {
-        "id": null,
-        "name": "Miss Marie",
-        "text": "All 8 scenes",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=missmarie/gender=f/miss-marie.htm",
-          "https://www.indexxx.com/m/miss-marie"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marie Bossette",
-        "text": "No scenes",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mariebossette/gender=f/marie-bossette.htm",
-          "https://alterotic.com/models/marie-bossette"
-        ]
-      }
-    ],
-    "notes": [
-      "All scenes are of Miss Marie, but information and main photo is of Marie Bossette. They were renamed, but they are not the same performer. (complete list as of 2022-11-10)"
-    ],
-    "links": [
-      "https://stashdb.org/edits/23a3830e-ecf0-4f12-8279-932fc1d19d91"
-    ]
-  }
-}
+split:
+  name: Marie Bossette
+  fragments:
+    - id: null
+      name: Miss Marie
+      text: All 8 scenes
+      links:
+        - https://www.iafd.com/person.rme/perfid=missmarie/gender=f/miss-marie.htm
+        - https://www.indexxx.com/m/miss-marie
+    - id: null
+      name: Marie Bossette
+      text: No scenes
+      links:
+        - https://www.iafd.com/person.rme/perfid=mariebossette/gender=f/marie-bossette.htm
+        - https://alterotic.com/models/marie-bossette
+  notes:
+    - All scenes are of Miss Marie, but information and main photo is of Marie Bossette.
+      They were renamed, but they are not the same performer. (complete list as of
+      2022-11-10)
+  links:
+    - https://stashdb.org/edits/23a3830e-ecf0-4f12-8279-932fc1d19d91

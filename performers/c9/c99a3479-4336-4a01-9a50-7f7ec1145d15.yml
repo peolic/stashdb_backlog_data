@@ -1,21 +1,13 @@
-{
-  "split": {
-    "name": "Becca",
-    "shards": [
-      {
-        "id": null,
-        "name": "Becca (2017, Exploited College Girls)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=becca_17/gender=f/becca.htm",
-          "https://www.indexxx.com/m/becca",
-          "https://exploitedcollegegirls.com/models/cat.html",
-          "https://stashdb.org/scenes/5101d7d9-97cf-4d89-ab28-ae0b1f9fd0b8",
-          "https://stashdb.org/scenes/80e6b9bb-1523-430e-be85-3ae4f87c319f"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Becca
+  fragments:
+    - id: null
+      name: Becca (2017, Exploited College Girls)
+      links:
+        - https://www.iafd.com/person.rme/perfid=becca_17/gender=f/becca.htm
+        - https://www.indexxx.com/m/becca
+        - https://exploitedcollegegirls.com/models/cat.html
+        - https://stashdb.org/scenes/5101d7d9-97cf-4d89-ab28-ae0b1f9fd0b8
+        - https://stashdb.org/scenes/80e6b9bb-1523-430e-be85-3ae4f87c319f
+  notes:
+    - Mix of multiple performers (partial list)

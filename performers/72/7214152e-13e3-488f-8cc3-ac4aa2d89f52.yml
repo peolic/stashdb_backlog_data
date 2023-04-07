@@ -1,54 +1,33 @@
-{
-  "split": {
-    "name": "Kyle",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kyle (2003-2004, Tranny Surprise)",
-        "text": "Tranny Surprise",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kyle_04_rk/gender=m/kyle.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kyle (2008, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kyle_backroomcastingcouch/gender=f/kyle.htm",
-          "https://www.backroomcastingcouch.com/models/kyle.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kyle (2017, Men.com)",
-        "notes": [
-          "- Jizz Orgy",
-          "- Dick Dorm (2017)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kyle_men/gender=m/kyle.htm",
-          "https://gayeroticvideoindex.com/performer/111276"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kyle (2009, Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kyle_sc_1/gender=m/kyle.htm",
-          "https://gayeroticvideoindex.com/performer/100928"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kyle (2010, Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kyle_sc_2/gender=m/kyle.htm",
-          "https://gayeroticvideoindex.com/performer/100926"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Kyle
+  fragments:
+    - id: null
+      name: Kyle (2003-2004, Tranny Surprise)
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=kyle_04_rk/gender=m/kyle.htm
+    - id: null
+      name: Kyle (2008, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kyle_backroomcastingcouch/gender=f/kyle.htm
+        - https://www.backroomcastingcouch.com/models/kyle.html
+    - id: null
+      name: Kyle (2017, Men.com)
+      notes:
+        - '- Jizz Orgy'
+        - '- Dick Dorm (2017)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=kyle_men/gender=m/kyle.htm
+        - https://gayeroticvideoindex.com/performer/111276
+    - id: null
+      name: Kyle (2009, Sean Cody)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kyle_sc_1/gender=m/kyle.htm
+        - https://gayeroticvideoindex.com/performer/100928
+    - id: null
+      name: Kyle (2010, Sean Cody)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kyle_sc_2/gender=m/kyle.htm
+        - https://gayeroticvideoindex.com/performer/100926
+  notes:
+    - Mix of multiple performers (partial list)

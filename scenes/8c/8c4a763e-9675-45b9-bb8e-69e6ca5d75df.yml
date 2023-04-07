@@ -1,27 +1,16 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=lick+and+move/year=2006/lick-and-move.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "19e35941-d09f-485f-b73c-e6394acef9f8",
-        "name": "Alex",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Alex Venice",
-        "appearance": "Alex",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=alexvenice/gender=f/alex-venice.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=lick+and+move/year=2006/lick-and-move.htm
+performers:
+  remove:
+    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
+      name: Alex
+      appearance: null
+  append:
+    - id: null
+      name: Alex Venice
+      appearance: Alex
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=alexvenice/gender=f/alex-venice.htm

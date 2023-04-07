@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Anny",
-    "shards": [
-      {
-        "id": null,
-        "name": "Alia / Natalia",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alia_07/gender=f/alia.htm",
-          "https://www.indexxx.com/m/nasty"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Anny
+  fragments:
+    - id: null
+      name: Alia / Natalia
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=alia_07/gender=f/alia.htm
+        - https://www.indexxx.com/m/nasty
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,27 +1,16 @@
-{
-  "c_studio": [
-    "Female Fake Taxi",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=young+dumb+and+full+of+cum/year=2018/young-dumb-and-full-of-cum.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "17c28e25-cbef-4a51-9f54-98b5acad3516",
-        "name": "Joey Cooper",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Jonny Cooper",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jonnycooper/gender=m/jonny-cooper.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Female Fake Taxi
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=young+dumb+and+full+of+cum/year=2018/young-dumb-and-full-of-cum.htm
+performers:
+  remove:
+    - id: 17c28e25-cbef-4a51-9f54-98b5acad3516
+      name: Joey Cooper
+      appearance: null
+  append:
+    - id: null
+      name: Jonny Cooper
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=jonnycooper/gender=m/jonny-cooper.htm

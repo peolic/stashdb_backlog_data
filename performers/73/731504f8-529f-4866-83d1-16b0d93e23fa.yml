@@ -1,78 +1,48 @@
-{
-  "split": {
-    "name": "Jordan",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jordan (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/jordan"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jordan (Sapphic Erotica)",
-        "links": [
-          "https://www.indexxx.com/m/jordan-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jordan (Bang Bus)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jordan_bbb/gender=f/jordan.htm",
-          "https://www.indexxx.com/m/jordan-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jordan (Round and Brown & Extreme Asses)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jordan_rk_06/gender=f/jordan.htm",
-          "https://www.indexxx.com/m/jordan-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jordan (MILF Next Door)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jordan_rk_05/gender=f/jordan.htm",
-          "https://www.indexxx.com/m/jordan-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jordan James",
-        "text": "(Wives in Pantyhose)",
-        "notes": [
-          "needs disambiguation!",
-          "there is at least one other performer with that name."
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jordanjames_05/gender=f/jordan-james.htm",
-          "https://www.indexxx.com/m/jordan-james-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jordan (MILF Hunter)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jordan_rk_11/gender=f/jordan.htm",
-          "https://www.indexxx.com/m/jordan-19"
-        ]
-      },
-      {
-        "id": "8bcf3342-6b10-4866-aff3-e0201d651d42",
-        "name": "Jordan (2008, ExploitedX)",
-        "text": "unconfirmed",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jordan_backroomcastingcouch/gender=f/jordan.htm",
-          "https://www.indexxx.com/m/jordan-36"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Jordan
+  fragments:
+    - id: null
+      name: Jordan (Nubiles)
+      links:
+        - https://www.indexxx.com/m/jordan
+    - id: null
+      name: Jordan (Sapphic Erotica)
+      links:
+        - https://www.indexxx.com/m/jordan-2
+    - id: null
+      name: Jordan (Bang Bus)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jordan_bbb/gender=f/jordan.htm
+        - https://www.indexxx.com/m/jordan-1
+    - id: null
+      name: Jordan (Round and Brown & Extreme Asses)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jordan_rk_06/gender=f/jordan.htm
+        - https://www.indexxx.com/m/jordan-3
+    - id: null
+      name: Jordan (MILF Next Door)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jordan_rk_05/gender=f/jordan.htm
+        - https://www.indexxx.com/m/jordan-5
+    - id: null
+      name: Jordan James
+      text: (Wives in Pantyhose)
+      notes:
+        - needs disambiguation!
+        - there is at least one other performer with that name.
+      links:
+        - https://www.iafd.com/person.rme/perfid=jordanjames_05/gender=f/jordan-james.htm
+        - https://www.indexxx.com/m/jordan-james-1
+    - id: null
+      name: Jordan (MILF Hunter)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jordan_rk_11/gender=f/jordan.htm
+        - https://www.indexxx.com/m/jordan-19
+    - id: 8bcf3342-6b10-4866-aff3-e0201d651d42
+      name: Jordan (2008, ExploitedX)
+      text: unconfirmed
+      links:
+        - https://www.iafd.com/person.rme/perfid=jordan_backroomcastingcouch/gender=f/jordan.htm
+        - https://www.indexxx.com/m/jordan-36
+  notes:
+    - Mix of multiple performers (partial list)

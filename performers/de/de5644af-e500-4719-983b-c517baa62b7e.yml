@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Joey",
-    "shards": [
-      {
-        "id": null,
-        "name": "Joey (2005, We Live Together)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=joey_rk05/gender=f/joey.htm",
-          "https://www.indexxx.com/m/joey"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Joey
+  fragments:
+    - id: null
+      name: Joey (2005, We Live Together)
+      links:
+        - https://www.iafd.com/person.rme/perfid=joey_rk05/gender=f/joey.htm
+        - https://www.indexxx.com/m/joey
+  notes:
+    - Mix of multiple performers (partial list)

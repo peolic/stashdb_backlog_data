@@ -1,27 +1,16 @@
-{
-  "split": {
-    "name": "Nicole",
-    "shards": [
-      {
-        "id": null,
-        "name": "Nikola",
-        "text": "(legalporno.com)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nikola_12/gender=f/nikola.htm",
-          "https://www.analvids.com/model/3104/nicole"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nicole",
-        "text": "(Stunning 18)",
-        "links": [
-          "https://www.indexxx.com/m/nicole-58"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Nicole
+  fragments:
+    - id: null
+      name: Nikola
+      text: (legalporno.com)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nikola_12/gender=f/nikola.htm
+        - https://www.analvids.com/model/3104/nicole
+    - id: null
+      name: Nicole
+      text: (Stunning 18)
+      links:
+        - https://www.indexxx.com/m/nicole-58
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,24 +1,13 @@
-{
-  "split": {
-    "name": "Ron",
-    "shards": [
-      {
-        "id": null,
-        "name": "Ron (2003, Sean Cody)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/62662"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Ron (2012, Sean Cody)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/103340"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Ron
+  fragments:
+    - id: null
+      name: Ron (2003, Sean Cody)
+      links:
+        - https://gayeroticvideoindex.com/performer/62662
+    - id: null
+      name: Ron (2012, Sean Cody)
+      links:
+        - https://gayeroticvideoindex.com/performer/103340
+  notes:
+    - Mix of multiple performers (partial list)

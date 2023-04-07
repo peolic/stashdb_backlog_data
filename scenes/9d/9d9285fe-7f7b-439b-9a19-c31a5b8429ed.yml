@@ -1,16 +1,9 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "oshash",
-      "hash": "e38912a01816ef8c",
-      "correct_scene_id": "c251a961-663c-4f8a-a8db-f47553eadbf8",
-      "duration": 1466
-    },
-    {
-      "algorithm": "phash",
-      "hash": "a6e4e6d4ccd4e229",
-      "correct_scene_id": "c251a961-663c-4f8a-a8db-f47553eadbf8",
-      "duration": 1466
-    }
-  ]
-}
+fingerprints:
+  - algorithm: oshash
+    hash: e38912a01816ef8c
+    correct_scene_id: c251a961-663c-4f8a-a8db-f47553eadbf8
+    duration: 1466
+  - algorithm: phash
+    hash: a6e4e6d4ccd4e229
+    correct_scene_id: c251a961-663c-4f8a-a8db-f47553eadbf8
+    duration: 1466

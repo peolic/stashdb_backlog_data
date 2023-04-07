@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Bruno",
-    "shards": [
-      {
-        "id": null,
-        "name": "Bruno (Old Dicks Young Chix)",
-        "text": "Maybe? Richard Beigh",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=richardbeigh/gender=m/richard-beigh.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers. \u0002(partial list)\u0003 (complete list as of 2022-07-05)"
-    ]
-  }
-}
+split:
+  name: Bruno
+  fragments:
+    - id: null
+      name: Bruno (Old Dicks Young Chix)
+      text: Maybe? Richard Beigh
+      links:
+        - https://www.iafd.com/person.rme/perfid=richardbeigh/gender=m/richard-beigh.htm
+  notes:
+    - "Mix of multiple performers. \x02(partial list)\x03 (complete list as of 2022-07-05)"

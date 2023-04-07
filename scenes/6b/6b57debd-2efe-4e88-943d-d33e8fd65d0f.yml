@@ -1,24 +1,15 @@
-{
-  "c_studio": [
-    "Mommy Blows Best",
-    null
-  ],
-  "comments": [
-    "https://www.indexxx.com/set/468503/mommy-blows-best-faustine-lee/"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Faustine Lee",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=faustinelee/gender=f/faustine-lee.htm",
-        "notes": [
-          "https://www.indexxx.com/m/faustine-lee"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - Mommy Blows Best
+  - null
+comments:
+  - https://www.indexxx.com/set/468503/mommy-blows-best-faustine-lee/
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Faustine Lee
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=faustinelee/gender=f/faustine-lee.htm
+      notes:
+        - https://www.indexxx.com/m/faustine-lee

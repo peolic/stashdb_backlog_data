@@ -1,35 +1,21 @@
-{
-  "split": {
-    "name": "Margarita",
-    "shards": [
-      {
-        "id": null,
-        "name": "Margarita",
-        "text": "21sextreme",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=margarita_12/gender=f/margarita.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Margarita (CZ)",
-        "text": "ALS Scan",
-        "links": [
-          "https://www.indexxx.com/m/margarita"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sonie Rish",
-        "text": "1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sonierish/gender=f/sonie-rish.htm",
-          "https://stashdb.org/scenes/4cf31c86-cd70-4a12-925f-96509ab242e6"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Margarita
+  fragments:
+    - id: null
+      name: Margarita
+      text: 21sextreme
+      links:
+        - https://www.iafd.com/person.rme/perfid=margarita_12/gender=f/margarita.htm
+    - id: null
+      name: Margarita (CZ)
+      text: ALS Scan
+      links:
+        - https://www.indexxx.com/m/margarita
+    - id: null
+      name: Sonie Rish
+      text: 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=sonierish/gender=f/sonie-rish.htm
+        - https://stashdb.org/scenes/4cf31c86-cd70-4a12-925f-96509ab242e6
+  notes:
+    - Mix of multiple performers (partial list)

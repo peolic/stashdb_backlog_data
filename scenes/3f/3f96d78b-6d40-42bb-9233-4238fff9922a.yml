@@ -1,22 +1,14 @@
-{
-  "c_studio": [
-    "Big Tits, Round Asses",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=welcome+to+the+big+titty+committee/year=2011/welcome-to-the-big-titty-committee.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Maty",
-        "appearance": null,
-        "disambiguation": "2010-11, Bang Bros",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=maty_bbros/gender=m/maty.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Big Tits, Round Asses
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=welcome+to+the+big+titty+committee/year=2011/welcome-to-the-big-titty-committee.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Maty
+      appearance: null
+      disambiguation: 2010-11, Bang Bros
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=maty_bbros/gender=m/maty.htm

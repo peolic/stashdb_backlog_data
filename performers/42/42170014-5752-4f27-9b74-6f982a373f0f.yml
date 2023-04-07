@@ -1,36 +1,22 @@
-{
-  "split": {
-    "name": "Shane",
-    "shards": [
-      {
-        "id": "c6426b4a-d5ec-48f8-b8d8-7e06320d9e42",
-        "name": "Barbie ? AKA Yanika (Anal Teen Angels)",
-        "text": "Devil's Film",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=barbie_09_gangland/gender=f/barbie.htm",
-          "https://www.indexxx.com/m/yanika",
-          "https://teenmegaworld.net/models/yana.html"
-        ]
-      },
-      {
-        "id": "6ebaad45-a768-4971-b1b6-d79d7090bc69",
-        "name": "Layma",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=layma/gender=f/layma.htm",
-          "https://www.indexxx.com/m/laima"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Shane (Score)",
-        "links": [
-          "https://www.scoreland.com/male-performer/Shane/8273/"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Shane
+  fragments:
+    - id: c6426b4a-d5ec-48f8-b8d8-7e06320d9e42
+      name: Barbie ? AKA Yanika (Anal Teen Angels)
+      text: Devil's Film
+      links:
+        - https://www.iafd.com/person.rme/perfid=barbie_09_gangland/gender=f/barbie.htm
+        - https://www.indexxx.com/m/yanika
+        - https://teenmegaworld.net/models/yana.html
+    - id: 6ebaad45-a768-4971-b1b6-d79d7090bc69
+      name: Layma
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=layma/gender=f/layma.htm
+        - https://www.indexxx.com/m/laima
+    - id: null
+      name: Shane (Score)
+      links:
+        - https://www.scoreland.com/male-performer/Shane/8273/
+  notes:
+    - Mix of multiple performers (partial list)

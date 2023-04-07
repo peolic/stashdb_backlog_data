@@ -1,31 +1,19 @@
-{
-  "split": {
-    "name": "Brit",
-    "shards": [
-      {
-        "id": null,
-        "name": "Brit (2007, BangBros)",
-        "notes": [
-          "- Big Mouthfuls",
-          "- BangBros Clips"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=brit_bb_07/gender=f/brit.htm",
-          "https://www.indexxx.com/m/brit",
-          "https://bangbros.com/model19891/brit"
-        ]
-      },
-      {
-        "id": "17f08e09-8f30-44f7-a429-753ae6cacbe8",
-        "name": "Caprice?",
-        "text": "Nasty Angels: possibly an \"Alfa Red\" video with POVJoe, not identified",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=caprice_can/gender=f/caprice.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-03-25)"
-    ]
-  }
-}
+split:
+  name: Brit
+  fragments:
+    - id: null
+      name: Brit (2007, BangBros)
+      notes:
+        - '- Big Mouthfuls'
+        - '- BangBros Clips'
+      links:
+        - https://www.iafd.com/person.rme/perfid=brit_bb_07/gender=f/brit.htm
+        - https://www.indexxx.com/m/brit
+        - https://bangbros.com/model19891/brit
+    - id: 17f08e09-8f30-44f7-a429-753ae6cacbe8
+      name: Caprice?
+      text: 'Nasty Angels: possibly an "Alfa Red" video with POVJoe, not identified'
+      links:
+        - https://www.iafd.com/person.rme/perfid=caprice_can/gender=f/caprice.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2023-03-25)

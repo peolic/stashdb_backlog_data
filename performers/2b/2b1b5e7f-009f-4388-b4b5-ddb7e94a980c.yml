@@ -1,35 +1,21 @@
-{
-  "split": {
-    "name": "Szilvia",
-    "shards": [
-      {
-        "id": null,
-        "name": "Szilvia (Nubiles)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=fansy_rus/gender=f/fansy.htm",
-          "https://www.indexxx.com/m/szilvia",
-          "https://www.thenude.com/_5554.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Szilvia (Hungary, 2000-2003)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=szilvia_h/gender=f/szilvia.htm",
-          "https://www.indexxx.com/m/sylvia"
-        ]
-      },
-      {
-        "id": "094e9a3f-2e68-41b1-8b70-17eccff1daae",
-        "name": "Szilvia Stena",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=szilvia/gender=f/szilvia.htm",
-          "https://www.indexxx.com/m/szilvia-stena"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Szilvia
+  fragments:
+    - id: null
+      name: Szilvia (Nubiles)
+      links:
+        - https://www.iafd.com/person.rme/perfid=fansy_rus/gender=f/fansy.htm
+        - https://www.indexxx.com/m/szilvia
+        - https://www.thenude.com/_5554.htm
+    - id: null
+      name: Szilvia (Hungary, 2000-2003)
+      links:
+        - https://www.iafd.com/person.rme/perfid=szilvia_h/gender=f/szilvia.htm
+        - https://www.indexxx.com/m/sylvia
+    - id: 094e9a3f-2e68-41b1-8b70-17eccff1daae
+      name: Szilvia Stena
+      links:
+        - https://www.iafd.com/person.rme/perfid=szilvia/gender=f/szilvia.htm
+        - https://www.indexxx.com/m/szilvia-stena
+  notes:
+    - Mix of multiple performers (partial list)

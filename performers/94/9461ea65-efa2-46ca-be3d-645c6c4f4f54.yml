@@ -1,42 +1,25 @@
-{
-  "split": {
-    "name": "Marlene",
-    "shards": [
-      {
-        "id": null,
-        "name": "Marlene (rk.com, 2003)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marlene_rk03/gender=f/marlene.htm",
-          "https://www.indexxx.com/m/marlene"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marlene (Captain Stabbin, 2005)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marlene_rk_05/gender=f/marlene.htm",
-          "https://www.indexxx.com/m/marlene-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marlene (SexMex)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marlene_sxmx/gender=f/marlene.htm",
-          "https://sexmex.xxx/tour/models/marlene-sexmex.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marlene (2006, Devil's Film)",
-        "text": "Devil's Film",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marlene_eu_06/gender=f/marlene.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-22)"
-    ]
-  }
-}
+split:
+  name: Marlene
+  fragments:
+    - id: null
+      name: Marlene (rk.com, 2003)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marlene_rk03/gender=f/marlene.htm
+        - https://www.indexxx.com/m/marlene
+    - id: null
+      name: Marlene (Captain Stabbin, 2005)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marlene_rk_05/gender=f/marlene.htm
+        - https://www.indexxx.com/m/marlene-1
+    - id: null
+      name: Marlene (SexMex)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marlene_sxmx/gender=f/marlene.htm
+        - https://sexmex.xxx/tour/models/marlene-sexmex.html
+    - id: null
+      name: Marlene (2006, Devil's Film)
+      text: Devil's Film
+      links:
+        - https://www.iafd.com/person.rme/perfid=marlene_eu_06/gender=f/marlene.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-22)

@@ -1,56 +1,37 @@
-{
-  "split": {
-    "name": "Jamie",
-    "shards": [
-      {
-        "id": "ecc2008e-3a65-4ac4-afe1-75b83e96c9cd",
-        "name": "Jamie Hunger AKA Jamie A",
-        "notes": [
-          "- 21 Sextury",
-          "- PornWorld / DDF Network"
-        ],
-        "links": [
-          "https://stashdb.org/performers/dff380d6-0733-4f78-8e9f-5de9be1b077d",
-          "https://www.iafd.com/person.rme/perfid=jamie_eu_03/gender=f/jamie-hunger.htm",
-          "https://www.indexxx.com/m/jamie"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jamie (2004, Kink)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jamie_kink_m/gender=m/jamie.htm"
-        ]
-      },
-      {
-        "id": "184c5a71-6615-42c7-93e4-a843d9d14d3e",
-        "name": "Charlie James",
-        "text": "Net Video Girls (2010)",
-        "notes": [
-          "Ep 2010.31 - Jamie = Charlie James"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charliejames/gender=f/charlie-james.htm",
-          "https://www.indexxx.com/m/charlie-james",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Molly Bronte",
-        "text": "Net Video Girls (2014)",
-        "notes": [
-          "Ep 2014.40 - Jamie RM = Molly Bronte"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
-          "https://twitter.com/search?q=(from%3A%40ImagoStudiosVid)%20Molly%20Bronte&src=typed_query&f=live",
-          "https://twitter.com/ImagoStudiosVid/status/1535016289093099520"
-        ]
-      }
-    ],
-    "notes": [
-      "This performer page has a ton of different performers\u0002, but the Sean Cody performers have the most scenes\u0003"
-    ]
-  }
-}
+split:
+  name: Jamie
+  fragments:
+    - id: ecc2008e-3a65-4ac4-afe1-75b83e96c9cd
+      name: Jamie Hunger AKA Jamie A
+      notes:
+        - '- 21 Sextury'
+        - '- PornWorld / DDF Network'
+      links:
+        - https://stashdb.org/performers/dff380d6-0733-4f78-8e9f-5de9be1b077d
+        - https://www.iafd.com/person.rme/perfid=jamie_eu_03/gender=f/jamie-hunger.htm
+        - https://www.indexxx.com/m/jamie
+    - id: null
+      name: Jamie (2004, Kink)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jamie_kink_m/gender=m/jamie.htm
+    - id: 184c5a71-6615-42c7-93e4-a843d9d14d3e
+      name: Charlie James
+      text: Net Video Girls (2010)
+      notes:
+        - Ep 2010.31 - Jamie = Charlie James
+      links:
+        - https://www.iafd.com/person.rme/perfid=charliejames/gender=f/charlie-james.htm
+        - https://www.indexxx.com/m/charlie-james
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813
+    - id: null
+      name: Molly Bronte
+      text: Net Video Girls (2014)
+      notes:
+        - Ep 2014.40 - Jamie RM = Molly Bronte
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817
+        - https://twitter.com/search?q=(from%3A%40ImagoStudiosVid)%20Molly%20Bronte&src=typed_query&f=live
+        - https://twitter.com/ImagoStudiosVid/status/1535016289093099520
+  notes:
+    - "This performer page has a ton of different performers\x02, but the Sean Cody\
+      \ performers have the most scenes\x03"

@@ -1,48 +1,30 @@
-{
-  "split": {
-    "name": "Angie",
-    "shards": [
-      {
-        "id": "08d07825-98df-48a0-b303-d3a649e2753b",
-        "name": "Angie Rain",
-        "notes": [
-          "- partial profile here",
-          "- large breast / left bicep tattoo"
-        ],
-        "links": [
-          "https://www.indexxx.com/m/maiky"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Angie (2011, GF revenge)",
-        "text": "1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=angie_rk_11/gender=f/angie.htm",
-          "https://stashdb.org/scenes/fea5fd29-7e01-4259-bb76-11992dd1769d"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Angie (black, bbw, blowpass)",
-        "text": "1 scene",
-        "links": [
-          "https://www.indexxx.com/m/angie-24",
-          "https://stashdb.org/scenes/7d5ee72a-f671-429c-8b55-181e24d7b53d"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Angie (black, bbw, roundandbrown)",
-        "text": "1 scene",
-        "links": [
-          "https://www.indexxx.com/m/angie-3",
-          "https://stashdb.org/scenes/d09f8b2a-88b1-43ec-a9f9-e144455e9498"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Angie
+  fragments:
+    - id: 08d07825-98df-48a0-b303-d3a649e2753b
+      name: Angie Rain
+      notes:
+        - '- partial profile here'
+        - '- large breast / left bicep tattoo'
+      links:
+        - https://www.indexxx.com/m/maiky
+    - id: null
+      name: Angie (2011, GF revenge)
+      text: 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=angie_rk_11/gender=f/angie.htm
+        - https://stashdb.org/scenes/fea5fd29-7e01-4259-bb76-11992dd1769d
+    - id: null
+      name: Angie (black, bbw, blowpass)
+      text: 1 scene
+      links:
+        - https://www.indexxx.com/m/angie-24
+        - https://stashdb.org/scenes/7d5ee72a-f671-429c-8b55-181e24d7b53d
+    - id: null
+      name: Angie (black, bbw, roundandbrown)
+      text: 1 scene
+      links:
+        - https://www.indexxx.com/m/angie-3
+        - https://stashdb.org/scenes/d09f8b2a-88b1-43ec-a9f9-e144455e9498
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,44 +1,26 @@
-{
-  "split": {
-    "name": "Mindy",
-    "shards": [
-      {
-        "id": null,
-        "name": "Mindy (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/mindy",
-          "https://www.thenude.com/_12001.htm"
-        ]
-      },
-      {
-        "id": "39bb172a-3c15-46de-b7d9-1d11feac3c43",
-        "name": "Mindy Lee",
-        "text": "Cum Fiesta",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mindy_06/gender=f/mindy-lee.htm",
-          "https://www.indexxx.com/m/mindy-lee"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Mindy (2006, Reality Kings)",
-        "text": "MILF Hunter",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mindy_rk_06/gender=f/mindy.htm",
-          "https://www.indexxx.com/m/mindy-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Mindy (18 Flesh)"
-      },
-      {
-        "id": null,
-        "name": "Mindy (2007, White Ghetto)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-10)"
-    ]
-  }
-}
+split:
+  name: Mindy
+  fragments:
+    - id: null
+      name: Mindy (Nubiles)
+      links:
+        - https://www.indexxx.com/m/mindy
+        - https://www.thenude.com/_12001.htm
+    - id: 39bb172a-3c15-46de-b7d9-1d11feac3c43
+      name: Mindy Lee
+      text: Cum Fiesta
+      links:
+        - https://www.iafd.com/person.rme/perfid=mindy_06/gender=f/mindy-lee.htm
+        - https://www.indexxx.com/m/mindy-lee
+    - id: null
+      name: Mindy (2006, Reality Kings)
+      text: MILF Hunter
+      links:
+        - https://www.iafd.com/person.rme/perfid=mindy_rk_06/gender=f/mindy.htm
+        - https://www.indexxx.com/m/mindy-1
+    - id: null
+      name: Mindy (18 Flesh)
+    - id: null
+      name: Mindy (2007, White Ghetto)
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-10)

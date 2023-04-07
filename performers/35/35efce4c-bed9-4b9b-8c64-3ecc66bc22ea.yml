@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Danica",
-    "shards": [
-      {
-        "id": null,
-        "name": "Danica (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/danica"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Danica
+  fragments:
+    - id: null
+      name: Danica (Nubiles)
+      links:
+        - https://www.indexxx.com/m/danica
+  notes:
+    - Mix of multiple performers (partial list)

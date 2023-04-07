@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Kimmy",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kimmy (2005, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kimmy_rk05/gender=f/kimmy.htm",
-          "https://www.indexxx.com/m/kimmy-1"
-        ]
-      },
-      {
-        "id": "f2d95d39-5376-4b03-986b-963f10fee732",
-        "name": "Kimmy Kahn",
-        "text": "Motherfucker XXX",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kimmykahn/gender=f/kimmy-kahn.htm",
-          "https://www.indexxx.com/m/kimmy-kahn"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-11)"
-    ]
-  }
-}
+split:
+  name: Kimmy
+  fragments:
+    - id: null
+      name: Kimmy (2005, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=kimmy_rk05/gender=f/kimmy.htm
+        - https://www.indexxx.com/m/kimmy-1
+    - id: f2d95d39-5376-4b03-986b-963f10fee732
+      name: Kimmy Kahn
+      text: Motherfucker XXX
+      links:
+        - https://www.iafd.com/person.rme/perfid=kimmykahn/gender=f/kimmy-kahn.htm
+        - https://www.indexxx.com/m/kimmy-kahn
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-11)

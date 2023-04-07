@@ -1,34 +1,20 @@
-{
-  "c_studio": [
-    "MILF Hunter",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=chinese+takeout/year=2002/chinese-takeout.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "415368f0-98d3-48f0-a290-65a7d283afa2",
-        "name": "Mike",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": "5dcf37b0-2f3c-40e3-88a0-a5b3207b5784",
-        "name": "Mike",
-        "appearance": null,
-        "disambiguation": "2002-3, Reality Kings",
-        "notes": [
-          "https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm"
-        ]
-      },
-      {
-        "id": "fd6cfae2-5143-4ff7-918d-b4a5caacbbae",
-        "name": "Shawn Rees",
-        "appearance": "Hunter"
-      }
-    ]
-  }
-}
+c_studio:
+  - MILF Hunter
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=chinese+takeout/year=2002/chinese-takeout.htm
+performers:
+  remove:
+    - id: 415368f0-98d3-48f0-a290-65a7d283afa2
+      name: Mike
+      appearance: null
+  append:
+    - id: 5dcf37b0-2f3c-40e3-88a0-a5b3207b5784
+      name: Mike
+      appearance: null
+      disambiguation: 2002-3, Reality Kings
+      notes:
+        - https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm
+    - id: fd6cfae2-5143-4ff7-918d-b4a5caacbbae
+      name: Shawn Rees
+      appearance: Hunter

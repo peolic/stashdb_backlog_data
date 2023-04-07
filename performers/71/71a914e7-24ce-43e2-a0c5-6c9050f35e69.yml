@@ -1,7 +1,4 @@
-{
-  "name": "Destiny Dane",
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=destinydane/gender=f/destiny-dane.htm",
-    "https://www.indexxx.com/m/destiny-dane"
-  ]
-}
+name: Destiny Dane
+urls:
+  - https://www.iafd.com/person.rme/perfid=destinydane/gender=f/destiny-dane.htm
+  - https://www.indexxx.com/m/destiny-dane

@@ -1,45 +1,28 @@
-{
-  "split": {
-    "name": "Katrina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Katrina",
-        "text": "Nubiles scenes circa 2007",
-        "links": [
-          "https://www.indexxx.com/m/katrina"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Melisa PL",
-        "text": "1 scene",
-        "links": [
-          "https://www.indexxx.com/m/melisa-pl",
-          "https://stashdb.org/scenes/b4c0a0b0-cde1-42d5-be1e-03c23b29a311"
-        ]
-      },
-      {
-        "id": "b2a6587b-d2b6-4ba0-8036-5f488c774a28",
-        "name": "Kandi Sweets",
-        "text": "Net Video Girls (2012)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kandisweets/gender=f/kandi-sweets.htm",
-          "https://www.indexxx.com/m/kandi-sweets"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Katrina (2002-2004)",
-        "text": "Dogfart Network",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrina02/gender=f/katrina.htm",
-          "https://www.indexxx.com/m/katrina-2"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Katrina
+  fragments:
+    - id: null
+      name: Katrina
+      text: Nubiles scenes circa 2007
+      links:
+        - https://www.indexxx.com/m/katrina
+    - id: null
+      name: Melisa PL
+      text: 1 scene
+      links:
+        - https://www.indexxx.com/m/melisa-pl
+        - https://stashdb.org/scenes/b4c0a0b0-cde1-42d5-be1e-03c23b29a311
+    - id: b2a6587b-d2b6-4ba0-8036-5f488c774a28
+      name: Kandi Sweets
+      text: Net Video Girls (2012)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kandisweets/gender=f/kandi-sweets.htm
+        - https://www.indexxx.com/m/kandi-sweets
+    - id: null
+      name: Katrina (2002-2004)
+      text: Dogfart Network
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrina02/gender=f/katrina.htm
+        - https://www.indexxx.com/m/katrina-2
+  notes:
+    - Mix of multiple performers (partial list)

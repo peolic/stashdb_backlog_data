@@ -1,49 +1,29 @@
-{
-  "split": {
-    "name": "Vera",
-    "shards": [
-      {
-        "id": null,
-        "name": "Vanessa Caesar",
-        "text": "1 scene",
-        "links": [
-          "https://www.indexxx.com/m/vanessa-caesar",
-          "https://stashdb.org/scenes/68d3cfe7-23be-4060-8ca4-902dfbad2fe8"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Vera @Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/vera"
-        ]
-      },
-      {
-        "id": "fd278816-5719-4964-956f-06d3cdad11b4",
-        "name": "Rita Rush",
-        "links": [
-          "https://www.indexxx.com/m/rita-rush"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Micara",
-        "text": "at least 1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=micara_10_ukr/gender=f/micara.htm",
-          "https://stashdb.org/scenes/f2e28df5-d7a4-451a-8f24-77fa09269f52"
-        ]
-      },
-      {
-        "id": "bf3f454b-967a-4a8b-8a43-ce64a3298e69",
-        "name": "Paulina Seikola",
-        "links": [
-          "https://www.indexxx.com/m/verunka"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Vera
+  fragments:
+    - id: null
+      name: Vanessa Caesar
+      text: 1 scene
+      links:
+        - https://www.indexxx.com/m/vanessa-caesar
+        - https://stashdb.org/scenes/68d3cfe7-23be-4060-8ca4-902dfbad2fe8
+    - id: null
+      name: Vera @Nubiles
+      links:
+        - https://www.indexxx.com/m/vera
+    - id: fd278816-5719-4964-956f-06d3cdad11b4
+      name: Rita Rush
+      links:
+        - https://www.indexxx.com/m/rita-rush
+    - id: null
+      name: Micara
+      text: at least 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=micara_10_ukr/gender=f/micara.htm
+        - https://stashdb.org/scenes/f2e28df5-d7a4-451a-8f24-77fa09269f52
+    - id: bf3f454b-967a-4a8b-8a43-ce64a3298e69
+      name: Paulina Seikola
+      links:
+        - https://www.indexxx.com/m/verunka
+  notes:
+    - Mix of multiple performers (partial list)

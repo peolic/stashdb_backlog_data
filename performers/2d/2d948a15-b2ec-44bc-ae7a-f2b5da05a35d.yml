@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Bo",
-    "shards": [
-      {
-        "id": null,
-        "name": "Boldy",
-        "text": "Mike's Apartment",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=boldy_h/gender=m/boldy.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Bo
+  fragments:
+    - id: null
+      name: Boldy
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=boldy_h/gender=m/boldy.htm
+  notes:
+    - Mix of multiple performers (partial list)

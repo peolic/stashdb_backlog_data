@@ -1,51 +1,32 @@
-{
-  "split": {
-    "name": "Juliana (Patty)",
-    "shards": [
-      {
-        "id": "99ac3f31-e09c-4664-8ab3-c2a3b58ece99",
-        "name": "self",
-        "notes": [
-          "- Big Tits Boss",
-          "- MILF Hunter"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=juliana_rk_11/gender=f/juliana.htm",
-          "https://www.indexxx.com/m/juliana-6"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Juliana (2004, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=juliana_rk04/gender=f/juliana.htm",
-          "https://www.indexxx.com/m/juliana-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Juliana (2003, Reality Kings)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=juliana_rk_03/gender=f/juliana.htm",
-          "https://www.indexxx.com/m/juliana"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Juliana (2011, GF Revenge)",
-        "links": [
-          "https://web.archive.org/web/20180322160612/http://www.gfleaks.com/tour/model/view/10264/juliana/"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-09-05)",
-      "Juliana was renamed to Juliana (Patty), being non unique."
-    ],
-    "links": [
-      "https://stashdb.org/edits/d62a9daa-3b1a-4df5-b4cd-ba844671276a"
-    ]
-  }
-}
+split:
+  name: Juliana (Patty)
+  fragments:
+    - id: 99ac3f31-e09c-4664-8ab3-c2a3b58ece99
+      name: self
+      notes:
+        - '- Big Tits Boss'
+        - '- MILF Hunter'
+      links:
+        - https://www.iafd.com/person.rme/perfid=juliana_rk_11/gender=f/juliana.htm
+        - https://www.indexxx.com/m/juliana-6
+    - id: null
+      name: Juliana (2004, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=juliana_rk04/gender=f/juliana.htm
+        - https://www.indexxx.com/m/juliana-2
+    - id: null
+      name: Juliana (2003, Reality Kings)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=juliana_rk_03/gender=f/juliana.htm
+        - https://www.indexxx.com/m/juliana
+    - id: null
+      name: Juliana (2011, GF Revenge)
+      links:
+        - https://web.archive.org/web/20180322160612/http://www.gfleaks.com/tour/model/view/10264/juliana/
+  notes:
+    - Mix of multiple performers (complete list as of 2022-09-05)
+    - Juliana was renamed to Juliana (Patty), being non unique.
+  links:
+    - https://stashdb.org/edits/d62a9daa-3b1a-4df5-b4cd-ba844671276a

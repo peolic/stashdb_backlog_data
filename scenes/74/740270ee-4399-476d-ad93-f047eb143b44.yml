@@ -1,28 +1,17 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=babe+watch/year=2006/babe-watch.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "96b5816d-37d2-42b4-90f0-1d7e4503400f",
-        "name": "Phoebe",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Phoebe",
-        "appearance": null,
-        "disambiguation": "2006, We Live Together",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=phoebe_06_rk/gender=f/phoebe.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=babe+watch/year=2006/babe-watch.htm
+performers:
+  remove:
+    - id: 96b5816d-37d2-42b4-90f0-1d7e4503400f
+      name: Phoebe
+      appearance: null
+  append:
+    - id: null
+      name: Phoebe
+      appearance: null
+      disambiguation: 2006, We Live Together
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=phoebe_06_rk/gender=f/phoebe.htm

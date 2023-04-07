@@ -1,28 +1,17 @@
-{
-  "c_studio": [
-    "Peter North",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=deep+throat+this+15/year=2003/deep-throat-this-15.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "8b488272-063c-498c-979d-d292d5bac771",
-        "name": "Ariana",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Ariana",
-        "appearance": null,
-        "disambiguation": "Latina, 2003-04",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=ariana_rk_03/gender=f/ariana.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Peter North
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=deep+throat+this+15/year=2003/deep-throat-this-15.htm
+performers:
+  remove:
+    - id: 8b488272-063c-498c-979d-d292d5bac771
+      name: Ariana
+      appearance: null
+  append:
+    - id: null
+      name: Ariana
+      appearance: null
+      disambiguation: Latina, 2003-04
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=ariana_rk_03/gender=f/ariana.htm

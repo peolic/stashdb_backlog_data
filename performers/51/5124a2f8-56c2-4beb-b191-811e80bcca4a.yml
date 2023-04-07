@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Petty",
-    "shards": [
-      {
-        "id": "086ae54c-496a-4535-8509-ddb37e40ea7d",
-        "name": "Tita",
-        "text": "TeenCoreClub",
-        "links": [
-          "https://www.indexxx.com/m/tita",
-          "https://www.iafd.com/person.rme/perfid=petty_10_russ/gender=f/petty.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-03)"
-    ]
-  }
-}
+split:
+  name: Petty
+  fragments:
+    - id: 086ae54c-496a-4535-8509-ddb37e40ea7d
+      name: Tita
+      text: TeenCoreClub
+      links:
+        - https://www.indexxx.com/m/tita
+        - https://www.iafd.com/person.rme/perfid=petty_10_russ/gender=f/petty.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-03)

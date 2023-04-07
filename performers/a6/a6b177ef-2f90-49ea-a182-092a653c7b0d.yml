@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Jj",
-    "shards": [
-      {
-        "id": "6b7ee9bb-6b46-48fc-a49b-42614fdce5f9",
-        "name": "J.J. (German)",
-        "text": "Euro Sex Parties",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jj_m/gender=m/j.j..htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "JJ (2018, Reality Kings)",
-        "text": "Black GFs",
-        "links": [
-          "https://www.realitykings.com/model/25479/jj"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-28)"
-    ]
-  }
-}
+split:
+  name: Jj
+  fragments:
+    - id: 6b7ee9bb-6b46-48fc-a49b-42614fdce5f9
+      name: J.J. (German)
+      text: Euro Sex Parties
+      links:
+        - https://www.iafd.com/person.rme/perfid=jj_m/gender=m/j.j..htm
+    - id: null
+      name: JJ (2018, Reality Kings)
+      text: Black GFs
+      links:
+        - https://www.realitykings.com/model/25479/jj
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-28)

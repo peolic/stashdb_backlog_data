@@ -1,61 +1,40 @@
-{
-  "split": {
-    "name": "Lina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Scarlett (2005-2006, BangBros)",
-        "text": "8th Street Latinas (2005)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=scarlett_bangbros/gender=f/scarlett.htm",
-          "https://www.indexxx.com/m/scarlett"
-        ]
-      },
-      {
-        "id": "538a524b-dbea-4eed-bbd3-1efbd9781b89",
-        "name": "Lena Love",
-        "notes": [
-          "- Dirty Flix (should be Yana?)",
-          "- \u000218videoz\u0003",
-          "- \u0002Kink\u0003",
-          "- \u0002Teen Mega World\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lina_12_russ/gender=f/lina-love.htm",
-          "https://www.indexxx.com/m/lena-love"
-        ]
-      },
-      {
-        "id": "29b8b5c2-46c4-42ae-a1f8-b05f654061e5",
-        "name": "Angelica Heart",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=angelicaheart/gender=f/angelica-heart.htm",
-          "https://www.indexxx.com/m/angelica-heart"
-        ]
-      },
-      {
-        "id": "1a79a18b-dbd0-4250-a1cc-f198de9fec32",
-        "name": "Vlada T",
-        "text": "Hardcore Youth",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=carollvalentine/gender=f/caroll.htm",
-          "https://www.indexxx.com/m/caroll",
-          "http://www.pornteengirl.com/model/caroll.html"
-        ]
-      },
-      {
-        "id": "19f13519-e60a-4622-bcce-15d35e3cc1d6",
-        "name": "Sarah Creta AKA Sarah C",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ariel_09_russ/gender=f/ariel.htm",
-          "https://www.indexxx.com/m/katty"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Lina
+  fragments:
+    - id: null
+      name: Scarlett (2005-2006, BangBros)
+      text: 8th Street Latinas (2005)
+      links:
+        - https://www.iafd.com/person.rme/perfid=scarlett_bangbros/gender=f/scarlett.htm
+        - https://www.indexxx.com/m/scarlett
+    - id: 538a524b-dbea-4eed-bbd3-1efbd9781b89
+      name: Lena Love
+      notes:
+        - '- Dirty Flix (should be Yana?)'
+        - "- \x0218videoz\x03"
+        - "- \x02Kink\x03"
+        - "- \x02Teen Mega World\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=lina_12_russ/gender=f/lina-love.htm
+        - https://www.indexxx.com/m/lena-love
+    - id: 29b8b5c2-46c4-42ae-a1f8-b05f654061e5
+      name: Angelica Heart
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=angelicaheart/gender=f/angelica-heart.htm
+        - https://www.indexxx.com/m/angelica-heart
+    - id: 1a79a18b-dbd0-4250-a1cc-f198de9fec32
+      name: Vlada T
+      text: Hardcore Youth
+      links:
+        - https://www.iafd.com/person.rme/perfid=carollvalentine/gender=f/caroll.htm
+        - https://www.indexxx.com/m/caroll
+        - http://www.pornteengirl.com/model/caroll.html
+    - id: 19f13519-e60a-4622-bcce-15d35e3cc1d6
+      name: Sarah Creta AKA Sarah C
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=ariel_09_russ/gender=f/ariel.htm
+        - https://www.indexxx.com/m/katty
+  notes:
+    - Mix of multiple performers (partial list)

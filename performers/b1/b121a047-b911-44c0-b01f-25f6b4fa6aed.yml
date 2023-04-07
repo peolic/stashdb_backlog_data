@@ -1,10 +1,6 @@
-{
-  "split": {
-    "name": "Randi",
-    "shards": [],
-    "notes": [
-      "\u0002Mix of multiple performers (partial list)\u0003",
-      "Only performer remaining unidentified (NetVideoGirls) (2022-11-14)"
-    ]
-  }
-}
+split:
+  name: Randi
+  fragments: []
+  notes:
+    - "\x02Mix of multiple performers (partial list)\x03"
+    - Only performer remaining unidentified (NetVideoGirls) (2022-11-14)

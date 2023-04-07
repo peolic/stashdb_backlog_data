@@ -1,21 +1,13 @@
-{
-  "c_studio": [
-    "First Time Auditions",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=getting+loose/year=2004/getting-loose.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Vicky Rae",
-        "appearance": "Vicky",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=vickyray/gender=f/vicky-ray.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - First Time Auditions
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=getting+loose/year=2004/getting-loose.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Vicky Rae
+      appearance: Vicky
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=vickyray/gender=f/vicky-ray.htm

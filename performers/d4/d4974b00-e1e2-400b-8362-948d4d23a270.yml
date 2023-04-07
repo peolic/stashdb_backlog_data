@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Nomi",
-    "shards": [
-      {
-        "id": "455a971c-f61c-4432-9432-a820e2b149f1",
-        "name": "Nomi (1998-2013, French)",
-        "text": "Rocco Siffredi",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nomi/gender=f/nomi.htm",
-          "https://www.indexxx.com/m/nomy"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nomi (2003, Tranny Surprise)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nomi_rk_ts/gender=f/nomi.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-16)"
-    ]
-  }
-}
+split:
+  name: Nomi
+  fragments:
+    - id: 455a971c-f61c-4432-9432-a820e2b149f1
+      name: Nomi (1998-2013, French)
+      text: Rocco Siffredi
+      links:
+        - https://www.iafd.com/person.rme/perfid=nomi/gender=f/nomi.htm
+        - https://www.indexxx.com/m/nomy
+    - id: null
+      name: Nomi (2003, Tranny Surprise)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nomi_rk_ts/gender=f/nomi.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-16)

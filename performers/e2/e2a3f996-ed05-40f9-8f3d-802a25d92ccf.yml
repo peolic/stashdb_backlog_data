@@ -1,36 +1,22 @@
-{
-  "split": {
-    "name": "Nichole",
-    "shards": [
-      {
-        "id": null,
-        "name": "Nichole (2019, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nichole_brcc_1588/gender=f/nichole.htm",
-          "https://www.backroomcastingcouch.com/models/nichole.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nikol",
-        "text": "Peter North",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nikol/gender=f/nikol.htm",
-          "https://www.indexxx.com/m/tracy-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nichole (2004, Reality Kings)",
-        "text": "In the VIP",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nichole_rk_04/gender=f/nichole.htm",
-          "https://www.indexxx.com/m/nichole-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-09-02)"
-    ]
-  }
-}
+split:
+  name: Nichole
+  fragments:
+    - id: null
+      name: Nichole (2019, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nichole_brcc_1588/gender=f/nichole.htm
+        - https://www.backroomcastingcouch.com/models/nichole.html
+    - id: null
+      name: Nikol
+      text: Peter North
+      links:
+        - https://www.iafd.com/person.rme/perfid=nikol/gender=f/nikol.htm
+        - https://www.indexxx.com/m/tracy-5
+    - id: null
+      name: Nichole (2004, Reality Kings)
+      text: In the VIP
+      links:
+        - https://www.iafd.com/person.rme/perfid=nichole_rk_04/gender=f/nichole.htm
+        - https://www.indexxx.com/m/nichole-3
+  notes:
+    - Mix of multiple performers (complete list as of 2022-09-02)

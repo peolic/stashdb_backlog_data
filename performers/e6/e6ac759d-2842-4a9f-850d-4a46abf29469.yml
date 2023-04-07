@@ -1,24 +1,13 @@
-{
-  "split": {
-    "name": "Lizette",
-    "shards": [
-      {
-        "id": null,
-        "name": "Lizette (2011, 8th Street Latinas)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lizette/gender=f/lizette.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lizette (WoodmanCastingX)",
-        "links": [
-          "https://www.indexxx.com/m/lizette-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of two performers (2022-07-08)"
-    ]
-  }
-}
+split:
+  name: Lizette
+  fragments:
+    - id: null
+      name: Lizette (2011, 8th Street Latinas)
+      links:
+        - https://www.iafd.com/person.rme/perfid=lizette/gender=f/lizette.htm
+    - id: null
+      name: Lizette (WoodmanCastingX)
+      links:
+        - https://www.indexxx.com/m/lizette-1
+  notes:
+    - Mix of two performers (2022-07-08)

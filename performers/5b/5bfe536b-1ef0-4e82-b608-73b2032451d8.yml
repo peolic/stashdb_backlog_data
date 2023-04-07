@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Zach",
-    "shards": [
-      {
-        "id": null,
-        "name": "Zach (Sean Cody 2012)",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/90160"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Zach
+  fragments:
+    - id: null
+      name: Zach (Sean Cody 2012)
+      links:
+        - https://gayeroticvideoindex.com/performer/90160
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,21 +1,13 @@
-{
-  "split": {
-    "name": "Kristy",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kristy ? AKA Ekaterina Morozova",
-        "text": "some DDF Network",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kristy_rus_04/gender=f/kristy.htm",
-          "https://www.indexxx.com/m/kristy",
-          "https://www.egafd.com/actresses/details.php/id/e00484",
-          "https://www.boobpedia.com/boobs/Ekaterina_Morozova"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Kristy
+  fragments:
+    - id: null
+      name: Kristy ? AKA Ekaterina Morozova
+      text: some DDF Network
+      links:
+        - https://www.iafd.com/person.rme/perfid=kristy_rus_04/gender=f/kristy.htm
+        - https://www.indexxx.com/m/kristy
+        - https://www.egafd.com/actresses/details.php/id/e00484
+        - https://www.boobpedia.com/boobs/Ekaterina_Morozova
+  notes:
+    - Mix of multiple performers (partial list)

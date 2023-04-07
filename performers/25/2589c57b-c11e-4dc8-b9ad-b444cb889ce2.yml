@@ -1,44 +1,30 @@
-{
-  "split": {
-    "name": "Shayla",
-    "shards": [
-      {
-        "id": null,
-        "name": "Anna Melody",
-        "text": "(MetArt Network + Nubiles, 2018 and later)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=annamelody/gender=f/anna-melody.htm",
-          "https://www.indexxx.com/m/shayla-6",
-          "https://www.thenude.com/Melody%20Y_34510.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Shayla (Twistys)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=shayla_tws_04/gender=f/shayla.htm",
-          "https://www.indexxx.com/m/shayla-1"
-        ]
-      },
-      {
-        "id": "a4a469cd-b3f9-45ed-87b3-da4d9afe5c48",
-        "name": "Lisa Musa",
-        "notes": [
-          "- GirlsGotCream",
-          "- Hardcore Youth ",
-          "- Fab Sluts (according to PornTeenGirl)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lisamusa/gender=f/lisa-musa.htm",
-          "https://www.indexxx.com/m/lisa-musa",
-          "https://web.archive.org/web/20161029183043/http://teencoreclub.com/models/shayla/",
-          "http://www.pornteengirl.com/model/lisa-musa.html",
-          "https://www.mrporn.com/video-6YN4bSWK.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list) - pre-2018 scenes seem to be other performers."
-    ]
-  }
-}
+split:
+  name: Shayla
+  fragments:
+    - id: null
+      name: Anna Melody
+      text: (MetArt Network + Nubiles, 2018 and later)
+      links:
+        - https://www.iafd.com/person.rme/perfid=annamelody/gender=f/anna-melody.htm
+        - https://www.indexxx.com/m/shayla-6
+        - https://www.thenude.com/Melody%20Y_34510.htm
+    - id: null
+      name: Shayla (Twistys)
+      links:
+        - https://www.iafd.com/person.rme/perfid=shayla_tws_04/gender=f/shayla.htm
+        - https://www.indexxx.com/m/shayla-1
+    - id: a4a469cd-b3f9-45ed-87b3-da4d9afe5c48
+      name: Lisa Musa
+      notes:
+        - '- GirlsGotCream'
+        - '- Hardcore Youth '
+        - '- Fab Sluts (according to PornTeenGirl)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=lisamusa/gender=f/lisa-musa.htm
+        - https://www.indexxx.com/m/lisa-musa
+        - https://web.archive.org/web/20161029183043/http://teencoreclub.com/models/shayla/
+        - http://www.pornteengirl.com/model/lisa-musa.html
+        - https://www.mrporn.com/video-6YN4bSWK.html
+  notes:
+    - Mix of multiple performers (partial list) - pre-2018 scenes seem to be other
+      performers.

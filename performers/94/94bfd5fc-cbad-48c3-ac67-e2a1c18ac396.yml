@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Katka",
-    "shards": [
-      {
-        "id": "746221c6-f899-4a83-aaaa-0d41edac1838",
-        "name": "Bianca Benett AKA Bianca Bruni",
-        "text": "Sineplex CZ",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bianca_cz_08/gender=f/bianca-benett.htm",
-          "https://www.indexxx.com/m/biancka"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-15)"
-    ]
-  }
-}
+split:
+  name: Katka
+  fragments:
+    - id: 746221c6-f899-4a83-aaaa-0d41edac1838
+      name: Bianca Benett AKA Bianca Bruni
+      text: Sineplex CZ
+      links:
+        - https://www.iafd.com/person.rme/perfid=bianca_cz_08/gender=f/bianca-benett.htm
+        - https://www.indexxx.com/m/biancka
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-15)

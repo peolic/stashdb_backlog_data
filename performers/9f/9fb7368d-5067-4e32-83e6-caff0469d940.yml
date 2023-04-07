@@ -1,29 +1,18 @@
-{
-  "split": {
-    "name": "Uma",
-    "shards": [
-      {
-        "id": "3249347e-8ac5-4c41-bddc-e7eee8a13302",
-        "name": "Anita Hengher",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anitahengher/gender=f/anita-hengher.htm",
-          "https://www.indexxx.com/m/anita-hengher",
-          "http://www.pornteengirl.com/model/anita-hengher.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Uma ?",
-        "text": "Rylsky Art",
-        "links": [
-          "https://www.indexxx.com/m/uma-2",
-          "https://www.thenude.com/_8160.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-08-26)"
-    ]
-  }
-}
+split:
+  name: Uma
+  fragments:
+    - id: 3249347e-8ac5-4c41-bddc-e7eee8a13302
+      name: Anita Hengher
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=anitahengher/gender=f/anita-hengher.htm
+        - https://www.indexxx.com/m/anita-hengher
+        - http://www.pornteengirl.com/model/anita-hengher.html
+    - id: null
+      name: Uma ?
+      text: Rylsky Art
+      links:
+        - https://www.indexxx.com/m/uma-2
+        - https://www.thenude.com/_8160.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-08-26)

@@ -1,36 +1,22 @@
-{
-  "split": {
-    "name": "Savanah",
-    "shards": [
-      {
-        "id": "de48b69c-3100-46cf-8151-d8d116a1fbaa",
-        "name": "Savannah Jane",
-        "text": "Motherfucker XXX",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=savannajane/gender=f/savanna-jane.htm",
-          "https://www.indexxx.com/m/savannah-jane"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Savanah (2005, Reality Kings)",
-        "text": "We Live Together",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=savanah_rk05/gender=f/savanah.htm",
-          "https://www.indexxx.com/m/savanah"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Savannah",
-        "text": "Peter North",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=savannah02/gender=f/savannah.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Savanah
+  fragments:
+    - id: de48b69c-3100-46cf-8151-d8d116a1fbaa
+      name: Savannah Jane
+      text: Motherfucker XXX
+      links:
+        - https://www.iafd.com/person.rme/perfid=savannajane/gender=f/savanna-jane.htm
+        - https://www.indexxx.com/m/savannah-jane
+    - id: null
+      name: Savanah (2005, Reality Kings)
+      text: We Live Together
+      links:
+        - https://www.iafd.com/person.rme/perfid=savanah_rk05/gender=f/savanah.htm
+        - https://www.indexxx.com/m/savanah
+    - id: null
+      name: Savannah
+      text: Peter North
+      links:
+        - https://www.iafd.com/person.rme/perfid=savannah02/gender=f/savannah.htm
+  notes:
+    - Mix of multiple performers (partial list)

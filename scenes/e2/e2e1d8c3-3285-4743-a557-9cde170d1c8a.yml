@@ -1,39 +1,25 @@
-{
-  "c_studio": [
-    "40oz Bounce",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=big+booty+pirates/year=2009/big-booty-pirates.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "6b33f536-0ce9-4cfa-bbaa-27a7323c4163",
-        "name": "Ms. Bliss & Stacey Sweets",
-        "appearance": null,
-        "status": "edit"
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Ms. Bliss",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=msbliss/gender=f/ms%2e-bliss.htm"
-      },
-      {
-        "id": null,
-        "name": "Stacey Sweets",
-        "appearance": null,
-        "disambiguation": "2009-11",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=staceysweets/gender=f/stacey-sweets.htm",
-        "notes": [
-          "https://pornpics.vip/xxx/plumperpass/stacey-sweets-stacey-sweet/saturday-large-ass-wifi-video/stacey-sweets-stacey-sweet-5.jpg"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - 40oz Bounce
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=big+booty+pirates/year=2009/big-booty-pirates.htm
+performers:
+  remove:
+    - id: 6b33f536-0ce9-4cfa-bbaa-27a7323c4163
+      name: Ms. Bliss & Stacey Sweets
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Ms. Bliss
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=msbliss/gender=f/ms%2e-bliss.htm
+    - id: null
+      name: Stacey Sweets
+      appearance: null
+      disambiguation: 2009-11
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=staceysweets/gender=f/stacey-sweets.htm
+      notes:
+        - https://pornpics.vip/xxx/plumperpass/stacey-sweets-stacey-sweet/saturday-large-ass-wifi-video/stacey-sweets-stacey-sweet-5.jpg

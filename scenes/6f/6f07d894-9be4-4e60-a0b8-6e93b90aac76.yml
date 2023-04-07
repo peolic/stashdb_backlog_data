@@ -1,18 +1,11 @@
-{
-  "c_studio": [
-    "Net Video Girls",
-    null
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Reina",
-        "appearance": null,
-        "disambiguation": "2009, NVG",
-        "status": "new"
-      }
-    ]
-  }
-}
+c_studio:
+  - Net Video Girls
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Reina
+      appearance: null
+      disambiguation: 2009, NVG
+      status: new

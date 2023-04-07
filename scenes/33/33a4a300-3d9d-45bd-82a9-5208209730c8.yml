@@ -1,27 +1,18 @@
-{
-  "c_studio": [
-    "Street BlowJobs",
-    null
-  ],
-  "comments": [
-    "Roberta performer was deleted instead of being split",
-    "https://www.iafd.com/title.rme/title=quick+buck+suck/year=2002/quick-buck-suck.htm",
-    "https://www.indexxx.com/set/34551/street-blowjobs-roberta/"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Roberta",
-        "appearance": null,
-        "disambiguation": "2002, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=roberta_rk/gender=f/roberta.htm",
-        "notes": [
-          "https://www.indexxx.com/m/roberta-1"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - Roberta performer was deleted instead of being split
+  - https://www.iafd.com/title.rme/title=quick+buck+suck/year=2002/quick-buck-suck.htm
+  - https://www.indexxx.com/set/34551/street-blowjobs-roberta/
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Roberta
+      appearance: null
+      disambiguation: 2002, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=roberta_rk/gender=f/roberta.htm
+      notes:
+        - https://www.indexxx.com/m/roberta-1

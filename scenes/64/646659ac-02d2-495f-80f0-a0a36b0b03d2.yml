@@ -1,22 +1,14 @@
-{
-  "c_studio": [
-    "Female Fake Taxi",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=sexy+cabbie+gets+what+she+wants/year=2016/sexy-cabbie-gets-what-she-wants.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Dirty Dan",
-        "appearance": null,
-        "disambiguation": "UK",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=dirtydan2/gender=m/dirty-dan.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Female Fake Taxi
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=sexy+cabbie+gets+what+she+wants/year=2016/sexy-cabbie-gets-what-she-wants.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Dirty Dan
+      appearance: null
+      disambiguation: UK
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=dirtydan2/gender=m/dirty-dan.htm

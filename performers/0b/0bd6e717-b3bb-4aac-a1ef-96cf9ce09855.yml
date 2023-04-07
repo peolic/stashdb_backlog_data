@@ -1,22 +1,12 @@
-{
-  "split": {
-    "name": "Angeline",
-    "shards": [
-      {
-        "id": null,
-        "name": "Angeline (2013, WoodmanCastingX)",
-        "links": [
-          "https://www.indexxx.com/m/angeline-4"
-        ]
-      },
-      {
-        "id": "040a7ae5-be3d-44e2-8788-1047f6a9eb36",
-        "name": "OseeQ",
-        "text": "Hardcore Youth ?"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Angeline
+  fragments:
+    - id: null
+      name: Angeline (2013, WoodmanCastingX)
+      links:
+        - https://www.indexxx.com/m/angeline-4
+    - id: 040a7ae5-be3d-44e2-8788-1047f6a9eb36
+      name: OseeQ
+      text: Hardcore Youth ?
+  notes:
+    - Mix of multiple performers (partial list)

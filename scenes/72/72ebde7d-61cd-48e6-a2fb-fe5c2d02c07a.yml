@@ -1,46 +1,29 @@
-{
-  "fingerprints": [
-    {
-      "algorithm": "phash",
-      "hash": "baf290fe83c922c5",
-      "correct_scene_id": "5e2972dd-6ac0-4fdb-b10b-77e337b6bce0",
-      "duration": 2387
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "79707da308f55b5f",
-      "correct_scene_id": "5e2972dd-6ac0-4fdb-b10b-77e337b6bce0",
-      "duration": 2387
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "12c461faea3a90b6",
-      "correct_scene_id": "5e2972dd-6ac0-4fdb-b10b-77e337b6bce0",
-      "duration": 2387
-    },
-    {
-      "algorithm": "md5",
-      "hash": "ec2058d693bc45a186c9fb76434ce0f1",
-      "correct_scene_id": "5e2972dd-6ac0-4fdb-b10b-77e337b6bce0",
-      "duration": 2387
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "6ddf28a2e59e96d4",
-      "correct_scene_id": "5e2972dd-6ac0-4fdb-b10b-77e337b6bce0",
-      "duration": 2387
-    },
-    {
-      "algorithm": "oshash",
-      "hash": "c0ca53f628f2bf45",
-      "correct_scene_id": "18da8b22-9665-4b49-9410-f3169d5971af",
-      "duration": 1990
-    },
-    {
-      "algorithm": "phash",
-      "hash": "827a0e7d771c2a99",
-      "correct_scene_id": "18da8b22-9665-4b49-9410-f3169d5971af",
-      "duration": 1990
-    }
-  ]
-}
+fingerprints:
+  - algorithm: phash
+    hash: baf290fe83c922c5
+    correct_scene_id: 5e2972dd-6ac0-4fdb-b10b-77e337b6bce0
+    duration: 2387
+  - algorithm: oshash
+    hash: 79707da308f55b5f
+    correct_scene_id: 5e2972dd-6ac0-4fdb-b10b-77e337b6bce0
+    duration: 2387
+  - algorithm: oshash
+    hash: 12c461faea3a90b6
+    correct_scene_id: 5e2972dd-6ac0-4fdb-b10b-77e337b6bce0
+    duration: 2387
+  - algorithm: md5
+    hash: ec2058d693bc45a186c9fb76434ce0f1
+    correct_scene_id: 5e2972dd-6ac0-4fdb-b10b-77e337b6bce0
+    duration: 2387
+  - algorithm: oshash
+    hash: 6ddf28a2e59e96d4
+    correct_scene_id: 5e2972dd-6ac0-4fdb-b10b-77e337b6bce0
+    duration: 2387
+  - algorithm: oshash
+    hash: c0ca53f628f2bf45
+    correct_scene_id: 18da8b22-9665-4b49-9410-f3169d5971af
+    duration: 1990
+  - algorithm: phash
+    hash: 827a0e7d771c2a99
+    correct_scene_id: 18da8b22-9665-4b49-9410-f3169d5971af
+    duration: 1990

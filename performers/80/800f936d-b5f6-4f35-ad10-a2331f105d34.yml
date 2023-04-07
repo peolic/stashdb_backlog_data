@@ -1,43 +1,28 @@
-{
-  "split": {
-    "name": "Dee",
-    "shards": [
-      {
-        "id": "89aa3fe3-15de-4145-879a-40f66bc71d46",
-        "name": "Dee Baker AKA Dee",
-        "notes": [
-          "- Blowpass",
-          "- PornFidelity",
-          "- Round and Brown",
-          "- Twistys",
-          "- Wicked"
-        ],
-        "links": [
-          "https://stashdb.org/performers/bb91d259-afe7-41a8-850a-c71c655951b1",
-          "https://www.iafd.com/person.rme/perfid=dee/gender=f/dee.htm",
-          "https://www.indexxx.com/m/dee-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Dex / Dee",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/dex"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kenzie Jamez",
-        "text": "Casting Couch-HD",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kenziejamez/gender=f/kenzie-jamez.htm",
-          "https://ibb.co/jJhGvFK"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Dee
+  fragments:
+    - id: 89aa3fe3-15de-4145-879a-40f66bc71d46
+      name: Dee Baker AKA Dee
+      notes:
+        - '- Blowpass'
+        - '- PornFidelity'
+        - '- Round and Brown'
+        - '- Twistys'
+        - '- Wicked'
+      links:
+        - https://stashdb.org/performers/bb91d259-afe7-41a8-850a-c71c655951b1
+        - https://www.iafd.com/person.rme/perfid=dee/gender=f/dee.htm
+        - https://www.indexxx.com/m/dee-2
+    - id: null
+      name: Dex / Dee
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/dex
+    - id: null
+      name: Kenzie Jamez
+      text: Casting Couch-HD
+      links:
+        - https://www.iafd.com/person.rme/perfid=kenziejamez/gender=f/kenzie-jamez.htm
+        - https://ibb.co/jJhGvFK
+  notes:
+    - Mix of multiple performers (partial list)

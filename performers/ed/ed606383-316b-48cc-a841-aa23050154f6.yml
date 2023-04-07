@@ -1,29 +1,17 @@
-{
-  "split": {
-    "name": "Karma",
-    "shards": [
-      {
-        "id": null,
-        "name": "Karma (Nubiles)",
-        "notes": [
-          "AKA Teen Karma"
-        ],
-        "links": [
-          "https://www.indexxx.com/m/karma-1",
-          "https://www.thenude.com/_29531.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Karma (2010, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=karma_bl_rk/gender=f/karma.htm",
-          "https://www.indexxx.com/m/karma-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of two performers"
-    ]
-  }
-}
+split:
+  name: Karma
+  fragments:
+    - id: null
+      name: Karma (Nubiles)
+      notes:
+        - AKA Teen Karma
+      links:
+        - https://www.indexxx.com/m/karma-1
+        - https://www.thenude.com/_29531.htm
+    - id: null
+      name: Karma (2010, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=karma_bl_rk/gender=f/karma.htm
+        - https://www.indexxx.com/m/karma-3
+  notes:
+    - Mix of two performers

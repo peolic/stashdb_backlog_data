@@ -1,21 +1,12 @@
-{
-  "split": {
-    "name": "Johnny",
-    "shards": [
-      {
-        "id": "4ba5441d-9220-4b36-a710-e3bc96cc3d32",
-        "name": "Johnny Nitro",
-        "notes": [
-          "- some Reality Kings",
-          "- maybe more"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=johnnynitro/gender=m/johnny.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Johnny
+  fragments:
+    - id: 4ba5441d-9220-4b36-a710-e3bc96cc3d32
+      name: Johnny Nitro
+      notes:
+        - '- some Reality Kings'
+        - '- maybe more'
+      links:
+        - https://www.iafd.com/person.rme/perfid=johnnynitro/gender=m/johnny.htm
+  notes:
+    - Mix of multiple performers (partial list)

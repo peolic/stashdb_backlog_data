@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Mariana",
-    "shards": [
-      {
-        "id": null,
-        "name": "Marianna Ferr\u00e9",
-        "text": "LegalPorno NR136",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mariannaferre/gender=f/marianna-ferr%c3a9.htm",
-          "https://www.indexxx.com/m/mariana-15"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Mariana
+  fragments:
+    - id: null
+      name: "Marianna Ferr\xE9"
+      text: LegalPorno NR136
+      links:
+        - https://www.iafd.com/person.rme/perfid=mariannaferre/gender=f/marianna-ferr%c3a9.htm
+        - https://www.indexxx.com/m/mariana-15
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,57 +1,34 @@
-{
-  "split": {
-    "name": "Jana",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jana F (mature)",
-        "text": "1 scene",
-        "links": [
-          "https://www.indexxx.com/m/jana-f",
-          "https://stashdb.org/scenes/abe317cc-ab1e-4d08-8031-fef29f0b75cf"
-        ]
-      },
-      {
-        "id": "0e7dbfac-f38a-4dbc-9a63-b59fb73a524c",
-        "name": "Anjelyze",
-        "text": "at least 1 scene",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anjelyze_db/gender=f/anjelyze.htm",
-          "https://stashdb.org/scenes/882db18f-164e-4581-9a71-1dadc3441059"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jana (Nubiles, 2007)",
-        "links": [
-          "https://www.indexxx.com/m/jana-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jana (Sapphic)",
-        "links": [
-          "https://www.indexxx.com/m/jana-22"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jana (CZ)",
-        "text": "1by-day",
-        "links": [
-          "https://www.indexxx.com/m/jana"
-        ]
-      },
-      {
-        "id": "c675a732-67e0-4bbd-875c-a317c55a6cfe",
-        "name": "Joana Redgrave",
-        "links": [
-          "https://www.indexxx.com/m/joana-redgrave"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Jana
+  fragments:
+    - id: null
+      name: Jana F (mature)
+      text: 1 scene
+      links:
+        - https://www.indexxx.com/m/jana-f
+        - https://stashdb.org/scenes/abe317cc-ab1e-4d08-8031-fef29f0b75cf
+    - id: 0e7dbfac-f38a-4dbc-9a63-b59fb73a524c
+      name: Anjelyze
+      text: at least 1 scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=anjelyze_db/gender=f/anjelyze.htm
+        - https://stashdb.org/scenes/882db18f-164e-4581-9a71-1dadc3441059
+    - id: null
+      name: Jana (Nubiles, 2007)
+      links:
+        - https://www.indexxx.com/m/jana-2
+    - id: null
+      name: Jana (Sapphic)
+      links:
+        - https://www.indexxx.com/m/jana-22
+    - id: null
+      name: Jana (CZ)
+      text: 1by-day
+      links:
+        - https://www.indexxx.com/m/jana
+    - id: c675a732-67e0-4bbd-875c-a317c55a6cfe
+      name: Joana Redgrave
+      links:
+        - https://www.indexxx.com/m/joana-redgrave
+  notes:
+    - Mix of multiple performers (partial list)

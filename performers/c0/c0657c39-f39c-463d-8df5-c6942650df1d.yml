@@ -1,50 +1,32 @@
-{
-  "split": {
-    "name": "Lucy B",
-    "shards": [
-      {
-        "id": null,
-        "name": "Lucy B (Russian)",
-        "notes": [
-          "- 18 Virgin Sex",
-          "- Teen Mega World"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lucy_st_18/gender=f/lucy-b.htm",
-          "https://www.indexxx.com/m/lucy-b-1",
-          "https://1passforallsites.com/model?id=1165",
-          "https://teenmegaworld.net/models/lucy-b.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lucy B (MetArt)",
-        "text": "MetArt",
-        "links": [
-          "https://www.indexxx.com/m/lucy-b",
-          "https://www.thenude.com/_7285.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Lucy (2005, Evil Angel)",
-        "text": "Christoph Clark Online",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lucy_eu_05/gender=f/lucy.htm"
-        ]
-      },
-      {
-        "id": "8824246a-1c89-4d5e-a16a-27919ed5dda2",
-        "name": "Lucy Belle",
-        "text": "Evil Angel \"Sperm Swap #07\"",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lucybelle/gender=f/lucy-belle.htm",
-          "https://www.indexxx.com/m/lucy-belle"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-28)"
-    ]
-  }
-}
+split:
+  name: Lucy B
+  fragments:
+    - id: null
+      name: Lucy B (Russian)
+      notes:
+        - '- 18 Virgin Sex'
+        - '- Teen Mega World'
+      links:
+        - https://www.iafd.com/person.rme/perfid=lucy_st_18/gender=f/lucy-b.htm
+        - https://www.indexxx.com/m/lucy-b-1
+        - https://1passforallsites.com/model?id=1165
+        - https://teenmegaworld.net/models/lucy-b.html
+    - id: null
+      name: Lucy B (MetArt)
+      text: MetArt
+      links:
+        - https://www.indexxx.com/m/lucy-b
+        - https://www.thenude.com/_7285.htm
+    - id: null
+      name: Lucy (2005, Evil Angel)
+      text: Christoph Clark Online
+      links:
+        - https://www.iafd.com/person.rme/perfid=lucy_eu_05/gender=f/lucy.htm
+    - id: 8824246a-1c89-4d5e-a16a-27919ed5dda2
+      name: Lucy Belle
+      text: 'Evil Angel "Sperm Swap #07"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=lucybelle/gender=f/lucy-belle.htm
+        - https://www.indexxx.com/m/lucy-belle
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-28)

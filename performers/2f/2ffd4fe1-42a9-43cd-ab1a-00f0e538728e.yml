@@ -1,57 +1,37 @@
-{
-  "split": {
-    "name": "Princess",
-    "shards": [
-      {
-        "id": "b94ee2bb-9e8e-4d24-a373-74e5162c2548",
-        "name": "Cocoa (BangBros) AKA Cocoa",
-        "text": "\u0002(BangBros, except 2011-04-10)\u0003 Ass Parade 2011-02-21",
-        "links": [
-          "https://stashdb.org/performers/18ed3f12-0871-4329-8046-66def39fd137",
-          "https://www.iafd.com/person.rme/perfid=cocoa_bl_10/gender=f/cocoa.htm",
-          "https://www.indexxx.com/m/cocoa"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Princess (2008, Round and Brown)",
-        "text": "(\"Triple Chocolate\")",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=princess_bl_rk/gender=f/princess.htm",
-          "https://www.indexxx.com/m/princess-1",
-          "https://stashdb.org/scenes/77e0634c-f7d9-412a-ae00-72e0f8ff88cc"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Princess (2013, Black GFs)",
-        "text": "(\"Pussy Princess\")",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=princess_rk_black/gender=f/princess.htm",
-          "https://stashdb.org/scenes/088822db-d96b-4378-abca-60a3d1b52a73"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Princess (Russian, 2007-2009)",
-        "text": "(Devil's Film)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=princess_eu_07/gender=f/princess.htm",
-          "https://www.indexxx.com/m/princess-5",
-          "https://stashdb.org/scenes/73dfa30e-8603-4d8a-80d8-02f12353a868"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Princess (White Ghetto 2005)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=princess_ts/gender=f/princess.htm",
-          "https://stashdb.org/scenes/48d10163-0b49-4592-9b61-a313e5ad8d3c"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-19)"
-    ]
-  }
-}
+split:
+  name: Princess
+  fragments:
+    - id: b94ee2bb-9e8e-4d24-a373-74e5162c2548
+      name: Cocoa (BangBros) AKA Cocoa
+      text: "\x02(BangBros, except 2011-04-10)\x03 Ass Parade 2011-02-21"
+      links:
+        - https://stashdb.org/performers/18ed3f12-0871-4329-8046-66def39fd137
+        - https://www.iafd.com/person.rme/perfid=cocoa_bl_10/gender=f/cocoa.htm
+        - https://www.indexxx.com/m/cocoa
+    - id: null
+      name: Princess (2008, Round and Brown)
+      text: ("Triple Chocolate")
+      links:
+        - https://www.iafd.com/person.rme/perfid=princess_bl_rk/gender=f/princess.htm
+        - https://www.indexxx.com/m/princess-1
+        - https://stashdb.org/scenes/77e0634c-f7d9-412a-ae00-72e0f8ff88cc
+    - id: null
+      name: Princess (2013, Black GFs)
+      text: ("Pussy Princess")
+      links:
+        - https://www.iafd.com/person.rme/perfid=princess_rk_black/gender=f/princess.htm
+        - https://stashdb.org/scenes/088822db-d96b-4378-abca-60a3d1b52a73
+    - id: null
+      name: Princess (Russian, 2007-2009)
+      text: (Devil's Film)
+      links:
+        - https://www.iafd.com/person.rme/perfid=princess_eu_07/gender=f/princess.htm
+        - https://www.indexxx.com/m/princess-5
+        - https://stashdb.org/scenes/73dfa30e-8603-4d8a-80d8-02f12353a868
+    - id: null
+      name: Princess (White Ghetto 2005)
+      links:
+        - https://www.iafd.com/person.rme/perfid=princess_ts/gender=f/princess.htm
+        - https://stashdb.org/scenes/48d10163-0b49-4592-9b61-a313e5ad8d3c
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-19)

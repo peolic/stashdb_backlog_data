@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Rocky",
-    "shards": [
-      {
-        "id": null,
-        "name": "Rocky (Sean Cody)",
-        "text": "3 scenes",
-        "links": [
-          "https://gayeroticvideoindex.com/performer/90387"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Rocky
+  fragments:
+    - id: null
+      name: Rocky (Sean Cody)
+      text: 3 scenes
+      links:
+        - https://gayeroticvideoindex.com/performer/90387
+  notes:
+    - Mix of multiple performers (partial list)

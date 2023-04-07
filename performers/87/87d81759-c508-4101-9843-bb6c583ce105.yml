@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Smith",
-    "shards": [
-      {
-        "id": null,
-        "name": "Smith (Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=smith_seancody/gender=m/smith.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "One of two performers listed"
-    ]
-  }
-}
+split:
+  name: Smith
+  fragments:
+    - id: null
+      name: Smith (Sean Cody)
+      links:
+        - https://www.iafd.com/person.rme/perfid=smith_seancody/gender=m/smith.htm
+  notes:
+    - One of two performers listed

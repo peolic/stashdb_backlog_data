@@ -1,96 +1,60 @@
-{
-  "split": {
-    "name": "Chelsea",
-    "shards": [
-      {
-        "id": "87716f33-ed36-4a17-a779-52d5bbf6beac",
-        "name": "Gigi Kitty",
-        "text": "Big Naturals",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=gigi_bl_12/gender=f/gigi-kitty.htm",
-          "https://www.indexxx.com/m/gigi-kitty",
-          "https://www.realitykings.com/model/14429/chelsea"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2002, Net Video Girls)",
-        "notes": [
-          "Ep 2002.05 - Chelsea"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2014, Casting Couch-HD)",
-        "notes": [
-          "Ep 2014-10-28 - Chelsea (CCHD)"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2012, Reality Kings)",
-        "text": "Dare Dorm (2012)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chelsea_dd12/gender=f/chelsea.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Hanah / Chelsea",
-        "text": "Motherfucker XXX",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=hanah/gender=f/hanah.htm",
-          "https://www.indexxx.com/m/chelsea"
-        ]
-      },
-      {
-        "id": "2abf1747-b5a9-4631-871b-f39e127bb72b",
-        "name": "Chelsea Zinn",
-        "notes": [
-          "- Peter North",
-          "- MILF Hunter"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chelseazinn/gender=f/chelsea-zinn.htm",
-          "https://www.indexxx.com/m/chelsea-zinn"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2004, Devil's Film)",
-        "text": "Give Me Teens",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chelsea_eu_04/gender=f/chelsea.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2003, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=chelsea_rk_03/gender=f/chelsea.htm",
-          "https://www.indexxx.com/m/chelsea-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2011, Reality Kings)",
-        "text": "Dare Dorm (2011)"
-      },
-      {
-        "id": null,
-        "name": "Chelsea (2010, Reality Kings)",
-        "text": "GF Revenge"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-16)"
-    ]
-  }
-}
+split:
+  name: Chelsea
+  fragments:
+    - id: 87716f33-ed36-4a17-a779-52d5bbf6beac
+      name: Gigi Kitty
+      text: Big Naturals
+      links:
+        - https://www.iafd.com/person.rme/perfid=gigi_bl_12/gender=f/gigi-kitty.htm
+        - https://www.indexxx.com/m/gigi-kitty
+        - https://www.realitykings.com/model/14429/chelsea
+    - id: null
+      name: Chelsea (2002, Net Video Girls)
+      notes:
+        - Ep 2002.05 - Chelsea
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801
+    - id: null
+      name: Chelsea (2014, Casting Couch-HD)
+      notes:
+        - Ep 2014-10-28 - Chelsea (CCHD)
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489821
+    - id: null
+      name: Chelsea (2012, Reality Kings)
+      text: Dare Dorm (2012)
+      links:
+        - https://www.iafd.com/person.rme/perfid=chelsea_dd12/gender=f/chelsea.htm
+    - id: null
+      name: Hanah / Chelsea
+      text: Motherfucker XXX
+      links:
+        - https://www.iafd.com/person.rme/perfid=hanah/gender=f/hanah.htm
+        - https://www.indexxx.com/m/chelsea
+    - id: 2abf1747-b5a9-4631-871b-f39e127bb72b
+      name: Chelsea Zinn
+      notes:
+        - '- Peter North'
+        - '- MILF Hunter'
+      links:
+        - https://www.iafd.com/person.rme/perfid=chelseazinn/gender=f/chelsea-zinn.htm
+        - https://www.indexxx.com/m/chelsea-zinn
+    - id: null
+      name: Chelsea (2004, Devil's Film)
+      text: Give Me Teens
+      links:
+        - https://www.iafd.com/person.rme/perfid=chelsea_eu_04/gender=f/chelsea.htm
+    - id: null
+      name: Chelsea (2003, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=chelsea_rk_03/gender=f/chelsea.htm
+        - https://www.indexxx.com/m/chelsea-1
+    - id: null
+      name: Chelsea (2011, Reality Kings)
+      text: Dare Dorm (2011)
+    - id: null
+      name: Chelsea (2010, Reality Kings)
+      text: GF Revenge
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-16)

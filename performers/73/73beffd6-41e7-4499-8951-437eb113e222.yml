@@ -1,33 +1,20 @@
-{
-  "split": {
-    "name": "Leah",
-    "shards": [
-      {
-        "id": "6764bfa9-8ad6-4260-82ee-d38c1528d80b",
-        "name": "Stacy Heart (RU, 2007-2016)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=aida_rus/gender=f/aida.htm",
-          "https://www.indexxx.com/m/aida-4"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Leah (2014, NVG)",
-        "text": "Net Video Girls (2014)"
-      },
-      {
-        "id": "a155829e-5826-4c89-8cda-5f89a7edcece",
-        "name": "Ashley Jordan",
-        "text": "Net Video Girls (2004)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ashleyjordan/gender=f/ashley-jordan.htm",
-          "https://www.indexxx.com/m/ashley-jordan"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Leah
+  fragments:
+    - id: 6764bfa9-8ad6-4260-82ee-d38c1528d80b
+      name: Stacy Heart (RU, 2007-2016)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=aida_rus/gender=f/aida.htm
+        - https://www.indexxx.com/m/aida-4
+    - id: null
+      name: Leah (2014, NVG)
+      text: Net Video Girls (2014)
+    - id: a155829e-5826-4c89-8cda-5f89a7edcece
+      name: Ashley Jordan
+      text: Net Video Girls (2004)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ashleyjordan/gender=f/ashley-jordan.htm
+        - https://www.indexxx.com/m/ashley-jordan
+  notes:
+    - Mix of multiple performers (partial list)

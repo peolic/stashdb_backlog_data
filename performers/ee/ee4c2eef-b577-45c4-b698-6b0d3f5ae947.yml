@@ -1,40 +1,25 @@
-{
-  "split": {
-    "name": "Gianna",
-    "shards": [
-      {
-        "id": null,
-        "name": "Gianna Milano",
-        "text": "Wicked",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=giannamilano/gender=f/gianna-milano.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Gianna (2005, Digital Playground)",
-        "text": "Digital Playground",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=gianna_ky/gender=f/gianna.htm",
-          "https://www.digitalplayground.com/modelprofile/38448/gianna"
-        ]
-      },
-      {
-        "id": "9432fbac-b072-4aa7-887b-1d9c98b5bdc2",
-        "name": "Selena Rios",
-        "text": "Net Video Girls 2013",
-        "notes": [
-          "Ep 2013.10 - Gianna = Selena Rios"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selenarios/gender=f/selena-rios.htm",
-          "https://www.indexxx.com/m/selena-rios",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Gianna
+  fragments:
+    - id: null
+      name: Gianna Milano
+      text: Wicked
+      links:
+        - https://www.iafd.com/person.rme/perfid=giannamilano/gender=f/gianna-milano.htm
+    - id: null
+      name: Gianna (2005, Digital Playground)
+      text: Digital Playground
+      links:
+        - https://www.iafd.com/person.rme/perfid=gianna_ky/gender=f/gianna.htm
+        - https://www.digitalplayground.com/modelprofile/38448/gianna
+    - id: 9432fbac-b072-4aa7-887b-1d9c98b5bdc2
+      name: Selena Rios
+      text: Net Video Girls 2013
+      notes:
+        - Ep 2013.10 - Gianna = Selena Rios
+      links:
+        - https://www.iafd.com/person.rme/perfid=selenarios/gender=f/selena-rios.htm
+        - https://www.indexxx.com/m/selena-rios
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814
+  notes:
+    - Mix of multiple performers (partial list)

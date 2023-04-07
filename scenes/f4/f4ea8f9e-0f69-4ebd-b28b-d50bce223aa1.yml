@@ -1,28 +1,17 @@
-{
-  "c_studio": [
-    "First Time Auditions",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=bone+raider/year=2004/bone-raider.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "ad8d9aac-94d0-4433-8456-3a4e5a2a791c",
-        "name": "Brook",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Brooke Banks",
-        "appearance": "Brook",
-        "disambiguation": "2004",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=brookebanks/gender=f/brooke-banks.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - First Time Auditions
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=bone+raider/year=2004/bone-raider.htm
+performers:
+  remove:
+    - id: ad8d9aac-94d0-4433-8456-3a4e5a2a791c
+      name: Brook
+      appearance: null
+  append:
+    - id: null
+      name: Brooke Banks
+      appearance: Brook
+      disambiguation: '2004'
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=brookebanks/gender=f/brooke-banks.htm

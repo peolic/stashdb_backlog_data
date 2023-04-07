@@ -1,35 +1,21 @@
-{
-  "split": {
-    "name": "Alison",
-    "shards": [
-      {
-        "id": null,
-        "name": "Alison (2005, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alison_rk_05/gender=f/alison.htm",
-          "https://www.indexxx.com/m/alison"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Alison (Teen Core Club)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alison_07_russ/gender=f/alison.htm",
-          "https://teencoreclub.com/browsevideos/actor/12503/Alison"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Alison (Russian) AKA Alisha ?",
-        "text": "21 Sextury",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alisha_10_omargalanti/gender=f/alisha.htm",
-          "https://www.indexxx.com/m/alison-18"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-04)"
-    ]
-  }
-}
+split:
+  name: Alison
+  fragments:
+    - id: null
+      name: Alison (2005, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=alison_rk_05/gender=f/alison.htm
+        - https://www.indexxx.com/m/alison
+    - id: null
+      name: Alison (Teen Core Club)
+      links:
+        - https://www.iafd.com/person.rme/perfid=alison_07_russ/gender=f/alison.htm
+        - https://teencoreclub.com/browsevideos/actor/12503/Alison
+    - id: null
+      name: Alison (Russian) AKA Alisha ?
+      text: 21 Sextury
+      links:
+        - https://www.iafd.com/person.rme/perfid=alisha_10_omargalanti/gender=f/alisha.htm
+        - https://www.indexxx.com/m/alison-18
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-04)

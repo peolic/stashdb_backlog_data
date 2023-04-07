@@ -1,40 +1,26 @@
-{
-  "c_studio": [
-    "Net Video Girls",
-    null
-  ],
-  "comments": [
-    "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817",
-    "Ep 2014-09-30 - Camryn ... Lilly Belle",
-    "01:26 - \"We have Mark, our senior producer\""
-  ],
-  "date": "2014-09-30",
-  "performers": {
-    "remove": [
-      {
-        "id": "b6fb7b06-48ce-44a6-9dac-cee2ab34d5b9",
-        "name": "Cameron",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Lilly Belle",
-        "appearance": "Cameron",
-        "disambiguation": "2014",
-        "status": "new",
-        "status_url": "https://www.indexxx.com/m/lilly-23",
-        "notes": [
-          "https://www.thenude.com/_48931.htm",
-          "https://www.freeones.com/forums/threads/lilly-belle.800902/"
-        ]
-      },
-      {
-        "id": "5be35434-2f59-4518-81fc-88c38b7eab2e",
-        "name": "Seth Gamble",
-        "appearance": "Mark"
-      }
-    ]
-  }
-}
+c_studio:
+  - Net Video Girls
+  - null
+comments:
+  - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489817
+  - Ep 2014-09-30 - Camryn ... Lilly Belle
+  - 01:26 - "We have Mark, our senior producer"
+date: '2014-09-30'
+performers:
+  remove:
+    - id: b6fb7b06-48ce-44a6-9dac-cee2ab34d5b9
+      name: Cameron
+      appearance: null
+  append:
+    - id: null
+      name: Lilly Belle
+      appearance: Cameron
+      disambiguation: '2014'
+      status: new
+      status_url: https://www.indexxx.com/m/lilly-23
+      notes:
+        - https://www.thenude.com/_48931.htm
+        - https://www.freeones.com/forums/threads/lilly-belle.800902/
+    - id: 5be35434-2f59-4518-81fc-88c38b7eab2e
+      name: Seth Gamble
+      appearance: Mark

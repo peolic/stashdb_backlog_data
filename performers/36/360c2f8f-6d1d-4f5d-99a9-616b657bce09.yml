@@ -1,47 +1,30 @@
-{
-  "split": {
-    "name": "Traci",
-    "shards": [
-      {
-        "id": null,
-        "name": "Traci (2006, Reality Kings)",
-        "text": "MILF Next Door",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=traci_rk_06/gender=f/traci.htm",
-          "https://www.indexxx.com/m/traci-1"
-        ]
-      },
-      {
-        "id": "1766224b-53b2-4840-b68b-c96874edca46",
-        "name": "Camilla Ken",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=camillaken/gender=f/camilla-ken.htm",
-          "https://www.indexxx.com/m/camilla-ken-1",
-          "https://teenmegaworld.net/models/traci.html"
-        ]
-      },
-      {
-        "id": "edb0d2c4-ea7a-4945-9214-288f01e7cf90",
-        "name": "Kirsten Andrews",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kirstenandrews/gender=f/kirsten-andrews.htm",
-          "https://www.indexxx.com/m/kirsten-andrews"
-        ]
-      },
-      {
-        "id": "157afd11-d42f-44ce-8e46-afd6f2b5225c",
-        "name": "Charlene (RU)",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=irina_06_rus/gender=f/irina.htm",
-          "https://www.indexxx.com/m/charlene"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Traci
+  fragments:
+    - id: null
+      name: Traci (2006, Reality Kings)
+      text: MILF Next Door
+      links:
+        - https://www.iafd.com/person.rme/perfid=traci_rk_06/gender=f/traci.htm
+        - https://www.indexxx.com/m/traci-1
+    - id: 1766224b-53b2-4840-b68b-c96874edca46
+      name: Camilla Ken
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=camillaken/gender=f/camilla-ken.htm
+        - https://www.indexxx.com/m/camilla-ken-1
+        - https://teenmegaworld.net/models/traci.html
+    - id: edb0d2c4-ea7a-4945-9214-288f01e7cf90
+      name: Kirsten Andrews
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=kirstenandrews/gender=f/kirsten-andrews.htm
+        - https://www.indexxx.com/m/kirsten-andrews
+    - id: 157afd11-d42f-44ce-8e46-afd6f2b5225c
+      name: Charlene (RU)
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=irina_06_rus/gender=f/irina.htm
+        - https://www.indexxx.com/m/charlene
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,22 +1,12 @@
-{
-  "split": {
-    "name": "Aimee",
-    "shards": [
-      {
-        "id": null,
-        "name": "Aimee (2009, Girls Got Cream)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=aimee_10_russ/gender=f/aimee.htm",
-          "https://teencoreclub.com/video/21610/bic-711"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Aimee (18 Flesh)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-19)"
-    ]
-  }
-}
+split:
+  name: Aimee
+  fragments:
+    - id: null
+      name: Aimee (2009, Girls Got Cream)
+      links:
+        - https://www.iafd.com/person.rme/perfid=aimee_10_russ/gender=f/aimee.htm
+        - https://teencoreclub.com/video/21610/bic-711
+    - id: null
+      name: Aimee (18 Flesh)
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-19)

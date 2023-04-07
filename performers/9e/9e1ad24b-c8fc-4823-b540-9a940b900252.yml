@@ -1,105 +1,68 @@
-{
-  "split": {
-    "name": "Trina",
-    "shards": [
-      {
-        "id": "33ed37d2-4832-4de6-a2af-59ec274edb62",
-        "name": "Karina A (Rocco Siffredi)",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=karina_eu_06/gender=f/karina.htm",
-          "https://www.indexxx.com/m/trina-5",
-          "https://teenmegaworld.net/models/trina.html"
-        ]
-      },
-      {
-        "id": "6e9cf3ae-3d15-4a84-bc70-7626a247c721",
-        "name": "Trinity (Hungary)",
-        "text": "Mike's Apartment",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trinity_eu/gender=f/trinity.htm",
-          "https://www.indexxx.com/m/trinity"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (Nubiles) / Mocky",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mocky_rus/gender=f/mocky.htm",
-          "https://www.indexxx.com/m/tanja-b"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (2005, Reality Kings)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trina_rk_05/gender=f/trina.htm",
-          "https://www.indexxx.com/m/trina-6"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (2004, Reality Kings)",
-        "text": "Captain Stabbin",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trina_rk_04/gender=f/trina.htm",
-          "https://www.indexxx.com/m/trina-4",
-          "https://www.indexxx.com/m/trina-6"
-        ]
-      },
-      {
-        "id": "86fbb5ae-52ad-46c5-883e-dd05f7e52ab0",
-        "name": "Trina Michaels",
-        "text": "Massage Parlor",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trinamichaels/gender=f/trina-michaels.htm",
-          "https://www.indexxx.com/m/trina-michaels"
-        ]
-      },
-      {
-        "id": "7347ed04-3374-4430-a5b1-bda268d36d42",
-        "name": "Lacy Cruz",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lacy_or_05/gender=f/lacy-cruz.htm",
-          "https://www.indexxx.com/m/lacy-cruz"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (2002, BangBros)",
-        "text": "Boob Squad",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trina_bang_02/gender=f/trina.htm",
-          "https://www.indexxx.com/m/trina-9"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trina_07_russ/gender=f/trina.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (?, 2009-2010)",
-        "text": "Bushy Bushy",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=trinalsb/gender=f/trina.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Trina (Net Video Girls)",
-        "text": "Net Video Girls"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Trina
+  fragments:
+    - id: 33ed37d2-4832-4de6-a2af-59ec274edb62
+      name: Karina A (Rocco Siffredi)
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=karina_eu_06/gender=f/karina.htm
+        - https://www.indexxx.com/m/trina-5
+        - https://teenmegaworld.net/models/trina.html
+    - id: 6e9cf3ae-3d15-4a84-bc70-7626a247c721
+      name: Trinity (Hungary)
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=trinity_eu/gender=f/trinity.htm
+        - https://www.indexxx.com/m/trinity
+    - id: null
+      name: Trina (Nubiles) / Mocky
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=mocky_rus/gender=f/mocky.htm
+        - https://www.indexxx.com/m/tanja-b
+    - id: null
+      name: Trina (2005, Reality Kings)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=trina_rk_05/gender=f/trina.htm
+        - https://www.indexxx.com/m/trina-6
+    - id: null
+      name: Trina (2004, Reality Kings)
+      text: Captain Stabbin
+      links:
+        - https://www.iafd.com/person.rme/perfid=trina_rk_04/gender=f/trina.htm
+        - https://www.indexxx.com/m/trina-4
+        - https://www.indexxx.com/m/trina-6
+    - id: 86fbb5ae-52ad-46c5-883e-dd05f7e52ab0
+      name: Trina Michaels
+      text: Massage Parlor
+      links:
+        - https://www.iafd.com/person.rme/perfid=trinamichaels/gender=f/trina-michaels.htm
+        - https://www.indexxx.com/m/trina-michaels
+    - id: 7347ed04-3374-4430-a5b1-bda268d36d42
+      name: Lacy Cruz
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=lacy_or_05/gender=f/lacy-cruz.htm
+        - https://www.indexxx.com/m/lacy-cruz
+    - id: null
+      name: Trina (2002, BangBros)
+      text: Boob Squad
+      links:
+        - https://www.iafd.com/person.rme/perfid=trina_bang_02/gender=f/trina.htm
+        - https://www.indexxx.com/m/trina-9
+    - id: null
+      name: Trina (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=trina_07_russ/gender=f/trina.htm
+    - id: null
+      name: Trina (?, 2009-2010)
+      text: Bushy Bushy
+      links:
+        - https://www.iafd.com/person.rme/perfid=trinalsb/gender=f/trina.htm
+    - id: null
+      name: Trina (Net Video Girls)
+      text: Net Video Girls
+  notes:
+    - Mix of multiple performers (partial list)

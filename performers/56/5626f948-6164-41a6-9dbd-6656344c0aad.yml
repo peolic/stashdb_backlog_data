@@ -1,89 +1,62 @@
-{
-  "split": {
-    "name": "Nadya",
-    "shards": [
-      {
-        "id": "d711852c-1464-4864-bdc4-09f66cc9a631",
-        "name": "Laska",
-        "text": "4 scenes from 1 Pass for all sites:",
-        "notes": [
-          "- 18 Virgin Sex (2008-08-25)",
-          "- Spoiled Virgins (2008-07-21)",
-          "- Tricky Old Teacher (2008-10-08)",
-          "- Young Models Casting"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lana_rus_09/gender=f/lana.htm",
-          "https://www.indexxx.com/m/kianna-1",
-          "https://1passforallsites.com/model?id=40"
-        ]
-      },
-      {
-        "id": "53ea7206-004b-4082-b6cf-87b9b5103e4d",
-        "name": "Kelly Jai",
-        "notes": [
-          "- Tricky Old Teacher (2013)",
-          "- Old Goes Young"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kaleataylor/gender=f/kalea-taylor.htm",
-          "https://www.indexxx.com/m/kalea-taylor",
-          "https://1passforallsites.com/model?id=976"
-        ]
-      },
-      {
-        "id": "6a30e49c-8c43-483d-9669-a026d143b0e8",
-        "name": "Nadia Bella",
-        "notes": [
-          "- Euro Teen Erotica",
-          "- Rub A Teen"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lucie_11_russ/gender=f/nadia-bella.htm",
-          "https://www.indexxx.com/m/nadia-bella"
-        ]
-      },
-      {
-        "id": "b8a99126-0677-4bca-bc3f-a8c74da5381c",
-        "name": "Sheila Lin AKA Nody Girl",
-        "text": "Teen Mega World",
-        "links": [
-          "https://stashdb.org/performers/d49f5a4a-3ed1-41e7-9bff-30483ec32cf3",
-          "https://www.iafd.com/person.rme/perfid=sheilalin/gender=f/sheila-lin.htm",
-          "https://www.indexxx.com/m/nadya-4",
-          "https://teenmegaworld.net/models/nadya.html"
-        ]
-      },
-      {
-        "id": "d588c038-4acb-407b-9835-6acdaa85e901",
-        "name": "Auburn AKA Amber Liz",
-        "text": "3 scenes from 1 Pass for All Sites:",
-        "notes": [
-          "- 18 Virgin Sex (2008-12-14)",
-          "- Spoiled Virgins (2009-01-07)",
-          "- Tricky Old Teacher (2009-01-25)"
-        ],
-        "links": [
-          "https://stashdb.org/performers/de6eb7a4-8f6f-4d82-a425-82efe08f10f5",
-          "https://www.iafd.com/person.rme/perfid=nadin_eu_08/gender=f/nadin.htm",
-          "https://www.indexxx.com/m/auburn",
-          "https://1passforallsites.com/model?id=45"
-        ]
-      },
-      {
-        "id": "ceba2429-2c38-4ba2-ae8a-fa9c8e6fb266",
-        "name": "Anita (Russian)",
-        "text": "Tricky Old Teacher (2009-10-26)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anita_rus_16/gender=f/anita.htm",
-          "https://www.indexxx.com/m/nadya-7",
-          "https://stashdb.org/scenes/afcbb82a-29b6-4d44-926c-b531ef5c9368",
-          "http://1passforallsites.com/model?id=70"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Nadya
+  fragments:
+    - id: d711852c-1464-4864-bdc4-09f66cc9a631
+      name: Laska
+      text: '4 scenes from 1 Pass for all sites:'
+      notes:
+        - '- 18 Virgin Sex (2008-08-25)'
+        - '- Spoiled Virgins (2008-07-21)'
+        - '- Tricky Old Teacher (2008-10-08)'
+        - '- Young Models Casting'
+      links:
+        - https://www.iafd.com/person.rme/perfid=lana_rus_09/gender=f/lana.htm
+        - https://www.indexxx.com/m/kianna-1
+        - https://1passforallsites.com/model?id=40
+    - id: 53ea7206-004b-4082-b6cf-87b9b5103e4d
+      name: Kelly Jai
+      notes:
+        - '- Tricky Old Teacher (2013)'
+        - '- Old Goes Young'
+      links:
+        - https://www.iafd.com/person.rme/perfid=kaleataylor/gender=f/kalea-taylor.htm
+        - https://www.indexxx.com/m/kalea-taylor
+        - https://1passforallsites.com/model?id=976
+    - id: 6a30e49c-8c43-483d-9669-a026d143b0e8
+      name: Nadia Bella
+      notes:
+        - '- Euro Teen Erotica'
+        - '- Rub A Teen'
+      links:
+        - https://www.iafd.com/person.rme/perfid=lucie_11_russ/gender=f/nadia-bella.htm
+        - https://www.indexxx.com/m/nadia-bella
+    - id: b8a99126-0677-4bca-bc3f-a8c74da5381c
+      name: Sheila Lin AKA Nody Girl
+      text: Teen Mega World
+      links:
+        - https://stashdb.org/performers/d49f5a4a-3ed1-41e7-9bff-30483ec32cf3
+        - https://www.iafd.com/person.rme/perfid=sheilalin/gender=f/sheila-lin.htm
+        - https://www.indexxx.com/m/nadya-4
+        - https://teenmegaworld.net/models/nadya.html
+    - id: d588c038-4acb-407b-9835-6acdaa85e901
+      name: Auburn AKA Amber Liz
+      text: '3 scenes from 1 Pass for All Sites:'
+      notes:
+        - '- 18 Virgin Sex (2008-12-14)'
+        - '- Spoiled Virgins (2009-01-07)'
+        - '- Tricky Old Teacher (2009-01-25)'
+      links:
+        - https://stashdb.org/performers/de6eb7a4-8f6f-4d82-a425-82efe08f10f5
+        - https://www.iafd.com/person.rme/perfid=nadin_eu_08/gender=f/nadin.htm
+        - https://www.indexxx.com/m/auburn
+        - https://1passforallsites.com/model?id=45
+    - id: ceba2429-2c38-4ba2-ae8a-fa9c8e6fb266
+      name: Anita (Russian)
+      text: Tricky Old Teacher (2009-10-26)
+      links:
+        - https://www.iafd.com/person.rme/perfid=anita_rus_16/gender=f/anita.htm
+        - https://www.indexxx.com/m/nadya-7
+        - https://stashdb.org/scenes/afcbb82a-29b6-4d44-926c-b531ef5c9368
+        - http://1passforallsites.com/model?id=70
+  notes:
+    - Mix of multiple performers (partial list)

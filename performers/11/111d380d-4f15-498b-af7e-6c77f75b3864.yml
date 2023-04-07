@@ -1,104 +1,70 @@
-{
-  "split": {
-    "name": "Katrin",
-    "shards": [
-      {
-        "id": null,
-        "name": "Katrina Koh",
-        "text": "DDF Network (2004-2008)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrin_ddf/gender=f/katrin.htm",
-          "https://www.indexxx.com/m/katrina-koh",
-          "https://www.thenude.com/_354.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Katrin (2008, CZ)",
-        "text": "Hairy Twatter",
-        "links": [
-          "https://www.indexxx.com/m/katrin-5",
-          "https://www.iafd.com/person.rme/perfid=katrin_eu_10/gender=f/katrin.htm",
-          "https://stashdb.org/scenes/dda5de5f-5945-467b-9b6c-659de878bd51"
-        ]
-      },
-      {
-        "id": "2bd73c30-0833-4534-9f99-fc7e49a1b4b7",
-        "name": "Katrin (Katie, RU)",
-        "notes": [
-          "- 21 Sextury",
-          "- 21 Bonus",
-          "- First Anal Quest"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrin_rus_09/gender=f/katrin.htm",
-          "https://www.indexxx.com/m/katrin-2"
-        ]
-      },
-      {
-        "id": "05e4776f-bbb5-467c-be52-ec856cd95faa",
-        "name": "Delia (Nubiles)",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.indexxx.com/m/delia",
-          "https://www.thenude.com/Delia_12878.htm",
-          "https://teenmegaworld.net/models/katrin.html"
-        ]
-      },
-      {
-        "id": "cf0fa6a9-6f27-476b-b854-dbb34642e9c2",
-        "name": "Katrin AKA Kira C.",
-        "text": "some Devil's Film:",
-        "notes": [
-          "- \"Anal Teen Tryouts #17\"",
-          "- \"Throat Bangers #20\""
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrin_rus_08/gender=f/katrin.htm",
-          "https://www.indexxx.com/m/lacey"
-        ]
-      },
-      {
-        "id": "a37564ec-fa0c-4e8e-a29d-39ae080a9fd2",
-        "name": "Defrancesca Gallardo",
-        "notes": [
-          "- Digital Playground - incorrect alias",
-          "- Devil's Film \"Cream Pie Orgy #05\"",
-          "- Devil's Film \"Cum Filled Throats #20\"",
-          "- Devil's Film \"Cum Filled Throats #22\"",
-          "- Devil's Film \"Teen Tryouts Audition #52\"",
-          "- Devil's Film \"Teen Tryouts Audition #54\""
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrin_07/gender=f/defrancesca-gallardo.htm",
-          "https://www.indexxx.com/m/defrancesca-gallardo"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Katrin (2016, Score)",
-        "text": "The Score Group",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katrin_score/gender=f/katrin.htm",
-          "https://www.indexxx.com/m/katrin-12"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Katrin (1994, Woodman)",
-        "text": "Woodman Casting X",
-        "links": [
-          "https://www.indexxx.com/m/katrin-8"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Katrin (Nasty Angels)",
-        "text": "Likely redistributed scenes, maybe some amateur casting"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-24)"
-    ]
-  }
-}
+split:
+  name: Katrin
+  fragments:
+    - id: null
+      name: Katrina Koh
+      text: DDF Network (2004-2008)
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrin_ddf/gender=f/katrin.htm
+        - https://www.indexxx.com/m/katrina-koh
+        - https://www.thenude.com/_354.htm
+    - id: null
+      name: Katrin (2008, CZ)
+      text: Hairy Twatter
+      links:
+        - https://www.indexxx.com/m/katrin-5
+        - https://www.iafd.com/person.rme/perfid=katrin_eu_10/gender=f/katrin.htm
+        - https://stashdb.org/scenes/dda5de5f-5945-467b-9b6c-659de878bd51
+    - id: 2bd73c30-0833-4534-9f99-fc7e49a1b4b7
+      name: Katrin (Katie, RU)
+      notes:
+        - '- 21 Sextury'
+        - '- 21 Bonus'
+        - '- First Anal Quest'
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrin_rus_09/gender=f/katrin.htm
+        - https://www.indexxx.com/m/katrin-2
+    - id: 05e4776f-bbb5-467c-be52-ec856cd95faa
+      name: Delia (Nubiles)
+      text: Teen Mega World
+      links:
+        - https://www.indexxx.com/m/delia
+        - https://www.thenude.com/Delia_12878.htm
+        - https://teenmegaworld.net/models/katrin.html
+    - id: cf0fa6a9-6f27-476b-b854-dbb34642e9c2
+      name: Katrin AKA Kira C.
+      text: 'some Devil''s Film:'
+      notes:
+        - '- "Anal Teen Tryouts #17"'
+        - '- "Throat Bangers #20"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrin_rus_08/gender=f/katrin.htm
+        - https://www.indexxx.com/m/lacey
+    - id: a37564ec-fa0c-4e8e-a29d-39ae080a9fd2
+      name: Defrancesca Gallardo
+      notes:
+        - '- Digital Playground - incorrect alias'
+        - '- Devil''s Film "Cream Pie Orgy #05"'
+        - '- Devil''s Film "Cum Filled Throats #20"'
+        - '- Devil''s Film "Cum Filled Throats #22"'
+        - '- Devil''s Film "Teen Tryouts Audition #52"'
+        - '- Devil''s Film "Teen Tryouts Audition #54"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrin_07/gender=f/defrancesca-gallardo.htm
+        - https://www.indexxx.com/m/defrancesca-gallardo
+    - id: null
+      name: Katrin (2016, Score)
+      text: The Score Group
+      links:
+        - https://www.iafd.com/person.rme/perfid=katrin_score/gender=f/katrin.htm
+        - https://www.indexxx.com/m/katrin-12
+    - id: null
+      name: Katrin (1994, Woodman)
+      text: Woodman Casting X
+      links:
+        - https://www.indexxx.com/m/katrin-8
+    - id: null
+      name: Katrin (Nasty Angels)
+      text: Likely redistributed scenes, maybe some amateur casting
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-24)

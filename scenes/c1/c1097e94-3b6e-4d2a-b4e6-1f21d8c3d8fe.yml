@@ -1,30 +1,20 @@
-{
-  "c_studio": [
-    "Jr College Lesbians",
-    null
-  ],
-  "comments": [
-    "Same as Virgin Teen Lesbians 3 Scene 4",
-    "https://www.adultdvdempire.com/1433696/virgin-teen-lesbians-vol-3-porn-videos.html"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Kate Klimax",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kateklimax/gender=f/kate-klimax.htm"
-      },
-      {
-        "id": null,
-        "name": "Jade",
-        "appearance": null,
-        "disambiguation": "Canadian, 2006-2008",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jade_cn_06/gender=f/jade.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Jr College Lesbians
+  - null
+comments:
+  - Same as Virgin Teen Lesbians 3 Scene 4
+  - https://www.adultdvdempire.com/1433696/virgin-teen-lesbians-vol-3-porn-videos.html
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Kate Klimax
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=kateklimax/gender=f/kate-klimax.htm
+    - id: null
+      name: Jade
+      appearance: null
+      disambiguation: Canadian, 2006-2008
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=jade_cn_06/gender=f/jade.htm

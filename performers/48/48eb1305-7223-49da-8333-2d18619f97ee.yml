@@ -1,52 +1,33 @@
-{
-  "split": {
-    "name": "Destiny",
-    "shards": [
-      {
-        "id": null,
-        "name": "Destiny (2015, Mofos)",
-        "text": "Stranded Teens",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=destiny_mofos/gender=f/destiny.htm",
-          "https://www.indexxx.com/m/destiny-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Destiny (2009, Net Video Girls) AKA Angel",
-        "text": "Net Video Girls",
-        "notes": [
-          "Ep 2009.77 - Destiny"
-        ],
-        "links": [
-          "https://www.indexxx.com/m/angel-59",
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489808"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Mary (2002, BangBros)",
-        "text": "BangBros Remastered",
-        "notes": [
-          "original scene - missing performer:"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mary_02_bb/gender=f/mary.htm",
-          "https://www.indexxx.com/m/destiny-13",
-          "https://stashdb.org/scenes/4595bde9-0435-4345-8e9e-d906318d9900"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Destiny (2003, Tranny Surprise)",
-        "text": "Tranny Surprise",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=destiny_rk_ts/gender=f/destiny.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (\u0002possibly\u0003 complete list as of 2022-07-22)"
-    ]
-  }
-}
+split:
+  name: Destiny
+  fragments:
+    - id: null
+      name: Destiny (2015, Mofos)
+      text: Stranded Teens
+      links:
+        - https://www.iafd.com/person.rme/perfid=destiny_mofos/gender=f/destiny.htm
+        - https://www.indexxx.com/m/destiny-5
+    - id: null
+      name: Destiny (2009, Net Video Girls) AKA Angel
+      text: Net Video Girls
+      notes:
+        - Ep 2009.77 - Destiny
+      links:
+        - https://www.indexxx.com/m/angel-59
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489808
+    - id: null
+      name: Mary (2002, BangBros)
+      text: BangBros Remastered
+      notes:
+        - 'original scene - missing performer:'
+      links:
+        - https://www.iafd.com/person.rme/perfid=mary_02_bb/gender=f/mary.htm
+        - https://www.indexxx.com/m/destiny-13
+        - https://stashdb.org/scenes/4595bde9-0435-4345-8e9e-d906318d9900
+    - id: null
+      name: Destiny (2003, Tranny Surprise)
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=destiny_rk_ts/gender=f/destiny.htm
+  notes:
+    - "Mix of multiple performers (\x02possibly\x03 complete list as of 2022-07-22)"

@@ -1,6 +1,3 @@
-{
-  "name": "Denise Sky",
-  "urls": [
-    "https://www.iafd.com/person.rme/perfid=denisesky/gender=f/denise-sky.htm"
-  ]
-}
+name: Denise Sky
+urls:
+  - https://www.iafd.com/person.rme/perfid=denisesky/gender=f/denise-sky.htm

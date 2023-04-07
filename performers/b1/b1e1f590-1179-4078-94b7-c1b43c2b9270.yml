@@ -1,18 +1,10 @@
-{
-  "split": {
-    "name": "Dane",
-    "shards": [
-      {
-        "id": null,
-        "name": "Dane (2015, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dane_backroomcastingcouch/gender=f/dane.htm",
-          "https://www.backroomcastingcouch.com/models/dane.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Dane
+  fragments:
+    - id: null
+      name: Dane (2015, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=dane_backroomcastingcouch/gender=f/dane.htm
+        - https://www.backroomcastingcouch.com/models/dane.html
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,36 +1,22 @@
-{
-  "split": {
-    "name": "Jeanette",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jeanette (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/jeanette",
-          "https://www.thenude.com/_29512.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Alyssa (2008, DDF)",
-        "text": "(Pix and Video)",
-        "links": [
-          "https://www.indexxx.com/m/alyssa-2",
-          "https://www.thenude.com/_21834.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jeanette ?",
-        "text": "(Woodman Casting X)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jeanett_ero/gender=f/jeanett.htm",
-          "https://www.indexxx.com/m/jeanette-10"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-30)"
-    ]
-  }
-}
+split:
+  name: Jeanette
+  fragments:
+    - id: null
+      name: Jeanette (Nubiles)
+      links:
+        - https://www.indexxx.com/m/jeanette
+        - https://www.thenude.com/_29512.htm
+    - id: null
+      name: Alyssa (2008, DDF)
+      text: (Pix and Video)
+      links:
+        - https://www.indexxx.com/m/alyssa-2
+        - https://www.thenude.com/_21834.htm
+    - id: null
+      name: Jeanette ?
+      text: (Woodman Casting X)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jeanett_ero/gender=f/jeanett.htm
+        - https://www.indexxx.com/m/jeanette-10
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-30)

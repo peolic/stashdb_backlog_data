@@ -1,47 +1,30 @@
-{
-  "split": {
-    "name": "Fanny",
-    "shards": [
-      {
-        "id": null,
-        "name": "Fanny (HU, 2002-2003)",
-        "text": "Mike's Apartment",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=fanny_eu/gender=f/fanny.htm",
-          "https://www.indexxx.com/m/fanny"
-        ]
-      },
-      {
-        "id": "99542468-82e9-4dd3-a8be-268761282c7d",
-        "name": "Dorothea (RU, 2011-)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=miranda_as2/gender=f/miranda.htm",
-          "https://www.indexxx.com/m/dorothea"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Isabel (HU, 2004-2005)",
-        "text": "Hot Legs and Feet",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=fanny_eu_04/gender=f/fanny.htm",
-          "https://www.indexxx.com/m/isabel"
-        ]
-      },
-      {
-        "id": "9efbdb56-aa04-4d88-8655-0bfe4b448455",
-        "name": "Emily AKA Syesha",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=emily_rus_08/gender=f/emily.htm",
-          "https://www.indexxx.com/m/syesha",
-          "https://teenmegaworld.net/models/fanny.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-24)"
-    ]
-  }
-}
+split:
+  name: Fanny
+  fragments:
+    - id: null
+      name: Fanny (HU, 2002-2003)
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=fanny_eu/gender=f/fanny.htm
+        - https://www.indexxx.com/m/fanny
+    - id: 99542468-82e9-4dd3-a8be-268761282c7d
+      name: Dorothea (RU, 2011-)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=miranda_as2/gender=f/miranda.htm
+        - https://www.indexxx.com/m/dorothea
+    - id: null
+      name: Isabel (HU, 2004-2005)
+      text: Hot Legs and Feet
+      links:
+        - https://www.iafd.com/person.rme/perfid=fanny_eu_04/gender=f/fanny.htm
+        - https://www.indexxx.com/m/isabel
+    - id: 9efbdb56-aa04-4d88-8655-0bfe4b448455
+      name: Emily AKA Syesha
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=emily_rus_08/gender=f/emily.htm
+        - https://www.indexxx.com/m/syesha
+        - https://teenmegaworld.net/models/fanny.html
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-24)

@@ -1,78 +1,51 @@
-{
-  "split": {
-    "name": "Charlotte",
-    "shards": [
-      {
-        "id": "af835eda-c060-49ac-9236-619cab850ec9",
-        "name": "Charlotte Shark",
-        "text": "(\u0002Euro Sex Parties\u0003, 2015 DDF)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlotteshark/gender=f/charlotte-shark.htm",
-          "https://www.indexxx.com/m/charlotte-shark"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Charlotte (2009, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlotte_09_brcc/gender=f/charlotte.htm",
-          "https://www.backroomcastingcouch.com/models/charlotte.html",
-          "https://stashdb.org/scenes/d075f4bc-2b0e-4e3d-8cab-8cbb74f27df0"
-        ]
-      },
-      {
-        "id": "ad706e70-c52f-42eb-93bf-1bcd25e7c29b",
-        "name": "Charlotte Madison",
-        "notes": [
-          "- Doghouse Digital",
-          "- \u0002Euro Sex Parties\u0003",
-          "- \u0002Mike's Apartment\u0003",
-          "- Only Blowjob",
-          "- Woodman Casting X"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlotte_11_slovak/gender=f/charlotte.htm",
-          "https://www.indexxx.com/m/charlotte-madison"
-        ]
-      },
-      {
-        "id": "d9e039a6-6f74-45d3-9ca5-2f6cd23302fa",
-        "name": "Charlotte Stokely",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlottestokely/gender=f/charlotte-stokely.htm",
-          "https://www.indexxx.com/m/charlotte-stokely"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Charlotte (2004, Reality Kings)",
-        "text": "We Live Together",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlotte_rk04/gender=f/charlotte.htm",
-          "https://www.indexxx.com/m/charlotte-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Charlotte (2003, Reality Kings)",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlotte_rk_03/gender=f/charlotte.htm",
-          "https://www.indexxx.com/m/charlotte-2"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Charlotta",
-        "text": "Wicked",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=charlotta/gender=f/charlotta.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Charlotte
+  fragments:
+    - id: af835eda-c060-49ac-9236-619cab850ec9
+      name: Charlotte Shark
+      text: "(\x02Euro Sex Parties\x03, 2015 DDF)"
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlotteshark/gender=f/charlotte-shark.htm
+        - https://www.indexxx.com/m/charlotte-shark
+    - id: null
+      name: Charlotte (2009, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlotte_09_brcc/gender=f/charlotte.htm
+        - https://www.backroomcastingcouch.com/models/charlotte.html
+        - https://stashdb.org/scenes/d075f4bc-2b0e-4e3d-8cab-8cbb74f27df0
+    - id: ad706e70-c52f-42eb-93bf-1bcd25e7c29b
+      name: Charlotte Madison
+      notes:
+        - '- Doghouse Digital'
+        - "- \x02Euro Sex Parties\x03"
+        - "- \x02Mike's Apartment\x03"
+        - '- Only Blowjob'
+        - '- Woodman Casting X'
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlotte_11_slovak/gender=f/charlotte.htm
+        - https://www.indexxx.com/m/charlotte-madison
+    - id: d9e039a6-6f74-45d3-9ca5-2f6cd23302fa
+      name: Charlotte Stokely
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlottestokely/gender=f/charlotte-stokely.htm
+        - https://www.indexxx.com/m/charlotte-stokely
+    - id: null
+      name: Charlotte (2004, Reality Kings)
+      text: We Live Together
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlotte_rk04/gender=f/charlotte.htm
+        - https://www.indexxx.com/m/charlotte-1
+    - id: null
+      name: Charlotte (2003, Reality Kings)
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlotte_rk_03/gender=f/charlotte.htm
+        - https://www.indexxx.com/m/charlotte-2
+    - id: null
+      name: Charlotta
+      text: Wicked
+      links:
+        - https://www.iafd.com/person.rme/perfid=charlotta/gender=f/charlotta.htm
+  notes:
+    - Mix of multiple performers (partial list)

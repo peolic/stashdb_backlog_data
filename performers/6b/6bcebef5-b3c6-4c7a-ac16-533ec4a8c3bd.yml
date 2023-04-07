@@ -1,53 +1,35 @@
-{
-  "split": {
-    "name": "Stefany",
-    "shards": [
-      {
-        "id": "538a524b-dbea-4eed-bbd3-1efbd9781b89",
-        "name": "Lena Love",
-        "text": "1 Pass for All Sites:",
-        "notes": [
-          "- Tricky Old Teacher",
-          "- Young Anal Tryouts"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lina_12_russ/gender=f/lina-love.htm",
-          "https://www.indexxx.com/m/lena-love",
-          "https://1passforallsites.com/model?id=908"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Stefany Amore AKA Amarise Faer",
-        "text": "Euro Sex Parties",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=april_eu_06/gender=f/april.htm",
-          "https://www.indexxx.com/m/stefany-1",
-          "https://www.egafd.com/actresses/details.php/id/a00822"
-        ]
-      },
-      {
-        "id": "05e7fe70-41ad-4744-872f-e8e7793dfbb8",
-        "name": "Ann Stefani",
-        "text": "Mike's Apartment",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=imola/gender=f/imola.htm",
-          "https://www.indexxx.com/m/ann-stefani"
-        ]
-      },
-      {
-        "id": "f8a8a3ee-c59e-4ce3-9906-5415a1ac155e",
-        "name": "Lucy Cattiva AKA Steffi",
-        "text": "Teen Bitch Club",
-        "links": [
-          "https://stashdb.org/performers/20d9285f-d0f9-42b9-a7b3-5f33c6e04f88",
-          "https://www.iafd.com/person.rme/perfid=lucycattiva/gender=f/lucy-cattiva.htm",
-          "https://www.indexxx.com/m/stefany"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-17)"
-    ]
-  }
-}
+split:
+  name: Stefany
+  fragments:
+    - id: 538a524b-dbea-4eed-bbd3-1efbd9781b89
+      name: Lena Love
+      text: '1 Pass for All Sites:'
+      notes:
+        - '- Tricky Old Teacher'
+        - '- Young Anal Tryouts'
+      links:
+        - https://www.iafd.com/person.rme/perfid=lina_12_russ/gender=f/lina-love.htm
+        - https://www.indexxx.com/m/lena-love
+        - https://1passforallsites.com/model?id=908
+    - id: null
+      name: Stefany Amore AKA Amarise Faer
+      text: Euro Sex Parties
+      links:
+        - https://www.iafd.com/person.rme/perfid=april_eu_06/gender=f/april.htm
+        - https://www.indexxx.com/m/stefany-1
+        - https://www.egafd.com/actresses/details.php/id/a00822
+    - id: 05e7fe70-41ad-4744-872f-e8e7793dfbb8
+      name: Ann Stefani
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=imola/gender=f/imola.htm
+        - https://www.indexxx.com/m/ann-stefani
+    - id: f8a8a3ee-c59e-4ce3-9906-5415a1ac155e
+      name: Lucy Cattiva AKA Steffi
+      text: Teen Bitch Club
+      links:
+        - https://stashdb.org/performers/20d9285f-d0f9-42b9-a7b3-5f33c6e04f88
+        - https://www.iafd.com/person.rme/perfid=lucycattiva/gender=f/lucy-cattiva.htm
+        - https://www.indexxx.com/m/stefany
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-17)

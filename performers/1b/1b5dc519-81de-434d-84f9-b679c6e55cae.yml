@@ -1,29 +1,17 @@
-{
-  "split": {
-    "name": "Krista",
-    "shards": [
-      {
-        "id": null,
-        "name": "Krista Morgan",
-        "text": "Net Video Girls",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm"
-        ]
-      },
-      {
-        "id": "a0a2fb96-910b-4913-84b6-01f0910ad405",
-        "name": "Krista Hall",
-        "notes": [
-          "- Peter North",
-          "- Rocco Siffredi"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=krista/gender=f/krista.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-03-06)"
-    ]
-  }
-}
+split:
+  name: Krista
+  fragments:
+    - id: null
+      name: Krista Morgan
+      text: Net Video Girls
+      links:
+        - https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm
+    - id: a0a2fb96-910b-4913-84b6-01f0910ad405
+      name: Krista Hall
+      notes:
+        - '- Peter North'
+        - '- Rocco Siffredi'
+      links:
+        - https://www.iafd.com/person.rme/perfid=krista/gender=f/krista.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2023-03-06)

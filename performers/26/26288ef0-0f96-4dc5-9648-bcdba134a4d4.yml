@@ -1,34 +1,20 @@
-{
-  "split": {
-    "name": "Kelsie",
-    "shards": [
-      {
-        "id": "fccf74b3-b174-4956-a92c-b3b3365717ed",
-        "name": "Kathy Bearce",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jane_rus_08/gender=f/jane.htm",
-          "https://www.indexxx.com/m/kelsie"
-        ]
-      },
-      {
-        "id": "049d12c6-e3df-4c63-ba55-2c2a4e642cb8",
-        "name": "Kelsie S",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=maiami_10_russ/gender=f/kelsie-s..htm",
-          "https://www.indexxx.com/m/kelsie-s"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kelsie (2010, Backroom Casting Couch)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kelsie_10_brcc/gender=f/kelsie.htm",
-          "https://www.backroomcastingcouch.com/models/kelsie.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (possibly complete list as of 2022-07-02)"
-    ]
-  }
-}
+split:
+  name: Kelsie
+  fragments:
+    - id: fccf74b3-b174-4956-a92c-b3b3365717ed
+      name: Kathy Bearce
+      links:
+        - https://www.iafd.com/person.rme/perfid=jane_rus_08/gender=f/jane.htm
+        - https://www.indexxx.com/m/kelsie
+    - id: 049d12c6-e3df-4c63-ba55-2c2a4e642cb8
+      name: Kelsie S
+      links:
+        - https://www.iafd.com/person.rme/perfid=maiami_10_russ/gender=f/kelsie-s..htm
+        - https://www.indexxx.com/m/kelsie-s
+    - id: null
+      name: Kelsie (2010, Backroom Casting Couch)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kelsie_10_brcc/gender=f/kelsie.htm
+        - https://www.backroomcastingcouch.com/models/kelsie.html
+  notes:
+    - Mix of multiple performers (possibly complete list as of 2022-07-02)

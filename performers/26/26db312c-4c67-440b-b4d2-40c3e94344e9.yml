@@ -1,33 +1,21 @@
-{
-  "split": {
-    "name": "Monika",
-    "shards": [
-      {
-        "id": "0cae3bc8-83f7-4ce1-904c-db138019db93",
-        "name": "Olimpia (2006-2013, Russian)",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=olimpia/gender=f/olimpia.htm",
-          "https://www.indexxx.com/m/luysan"
-        ]
-      },
-      {
-        "id": "3e5e5d33-cc8a-42fb-b54c-c57db16229e3",
-        "name": "Monika Vesela AKA Monica Vesela, Monika N",
-        "notes": [
-          "- Nubiles",
-          "- Errotica Archives"
-        ],
-        "links": [
-          "https://stashdb.org/performers/c12a1ade-c873-44a8-ac9d-704ce2513800",
-          "https://stashdb.org/performers/a7f77607-29fc-4a71-8a8a-b11731f28332",
-          "https://www.iafd.com/person.rme/perfid=monikavesela/gender=f/monika-vesela.htm",
-          "https://www.indexxx.com/m/monika-vesela"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Monika
+  fragments:
+    - id: 0cae3bc8-83f7-4ce1-904c-db138019db93
+      name: Olimpia (2006-2013, Russian)
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=olimpia/gender=f/olimpia.htm
+        - https://www.indexxx.com/m/luysan
+    - id: 3e5e5d33-cc8a-42fb-b54c-c57db16229e3
+      name: Monika Vesela AKA Monica Vesela, Monika N
+      notes:
+        - '- Nubiles'
+        - '- Errotica Archives'
+      links:
+        - https://stashdb.org/performers/c12a1ade-c873-44a8-ac9d-704ce2513800
+        - https://stashdb.org/performers/a7f77607-29fc-4a71-8a8a-b11731f28332
+        - https://www.iafd.com/person.rme/perfid=monikavesela/gender=f/monika-vesela.htm
+        - https://www.indexxx.com/m/monika-vesela
+  notes:
+    - Mix of multiple performers (partial list)

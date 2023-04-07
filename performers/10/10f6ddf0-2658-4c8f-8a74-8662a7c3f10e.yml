@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Jen",
-    "shards": [
-      {
-        "id": "7ec33e23-08be-47b4-af1f-f68190ab9171",
-        "name": "Crystal Frost",
-        "text": "Wives in Pantyhose",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=crystalfrost/gender=f/crystal-frost.htm",
-          "https://www.indexxx.com/m/crystal-frost"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Jen
+  fragments:
+    - id: 7ec33e23-08be-47b4-af1f-f68190ab9171
+      name: Crystal Frost
+      text: Wives in Pantyhose
+      links:
+        - https://www.iafd.com/person.rme/perfid=crystalfrost/gender=f/crystal-frost.htm
+        - https://www.indexxx.com/m/crystal-frost
+  notes:
+    - Mix of multiple performers (partial list)

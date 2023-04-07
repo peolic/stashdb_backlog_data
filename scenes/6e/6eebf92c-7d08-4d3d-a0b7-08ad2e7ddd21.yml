@@ -1,27 +1,16 @@
-{
-  "c_studio": [
-    "GF Revenge",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=pussy+on+my+tongue/year=2014/pussy-on-my-tongue.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "414014ca-3324-4a3d-8d5f-1cd017e791a9",
-        "name": "Jason",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Jason Voor",
-        "appearance": "Jason",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=jasonvoor/gender=m/jason-voor.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=pussy+on+my+tongue/year=2014/pussy-on-my-tongue.htm
+performers:
+  remove:
+    - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
+      name: Jason
+      appearance: null
+  append:
+    - id: null
+      name: Jason Voor
+      appearance: Jason
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=jasonvoor/gender=m/jason-voor.htm

@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Kristian",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kristian (Sean Cody 2016)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kristian_seancody/gender=m/kristian.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Kristian
+  fragments:
+    - id: null
+      name: Kristian (Sean Cody 2016)
+      links:
+        - https://www.iafd.com/person.rme/perfid=kristian_seancody/gender=m/kristian.htm
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,62 +1,41 @@
-{
-  "split": {
-    "name": "Heidi",
-    "shards": [
-      {
-        "id": "aa76ef18-3a83-41c9-b139-40a71c224f70",
-        "name": "Heidi Mayne",
-        "notes": [
-          "- Brazzers - incorrect alias?",
-          "- Lesbian Factor",
-          "- MILF Hunter \"Test Drive\" (2007-11-12)",
-          "- MILF Next Door",
-          "- Team Squirt",
-          "- Wicked - incorrect alias?"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=heidimayne/gender=f/heidi-mayne.htm",
-          "https://www.indexxx.com/m/heidi-mayne"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Heidi (Sapphic Erotica)",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.indexxx.com/m/judi-1",
-          "https://www.thenude.com/_42236.htm"
-        ]
-      },
-      {
-        "id": "72dd3343-61b7-4666-bb88-9874e1ead261",
-        "name": "Lana Conti",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lanaconti/gender=f/lana-conti.htm",
-          "https://www.indexxx.com/m/lana-conti"
-        ]
-      },
-      {
-        "id": "a042f561-09b9-483c-8cf4-ac9aa9472023",
-        "name": "Heidi Brooks",
-        "text": "MILF Hunter \"Prime Pussy\" (2007-08-20)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=heidibrooks/gender=f/heidi-brooks.htm",
-          "https://www.indexxx.com/m/heidi-brooks"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Gianna Bella",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=giannabella/gender=f/gianna-bella.htm",
-          "https://www.indexxx.com/m/heidi-4"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Heidi
+  fragments:
+    - id: aa76ef18-3a83-41c9-b139-40a71c224f70
+      name: Heidi Mayne
+      notes:
+        - '- Brazzers - incorrect alias?'
+        - '- Lesbian Factor'
+        - '- MILF Hunter "Test Drive" (2007-11-12)'
+        - '- MILF Next Door'
+        - '- Team Squirt'
+        - '- Wicked - incorrect alias?'
+      links:
+        - https://www.iafd.com/person.rme/perfid=heidimayne/gender=f/heidi-mayne.htm
+        - https://www.indexxx.com/m/heidi-mayne
+    - id: null
+      name: Heidi (Sapphic Erotica)
+      text: Sapphic Erotica
+      links:
+        - https://www.indexxx.com/m/judi-1
+        - https://www.thenude.com/_42236.htm
+    - id: 72dd3343-61b7-4666-bb88-9874e1ead261
+      name: Lana Conti
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=lanaconti/gender=f/lana-conti.htm
+        - https://www.indexxx.com/m/lana-conti
+    - id: a042f561-09b9-483c-8cf4-ac9aa9472023
+      name: Heidi Brooks
+      text: MILF Hunter "Prime Pussy" (2007-08-20)
+      links:
+        - https://www.iafd.com/person.rme/perfid=heidibrooks/gender=f/heidi-brooks.htm
+        - https://www.indexxx.com/m/heidi-brooks
+    - id: null
+      name: Gianna Bella
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=giannabella/gender=f/gianna-bella.htm
+        - https://www.indexxx.com/m/heidi-4
+  notes:
+    - Mix of multiple performers (partial list)

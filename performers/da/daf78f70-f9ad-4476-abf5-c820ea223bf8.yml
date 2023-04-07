@@ -1,37 +1,22 @@
-{
-  "split": {
-    "name": "Catalina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Catalina (2020, Bootylicious Mag)",
-        "links": [
-          "https://www.indexxx.com/m/catalina-14"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Catalina",
-        "notes": [
-          "- Jules Jordan",
-          "- Evil Angel",
-          "- FuckingMachines",
-          "- Twistys"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=catalina/gender=f/catalina.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Catalina (2003, MILF Hunter)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=catalina_rk_03/gender=f/catalina.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Catalina
+  fragments:
+    - id: null
+      name: Catalina (2020, Bootylicious Mag)
+      links:
+        - https://www.indexxx.com/m/catalina-14
+    - id: null
+      name: Catalina
+      notes:
+        - '- Jules Jordan'
+        - '- Evil Angel'
+        - '- FuckingMachines'
+        - '- Twistys'
+      links:
+        - https://www.iafd.com/person.rme/perfid=catalina/gender=f/catalina.htm
+    - id: null
+      name: Catalina (2003, MILF Hunter)
+      links:
+        - https://www.iafd.com/person.rme/perfid=catalina_rk_03/gender=f/catalina.htm
+  notes:
+    - Mix of multiple performers (partial list)

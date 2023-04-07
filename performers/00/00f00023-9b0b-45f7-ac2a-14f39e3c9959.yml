@@ -1,119 +1,77 @@
-{
-  "split": {
-    "name": "Madison",
-    "shards": [
-      {
-        "id": null,
-        "name": "Madison (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/madison-2"
-        ]
-      },
-      {
-        "id": "b8916f5f-2421-49c4-9fbb-a9d35ef0881c",
-        "name": "Melany Jolie",
-        "text": "Madison @ Twistys (circa 2008)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=melanyjolie/gender=f/melany-jolie.htm",
-          "https://www.indexxx.com/m/melany"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Madison (Naughty America 2004)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madison_na_04/gender=f/madison.htm",
-          "https://www.indexxx.com/m/madison-12"
-        ]
-      },
-      {
-        "id": "807bd5f2-6380-4adb-b43a-2e948a83c51c",
-        "name": "Persia DeCarlo",
-        "notes": [
-          "- \u0002Captain Stabbin (2007)\u0003",
-          "- Cum Girls"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=persiadecarlo/gender=f/persia-decarlo.htm",
-          "https://www.indexxx.com/m/persia-decarlo"
-        ]
-      },
-      {
-        "id": "289be3af-b95a-4fd0-a6cc-64bb8e0e07db",
-        "name": "Britney Spring",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=alisa_08_rus/gender=f/britney-spring.htm",
-          "https://www.indexxx.com/m/brittany-4",
-          "https://teenmegaworld.net/models/madison.html"
-        ]
-      },
-      {
-        "id": "7c7ae400-854f-468a-a057-8fb71402d19d",
-        "name": "Esmeralda Fox",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=esperanse_15_russ/gender=f/esperanse.htm",
-          "https://www.indexxx.com/m/esmeralda-fox"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Madyson Shane",
-        "notes": [
-          "- Bang Bus",
-          "- Captain Stabbin (2006)"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madysonshane/gender=f/madyson-shane.htm",
-          "https://www.indexxx.com/m/madison-9"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Madison (2014, Reality Kings)",
-        "text": "Street Blowjobs (2014)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madison_16/gender=f/madison.htm",
-          "https://www.indexxx.com/m/madison-14"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Madison (2004, Reality Kings)",
-        "text": "Street Blowjobs (2004)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madison_rk2004/gender=f/madison.htm",
-          "https://www.indexxx.com/m/madison-10"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Madison (2006, Reality Kings)",
-        "notes": [
-          "- MILF Next Door",
-          "- Real Orgasms"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madison_rk2006/gender=f/madison.htm",
-          "https://www.indexxx.com/m/madison-11"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Madison (2007-2008, Reality Kings)",
-        "notes": [
-          "- Extreme Asses",
-          "- Round and Brown"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=madison_rk_07/gender=f/madison.htm",
-          "https://www.indexxx.com/m/madison-6"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Madison
+  fragments:
+    - id: null
+      name: Madison (Nubiles)
+      links:
+        - https://www.indexxx.com/m/madison-2
+    - id: b8916f5f-2421-49c4-9fbb-a9d35ef0881c
+      name: Melany Jolie
+      text: Madison @ Twistys (circa 2008)
+      links:
+        - https://www.iafd.com/person.rme/perfid=melanyjolie/gender=f/melany-jolie.htm
+        - https://www.indexxx.com/m/melany
+    - id: null
+      name: Madison (Naughty America 2004)
+      links:
+        - https://www.iafd.com/person.rme/perfid=madison_na_04/gender=f/madison.htm
+        - https://www.indexxx.com/m/madison-12
+    - id: 807bd5f2-6380-4adb-b43a-2e948a83c51c
+      name: Persia DeCarlo
+      notes:
+        - "- \x02Captain Stabbin (2007)\x03"
+        - '- Cum Girls'
+      links:
+        - https://www.iafd.com/person.rme/perfid=persiadecarlo/gender=f/persia-decarlo.htm
+        - https://www.indexxx.com/m/persia-decarlo
+    - id: 289be3af-b95a-4fd0-a6cc-64bb8e0e07db
+      name: Britney Spring
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=alisa_08_rus/gender=f/britney-spring.htm
+        - https://www.indexxx.com/m/brittany-4
+        - https://teenmegaworld.net/models/madison.html
+    - id: 7c7ae400-854f-468a-a057-8fb71402d19d
+      name: Esmeralda Fox
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=esperanse_15_russ/gender=f/esperanse.htm
+        - https://www.indexxx.com/m/esmeralda-fox
+    - id: null
+      name: Madyson Shane
+      notes:
+        - '- Bang Bus'
+        - '- Captain Stabbin (2006)'
+      links:
+        - https://www.iafd.com/person.rme/perfid=madysonshane/gender=f/madyson-shane.htm
+        - https://www.indexxx.com/m/madison-9
+    - id: null
+      name: Madison (2014, Reality Kings)
+      text: Street Blowjobs (2014)
+      links:
+        - https://www.iafd.com/person.rme/perfid=madison_16/gender=f/madison.htm
+        - https://www.indexxx.com/m/madison-14
+    - id: null
+      name: Madison (2004, Reality Kings)
+      text: Street Blowjobs (2004)
+      links:
+        - https://www.iafd.com/person.rme/perfid=madison_rk2004/gender=f/madison.htm
+        - https://www.indexxx.com/m/madison-10
+    - id: null
+      name: Madison (2006, Reality Kings)
+      notes:
+        - '- MILF Next Door'
+        - '- Real Orgasms'
+      links:
+        - https://www.iafd.com/person.rme/perfid=madison_rk2006/gender=f/madison.htm
+        - https://www.indexxx.com/m/madison-11
+    - id: null
+      name: Madison (2007-2008, Reality Kings)
+      notes:
+        - '- Extreme Asses'
+        - '- Round and Brown'
+      links:
+        - https://www.iafd.com/person.rme/perfid=madison_rk_07/gender=f/madison.htm
+        - https://www.indexxx.com/m/madison-6
+  notes:
+    - Mix of multiple performers (partial list)

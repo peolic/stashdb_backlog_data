@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Harley",
-    "shards": [
-      {
-        "id": null,
-        "name": "Harley (German)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=harley_06/gender=m/harley.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers."
-    ]
-  }
-}
+split:
+  name: Harley
+  fragments:
+    - id: null
+      name: Harley (German)
+      links:
+        - https://www.iafd.com/person.rme/perfid=harley_06/gender=m/harley.htm
+  notes:
+    - Mix of multiple performers.

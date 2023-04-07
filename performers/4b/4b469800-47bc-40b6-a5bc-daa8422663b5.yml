@@ -1,94 +1,62 @@
-{
-  "split": {
-    "name": "Selena",
-    "shards": [
-      {
-        "id": "5ff958fc-6326-492d-a5af-678b209f976a",
-        "name": "Selena (Romanian, 2007-2013) (AKA Selena Mahuela)",
-        "notes": [
-          "- 21 Sextury",
-          "- 21 Sextreme",
-          "- Euro Sex Parties"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selena_rom_07/gender=f/selena.htm",
-          "https://www.indexxx.com/m/selena"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Selena Sin",
-        "text": "The Life Erotic",
-        "links": [
-          "https://www.indexxx.com/m/selena-sin",
-          "https://www.thenude.com/_41135.htm",
-          "https://www.boobpedia.com/boobs/Selena_Sin",
-          "https://www.freeones.com/selena-sin"
-        ]
-      },
-      {
-        "id": "cfae2ace-8800-4f48-b0af-610115fcabde",
-        "name": "Taylor Krystal",
-        "notes": [
-          "- 18videoz?",
-          "- Dirty Flix?"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=taylorkrystal/gender=f/taylor-krystal.htm",
-          "https://www.indexxx.com/m/taylor-krystal",
-          "http://www.pornteengirl.com/model/taylor-krystal.html"
-        ]
-      },
-      {
-        "id": "9ab46eed-4e46-4c40-87bd-42023f159bcf",
-        "name": "Selena Santoro",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selenasantoro/gender=f/selena-santoro.htm",
-          "https://www.indexxx.com/m/selena-santoro"
-        ]
-      },
-      {
-        "id": "c0e80c18-eec7-4353-8c95-9eb8c773d87d",
-        "name": "Selena Silver",
-        "text": "Peter North",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selenasilver/gender=f/selena-silver.htm",
-          "https://www.indexxx.com/m/selena-silver"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Selena AKA Jan Selena",
-        "notes": [
-          "- Evil Angel",
-          "- Wicked"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selena/gender=f/selena.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Selena (2005, Reality Kings)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selena_rk_05/gender=f/selena.htm",
-          "https://www.indexxx.com/m/selena-4"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Selena (2003, Reality Kings)",
-        "text": "Wives in Pantyhose",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=selena_rk/gender=f/selena.htm",
-          "https://www.indexxx.com/m/selena-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-29)"
-    ]
-  }
-}
+split:
+  name: Selena
+  fragments:
+    - id: 5ff958fc-6326-492d-a5af-678b209f976a
+      name: Selena (Romanian, 2007-2013) (AKA Selena Mahuela)
+      notes:
+        - '- 21 Sextury'
+        - '- 21 Sextreme'
+        - '- Euro Sex Parties'
+      links:
+        - https://www.iafd.com/person.rme/perfid=selena_rom_07/gender=f/selena.htm
+        - https://www.indexxx.com/m/selena
+    - id: null
+      name: Selena Sin
+      text: The Life Erotic
+      links:
+        - https://www.indexxx.com/m/selena-sin
+        - https://www.thenude.com/_41135.htm
+        - https://www.boobpedia.com/boobs/Selena_Sin
+        - https://www.freeones.com/selena-sin
+    - id: cfae2ace-8800-4f48-b0af-610115fcabde
+      name: Taylor Krystal
+      notes:
+        - '- 18videoz?'
+        - '- Dirty Flix?'
+      links:
+        - https://www.iafd.com/person.rme/perfid=taylorkrystal/gender=f/taylor-krystal.htm
+        - https://www.indexxx.com/m/taylor-krystal
+        - http://www.pornteengirl.com/model/taylor-krystal.html
+    - id: 9ab46eed-4e46-4c40-87bd-42023f159bcf
+      name: Selena Santoro
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=selenasantoro/gender=f/selena-santoro.htm
+        - https://www.indexxx.com/m/selena-santoro
+    - id: c0e80c18-eec7-4353-8c95-9eb8c773d87d
+      name: Selena Silver
+      text: Peter North
+      links:
+        - https://www.iafd.com/person.rme/perfid=selenasilver/gender=f/selena-silver.htm
+        - https://www.indexxx.com/m/selena-silver
+    - id: null
+      name: Selena AKA Jan Selena
+      notes:
+        - '- Evil Angel'
+        - '- Wicked'
+      links:
+        - https://www.iafd.com/person.rme/perfid=selena/gender=f/selena.htm
+    - id: null
+      name: Selena (2005, Reality Kings)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=selena_rk_05/gender=f/selena.htm
+        - https://www.indexxx.com/m/selena-4
+    - id: null
+      name: Selena (2003, Reality Kings)
+      text: Wives in Pantyhose
+      links:
+        - https://www.iafd.com/person.rme/perfid=selena_rk/gender=f/selena.htm
+        - https://www.indexxx.com/m/selena-3
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-29)

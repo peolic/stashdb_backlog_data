@@ -1,34 +1,21 @@
-{
-  "split": {
-    "name": "Cleopatra",
-    "shards": [
-      {
-        "id": null,
-        "name": "Cleopatra",
-        "notes": [
-          "- Peter North",
-          "- Twistys"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=cleopatra00/gender=f/cleopatra.htm",
-          "https://www.indexxx.com/m/cleopatra-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Cleopatra Black",
-        "notes": [
-          "- 1By-Day",
-          "- 21 Sextury"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=cleopatra_hun_07/gender=f/cleopatra.htm",
-          "https://www.indexxx.com/m/cleopatra"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-03-25)"
-    ]
-  }
-}
+split:
+  name: Cleopatra
+  fragments:
+    - id: null
+      name: Cleopatra
+      notes:
+        - '- Peter North'
+        - '- Twistys'
+      links:
+        - https://www.iafd.com/person.rme/perfid=cleopatra00/gender=f/cleopatra.htm
+        - https://www.indexxx.com/m/cleopatra-1
+    - id: null
+      name: Cleopatra Black
+      notes:
+        - '- 1By-Day'
+        - '- 21 Sextury'
+      links:
+        - https://www.iafd.com/person.rme/perfid=cleopatra_hun_07/gender=f/cleopatra.htm
+        - https://www.indexxx.com/m/cleopatra
+  notes:
+    - Mix of multiple performers (complete list as of 2023-03-25)

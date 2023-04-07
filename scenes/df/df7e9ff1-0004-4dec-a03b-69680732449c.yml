@@ -1,22 +1,14 @@
-{
-  "c_studio": [
-    "Nasty Angels",
-    null
-  ],
-  "comments": [
-    "Performer removed without creating a new one",
-    "https://stashdb.org/edits/f28728e6-9864-4680-9156-eee706c5a4c4"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Dillan",
-        "appearance": null,
-        "disambiguation": "Nasty Angels",
-        "status": "new"
-      }
-    ]
-  }
-}
+c_studio:
+  - Nasty Angels
+  - null
+comments:
+  - Performer removed without creating a new one
+  - https://stashdb.org/edits/f28728e6-9864-4680-9156-eee706c5a4c4
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Dillan
+      appearance: null
+      disambiguation: Nasty Angels
+      status: new

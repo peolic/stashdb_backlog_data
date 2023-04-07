@@ -1,33 +1,21 @@
-{
-  "split": {
-    "name": "Alyona",
-    "shards": [
-      {
-        "id": null,
-        "name": "Alyona (Nubiles)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/alyona-2",
-          "https://www.thenude.com/_29411.htm",
-          "http://www.pornteengirl.com/model/alyona.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Anya (Nubiles)",
-        "notes": [
-          "- Spoiled Virgins",
-          "- Tricky Old Teacher"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anya_rus_11/gender=f/anya.htm",
-          "https://www.indexxx.com/m/anya-18",
-          "https://1passforallsites.com/model?id=810"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-28)"
-    ]
-  }
-}
+split:
+  name: Alyona
+  fragments:
+    - id: null
+      name: Alyona (Nubiles)
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/alyona-2
+        - https://www.thenude.com/_29411.htm
+        - http://www.pornteengirl.com/model/alyona.html
+    - id: null
+      name: Anya (Nubiles)
+      notes:
+        - '- Spoiled Virgins'
+        - '- Tricky Old Teacher'
+      links:
+        - https://www.iafd.com/person.rme/perfid=anya_rus_11/gender=f/anya.htm
+        - https://www.indexxx.com/m/anya-18
+        - https://1passforallsites.com/model?id=810
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-28)

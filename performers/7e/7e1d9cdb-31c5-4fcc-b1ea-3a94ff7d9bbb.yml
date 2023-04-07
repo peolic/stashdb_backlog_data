@@ -1,46 +1,28 @@
-{
-  "split": {
-    "name": "Jade",
-    "shards": [
-      {
-        "id": null,
-        "name": "Jade (2003-2009, Twistys)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jade_tws_03/gender=f/jade.htm",
-          "https://www.indexxx.com/m/jade-27"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jade (Asian, 2005)",
-        "notes": [
-          "- Captain Stabbin",
-          "- Monsters of Cock"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jade_05_ttb/gender=f/jade.htm",
-          "https://www.indexxx.com/m/jade-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jade (2007, Street BlowJobs)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jade_rk07/gender=f/jade.htm",
-          "https://www.indexxx.com/m/jade-7"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jade (2005, We Live Together)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jade05_rk/gender=f/jade.htm",
-          "https://www.indexxx.com/m/jade-5"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Jade
+  fragments:
+    - id: null
+      name: Jade (2003-2009, Twistys)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jade_tws_03/gender=f/jade.htm
+        - https://www.indexxx.com/m/jade-27
+    - id: null
+      name: Jade (Asian, 2005)
+      notes:
+        - '- Captain Stabbin'
+        - '- Monsters of Cock'
+      links:
+        - https://www.iafd.com/person.rme/perfid=jade_05_ttb/gender=f/jade.htm
+        - https://www.indexxx.com/m/jade-1
+    - id: null
+      name: Jade (2007, Street BlowJobs)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jade_rk07/gender=f/jade.htm
+        - https://www.indexxx.com/m/jade-7
+    - id: null
+      name: Jade (2005, We Live Together)
+      links:
+        - https://www.iafd.com/person.rme/perfid=jade05_rk/gender=f/jade.htm
+        - https://www.indexxx.com/m/jade-5
+  notes:
+    - Mix of multiple performers (partial list)

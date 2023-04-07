@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Betty",
-    "shards": [
-      {
-        "id": null,
-        "name": "Lana (Nubiles)",
-        "text": "Betty @ Teen Mega World",
-        "links": [
-          "https://www.indexxx.com/m/bella-27",
-          "https://www.thenude.com/_11837.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Betty
+  fragments:
+    - id: null
+      name: Lana (Nubiles)
+      text: Betty @ Teen Mega World
+      links:
+        - https://www.indexxx.com/m/bella-27
+        - https://www.thenude.com/_11837.htm
+  notes:
+    - Mix of multiple performers (partial list)

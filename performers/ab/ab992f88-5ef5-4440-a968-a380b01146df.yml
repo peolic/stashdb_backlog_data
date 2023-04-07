@@ -1,72 +1,46 @@
-{
-  "split": {
-    "name": "Brittney",
-    "shards": [
-      {
-        "id": "999bac77-9b7f-4b91-bcae-a1ff0a163274",
-        "name": "Brittney Skye",
-        "text": "Silvia Saint",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=brittanyskye/gender=f/brittney-skye.htm",
-          "https://www.indexxx.com/m/brittney-skye"
-        ]
-      },
-      {
-        "id": "2befe9a9-0b41-4586-9636-d3843f5b3ef2",
-        "name": "Britney Foster",
-        "text": "Devil's Film",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=britneyfoster/gender=f/britney-foster.htm",
-          "https://www.indexxx.com/m/britney-foster"
-        ]
-      },
-      {
-        "id": "0b5f4bef-641a-474f-8d00-75a57ed4fcda",
-        "name": "Jewel Affair",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jewelaffair/gender=f/jewel-affair.htm",
-          "https://www.indexxx.com/m/jewel-affair"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Brittney (2009, Bang Bros)",
-        "text": "Bang Bus",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=brittney_bang_09/gender=f/brittney.htm",
-          "https://www.indexxx.com/m/brittney-1"
-        ]
-      },
-      {
-        "id": "b90aba7c-a74a-4c78-b009-24b706500e85",
-        "name": "Britney Stevens",
-        "text": "Net Video Girls (2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=britneystevens/gender=f/britney-stevens.htm",
-          "https://www.indexxx.com/m/britney-stevens"
-        ]
-      },
-      {
-        "id": "9b0ff64e-0a33-4df0-b91a-f32939b1f208",
-        "name": "Elizibeth (2004, Reality Kings) AKA Barbie",
-        "text": "Net Video Girls (2005)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=elizibeth_rk_04/gender=f/elizibeth.htm",
-          "https://www.indexxx.com/m/elizibeth"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Brittney (Teen Core Club)",
-        "text": "Teen Core Club",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=brittney_08_russ/gender=f/brittney.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2023-04-06)"
-    ]
-  }
-}
+split:
+  name: Brittney
+  fragments:
+    - id: 999bac77-9b7f-4b91-bcae-a1ff0a163274
+      name: Brittney Skye
+      text: Silvia Saint
+      links:
+        - https://www.iafd.com/person.rme/perfid=brittanyskye/gender=f/brittney-skye.htm
+        - https://www.indexxx.com/m/brittney-skye
+    - id: 2befe9a9-0b41-4586-9636-d3843f5b3ef2
+      name: Britney Foster
+      text: Devil's Film
+      links:
+        - https://www.iafd.com/person.rme/perfid=britneyfoster/gender=f/britney-foster.htm
+        - https://www.indexxx.com/m/britney-foster
+    - id: 0b5f4bef-641a-474f-8d00-75a57ed4fcda
+      name: Jewel Affair
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=jewelaffair/gender=f/jewel-affair.htm
+        - https://www.indexxx.com/m/jewel-affair
+    - id: null
+      name: Brittney (2009, Bang Bros)
+      text: Bang Bus
+      links:
+        - https://www.iafd.com/person.rme/perfid=brittney_bang_09/gender=f/brittney.htm
+        - https://www.indexxx.com/m/brittney-1
+    - id: b90aba7c-a74a-4c78-b009-24b706500e85
+      name: Britney Stevens
+      text: Net Video Girls (2010)
+      links:
+        - https://www.iafd.com/person.rme/perfid=britneystevens/gender=f/britney-stevens.htm
+        - https://www.indexxx.com/m/britney-stevens
+    - id: 9b0ff64e-0a33-4df0-b91a-f32939b1f208
+      name: Elizibeth (2004, Reality Kings) AKA Barbie
+      text: Net Video Girls (2005)
+      links:
+        - https://www.iafd.com/person.rme/perfid=elizibeth_rk_04/gender=f/elizibeth.htm
+        - https://www.indexxx.com/m/elizibeth
+    - id: null
+      name: Brittney (Teen Core Club)
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=brittney_08_russ/gender=f/brittney.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2023-04-06)

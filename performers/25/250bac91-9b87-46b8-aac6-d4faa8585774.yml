@@ -1,30 +1,18 @@
-{
-  "split": {
-    "name": "Esmeralda",
-    "shards": [
-      {
-        "id": null,
-        "name": "Esmeralda",
-        "notes": [
-          "- Twistys",
-          "- Sapphic"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=esmeralda_hun_08/gender=f/esmeralda.htm",
-          "https://www.indexxx.com/m/esmeralda"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Unidentified performer",
-        "text": "1 scene",
-        "links": [
-          "https://stashdb.org/scenes/64ad5753-182a-4791-9792-34f5b46abac9"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Esmeralda
+  fragments:
+    - id: null
+      name: Esmeralda
+      notes:
+        - '- Twistys'
+        - '- Sapphic'
+      links:
+        - https://www.iafd.com/person.rme/perfid=esmeralda_hun_08/gender=f/esmeralda.htm
+        - https://www.indexxx.com/m/esmeralda
+    - id: null
+      name: Unidentified performer
+      text: 1 scene
+      links:
+        - https://stashdb.org/scenes/64ad5753-182a-4791-9792-34f5b46abac9
+  notes:
+    - Mix of multiple performers (partial list)

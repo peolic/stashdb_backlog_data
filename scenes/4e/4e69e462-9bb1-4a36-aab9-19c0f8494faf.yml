@@ -1,44 +1,29 @@
-{
-  "c_studio": [
-    "8th Street Latinas",
-    null
-  ],
-  "comments": [
-    "Performer removed without creating a new one",
-    "https://www.iafd.com/title.rme/title=tasty+twat/year=2002/tasty-twat.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "0edd3e20-e91c-47e5-9b35-b51974fffc73",
-        "name": "Leona",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Adrian",
-        "appearance": null,
-        "disambiguation": "2002, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=adrian_latin_2002/gender=m/adrian.htm",
-        "notes": [
-          "Birthdate possibly 1974-02-20",
-          "https://pornstarlookup.com/pornstar/8233/adrian"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Leona",
-        "appearance": null,
-        "disambiguation": "2002, Reality Kings",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=leona_rk_2002/gender=f/leona.htm",
-        "notes": [
-          "https://www.indexxx.com/m/leona-2"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - Performer removed without creating a new one
+  - https://www.iafd.com/title.rme/title=tasty+twat/year=2002/tasty-twat.htm
+performers:
+  remove:
+    - id: 0edd3e20-e91c-47e5-9b35-b51974fffc73
+      name: Leona
+      appearance: null
+  append:
+    - id: null
+      name: Adrian
+      appearance: null
+      disambiguation: 2002, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=adrian_latin_2002/gender=m/adrian.htm
+      notes:
+        - Birthdate possibly 1974-02-20
+        - https://pornstarlookup.com/pornstar/8233/adrian
+    - id: null
+      name: Leona
+      appearance: null
+      disambiguation: 2002, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=leona_rk_2002/gender=f/leona.htm
+      notes:
+        - https://www.indexxx.com/m/leona-2

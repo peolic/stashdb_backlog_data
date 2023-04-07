@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Kelley",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kelley Rose (2006-2011)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=kellyrose07/gender=f/kelly-rose.htm",
-          "https://www.indexxx.com/m/kelley-1"
-        ]
-      },
-      {
-        "id": "53fa0028-516a-4365-8d03-235201e8d31b",
-        "name": "Lil Bit More",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=lbmore/gender=f/lil-bit-more.htm",
-          "https://www.indexxx.com/m/kelley"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-06)"
-    ]
-  }
-}
+split:
+  name: Kelley
+  fragments:
+    - id: null
+      name: Kelley Rose (2006-2011)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=kellyrose07/gender=f/kelly-rose.htm
+        - https://www.indexxx.com/m/kelley-1
+    - id: 53fa0028-516a-4365-8d03-235201e8d31b
+      name: Lil Bit More
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=lbmore/gender=f/lil-bit-more.htm
+        - https://www.indexxx.com/m/kelley
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-06)

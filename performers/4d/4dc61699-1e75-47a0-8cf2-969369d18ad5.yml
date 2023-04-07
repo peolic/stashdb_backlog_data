@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Laima",
-    "shards": [
-      {
-        "id": "6ebaad45-a768-4971-b1b6-d79d7090bc69",
-        "name": "Layma",
-        "text": "Lez Cuties",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=layma/gender=f/layma.htm",
-          "https://www.indexxx.com/m/laima"
-        ]
-      },
-      {
-        "id": "6c83cb1c-90a8-48dc-b47a-e0b70ee8e110",
-        "name": "Laima R",
-        "text": "Legal Porno",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=laimar/gender=f/laima-r..htm",
-          "https://www.indexxx.com/m/laima-r"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-13)"
-    ]
-  }
-}
+split:
+  name: Laima
+  fragments:
+    - id: 6ebaad45-a768-4971-b1b6-d79d7090bc69
+      name: Layma
+      text: Lez Cuties
+      links:
+        - https://www.iafd.com/person.rme/perfid=layma/gender=f/layma.htm
+        - https://www.indexxx.com/m/laima
+    - id: 6c83cb1c-90a8-48dc-b47a-e0b70ee8e110
+      name: Laima R
+      text: Legal Porno
+      links:
+        - https://www.iafd.com/person.rme/perfid=laimar/gender=f/laima-r..htm
+        - https://www.indexxx.com/m/laima-r
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-13)

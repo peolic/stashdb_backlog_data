@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Danika",
-    "shards": [
-      {
-        "id": "0ba9f791-b1a8-4dd6-bf19-9ef198a2986c",
-        "name": "Davon Kim",
-        "text": "Probably all of DDF",
-        "links": [
-          "https://www.indexxx.com/m/davon-kim",
-          "https://www.iafd.com/person.rme/perfid=davonkim/gender=f/davon-kim.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Danika (2006, Bang Bus)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=danika_bb_06/gender=f/danika.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Danika
+  fragments:
+    - id: 0ba9f791-b1a8-4dd6-bf19-9ef198a2986c
+      name: Davon Kim
+      text: Probably all of DDF
+      links:
+        - https://www.indexxx.com/m/davon-kim
+        - https://www.iafd.com/person.rme/perfid=davonkim/gender=f/davon-kim.htm
+    - id: null
+      name: Danika (2006, Bang Bus)
+      links:
+        - https://www.iafd.com/person.rme/perfid=danika_bb_06/gender=f/danika.htm
+  notes:
+    - Mix of multiple performers (partial list)

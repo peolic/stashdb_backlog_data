@@ -1,17 +1,9 @@
-{
-  "split": {
-    "name": "Tina",
-    "shards": [
-      {
-        "id": null,
-        "name": "Tina (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/tina-5"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Tina
+  fragments:
+    - id: null
+      name: Tina (Nubiles)
+      links:
+        - https://www.indexxx.com/m/tina-5
+  notes:
+    - Mix of multiple performers (partial list)

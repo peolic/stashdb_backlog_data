@@ -1,25 +1,14 @@
-{
-  "split": {
-    "name": "Lara",
-    "shards": [
-      {
-        "id": null,
-        "name": "Lara (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/lara-10"
-        ]
-      },
-      {
-        "id": "8712dfad-cde9-45d1-8398-fdfd0a0fb0f3",
-        "name": "Lara Amour",
-        "text": "Probably done ?",
-        "links": [
-          "https://www.indexxx.com/m/lara-amour"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Lara
+  fragments:
+    - id: null
+      name: Lara (Nubiles)
+      links:
+        - https://www.indexxx.com/m/lara-10
+    - id: 8712dfad-cde9-45d1-8398-fdfd0a0fb0f3
+      name: Lara Amour
+      text: Probably done ?
+      links:
+        - https://www.indexxx.com/m/lara-amour
+  notes:
+    - Mix of multiple performers (partial list)

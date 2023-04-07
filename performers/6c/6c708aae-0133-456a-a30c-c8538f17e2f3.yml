@@ -1,26 +1,15 @@
-{
-  "split": {
-    "name": "Katherine",
-    "shards": [
-      {
-        "id": null,
-        "name": "Katherine (The Life Erotic)",
-        "links": [
-          "https://www.indexxx.com/m/katherine-10"
-        ]
-      },
-      {
-        "id": "bded9508-84e5-4729-892f-9ba1991613f4",
-        "name": "Amy Days",
-        "text": "Nubiles",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=katherine_07/gender=f/katherine.htm",
-          "https://www.indexxx.com/m/katherine"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Katherine
+  fragments:
+    - id: null
+      name: Katherine (The Life Erotic)
+      links:
+        - https://www.indexxx.com/m/katherine-10
+    - id: bded9508-84e5-4729-892f-9ba1991613f4
+      name: Amy Days
+      text: Nubiles
+      links:
+        - https://www.iafd.com/person.rme/perfid=katherine_07/gender=f/katherine.htm
+        - https://www.indexxx.com/m/katherine
+  notes:
+    - Mix of multiple performers (partial list)

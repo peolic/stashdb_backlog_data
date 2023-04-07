@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Lucie",
-    "shards": [
-      {
-        "id": "1e793356-e1d9-476e-aea7-771ab6c7bc47",
-        "name": "Samantha Wow",
-        "text": "(Lucie @ Nubiles)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=samanthawow/gender=f/samantha-wow.htm",
-          "https://www.indexxx.com/m/samantha-wow"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Lucie
+  fragments:
+    - id: 1e793356-e1d9-476e-aea7-771ab6c7bc47
+      name: Samantha Wow
+      text: (Lucie @ Nubiles)
+      links:
+        - https://www.iafd.com/person.rme/perfid=samanthawow/gender=f/samantha-wow.htm
+        - https://www.indexxx.com/m/samantha-wow
+  notes:
+    - Mix of multiple performers (partial list)

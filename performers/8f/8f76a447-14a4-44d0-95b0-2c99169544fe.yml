@@ -1,37 +1,23 @@
-{
-  "split": {
-    "name": "Dasha",
-    "shards": [
-      {
-        "id": null,
-        "name": "Dasha (LegalPorno)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dasha_rus_15/gender=f/dasha.htm",
-          "https://www.indexxx.com/m/dasha-4"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Dasha (UKR)",
-        "text": "DDF Network",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=dasha_rus_05/gender=f/dasha.htm",
-          "https://www.indexxx.com/m/dasha"
-        ]
-      },
-      {
-        "id": "4a862882-53d8-4a44-b6f3-f031d25b7cdb",
-        "name": "Natalya C",
-        "text": "18videoz (2012)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nata_18/gender=f/nata.htm",
-          "https://www.indexxx.com/m/natalya-c",
-          "https://1passforallsites.com/model?id=950"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Dasha
+  fragments:
+    - id: null
+      name: Dasha (LegalPorno)
+      links:
+        - https://www.iafd.com/person.rme/perfid=dasha_rus_15/gender=f/dasha.htm
+        - https://www.indexxx.com/m/dasha-4
+    - id: null
+      name: Dasha (UKR)
+      text: DDF Network
+      links:
+        - https://www.iafd.com/person.rme/perfid=dasha_rus_05/gender=f/dasha.htm
+        - https://www.indexxx.com/m/dasha
+    - id: 4a862882-53d8-4a44-b6f3-f031d25b7cdb
+      name: Natalya C
+      text: 18videoz (2012)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nata_18/gender=f/nata.htm
+        - https://www.indexxx.com/m/natalya-c
+        - https://1passforallsites.com/model?id=950
+  notes:
+    - Mix of multiple performers (partial list)

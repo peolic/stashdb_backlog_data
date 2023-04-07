@@ -1,29 +1,18 @@
-{
-  "c_studio": [
-    "Teen Teacher",
-    null
-  ],
-  "comments": [
-    "Same as School Bus Girls #4 Scene #4",
-    "https://www.adultdvdempire.com/2938333/jim-powers-school-bus-girls-4-porn-videos.html",
-    "https://caps1cdn.adultempire.com/r/8280/640/2838280_04190_640.jpg"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "0b8d86ce-fbc8-4765-b1f3-e7595c26dfe7",
-        "name": "Kayla Marie",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Krista Morgan",
-        "appearance": null,
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - Teen Teacher
+  - null
+comments:
+  - 'Same as School Bus Girls #4 Scene #4'
+  - https://www.adultdvdempire.com/2938333/jim-powers-school-bus-girls-4-porn-videos.html
+  - https://caps1cdn.adultempire.com/r/8280/640/2838280_04190_640.jpg
+performers:
+  remove:
+    - id: 0b8d86ce-fbc8-4765-b1f3-e7595c26dfe7
+      name: Kayla Marie
+      appearance: null
+  append:
+    - id: null
+      name: Krista Morgan
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm

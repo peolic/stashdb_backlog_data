@@ -1,123 +1,81 @@
-{
-  "split": {
-    "name": "Emma",
-    "shards": [
-      {
-        "id": "6070de80-771a-4fd2-beb7-64cac2d50df1",
-        "name": "Jenny Love",
-        "text": "at least some of Dirty Flix and 18videoz, possibly incorrect aliases",
-        "links": [
-          "http://www.iafd.com/person.rme/perfid=JennyLoo/gender=f/jenny-loo.htm",
-          "https://www.indexxx.com/m/jenny-love"
-        ]
-      },
-      {
-        "id": "a70380a4-5e38-47fd-9844-4f71866316b1",
-        "name": "Emma Diamond AKA Emma Pearl",
-        "notes": [
-          "- Doghouse Digital",
-          "- Mile High Media: Same as Planet Orgy 1 Scene 2"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=emmadiamond/gender=f/emma-diamond.htm",
-          "https://www.indexxx.com/m/emma-pearl-1",
-          "https://www.iafd.com/title.rme/title=planet+orgy+1/year=2013/planet-orgy-1.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Emma (Nubiles)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/emma-2",
-          "https://www.thenude.com/_11771.htm"
-        ]
-      },
-      {
-        "id": "26f1f780-f7d2-4b6a-bf15-4d2cc85e600a",
-        "name": "Natali Blond",
-        "text": "Errotica Archives",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nataliblond/gender=f/natali-blond.htm",
-          "https://www.indexxx.com/m/natali-blond"
-        ]
-      },
-      {
-        "id": "e1bdc9c6-dd5d-40d1-a0b8-1c4f5f7721f2",
-        "name": "Emma (2007-2008, BangBros)",
-        "notes": [
-          "- Ass Parade",
-          "- \u0002Facial Fest\u0003"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=emma_latin_bb/gender=f/emma.htm",
-          "https://www.indexxx.com/m/emma-1",
-          "https://bangbros.com/model17911/emma"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Emma (Teen Mega World)",
-        "text": "Solo Teen Girls",
-        "links": [
-          "https://www.indexxx.com/m/emma-9",
-          "https://teenmegaworld.net/models/emma.html"
-        ]
-      },
-      {
-        "id": "f4446b14-45a1-4b17-a718-6d0825de6468",
-        "name": "Sabina Taylor",
-        "notes": [
-          "- 21 Sextury",
-          "- 21 Bonus",
-          "- 21 Sextreme"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sabinataylor/gender=f/sabina-taylor.htm",
-          "https://www.indexxx.com/m/emma"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Emma (2011, Net Video Girls)",
-        "text": "Net Video Girls (2011)",
-        "notes": [
-          "Ep 2011.18 - Emma"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813"
-        ]
-      },
-      {
-        "id": "8d74f3d1-8b7b-4e2b-a16d-924b3929a8c2",
-        "name": "Emma LaVean AKA Emma Redd",
-        "text": "Street Blowjobs",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=emmared/gender=f/emma-redd.htm",
-          "https://www.indexxx.com/m/emma-lavean"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Emma (2004, Reality Kings)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=emma_rk_04/gender=f/emma.htm",
-          "https://www.indexxx.com/m/emma-5"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Emma (2007, Reality Kings)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=emma_rk_07/gender=f/emma.htm",
-          "https://www.indexxx.com/m/emma-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Emma
+  fragments:
+    - id: 6070de80-771a-4fd2-beb7-64cac2d50df1
+      name: Jenny Love
+      text: at least some of Dirty Flix and 18videoz, possibly incorrect aliases
+      links:
+        - http://www.iafd.com/person.rme/perfid=JennyLoo/gender=f/jenny-loo.htm
+        - https://www.indexxx.com/m/jenny-love
+    - id: a70380a4-5e38-47fd-9844-4f71866316b1
+      name: Emma Diamond AKA Emma Pearl
+      notes:
+        - '- Doghouse Digital'
+        - '- Mile High Media: Same as Planet Orgy 1 Scene 2'
+      links:
+        - https://www.iafd.com/person.rme/perfid=emmadiamond/gender=f/emma-diamond.htm
+        - https://www.indexxx.com/m/emma-pearl-1
+        - https://www.iafd.com/title.rme/title=planet+orgy+1/year=2013/planet-orgy-1.htm
+    - id: null
+      name: Emma (Nubiles)
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/emma-2
+        - https://www.thenude.com/_11771.htm
+    - id: 26f1f780-f7d2-4b6a-bf15-4d2cc85e600a
+      name: Natali Blond
+      text: Errotica Archives
+      links:
+        - https://www.iafd.com/person.rme/perfid=nataliblond/gender=f/natali-blond.htm
+        - https://www.indexxx.com/m/natali-blond
+    - id: e1bdc9c6-dd5d-40d1-a0b8-1c4f5f7721f2
+      name: Emma (2007-2008, BangBros)
+      notes:
+        - '- Ass Parade'
+        - "- \x02Facial Fest\x03"
+      links:
+        - https://www.iafd.com/person.rme/perfid=emma_latin_bb/gender=f/emma.htm
+        - https://www.indexxx.com/m/emma-1
+        - https://bangbros.com/model17911/emma
+    - id: null
+      name: Emma (Teen Mega World)
+      text: Solo Teen Girls
+      links:
+        - https://www.indexxx.com/m/emma-9
+        - https://teenmegaworld.net/models/emma.html
+    - id: f4446b14-45a1-4b17-a718-6d0825de6468
+      name: Sabina Taylor
+      notes:
+        - '- 21 Sextury'
+        - '- 21 Bonus'
+        - '- 21 Sextreme'
+      links:
+        - https://www.iafd.com/person.rme/perfid=sabinataylor/gender=f/sabina-taylor.htm
+        - https://www.indexxx.com/m/emma
+    - id: null
+      name: Emma (2011, Net Video Girls)
+      text: Net Video Girls (2011)
+      notes:
+        - Ep 2011.18 - Emma
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813
+    - id: 8d74f3d1-8b7b-4e2b-a16d-924b3929a8c2
+      name: Emma LaVean AKA Emma Redd
+      text: Street Blowjobs
+      links:
+        - https://www.iafd.com/person.rme/perfid=emmared/gender=f/emma-redd.htm
+        - https://www.indexxx.com/m/emma-lavean
+    - id: null
+      name: Emma (2004, Reality Kings)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=emma_rk_04/gender=f/emma.htm
+        - https://www.indexxx.com/m/emma-5
+    - id: null
+      name: Emma (2007, Reality Kings)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=emma_rk_07/gender=f/emma.htm
+        - https://www.indexxx.com/m/emma-3
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,38 +1,24 @@
-{
-  "c_studio": [
-    "Casting Couch-HD",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=castingcouch-hd+624%3a+lexi+and+lucia/year=2014/castingcouch-hd-624%3a-lexi-and-lucia.htm"
-  ],
-  "date": "2014-09-07",
-  "performers": {
-    "remove": [
-      {
-        "id": "ae3556f7-a82b-4d7f-88bb-d993c604f118",
-        "name": "Lucia",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Paris Rayne",
-        "appearance": "Lucia",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=parisrayne/gender=f/paris-rayne.htm",
-        "notes": [
-          "https://www.indexxx.com/m/paris-rayne",
-          "https://www.thenude.com/Paris%20Rayne_37520.htm"
-        ]
-      },
-      {
-        "id": "82a0eb25-99f7-4cb7-82bb-49ef4a2217e4",
-        "name": "Tee Reel",
-        "appearance": "Chris"
-      }
-    ]
-  },
-  "title": "Lexi Attacks Lucia"
-}
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=castingcouch-hd+624%3a+lexi+and+lucia/year=2014/castingcouch-hd-624%3a-lexi-and-lucia.htm
+date: '2014-09-07'
+performers:
+  remove:
+    - id: ae3556f7-a82b-4d7f-88bb-d993c604f118
+      name: Lucia
+      appearance: null
+  append:
+    - id: null
+      name: Paris Rayne
+      appearance: Lucia
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=parisrayne/gender=f/paris-rayne.htm
+      notes:
+        - https://www.indexxx.com/m/paris-rayne
+        - https://www.thenude.com/Paris%20Rayne_37520.htm
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris
+title: Lexi Attacks Lucia

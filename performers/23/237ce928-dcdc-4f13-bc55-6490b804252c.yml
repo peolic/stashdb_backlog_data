@@ -1,27 +1,16 @@
-{
-  "split": {
-    "name": "Bella",
-    "shards": [
-      {
-        "id": null,
-        "name": "Bella (2009, Reality Kings)",
-        "text": "8th Street Latinas",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bella_09/gender=f/bella.htm",
-          "https://www.indexxx.com/m/bella-12"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Bella (2010, Dare Dorm)",
-        "text": "Dare Dorm (2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bella_rk10/gender=f/bella.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Bella
+  fragments:
+    - id: null
+      name: Bella (2009, Reality Kings)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=bella_09/gender=f/bella.htm
+        - https://www.indexxx.com/m/bella-12
+    - id: null
+      name: Bella (2010, Dare Dorm)
+      text: Dare Dorm (2010)
+      links:
+        - https://www.iafd.com/person.rme/perfid=bella_rk10/gender=f/bella.htm
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,24 +1,13 @@
-{
-  "split": {
-    "name": "Emilie",
-    "shards": [
-      {
-        "id": null,
-        "name": "Emilie (Nubiles)",
-        "links": [
-          "https://www.indexxx.com/m/emilie-1"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Emilie (SapphicErotica)",
-        "links": [
-          "https://www.indexxx.com/m/emilie-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Emilie
+  fragments:
+    - id: null
+      name: Emilie (Nubiles)
+      links:
+        - https://www.indexxx.com/m/emilie-1
+    - id: null
+      name: Emilie (SapphicErotica)
+      links:
+        - https://www.indexxx.com/m/emilie-3
+  notes:
+    - Mix of multiple performers (partial list)

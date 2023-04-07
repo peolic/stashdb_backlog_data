@@ -1,68 +1,45 @@
-{
-  "split": {
-    "name": "Nancy",
-    "shards": [
-      {
-        "id": "7ae1682e-1349-4a29-81bb-42abcb99c614",
-        "name": "Blanka Grain AKA Nancy Blond",
-        "text": "(Mile High)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=blankagrain/gender=f/blanka-grain.htm",
-          "https://www.indexxx.com/m/nancy-blond"
-        ]
-      },
-      {
-        "id": "32014531-c597-4c7d-97f2-9b7984dab51f",
-        "name": "Serena Silva AKA Serena Suarez",
-        "text": "Net Video Girls (2009)",
-        "links": [
-          "https://stashdb.org/performers/b82b2839-a471-443f-b5a1-34f98c0d30d9",
-          "https://www.iafd.com/person.rme/perfid=serenasilva/gender=f/serena-silva.htm",
-          "https://www.indexxx.com/m/serena-silva"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nancy (Teen Core Club)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nancy_10_russ/gender=f/nancy.htm",
-          "https://teencoreclub.com/browsevideos/actor/11106/Nancy"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nancy (2005, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nancy_rk_05/gender=f/nancy.htm",
-          "https://www.indexxx.com/m/nancy-3"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Nancy (2001, Reality Kings)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=nancy_rk_01/gender=f/nancy.htm",
-          "https://www.indexxx.com/m/nancy-2"
-        ]
-      },
-      {
-        "id": "d1662ab8-b570-42a8-9999-a35f429323b9",
-        "name": "Natali Sweets AKA Tonia @ 1 Pass for All Sites",
-        "text": "(I Fucked Her Finally)",
-        "links": [
-          "https://stashdb.org/performers/bb602ee7-2e7a-4af0-961e-68d8f38a9702",
-          "https://www.iafd.com/person.rme/perfid=natalisweets/gender=f/natali-sweets.htm",
-          "https://www.indexxx.com/m/natali-sweets",
-          "https://1passforallsites.com/model?id=456",
-          "https://stashdb.org/scenes/96900d1c-7459-4af9-82d0-ff2f7be5b259",
-          "https://1passforallsites.com/model?id=864",
-          "https://stashdb.org/scenes/a6652258-65d3-461d-b3aa-4558ea3228ab",
-          "https://stashdb.org/scenes/c0159973-31f4-4b22-b876-a0470611d14c"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Nancy
+  fragments:
+    - id: 7ae1682e-1349-4a29-81bb-42abcb99c614
+      name: Blanka Grain AKA Nancy Blond
+      text: (Mile High)
+      links:
+        - https://www.iafd.com/person.rme/perfid=blankagrain/gender=f/blanka-grain.htm
+        - https://www.indexxx.com/m/nancy-blond
+    - id: 32014531-c597-4c7d-97f2-9b7984dab51f
+      name: Serena Silva AKA Serena Suarez
+      text: Net Video Girls (2009)
+      links:
+        - https://stashdb.org/performers/b82b2839-a471-443f-b5a1-34f98c0d30d9
+        - https://www.iafd.com/person.rme/perfid=serenasilva/gender=f/serena-silva.htm
+        - https://www.indexxx.com/m/serena-silva
+    - id: null
+      name: Nancy (Teen Core Club)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nancy_10_russ/gender=f/nancy.htm
+        - https://teencoreclub.com/browsevideos/actor/11106/Nancy
+    - id: null
+      name: Nancy (2005, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nancy_rk_05/gender=f/nancy.htm
+        - https://www.indexxx.com/m/nancy-3
+    - id: null
+      name: Nancy (2001, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=nancy_rk_01/gender=f/nancy.htm
+        - https://www.indexxx.com/m/nancy-2
+    - id: d1662ab8-b570-42a8-9999-a35f429323b9
+      name: Natali Sweets AKA Tonia @ 1 Pass for All Sites
+      text: (I Fucked Her Finally)
+      links:
+        - https://stashdb.org/performers/bb602ee7-2e7a-4af0-961e-68d8f38a9702
+        - https://www.iafd.com/person.rme/perfid=natalisweets/gender=f/natali-sweets.htm
+        - https://www.indexxx.com/m/natali-sweets
+        - https://1passforallsites.com/model?id=456
+        - https://stashdb.org/scenes/96900d1c-7459-4af9-82d0-ff2f7be5b259
+        - https://1passforallsites.com/model?id=864
+        - https://stashdb.org/scenes/a6652258-65d3-461d-b3aa-4558ea3228ab
+        - https://stashdb.org/scenes/c0159973-31f4-4b22-b876-a0470611d14c
+  notes:
+    - Mix of multiple performers (partial list)

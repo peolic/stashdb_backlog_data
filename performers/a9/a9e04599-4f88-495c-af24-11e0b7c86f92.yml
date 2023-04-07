@@ -1,68 +1,41 @@
-{
-  "split": {
-    "name": "Robert",
-    "shards": [
-      {
-        "id": null,
-        "name": "Robert (2016-2017, Sean Cody)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=robert_sc_2/gender=m/robert.htm"
-        ]
-      },
-      {
-        "id": "ec7e08fe-6e69-4f47-a3f3-3971ee9ba38a",
-        "name": "Michael Lope AKA Michal Lope",
-        "text": "Male Reality",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=michaellope/gender=m/michael-lope.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Robert (2018, Reality KIngs)",
-        "text": "GF Revenge (2018)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=robert_gfleaks/gender=m/robert.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Robert (2010, Reality KIngs)",
-        "text": "GF Revenge (2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=robert_gf_10/gender=m/robert.htm"
-        ]
-      },
-      {
-        "id": "d7e59d42-92e5-4cbb-ae78-0ffb1f738b4a",
-        "name": "Robert Rosenberg",
-        "notes": [
-          "- Big Naturals",
-          "- Silvia Saint - scene 1"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=rrosenberg/gender=m/robert-rosenberg.htm"
-        ]
-      },
-      {
-        "id": "4c42ddf9-90cf-4628-933d-a8d3991fb951",
-        "name": "Albert Long",
-        "text": "Bang Bus",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=albertlong/gender=m/albert-long.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Robert (2003, Kink)",
-        "text": "Butt Machine Boys",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=robert2_kink/gender=m/robert.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Robert
+  fragments:
+    - id: null
+      name: Robert (2016-2017, Sean Cody)
+      links:
+        - https://www.iafd.com/person.rme/perfid=robert_sc_2/gender=m/robert.htm
+    - id: ec7e08fe-6e69-4f47-a3f3-3971ee9ba38a
+      name: Michael Lope AKA Michal Lope
+      text: Male Reality
+      links:
+        - https://www.iafd.com/person.rme/perfid=michaellope/gender=m/michael-lope.htm
+    - id: null
+      name: Robert (2018, Reality KIngs)
+      text: GF Revenge (2018)
+      links:
+        - https://www.iafd.com/person.rme/perfid=robert_gfleaks/gender=m/robert.htm
+    - id: null
+      name: Robert (2010, Reality KIngs)
+      text: GF Revenge (2010)
+      links:
+        - https://www.iafd.com/person.rme/perfid=robert_gf_10/gender=m/robert.htm
+    - id: d7e59d42-92e5-4cbb-ae78-0ffb1f738b4a
+      name: Robert Rosenberg
+      notes:
+        - '- Big Naturals'
+        - '- Silvia Saint - scene 1'
+      links:
+        - https://www.iafd.com/person.rme/perfid=rrosenberg/gender=m/robert-rosenberg.htm
+    - id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
+      name: Albert Long
+      text: Bang Bus
+      links:
+        - https://www.iafd.com/person.rme/perfid=albertlong/gender=m/albert-long.htm
+    - id: null
+      name: Robert (2003, Kink)
+      text: Butt Machine Boys
+      links:
+        - https://www.iafd.com/person.rme/perfid=robert2_kink/gender=m/robert.htm
+  notes:
+    - Mix of multiple performers (partial list)

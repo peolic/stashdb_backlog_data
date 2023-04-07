@@ -1,55 +1,32 @@
-{
-  "split": {
-    "name": "Marcus",
-    "shards": [
-      {
-        "id": null,
-        "name": "Marcus (Sean Cody 2005)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marcus_sc_1/gender=m/marcus.htm",
-          "https://gayeroticvideoindex.com/performer/90275"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marcus (Sean Cody 2010)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marcus_sc_2/gender=m/marcus.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Sonny Dahl",
-        "text": "BiEmpire scene 2016",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=sonnydahl/gender=m/sonny-dahl.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marcus (2011, MILF Hunter)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marcus_623475/gender=m/marcus.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marcus (2011, GF Revenge)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=marcus_rk11/gender=m/marcus.htm"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Marcus (Dick Dorm 2011)",
-        "text": "List as unknown male on scene IAFD",
-        "links": [
-          "https://www.iafd.com/title.rme/title=blast+off/year=2011/blast-off.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-09-14)"
-    ]
-  }
-}
+split:
+  name: Marcus
+  fragments:
+    - id: null
+      name: Marcus (Sean Cody 2005)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marcus_sc_1/gender=m/marcus.htm
+        - https://gayeroticvideoindex.com/performer/90275
+    - id: null
+      name: Marcus (Sean Cody 2010)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marcus_sc_2/gender=m/marcus.htm
+    - id: null
+      name: Sonny Dahl
+      text: BiEmpire scene 2016
+      links:
+        - https://www.iafd.com/person.rme/perfid=sonnydahl/gender=m/sonny-dahl.htm
+    - id: null
+      name: Marcus (2011, MILF Hunter)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marcus_623475/gender=m/marcus.htm
+    - id: null
+      name: Marcus (2011, GF Revenge)
+      links:
+        - https://www.iafd.com/person.rme/perfid=marcus_rk11/gender=m/marcus.htm
+    - id: null
+      name: Marcus (Dick Dorm 2011)
+      text: List as unknown male on scene IAFD
+      links:
+        - https://www.iafd.com/title.rme/title=blast+off/year=2011/blast-off.htm
+  notes:
+    - Mix of multiple performers (complete list as of 2022-09-14)

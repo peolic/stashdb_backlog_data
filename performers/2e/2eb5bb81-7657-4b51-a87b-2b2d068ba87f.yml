@@ -1,34 +1,21 @@
-{
-  "split": {
-    "name": "Carmella",
-    "shards": [
-      {
-        "id": "e8ed0eb5-318b-4bfa-b749-1b1614c3d103",
-        "name": "Carmella (2011, Czech)",
-        "notes": [
-          "- Evil Angel",
-          "- Nubiles",
-          "- Rocco Siffredi"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=carmella_11_cz/gender=f/carmella.htm",
-          "https://www.indexxx.com/m/carmella"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Carmella (2011, Net Video Girls)",
-        "text": "Net Video Girls",
-        "notes": [
-          "Ep 2011.14 - Carmela (bad sp: Carmella)"
-        ],
-        "links": [
-          "https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-12-27)"
-    ]
-  }
-}
+split:
+  name: Carmella
+  fragments:
+    - id: e8ed0eb5-318b-4bfa-b749-1b1614c3d103
+      name: Carmella (2011, Czech)
+      notes:
+        - '- Evil Angel'
+        - '- Nubiles'
+        - '- Rocco Siffredi'
+      links:
+        - https://www.iafd.com/person.rme/perfid=carmella_11_cz/gender=f/carmella.htm
+        - https://www.indexxx.com/m/carmella
+    - id: null
+      name: Carmella (2011, Net Video Girls)
+      text: Net Video Girls
+      notes:
+        - 'Ep 2011.14 - Carmela (bad sp: Carmella)'
+      links:
+        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813
+  notes:
+    - Mix of multiple performers (complete list as of 2022-12-27)

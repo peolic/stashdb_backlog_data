@@ -1,58 +1,36 @@
-{
-  "split": {
-    "name": "Parker",
-    "shards": [
-      {
-        "id": null,
-        "name": "Parker (2010, Reality Kings)",
-        "text": "First Time Auditions",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=parker_rk_10/gender=f/parker.htm",
-          "https://www.indexxx.com/m/parker-2"
-        ]
-      },
-      {
-        "id": "958743ee-04c5-4e56-872a-707b12d29b4c",
-        "name": "Brad Knight",
-        "text": "Legal Porno",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bradknight/gender=m/brad-knight.htm",
-          "https://pornworld.com/model/4277/parker"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Parker (2013, Backroom Casting Couch)",
-        "links": [
-          "https://www.backroomcastingcouch.com/models/parker.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Parker (2004, Reality Kings)",
-        "notes": [
-          "- Big Naturals",
-          "- Wives in Pantyhose"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=parker_rk_2004/gender=f/parker.htm",
-          "https://www.indexxx.com/m/parker"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Parker Rowan",
-        "notes": [
-          "- Drill My Hole",
-          "- Str8 Chaser"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=parkerrowan/gender=m/parker-rowan.htm"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Parker
+  fragments:
+    - id: null
+      name: Parker (2010, Reality Kings)
+      text: First Time Auditions
+      links:
+        - https://www.iafd.com/person.rme/perfid=parker_rk_10/gender=f/parker.htm
+        - https://www.indexxx.com/m/parker-2
+    - id: 958743ee-04c5-4e56-872a-707b12d29b4c
+      name: Brad Knight
+      text: Legal Porno
+      links:
+        - https://www.iafd.com/person.rme/perfid=bradknight/gender=m/brad-knight.htm
+        - https://pornworld.com/model/4277/parker
+    - id: null
+      name: Parker (2013, Backroom Casting Couch)
+      links:
+        - https://www.backroomcastingcouch.com/models/parker.html
+    - id: null
+      name: Parker (2004, Reality Kings)
+      notes:
+        - '- Big Naturals'
+        - '- Wives in Pantyhose'
+      links:
+        - https://www.iafd.com/person.rme/perfid=parker_rk_2004/gender=f/parker.htm
+        - https://www.indexxx.com/m/parker
+    - id: null
+      name: Parker Rowan
+      notes:
+        - '- Drill My Hole'
+        - '- Str8 Chaser'
+      links:
+        - https://www.iafd.com/person.rme/perfid=parkerrowan/gender=m/parker-rowan.htm
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,24 +1,14 @@
-{
-  "split": {
-    "name": "Milla",
-    "shards": [
-      {
-        "id": null,
-        "name": "Milla (2016, NVG)",
-        "text": "Net Video Girls (2016)"
-      },
-      {
-        "id": null,
-        "name": "Milla (2006, Twistys)",
-        "text": "Twistys",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=milla_tws_06/gender=f/milla.htm",
-          "https://www.indexxx.com/m/milla-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Milla
+  fragments:
+    - id: null
+      name: Milla (2016, NVG)
+      text: Net Video Girls (2016)
+    - id: null
+      name: Milla (2006, Twistys)
+      text: Twistys
+      links:
+        - https://www.iafd.com/person.rme/perfid=milla_tws_06/gender=f/milla.htm
+        - https://www.indexxx.com/m/milla-1
+  notes:
+    - Mix of multiple performers (partial list)

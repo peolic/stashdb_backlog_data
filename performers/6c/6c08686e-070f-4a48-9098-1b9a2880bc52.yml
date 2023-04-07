@@ -1,7 +1,3 @@
-{
-  "duplicates": {
-    "ids": [
-      "dd08e778-7f5b-4a2e-aab9-09bb39c72ffa"
-    ]
-  }
-}
+duplicates:
+  ids:
+    - dd08e778-7f5b-4a2e-aab9-09bb39c72ffa

@@ -1,63 +1,38 @@
-{
-  "split": {
-    "name": "Candy",
-    "shards": [
-      {
-        "id": null,
-        "name": "Candy (21Sextury, PornWorld)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=candy_h_03/gender=f/candy.htm",
-          "https://www.indexxx.com/m/candy"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Candy (Cumfiesta, Moneytalks)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=candy_rk/gender=f/candy.htm",
-          "https://www.indexxx.com/m/candy-30"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Mandy Casa",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=mandycasa/gender=f/mandy-casa.htm",
-          "https://www.indexxx.com/m/mandy-casa"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Candy Estefana",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=estefana/gender=f/candy-estefana.htm",
-          "https://www.indexxx.com/m/candy-9"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Candy (NVG)"
-      },
-      {
-        "id": null,
-        "name": "Candy (DevilsFilm, BushyBushy)",
-        "links": [
-          "https://www.devilsfilm.com/en/pornstar/view/Candy/1023"
-        ]
-      },
-      {
-        "id": "2e9c0b8f-85cd-4e85-bb02-f6efacc98016",
-        "name": "Carol S. (DDF) AKA Karol B",
-        "text": "Sex Video Casting",
-        "links": [
-          "https://stashdb.org/performers/94ebda22-d1c3-43b9-a6ef-998ca05a658c",
-          "https://www.iafd.com/person.rme/perfid=carol_hun/gender=f/carol.htm",
-          "https://www.indexxx.com/m/cara-3"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Candy
+  fragments:
+    - id: null
+      name: Candy (21Sextury, PornWorld)
+      links:
+        - https://www.iafd.com/person.rme/perfid=candy_h_03/gender=f/candy.htm
+        - https://www.indexxx.com/m/candy
+    - id: null
+      name: Candy (Cumfiesta, Moneytalks)
+      links:
+        - https://www.iafd.com/person.rme/perfid=candy_rk/gender=f/candy.htm
+        - https://www.indexxx.com/m/candy-30
+    - id: null
+      name: Mandy Casa
+      links:
+        - https://www.iafd.com/person.rme/perfid=mandycasa/gender=f/mandy-casa.htm
+        - https://www.indexxx.com/m/mandy-casa
+    - id: null
+      name: Candy Estefana
+      links:
+        - https://www.iafd.com/person.rme/perfid=estefana/gender=f/candy-estefana.htm
+        - https://www.indexxx.com/m/candy-9
+    - id: null
+      name: Candy (NVG)
+    - id: null
+      name: Candy (DevilsFilm, BushyBushy)
+      links:
+        - https://www.devilsfilm.com/en/pornstar/view/Candy/1023
+    - id: 2e9c0b8f-85cd-4e85-bb02-f6efacc98016
+      name: Carol S. (DDF) AKA Karol B
+      text: Sex Video Casting
+      links:
+        - https://stashdb.org/performers/94ebda22-d1c3-43b9-a6ef-998ca05a658c
+        - https://www.iafd.com/person.rme/perfid=carol_hun/gender=f/carol.htm
+        - https://www.indexxx.com/m/cara-3
+  notes:
+    - Mix of multiple performers (partial list)

@@ -1,11 +1,6 @@
-{
-  "duplicates": {
-    "ids": [
-      "2719e3b5-279e-41e3-8045-31c2ed344cf2"
-    ],
-    "notes": [
-      "https://www.iafd.com/person.rme/perfid=teganriley/gender=f/tegan-riley.htm",
-      "https://www.indexxx.com/m/tegan-riley"
-    ]
-  }
-}
+duplicates:
+  ids:
+    - 2719e3b5-279e-41e3-8045-31c2ed344cf2
+  notes:
+    - https://www.iafd.com/person.rme/perfid=teganriley/gender=f/tegan-riley.htm
+    - https://www.indexxx.com/m/tegan-riley

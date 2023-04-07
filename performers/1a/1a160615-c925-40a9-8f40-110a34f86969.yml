@@ -1,23 +1,14 @@
-{
-  "split": {
-    "name": "Austin",
-    "shards": [
-      {
-        "id": "adb8952c-0557-4a65-89ea-d07b378d427f",
-        "name": "Austin Reines",
-        "notes": [
-          "- ALS Scan",
-          "- DDF Network",
-          "- Nubiles"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=austinreines/gender=f/austin-reines.htm",
-          "https://www.indexxx.com/m/austin-reines"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Austin
+  fragments:
+    - id: adb8952c-0557-4a65-89ea-d07b378d427f
+      name: Austin Reines
+      notes:
+        - '- ALS Scan'
+        - '- DDF Network'
+        - '- Nubiles'
+      links:
+        - https://www.iafd.com/person.rme/perfid=austinreines/gender=f/austin-reines.htm
+        - https://www.indexxx.com/m/austin-reines
+  notes:
+    - Mix of multiple performers (partial list)

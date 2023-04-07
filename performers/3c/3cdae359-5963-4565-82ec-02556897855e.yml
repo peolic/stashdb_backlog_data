@@ -1,19 +1,11 @@
-{
-  "split": {
-    "name": "Elaine",
-    "shards": [
-      {
-        "id": "b3ae1e46-3b07-4211-aae0-400f5be0dbdd",
-        "name": "Ashanti A",
-        "text": "Sapphic Erotica",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=ashantia/gender=f/ashanti-a.htm",
-          "https://www.indexxx.com/m/ashanti"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Elaine
+  fragments:
+    - id: b3ae1e46-3b07-4211-aae0-400f5be0dbdd
+      name: Ashanti A
+      text: Sapphic Erotica
+      links:
+        - https://www.iafd.com/person.rme/perfid=ashantia/gender=f/ashanti-a.htm
+        - https://www.indexxx.com/m/ashanti
+  notes:
+    - Mix of multiple performers (partial list)

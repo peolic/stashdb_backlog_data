@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Nadina",
-    "shards": [
-      {
-        "id": "ad7295a3-02ec-4735-92a5-d11f36b756d7",
-        "name": "Anstice",
-        "text": "(Teen Mega World)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=anstice_rus/gender=f/anstice.htm",
-          "https://www.indexxx.com/m/anstice"
-        ]
-      },
-      {
-        "id": "bc7cc31c-0f84-4b70-83d9-22f4caf6fda3",
-        "name": "Aaralyn",
-        "text": "(Sapphic Erotica)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=aaralyn/gender=f/aaralyn.htm",
-          "https://www.indexxx.com/m/carey"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-06-21)"
-    ]
-  }
-}
+split:
+  name: Nadina
+  fragments:
+    - id: ad7295a3-02ec-4735-92a5-d11f36b756d7
+      name: Anstice
+      text: (Teen Mega World)
+      links:
+        - https://www.iafd.com/person.rme/perfid=anstice_rus/gender=f/anstice.htm
+        - https://www.indexxx.com/m/anstice
+    - id: bc7cc31c-0f84-4b70-83d9-22f4caf6fda3
+      name: Aaralyn
+      text: (Sapphic Erotica)
+      links:
+        - https://www.iafd.com/person.rme/perfid=aaralyn/gender=f/aaralyn.htm
+        - https://www.indexxx.com/m/carey
+  notes:
+    - Mix of multiple performers (complete list as of 2022-06-21)

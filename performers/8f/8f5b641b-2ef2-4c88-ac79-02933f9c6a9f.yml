@@ -1,28 +1,17 @@
-{
-  "split": {
-    "name": "Kristi",
-    "shards": [
-      {
-        "id": null,
-        "name": "Kristi (Nubiles)",
-        "text": "Nubiles",
-        "links": [
-          "https://www.indexxx.com/m/kristi-8",
-          "https://www.thenude.com/_41214.htm"
-        ]
-      },
-      {
-        "id": "1c552f44-916c-49c0-9141-2331d379a3f3",
-        "name": "Christel Starr",
-        "text": "Mike's Apartment",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=christal_eu/gender=f/christel-starr.htm",
-          "https://www.indexxx.com/m/christal"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-13)"
-    ]
-  }
-}
+split:
+  name: Kristi
+  fragments:
+    - id: null
+      name: Kristi (Nubiles)
+      text: Nubiles
+      links:
+        - https://www.indexxx.com/m/kristi-8
+        - https://www.thenude.com/_41214.htm
+    - id: 1c552f44-916c-49c0-9141-2331d379a3f3
+      name: Christel Starr
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=christal_eu/gender=f/christel-starr.htm
+        - https://www.indexxx.com/m/christal
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-13)

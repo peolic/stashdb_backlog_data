@@ -1,32 +1,20 @@
-{
-  "split": {
-    "name": "Bambi Stewart",
-    "shards": [
-      {
-        "id": null,
-        "name": "Bambi Stewart",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bambie_h_03/gender=f/bambi.htm",
-          "https://www.indexxx.com/m/bambi"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Unidentified scene",
-        "text": "GF Revenge - data18's images are incorrect (see Christie Nelson)",
-        "links": [
-          "https://stashdb.org/scenes/232972c6-adc2-4bce-9b43-5e7d6efcf7a0",
-          "https://www.data18.com/scenes/1184912",
-          "https://www.data18.com/scenes/1183872"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list), most scenes are probably Bambi Stewart.",
-      "Bambi was renamed to Bambi Stewart, being non unique."
-    ],
-    "links": [
-      "https://stashdb.org/edits/d11ccf8b-e2f8-4c62-933c-2a920ed310e4"
-    ]
-  }
-}
+split:
+  name: Bambi Stewart
+  fragments:
+    - id: null
+      name: Bambi Stewart
+      links:
+        - https://www.iafd.com/person.rme/perfid=bambie_h_03/gender=f/bambi.htm
+        - https://www.indexxx.com/m/bambi
+    - id: null
+      name: Unidentified scene
+      text: GF Revenge - data18's images are incorrect (see Christie Nelson)
+      links:
+        - https://stashdb.org/scenes/232972c6-adc2-4bce-9b43-5e7d6efcf7a0
+        - https://www.data18.com/scenes/1184912
+        - https://www.data18.com/scenes/1183872
+  notes:
+    - Mix of multiple performers (partial list), most scenes are probably Bambi Stewart.
+    - Bambi was renamed to Bambi Stewart, being non unique.
+  links:
+    - https://stashdb.org/edits/d11ccf8b-e2f8-4c62-933c-2a920ed310e4

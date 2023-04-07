@@ -1,32 +1,20 @@
-{
-  "split": {
-    "name": "Jacinda",
-    "shards": [
-      {
-        "id": null,
-        "name": "Joy (Russian, 2005-2006)",
-        "text": "18 Virgin Sex",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=joy_eu_06/gender=f/joy.htm",
-          "https://www.indexxx.com/m/paulina-3",
-          "https://1passforallsites.com/model?id=205"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Jacinda (2007, Reality Kings)",
-        "text": "(possibly Jacinda Moore)",
-        "notes": [
-          "- Street Blowjobs"
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=jacinda_rk07/gender=f/jacinda.htm",
-          "https://www.indexxx.com/m/jacinda"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-13)"
-    ]
-  }
-}
+split:
+  name: Jacinda
+  fragments:
+    - id: null
+      name: Joy (Russian, 2005-2006)
+      text: 18 Virgin Sex
+      links:
+        - https://www.iafd.com/person.rme/perfid=joy_eu_06/gender=f/joy.htm
+        - https://www.indexxx.com/m/paulina-3
+        - https://1passforallsites.com/model?id=205
+    - id: null
+      name: Jacinda (2007, Reality Kings)
+      text: (possibly Jacinda Moore)
+      notes:
+        - '- Street Blowjobs'
+      links:
+        - https://www.iafd.com/person.rme/perfid=jacinda_rk07/gender=f/jacinda.htm
+        - https://www.indexxx.com/m/jacinda
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-13)

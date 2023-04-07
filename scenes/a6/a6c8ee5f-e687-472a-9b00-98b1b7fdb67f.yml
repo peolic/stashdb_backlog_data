@@ -1,27 +1,16 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=video+vixens/year=2006/video-vixens.htm"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "1529ff78-655b-480f-a3c2-b8a91420d1e3",
-        "name": "Mandie",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Lexy Legs",
-        "appearance": "Mandie",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=lexylegs/gender=f/lexy-legs.htm"
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=video+vixens/year=2006/video-vixens.htm
+performers:
+  remove:
+    - id: 1529ff78-655b-480f-a3c2-b8a91420d1e3
+      name: Mandie
+      appearance: null
+  append:
+    - id: null
+      name: Lexy Legs
+      appearance: Mandie
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=lexylegs/gender=f/lexy-legs.htm

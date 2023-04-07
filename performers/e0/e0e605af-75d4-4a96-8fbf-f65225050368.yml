@@ -1,40 +1,26 @@
-{
-  "split": {
-    "name": "Barby",
-    "shards": [
-      {
-        "id": "9171ff24-41d0-4e65-8d02-b55a9f53ca72",
-        "name": "Barbara Voice",
-        "text": "Silvia Saint",
-        "notes": [
-          "Based on tagged performers, might be scene #2 of Private Gold 54: Private Gladiator, originally."
-        ],
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=barbaravoice/gender=f/barbara-voice.htm",
-          "https://www.indexxx.com/m/barbara-voice",
-          "https://stashdb.org/scenes/8ed6798e-edf1-46e2-acb2-a408f744703a",
-          "https://www.hotmovies.com/video/18024/The-Private-Gladiator/"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Barby (Teen Mega World)",
-        "links": [
-          "https://www.indexxx.com/m/barby",
-          "https://teenmegaworld.net/models/barby.html"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Barby (2006, DDF Network)",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=barby_ddf/gender=f/barby.htm",
-          "https://www.indexxx.com/m/barby-1"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-07-08)"
-    ]
-  }
-}
+split:
+  name: Barby
+  fragments:
+    - id: 9171ff24-41d0-4e65-8d02-b55a9f53ca72
+      name: Barbara Voice
+      text: Silvia Saint
+      notes:
+        - 'Based on tagged performers, might be scene #2 of Private Gold 54: Private
+          Gladiator, originally.'
+      links:
+        - https://www.iafd.com/person.rme/perfid=barbaravoice/gender=f/barbara-voice.htm
+        - https://www.indexxx.com/m/barbara-voice
+        - https://stashdb.org/scenes/8ed6798e-edf1-46e2-acb2-a408f744703a
+        - https://www.hotmovies.com/video/18024/The-Private-Gladiator/
+    - id: null
+      name: Barby (Teen Mega World)
+      links:
+        - https://www.indexxx.com/m/barby
+        - https://teenmegaworld.net/models/barby.html
+    - id: null
+      name: Barby (2006, DDF Network)
+      links:
+        - https://www.iafd.com/person.rme/perfid=barby_ddf/gender=f/barby.htm
+        - https://www.indexxx.com/m/barby-1
+  notes:
+    - Mix of multiple performers (complete list as of 2022-07-08)

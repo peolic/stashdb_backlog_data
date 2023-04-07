@@ -1,27 +1,17 @@
-{
-  "c_studio": [
-    "Tugjobs",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=kylie+1/year=2004/kylie-1.htm"
-  ],
-  "performers": {
-    "remove": [],
-    "append": [
-      {
-        "id": null,
-        "name": "Kylie Kurves",
-        "appearance": "Kylie",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=kyliekurves/gender=f/kylie-kurves.htm"
-      },
-      {
-        "id": "1b64412c-13d4-4912-8f60-7215f532d78e",
-        "name": "Gino",
-        "appearance": null,
-        "disambiguation": "2004-05, Bang Bros"
-      }
-    ]
-  }
-}
+c_studio:
+  - Tugjobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=kylie+1/year=2004/kylie-1.htm
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Kylie Kurves
+      appearance: Kylie
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=kyliekurves/gender=f/kylie-kurves.htm
+    - id: 1b64412c-13d4-4912-8f60-7215f532d78e
+      name: Gino
+      appearance: null
+      disambiguation: 2004-05, Bang Bros

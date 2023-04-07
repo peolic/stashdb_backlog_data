@@ -1,63 +1,40 @@
-{
-  "split": {
-    "name": "Polina",
-    "shards": [
-      {
-        "id": "1d78ac63-4b5c-4730-aca5-66eee7601907",
-        "name": "Bretta",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=bretta_rus/gender=f/bretta.htm",
-          "https://www.indexxx.com/m/tanata"
-        ]
-      },
-      {
-        "id": "28b90241-3f19-4fda-beff-465a9b5b7b81",
-        "name": "Pola Sunshine",
-        "links": [
-          "https://www.indexxx.com/m/pola-sunshine"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Kaylie (RU)",
-        "text": "1 scene at least",
-        "links": [
-          "https://www.indexxx.com/m/kaylie",
-          "https://stashdb.org/scenes/9fec6044-aac6-4d4c-b03f-ee597178ae43"
-        ]
-      },
-      {
-        "id": "0766f079-2ffe-4096-9c52-032ed27f4b73",
-        "name": "Polina (UKR)",
-        "text": "1 scene at least",
-        "links": [
-          "https://www.indexxx.com/m/polina",
-          "https://stashdb.org/scenes/94c37a48-61f2-47a3-a9e2-8d0b9b09995a"
-        ]
-      },
-      {
-        "id": null,
-        "name": "Anette",
-        "text": "Some 1 Pass for All Sites",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=roxanna_eu_07/gender=f/roxana.htm",
-          "https://www.indexxx.com/m/anette",
-          "https://1passforallsites.com/model?id=166"
-        ]
-      },
-      {
-        "id": "1cda722d-7903-44db-9b03-24060f58db9d",
-        "name": "Chanelle (Sapphic Erotica)",
-        "text": "Teen Mega World",
-        "links": [
-          "https://www.iafd.com/person.rme/perfid=hazel_rus/gender=f/hazel.htm",
-          "https://www.indexxx.com/m/hazel",
-          "https://teenmegaworld.net/models/polina.html"
-        ]
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (partial list)"
-    ]
-  }
-}
+split:
+  name: Polina
+  fragments:
+    - id: 1d78ac63-4b5c-4730-aca5-66eee7601907
+      name: Bretta
+      links:
+        - https://www.iafd.com/person.rme/perfid=bretta_rus/gender=f/bretta.htm
+        - https://www.indexxx.com/m/tanata
+    - id: 28b90241-3f19-4fda-beff-465a9b5b7b81
+      name: Pola Sunshine
+      links:
+        - https://www.indexxx.com/m/pola-sunshine
+    - id: null
+      name: Kaylie (RU)
+      text: 1 scene at least
+      links:
+        - https://www.indexxx.com/m/kaylie
+        - https://stashdb.org/scenes/9fec6044-aac6-4d4c-b03f-ee597178ae43
+    - id: 0766f079-2ffe-4096-9c52-032ed27f4b73
+      name: Polina (UKR)
+      text: 1 scene at least
+      links:
+        - https://www.indexxx.com/m/polina
+        - https://stashdb.org/scenes/94c37a48-61f2-47a3-a9e2-8d0b9b09995a
+    - id: null
+      name: Anette
+      text: Some 1 Pass for All Sites
+      links:
+        - https://www.iafd.com/person.rme/perfid=roxanna_eu_07/gender=f/roxana.htm
+        - https://www.indexxx.com/m/anette
+        - https://1passforallsites.com/model?id=166
+    - id: 1cda722d-7903-44db-9b03-24060f58db9d
+      name: Chanelle (Sapphic Erotica)
+      text: Teen Mega World
+      links:
+        - https://www.iafd.com/person.rme/perfid=hazel_rus/gender=f/hazel.htm
+        - https://www.indexxx.com/m/hazel
+        - https://teenmegaworld.net/models/polina.html
+  notes:
+    - Mix of multiple performers (partial list)

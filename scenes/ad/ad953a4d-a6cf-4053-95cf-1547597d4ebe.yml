@@ -1,33 +1,21 @@
-{
-  "c_studio": [
-    "We Live Together",
-    null
-  ],
-  "comments": [
-    "https://www.iafd.com/title.rme/title=camille+toe/year=2007/camille-toe.htm",
-    "https://www.indexxx.com/set/32718/we-live-together-camille-marlie-moore-nikki/"
-  ],
-  "performers": {
-    "remove": [
-      {
-        "id": "3da23023-5fdd-488b-bfb1-dd624f58e919",
-        "name": "Camille",
-        "appearance": null
-      }
-    ],
-    "append": [
-      {
-        "id": null,
-        "name": "Camille",
-        "appearance": null,
-        "disambiguation": "2007",
-        "status": "new",
-        "status_url": "https://www.iafd.com/person.rme/perfid=camille_rk07/gender=f/camille.htm",
-        "notes": [
-          "https://www.indexxx.com/m/camille",
-          "https://nubiles.net/model/profile/641/Camille"
-        ]
-      }
-    ]
-  }
-}
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=camille+toe/year=2007/camille-toe.htm
+  - https://www.indexxx.com/set/32718/we-live-together-camille-marlie-moore-nikki/
+performers:
+  remove:
+    - id: 3da23023-5fdd-488b-bfb1-dd624f58e919
+      name: Camille
+      appearance: null
+  append:
+    - id: null
+      name: Camille
+      appearance: null
+      disambiguation: '2007'
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=camille_rk07/gender=f/camille.htm
+      notes:
+        - https://www.indexxx.com/m/camille
+        - https://nubiles.net/model/profile/641/Camille

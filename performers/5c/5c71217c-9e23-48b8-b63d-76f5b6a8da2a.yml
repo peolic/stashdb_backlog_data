@@ -1,14 +1,7 @@
-{
-  "split": {
-    "name": "Derrick",
-    "shards": [
-      {
-        "id": null,
-        "name": "Derrick (Devil's Film)"
-      }
-    ],
-    "notes": [
-      "Mix of multiple performers (complete list as of 2022-10-22)"
-    ]
-  }
-}
+split:
+  name: Derrick
+  fragments:
+    - id: null
+      name: Derrick (Devil's Film)
+  notes:
+    - Mix of multiple performers (complete list as of 2022-10-22)
