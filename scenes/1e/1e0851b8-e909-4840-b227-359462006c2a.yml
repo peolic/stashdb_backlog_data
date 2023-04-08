@@ -11,6 +11,7 @@ performers:
     - id: b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb
       name: Kaily
       appearance: null
+      status: edit
   append:
     - id: null
       name: Kiki Lux
