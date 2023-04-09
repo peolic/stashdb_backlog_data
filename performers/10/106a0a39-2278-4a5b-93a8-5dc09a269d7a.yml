@@ -1,8 +1,11 @@
 split:
   name: Miles
   fragments:
-    - id: null
+    - id: 83ad527a-6193-4cfc-b364-d646af273937
       name: Miles (Oldje 2012)
+      notes:
+        - "- \x02Oldje\x03"
+        - '- Beauty And The Senior'
       links:
         - https://www.iafd.com/person.rme/perfid=miles_oldje/gender=m/miles.htm
   notes:
