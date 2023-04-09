@@ -10,11 +10,11 @@ performers:
       name: Nikki
       appearance: null
   append:
-    - id: null
+    - id: 52a099dd-f70d-4876-baef-3dc40069840a
       name: Sasha Shyne
       appearance: Nikki
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=sashashyne/gender=f/sasha-shyne.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=sashashyne/gender=f/sasha-shyne.htm
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
