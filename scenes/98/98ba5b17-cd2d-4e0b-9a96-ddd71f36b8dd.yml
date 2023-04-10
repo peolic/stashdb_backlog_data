@@ -9,11 +9,9 @@ performers:
       name: Joey
       appearance: null
   append:
-    - id: null
+    - id: 77c38385-2eb2-4b6f-8237-516b25b35ab1
       name: Joey
       appearance: null
       disambiguation: 2005, We Live Together
-      status: c
-      status_url: https://stashdb.org/edits/4f5a46dc-f6df-4fe5-b115-daf9e2df1820
       notes:
         - https://www.iafd.com/person.rme/perfid=joey_rk05/gender=f/joey.htm

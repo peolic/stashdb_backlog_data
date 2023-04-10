@@ -9,10 +9,8 @@ performers:
       name: Alex
       appearance: null
   append:
-    - id: null
+    - id: cb3fe8bd-ee15-43b9-88c2-be072b4b8218
       name: Alex Venice
       appearance: Alex
-      status: c
-      status_url: https://stashdb.org/edits/9d6db7dc-30c0-4242-aef6-2abd09c07acf
       notes:
         - https://www.iafd.com/person.rme/perfid=alexvenice/gender=f/alex-venice.htm
