@@ -8,11 +8,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 07054dcf-929b-4342-afca-fbfeef6b8bd9
       name: Roberta
       appearance: null
       disambiguation: 2002, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/6ee09dfd-e231-4b12-bd9e-ff28d3513c29
       notes:
         - https://www.indexxx.com/m/roberta-1
