@@ -1,11 +1,5 @@
 split:
   name: Alexander
-  fragments:
-    - id: null
-      name: Alexander Anrev
-      text: at least 1 scene
-      links:
-        - https://www.iafd.com/person.rme/perfid=alexanderandrev/gender=m/alexander-andrev.htm
-        - https://stashdb.org/scenes/b276cdb1-9c45-4ba2-abc0-e7bb322e2767
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

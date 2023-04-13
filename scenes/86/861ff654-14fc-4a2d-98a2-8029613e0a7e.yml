@@ -15,7 +15,8 @@ performers:
       name: Joan
       appearance: null
       disambiguation: 2015, NVG
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/6b01f7dd-3964-4992-9225-27930458fa49
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
