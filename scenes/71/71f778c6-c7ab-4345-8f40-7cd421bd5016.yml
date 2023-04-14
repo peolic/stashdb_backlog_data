@@ -6,18 +6,8 @@ comments:
   - Ep 2015-01-28 - Gabby ... Reina Storm / Tova Storm (CCHD)
 date: '2015-01-28'
 performers:
-  remove:
-    - id: 4bc7cb18-337a-4e9e-9a47-8467c240e737
-      name: Gabby
-      appearance: null
+  remove: []
   append:
-    - id: null
-      name: Tova Storm
-      appearance: Gabby
-      status: c
-      status_url: https://stashdb.org/edits/0fe66f17-7371-453c-b5db-db86f2cb10b1
-      notes:
-        - https://www.iafd.com/person.rme/perfid=tovastorm/gender=f/tova-storm.htm
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris

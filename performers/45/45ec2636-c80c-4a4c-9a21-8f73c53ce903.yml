@@ -1,17 +1,6 @@
 split:
   name: Summer
   fragments:
-    - id: null
-      name: Summer Smith
-      text: 2006 We Live Together
-      links:
-        - https://www.iafd.com/person.rme/perfid=summersmith_06/gender=f/summer-smith.htm
-        - https://www.indexxx.com/m/summer-smith
-    - id: null
-      name: Summer (2005, We Live Together)
-      links:
-        - https://www.iafd.com/person.rme/perfid=summer_rk05/gender=f/summer.htm
-        - https://www.indexxx.com/m/summer-3
     - id: a16e96c3-f2b3-4976-b2db-10fd4bb70413
       name: Summer Brooks (Hungarian)
       text: 'scenes from:'

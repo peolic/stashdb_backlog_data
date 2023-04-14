@@ -1,11 +1,6 @@
 split:
   name: Gabby
   fragments:
-    - id: null
-      name: Tova Storm / Reina Storm
-      text: Casting Couch-HD
-      links:
-        - https://www.iafd.com/person.rme/perfid=tovastorm/gender=f/tova-storm.htm
     - id: d3525890-1067-4bae-8894-7c1a8777f5bc
       name: Barbie Smiles / Lisa Smiles (US)
       text: Net Video Girls

@@ -9,14 +9,8 @@ comments:
   - Ep 2014-12-25 - Praisley ... Brooke Summers (CCHD)
 date: '2014-12-25'
 performers:
-  remove:
-    - id: 0c0ba619-336b-48fe-aa0e-8ce663bcda3f
-      name: Paisley
-      appearance: null
+  remove: []
   append:
-    - id: a8f145ca-5b18-4dc5-8312-4f4a2e8e2ac2
-      name: Brooke Summers
-      appearance: Paisley
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris

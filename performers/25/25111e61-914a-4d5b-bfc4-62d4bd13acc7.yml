@@ -1,12 +1,6 @@
 split:
   name: Emily
   fragments:
-    - id: null
-      name: Emily (2007, Reality Kings)
-      text: We Live Together
-      links:
-        - https://www.iafd.com/person.rme/perfid=emily_rk_08/gender=f/emily.htm
-        - https://www.indexxx.com/m/emily-3
     - id: bca15ef1-151e-4aa9-b1c3-8071ca66fcd8
       name: Yuki AKA Tatianna Yuki, Tassie
       text: Teen Core Club

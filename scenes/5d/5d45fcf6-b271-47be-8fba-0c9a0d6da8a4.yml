@@ -6,19 +6,8 @@ comments:
   - Ep 2015-07-04 - Kristen ... Kelsie Cage (CCHD)
 date: '2015-07-04'
 performers:
-  remove:
-    - id: 926c7197-6f74-4b69-beec-6abf2970ddd2
-      name: Kristen
-      appearance: null
+  remove: []
   append:
-    - id: null
-      name: Kelsie Cage
-      appearance: Kristen
-      status: c
-      status_url: https://stashdb.org/edits/0c02df74-b179-48b2-9e00-378050668871
-      notes:
-        - https://forum.adultdvdtalk.com/kelsie-cage
-        - https://web.archive.org/web/20150821063258/http://idealimagemodels.com/models/kelsie-cage
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris

@@ -6,18 +6,8 @@ comments:
   - Ep 2015-07-29 - Mara ... Kat Indigo (CCHD)
 date: '2015-07-29'
 performers:
-  remove:
-    - id: 8c6ebf76-2701-478a-9eda-df6fa055de72
-      name: Mara
-      appearance: null
+  remove: []
   append:
-    - id: null
-      name: Kat Indigo
-      appearance: Mara
-      status: new
-      status_url: https://www.freeones.com/forums/threads/kat-indigo-foxynova.852332/
-      notes:
-        - https://web.archive.org/web/20150805124002/http://idealimagemodels.com/models/kat-indigo/
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris

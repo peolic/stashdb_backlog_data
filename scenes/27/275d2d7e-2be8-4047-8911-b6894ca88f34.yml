@@ -13,18 +13,10 @@ performers:
       name: Kaily
       appearance: null
       status: edit
-    - id: f43c2a58-c981-4ee5-aaf2-55a40dfc0e12
-      name: Julie
-      appearance: null
   append:
-    - id: null
+    - id: b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb
       name: Kiki Lux
       appearance: Kaily
-      status: new
-      status_url: https://web.archive.org/web/20140806005207/http://idealimagemanagement.com/main/profile.php?talent_id=554
-    - id: a1fa2834-4c9a-4778-baaf-7650f1c43d17
-      name: Danielle Diamond
-      appearance: Julie
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
