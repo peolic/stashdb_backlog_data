@@ -1,12 +1,6 @@
 split:
   name: Julie
   fragments:
-    - id: a1fa2834-4c9a-4778-baaf-7650f1c43d17
-      name: Danielle Diamond
-      text: (2014 NVG Network)
-      links:
-        - https://www.iafd.com/person.rme/perfid=daniellediamond/gender=f/danielle-diamond.htm
-        - https://www.indexxx.com/m/danielle-diamond
     - id: d6136a19-14d9-421a-8ddd-a76aeefe2197
       name: Angel Long
       text: (Teen Teacher)
