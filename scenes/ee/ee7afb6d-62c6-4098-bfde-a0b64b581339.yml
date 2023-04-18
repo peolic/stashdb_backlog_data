@@ -9,11 +9,11 @@ performers:
       name: Tiffani
       appearance: null
   append:
-    - id: null
+    - id: bd17f0a8-5134-467e-8d45-539cb5558457
       name: Tiffany Martin
       appearance: Tiffani
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=tiffanymartin/gender=f/tiffany-martin.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=tiffanymartin/gender=f/tiffany-martin.htm
     - id: 8a8d1b88-9925-4708-bc57-3dc7072ac7fc
       name: Derrick Pierce
       appearance: null
