@@ -1,0 +1,19 @@
+split:
+  name: Jessy
+  fragments:
+    - id: e22f713f-32f9-4973-a463-729b47a3a138
+      name: Jessy (2003, Captain Stabbin)
+      text: Captain Stabbin
+      links:
+        - https://www.iafd.com/person.rme/perfid=jessy_rk_03/gender=f/jessy.htm
+        - https://www.indexxx.com/m/jessy-3
+        - https://stashdb.org/scenes/1d65d9eb-dd68-48a5-972e-7b2caf066fa3
+    - id: 40c2d9b9-73c4-4e53-8907-70ff7037d820
+      name: Jessy (2006, 8th Street Latinas)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=jessy_rk_06/gender=f/jessy.htm
+        - https://www.indexxx.com/m/jessy-2
+        - https://stashdb.org/scenes/505cb62f-f6d3-4520-a030-a78f9dff1741
+  notes:
+    - Mix of multiple performers (complete list as of 2023-04-20)

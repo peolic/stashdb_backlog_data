@@ -10,5 +10,7 @@ performers:
       name: Natasha
       appearance: null
       disambiguation: 2004-05
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=natasha_bb/gender=f/natasha.htm
+      status: c
+      status_url: https://stashdb.org/edits/eb8b151a-baea-4bcd-b112-201801cd3628
+      notes:
+        - https://www.iafd.com/person.rme/perfid=natasha_bb/gender=f/natasha.htm

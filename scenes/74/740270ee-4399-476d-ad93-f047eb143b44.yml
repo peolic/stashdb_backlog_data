@@ -13,5 +13,7 @@ performers:
       name: Phoebe
       appearance: null
       disambiguation: 2006, We Live Together
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=phoebe_06_rk/gender=f/phoebe.htm
+      status: c
+      status_url: https://stashdb.org/edits/2f9b3b71-9521-409a-8ac2-6517a5abf05b
+      notes:
+        - https://www.iafd.com/person.rme/perfid=phoebe_06_rk/gender=f/phoebe.htm

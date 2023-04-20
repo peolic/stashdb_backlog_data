@@ -2,10 +2,9 @@ split:
   name: Nikita D
   fragments:
     - id: dc86b689-8f5f-405f-9fcb-c28998129910
-      name: Nikita Williams AKA Nikitta
-      text: (Viv Thomas)
+      name: Nikita Williams
+      text: Viv Thomas
       links:
-        - https://stashdb.org/performers/3f4f802d-bcb1-4a01-9334-efa4015b1985
         - https://www.iafd.com/person.rme/perfid=nikita_hun_07/gender=f/nikita.htm
         - https://www.indexxx.com/m/nikita-1
     - id: 21efd0d2-a61e-456c-bfc6-38187c886489
