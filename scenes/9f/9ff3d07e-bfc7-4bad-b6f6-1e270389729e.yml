@@ -5,16 +5,10 @@ comments:
   - fix alias
   - https://www.iafd.com/title.rme/title=netvideogirls+1826%3a+violet/year=2019/netvideogirls_1826%3a_violet.htm
 performers:
-  remove:
-    - id: 44b9c1f5-739b-4098-8272-647b50a4916a
-      name: Violet
-      appearance: null
-  append:
+  remove: []
+  append: []
+  update:
     - id: d3a105b4-62f8-48ea-b1a5-1871b6d31f78
       name: Violet Smith
       appearance: Violet
-  update:
-    - id: 781c8dea-4dd0-4ea6-ba72-d64ffd445208
-      name: Tyler D.
-      appearance: Tyler
-      old_appearance: null
+      old_appearance: Voilet
