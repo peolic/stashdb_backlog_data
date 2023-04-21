@@ -1,0 +1,18 @@
+c_studio:
+  - Gag-n-Gape
+  - null
+comments:
+  - https://www.iafd.com/title.rme/title=gag-n-gape%3a+pocahontas/year=2009/gag-n-gape%3a-pocahontas.htm
+  - https://www.indexxx.com/set/430677/gag-n-gape-pocahontas/
+performers:
+  remove:
+    - id: d04db2a3-ea1e-4d20-b4e9-0a682efd74d7
+      name: Pocahontas
+      appearance: null
+  append:
+    - id: df932f86-a110-46a2-92ff-28b87f35d7eb
+      name: Barbamiska
+      appearance: Pocahontas
+    - id: 935bbba6-3c5c-4c83-aeb2-ba321b091257
+      name: Oliver Strelly
+      appearance: null
