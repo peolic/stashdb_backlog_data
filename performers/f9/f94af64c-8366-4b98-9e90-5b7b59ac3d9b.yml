@@ -1,11 +1,6 @@
 split:
   name: Phoenix
   fragments:
-    - id: 829b66e4-231a-435c-b1e9-ea36ef09fef5
-      name: Phoenix Ray
-      links:
-        - https://www.iafd.com/person.rme/perfid=phoenixray/gender=f/phoenix-ray.htm
-        - https://www.indexxx.com/m/phoenix-ray
     - id: null
       name: Phoenix (ALS Scan)
       links:
@@ -14,5 +9,11 @@ split:
       name: Phoenix (2005, Tug Jobs)
       links:
         - https://www.indexxx.com/m/phoenix
+    - id: 5c448881-5e86-4fb5-9bb1-eb45ea8a63f8
+      name: Radislava Bon
+      text: Teen Core Club
+      links:
+        - https://www.iafd.com/person.rme/perfid=maryrouge/gender=f/mary-rouge.htm
+        - https://www.indexxx.com/m/radislava-bon
   notes:
     - Mix of multiple performers.
