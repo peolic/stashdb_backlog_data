@@ -5,6 +5,8 @@ on:
   schedule:
     - cron: '0 */1 * * *'
 
+concurrency: ci-${{ github.ref }}
+
 jobs:
   main:
     name: Update Data
