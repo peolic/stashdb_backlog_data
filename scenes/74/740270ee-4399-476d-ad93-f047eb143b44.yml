@@ -9,11 +9,9 @@ performers:
       name: Phoebe
       appearance: null
   append:
-    - id: null
+    - id: 324b34bd-3584-47ee-a974-54231b11b3dd
       name: Phoebe
       appearance: null
       disambiguation: 2006, We Live Together
-      status: c
-      status_url: https://stashdb.org/edits/2f9b3b71-9521-409a-8ac2-6517a5abf05b
       notes:
         - https://www.iafd.com/person.rme/perfid=phoebe_06_rk/gender=f/phoebe.htm

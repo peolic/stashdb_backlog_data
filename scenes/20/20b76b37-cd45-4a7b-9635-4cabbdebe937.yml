@@ -6,11 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 757543f8-ce30-4cd3-b21d-7db6823b25a3
       name: Natasha
       appearance: null
       disambiguation: 2004-05
-      status: c
-      status_url: https://stashdb.org/edits/eb8b151a-baea-4bcd-b112-201801cd3628
       notes:
         - https://www.iafd.com/person.rme/perfid=natasha_bb/gender=f/natasha.htm
