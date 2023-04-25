@@ -1,5 +1,21 @@
 split:
   name: Chase
-  fragments: []
+  fragments:
+    - id: null
+      name: Chase (2019, Fantasy Massage)
+      text: Fantasy Massage
+      links:
+        - https://www.iafd.com/person.rme/perfid=chase_fm_19/gender=m/chase.htm
+    - id: null
+      name: Chase (2006, Reality Kings)
+      text: VIP Crew
+      links:
+        - https://www.iafd.com/person.rme/perfid=chase_rk_06/gender=f/chase.htm
+        - https://www.indexxx.com/m/chase-4
+    - id: null
+      name: Chase (2004, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=chase_rk_04/gender=f/chase.htm
+        - https://www.indexxx.com/m/chase
   notes:
     - Mix of multiple performers (partial list)
