@@ -1,12 +1,6 @@
 split:
   name: Kendall
   fragments:
-    - id: f439f21e-bc42-49b7-8a41-44b8c7b564e2
-      name: Kendal Kross
-      text: (2011 BangBros)
-      links:
-        - https://www.iafd.com/person.rme/perfid=kendall_11/gender=f/kendal-kross.htm
-        - https://www.indexxx.com/m/kendall-kross
     - id: null
       name: Kendall (2002, BangBros)
       links:
