@@ -13,5 +13,7 @@ performers:
       name: Leena
       appearance: null
       disambiguation: 2005-06, Reality Kings
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=leena_rk_06/gender=f/leena.htm
+      status: c
+      status_url: https://stashdb.org/edits/826f7616-7bce-4a59-86c8-448eb9fb2b3f
+      notes:
+        - https://www.iafd.com/person.rme/perfid=leena_rk_06/gender=f/leena.htm
