@@ -7,8 +7,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 2f67befe-0f05-41fd-82ca-a516ee43a042
       name: Kami Kum
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=kamikum/gender=f/kami-kum.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=kamikum/gender=f/kami-kum.htm

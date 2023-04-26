@@ -6,11 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: f5695d57-90c9-45af-a942-4984045ac2d5
       name: Faustine Lee
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/b35a4f69-22d7-4e2b-9951-c712aec03e39
       notes:
         - https://www.iafd.com/person.rme/perfid=faustinelee/gender=f/faustine-lee.htm
         - https://www.indexxx.com/m/faustine-lee

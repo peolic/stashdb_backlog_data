@@ -6,9 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 8d63b599-6ffe-409a-9a98-73707851e78c
       name: Maty
       appearance: null
       disambiguation: 2010-11, Bang Bros
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=maty_bbros/gender=m/maty.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=maty_bbros/gender=m/maty.htm
