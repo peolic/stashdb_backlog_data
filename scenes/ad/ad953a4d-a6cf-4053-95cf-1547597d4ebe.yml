@@ -10,12 +10,10 @@ performers:
       name: Camille
       appearance: null
   append:
-    - id: null
+    - id: 04f8625c-02e2-410c-9cd9-b7bf5b7fbca9
       name: Camille
       appearance: null
       disambiguation: '2007'
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=camille_rk07/gender=f/camille.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=camille_rk07/gender=f/camille.htm
         - https://www.indexxx.com/m/camille
-        - https://nubiles.net/model/profile/641/Camille

@@ -1,9 +1,11 @@
 split:
   name: Camille
   fragments:
-    - id: null
+    - id: 04f8625c-02e2-410c-9cd9-b7bf5b7fbca9
       name: Camille (2007)
-      text: (Nubiles, We Live Together)
+      notes:
+        - '- Nubiles'
+        - '- We Live Together'
       links:
         - https://www.iafd.com/person.rme/perfid=camille_rk07/gender=f/camille.htm
         - https://www.indexxx.com/m/camille
@@ -14,13 +16,14 @@ split:
         - https://www.iafd.com/person.rme/perfid=camillabored/gender=f/camilla-bored.htm
         - https://www.indexxx.com/m/camilla-1
     - id: null
-      name: Camille (Fucking Machines)
+      name: Camille (Kink)
+      text: Fucking Machines
       links:
         - https://www.iafd.com/person.rme/perfid=camille_kink/gender=f/camille.htm
         - https://www.indexxx.com/m/camille-1
     - id: null
       name: Cami Harris
-      text: '(Nasty Angels, originally scene #6 from "18 And Still In School #21")'
+      text: 'Nasty Angels - originally scene #6 from "18 And Still In School #21"'
       links:
         - https://www.iafd.com/person.rme/perfid=camiharris/gender=f/cami-harris.htm
         - https://www.iafd.com/title.rme/title=18+and+still+in+school+21/year=2010/18-and-still-in-school-21.htm
