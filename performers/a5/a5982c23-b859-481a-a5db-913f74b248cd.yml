@@ -1,5 +1,17 @@
 split:
   name: Sofie and Jessica
-  fragments: []
+  fragments:
+    - id: 17907951-981a-48e5-a2f7-f7c6d22ec6f3
+      name: Carla Cox
+      links:
+        - https://www.iafd.com/person.rme/perfid=carlacox/gender=f/carla-cox.htm
+        - https://www.indexxx.com/m/carla-cox
+    - id: c6eb0fe6-ead8-4008-a622-7ccad6b0a22c
+      name: Victoria Rose (Czech, b.1984)
+      links:
+        - https://www.iafd.com/person.rme/perfid=victoriarossi/gender=f/victoria-rose.htm
+        - https://www.indexxx.com/m/victoria-rose
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1935
+  links:
+    - https://www.iafd.com/title.rme/title=young+lesbians+portal+1935/year=2009/young-lesbians-portal-1935.htm

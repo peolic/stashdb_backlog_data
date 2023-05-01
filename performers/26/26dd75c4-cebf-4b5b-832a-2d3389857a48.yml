@@ -1,5 +1,17 @@
 split:
   name: Sofie and Angy
-  fragments: []
+  fragments:
+    - id: 45314999-4b35-48bb-8725-5f8e1222ba53
+      name: Evita Fine
+      links:
+        - https://www.iafd.com/person.rme/perfid=evitafine/gender=f/evita-fine.htm
+        - https://www.indexxx.com/m/lucy-ive
+    - id: 94349fe1-8616-4a6b-96d0-10c5486727c8
+      name: Jane ? AKA Carol C (Adultprime)
+      links:
+        - https://www.iafd.com/person.rme/perfid=janeczech06/gender=f/jane.htm
+        - https://www.indexxx.com/m/jane-11
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1880
+  links:
+    - https://www.iafd.com/title.rme/title=young+lesbians+portal+1880/year=2008/young-lesbians-portal-1880.htm
