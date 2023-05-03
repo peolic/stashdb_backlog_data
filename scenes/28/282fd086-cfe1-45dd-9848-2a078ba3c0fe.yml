@@ -1,0 +1,21 @@
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10809478
+  - Ep 2016-09-03...CCHD...Tatiana...Jasmine Taylor
+date: '2016-09-03'
+performers:
+  remove:
+    - id: dc516f63-3480-45da-9218-8c0fb8a0a381
+      name: Tatiana
+      appearance: null
+  append:
+    - id: null
+      name: Jasmine Taylor
+      appearance: Tatiana
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=jasminetaylor/gender=f/jasmine-taylor.htm
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris
