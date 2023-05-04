@@ -62,8 +62,8 @@ split:
     - id: 8e37a45c-8b63-4149-a44e-6db5ae5490b2
       name: Rose D
       notes:
-        - "- \x02Cruelty Party\x03\x02"
-        - "\x03- My Sister's Hot Friend"
+        - "- \x02Cruelty Party\x03"
+        - '- My Sister''s Hot Friend'
         - '- Pervs On Patrol'
       links:
         - https://www.iafd.com/person.rme/perfid=rose_11/gender=f/rose.htm
