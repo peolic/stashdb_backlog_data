@@ -1,18 +1,12 @@
 split:
   name: Rain
   fragments:
-    - id: 40913d01-441c-4326-b70b-265263ffe36f
-      name: Rain (2007, Captain Stabbin)
+    - id: null
+      name: Rain (2000-2002)
+      text: Silvia Saint
+      notes:
+        - (ignore birthdate)
       links:
-        - https://www.iafd.com/person.rme/perfid=rain_07_rk/gender=f/rain.htm
-        - https://www.indexxx.com/m/rain-1
-    - id: ead04c2b-7e98-4e5a-a895-8975646b3911
-      name: Rain (2005, Bang Bros)
-      links:
-        - https://www.iafd.com/person.rme/perfid=rain_05_bb/gender=m/rain.htm
-    - id: 5a7b30fa-2266-49e9-ba75-441df5e48914
-      name: Rain (2008, Soapy Massage)
-      links:
-        - https://www.iafd.com/person.rme/perfid=rain_fama/gender=f/rain.htm
+        - https://www.iafd.com/person.rme/perfid=rain/gender=f/rain.htm
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2023-04-05)
