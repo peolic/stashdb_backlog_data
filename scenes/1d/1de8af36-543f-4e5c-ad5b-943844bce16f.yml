@@ -12,12 +12,10 @@ performers:
       name: Sierra
       appearance: null
   append:
-    - id: null
+    - id: 3d0d5dc1-0bd6-4b09-9f68-b59474ffe527
       name: Sierra
       appearance: null
       disambiguation: 2004, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/d75330cc-0171-4ada-acac-a90c819ffcd3
       notes:
         - https://www.iafd.com/person.rme/perfid=sierra_rk_04/gender=f/sierra.htm
         - https://www.indexxx.com/m/sierra-3
