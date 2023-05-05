@@ -1,27 +1,4 @@
-c_studio:
-  - Captain Stabbin
-  - null
 comments:
   - Fix incorrect photo. Not official, but better than incorrect.
   - 'Source: GoodSexPorn'
-  - https://www.iafd.com/title.rme/title=foxy+red/year=2004/foxy-red.htm
 image: https://goodsexporn.org/media/galleries/53906712546ba/12.jpg
-performers:
-  remove:
-    - id: 89592b60-3026-42fd-9e01-de37e9d7d4a9
-      name: Sierra
-      appearance: null
-  append:
-    - id: 3d0d5dc1-0bd6-4b09-9f68-b59474ffe527
-      name: Sierra
-      appearance: null
-      disambiguation: 2004, Reality Kings
-      notes:
-        - https://www.iafd.com/person.rme/perfid=sierra_rk_04/gender=f/sierra.htm
-        - https://www.indexxx.com/m/sierra-3
-  update:
-    - id: 87c43d26-bd0f-4d92-8e8d-c11ec3169915
-      name: Kevin James
-      appearance: Brett
-      old_appearance: null
-      disambiguation: c. 2003-2011
