@@ -1,8 +1,4 @@
-duplicates:
-  name: London Winters
-  ids:
-    - b2fd965a-12f6-4fa3-853f-cb97500cf39f
-    - d529acc2-683e-40c7-86b7-6003a7fd8cc8
-  notes:
-    - https://www.iafd.com/person.rme/perfid=londonwinters/gender=f/london-winters.htm
-    - https://www.indexxx.com/m/londyn-winters
+name: London Winters
+urls:
+  - https://www.iafd.com/person.rme/perfid=londonwinters/gender=f/london-winters.htm
+  - https://www.indexxx.com/m/londyn-winters
