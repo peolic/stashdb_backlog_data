@@ -7,12 +7,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 1abb5b57-2f2e-47ed-879e-c019b5aeaec6
       name: Chanel Amor
       appearance: Lola
-      status: c
-      status_url: https://stashdb.org/edits/e2bdd333-24b3-491b-9678-0d9db3faafd9
       notes:
         - https://www.iafd.com/person.rme/perfid=chanelamor/gender=f/chanel-amor.htm
         - https://www.indexxx.com/m/lola-54
-        - https://cdn.stashdb.org/images/70/af/70af93a4-94ff-42ea-a6e1-75aa7efee134
