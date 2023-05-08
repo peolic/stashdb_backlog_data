@@ -10,11 +10,9 @@ performers:
     - id: null
       name: Chanel Amor
       appearance: Lola
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=chanelamor/gender=f/chanel-amor.htm
+      status: c
+      status_url: https://stashdb.org/edits/e2bdd333-24b3-491b-9678-0d9db3faafd9
       notes:
+        - https://www.iafd.com/person.rme/perfid=chanelamor/gender=f/chanel-amor.htm
         - https://www.indexxx.com/m/lola-54
         - https://cdn.stashdb.org/images/70/af/70af93a4-94ff-42ea-a6e1-75aa7efee134
-    - id: e3824cf1-ca12-4ec6-bffd-4220fa5b9ef7
-      name: Kyle Aziani
-      appearance: Kyle
