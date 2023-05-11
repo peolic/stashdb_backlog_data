@@ -1,5 +1,17 @@
 split:
   name: Audrey and Helena
-  fragments: []
+  fragments:
+    - id: ebfcf47a-43a2-4fe2-8dc0-f9ef6c917b7e
+      name: Melissa Black (c. 2003-2014, Czech)
+      links:
+        - https://www.iafd.com/person.rme/perfid=melissablack/gender=f/melissa-black.htm
+        - https://www.indexxx.com/m/melissa-black
+    - id: ff548f33-548a-49ef-8e87-b5aa27791338
+      name: Jennifer Max
+      links:
+        - https://www.iafd.com/person.rme/perfid=jennifermax/gender=f/jennifer-max.htm
+        - https://www.indexxx.com/m/jennifer-max
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1888
+  links:
+    - https://www.iafd.com/title.rme/title=young+lesbians+portal+1888/year=2008/young-lesbians-portal-1888.htm
