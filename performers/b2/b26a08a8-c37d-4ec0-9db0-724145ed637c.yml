@@ -2,14 +2,17 @@ split:
   name: Oksy
   fragments:
     - id: null
-      name: Margo
-      text: (Sineplex Classic)
+      name: Margo AKA Oksy
+      text: Sineplex Classic
       links:
         - https://www.iafd.com/person.rme/perfid=margo_rus_10/gender=f/margo.htm
         - https://www.indexxx.com/m/nikki-2
     - id: null
       name: Oksy (Teen Mega World)
+      text: Solo Teen Girls
       links:
+        - https://www.iafd.com/person.rme/perfid=oksy_08_tmw/gender=f/oksy.htm
         - https://www.indexxx.com/m/oksy
+        - https://stashdb.org/scenes/2af56cb7-9def-4396-92b5-e13c87e20100
   notes:
     - Mix of multiple performers (complete list as of 2022-06-27)
