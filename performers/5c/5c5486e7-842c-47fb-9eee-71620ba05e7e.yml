@@ -1,13 +1,6 @@
 split:
   name: Jenya
   fragments:
-    - id: 7ca92f96-f05b-4fb6-8262-e088221cd537
-      name: Evelyn Lopez
-      text: Old Goes Young
-      links:
-        - https://www.iafd.com/person.rme/perfid=evelynlopez/gender=f/evelyn-lopez.htm
-        - https://www.indexxx.com/m/evelyn-lopez
-        - https://1passforallsites.com/model?id=1018
     - id: null
       name: Kate Cute
       notes:
