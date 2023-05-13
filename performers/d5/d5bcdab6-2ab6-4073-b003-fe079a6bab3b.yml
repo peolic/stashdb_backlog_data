@@ -1,11 +1,5 @@
 split:
   name: Lita
-  fragments:
-    - id: null
-      name: Veronica ?
-      text: Teen Core Club
-      links:
-        - https://www.iafd.com/person.rme/perfid=veronica_russ_09/gender=f/veronica.htm
-        - https://www.indexxx.com/m/inga-d
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
