@@ -1,10 +1,6 @@
 split:
   name: Richard
   fragments:
-    - id: 48e06f38-999f-4fc7-8757-8789a7418cf6
-      name: Richard (Sean Cody 2008)
-      links:
-        - https://www.iafd.com/person.rme/perfid=richard_sc_1/gender=m/richard.htm
     - id: null
       name: Richard (Sean Cody 2011)
       links:
