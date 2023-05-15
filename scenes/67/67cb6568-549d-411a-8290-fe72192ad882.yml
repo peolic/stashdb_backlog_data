@@ -1,0 +1,9 @@
+fingerprints:
+  - algorithm: oshash
+    hash: 25dfb156b43c2dcb
+    correct_scene_id: c7f473a0-4267-47a5-90cf-12c80540c13f
+    duration: 1637
+  - algorithm: phash
+    hash: c86f4f9f37c440c8
+    correct_scene_id: c7f473a0-4267-47a5-90cf-12c80540c13f
+    duration: 1637
