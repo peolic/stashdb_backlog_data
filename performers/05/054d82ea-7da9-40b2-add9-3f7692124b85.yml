@@ -1,5 +1,17 @@
 split:
   name: Anya and Mandy
-  fragments: []
+  fragments:
+    - id: c6eb0fe6-ead8-4008-a622-7ccad6b0a22c
+      name: Victoria Rose (Czech, b.1984)
+      links:
+        - https://www.iafd.com/person.rme/perfid=victoriarossi/gender=f/victoria-rose.htm
+        - https://www.indexxx.com/m/victoria-rose
+    - id: c4c7510f-b7b0-4487-a775-75b7751ea8ea
+      name: Wildy
+      links:
+        - https://www.iafd.com/person.rme/perfid=wildy_eu_06/gender=f/wildy.htm
+        - https://www.indexxx.com/m/wildy
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1914
+  links:
+    - https://www.iafd.com/title.rme/title=young+lesbians+portal+1914/year=2008/young-lesbians-portal-1914.htm

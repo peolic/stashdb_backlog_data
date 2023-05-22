@@ -1,5 +1,17 @@
 split:
   name: Jenna and Helga
-  fragments: []
+  fragments:
+    - id: c2545e5e-5176-4cc9-859c-1c12cedd3090
+      name: Sweety AKA Vera A (MetArt Network)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sweety_eu_06/gender=f/sweety.htm
+        - https://www.indexxx.com/m/vera-1
+    - id: c4c7510f-b7b0-4487-a775-75b7751ea8ea
+      name: Wildy
+      links:
+        - https://www.iafd.com/person.rme/perfid=wildy_eu_06/gender=f/wildy.htm
+        - https://www.indexxx.com/m/wildy
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1896
+  links:
+    - https://www.iafd.com/title.rme/title=young+lesbians+portal+1896/year=2008/young-lesbians-portal-1896.htm
