@@ -1,17 +1,12 @@
 split:
   name: Kris
   fragments:
-    - id: c6d18d4c-b087-45e2-b459-e15777bcb3c8
-      name: Kris Slater AKA Chris Slater
-      text: Naughty America
-      links:
-        - https://stashdb.org/performers/40955d25-6bfa-49a3-8fa5-1adf84893bd6
-        - https://www.iafd.com/person.rme/perfid=cslater/gender=m/kris-slater.htm
     - id: null
       name: Kris (2007, Reality Kings)
       notes:
         - '- Mike''s Apartment'
         - '- Doghouse Digital'
+        - '- "Dirty Old Men #06 Scene 5": same as Doghouse Digital'
       links:
         - https://www.iafd.com/person.rme/perfid=kris_rk_07/gender=m/kris.htm
         - https://caps1cdn.adultempire.com/n/0703/1920/1590703_04450_1920c.jpg
