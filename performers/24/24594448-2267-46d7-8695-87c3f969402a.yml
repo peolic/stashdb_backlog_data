@@ -1,12 +1,6 @@
 split:
   name: Baby
   fragments:
-    - id: bded9508-84e5-4729-892f-9ba1991613f4
-      name: Amy Days
-      text: Cuties Galore
-      links:
-        - https://www.iafd.com/person.rme/perfid=katherine_07/gender=f/katherine.htm
-        - https://www.indexxx.com/m/katherine
     - id: null
       name: Diamond Pipes
       text: White Ghetto
