@@ -1,0 +1,12 @@
+c_studio:
+  - Black Ambush
+  - null
+comments:
+  - missing performer
+  - https://www.iafd.com/title.rme/title=black+ambush+1019%3a+lilly/year=2020/black-ambush-1019%3a-lilly.htm
+performers:
+  remove: []
+  append:
+    - id: 948a4e7c-88cc-4da8-b75f-b9031e417ceb
+      name: Luna Daze
+      appearance: Lilly

@@ -10,13 +10,12 @@ performers:
       name: Amber
       appearance: null
   append:
-    - id: null
+    - id: 349b8b4f-6bf2-4c2b-9b12-042e4ad9dc96
       name: Ashley Reed
       appearance: Amber
       disambiguation: 2013-2014
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=ashleyreed/gender=f/ashley-reed.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=ashleyreed/gender=f/ashley-reed.htm
         - https://www.freeones.com/forums/threads/new-babe-added-to-freeones-ashley-reed.761681/
         - https://www.modelmayhem.com/mykadin6611
     - id: 5be35434-2f59-4518-81fc-88c38b7eab2e

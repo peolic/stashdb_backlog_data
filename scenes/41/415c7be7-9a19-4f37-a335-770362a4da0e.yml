@@ -15,9 +15,9 @@ performers:
     - id: 43d38baf-2d41-4f2d-be1c-ad90faa10248
       name: Tiffani DiGivanni
       appearance: Tiffani
-    - id: null
+    - id: 49c1f25c-26cc-446e-a594-56138e85e720
       name: Candace
       appearance: null
       disambiguation: 2005, We Live Together
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=candace_rk_05/gender=f/candace.htm
