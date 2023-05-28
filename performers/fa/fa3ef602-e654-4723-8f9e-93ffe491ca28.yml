@@ -2,25 +2,10 @@ split:
   name: Myriam
   fragments:
     - id: null
-      name: Myriam (Canadian, 2004-2009)
-      notes:
-        - '- Cum Fiesta'
-        - '- Devil''s Film'
-      links:
-        - https://www.iafd.com/person.rme/perfid=myrian_can/gender=f/myriam.htm
-        - https://www.indexxx.com/m/myriam-1
-    - id: null
       name: Myriam (2014, Woodman)
       text: Woodman Casting X (2014)
       links:
         - https://www.indexxx.com/m/myriam-4
-    - id: e4873d91-58b6-46c0-9edb-a3f71011cba6
-      name: Adanna AKA Adanna A
-      text: Woodman Casting X (2009-09-06)
-      links:
-        - https://stashdb.org/performers/f8f8217b-56cf-460a-b8ef-10ee146fa9c7
-        - https://www.iafd.com/person.rme/perfid=lucianalisa/gender=f/luciana.htm
-        - https://www.indexxx.com/m/luciana
     - id: null
       name: Myriam (French, 1999, Woodman)
       text: Woodman Casting X (2009-07-04)
