@@ -1,0 +1,27 @@
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - https://web.archive.org/web/20141020033120/http://castingcouch-hd.com/tour2/
+  - http://web.archive.org/web/20141020033120/http://castingcouch-hd.com/tour2/
+  - incorrect Jasmine Vega
+  - video @ 00:57 - Chris introduces himself
+date: '2014-10-15'
+performers:
+  remove:
+    - id: 28131578-27e2-43f4-b0d4-78d226501add
+      name: Jasmine Vega
+      appearance: Camila
+  append:
+    - id: null
+      name: Jasmine Vega
+      appearance: Camila
+      disambiguation: '2014'
+      status: new
+      status_url: https://www.indexxx.com/m/jasmine-vega
+      notes:
+        - https://www.thenude.com/Jasmine%20Vega_38084.htm
+    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
+      name: Tee Reel
+      appearance: Chris
+title: Getting her ready...
