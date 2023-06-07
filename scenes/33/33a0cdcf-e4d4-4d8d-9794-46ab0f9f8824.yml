@@ -8,21 +8,9 @@ performers:
     - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
       name: Jason
       appearance: null
-    - id: 37235260-03a7-40bb-a9e0-8d60b2fe59f3
-      name: Chanel
-      appearance: null
-    - id: 3b8fa1b2-4ccd-41e7-ad5d-8206cb973087
-      name: Autumn
-      appearance: null
   append:
     - id: null
       name: Jason Voor
       appearance: Jason
       status: new
       status_url: https://www.iafd.com/person.rme/perfid=jasonvoor/gender=m/jason-voor.htm
-    - id: 9bc6d6cf-2ff8-45ab-9547-c650ce052883
-      name: Chanel Monroe
-      appearance: Chanel
-    - id: 6df289fb-50eb-450d-982e-486b6786243b
-      name: Autumn Kline
-      appearance: Autumn
