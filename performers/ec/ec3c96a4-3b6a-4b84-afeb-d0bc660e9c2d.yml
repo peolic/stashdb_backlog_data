@@ -1,18 +1,6 @@
 split:
   name: Ally
   fragments:
-    - id: 106a0a79-8492-429f-8611-a85d1a2388ff
-      name: Ally Ann
-      text: (Fantasy Massage Network, maybe more)
-      links:
-        - https://www.iafd.com/person.rme/perfid=allyann/gender=f/ally-ann.htm
-        - https://www.indexxx.com/m/ally-ann
-    - id: dbd612ab-0886-4a72-a6b2-9334a24f3ba6
-      name: Samantha Green
-      text: (Teen Core Club)
-      links:
-        - https://www.iafd.com/person.rme/perfid=samanthagreen/gender=f/samantha-green.htm
-        - https://www.indexxx.com/m/sofia-saint
     - id: null
       name: Ally (2001, Reality Kings)
       links:
