@@ -1,11 +1,5 @@
 split:
   name: Susan
-  fragments:
-    - id: null
-      name: Susan (CZ, 2005)
-      text: DDF Network
-      links:
-        - https://www.iafd.com/person.rme/perfid=susan_ddf/gender=f/susan.htm
-        - https://www.indexxx.com/m/susan
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
