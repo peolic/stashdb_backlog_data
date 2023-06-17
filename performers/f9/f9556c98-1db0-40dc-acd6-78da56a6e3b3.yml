@@ -1,11 +1,6 @@
 split:
   name: Panther
   fragments:
-    - id: e061b82b-c038-4e48-a8bd-a46016a283c6
-      name: Ms. Panther
-      links:
-        - https://www.iafd.com/person.rme/perfid=panther/gender=f/ms.-panther.htm
-        - https://www.indexxx.com/m/ms-panther
     - id: null
       name: Panther (Hungarian, 2011)
       notes:
@@ -15,4 +10,4 @@ split:
         - https://www.iafd.com/person.rme/perfid=panther_hun_12/gender=f/panther.htm
         - https://www.indexxx.com/m/pantara
   notes:
-    - Mix of multiple performers (complete list as of 2022-07-10)
+    - Mix of multiple performers (partial list as of 2023-06-17)

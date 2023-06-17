@@ -1,9 +1,5 @@
 split:
   name: Nomi
-  fragments:
-    - id: null
-      name: Nomi (2003, Tranny Surprise)
-      links:
-        - https://www.iafd.com/person.rme/perfid=nomi_rk_ts/gender=f/nomi.htm
+  fragments: []
   notes:
     - Mix of multiple performers (complete list as of 2022-07-16)
