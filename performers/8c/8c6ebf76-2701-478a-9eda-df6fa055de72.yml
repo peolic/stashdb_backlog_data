@@ -1,10 +1,6 @@
 split:
   name: Mara
   fragments:
-    - id: null
-      name: Mara (2015, Oye Loca)
-      links:
-        - https://www.iafd.com/person.rme/perfid=mara_col/gender=f/mara.htm
     - id: f15d3349-883f-4352-8995-acde421c09d8
       name: Ancsi AKA Mara
       text: 21 Sextreme
