@@ -1,11 +1,6 @@
 split:
   name: Vanilla
   fragments:
-    - id: null
-      name: Vanilla (2005, We Live Together)
-      links:
-        - https://www.iafd.com/person.rme/perfid=vanilla_rk05/gender=f/vanilla.htm
-        - https://www.indexxx.com/m/vanilla-2
     - id: 0799f3ae-5941-4fb6-a451-00c6bc458114
       name: Vanilla Skye
       notes:
