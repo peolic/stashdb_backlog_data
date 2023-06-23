@@ -1,12 +1,6 @@
 split:
   name: Scarlett
   fragments:
-    - id: 2046a5d4-d316-4331-b8d1-f88c915e275f
-      name: Scarlett Fever
-      text: ALS Scan
-      links:
-        - https://www.iafd.com/person.rme/perfid=scarlettfever/gender=f/scarlett-fever.htm
-        - https://www.indexxx.com/m/scarlett-fever
     - id: null
       name: Scarlett
       notes:
