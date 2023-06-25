@@ -1,9 +1,5 @@
 split:
   name: Xander
-  fragments:
-    - id: null
-      name: Xander (Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=xander_seancody/gender=m/xander.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

@@ -1,9 +1,5 @@
 split:
   name: Vito
-  fragments:
-    - id: null
-      name: Vito (Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=vito_seancody/gender=m/vito.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
