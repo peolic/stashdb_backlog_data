@@ -1,9 +1,5 @@
 split:
   name: Mickey
-  fragments:
-    - id: null
-      name: Mickey (Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=mickey_sc_1/gender=m/mickey.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
