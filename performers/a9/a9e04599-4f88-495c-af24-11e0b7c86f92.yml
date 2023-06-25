@@ -1,10 +1,6 @@
 split:
   name: Robert
   fragments:
-    - id: null
-      name: Robert (2016-2017, Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=robert_sc_2/gender=m/robert.htm
     - id: ec7e08fe-6e69-4f47-a3f3-3971ee9ba38a
       name: Michael Lope AKA Michal Lope
       text: Male Reality

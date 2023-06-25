@@ -1,9 +1,5 @@
 split:
   name: Smith
-  fragments:
-    - id: null
-      name: Smith (Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=smith_seancody/gender=m/smith.htm
+  fragments: []
   notes:
     - One of two performers listed
