@@ -1,9 +1,5 @@
 split:
   name: Mario
-  fragments:
-    - id: null
-      name: Mario (Sean Cody 2017)
-      links:
-        - https://www.iafd.com/person.rme/perfid=mario_seancody/gender=m/mario.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
