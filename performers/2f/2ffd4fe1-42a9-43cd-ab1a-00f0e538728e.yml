@@ -1,14 +1,6 @@
 split:
   name: Princess
   fragments:
-    - id: b94ee2bb-9e8e-4d24-a373-74e5162c2548
-      name: Cocoa (BangBros) AKA Cocoa
-      text: "\x02(BangBros, except 2011-04-10)\x03 Ass Parade (2011-02-21)"
-      links:
-        - https://stashdb.org/performers/18ed3f12-0871-4329-8046-66def39fd137
-        - https://www.iafd.com/person.rme/perfid=cocoa_bl_10/gender=f/cocoa.htm
-        - https://www.indexxx.com/m/cocoa
-        - https://stashdb.org/scenes/8ccc9efc-667b-4a34-b1ac-12c1c7ef0705
     - id: null
       name: Princess (2008, Round and Brown)
       text: ("Triple Chocolate")
