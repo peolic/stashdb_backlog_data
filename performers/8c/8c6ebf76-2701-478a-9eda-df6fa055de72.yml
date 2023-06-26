@@ -1,11 +1,5 @@
 split:
   name: Mara
-  fragments:
-    - id: f15d3349-883f-4352-8995-acde421c09d8
-      name: Ancsi AKA Mara
-      text: 21 Sextreme
-      links:
-        - https://www.iafd.com/person.rme/perfid=ancsi/gender=f/ancsi.htm
-        - https://www.indexxx.com/m/ancsi
+  fragments: []
   notes:
     - Mix of multiple performers (complete list as of 2022-07-06)
