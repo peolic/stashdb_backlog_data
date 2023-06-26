@@ -1,18 +1,6 @@
 split:
   name: Nora Star
-  fragments:
-    - id: 1cb24660-7551-433e-8c35-b3c42d8ed881
-      name: Lila West
-      text: Fuck Studies
-      links:
-        - https://www.iafd.com/person.rme/perfid=lilawest/gender=f/lila-west.htm
-        - https://www.indexxx.com/m/nora-star
-    - id: 11610326-6b2f-46e2-9f1d-6bdba03df57e
-      name: Liza Shay
-      text: First BGG
-      links:
-        - https://www.iafd.com/person.rme/perfid=lizashay/gender=f/liza-shay.htm
-        - https://www.indexxx.com/m/dulce-1
+  fragments: []
   notes:
     - Multiple models mapped by TeenMegaWorld to Nora Star.
     - Complete list as of 2022-08-31
