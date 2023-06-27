@@ -1,9 +1,5 @@
 split:
   name: Mick
-  fragments:
-    - id: null
-      name: Mick (Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=mick_sc_1/gender=m/mick.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
