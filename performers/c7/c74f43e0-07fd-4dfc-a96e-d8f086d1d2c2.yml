@@ -11,10 +11,10 @@ split:
       name: Adele Sunshine
       notes:
         - '- ALS Scan'
-        - '- DDF Network'
-        - '- Doghouse Digital / Mile High'
+        - "- \x02DDF Network\x03"
+        - "- \x02Doghouse Digital / Mile High\x03"
         - "- \x02Sapphic Erotica\x03"
-        - '- Woodman Casting X'
+        - "- \x02Woodman Casting X\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=adelesunshine/gender=f/adele-sunshine.htm
         - https://www.indexxx.com/m/adele-sunshine
