@@ -1,14 +1,6 @@
 split:
   name: Sylvia
   fragments:
-    - id: 81f5b398-a61c-4681-a061-59db48a652bb
-      name: Claudia AKA Jennyfer G. (DDF)
-      text: (2 Woodman scenes)
-      links:
-        - https://www.iafd.com/person.rme/perfid=claudia_eu_01/gender=f/claudia.htm
-        - https://www.indexxx.com/m/jennyfer-g
-        - https://stashdb.org/scenes/b44a314e-b56a-49b8-a347-974656613ebd
-        - https://stashdb.org/scenes/811df8cb-2a14-4dd3-8ab2-d8e6d197954e
     - id: null
       name: Mandy More (2006)
       text: Bang Bus

@@ -1,13 +1,5 @@
 split:
   name: Vanilla
-  fragments:
-    - id: 0799f3ae-5941-4fb6-a451-00c6bc458114
-      name: Vanilla Skye
-      notes:
-        - '- Digital Playground'
-        - '- 1 pass for all sites'
-      links:
-        - https://www.iafd.com/person.rme/perfid=vanillaskye/gender=f/vanilla-skye.htm
-        - https://www.indexxx.com/m/vanilla-skye
+  fragments: []
   notes:
     - Mix of multiple performers (complete list as of 2022-07-08)
