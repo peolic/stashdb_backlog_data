@@ -4,16 +4,5 @@ split:
     - id: null
       name: Daria (2015, NVG)
       text: Casting Couch-HD
-    - id: null
-      name: Daria (2003, Evil Angel)
-      text: Rocco Siffredi
-      links:
-        - https://www.iafd.com/person.rme/perfid=daria_rus/gender=f/daria.htm
-    - id: c2286f22-f72e-47b6-abce-c17a117fecec
-      name: Daria (Scoreland)
-      text: Scoreland
-      links:
-        - https://www.iafd.com/person.rme/perfid=daria_score/gender=f/daria.htm
-        - https://www.indexxx.com/m/daria-8
   notes:
     - Mix of multiple performers (complete list as of 2023-03-25)
