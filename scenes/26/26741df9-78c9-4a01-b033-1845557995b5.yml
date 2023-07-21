@@ -11,3 +11,11 @@ fingerprints:
     hash: 83f4f807f8f401f8
     correct_scene_id: 9071f1fa-c6f6-4b7e-abf1-3660476c16b7
     duration: 2638
+  - algorithm: phash
+    hash: 83fc7c03f8f003f8
+    correct_scene_id: 384586a6-7dda-42d8-b3da-1b8b68258c5c
+    duration: 2466
+  - algorithm: phash
+    hash: 87fc7803f89207f8
+    correct_scene_id: 3b256ab1-7e57-4c3b-9cad-2445ff5aab08
+    duration: 2974
