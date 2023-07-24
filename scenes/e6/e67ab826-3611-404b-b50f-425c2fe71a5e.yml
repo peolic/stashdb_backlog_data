@@ -9,6 +9,8 @@ performers:
       appearance: null
       disambiguation: 2014, CCHD
       status: new
+      notes:
+        - https://ibb.co/VVjLb6s
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
