@@ -1,9 +1,5 @@
 split:
   name: Samuel
-  fragments:
-    - id: null
-      name: Samuel (Sean Cody 2016)
-      links:
-        - https://www.iafd.com/person.rme/perfid=samuel_sc_3/gender=m/samuel.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
