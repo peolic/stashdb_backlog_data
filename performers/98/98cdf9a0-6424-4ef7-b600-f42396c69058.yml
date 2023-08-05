@@ -1,9 +1,5 @@
 split:
   name: Stas
-  fragments:
-    - id: null
-      name: Stas (Sean Cody)
-      links:
-        - https://www.iafd.com/person.rme/perfid=pierre_cm/gender=m/pierre.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
