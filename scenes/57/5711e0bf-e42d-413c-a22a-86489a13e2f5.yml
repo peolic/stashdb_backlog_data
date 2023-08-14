@@ -4,3 +4,7 @@ fingerprints:
     hash: 16bd744baa5a8eb9
     correct_scene_id: a6cdae9e-83c4-4017-8b72-3f3a53e93547
     duration: 2330
+  - algorithm: phash
+    hash: a3126b9543f9c655
+    correct_scene_id: 822d9035-5218-43c7-9287-25bf2ef25deb
+    duration: 2323
