@@ -6,8 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: b1e1bc1a-80a3-4cd9-bb23-ff81d581f443
       name: Vicky Rae
       appearance: Vicky
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=vickyray/gender=f/vicky-ray.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=vickyray/gender=f/vicky-ray.htm
