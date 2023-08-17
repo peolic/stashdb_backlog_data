@@ -6,10 +6,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: f86a4330-f4c4-4640-9630-2eb2bc619001
-      name: Cat
-      appearance: null
-      disambiguation: 2017 ExploitedX
     - id: 2640f727-db1c-4124-bf7a-5943560c9746
       name: Tim Cannon
       appearance: TC
