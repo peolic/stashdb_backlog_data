@@ -8,15 +8,8 @@ comments:
   - https://www.iafd.com/title.rme/title=castingcouch-hd+612%3a+kaily/year=2014/castingcouch-hd-612%3a-kaily.htm
 date: '2014-07-22'
 performers:
-  remove:
-    - id: b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb
-      name: Kaily
-      appearance: null
-      status: edit
+  remove: []
   append:
-    - id: b7f2c65f-189c-4ed3-88a5-7b6a091cb0eb
-      name: Kiki Lux
-      appearance: Kaily
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
