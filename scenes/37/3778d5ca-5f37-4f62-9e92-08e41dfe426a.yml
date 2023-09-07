@@ -9,11 +9,10 @@ performers:
       name: Amber
       appearance: null
   append:
-    - id: null
+    - id: eb4b35ad-7a5f-4be6-b7bd-4ecf5b1fb656
       name: Amber Lee
       appearance: Amber
       disambiguation: 2005-2006
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=amberlee/gender=f/amber-lee.htm
         - https://www.indexxx.com/m/amber-5
