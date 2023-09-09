@@ -1,12 +1,5 @@
 split:
   name: Sylvia
-  fragments:
-    - id: null
-      name: Mandy More (2006)
-      text: Bang Bus
-      links:
-        - https://www.iafd.com/person.rme/perfid=mandymore/gender=f/mandy-more.htm
-        - https://www.indexxx.com/m/mandi
-        - https://stashdb.org/scenes/97911b93-6b87-4786-9001-a37ac1dbcb0d
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
