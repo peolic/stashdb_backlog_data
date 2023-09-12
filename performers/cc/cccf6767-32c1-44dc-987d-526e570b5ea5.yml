@@ -10,7 +10,7 @@ split:
     - id: d9204323-6d95-458f-810c-3b960acedd7d
       name: Angelina (2012-2014)
       notes:
-        - '- 8th Street Latinas (2012)'
+        - "- \x028th Street Latinas (2012)\x03"
         - '- Bootylicious Mag'
         - "- \x02BangBros\x03"
       links:
