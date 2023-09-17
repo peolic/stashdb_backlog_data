@@ -1,6 +1,8 @@
 c_studio:
   - Casting Couch-HD
   - null
+comments:
+  - https://www.iafd.com/title.rme/id=5021fd45-15cd-4190-b75f-c8e121fad673
 performers:
   remove: []
   append:
@@ -9,6 +11,7 @@ performers:
       appearance: null
       disambiguation: 2014, CCHD
       status: new
+      status_url: https://www.iafd.com/person.rme/perfid=reina_nvg14/gender=f/reina.htm
       notes:
         - https://ibb.co/V91zYf1
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
