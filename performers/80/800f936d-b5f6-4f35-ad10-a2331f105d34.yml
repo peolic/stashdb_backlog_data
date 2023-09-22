@@ -1,17 +1,6 @@
 split:
   name: Dee
   fragments:
-    - id: 4c6df02a-cf73-47ba-aa2c-f381f7e646e1
-      name: Kenzie Jamez
-      text: Casting Couch-HD
-      links:
-        - https://www.iafd.com/person.rme/perfid=kenziejamez/gender=f/kenzie-jamez.htm
-        - https://ibb.co/Th0rH1f
-    - id: e4ba873e-4caa-4575-8948-89834a7de2ce
-      name: Dee Angel
-      text: Burning Angel
-      links:
-        - https://www.iafd.com/person.rme/perfid=deeangel/gender=f/dee-angel.htm
     - id: null
       name: '[DickDorm scene]'
       text: iafd contains no info
