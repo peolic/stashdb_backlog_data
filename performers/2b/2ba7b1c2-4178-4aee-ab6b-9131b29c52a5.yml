@@ -2,7 +2,7 @@ split:
   name: Matthew
   fragments:
     - id: null
-      name: Matthew (Himeros.tv 2019) [studio]
+      name: Matthew (Himeros.tv 2019)
       text: Couldn't find an IAFD or GEVI
       links:
         - https://himeros.tv/tour/models/Matthew.html
