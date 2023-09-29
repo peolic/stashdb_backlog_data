@@ -7,12 +7,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: cfbb2ac0-5658-4530-a3f6-c43612487c09
       name: Lexxy
       appearance: Lexy
       disambiguation: Canadian, 2006-2008
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=lexy_07/gender=f/lexy.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=lexy_07/gender=f/lexy.htm
     - id: null
       name: Naika
       appearance: null
