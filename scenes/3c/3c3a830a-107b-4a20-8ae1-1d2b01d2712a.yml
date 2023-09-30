@@ -1,0 +1,12 @@
+c_studio:
+  - Net Video Girls
+  - null
+performers:
+  remove:
+    - id: 42990d95-5867-4010-8d8a-a1035d3a9806
+      name: Melanie Woods
+      appearance: Melonie
+  append:
+    - id: 1c00af3c-1b1e-4913-908a-6705786250a3
+      name: Melanie Money
+      appearance: Melonie
