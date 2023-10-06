@@ -3,7 +3,9 @@ split:
   fragments:
     - id: null
       name: Katie Collins (2011, UK)
-      text: Twistys
+      notes:
+        - '- Twistys'
+        - '- Karups Hometown Amateurs'
       links:
         - https://www.iafd.com/person.rme/perfid=katiecollins_10_uk/gender=f/katie-collins.htm
         - https://www.indexxx.com/m/katie-collins-1

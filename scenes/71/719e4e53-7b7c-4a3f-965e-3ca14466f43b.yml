@@ -1,0 +1,22 @@
+c_studio:
+  - Net Video Girls
+  - null
+comments:
+  - Incorrect performer listed on Freeones
+  - Remastered
+  - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489801
+  - Ep 2003.12 - Marilyn = Katrina Star A.K.A. [NOBABE]Katrena Starr[/NOBABE]
+performers:
+  remove:
+    - id: 294af9f7-5473-4013-8337-f78500c8b47f
+      name: Katrena Starr
+      appearance: Marilyn
+  append:
+    - id: null
+      name: Katrina
+      appearance: Marilyn
+      disambiguation: 2002-2004
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=katrina02/gender=f/katrina.htm
+      notes:
+        - https://www.indexxx.com/m/katrina-2
