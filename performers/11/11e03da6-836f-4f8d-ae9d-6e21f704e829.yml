@@ -77,10 +77,10 @@ split:
     - id: 6276ec21-13d1-4a38-b3d5-ea240d516212
       name: Kelly Skyline
       notes:
-        - "- \x02Pure 18\x03\x02"
-        - "\x03- Teens At Work (2 scenes)"
-        - "- \x02We Live Together\x03\x02"
-        - "\x03- Wicked (3 scenes)"
+        - "- \x02Pure 18\x03"
+        - '- Teens At Work (2 scenes)'
+        - "- \x02We Live Together\x03"
+        - '- Wicked (3 scenes)'
       links:
         - https://www.iafd.com/person.rme/perfid=kellyskyline/gender=f/kelly-skyline.htm
         - https://www.indexxx.com/m/kelly-skyline
