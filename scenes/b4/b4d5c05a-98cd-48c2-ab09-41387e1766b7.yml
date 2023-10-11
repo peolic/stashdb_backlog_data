@@ -1,5 +1,5 @@
 fingerprints:
-  - algorithm: md5
-    hash: d06e5743baec4c75117ccaa23627c9a1
+  - algorithm: phash
+    hash: 8444a4f5fdbe8d88
     correct_scene_id: null
     duration: 2879
