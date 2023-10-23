@@ -9,12 +9,11 @@ performers:
       name: Kristina
       appearance: null
   append:
-    - id: null
+    - id: f92c1ad7-43e0-49aa-8bbe-f5f6fed98e39
       name: Kristina Kovari
       appearance: Kristina
-      status: new
-      status_url: https://www.indexxx.com/m/fiyona
       notes:
+        - https://www.indexxx.com/m/fiyona
         - AKA
         - Krisztina Kovari, Krisztina Koki
         - https://www.freeones.com/kristina-kovari
