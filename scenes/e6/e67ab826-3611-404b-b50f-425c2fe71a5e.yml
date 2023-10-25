@@ -3,18 +3,13 @@ c_studio:
   - null
 comments:
   - https://www.iafd.com/title.rme/id=5021fd45-15cd-4190-b75f-c8e121fad673
-date: '2014-02-22'
 performers:
   remove: []
   append:
-    - id: null
+    - id: 9fc24f84-3bd4-4fe0-aab1-770ee50d6d40
       name: Reina
       appearance: null
       disambiguation: 2014, Casting Couch HD
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=reina_nvg14/gender=f/reina.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=reina_nvg14/gender=f/reina.htm
         - https://ibb.co/V91zYf1
-    - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
-      name: Tee Reel
-      appearance: Chris
