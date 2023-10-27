@@ -1,5 +1,11 @@
 split:
   name: Roger
-  fragments: []
+  fragments:
+    - id: d7f56660-bbc6-4a9c-a06f-ef375827e43a
+      name: Roger Venturini
+    - id: null
+      name: Roger (2006, BangBros)
+      links:
+        - https://www.iafd.com/person.rme/perfid=roger_bbb/gender=m/roger.htm
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of two performers
