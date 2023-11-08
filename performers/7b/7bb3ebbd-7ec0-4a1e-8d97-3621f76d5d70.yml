@@ -1,11 +1,5 @@
 split:
   name: Leslie
-  fragments:
-    - id: null
-      name: Trish (2002, Reality Kings)
-      text: Bang Bus
-      links:
-        - https://www.iafd.com/person.rme/perfid=leslie_02/gender=f/leslie.htm
-        - https://www.indexxx.com/m/trish-2
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
