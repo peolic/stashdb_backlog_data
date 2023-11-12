@@ -6,12 +6,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: bdfb4c51-0f5a-4147-adf8-a40fcd54b97a
       name: Ariana
       appearance: null
-      disambiguation: Latina, 2003-04
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=ariana_rk_03/gender=f/ariana.htm
+      disambiguation: 2003-2004, Latina
+      notes:
+        - https://www.iafd.com/person.rme/perfid=ariana_rk_03/gender=f/ariana.htm
     - id: 422e52f3-e15a-4e51-8475-c9a95a06a687
       name: Ramon Monster
       appearance: Ramon
