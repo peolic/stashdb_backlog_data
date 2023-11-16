@@ -12,11 +12,11 @@ performers:
       name: Tatiana
       appearance: null
   append:
-    - id: null
+    - id: 914d726f-cbf5-4e47-945b-67b86be9316a
       name: Jasmine Taylor
       appearance: Tatiana
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=jasminetaylor/gender=f/jasmine-taylor.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=jasminetaylor/gender=f/jasmine-taylor.htm
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
