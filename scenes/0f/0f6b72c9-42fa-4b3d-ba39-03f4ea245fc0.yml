@@ -1,1 +1,6 @@
 duplicate_of: b9532e79-6caf-44b8-b9ba-211745bb73f3
+fingerprints:
+  - algorithm: phash
+    hash: 8093f7faf0ea10a5
+    correct_scene_id: 18753b1e-968c-423b-8796-29fdb18ce4c0
+    duration: 1626
