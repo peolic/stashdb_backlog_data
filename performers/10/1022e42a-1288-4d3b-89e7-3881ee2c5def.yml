@@ -2,13 +2,6 @@ split:
   name: Pamela
   fragments:
     - id: null
-      name: Summer Haze (2000-2010)
-      text: Cum Fiesta
-      links:
-        - https://www.iafd.com/person.rme/perfid=summerhaze/gender=f/summer-haze.htm
-        - https://www.indexxx.com/m/pamela-2
-        - https://stashdb.org/scenes/fbd302d5-b805-44a3-b3fb-1fc9ba8aa8f6
-    - id: null
       name: Pamela (2002, BangBros)
       notes:
         - '- Bang Bus'

@@ -1,13 +1,6 @@
 split:
   name: Jenni
   fragments:
-    - id: 895e0be8-c523-44eb-80b2-4736b0791fc4
-      name: Jenni (2006, We Live Together)
-      text: We Live Together
-      links:
-        - https://www.iafd.com/person.rme/perfid=jenni_rk06/gender=f/jenni.htm
-        - https://www.indexxx.com/m/jenni-4
-        - https://stashdb.org/scenes/39358554-5d61-4127-8caf-0c935fbf3442
     - id: 98657526-2af0-4252-b0db-4741b0d05a10
       name: Jenni Gregg
       notes:
