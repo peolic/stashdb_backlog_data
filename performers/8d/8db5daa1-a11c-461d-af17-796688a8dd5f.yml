@@ -1,16 +1,6 @@
 split:
   name: Ruby
   fragments:
-    - id: 423ec917-f414-44d3-8b5c-5d323eaab887
-      name: Ruby Knox
-      notes:
-        - "- \x02Digital Playground\x03"
-        - "- \x02Twistys\x03"
-        - '- Mofos B Sides'
-        - Use original aliases per IAFD/indexxx
-      links:
-        - https://www.iafd.com/person.rme/perfid=rubyknox/gender=f/ruby-knox.htm
-        - https://www.indexxx.com/m/ruby-knox
     - id: null
       name: Ruby (Reality Kings 2011)
       links:
