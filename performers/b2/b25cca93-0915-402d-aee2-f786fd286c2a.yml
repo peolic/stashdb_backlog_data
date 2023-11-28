@@ -1,14 +1,5 @@
 split:
   name: Mia
-  fragments:
-    - id: 818f0282-a886-46c3-8bef-98b59801ec9f
-      name: Mia Ivanova
-      notes:
-        - '- Motherfucker XXX'
-        - '- POV This'
-        - "- \x02Devil's Film\x03"
-      links:
-        - https://www.iafd.com/person.rme/perfid=mia40/gender=f/mia.htm
-        - https://www.indexxx.com/m/mia-ivanova
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
