@@ -3,20 +3,20 @@ split:
   fragments:
     - id: be3bd379-8d08-49ab-a209-dab3103c0e92
       name: Tyler Wood AKA Tyler Durden
-      text: at least Blowpass, Digital Playground
+      text: 'at least:'
+      notes:
+        - '- Blowpass (Network)'
+        - '- Digital Playground'
+        - '- First Time Auditions'
       links:
         - https://stashdb.org/performers/74895010-86a6-4d9e-b73c-25e4577c277a
         - https://www.iafd.com/person.rme/perfid=tylerwood/gender=m/tyler-wood.htm
-    - id: null
-      name: Tyler (2009, Reality Kings)
+    - id: 99a57208-63d6-4c2b-9aad-6693e2652df6
+      name: Tyler (2010-12, White Ghetto)
       text: Pure 18
       links:
         - https://www.iafd.com/person.rme/perfid=tyler_09/gender=f/tyler.htm
         - https://www.indexxx.com/m/tyler-1
-    - id: null
-      name: Tyler (2005, Reality Kings)
-      text: First Time Auditions
-      links:
-        - https://www.iafd.com/person.rme/perfid=tyler_rk_05/gender=m/tyler.htm
+        - https://stashdb.org/scenes/39b0c938-f4d4-4b44-9996-17889b9b7f05
   notes:
     - Mix of multiple performers (partial list)
