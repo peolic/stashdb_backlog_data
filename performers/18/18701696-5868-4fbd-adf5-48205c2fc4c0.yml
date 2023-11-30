@@ -1,17 +1,5 @@
 split:
   name: Anna
-  fragments:
-    - id: null
-      name: Cindy (2010, WTFPass)
-      text: '2 scenes from 1 Pass:'
-      notes:
-        - '- Drilled Mouths (2008-02-14)'
-        - '- Spoiled Virgins (2008-02-06)'
-      links:
-        - https://www.iafd.com/person.rme/perfid=cindy_wtf/gender=f/cindy.htm
-        - https://www.indexxx.com/m/cindy-28
-        - https://stashdb.org/scenes/9b0ea4ff-feaa-4243-af45-25ce3f6eb643
-        - https://stashdb.org/scenes/e345b91c-e1ee-4b57-ac4f-1ddde2f79871
-        - https://1passforallsites.com/model?id=115
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
