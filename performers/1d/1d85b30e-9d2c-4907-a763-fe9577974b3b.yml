@@ -1,12 +1,6 @@
 split:
   name: Candi
   fragments:
-    - id: fdf84a77-bd56-4cd8-bc59-aa889dbf8fac
-      name: Candi Apple
-      text: (We Live Together)
-      links:
-        - https://www.iafd.com/person.rme/perfid=candiapple/gender=f/candi-apple.htm
-        - https://www.indexxx.com/m/candi-apple
     - id: null
       name: Candi (2006, Round and Brown)
       links:
