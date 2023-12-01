@@ -1,9 +1,6 @@
 split:
   name: Mya
   fragments:
-    - id: 50de82ad-8297-4af7-9990-52d148c68f2c
-      name: Mia Me
-      text: "\x02Mya @ Sapphic\x03"
     - id: null
       name: Mya (2012, Happy Tugs)
       links:
@@ -12,8 +9,12 @@ split:
         - https://stashdb.org/scenes/56c00cad-9ce1-4544-abe3-bd9b2e7e5cd8
     - id: null
       name: Mya
+      notes:
+        - '- Penny Show'
+        - '- BangBros Clips'
+        - '- Money Talks'
       links:
-        - https://www.iafd.com/person.rme/perfid=mya_bangbros/gender=f/mya.htm
+        - https://www.iafd.com/person.rme/perfid=mya_pv_can/gender=f/mya.htm
         - https://www.indexxx.com/m/mya-6
         - https://bangbros.com/model19027/mya
     - id: null
@@ -23,5 +24,12 @@ split:
         - https://www.indexxx.com/m/mya-8
         - https://stashdb.org/scenes/ec91f101-64a0-4c20-a1c3-76deb60868ae
         - https://stashdb.org/scenes/a440f3f5-f8f4-4879-b2f0-2bd0f4179593
+    - id: f7f316e8-6404-4787-b5cb-8eeabbec8bf8
+      name: Mya Luanna
+      text: 18 Years Old
+      links:
+        - https://www.iafd.com/person.rme/perfid=myaluanna/gender=f/mya-luanna.htm
+        - https://www.indexxx.com/m/mya-luanna
+        - https://stashdb.org/scenes/2f134838-4a35-4bf3-9a47-8212cf28b277
   notes:
     - Mix of multiple performers (partial list)
