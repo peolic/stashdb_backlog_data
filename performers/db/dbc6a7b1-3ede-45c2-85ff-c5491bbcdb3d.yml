@@ -1,16 +1,6 @@
 split:
   name: Monica
   fragments:
-    - id: null
-      name: Monica (Latin, 2016)
-      notes:
-        - '- My BabySitters Club'
-        - '- 8th Street Latinas (2016)'
-      links:
-        - https://www.iafd.com/person.rme/perfid=monica_latin_16/gender=f/monica.htm
-        - https://www.indexxx.com/m/monica-1
-        - https://stashdb.org/scenes/931953a5-60ad-447c-b22b-caf1ddb3bc91
-        - https://stashdb.org/scenes/3b6ab09e-73af-4a37-b1ec-b20da6858d0d
     - id: 8d5176d5-00e1-4fea-988b-2e82fd050055
       name: Monica (2007-2008, Reality Kings)
       notes:
@@ -19,12 +9,5 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=monica_rk_10/gender=f/monica.htm
         - https://www.indexxx.com/m/monica-17
-    - id: ae20f1c0-804b-438d-bff1-9341a6f6f98b
-      name: Monica Raiders
-      text: Pure 18
-      links:
-        - https://www.iafd.com/person.rme/perfid=monicaraiders/gender=f/monica-raiders.htm
-        - https://www.indexxx.com/m/monica-raiders
-        - https://stashdb.org/scenes/8878dcd2-a608-4d45-81eb-44351143c57d
   notes:
     - Mix of multiple performers (partial list)

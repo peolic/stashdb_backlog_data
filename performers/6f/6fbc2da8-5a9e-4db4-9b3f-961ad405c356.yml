@@ -1,16 +1,5 @@
 split:
   name: Moni
-  fragments:
-    - id: null
-      name: Moni (2010-2011, Reality Kings)
-      notes:
-        - '- 8th Street Latinas'
-        - '- Money Talks'
-      links:
-        - https://www.iafd.com/person.rme/perfid=moni_rk_11/gender=f/moni.htm
-        - https://www.indexxx.com/m/moni-4
-        - https://www.realitykings.com/model/5089/moni
-        - https://stashdb.org/scenes/3e6fa650-99ba-4817-adc5-99ab28753eb5
-        - https://stashdb.org/scenes/798714a1-6b07-4400-b624-4b4a271b7049
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
