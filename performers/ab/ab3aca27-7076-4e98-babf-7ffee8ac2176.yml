@@ -1,14 +1,6 @@
 split:
   name: Dusty
   fragments:
-    - id: 5ed5e2cf-b81a-4fa4-bd87-7a02ec64a2db
-      name: Dusya (RU, b. 1992)
-      text: 'Mile High Media: seems to be a First BGG scene originally'
-      links:
-        - https://www.iafd.com/person.rme/perfid=helen_11_russ/gender=f/grace-young.htm
-        - https://www.indexxx.com/m/dusya
-        - https://stashdb.org/scenes/0b74d53b-ab46-4ec1-8c07-aafb2887f0ad
-        - https://www.indexxx.com/set/432599/first-bgg-dusya-sveta/
     - id: null
       name: Dusty Rose
       text: Peter North
