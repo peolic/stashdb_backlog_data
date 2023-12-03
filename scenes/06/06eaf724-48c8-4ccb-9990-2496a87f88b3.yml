@@ -5,19 +5,10 @@ comments:
   - https://www.iafd.com/title.rme/title=gigantic+pom+poms/year=2006/gigantic-pom-poms.htm
 performers:
   remove:
-    - id: 415368f0-98d3-48f0-a290-65a7d283afa2
-      name: Mike
-      appearance: null
     - id: 387f9054-9a9d-4ffa-9356-7ac7e320a4c4
       name: Cassidy
       appearance: null
   append:
-    - id: 5dcf37b0-2f3c-40e3-88a0-a5b3207b5784
-      name: Mike
-      appearance: null
-      disambiguation: 2002-3, Reality Kings
-      notes:
-        - https://www.iafd.com/person.rme/perfid=mike_rk2/gender=m/mike.htm
     - id: null
       name: Cassitty
       appearance: Cassidy
