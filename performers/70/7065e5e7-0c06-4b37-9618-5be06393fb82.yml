@@ -1,10 +1,5 @@
 split:
   name: Christian
-  fragments:
-    - id: 4deb20a3-6e12-40fc-8f00-323e8e180631
-      name: Christian XXX
-      text: (images removed, there might still be some scenes left)
-      links:
-        - https://www.iafd.com/person.rme/perfid=christianxxx/gender=m/christian-xxx.htm
+  fragments: []
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers

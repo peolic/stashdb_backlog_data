@@ -1,13 +1,6 @@
 split:
   name: Damien
   fragments:
-    - id: f1e6697b-37b9-46fe-a9d9-bf2b53da2fa4
-      name: Jason Crystal AKA Damien Parks
-      text: (Soapy Massage)
-      links:
-        - https://www.iafd.com/person.rme/perfid=jasoncrystal/gender=m/jason-crystal.htm
-        - https://stashdb.org/scenes/1c5b2a58-e42a-46e7-9e2c-3f05c3799754
-        - https://stashdb.org/scenes/4ed0ead8-b42c-4231-a272-9535e7386b85
     - id: null
       name: Damien (2005, Kink)
       links:

@@ -1,11 +1,6 @@
 split:
   name: Jake
   fragments:
-    - id: 6906d6ff-31e9-4ee8-99bb-be46d4ca4c68
-      name: Jake Robins
-      text: Pure 18
-      links:
-        - https://www.iafd.com/person.rme/perfid=jakerobins/gender=m/jake-robins.htm
     - id: 3d79ed16-ee88-4fc6-b8dc-d7b65ac54ace
       name: Adam Hart (American) AKA Jake Ryan
       text: Digital Playground

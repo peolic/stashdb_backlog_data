@@ -1,12 +1,6 @@
 split:
   name: Eric
   fragments:
-    - id: 152f2402-b3e2-4fbd-975b-440de5cb1500
-      name: Eric Masterson
-      text: (likely all of Digital Playground)
-      links:
-        - https://www.iafd.com/person.rme/perfid=emasterson/gender=m/eric-masterson.htm
-        - https://www.digitalplayground.com/modelprofile/37033/eric
     - id: null
       name: Eric (2020, Bang Bus)
       links:
