@@ -1,15 +1,6 @@
 split:
   name: Austin
   fragments:
-    - id: adb8952c-0557-4a65-89ea-d07b378d427f
-      name: Austin Reines
-      notes:
-        - "- \x02ALS Scan\x03"
-        - '- DDF Network'
-        - '- Nubiles'
-      links:
-        - https://www.iafd.com/person.rme/perfid=austinreines/gender=f/austin-reines.htm
-        - https://www.indexxx.com/m/austin-reines
     - id: null
       name: Austin (2008, Reality Kings)
       text: Money Talks

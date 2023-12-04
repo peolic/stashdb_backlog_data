@@ -1,10 +1,5 @@
 split:
   name: Bo
-  fragments:
-    - id: null
-      name: Boldy
-      text: Mike's Apartment
-      links:
-        - https://www.iafd.com/person.rme/perfid=boldy_h/gender=m/boldy.htm
+  fragments: []
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers
