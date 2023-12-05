@@ -1,0 +1,15 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=526f35f3-9888-4b54-b1ae-40818ed67529
+performers:
+  remove: []
+  append:
+    - id: 1d0315d3-a0fc-4c58-a71f-acdc7a1ef7b9
+      name: Morgan
+      appearance: null
+      disambiguation: 2004, BangBus
+    - id: 422e52f3-e15a-4e51-8475-c9a95a06a687
+      name: Ramon Monster
+      appearance: Ramon
