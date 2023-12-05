@@ -1,0 +1,15 @@
+c_studio:
+  - Captain Stabbin
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a93b6106-d5ba-4320-a8b9-4bed904d2e26
+performers:
+  remove:
+    - id: 1401fadc-e7cf-468e-8bf6-e9ed53fbdcd2
+      name: Cherie Houston
+      appearance: Cherie
+  append:
+    - id: e4155c25-2f9b-4f95-9a91-fe0de6baba33
+      name: Cherie
+      appearance: null
+      disambiguation: 2004, Captain Stabbin
