@@ -1,36 +1,9 @@
 split:
   name: Gia
   fragments:
-    - id: null
+    - id: 45d5a663-c931-4dcb-9ae8-f53d7cbae32d
       name: Gia
       links:
         - https://www.iafd.com/person.rme/perfid=gia_01/gender=f/gia.htm
-    - id: null
-      name: Gia (Reality Kings 2012)
-      links:
-        - https://www.iafd.com/person.rme/perfid=gia_rk_12/gender=f/gia.htm
-        - https://www.indexxx.com/m/gia-12
-        - https://stashdb.org/scenes/d7f685fc-1d6f-4758-933c-b6ca6206d261
-    - id: a241273b-b4cb-4f94-9fc5-8b6a102c7d83
-      name: Gia Malone
-      text: (Reality Kings 2010)
-      links:
-        - https://www.iafd.com/person.rme/perfid=giamalone/gender=f/gia-malone.htm
-        - https://www.indexxx.com/m/gia-malone
-        - https://stashdb.org/scenes/b23a24e2-4c19-4cef-a547-14d2e34d9f47
-        - https://stashdb.org/scenes/f3072f14-f2df-41e7-8f21-4c15d992ef55
-    - id: null
-      name: Gia (Bang)
-      links:
-        - https://www.iafd.com/person.rme/perfid=gia_bb/gender=f/gia.htm
-    - id: null
-      name: Jamie Tyler (?)
-      text: Round and Brown
-      notes:
-        - not to be confused with the existing tattooed Jamie Tyler
-      links:
-        - https://www.iafd.com/person.rme/perfid=jamietyler/gender=f/jamie-tyler.htm
-        - https://www.indexxx.com/m/gia-3
-        - https://stashdb.org/scenes/ec1dbe69-adef-4d47-ae63-e6cdf9497534
   notes:
     - Mix of multiple performers (partial list)
