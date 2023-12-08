@@ -1,14 +1,6 @@
 split:
   name: Cheyanne
   fragments:
-    - id: 8e58ce1f-2d82-4e63-9a25-2e601651d523
-      name: Cheyenne Sweet
-      notes:
-        - '- First Time Auditions'
-        - '- Captain Stabbin'
-      links:
-        - https://www.iafd.com/person.rme/perfid=cheyennesweet/gender=f/cheyenne-sweet.htm
-        - https://www.indexxx.com/m/cheyanne
     - id: null
       name: Cheyanne (1998, Devil's Film)
       text: Peter North

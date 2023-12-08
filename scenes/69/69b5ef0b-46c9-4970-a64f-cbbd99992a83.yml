@@ -1,0 +1,16 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - GF Revenge appears to be a short clip from the Cum Fiesta scene
+  - Right biceps tattoo matches as well
+performers:
+  remove:
+    - id: 46d28c5a-64bd-47d1-b4a7-385e196080b7
+      name: Kennedy Kressler
+      appearance: Kennedy
+  append:
+    - id: c57be168-6f84-4db6-9868-cc560c2c974e
+      name: Kennedy
+      appearance: null
+      disambiguation: cumfiesta.com
