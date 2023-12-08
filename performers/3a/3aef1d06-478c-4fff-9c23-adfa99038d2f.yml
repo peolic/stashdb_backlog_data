@@ -3,20 +3,19 @@ split:
   fragments:
     - id: c57be168-6f84-4db6-9868-cc560c2c974e
       name: Kennedy (2003, Reality Kings)
-      text: Cum Fiesta
+      notes:
+        - '- Cum Fiesta'
+        - '- GF Revenge'
       links:
         - https://www.iafd.com/person.rme/perfid=kennedy_cumfiesta_03/gender=f/kennedy.htm
         - https://www.indexxx.com/m/kennedy-1
         - https://stashdb.org/scenes/d1f89171-42b4-4f9e-b089-b2366e6fc216
+        - https://stashdb.org/scenes/69b5ef0b-46c9-4970-a64f-cbbd99992a83
     - id: null
       name: Kennedy (2010, Dare Dorm)
       text: Dare Dorm
       links:
         - https://www.iafd.com/person.rme/perfid=kennedy_rk10/gender=f/kennedy.htm
         - https://stashdb.org/scenes/423351b3-3662-40d4-a56c-006ae4fbf37c
-    - id: null
-      name: Kennedy (2009, GF Revenge)
-      links:
-        - https://www.iafd.com/person.rme/perfid=kennedy_rk10/gender=f/kennedy.htm
   notes:
     - Mix of multiple performers (complete list as of 2022-08-19)

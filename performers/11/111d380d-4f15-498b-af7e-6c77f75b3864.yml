@@ -1,13 +1,6 @@
 split:
   name: Katrin
   fragments:
-    - id: null
-      name: Katrina Koh
-      text: DDF Network (2004-2008)
-      links:
-        - https://www.iafd.com/person.rme/perfid=katrin_ddf/gender=f/katrin.htm
-        - https://www.indexxx.com/m/katrina-koh
-        - https://www.thenude.com/_354.htm
     - id: 8abdf9bc-035e-4816-b63e-4672e9b1aa85
       name: Katrin (2016, Score)
       text: The Score Group
