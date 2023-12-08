@@ -1,15 +1,5 @@
 split:
   name: Cream
-  fragments:
-    - id: 9b5eb6d3-3cb7-45fe-96ee-f34da3c4024c
-      name: Cream (2005-2008, USA)
-      notes:
-        - '- Extreme Asses'
-        - '- Monster Curves'
-        - '- Round and Brown'
-        - Extreme Asses 2006 just has an incorrect image - in essence this is the earlier release of "Miss Muffet"
-      links:
-        - https://www.iafd.com/person.rme/perfid=cream_bl_10/gender=f/cream.htm
-        - https://www.indexxx.com/m/cream
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

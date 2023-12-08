@@ -2,13 +2,6 @@ split:
   name: Danny
   fragments:
     - id: null
-      name: Danny (2007, rk.com)
-      text: scenes 1, 2
-      links:
-        - https://www.iafd.com/person.rme/perfid=danny_07_br/gender=f/danny.htm
-        - https://stashdb.org/scenes/6b7f56ac-02be-49e7-ac65-b73e21aa7432
-        - https://stashdb.org/scenes/c7d27b1d-cc44-42e6-a90a-a00a0398ca4f
-    - id: null
       name: Richard Becker
       text: 1 scene
       links:
