@@ -25,12 +25,11 @@ split:
     - id: null
       name: Lauren (Rosanne)
       notes:
-        - '- Lez Cuties'
+        - "- \x02Lez Cuties\x03"
         - '- Girls Got Cream'
       links:
         - https://www.iafd.com/person.rme/perfid=laureneu/gender=f/lauren.htm
         - https://www.indexxx.com/m/lauren
-        - https://stashdb.org/scenes/37ff69c0-e4b6-4d97-91a4-7b0239ad1e19
         - https://stashdb.org/scenes/eba04709-dd6b-4215-899b-2a0eef82038a
   notes:
     - Mix of multiple performers (partial list)
