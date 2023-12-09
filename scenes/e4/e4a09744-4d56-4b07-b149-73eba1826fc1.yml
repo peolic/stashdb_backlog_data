@@ -1,0 +1,22 @@
+c_studio:
+  - BangBros Remastered
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=86e06ce5-d301-4ed6-a831-58cf3f16a247
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Mary
+      appearance: Destiny
+      disambiguation: 2002, BangBros
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=mary_02_bb/gender=f/mary.htm
+      notes:
+        - https://www.indexxx.com/m/destiny-13
+    - id: null
+      name: Jesus
+      appearance: null
+      disambiguation: 2002, BangBros
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=jesus_bb/gender=m/jesus.htm
