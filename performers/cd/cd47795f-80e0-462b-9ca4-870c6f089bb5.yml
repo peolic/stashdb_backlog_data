@@ -1,10 +1,5 @@
 split:
   name: Harry
-  fragments:
-    - id: 7c823c65-b61e-4103-8273-0458bcd8128d
-      name: Petr Milovec
-      text: Male Reality scenes
-      links:
-        - https://www.iafd.com/person.rme/perfid=petrmilovec/gender=m/petr-milovec.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

@@ -1,14 +1,5 @@
 split:
   name: Foxy
-  fragments:
-    - id: 00dde4bd-704e-4aee-b1f4-06134c034ff6
-      name: Foxy Katrina AKA Molly C
-      notes:
-        - '- Dirty Flix'
-        - '- 18videoz (since 2013?)'
-        - "- \x02Woodman (moved from Darina)\x03"
-      links:
-        - https://www.iafd.com/person.rme/perfid=foxykatrina/gender=f/foxy-katrina.htm
-        - https://www.indexxx.com/m/foxy-katrina
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
