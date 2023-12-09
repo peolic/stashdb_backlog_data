@@ -2,22 +2,6 @@ split:
   name: Henrietta
   fragments:
     - id: null
-      name: Lisa (HU)
-      notes:
-        - '- Woodman Casting X (2009-12-15)'
-        - '- Pierre Woodman'
-      links:
-        - https://www.iafd.com/person.rme/perfid=honey_eu/gender=f/honey.htm
-        - https://www.indexxx.com/m/lisa-11
-        - https://stashdb.org/scenes/18781b88-fbce-4002-b86e-8ecde6671282
-        - https://stashdb.org/scenes/e4f47484-38f9-43b5-8103-52b1efa93984
-    - id: null
-      name: Kaylee A
-      text: Rylsky Art
-      links:
-        - https://www.indexxx.com/m/kaylee-a
-        - https://www.thenude.com/_28006.htm
-    - id: null
       name: Fanny (HU, 2002-2003)
       text: Woodman Casting X (2009-11-05)
       links:
