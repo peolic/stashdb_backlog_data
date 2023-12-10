@@ -1,0 +1,15 @@
+c_studio:
+  - Backroom Casting Couch
+  - null
+comments:
+  - missing performer
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Bethany
+      appearance: null
+      disambiguation: 2012, Backroom Casting Couch
+      status: new
+      notes:
+        - https://www.backroomcastingcouch.com/models/bethany.html
