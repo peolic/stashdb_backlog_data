@@ -1,0 +1,15 @@
+split:
+  name: Andrea C
+  fragments:
+    - id: null
+      name: Andrea C (MetArt)
+      text: MetArt
+      links:
+        - https://www.indexxx.com/m/andrea-c
+    - id: null
+      name: Andrea (White Ghetto)
+      text: White Ghetto
+      links:
+        - https://stashdb.org/scenes/e1e620f4-8902-4e0b-acc2-058391dd4eb8
+  notes:
+    - Mix of multiple performers (complete list as of 2023-12-12)
