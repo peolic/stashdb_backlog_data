@@ -39,12 +39,15 @@ split:
         - https://stashdb.org/scenes/37858e4c-7782-4416-8bd8-67f1ba449e48
     - id: null
       name: Candy (NVG)
-    - id: null
+    - id: 3f4812be-098e-4b73-86de-5a4bb9abd70b
       name: Paulina Zrnova
       notes:
         - '- Devil''s Film'
         - '- Bushy Bushy'
         - '- White Ghetto'
+      links:
+        - https://www.iafd.com/person.rme/perfid=pavlinas/gender=f/pavlina-s..htm
+        - https://www.indexxx.com/m/candy-6
     - id: null
       name: Candy Cady
       notes:
