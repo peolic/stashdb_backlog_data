@@ -10,11 +10,10 @@ performers:
       name: Adriana
       appearance: null
   append:
-    - id: null
+    - id: 48a58d77-0a15-49db-addd-1f3974863d7d
       name: Adriana Slay
       appearance: Adriana
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=adrianaslay/gender=f/adriana-slay.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=adrianaslay/gender=f/adriana-slay.htm
         - https://www.indexxx.com/m/adriana-slay
         - https://www.thenude.com/_36469.htm
