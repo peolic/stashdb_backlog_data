@@ -9,11 +9,10 @@ performers:
       name: Eva
       appearance: null
   append:
-    - id: null
-      name: Envi
-      appearance: Eva
-      disambiguation: '2008'
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=envi_lez_2008/gender=f/envi.htm
+    - id: 13d83df0-98d1-4d42-9c65-a0ef04c9ec89
+      name: Eva
+      appearance: null
+      disambiguation: 2008, We Live Together
       notes:
+        - https://www.iafd.com/person.rme/perfid=envi_lez_2008/gender=f/envi.htm
         - https://www.indexxx.com/m/eva-4

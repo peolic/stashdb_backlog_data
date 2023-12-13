@@ -1,12 +1,5 @@
 split:
   name: Shauna
-  fragments:
-    - id: 3bc2715f-add3-4fdf-89e0-0cdb7e03cfad
-      name: Donna Duval
-      text: Captain Stabbin
-      links:
-        - https://www.iafd.com/person.rme/perfid=donnaduval/gender=f/donna-duval.htm
-        - https://www.indexxx.com/m/shauna
-        - https://stashdb.org/scenes/e6dcfbce-1360-4220-840a-dd273f0fa31f
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
