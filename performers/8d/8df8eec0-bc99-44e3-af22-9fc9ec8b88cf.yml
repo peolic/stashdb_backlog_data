@@ -1,0 +1,23 @@
+split:
+  name: Ice
+  fragments:
+    - id: null
+      name: Ice (2001-2002)
+      text: Devil's Film
+      notes:
+        - Teen Tryouts Audition 9 Scene 5
+        - w/ Pat Myne
+      links:
+        - https://www.iafd.com/person.rme/perfid=ice_bl00/gender=f/ice.htm
+        - https://stashdb.org/scenes/71be09ad-b563-4da9-bf65-d24f66e03351
+    - id: null
+      name: Ice (1994-1996)
+      text: White Ghetto
+      notes:
+        - Inner City Black Cheerleader Search 2 Scene 5
+        - w/ Nicole Jefferson and Jon Dough
+      links:
+        - https://www.iafd.com/person.rme/perfid=ice/gender=f/ice.htm
+        - https://stashdb.org/scenes/20d100dd-95f7-43b3-8638-01651fcee0dc
+  notes:
+    - Mix of multiple performers (complete list as of 2023-12-18)
