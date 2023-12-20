@@ -1,0 +1,15 @@
+c_studio:
+  - Naughty Mag
+  - null
+comments:
+  - https://www.indexxx.com/set/1054833/naughty-mag-lexi-leigh/
+performers:
+  remove:
+    - id: 688fb354-3269-47ae-82eb-8e20cefc09b4
+      name: Lexi Leigh
+      appearance: null
+      disambiguation: 2005-2011, USA
+  append:
+    - id: 73aecc48-d351-4746-84c6-06419a2da855
+      name: Lexi Daniels
+      appearance: Lexi Leigh
