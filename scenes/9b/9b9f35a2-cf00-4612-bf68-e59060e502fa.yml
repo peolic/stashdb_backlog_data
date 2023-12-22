@@ -7,11 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 377fa512-94a2-4edc-963a-93630e9e72bb
       name: Cameron
       appearance: null
       disambiguation: 2012-13, Reality Kings
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=cameron_12_rk/gender=f/cameron.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=cameron_12_rk/gender=f/cameron.htm
         - https://www.indexxx.com/m/cameron-9
