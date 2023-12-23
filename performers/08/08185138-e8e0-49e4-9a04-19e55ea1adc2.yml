@@ -1,18 +1,5 @@
 split:
   name: Kali
-  fragments:
-    - id: 5a60718f-ef62-4d6d-898b-0805a2bebcfb
-      name: Kali Dreams
-      text: Round and Brown
-      links:
-        - https://www.iafd.com/person.rme/perfid=kalidreams/gender=f/kali-dreams.htm
-        - https://www.indexxx.com/m/kali-dreams
-    - id: null
-      name: Kali Stylz
-      text: Captain Stabbin
-      links:
-        - https://www.iafd.com/person.rme/perfid=kalistylz/gender=f/kali-stylz.htm
-        - https://www.indexxx.com/m/kali-2
-        - https://www.iafd.com/title.rme/title=san+diego+treat/year=2002/san-diego-treat.htm
+  fragments: []
   notes:
     - Mix of multiple performers (complete list as of 2022-10-13)
