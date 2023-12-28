@@ -9,15 +9,20 @@ split:
     - id: null
       name: Unidentified scene
       text: GF Revenge - data18's images are incorrect (see Christie Nelson)
+      notes:
+        - 'NOTE: It''s possible (based on the description on the scene) that it was only a photo album.'
+        - Any actual photos of this scene or from this album could not be found.
+        - No fingerprints as of end of 2023, can potentially be deleted.
       links:
         - https://stashdb.org/scenes/232972c6-adc2-4bce-9b43-5e7d6efcf7a0
         - https://www.data18.com/scenes/1184912
         - https://www.data18.com/scenes/1183872
     - id: null
-      name: Unidentified (not Bambi Stewart)
+      name: Unidentified (maybe not Bambi Stewart)
       text: Bondage Orgasms
       links:
         - https://stashdb.org/scenes/f87077f2-374e-45b3-9e76-b47e6d4cc53f
+        - https://web.archive.org/web/20060627175218/http://www.bondageorgasms.com:80/updates.html/Updates/Bambi
   notes:
     - Mix of multiple performers (partial list), most scenes are probably Bambi Stewart.
     - Bambi was renamed to Bambi Stewart, being non unique.
