@@ -29,10 +29,12 @@ split:
       text: (Mile High Media scene)
       links:
         - https://www.iafd.com/person.rme/perfid=mclovin/gender=m/mc-lovin.htm
-    - id: null
+    - id: 7722f58b-8039-4095-a000-5488f048adaa
       name: Jessie (2015, NVG)
       links:
         - https://www.iafd.com/person.rme/perfid=jessie_nvg15/gender=f/jessie.htm
+        - https://stashdb.org/scenes/6fdb81f4-d19f-42ac-85a8-539f3fbe5bee
+        - https://stashdb.org/scenes/5a15e8b3-ea75-43d4-8087-ace221dca3f6
         - https://ibb.co/B6gt15j
     - id: null
       name: Unidentified
