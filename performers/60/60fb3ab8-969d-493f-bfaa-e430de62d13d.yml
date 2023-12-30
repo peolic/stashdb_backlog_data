@@ -1,5 +1,17 @@
 split:
   name: Crystal
-  fragments: []
+  fragments:
+    - id: null
+      name: Courtney (Karups 2006-2007)
+      text: Net Video Girls (2007)
+      links:
+        - https://www.indexxx.com/m/courtney-8
+        - https://www.thenude.com/_34739.htm
+        - https://stashdb.org/scenes/b485f525-a37b-4cf7-94b7-d575e98d3c08
+    - id: null
+      name: Crystal (2008, Net Video Girls)
+      text: Net Video Girls (2008)
+      links:
+        - https://stashdb.org/scenes/7235b4d5-2a34-486a-9375-55f5c176d44c
   notes:
     - Mix of multiple performers (partial list)
