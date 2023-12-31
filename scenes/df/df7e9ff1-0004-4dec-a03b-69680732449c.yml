@@ -2,11 +2,21 @@ c_studio:
   - Nasty Angels
   - null
 comments:
-  - Performer removed without creating a new one
-  - https://stashdb.org/edits/f28728e6-9864-4680-9156-eee706c5a4c4
+  - Same as Scene 5 of Small Chix Big Dix
+  - https://www.iafd.com/title.rme/id=53468666-da1a-4104-8a26-0c4d4a28aa94
+  - Performer 'Dillan' removed without creating a new one
 performers:
-  remove: []
+  remove:
+    - id: 84aa37fe-6ded-4633-87ba-08531401939f
+      name: Carol
+      appearance: null
   append:
+    - id: null
+      name: Carol
+      appearance: null
+      disambiguation: 2007, Dr. Moretwat
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=carol___drmoretwat/gender=f/carol.htm
     - id: null
       name: Dillan
       appearance: null
