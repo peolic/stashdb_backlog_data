@@ -1,5 +1,14 @@
 split:
   name: Tera
-  fragments: []
+  fragments:
+    - id: 822796ca-4f3a-438b-b98e-db2feef1d2be
+      name: Chrissy Sparks AKA Crissy Sparks
+      text: Net Video Girls (2009)
+      notes:
+        - visually confirmed by lower back tattoo
+      links:
+        - https://www.iafd.com/person.rme/perfid=chrissysparks/gender=f/chrissy-sparks.htm
+        - https://www.indexxx.com/m/crissy-sparks
+        - https://stashdb.org/scenes/161fc031-e0c4-46a7-86c1-3fbf7aca9bd7
   notes:
     - Mix of multiple performers (partial list)
