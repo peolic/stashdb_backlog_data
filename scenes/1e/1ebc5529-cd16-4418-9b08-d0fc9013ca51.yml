@@ -1,0 +1,15 @@
+c_studio:
+  - Devil's Film
+  - Devil's Film
+comments:
+  - incorrect performer
+  - same peace sign tattoo right side of lower abdomen
+performers:
+  remove:
+    - id: a6c6b19e-0173-46d1-aedd-68c1da29c1a5
+      name: Ginger ]2012, USA]
+      appearance: Ginger Madison
+  append:
+    - id: 0c9bb139-c69e-441a-9333-83e9e0e6f724
+      name: Riley Madison
+      appearance: Ginger Madison
