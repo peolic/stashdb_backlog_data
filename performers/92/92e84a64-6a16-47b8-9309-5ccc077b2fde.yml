@@ -1,12 +1,11 @@
 split:
   name: Jenny
   fragments:
-    - id: 417d9c4a-ad0f-4b41-80ea-449219104e4d
-      name: Mariya / Felecia AKA Stella_C
-      text: 'GG Exclusive #010 (2014-04-09)'
+    - id: null
+      name: Jennifer (2010, Shane's World)
+      text: Dare Dorm "Loving Company"
       links:
-        - https://stashdb.org/performers/e797e7bb-1b57-407f-8a81-a589f9711ea2
-        - https://www.iafd.com/person.rme/perfid=felecia_09_russ/gender=f/felecia.htm
-        - https://www.indexxx.com/m/mariya-4
+        - https://www.iafd.com/person.rme/perfid=jennifer_at/gender=f/jennifer.htm
+        - https://stashdb.org/scenes/6361780d-1e67-4932-b70c-c9ba6a0b20ce
   notes:
     - Mix of multiple performers (partial list)
