@@ -2,16 +2,14 @@ split:
   name: Jackie
   fragments:
     - id: null
-      name: Jacky
-      text: 1 scene
+      name: Jackie (?)
+      notes:
+        - '- My Teen Oasis'
+        - '- Silverstone DVD'
       links:
-        - https://www.indexxx.com/m/jacky-3
-        - https://stashdb.org/scenes/d75e300e-0834-4a7f-9b89-93e7cea526dd
-    - id: null
-      name: Jackie Diaz
-      text: New Sensations
-      links:
-        - https://www.iafd.com/person.rme/perfid=jackiediaz/gender=f/jackie-diaz.htm
-        - https://www.indexxx.com/m/jackie-diaz
+        - https://www.iafd.com/person.rme/perfid=jackie_va/gender=f/jackie.htm
+        - https://www.indexxx.com/m/jackie-7
+        - https://stashdb.org/scenes/d1ccf03d-d7d1-402a-9a91-4b379fa59c0b
+        - https://stashdb.org/scenes/f2e62abe-7674-4200-b603-5f04b47f8eb3
   notes:
     - Mix of multiple performers (partial list)

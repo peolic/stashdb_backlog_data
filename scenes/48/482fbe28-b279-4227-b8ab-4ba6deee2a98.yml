@@ -1,0 +1,21 @@
+c_studio:
+  - Daily Sex Dose
+  - null
+comments:
+  - incorrect performers
+  - same as Teenage Fantasies 9 Scene 6, Club Seventeen/Sweethearts
+performers:
+  remove:
+    - id: aa3a326d-928a-42fc-b974-61ef1553fdb0
+      name: Elise Brown
+      appearance: null
+    - id: ccaa906c-a31f-4482-b6e2-e6a06dd1f6cc
+      name: Rosa
+      appearance: null
+  append:
+    - id: 595f1046-6ae3-4278-bcbd-dfcc2ed263b9
+      name: Elisa Tiger
+      appearance: Elise Brown
+    - id: d3a5bef5-19f5-46a1-96e6-27c64004fb10
+      name: Jessica Rox
+      appearance: Rosa
