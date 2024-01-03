@@ -1,12 +1,5 @@
 split:
   name: Miranda
-  fragments:
-    - id: c8074577-3c45-45ce-9141-322061a7e791
-      name: Miranda (Reality Kings 2004)
-      text: Captain Stabbin
-      links:
-        - https://www.iafd.com/person.rme/perfid=miranda_rk_04/gender=f/miranda.htm
-        - https://www.indexxx.com/m/miranda-1
-        - https://stashdb.org/scenes/ff7e5c0c-1b04-4cb5-9cde-dce884dc84a0
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
