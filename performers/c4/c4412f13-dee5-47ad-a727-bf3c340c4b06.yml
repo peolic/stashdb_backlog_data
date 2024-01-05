@@ -1,23 +1,5 @@
 split:
   name: Stacy
-  fragments:
-    - id: 353cd5bc-08ff-4e63-9e2f-ca456efcaa0b
-      name: Stacy (2005, Captain Stabbin)
-      text: 1 scene
-      links:
-        - https://www.iafd.com/person.rme/perfid=stacy_rk_05/gender=f/stacy.htm
-        - https://stashdb.org/scenes/ce5215e5-81d3-4f5a-a256-f5371b8bd1d3
-    - id: null
-      name: Stacy (2006, Street Ranger)
-      text: 1 scene
-      links:
-        - https://www.iafd.com/person.rme/perfid=stacy_bang_06/gender=f/stacy.htm
-        - https://stashdb.org/scenes/9ffe690d-979f-40ac-8eb1-782cd0cbe467
-    - id: null
-      name: Bunny (RU)
-      text: 1 scene
-      links:
-        - https://www.iafd.com/person.rme/perfid=bunny_08_russ/gender=f/bunny.htm
-        - https://stashdb.org/scenes/a4ddcd3d-9aad-4684-9266-caa18cc4ebb0
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
