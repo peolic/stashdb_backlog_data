@@ -1,0 +1,31 @@
+c_studio:
+  - Nasty Angels
+  - null
+comments:
+  - 'UNCONFIRMED: performers and original scene identified by AI, seems correct'
+  - https://www.egafd.com/films/details.php/id/d01635
+  - https://sexuria.net/uploads/posts/2021-02/1613587098_dutch-lollipops-the-hard-wayscreens.jpg
+performers:
+  remove:
+    - id: 7c335f89-a5b6-469d-9b83-324aa77e1971
+      name: Stefa
+      appearance: null
+      status: edit
+    - id: 5db31b64-8bd2-4981-93df-86d421ce7e4f
+      name: Sascha
+      appearance: null
+      disambiguation: Nasty Angels
+      status: edit
+  append:
+    - id: null
+      name: Patricia / Jana Maskori
+      appearance: Stefa
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=patricia_max/gender=f/patricia.htm
+      notes:
+        - https://www.egafd.com/actresses/details.php/id/d00309
+    - id: null
+      name: Luc / Luc van't Ship
+      appearance: Sascha
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=luc_be_01/gender=m/luc.htm
