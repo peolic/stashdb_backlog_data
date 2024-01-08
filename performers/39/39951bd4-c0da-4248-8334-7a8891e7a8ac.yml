@@ -1,7 +1,7 @@
 split:
   name: Zack
   fragments:
-    - id: null
+    - id: 8527ea81-ae67-4f5d-9664-0ef9c1810177
       name: Zack Lemec
       text: (Pegas Productions)
       links:
@@ -9,4 +9,4 @@ split:
         - https://www.pegasproductions.com/zack
   notes:
     - 'Mix of multiple performers (possibly complete list as of 2022-06-11). '
-    - 'At first glance, looks like most scenes are of Sabby (fragment #1).'
+    - "\x02At first glance, looks like most scenes are of Sabby (fragment #1).\x03"
