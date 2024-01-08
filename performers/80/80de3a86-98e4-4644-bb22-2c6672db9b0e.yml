@@ -5,15 +5,9 @@ split:
       name: Divine ?
       text: 21 Bonus
       notes:
-        - (remove birthdate)
+        - (incorrect birthdate)
       links:
         - https://www.iafd.com/person.rme/perfid=divine_07/gender=f/divine.htm
         - https://www.indexxx.com/m/divine-2
-    - id: 91d70a65-0995-424c-82ad-8e1178f433a8
-      name: Divine Chase
-      text: Round and Brown
-      links:
-        - https://www.iafd.com/person.rme/perfid=divinechase/gender=f/divine-chase.htm
-        - https://www.indexxx.com/m/divine-1
   notes:
     - Mix of multiple performers (complete list as of 2023-04-05)

@@ -14,10 +14,12 @@ split:
         - https://stashdb.org/scenes/49ece001-7f2f-49df-ac07-4c1ad7a76e52
     - id: affd4086-0e44-4e25-8ef5-ca84835eb403
       name: Eva (Jack's Playground 18)
-      text: Net Video Girls (2004)
       notes:
+        - "- \x02Digital Playground\x03"
+        - '- Net Video Girls (2004)'
         - Mole left of navel matches
       links:
+        - https://www.indexxx.com/m/eva-105
         - https://stashdb.org/scenes/cca7f3bc-95ae-4b3f-9a4c-617ec6d397b4
     - id: null
       name: Eva (2015, NVG)
