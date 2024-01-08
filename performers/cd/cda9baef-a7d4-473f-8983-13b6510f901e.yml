@@ -1,9 +1,5 @@
 split:
   name: Gia
-  fragments:
-    - id: 45d5a663-c931-4dcb-9ae8-f53d7cbae32d
-      name: Gia
-      links:
-        - https://www.iafd.com/person.rme/perfid=gia_01/gender=f/gia.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

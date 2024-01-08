@@ -1,10 +1,5 @@
 split:
   name: Jake
-  fragments:
-    - id: 3d79ed16-ee88-4fc6-b8dc-d7b65ac54ace
-      name: Adam Hart (American) AKA Jake Ryan
-      text: Digital Playground
-      links:
-        - https://www.iafd.com/person.rme/perfid=adamhart/gender=m/adam-hart.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

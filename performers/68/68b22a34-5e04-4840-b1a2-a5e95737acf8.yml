@@ -1,22 +1,11 @@
 split:
   name: Haley
   fragments:
-    - id: 9b231263-6baa-4ba6-bcb7-0b8d7796dcb9
-      name: Honney Bunny
-      text: (8th Street Latinas)
-      links:
-        - https://www.iafd.com/person.rme/perfid=honnybunny/gender=f/honney-bunny.htm
-        - https://www.indexxx.com/m/honney-bunny
     - id: null
-      name: Haley (2005, Reality Kings)
+      name: Haley (2005, We Live Together)
+      text: We Live Together
       links:
         - https://www.iafd.com/person.rme/perfid=haley05_rk/gender=f/haley.htm
         - https://www.indexxx.com/m/haley-2
-    - id: b912a426-4c43-49b8-abaa-2310b50cc79f
-      name: Haylee Bangg
-      text: (Peter North)
-      links:
-        - https://www.iafd.com/person.rme/perfid=hayleebang/gender=f/hayley-bangg.htm
-        - https://www.indexxx.com/m/haylee-bangg
   notes:
     - Mix of multiple performers (complete list as of 2022-07-03)
