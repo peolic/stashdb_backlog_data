@@ -1,0 +1,15 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - incorrect performer due to same alias at studio
+  - https://www.iafd.com/title.rme/id=634ac226-90dc-445b-ac91-f3b8ef9e1282
+performers:
+  remove:
+    - id: 0a35292d-64af-47ed-ae21-b55cbb662250
+      name: Andre Garcia
+      appearance: Andre
+  append:
+    - id: 08ee5abd-f9fe-4ca0-add1-fa4617755396
+      name: Andre Santos
+      appearance: Andre

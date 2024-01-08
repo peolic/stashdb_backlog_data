@@ -7,7 +7,7 @@ split:
         - "- \x02Digital Playground\x03"
         - "- \x02Give Me Teens\x03"
         - '- Peter North'
-        - '- Twistys'
+        - "- \x02Twistys\x03"
         - "- \x02Wicked\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=jazmin_in/gender=f/jazmin.htm
