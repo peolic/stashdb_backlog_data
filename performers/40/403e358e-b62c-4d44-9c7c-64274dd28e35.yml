@@ -23,7 +23,7 @@ split:
         - https://stashdb.org/scenes/ae1cda4e-98c0-4cb3-b45f-6b59f229d273
         - https://stashdb.org/scenes/5d2d20b0-d1a7-4164-a38d-e5ceac4cbaf4
         - https://stashdb.org/scenes/1b858fa2-0506-4812-a3d3-fb7d6d759181
-    - id: null
+    - id: cd22c4de-2eb1-4dc4-89c6-09bfbee6ae1c
       name: Mandy Casa
       text: Boob Squad
       links:
@@ -46,9 +46,9 @@ split:
     - id: 3f4812be-098e-4b73-86de-5a4bb9abd70b
       name: Paulina Zrnova
       notes:
-        - '- Devil''s Film'
+        - "- \x02Devil's Film\x03"
         - '- Bushy Bushy'
-        - '- White Ghetto'
+        - "- \x02White Ghetto\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=pavlinas/gender=f/pavlina-s..htm
         - https://www.indexxx.com/m/candy-6
