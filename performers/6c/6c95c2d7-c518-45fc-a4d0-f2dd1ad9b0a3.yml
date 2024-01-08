@@ -1,16 +1,6 @@
 split:
   name: Tess
   fragments:
-    - id: 7f90a5a5-bd0b-415f-b3a2-b25c1eafa6f6
-      name: Tess AKA Eliza
-      notes:
-        - '- Devil''s Film'
-        - '- Give Me Teens'
-      links:
-        - https://www.iafd.com/person.rme/perfid=tess_rus/gender=f/tess.htm
-        - https://www.indexxx.com/m/eliza-5
-        - https://stashdb.org/scenes/881c502f-04df-417d-8ce7-425b42287cb5
-        - https://stashdb.org/scenes/b5766af2-ffe8-411a-a5f9-729461425530
     - id: 9f48a2cc-295d-4e0e-ac66-fa10632adc1d
       name: Tess (2012-13, France)
       notes:
