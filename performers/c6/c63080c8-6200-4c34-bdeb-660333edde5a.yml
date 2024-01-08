@@ -1,5 +1,18 @@
 split:
   name: Safire
-  fragments: []
+  fragments:
+    - id: 266c9d02-deff-4841-8964-c7636eef2701
+      name: Safire Flamez
+      text: Round and Brown
+      links:
+        - https://www.iafd.com/person.rme/perfid=safireflamez/gender=f/safire-flamez.htm
+        - https://www.indexxx.com/m/safire-flamez
+        - https://stashdb.org/scenes/edfbf160-60c4-4f35-beff-9370258e28ce
+    - id: null
+      name: Safire
+      text: Motherfucker XXX
+      links:
+        - https://www.iafd.com/person.rme/perfid=safire06/gender=f/safire.htm
+        - https://stashdb.org/scenes/64846a6c-7209-4d25-a0ce-a8b6d831a816
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2024-01-08)
