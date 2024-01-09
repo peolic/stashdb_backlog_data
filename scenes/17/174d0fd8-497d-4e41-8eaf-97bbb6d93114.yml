@@ -1,0 +1,14 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - Only one performer in the video, appears to be Genie Onyx
+performers:
+  remove:
+    - id: 44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b
+      name: Michelle
+      appearance: null
+    - id: cafbb8a1-c383-4c68-983f-d35c6dafd8f2
+      name: Natalie
+      appearance: null
+  append: []
