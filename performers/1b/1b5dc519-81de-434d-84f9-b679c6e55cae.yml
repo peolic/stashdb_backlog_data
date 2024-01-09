@@ -9,9 +9,11 @@ split:
     - id: a0a2fb96-910b-4913-84b6-01f0910ad405
       name: Krista Hall
       notes:
-        - '- Peter North'
+        - "- \x02Peter North\x03"
         - '- Rocco Siffredi'
       links:
         - https://www.iafd.com/person.rme/perfid=krista/gender=f/krista.htm
+        - https://stashdb.org/scenes/9dd6c164-9e16-4459-b562-f27e32fcb34f
+        - https://stashdb.org/scenes/45b32f47-08fc-4898-9b5a-30fda50603f3
   notes:
     - Mix of multiple performers (complete list as of 2023-03-06)
