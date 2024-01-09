@@ -30,8 +30,10 @@ split:
       name: Vicky (2009, Net Video Girls)
       text: Net Video Girls
     - id: 74d66cf3-2439-43e6-b712-c2dddcd22df3
-      name: "Aimee (mature.nl, 2008) \x02[\x03\x02iafd\x03\x02]\x03"
-      text: White Ghetto
+      name: Aimee (mature.nl, 2008)
+      text: "[\x02iafd\x03]"
+      notes:
+        - '- White Ghetto'
       links:
         - https://www.iafd.com/person.rme/perfid=vickie_eu_09/gender=f/vickie.htm
         - https://www.indexxx.com/m/aimee-4
