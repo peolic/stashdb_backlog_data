@@ -1,0 +1,15 @@
+c_studio:
+  - Innocent High
+  - null
+comments:
+  - TJ Cummings is incorrect, IAFD updated (previously listed only female)
+  - https://www.iafd.com/title.rme/title=mister+am+i+accepted+now/year=2013/mister_am_i_accepted_now.htm
+performers:
+  remove:
+    - id: 70afef57-3745-4383-81bd-a0c921cfb0c6
+      name: TJ Cummings
+      appearance: null
+  append:
+    - id: 12e97177-40ce-41fd-9bcd-98df3de88fd3
+      name: Sonny Nash
+      appearance: null
