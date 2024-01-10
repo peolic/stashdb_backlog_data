@@ -1,0 +1,13 @@
+c_studio:
+  - She Reacts
+  - Tug Pass
+comments:
+  - Identified
+  - https://www.iafd.com/title.rme/id=d91ac1c0-3fdc-49c7-9f54-150f418be97e
+  - https://ibb.co/QCnh28H
+performers:
+  remove: []
+  append:
+    - id: ed0e1f93-f902-49f1-b954-936eb850670e
+      name: Candy White
+      appearance: Amy
