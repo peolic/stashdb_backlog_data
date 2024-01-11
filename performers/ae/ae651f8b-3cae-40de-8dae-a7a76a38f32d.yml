@@ -1,5 +1,17 @@
 split:
   name: Sonya and Alla
-  fragments: []
+  fragments:
+    - id: 95f557fb-79c7-4443-95e5-c0f12d62d26e
+      name: Bayley Warnock
+      links:
+        - https://www.iafd.com/person.rme/perfid=bayleywarnock/gender=f/bayley-warnock.htm
+        - https://www.indexxx.com/m/monique-14
+    - id: 0454b1dd-721b-429e-8f5e-a39b3b6424c6
+      name: Tereza Korbelyova
+      links:
+        - https://www.iafd.com/person.rme/perfid=terezakorbelyova/gender=f/tereza-korbelyova.htm
+        - https://www.indexxx.com/m/tery
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1927
+  links:
+    - https://www.iafd.com/title.rme/id=fbbdd654-03ee-4d5e-b6b1-99b8506da694
