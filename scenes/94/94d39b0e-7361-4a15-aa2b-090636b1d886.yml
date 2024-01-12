@@ -10,11 +10,10 @@ performers:
       name: Jamie
       appearance: null
   append:
-    - id: null
+    - id: 67375f35-b18d-46d2-a600-487ad150fd72
       name: Molly Bronte
       appearance: Jamie
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=mollybronte/gender=f/molly-bronte.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=mollybronte/gender=f/molly-bronte.htm
         - https://www.indexxx.com/m/bridget-2
 title: Reluctant during Audition
