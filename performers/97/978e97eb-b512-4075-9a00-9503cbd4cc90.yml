@@ -1,3 +1,10 @@
 split:
   name: Cathy
-  fragments: []
+  fragments:
+    - id: null
+      name: Becca (2006, Reality Kings)
+      links:
+        - https://www.iafd.com/person.rme/perfid=becca_rk_06/gender=f/becca.htm
+        - https://www.indexxx.com/m/becca-2
+  notes:
+    - Missing information and main photo needs to be removed
