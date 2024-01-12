@@ -1,12 +1,10 @@
 split:
   name: Christine
   fragments:
-    - id: e94ca69f-a1bd-4dcd-88e3-565077ca0f2d
-      name: Christine (2012, Mofos), possibly Antoanett
-      text: Mofos Worldwide
+    - id: 24192f33-3580-4c71-a86b-674057e7f6fc
+      name: Christine (2002, Net Video Girls)
+      text: Net Video Girls (2002)
       links:
-        - https://www.iafd.com/person.rme/perfid=christine_mofo/gender=f/christine.htm
-        - https://www.indexxx.com/m/christine-7
-        - https://stashdb.org/scenes/24fac2c6-424d-4057-93ac-6863a470674a
+        - https://stashdb.org/scenes/ee58c786-39ed-4c2d-b9cc-19c990d55c9a
   notes:
     - Mix of multiple performers (partial list)
