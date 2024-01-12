@@ -1,5 +1,19 @@
 split:
   name: Francesca and Donia
-  fragments: []
+  fragments:
+    - id: 95f557fb-79c7-4443-95e5-c0f12d62d26e
+      name: Bayley Warnock
+      links:
+        - https://www.iafd.com/person.rme/perfid=bayleywarnock/gender=f/bayley-warnock.htm
+        - https://www.indexxx.com/m/monique-14
+        - https://stashdb.org/scenes/6b67e192-2660-4b09-a178-b73270ac0e65
+    - id: 0454b1dd-721b-429e-8f5e-a39b3b6424c6
+      name: Tereza Korbelyova
+      links:
+        - https://www.iafd.com/person.rme/perfid=terezakorbelyova/gender=f/tereza-korbelyova.htm
+        - https://www.indexxx.com/m/tery
+        - https://stashdb.org/scenes/6b67e192-2660-4b09-a178-b73270ac0e65
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1924
+  links:
+    - https://www.iafd.com/title.rme/id=98ab09f7-a5bb-49f3-b80a-7805af2668e8
