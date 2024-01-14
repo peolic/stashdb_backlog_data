@@ -1,14 +1,5 @@
 split:
   name: Karina
-  fragments:
-    - id: 5207e692-c014-4edb-9044-e6d8d9179bce
-      name: Vivienne (UKR, 2001-2009) AKA Vivienn
-      notes:
-        - '- ALS Scan'
-        - "\x02- Mike's Apartment"
-        - "- Twistys\x03"
-      links:
-        - https://www.iafd.com/person.rme/perfid=vivienne_pr/gender=f/vivienne.htm
-        - https://www.indexxx.com/m/vivien-1
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
