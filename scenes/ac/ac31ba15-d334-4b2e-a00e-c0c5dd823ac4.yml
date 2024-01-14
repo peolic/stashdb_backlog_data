@@ -7,13 +7,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
-      name: Anastasia
-      appearance: null
-      disambiguation: Canadian, 2006-2007
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=anastasia_pv/gender=f/anastasia.htm
+    - id: 38af564c-0791-422e-8c24-244f5d7af2cd
+      name: Tanya
+      appearance: Anastasia
+      disambiguation: 2006, Nubiles.net
       notes:
+        - https://www.iafd.com/person.rme/perfid=anastasia_pv/gender=f/anastasia.htm
         - https://www.indexxx.com/m/tanya-1
         - https://www.thenude.com/_29676.htm
     - id: 0c14ed13-3790-4133-bd0e-96cf41f3fa2e
