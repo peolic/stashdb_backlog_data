@@ -1,13 +1,6 @@
 split:
   name: Paige
   fragments:
-    - id: bc85b6c6-7c94-4c73-a77d-67a363fb6804
-      name: Paige Turner (2004, USA)
-      text: New Sensations
-      links:
-        - https://www.iafd.com/person.rme/perfid=paigeturner/gender=f/paige-turner.htm
-        - https://www.indexxx.com/m/paige-turner
-        - https://stashdb.org/scenes/d1907885-3703-4455-9b59-ab4d5cad8fbf
     - id: null
       name: Paige (2007, ALS Scan)
       text: ALS Scan
