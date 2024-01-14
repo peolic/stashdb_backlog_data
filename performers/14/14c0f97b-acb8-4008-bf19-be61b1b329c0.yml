@@ -1,5 +1,24 @@
 split:
   name: Nora
-  fragments: []
+  fragments:
+    - id: fc03a874-48fd-47eb-b685-38c5f25ffc0d
+      name: Nora Soft
+      text: Woodman Casting X (2009)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ecristaldi/gender=f/emanuell.htm
+        - https://www.indexxx.com/m/nora-16
+        - https://stashdb.org/scenes/2f2db38d-ad00-42cc-9574-0d522d74d5a7
+    - id: null
+      name: Nora (?)
+      text: Woodman Casting X (2010)
+      links:
+        - https://www.indexxx.com/m/nora-15
+        - https://stashdb.org/scenes/0084ac49-7779-4421-83f7-34d93b5d44f9
+    - id: null
+      name: Nora (2009, Woodman)
+      text: Woodman Casting X (2011)
+      links:
+        - https://www.indexxx.com/m/nora-13
+        - https://stashdb.org/scenes/1014bc0f-00d3-4ed0-971d-1ab54087f907
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2024-01-13)
