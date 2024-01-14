@@ -1,5 +1,15 @@
 split:
   name: Gala and Vika
-  fragments: []
+  fragments:
+    - id: null
+      name: unknown blonde
+      links:
+        - https://www.iafd.com/person.rme/perfid=uf798280a/gender=f/unknown-female-798280%2da.htm
+    - id: null
+      name: unknown brunette
+      links:
+        - https://www.iafd.com/person.rme/perfid=uf798280b/gender=f/unknown-female-798280%2db.htm
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1895
+  links:
+    - https://www.iafd.com/title.rme/id=c35abb15-7f7a-4166-aa9a-999fb8722fa4

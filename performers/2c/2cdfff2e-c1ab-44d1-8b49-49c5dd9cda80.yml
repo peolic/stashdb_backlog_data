@@ -1,5 +1,17 @@
 split:
   name: Gaby and Cristine
-  fragments: []
+  fragments:
+    - id: 338d85a8-7810-4505-904a-bc80b4b1a055
+      name: Anetta Keys
+      links:
+        - https://www.iafd.com/person.rme/perfid=anetakeys_05_eu/gender=f/aneta-keys.htm
+        - https://www.indexxx.com/m/anetta-keys
+    - id: 3e802e27-a440-4112-8e8b-d8daf31e00e0
+      name: Eva Ko.
+      links:
+        - https://www.iafd.com/person.rme/perfid=evelin/gender=f/evelin.htm
+        - https://www.indexxx.com/m/eva-ko
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1904
+  links:
+    - https://www.iafd.com/title.rme/id=72721fd0-7e6c-46b3-a382-955c5101d63b
