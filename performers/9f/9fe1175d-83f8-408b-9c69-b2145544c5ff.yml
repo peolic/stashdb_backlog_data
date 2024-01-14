@@ -1,5 +1,12 @@
 split:
   name: Camila
-  fragments: []
+  fragments:
+    - id: null
+      name: Camila (2007, 8th Street Latinas)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=camila_rk_07/gender=f/camila.htm
+        - https://www.indexxx.com/m/camila
+        - https://stashdb.org/scenes/d0fa09ac-32c9-44f8-ae63-2bb60d8a5940
   notes:
     - Mix of multiple performers (partial list)
