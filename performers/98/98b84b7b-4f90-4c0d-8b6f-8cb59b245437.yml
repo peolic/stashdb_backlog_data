@@ -1,5 +1,12 @@
 split:
   name: Suzanna
-  fragments: []
+  fragments:
+    - id: null
+      name: Suzanna (2008, Mike in Brazil)
+      text: Mike in Brazil
+      links:
+        - https://www.iafd.com/person.rme/perfid=suzanna_08_br/gender=f/suzanna.htm
+        - https://www.indexxx.com/m/suzanna-1
+        - https://stashdb.org/scenes/d1eaae43-3762-4396-b4ab-5fa017036e13
   notes:
     - Mix of multiple performers
