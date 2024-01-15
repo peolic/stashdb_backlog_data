@@ -1,13 +1,6 @@
 split:
   name: Nikita
   fragments:
-    - id: 4e98c02c-a1e8-469f-a7ea-fb2db5d46a32
-      name: Nikita Gross
-      text: Wicked
-      links:
-        - https://www.iafd.com/person.rme/perfid=nikita/gender=f/nikita-gross.htm
-        - https://stashdb.org/scenes/d263b532-77dd-4faa-9d70-6fc4a1c21aec
-        - https://stashdb.org/scenes/480ed0ec-e634-415b-b92e-c4c091b7bc36
     - id: null
       name: Nikita (2010, White Ghetto)
       text: White Ghetto

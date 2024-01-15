@@ -1,10 +1,11 @@
 split:
   name: Joe
   fragments:
-    - id: null
+    - id: b02dfb72-aa53-491e-9270-9584bab7632c
       name: POVJoe
       text: 'some Nasty Angels: redistributions of Alfa Red?'
       links:
         - https://www.iafd.com/person.rme/perfid=povjoe/gender=m/povjoe.htm
+        - https://straight.aebn.com/straight/studios/21565/alfa-red
   notes:
     - Mix of multiple performers (partial list)
