@@ -1,14 +1,6 @@
 split:
   name: Shine
   fragments:
-    - id: 432d1f07-f44a-4e3a-be7b-be7cc0d4bc2d
-      name: Stacey Shine
-      notes:
-        - '- First Time Auditions'
-        - '- L Factor'
-      links:
-        - https://www.iafd.com/person.rme/perfid=staceyshine/gender=f/stacey-shine.htm
-        - https://www.indexxx.com/m/stacey-shine
     - id: null
       name: Shine (2009, Boys First Time)
   notes:
