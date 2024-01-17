@@ -2,19 +2,27 @@ split:
   name: Mary Jane
   fragments:
     - id: null
-      name: Mary Jane (2001, BangBros)
-      text: (2 scenes)
+      name: Mary Jane (?)
+      text: (2 BangBros scenes)
+      notes:
+        - maybe Silvia Saint too
       links:
-        - https://www.iafd.com/person.rme/perfid=maryjane_bb/gender=f/mary-jane.htm
+        - https://www.iafd.com/person.rme/perfid=maryjane/gender=f/mary-jane.htm
         - https://www.indexxx.com/m/mary-jane-2
+        - https://stashdb.org/scenes/3e6c06e5-854c-4848-8b33-9688c69f7052
+        - https://stashdb.org/scenes/f52e2150-fa90-41e6-8174-cf732cefefb5
+        - https://stashdb.org/scenes/9778548f-2387-4759-a30a-a2bd63ef58bb
     - id: null
       name: Mary Jane (2011, Blowpass)
       text: (1 scene)
       links:
         - https://www.iafd.com/person.rme/perfid=maryjane_bp_11/gender=f/mary-jane.htm
         - https://www.indexxx.com/m/mary-jane-5
+        - https://stashdb.org/scenes/9fa62edf-7239-4629-a5de-727af2ba3e75
     - id: null
       name: Mary Jane (2020, Hoby Buchanon)
       text: 1 scene
+      links:
+        - https://stashdb.org/scenes/033d8ec6-6bb8-463a-87db-ee552e0c0dfa
   notes:
     - Mix of multiple performers (possibly complete list)
