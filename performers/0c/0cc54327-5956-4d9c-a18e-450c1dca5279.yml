@@ -1,26 +1,6 @@
 split:
   name: Mary Jane
   fragments:
-    - id: 6c4ca4e0-eb41-4c78-a075-dfed0c42e81e
-      name: Mary Jane (?)
-      notes:
-        - '- Bang Bus'
-        - '- BangBros Remastered'
-        - '- Silvia Saint: same as Black Tails 2 Scene 2'
-      links:
-        - https://www.iafd.com/person.rme/perfid=maryjane/gender=f/mary-jane.htm
-        - https://www.indexxx.com/m/mary-jane-2
-        - https://stashdb.org/scenes/f52e2150-fa90-41e6-8174-cf732cefefb5
-        - https://stashdb.org/scenes/9778548f-2387-4759-a30a-a2bd63ef58bb
-        - https://stashdb.org/scenes/3e6c06e5-854c-4848-8b33-9688c69f7052
-        - https://www.iafd.com/title.rme/id=f6faf424-013d-4e01-ae7f-fdffcfcabed4
-    - id: 6e18ff8c-940f-44c4-86d7-8e9d70907371
-      name: Mary Jane (2011, Blowpass)
-      text: (1 scene)
-      links:
-        - https://www.iafd.com/person.rme/perfid=maryjane_bp_11/gender=f/mary-jane.htm
-        - https://www.indexxx.com/m/mary-jane-5
-        - https://stashdb.org/scenes/9fa62edf-7239-4629-a5de-727af2ba3e75
     - id: null
       name: Mary Jane (2020, Hoby Buchanon)
       text: 1 scene

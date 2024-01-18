@@ -22,9 +22,13 @@ split:
     - id: null
       name: Chris (2011, GF Revenge)
       text: GF Revenge "Wet And Wild"
+      notes:
+        - Also in College Rules "The Girls School The Newbs"
+        - (IAFD updated 2024-01-18)
       links:
         - https://www.iafd.com/person.rme/perfid=chris_rk_11/gender=m/chris.htm
         - https://stashdb.org/scenes/4cb30c77-0d64-4e5e-8ae9-2ca8e21f8dac
+        - https://stashdb.org/scenes/5240ef04-b2d7-4255-af88-06bb5be460a2
     - id: null
       name: Chris Marks
       text: Happy Tugs
