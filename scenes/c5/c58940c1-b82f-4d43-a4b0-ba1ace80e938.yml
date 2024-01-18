@@ -1,0 +1,15 @@
+c_studio:
+  - Silvia Saint
+  - null
+comments:
+  - seemingly a mix-up of performers with Montana Wett
+  - same as Black Tails 3 Scene 2, moles on left buttock match
+performers:
+  remove:
+    - id: e6525c57-fb24-4036-93fe-ba6ba444dadd
+      name: Montana Wett
+      appearance: null
+  append:
+    - id: 4d668973-8f33-4484-9a5f-33ab4de1691c
+      name: Treasure
+      appearance: null
