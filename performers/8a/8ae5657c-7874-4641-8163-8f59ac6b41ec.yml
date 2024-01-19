@@ -1,32 +1,5 @@
 split:
   name: Shelby
-  fragments:
-    - id: 766f5d8b-0daf-4c0a-8484-dd2015037be3
-      name: Shelby Belle
-      notes:
-        - "\x02- ALS Scan\x03"
-        - "\x02- Cum Fiesta\x03"
-        - '- Done ?'
-      links:
-        - https://www.iafd.com/person.rme/perfid=shelbybelle/gender=f/shelby-belle.htm
-        - https://www.indexxx.com/m/shelby-belle
-    - id: null
-      name: Shelby Taylor
-      text: Twistys
-      links:
-        - https://www.iafd.com/person.rme/perfid=shelbytaylor/gender=f/shelby-taylor.htm
-        - https://www.indexxx.com/m/shelby-taylor
-    - id: null
-      name: Shelby (Teen Core Club)
-      text: Teen Core Club
-      links:
-        - https://www.iafd.com/person.rme/perfid=shelby_07_russ/gender=f/shelby.htm
-        - https://www.indexxx.com/m/shelby-16
-    - id: null
-      name: Shelby (2004, Captain Stabbin)
-      text: Captain Stabbin
-      links:
-        - https://www.iafd.com/person.rme/perfid=shelby_rk_04/gender=f/shelby.htm
-        - https://www.indexxx.com/m/shelby-1
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

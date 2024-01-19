@@ -1,5 +1,11 @@
 split:
   name: Shawna
-  fragments: []
+  fragments:
+    - id: null
+      name: Shawna Valentino
+      text: Silverstone DVD
+      links:
+        - https://www.iafd.com/person.rme/perfid=svalentino/gender=f/shawna-valentino.htm
+        - https://stashdb.org/scenes/df7e40b6-8834-481d-a9c0-b711d03ca71b
   notes:
     - Mix of multiple performers
