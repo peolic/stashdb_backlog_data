@@ -1,2 +1,15 @@
 duplicates:
   - 36937e13-4d8c-449f-97e5-1d57272e4a2f
+fingerprints:
+  - algorithm: oshash
+    hash: b78878f05421ac7d
+    correct_scene_id: 98be2d1f-468b-4ac6-a375-324fcb8fa9e3
+    duration: 1974
+  - algorithm: phash
+    hash: d65650c948ccac7f
+    correct_scene_id: 98be2d1f-468b-4ac6-a375-324fcb8fa9e3
+    duration: 1974
+  - algorithm: md5
+    hash: 5479ed022d13a500c04fe4c97d647807
+    correct_scene_id: 98be2d1f-468b-4ac6-a375-324fcb8fa9e3
+    duration: 1974
