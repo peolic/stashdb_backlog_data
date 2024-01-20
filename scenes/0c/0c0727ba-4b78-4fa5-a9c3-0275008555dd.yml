@@ -1,0 +1,25 @@
+fingerprints:
+  - algorithm: phash
+    hash: 8e53e6f1105cf28e
+    correct_scene_id: 11259cac-dd4c-40d4-b18b-a5a1648600d4
+    duration: 1705
+  - algorithm: oshash
+    hash: a185dd744940aad3
+    correct_scene_id: 11259cac-dd4c-40d4-b18b-a5a1648600d4
+    duration: 1705
+  - algorithm: oshash
+    hash: b8cfaef24257c0dd
+    correct_scene_id: 11259cac-dd4c-40d4-b18b-a5a1648600d4
+    duration: 1705
+  - algorithm: oshash
+    hash: 6c2666e926420d08
+    correct_scene_id: 11259cac-dd4c-40d4-b18b-a5a1648600d4
+    duration: 1705
+  - algorithm: oshash
+    hash: 3c5ae573c8be3eba
+    correct_scene_id: 11259cac-dd4c-40d4-b18b-a5a1648600d4
+    duration: 1707
+  - algorithm: phash
+    hash: 8c13e6e150c9cfa7
+    correct_scene_id: 11259cac-dd4c-40d4-b18b-a5a1648600d4
+    duration: 1707
