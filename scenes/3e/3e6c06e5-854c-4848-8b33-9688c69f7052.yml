@@ -9,6 +9,7 @@ performers:
     - id: 4d668973-8f33-4484-9a5f-33ab4de1691c
       name: Treasure
       appearance: null
+      disambiguation: 1998-2004
   append:
     - id: e6525c57-fb24-4036-93fe-ba6ba444dadd
       name: Montana Wett
