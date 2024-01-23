@@ -1,11 +1,5 @@
 split:
   name: Cynthia
-  fragments:
-    - id: null
-      name: Cynthia (1998, Woodman)
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/cynthia-15
-        - https://stashdb.org/scenes/500f33c5-6e25-44bd-a647-765e73e450cd
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
