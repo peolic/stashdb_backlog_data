@@ -1,0 +1,18 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - '- male performer identified'
+  - '- correct alias'
+  - https://www.iafd.com/title.rme/title=may+day+may+day/year=2002/may-day-may-day.htm
+performers:
+  remove: []
+  append:
+    - id: 2554292b-5fa6-495b-86fb-0eff132b76f3
+      name: Bradley Fitzgerald
+      appearance: Charles
+  update:
+    - id: 3b0846a2-ba49-424c-a9df-32269b090054
+      name: Sunshine Nee
+      appearance: May
+      old_appearance: null
