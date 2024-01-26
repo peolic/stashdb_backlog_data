@@ -1,6 +1,12 @@
 split:
   name: Nicolle
-  fragments: []
+  fragments:
+    - id: null
+      name: Nicolle
+      text: Transsexual Roadtrip
+      links:
+        - https://www.iafd.com/person.rme/perfid=nicolle_ts/gender=f/nicolle.htm
+        - https://stashdb.org/scenes/12d983bd-0903-4f4a-9803-70f71f0c5007
   notes:
     - Mix of multiple performers
     - Information listed is Kirsten Plant
