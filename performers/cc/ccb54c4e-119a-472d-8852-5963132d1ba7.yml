@@ -1,10 +1,10 @@
 split:
   name: Nick
   fragments:
-    - id: null
+    - id: e286b703-4945-405b-89a5-4b999dff0671
       name: Novar Byelan
       notes:
-        - '- Dirty Flix'
+        - "- \x02Dirty Flix\x03"
         - '- 18videoz (2015-2018)'
       links:
         - https://www.iafd.com/person.rme/perfid=novarbyelan/gender=m/novar-byelan.htm
