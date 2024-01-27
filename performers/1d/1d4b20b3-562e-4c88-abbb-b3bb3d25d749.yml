@@ -1,5 +1,15 @@
 split:
   name: Christelle & Sandrine
-  fragments: []
+  fragments:
+    - id: null
+      name: Christelle (French, 1993-1996)
+      links:
+        - https://www.iafd.com/person.rme/perfid=christelle/gender=f/christelle.htm
+        - https://www.indexxx.com/m/christelle-1
+    - id: null
+      name: Sandrine (French, 1993-1996)
+      links:
+        - https://www.iafd.com/person.rme/perfid=sandrine_twin/gender=f/sandrine.htm
+        - https://www.indexxx.com/m/sandrine-2
   notes:
     - Amalgamated performer

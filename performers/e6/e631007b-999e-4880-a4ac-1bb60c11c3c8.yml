@@ -1,5 +1,16 @@
 split:
   name: Ouan And Mame
-  fragments: []
+  fragments:
+    - id: null
+      name: Quan
+      text: 'note: ''Q'', not ''O'''
+      links:
+        - https://www.iafd.com/person.rme/perfid=quan/gender=f/quan.htm
+        - https://www.indexxx.com/m/ouan
+    - id: null
+      name: Mame Yong
+      links:
+        - https://www.iafd.com/person.rme/perfid=myong/gender=f/mame-yong.htm
+        - https://www.indexxx.com/m/mame
   notes:
     - Amalgamated performer

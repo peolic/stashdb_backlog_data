@@ -1,5 +1,13 @@
 split:
   name: Ildico & Beata
-  fragments: []
+  fragments:
+    - id: null
+      name: Ildico (Hungarian, 1999)
+      links:
+        - https://www.indexxx.com/m/ildico-2
+    - id: null
+      name: Beata (Hungarian, 1999)
+      links:
+        - https://www.indexxx.com/m/beata-14
   notes:
     - Amalgamated performer

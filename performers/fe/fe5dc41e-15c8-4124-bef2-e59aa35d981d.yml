@@ -1,5 +1,13 @@
 split:
   name: Lena And Natasha
-  fragments: []
+  fragments:
+    - id: null
+      name: Lena (1994, Russian, Woodman)
+      links:
+        - https://www.indexxx.com/m/lena-14
+    - id: null
+      name: Natasha (1994, Russian, Woodman)
+      links:
+        - https://www.indexxx.com/m/natasha-77
   notes:
     - Amalgamated performer
