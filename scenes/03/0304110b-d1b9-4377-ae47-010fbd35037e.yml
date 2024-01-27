@@ -7,9 +7,7 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
-      name: Natasha
-      appearance: null
-      disambiguation: 2008, Filthy Films
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=natasha_cc_09/gender=f/natasha.htm
+    - id: c968fa00-8a9d-4f82-b718-d92c7ab7d83a
+      name: Anna
+      appearance: Natasha
+      disambiguation: 2008, SeeMyWife
