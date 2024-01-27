@@ -1,5 +1,15 @@
 split:
   name: Judith And Szuza
-  fragments: []
+  fragments:
+    - id: null
+      name: Judit
+      links:
+        - https://www.iafd.com/person.rme/perfid=judit_hun_99/gender=f/judit.htm
+        - https://www.indexxx.com/m/judith-17
+    - id: null
+      name: Susza
+      links:
+        - https://www.iafd.com/person.rme/perfid=susza_hun_99/gender=f/susza.htm
+        - https://www.indexxx.com/m/szuza
   notes:
     - Amalgamated performer

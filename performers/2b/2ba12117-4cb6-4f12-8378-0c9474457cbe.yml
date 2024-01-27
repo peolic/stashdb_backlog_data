@@ -1,5 +1,15 @@
 split:
   name: Ania And Tania
-  fragments: []
+  fragments:
+    - id: null
+      name: Ania (2000, Russian, Woodman)
+      text: Fully clothed interview
+      links:
+        - https://www.indexxx.com/m/ania-9
+    - id: null
+      name: Tania (2000, Russian, Woodman)
+      text: Fully clothed interview
+      links:
+        - https://www.indexxx.com/m/tania-8
   notes:
     - Amalgamated performer

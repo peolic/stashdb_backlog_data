@@ -7,10 +7,12 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=quan/gender=f/quan.htm
         - https://www.indexxx.com/m/ouan
-    - id: null
+    - id: 0ffce4ff-fbbe-41d3-ae62-7ebf7bacde66
       name: Mame Yong
+      text: 'note: existing performer has typo?'
       links:
         - https://www.iafd.com/person.rme/perfid=myong/gender=f/mame-yong.htm
         - https://www.indexxx.com/m/mame
+        - https://www.indexxx.com/m/mame-youn
   notes:
     - Amalgamated performer

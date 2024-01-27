@@ -1,5 +1,15 @@
 split:
   name: Gyongy And Linda
-  fragments: []
+  fragments:
+    - id: null
+      name: Gyongy
+      links:
+        - https://www.iafd.com/person.rme/perfid=gyongy/gender=f/gyongy.htm
+        - https://www.indexxx.com/m/gyongy-3
+    - id: null
+      name: Linda
+      text: possibly one of two Linda's, check movies on Gyongy's IAFD
+      links:
+        - https://www.indexxx.com/m/linda-10
   notes:
     - Amalgamated performer
