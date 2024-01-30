@@ -1,0 +1,17 @@
+c_studio:
+  - The Art Porn
+  - null
+comments:
+  - submitter picked incorrect performer in spite of a comment linking directly to him
+  - https://stashdb.org/edits/45092121-78cc-4da0-84de-6bd64b7c1223
+performers:
+  remove:
+    - id: d8463235-9388-4f5d-9bda-959636490162
+      name: Vincent Vega
+      appearance: null
+      disambiguation: US
+  append:
+    - id: 780e63c9-c477-44d3-a04c-5f2022da1760
+      name: Vincent Vega
+      appearance: null
+      disambiguation: RU
