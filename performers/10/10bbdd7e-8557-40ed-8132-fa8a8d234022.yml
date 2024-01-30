@@ -1,15 +1,5 @@
 split:
   name: Kya
-  fragments:
-    - id: null
-      name: Kya (RU)
-      links:
-        - https://www.indexxx.com/m/kya
-    - id: null
-      name: Kya (2001, fuckingmachines)
-      text: 1 scene
-      links:
-        - https://www.indexxx.com/m/kya-1
-        - https://stashdb.org/scenes/39cb8b55-c351-45b7-a220-d5b1ee5536f8
+  fragments: []
   notes:
     - Mix of multiple performers (complete list as of 2022-06-08)

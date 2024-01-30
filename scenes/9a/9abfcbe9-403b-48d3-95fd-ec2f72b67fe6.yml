@@ -1,0 +1,16 @@
+c_studio:
+  - White Ghetto
+  - null
+comments:
+  - 'Scene #3'
+  - similar to Scene 1 of Nineteen Video Magazine 18
+  - https://www.iafd.com/title.rme/id=7c30158c-1730-4ecc-a002-f522db4030cb
+performers:
+  remove: []
+  append:
+    - id: 0c1b9878-60df-461d-bda1-efd7a50b9136
+      name: Cheyenne Silver
+      appearance: Sabrina
+    - id: dfbbb4d5-7bae-4499-927b-9934a0a6368d
+      name: Buck Adams
+      appearance: null

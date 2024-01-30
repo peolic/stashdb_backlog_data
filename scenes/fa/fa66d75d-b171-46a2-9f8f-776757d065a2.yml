@@ -1,0 +1,23 @@
+c_studio:
+  - White Ghetto
+  - null
+comments:
+  - 'Scene #2'
+  - similar to Scene 1 of Nineteen Video Magazine 2
+  - https://www.iafd.com/title.rme/id=7c30158c-1730-4ecc-a002-f522db4030cb
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Max Cady
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=mcady/gender=m/max-cady.htm
+    - id: null
+      name: Tommy Gunn
+      appearance: null
+      disambiguation: Blond
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=tgunn/gender=m/tommy-gunn.htm
+      notes:
+        - 'AKA: Tommy Lawrence, The Original Tommy Gunn'

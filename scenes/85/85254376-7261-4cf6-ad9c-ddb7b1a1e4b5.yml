@@ -1,0 +1,16 @@
+c_studio:
+  - White Ghetto
+  - null
+comments:
+  - 'Scene #4'
+  - similar to Scene 2 of Nineteen Video Magazine 32
+  - https://www.iafd.com/title.rme/id=7c30158c-1730-4ecc-a002-f522db4030cb
+performers:
+  remove: []
+  append:
+    - id: cf6dcf0d-9d2b-4cd7-a98b-b98022d28c71
+      name: Ariel Laine
+      appearance: Ariel
+    - id: 5a0eade8-506c-45ba-86b1-ccf901bd56e0
+      name: Shiloh
+      appearance: null
