@@ -1,13 +1,6 @@
-split:
-  name: Kylie Moore
-  fragments:
-    - id: null
-      name: Kylie Moore (2011)
-      notes:
-        - '- Amateur Allure'
-        - '- Pure 18 (2011)'
-      links:
-        - https://www.iafd.com/person.rme/perfid=kyliemoore/gender=f/kylie-moore.htm
-        - https://www.indexxx.com/m/kylie-moore
-  notes:
-    - Mix of multiple performers (complete list as of 2023-03-30)
+name: Kylie Moore [2011]
+urls:
+  - https://www.iafd.com/person.rme/perfid=kyliemoore/gender=f/kylie-moore.htm
+  - https://www.indexxx.com/m/kylie-moore
+urls_notes:
+  - disambiguate, add info
