@@ -1,12 +1,5 @@
 split:
   name: Becky
-  fragments:
-    - id: f45a3e63-231c-4b60-b33a-4f5ccc634853
-      name: Jasmine Lynn
-      text: 'Teen Teacher: same as Teacher''s Pet 4 scene 1 (iafd lists scene 2) / Teacher''s Pet 18 scene 3'
-      links:
-        - https://www.iafd.com/person.rme/perfid=jasminelynne/gender=f/jasmine-lynn.htm
-        - https://www.indexxx.com/m/jasmine-lynn
-        - https://stashdb.org/scenes/8132ff92-bc33-4de1-afef-ed80ddddf55a
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
