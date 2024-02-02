@@ -1,5 +1,18 @@
 split:
   name: Virginie
-  fragments: []
+  fragments:
+    - id: 4be39dc4-e594-4b8a-9ea5-c7a18623c838
+      name: Virginie Leroy
+      text: Woodman Casting X (2009)
+      links:
+        - https://www.iafd.com/person.rme/perfid=virginieleroy/gender=f/virginie-leroy.htm
+        - https://www.indexxx.com/m/virginie-4
+        - https://stashdb.org/scenes/8c3984f4-eaa7-478b-bd94-464ba24f2da7
+    - id: null
+      name: Virginie
+      text: Woodman Casting X (2012)
+      links:
+        - https://www.indexxx.com/m/virginie-3
+        - https://stashdb.org/scenes/db7ca216-a8f9-483c-bf7f-06f4c8eeacb1
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2024-02-01)
