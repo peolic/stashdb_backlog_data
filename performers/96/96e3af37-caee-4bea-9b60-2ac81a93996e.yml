@@ -1,5 +1,19 @@
 split:
   name: Lisa and Audrey
-  fragments: []
+  fragments:
+    - id: 7fbc50ea-0a7e-4f00-98b9-3789ac99103a
+      name: Paris Diamond
+      links:
+        - https://www.iafd.com/person.rme/perfid=parisdiamond/gender=f/paris-diamond.htm
+        - https://www.indexxx.com/m/paris-diamond
+        - https://stashdb.org/scenes/ac537efa-00b6-4d96-98c0-031de7753957
+    - id: e0c9500f-b1a8-47a2-b8a6-ac289a9dcfce
+      name: Sonia Red
+      links:
+        - https://www.iafd.com/person.rme/perfid=soniared/gender=f/sonia-red.htm
+        - https://www.indexxx.com/m/sonia-red
+        - https://stashdb.org/scenes/ac537efa-00b6-4d96-98c0-031de7753957
   notes:
-    - Amalgamated performer
+    - Amalgamated performer (complete list) - Young Lesbians Portal 1894
+  links:
+    - https://www.iafd.com/title.rme/id=df7f6ab6-97aa-42bf-8c98-b41282e539e9
