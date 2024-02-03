@@ -1,5 +1,11 @@
 split:
   name: Niko
-  fragments: []
+  fragments:
+    - id: null
+      name: Niko
+      text: 21 Sextreme
+      links:
+        - https://www.iafd.com/person.rme/perfid=niko_eu_08/gender=f/niko.htm
+        - https://www.indexxx.com/m/niko
   notes:
     - Mix of multiple performers (partial list)

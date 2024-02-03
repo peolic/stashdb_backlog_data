@@ -1,5 +1,22 @@
 split:
   name: Maya, Gina and Annie
-  fragments: []
+  fragments:
+    - id: f9cac149-d9a8-49d5-8bdd-0ce30146a4f0
+      name: Faith (Czech, 2005-12)
+      links:
+        - https://www.iafd.com/person.rme/perfid=faith_05_eu/gender=f/faith.htm
+        - https://www.indexxx.com/m/evelyn
+    - id: c53f9ff0-6451-4f39-81fa-bf4b2baa465f
+      name: Denisa Brazdova aka Gina Lee
+      links:
+        - https://www.iafd.com/person.rme/perfid=ginalee/gender=f/gina-lee.htm
+        - https://www.indexxx.com/m/gina
+    - id: 12d830d0-0799-4253-a886-cb969d740f6c
+      name: Regina Sweet
+      links:
+        - https://www.iafd.com/person.rme/perfid=regina_cz_09/gender=f/regina.htm
+        - https://www.indexxx.com/m/regina-1
   notes:
-    - Amalgamated performer
+    - Amalgamated performer (complete list) - Young Lesbians Portal 1882
+  links:
+    - https://www.iafd.com/title.rme/id=c621bebf-b52e-44c4-921f-c5af9dccfb1a
