@@ -1,5 +1,17 @@
 split:
   name: Marie and Suzane
-  fragments: []
+  fragments:
+    - id: 33a51f3a-39ac-4afc-9e10-70bbb123084a
+      name: Katerina Covet
+      links:
+        - https://www.iafd.com/person.rme/perfid=katerinacovet/gender=f/katerina-covet.htm
+        - https://www.indexxx.com/m/mandy-lee
+    - id: fdbd1867-b8ba-4ae2-aab7-9cb79cc0b69c
+      name: Monika Schimkova aka Sabina S.
+      links:
+        - https://www.iafd.com/person.rme/perfid=sabinas_ddf/gender=f/sabina-s..htm
+        - https://www.indexxx.com/m/monika-sch
   notes:
-    - Amalgamated performer
+    - Amalgamated performer (complete list) - Young Lesbians Portal 1893
+  links:
+    - https://www.iafd.com/title.rme/id=7460a4ee-3b02-4ae4-bf79-3c557d133241

@@ -1,5 +1,20 @@
 split:
   name: Margot
-  fragments: []
+  fragments:
+    - id: null
+      name: Margot (2009, Lusty Grandmas)
+      text: Lusty Grandmas
+      links:
+        - https://www.iafd.com/person.rme/perfid=margot_lg/gender=f/margot.htm
+        - https://www.indexxx.com/m/margot-11
+        - https://stashdb.org/scenes/bef4091e-a53a-44cf-b378-e4df8de6d954
+    - id: null
+      name: Margot Kidney
+      text: Woodman Casting X
+      links:
+        - https://www.iafd.com/person.rme/perfid=mkidney/gender=f/margot-kidney.htm
+        - https://www.indexxx.com/m/margot
+        - https://www.egafd.com/actresses/details.php/id/m01393
+        - https://stashdb.org/scenes/6250373e-fe08-4c5b-895e-91f75b8d9a9b
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2024-02-03)
