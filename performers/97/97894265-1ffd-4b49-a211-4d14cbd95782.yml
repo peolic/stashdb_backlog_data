@@ -1,6 +1,18 @@
 split:
   name: Lesya and Oxana
-  fragments: []
+  fragments:
+    - id: 40c62181-0d71-4140-8a8c-654a94b70034
+      name: Ally (Czech, b. 1986)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ally_cz_07/gender=f/ally.htm
+        - https://www.indexxx.com/m/ally
+        - https://stashdb.org/scenes/fcbe030f-0fde-43c4-83dc-d0e5ef468aac
+    - id: 43641dac-defd-47c2-9ef2-536b0b2c689b
+      name: Demi Allen
+      links:
+        - https://www.iafd.com/person.rme/perfid=demi_06_cz/gender=f/demi.htm
+        - https://www.indexxx.com/m/demi
+        - https://stashdb.org/scenes/fcbe030f-0fde-43c4-83dc-d0e5ef468aac
   notes:
     - Amalgamated performer (complete list) - Young Lesbians Portal 1908
   links:
