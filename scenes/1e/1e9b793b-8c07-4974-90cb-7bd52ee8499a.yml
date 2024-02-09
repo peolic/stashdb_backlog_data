@@ -1,0 +1,25 @@
+c_studio:
+  - Cruelty Party
+  - null
+comments:
+  - IAFD and indexxx updated with missing performers
+  - https://www.iafd.com/title.rme/id=fa446265-19a8-4117-86e6-68f09a4221a4
+  - https://www.indexxx.com/set/126301/cruelty-party-ashdon-james/
+performers:
+  remove: []
+  append:
+    - id: c121b6db-9f9e-4f58-ba15-c0a9e438fb47
+      name: Kitty Bella
+      appearance: null
+    - id: 6913ef65-c2c7-42be-9bcf-2fb13a239308
+      name: Izy-Bella Blu
+      appearance: null
+    - id: 61d8d099-4faf-4e85-b7b6-a4fc03316ba3
+      name: Taisa Banx
+      appearance: null
+    - id: da8a974e-3310-4aa9-988c-c1634b52e7e3
+      name: Bella Blaze
+      appearance: null
+    - id: 555d897a-add7-486a-894d-5caab071f39d
+      name: Danny Wylde
+      appearance: null
