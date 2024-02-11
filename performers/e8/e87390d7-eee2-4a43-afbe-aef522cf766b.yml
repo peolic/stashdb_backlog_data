@@ -5,11 +5,16 @@ split:
       name: Hoss Kado
       links:
         - https://www.iafd.com/person.rme/perfid=hosskado/gender=m/hoss-kado.htm
-    - id: null
-      name: Jared (Reality Kings)
+    - id: 56d94844-69c1-43cb-ae0a-c9c25b8e0f20
+      name: J-Rod AKA Jared
+      text: In the VIP
+      notes:
+        - Reality Kings messed up and assigned a photo of Elena Rivera (NonSex in VIP Crew "Raunchy House Party") to a male performer.
+        - Manually identified and correction submitted to IAFD.
       links:
-        - https://www.iafd.com/person.rme/perfid=jared_rk_05/gender=f/jared.htm
-        - https://www.indexxx.com/m/jared
+        - https://www.iafd.com/person.rme/perfid=jared_09/gender=f/j-rod.htm
+        - https://stashdb.org/scenes/4b9bcc3f-c7d7-4cd2-92cc-bce3cfd11fab
+        - https://web.archive.org/web/20160913210727/http://www.realitykings.com/tour/model/view/2914/jared/
     - id: null
       name: Jared (Boys First Time 2004)
   notes:
