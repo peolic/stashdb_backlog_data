@@ -1,5 +1,19 @@
 split:
   name: Mila and Sandra
-  fragments: []
+  fragments:
+    - id: fac180e0-5402-4f2c-9542-b3fa99c9ae8c
+      name: Mia la Roche
+      links:
+        - https://www.iafd.com/person.rme/perfid=mialaroche/gender=f/mia-la-roche.htm
+        - https://www.indexxx.com/m/mia-la-roche
+        - https://stashdb.org/scenes/c906652d-f588-4c08-bb5b-5e40717783fc
+    - id: ece45f3c-e24c-42d8-a492-3523b10c2ce3
+      name: Neilla Feline
+      links:
+        - http://www.iafd.com/person.rme/perfid=neillafeline/gender=f/neilla-feline.htm
+        - https://www.indexxx.com/m/neilla-feline
+        - https://stashdb.org/scenes/c906652d-f588-4c08-bb5b-5e40717783fc
   notes:
-    - Amalgamated performer
+    - Amalgamated performer (complete list) - Young Lesbians Portal 1911
+  links:
+    - https://www.iafd.com/title.rme/id=25dc1e30-8103-45d2-b0da-fd4215130109
