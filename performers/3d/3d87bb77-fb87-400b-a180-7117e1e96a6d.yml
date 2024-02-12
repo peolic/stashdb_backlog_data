@@ -1,0 +1,19 @@
+split:
+  name: Armani
+  fragments:
+    - id: null
+      name: Armani (2002, Cum Fiesta)
+      text: Cum Fiesta
+      links:
+        - https://www.iafd.com/person.rme/perfid=armani_rk/gender=f/armani.htm
+        - https://www.indexxx.com/m/armani
+        - https://stashdb.org/scenes/03ece631-1502-408c-89ab-fcd1374b7453
+    - id: 148ad837-851c-4046-8909-a5fb8e0e1fc2
+      name: Star Armani
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=stararmani/gender=f/star-armani.htm
+        - https://www.indexxx.com/m/star-armani
+        - https://stashdb.org/scenes/6b1e061c-f6ae-495f-8534-f1e8b8d1acb2
+  notes:
+    - Mix of multiple performers (complete list as of 2024-02-12)
