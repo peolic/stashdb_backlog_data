@@ -10,9 +10,6 @@ image: https://ist1-2.filesor.com/pimpandhost.com/5/2/3/1/52319/t/V/p/z/tVpz/Dam
 performers:
   remove: []
   append:
-    - id: fda78e19-8c88-461c-949f-6f804534e7ea
-      name: Marla A
-      appearance: Tori
     - id: null
       name: Ilia
       appearance: null
