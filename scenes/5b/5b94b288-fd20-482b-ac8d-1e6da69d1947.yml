@@ -1,0 +1,20 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a870e6d5-914c-428b-a89f-74daa14a8043
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Ronnie
+      appearance: null
+      disambiguation: 2011, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=um500478b/gender=m/ronnie.htm
+    - id: null
+      name: "Jos\xE9"
+      appearance: null
+      disambiguation: 2011, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=um500478a/gender=m/jose.htm
