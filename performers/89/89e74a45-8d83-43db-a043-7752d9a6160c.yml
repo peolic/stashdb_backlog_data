@@ -2,11 +2,12 @@ split:
   name: Joana
   fragments:
     - id: null
-      name: Joana (DDF Network 2008)
-      text: most scenes
+      name: Iveta Stepanova
+      text: DDF Network
       links:
         - https://www.iafd.com/person.rme/perfid=joana_08/gender=f/joana.htm
         - https://www.indexxx.com/m/joana-3
+        - https://www.egafd.com/actresses/details.php/id/I00232
     - id: null
       name: Joana (2006, SexMex)
       links:
