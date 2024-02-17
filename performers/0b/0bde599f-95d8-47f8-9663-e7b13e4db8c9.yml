@@ -1,5 +1,11 @@
 split:
   name: Val
-  fragments: []
+  fragments:
+    - id: null
+      name: Val (2018, Reality Kings)
+      text: GF Revenge
+      links:
+        - https://www.iafd.com/person.rme/perfid=val_gfleaks/gender=m/val.htm
+        - https://stashdb.org/scenes/882241b3-ed2d-46ba-94e2-24851f43d26d
   notes:
     - Mix of multiple performers (partial list)
