@@ -1,16 +1,15 @@
 split:
   name: Ice
   fragments:
-    - id: null
+    - id: e4abf723-009a-480b-a697-a4e8b8b47171
       name: Ice (2001-2002)
       text: Devil's Film
       notes:
-        - Teen Tryouts Audition 9 Scene 5
-        - w/ Pat Myne
+        - 'Teen Tryouts Audition #9, Scene #5'
+        - with Pat Myne
       links:
         - https://www.iafd.com/person.rme/perfid=ice_bl00/gender=f/ice.htm
         - https://stashdb.org/scenes/71be09ad-b563-4da9-bf65-d24f66e03351
-        - https://stashdb.org/performers/6017b7c0-6477-412a-b340-2108e8f31de3
     - id: null
       name: Ice (1994-1996)
       text: White Ghetto
