@@ -1,5 +1,17 @@
 split:
   name: Isaac
-  fragments: []
+  fragments:
+    - id: null
+      name: Isaac (2020, Drill My Hole)
+      text: Drill My Hole
+      links:
+        - https://www.iafd.com/person.rme/perfid=isaac_jake/gender=m/isaac.htm
+        - https://stashdb.org/scenes/d682bfd3-46dd-48d0-9dc7-7a7a17bed1e8
+    - id: 59b72ddf-431a-4e80-98cd-03e595f81925
+      name: Eric Turner
+      text: Str8 Chaser (2017)
+      links:
+        - https://www.iafd.com/person.rme/perfid=ericturner/gender=m/eric-turner.htm
+        - https://stashdb.org/scenes/d38a66a0-1e50-474c-8f88-eb65f3dbb210
   notes:
     - Mix of multiple performers (partial list)
