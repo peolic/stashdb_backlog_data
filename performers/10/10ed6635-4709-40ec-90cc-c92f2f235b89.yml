@@ -2,14 +2,18 @@ split:
   name: Meg
   fragments:
     - id: null
-      name: Meg (2006, Reality Kings)
+      name: Meg (2006, First Time Auditions)
+      text: First Time Auditions
       links:
         - https://www.iafd.com/person.rme/perfid=meg_rk_06/gender=f/meg.htm
         - https://www.indexxx.com/m/meg-2
+        - https://stashdb.org/scenes/79372b8b-f9a2-4878-bceb-517de2df0c00
     - id: null
-      name: Meg (2003, Reality Kings)
+      name: Meg (2003, Mike's Apartment)
+      text: Mike's Apartment
       links:
         - https://www.iafd.com/person.rme/perfid=meg_rk_03/gender=f/meg.htm
         - https://www.indexxx.com/m/meg-1
+        - https://stashdb.org/scenes/1e7746bf-ec64-478a-8ec4-11c0fdb5fe71
   notes:
     - Mix of multiple performers (complete list as of 2022-07-02)

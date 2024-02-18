@@ -1,0 +1,17 @@
+c_studio:
+  - Nasty Angels
+  - null
+comments:
+  - incorrect performer
+  - moles match Kathy Anderson
+  - 'scene is similar to Curious Little Pussies, Scene #5, likely Club Seventeen production (Miriam)'
+performers:
+  remove:
+    - id: b3b02fb0-23d0-4443-a90a-1aac49fec0cf
+      name: Gabina
+      appearance: null
+      disambiguation: Czech
+  append:
+    - id: 41ebd12a-ce13-4429-84ef-19c5b42b383a
+      name: Kathy Anderson
+      appearance: Gabina
