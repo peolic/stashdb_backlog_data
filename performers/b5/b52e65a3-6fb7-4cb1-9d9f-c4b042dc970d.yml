@@ -1,5 +1,17 @@
 split:
   name: Troy
-  fragments: []
+  fragments:
+    - id: null
+      name: Troy (2007, BangBros)
+      notes:
+        - '- Ball Honeys'
+        - '- Big Tits, Round Asses'
+        - '- BangBros Remastered'
+      links:
+        - https://www.iafd.com/person.rme/perfid=troy_miami_07/gender=m/troy.htm
+        - https://stashdb.org/scenes/41162cd1-78f6-4ea6-a936-bf96b7f7ec75
+        - https://stashdb.org/scenes/7f5941ae-d038-416f-b906-fd11e50595d1
+        - https://stashdb.org/scenes/fa9b9abf-a4cd-4c9d-9980-d74eca73300b
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-02-19)
+    - Best to create a new performer.

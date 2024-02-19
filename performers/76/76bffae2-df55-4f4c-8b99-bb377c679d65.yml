@@ -1,5 +1,11 @@
 split:
   name: Hector
-  fragments: []
+  fragments:
+    - id: null
+      name: Hector (2003, 8th Street Latinas)
+      text: 8th Street Latinas
+      links:
+        - https://www.iafd.com/person.rme/perfid=hector_rk_03/gender=m/hector.htm
+        - https://stashdb.org/scenes/55d474e7-6ebe-4f62-9e45-392758d4ad03
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-02-19)
