@@ -2,18 +2,8 @@ split:
   name: Hana
   fragments:
     - id: null
-      name: Hana (2010, DDF Network)
-      text: DDF Network
-      links:
-        - https://www.iafd.com/person.rme/perfid=hana_ddf/gender=f/hana.htm
-        - https://www.indexxx.com/m/hana-8
-    - id: null
       name: Hana / Hany
       links:
         - https://www.iafd.com/person.rme/perfid=hany_wg/gender=f/hany.htm
-    - id: null
-      name: Hana (Fatzilla 2)
-      links:
-        - https://www.iafd.com/person.rme/perfid=hana_chubby/gender=f/hana.htm
   notes:
     - Mix of multiple performers (partial list)

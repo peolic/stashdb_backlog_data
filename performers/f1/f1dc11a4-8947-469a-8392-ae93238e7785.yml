@@ -1,11 +1,12 @@
 split:
   name: Edina
   fragments:
-    - id: 296f41bb-90dc-4aee-9b54-0da3cdef7181
-      name: Sandy Summers (2001-07)
-      text: Woodman Casting X - 2009-05-09
+    - id: null
+      name: Edina
+      text: Woodman Casting X (1997) - 2009-01-11
       links:
-        - https://www.iafd.com/person.rme/perfid=sandysummers/gender=f/sandy-summers.htm
-        - https://www.indexxx.com/m/edina
+        - https://www.iafd.com/person.rme/perfid=edina_hun_97/gender=f/edina.htm
+        - https://www.indexxx.com/m/edina-5
+        - https://stashdb.org/scenes/c7882334-315c-4e16-a3a7-515e6e6f6314
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-02-19)

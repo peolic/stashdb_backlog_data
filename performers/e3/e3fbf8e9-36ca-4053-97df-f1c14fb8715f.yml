@@ -1,5 +1,11 @@
 split:
   name: Kleopatra
-  fragments: []
+  fragments:
+    - id: null
+      name: Kleopatra
+      text: Hairy Undies
+      links:
+        - https://www.iafd.com/person.rme/perfid=kleopatra_04/gender=f/kleopatra.htm
+        - https://stashdb.org/scenes/879a27ef-ec2c-4018-a5c6-823c637a46de
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-02-19)
