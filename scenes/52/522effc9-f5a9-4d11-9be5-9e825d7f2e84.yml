@@ -1,0 +1,17 @@
+c_studio:
+  - Round and Brown
+  - null
+comments:
+  - incorrect performer, different tattoos than Chyanne Jacobs
+performers:
+  remove:
+    - id: e2891ffb-6d25-4620-80c1-0d097ff80fe5
+      name: Chyanne Jacobs
+      appearance: Cheyenne
+  append:
+    - id: null
+      name: Cheyenne
+      appearance: null
+      disambiguation: 2005, Round and Brown
+      status: new
+      status_url: https://www.indexxx.com/m/cheyenne-1

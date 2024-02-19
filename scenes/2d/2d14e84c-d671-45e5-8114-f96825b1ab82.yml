@@ -1,0 +1,12 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - missing performer
+  - https://www.iafd.com/title.rme/id=46d94740-6edf-4f68-ab05-08a5708152b2
+performers:
+  remove: []
+  append:
+    - id: e2891ffb-6d25-4620-80c1-0d097ff80fe5
+      name: Chyanne Jacobs
+      appearance: Cheyenne
