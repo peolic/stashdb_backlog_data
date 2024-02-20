@@ -2,11 +2,10 @@ split:
   name: Scott
   fragments:
     - id: null
-      name: Scott (Dirty Flix)
-    - id: null
-      name: Scott (2004, Reality Kings)
+      name: Scott (2004, In the VIP)
       text: In the VIP
       links:
         - https://www.iafd.com/person.rme/perfid=scott_rk_04/gender=f/scott.htm
+        - https://stashdb.org/scenes/ccd5b3d9-b26a-4d43-aeb7-caf6112ab347
   notes:
     - Mix of multiple performers (partial list)
