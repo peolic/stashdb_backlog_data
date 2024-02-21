@@ -3,6 +3,8 @@ c_studio:
   - null
 comments:
   - incorrect performer, different tattoos than Chyanne Jacobs
+  - IAFD updated
+  - https://www.iafd.com/title.rme/id=884d453c-206a-4ed6-8bc7-5bc90718fd9c
 performers:
   remove:
     - id: e2891ffb-6d25-4620-80c1-0d097ff80fe5
@@ -14,4 +16,6 @@ performers:
       appearance: null
       disambiguation: 2005, Round and Brown
       status: new
-      status_url: https://www.indexxx.com/m/cheyenne-1
+      status_url: https://www.iafd.com/person.rme/perfid=cheyenne_rk05/gender=f/cheyenne.htm
+      notes:
+        - https://www.indexxx.com/m/cheyenne-1
