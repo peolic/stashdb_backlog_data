@@ -5,9 +5,9 @@ fingerprints:
     duration: 2343
   - algorithm: oshash
     hash: 79a58d69b24d5086
-    correct_scene_id: null
+    correct_scene_id: 6a2b23dd-ad2b-4910-9115-8312e85e5ce3
     duration: 2344
   - algorithm: oshash
     hash: aea8253a3c6af3a4
-    correct_scene_id: null
+    correct_scene_id: 6a2b23dd-ad2b-4910-9115-8312e85e5ce3
     duration: 2345
