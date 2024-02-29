@@ -52,11 +52,15 @@ split:
         - https://stashdb.org/scenes/37217f26-f0a0-4d2a-984a-f750b3fbfa26
         - https://stashdb.org/scenes/44d3d85b-1995-4816-b851-307b67c9a0ff
     - id: null
-      name: Joe (2014, Dare Dorm)
-      text: Dare Dorm "Masquerade Ball"
+      name: Joe (2014, Dare Dorm) -- possibly the same as previous fragment (Carlos / Joe)
+      notes:
+        - '- Dare Dorm "Masquerade Ball"'
+        - '- Black GFs "Pussy Katt"'
       links:
         - https://www.iafd.com/person.rme/perfid=joe_dd_14/gender=m/joe.htm
         - https://stashdb.org/scenes/4cb85f97-4d1b-4c3b-bb3f-5a18e630d985
+        - https://stashdb.org/scenes/b186fba6-aa6c-4bb4-a1e9-e3f26ed0281c
+        - https://www.realitykings.com/model/25430/joe
     - id: null
       name: Joe (2004-2005, Reality Kings)
       notes:
