@@ -1,12 +1,23 @@
 split:
   name: Johnny
   fragments:
-    - id: 4ba5441d-9220-4b36-a710-e3bc96cc3d32
-      name: Johnny Nitro
-      notes:
-        - '- some Reality Kings'
-        - '- maybe more'
+    - id: 12ffe823-4dbe-4350-bc69-a424b9fe1795
+      name: Marc Cummings
+      text: 'Teen Teacher: same as Teacher''s Pet #5, Scene #2'
       links:
-        - https://www.iafd.com/person.rme/perfid=johnnynitro/gender=m/johnny.htm
+        - https://www.iafd.com/person.rme/perfid=mcummings/gender=m/marc-cummings.htm
+        - https://stashdb.org/scenes/293ef566-eba4-4a1a-818c-bd6831cde7c5
+    - id: null
+      name: Johnny (2003, Tranny Surprise)
+      text: Tranny Surprise
+      links:
+        - https://www.iafd.com/person.rme/perfid=johnny_rk/gender=m/johnny.htm
+        - https://stashdb.org/scenes/6fc98db8-51ce-42c6-abb4-1712d42ccd1e
+    - id: null
+      name: Johnny
+      text: '"Animal Trainer #20"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=johnny_eu/gender=m/johnny.htm
+        - https://stashdb.org/scenes/46054375-7204-4d18-884d-81b87d13fdd4
   notes:
     - Mix of multiple performers (partial list)
