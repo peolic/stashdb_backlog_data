@@ -1,5 +1,14 @@
 split:
   name: Bryan
-  fragments: []
+  fragments:
+    - id: 0a126eb5-a059-49f1-a25d-2b05211c0196
+      name: Brian Jacobs
+      text: GF Revenge
+      notes:
+        - missing in additional scene
+      links:
+        - https://www.iafd.com/person.rme/perfid=unknownmale243910_b/gender=m/brian-jacobs.htm
+        - https://stashdb.org/scenes/7e21dfbe-41c4-44ba-920d-0b4f939cb64e
+        - https://stashdb.org/scenes/5fb8a62c-9c1d-425f-a0a9-c04065916b2b
   notes:
     - Mix of multiple performers (partial list)
