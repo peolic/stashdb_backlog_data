@@ -1,6 +1,7 @@
 split:
   name: Ashton
   fragments: []
+  status: 'empty: delete performer'
   notes:
     - "\x02Looks to be a mix of 4 Female perfomers and 1 Male\x03"
     - '2024-01-26: empty and can be deleted'
