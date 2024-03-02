@@ -1,5 +1,19 @@
 split:
   name: Olya and Kriss
-  fragments: []
+  fragments:
+    - id: 6d6fa622-e2ed-48ae-b28c-c026b5578561
+      name: Rose Delight
+      links:
+        - https://www.iafd.com/person.rme/perfid=rose_cz_07/gender=f/rose.htm
+        - https://www.indexxx.com/m/rose-delight
+        - https://stashdb.org/scenes/3e57bf01-d3ac-489e-8f49-ce33fcfdeb80
+    - id: 04364388-c101-4982-ac4f-807b19a83df3
+      name: Yenna (Czech 2006-2019)
+      links:
+        - https://www.iafd.com/person.rme/perfid=yenna_cz/gender=f/yenna.htm
+        - https://www.indexxx.com/m/yenna
+        - https://stashdb.org/scenes/3e57bf01-d3ac-489e-8f49-ce33fcfdeb80
   notes:
-    - Amalgamated performer
+    - Amalgamated performer (complete list) - Young Lesbians Portal 1910
+  links:
+    - https://www.iafd.com/title.rme/id=21d96c70-d7dc-400e-b6a0-a69aef152083

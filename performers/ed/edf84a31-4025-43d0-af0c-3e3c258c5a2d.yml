@@ -1,5 +1,18 @@
 split:
   name: Keiko and Midori
-  fragments: []
+  fragments:
+    - id: null
+      name: Female 798294-A
+      links:
+        - https://www.iafd.com/person.rme/perfid=uf798294a/gender=f/unknown-female-798294%2da.htm
+        - https://stashdb.org/scenes/753d383c-317b-43a0-ae16-4ab8142a81da
+    - id: null
+      name: Almond Tease
+      links:
+        - https://www.iafd.com/person.rme/perfid=uf798294b/gender=f/unknown-female-798294%2db.htm
+        - https://stashdb.org/scenes/753d383c-317b-43a0-ae16-4ab8142a81da
+        - https://web.archive.org/web/20061205101959/http://www.almondtease.com/tour1/
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1909
+  links:
+    - https://www.iafd.com/title.rme/id=a7c40e83-154e-4d58-946e-8410a9fd79ab
