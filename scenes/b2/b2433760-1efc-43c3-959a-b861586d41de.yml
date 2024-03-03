@@ -8,13 +8,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 0867aa95-9e8e-4899-9499-4b8c83f589e4
       name: Sarah
       appearance: null
       disambiguation: 2003, MILF Lessons
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=sarah_bb_04/gender=f/sarah.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=sarah_bb_04/gender=f/sarah.htm
         - https://www.indexxx.com/m/sarah-89
     - id: 816ea58e-7ae6-41aa-84af-f3b40b5595e2
       name: Preston Parker
