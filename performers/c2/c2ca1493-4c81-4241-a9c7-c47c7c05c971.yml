@@ -1,12 +1,12 @@
 split:
   name: Jay
   fragments:
-    - id: null
+    - id: b40c9ad3-9e83-4e55-9ad1-676f502c4b9e
       name: Jay Ashley
       notes:
-        - '- Digital Playground: some, if not all'
-        - '- Wicked: some, if not all'
-        - '- Twistys: same as Babewatch #16, Scene #1'
+        - '- 6x Digital Playground'
+        - '- 11x Wicked'
+        - '- 1x Twistys, same as Babewatch #16, Scene #1'
       links:
         - https://www.iafd.com/person.rme/perfid=jashley/gender=m/jay-ashley.htm
     - id: null
