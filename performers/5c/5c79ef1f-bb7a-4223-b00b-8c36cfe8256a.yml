@@ -1,5 +1,17 @@
 split:
   name: Chaz
-  fragments: []
+  fragments:
+    - id: null
+      name: Chaz Vincent
+      text: My Teen Oasis
+      links:
+        - https://www.iafd.com/person.rme/perfid=cvincent/gender=f/chaz-vincent.htm
+        - https://stashdb.org/scenes/4a51a54b-6d43-48d5-b7a3-c863a1b9b752
+    - id: null
+      name: Chaz (2010, Dare Dorm)
+      text: Dare Dorm
+      links:
+        - https://www.iafd.com/title.rme/id=fa6f6f15-95ea-4da8-b21b-25dad67ed35e
+        - https://www.realitykings.com/model/25982/chaz
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-03-03)

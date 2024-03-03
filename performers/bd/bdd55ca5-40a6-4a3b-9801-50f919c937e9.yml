@@ -1,5 +1,12 @@
 split:
   name: Dan
-  fragments: []
+  fragments:
+    - id: null
+      name: '? Dan (Trick Your GF)'
+      text: '[cuckold]'
+      links:
+        - https://stashdb.org/scenes/603d7bbd-4086-4a53-811f-b8d44c888081
+        - https://stashdb.org/scenes/f706e70e-ae6e-4665-8d27-76c79cb6d582
+  status: single fragment remains
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-03-03)

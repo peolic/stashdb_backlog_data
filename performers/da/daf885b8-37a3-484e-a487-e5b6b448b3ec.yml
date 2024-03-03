@@ -2,8 +2,10 @@ split:
   name: Damien
   fragments:
     - id: null
-      name: Damien (2005, Kink)
+      name: Damien (2005, Men In Pain)
+      text: Men In Pain
       links:
         - https://www.iafd.com/person.rme/perfid=damien_kink/gender=m/damien.htm
+        - https://stashdb.org/scenes/4e24d80c-89df-422e-a5a7-e45013a955be
   notes:
     - Mix of multiple performers (partial list)
