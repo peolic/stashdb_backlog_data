@@ -70,14 +70,7 @@ jobs:
         run: |
           git add -A
           git commit -m "update data"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        if: ${{ env.changes_exist == 'true' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-          directory: ${{ env.PATH_DATA }}
+          git push
 
       - name: Push tag
         if: ${{ env.changes_exist == 'true' || env.current_cache != github.sha }}
