@@ -3,8 +3,10 @@ split:
   fragments:
     - id: null
       name: Eric (2020, Bang Bus)
+      text: Bang Bus
       links:
         - https://www.iafd.com/person.rme/perfid=eric_paragonmen/gender=m/eric.htm
+        - https://stashdb.org/scenes/ae4f072b-c283-450c-a965-3274d9525e9d
         - https://bangbros.com/model61413/eric
   notes:
     - Mix of multiple performers (partial list)

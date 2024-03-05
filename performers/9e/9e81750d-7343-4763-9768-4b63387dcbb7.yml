@@ -1,5 +1,11 @@
 split:
   name: Enrique
-  fragments: []
+  fragments:
+    - id: null
+      name: Enrique (2005, Doctor Adventures)
+      text: Doctor Adventures
+      links:
+        - https://www.iafd.com/person.rme/perfid=enrique_braz/gender=m/enrique.htm
+        - https://stashdb.org/scenes/20954df0-30b5-42f7-bd7b-d969f18f8c67
   notes:
     - Mix of multiple performers (partial list)
