@@ -1,5 +1,17 @@
 split:
   name: Tai and Siu
-  fragments: []
+  fragments:
+    - id: null
+      name: unknown long hair
+      links:
+        - https://www.iafd.com/person.rme/perfid=uf798315a/gender=f/unknown-female-798315%2da.htm
+        - https://stashdb.org/scenes/cd65a340-8976-4e08-85a9-3651fb65600f
+    - id: null
+      name: unknown short hair
+      links:
+        - https://www.iafd.com/person.rme/perfid=uf798315b/gender=f/unknown-female-798315%2db.htm
+        - https://stashdb.org/scenes/cd65a340-8976-4e08-85a9-3651fb65600f
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1932
+  links:
+    - https://www.iafd.com/title.rme/id=05c6db29-03f3-41c7-b014-39f4f19d4419
