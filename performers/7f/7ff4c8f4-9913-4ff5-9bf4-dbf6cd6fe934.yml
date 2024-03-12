@@ -1,5 +1,11 @@
 split:
   name: Timmy
-  fragments: []
+  fragments:
+    - id: null
+      name: Timmy (2012, Dare Dorm)
+      text: Dare Dorm "Three Is A Crowd"
+      links:
+        - https://www.iafd.com/person.rme/perfid=timmydd12/gender=m/timmy.htm
+        - https://stashdb.org/scenes/b318777e-d221-4be6-9b77-6c8a3e4ea48d
   notes:
     - Mix of multiple performers

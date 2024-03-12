@@ -1,5 +1,13 @@
 split:
   name: Roy
-  fragments: []
+  fragments:
+    - id: cab5f85b-6899-46f9-9952-01b972f8830b
+      name: Drew Paskin
+      text: Male Reality
+      links:
+        - https://www.iafd.com/person.rme/perfid=drewpaskin/gender=m/drew-paskin.htm
+        - https://stashdb.org/scenes/88f55ac5-7295-4bc7-898e-ad8c6ae78599
+        - https://stashdb.org/scenes/00c53e42-686f-4928-8e47-9ffc1cdb8666
+        - https://stashdb.org/scenes/7c36c64c-491f-4cd3-b7df-8ecc81da78bf
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (partial list)
