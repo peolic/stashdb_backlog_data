@@ -1,0 +1,16 @@
+c_studio:
+  - She Got Six
+  - null
+comments:
+  - 'same as Six in One #3, Scene #3'
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Suzy
+      appearance: Marci
+      disambiguation: '?'
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=suzy_02_eu/gender=f/suzy.htm
+      notes:
+        - https://www.egafd.com/actresses/details.php/id/X07846

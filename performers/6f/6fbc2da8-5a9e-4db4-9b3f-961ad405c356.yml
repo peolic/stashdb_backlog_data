@@ -1,6 +1,18 @@
 split:
   name: Moni
-  fragments: []
+  fragments:
+    - id: d069d5a2-122d-416a-83fe-54ecf3ae906e
+      name: Daria Conner
+      text: She Got Six
+      notes:
+        - 'same as Six in One #2, Scene #1'
+      links:
+        - https://www.iafd.com/person.rme/perfid=unknownfemale271550-b/gender=f/daria-conner.htm
+        - https://www.indexxx.com/m/monica-13
+        - https://stashdb.org/scenes/0b4c5491-1917-4c8e-9cf8-8d860c6c600b
+        - https://www.iafd.com/title.rme/id=b37b9a20-a77b-44b9-8416-fc7581690291
+        - https://www.adultdvdempire.com/673159/six-in-one-2-porn-videos.html#scene_84562
   status: single fragment remains
   notes:
-    - Mix of multiple performers (partial list)
+    - "\x02Mix of multiple performers (partial list)\x03"
+    - Best to not repurpose performer, and instead create a new one.
