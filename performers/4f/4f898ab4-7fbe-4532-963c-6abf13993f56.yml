@@ -1,5 +1,6 @@
 split:
   name: Renee
   fragments: []
+  status: 'empty: delete performer'
   notes:
     - Mix of multiple performers (partial list)
