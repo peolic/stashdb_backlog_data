@@ -1,18 +1,6 @@
 split:
   name: Clio & Sascha
-  fragments:
-    - id: 929442ce-1651-44ca-81c0-21e25295b66e
-      name: Tatiana Milovani
-      links:
-        - https://www.iafd.com/person.rme/perfid=valentinerush/gender=f/valentine-rush.htm
-        - https://www.indexxx.com/m/tatiana-rush
-        - https://stashdb.org/scenes/f7dee07f-62d4-40a2-9fe4-1e35bec0b24b
-    - id: 8a09718b-196d-4a97-8974-6dc6f1fe2616
-      name: Vivienne La Roche
-      links:
-        - https://www.iafd.com/person.rme/perfid=vlaroche/gender=f/vivienne-laroche.htm
-        - https://www.indexxx.com/m/vivien-la-roche
-        - https://stashdb.org/scenes/f7dee07f-62d4-40a2-9fe4-1e35bec0b24b
+  fragments: []
   status: 'empty: delete performer'
   notes:
     - Amalgamated performer
