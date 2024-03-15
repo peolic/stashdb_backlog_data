@@ -2,6 +2,7 @@ c_studio:
   - Christoph Clark Online
   - null
 comments:
+  - Scene 1
   - https://www.iafd.com/title.rme/id=8294e0bb-d64c-4890-87b6-cfb1c96a61e6
 performers:
   remove: []
@@ -14,12 +15,3 @@ performers:
       status_url: https://www.iafd.com/person.rme/perfid=suzy_02_eu/gender=f/suzy.htm
       notes:
         - https://www.egafd.com/actresses/details.php/id/X07846
-    - id: 05e7fe70-41ad-4744-872f-e8e7793dfbb8
-      name: Ann Stefani
-      appearance: Imola
-    - id: 7c9c3540-3a6a-4c42-b4e9-2c55b7135b58
-      name: Lisa Sparkle
-      appearance: Kinga
-    - id: 71f06c6c-2296-45d2-8553-72b1a6509058
-      name: Franco Roccaforte
-      appearance: null
