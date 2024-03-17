@@ -1,12 +1,5 @@
 split:
   name: Mike
-  fragments:
-    - id: 3ab7ca66-05c2-4585-a86c-e7ed0f7314e2
-      name: Csabi
-      text: Mike's Apartment
-      links:
-        - https://www.iafd.com/person.rme/perfid=csabi/gender=m/csabi.htm
-        - https://stashdb.org/scenes/f909ce07-9296-4325-a383-7ddde7ea9124
-        - http://web.archive.org/web/20171005212357/http://www.realitykings.com:80/tour/model/view/418/mike/
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
