@@ -31,6 +31,8 @@ split:
     - id: null
       name: Maria (2003, Wicked)
       text: Wicked (unidentified on IAFD)
+      notes:
+        - Possibly Nikki Sun in a black wig
       links:
         - https://stashdb.org/scenes/190fe407-1e0a-4c87-a00c-8bd1dd224f9e
         - https://www.iafd.com/title.rme/title=ibiza+undressed+2/year=2003/ibiza-undressed-2.htm
