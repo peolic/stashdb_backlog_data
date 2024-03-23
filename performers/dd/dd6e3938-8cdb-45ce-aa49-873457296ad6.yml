@@ -2,13 +2,6 @@ split:
   name: Bianca
   fragments:
     - id: null
-      name: Bianca (2007, Bang Bus) AKA Victoria
-      text: Bang Bus (2007)
-      links:
-        - https://www.iafd.com/person.rme/perfid=victoria_rk_07/gender=f/victoria.htm
-        - https://www.indexxx.com/m/bianca-3
-        - https://stashdb.org/scenes/18c18bca-0437-4cd1-bdcc-fce561c4dc7d
-    - id: null
       name: Bianca (2006, First Time Auditions)
       text: First Time Auditions
       links:

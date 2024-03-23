@@ -1,13 +1,6 @@
 split:
   name: Marie
   fragments:
-    - id: cca74d6a-7370-4810-b88a-97695058d1e5
-      name: Fiona (Teen Mega World)
-      text: Try Teens
-      links:
-        - https://www.iafd.com/person.rme/perfid=marie_16_tryteens/gender=f/marie.htm
-        - https://www.indexxx.com/m/fiona-1
-        - https://stashdb.org/scenes/bfb7db22-0790-4888-9838-7eee365ecdbb
     - id: null
       name: Marie (2007, Lesbian Factor)
       text: Lesbian Factor
