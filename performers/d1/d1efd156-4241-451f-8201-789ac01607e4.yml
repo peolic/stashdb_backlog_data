@@ -1,5 +1,11 @@
 split:
   name: Hugo
-  fragments: []
+  fragments:
+    - id: null
+      name: Hugo (2012, Dare Dorm)
+      text: Dare Dorm "In It To Win It"
+      links:
+        - https://www.iafd.com/person.rme/perfid=hugodd12/gender=m/hugo.htm
+        - https://stashdb.org/scenes/7b33d1a9-11a0-4584-920b-25512f637aa1
   notes:
     - Mix of multiple performers (partial list)

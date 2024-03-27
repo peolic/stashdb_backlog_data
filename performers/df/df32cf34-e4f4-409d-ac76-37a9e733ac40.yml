@@ -1,5 +1,20 @@
 split:
   name: Clark
-  fragments: []
+  fragments:
+    - id: 0e091d61-b291-488b-b88e-e163b5baf0c7
+      name: Mr. Clark
+      links:
+        - https://www.iafd.com/person.rme/perfid=clark_m_04/gender=m/clark.htm
+        - https://stashdb.org/scenes/c72ac555-6301-46ee-b6fb-c8f996991cf8
+    - id: null
+      name: 'Clark (2013-2014, Reality Kings #25097)'
+      notes:
+        - '- GF Revenge'
+        - '- Dare Dorm "Size Matters"'
+      links:
+        - https://stashdb.org/scenes/620bbd51-7aba-49c4-b3e9-ce8b41486671
+        - https://stashdb.org/scenes/dcbc06bb-70c1-44bf-b137-6aef9f730644
+        - https://www.iafd.com/title.rme/id=39de0314-3266-44ea-a9a7-b77deaf7d2b3
+        - https://www.realitykings.com/model/25097/clark
   notes:
     - Mix of multiple performers (partial list)

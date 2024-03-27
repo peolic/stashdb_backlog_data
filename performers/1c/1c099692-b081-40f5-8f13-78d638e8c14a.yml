@@ -1,5 +1,12 @@
 split:
   name: Julio
-  fragments: []
+  fragments:
+    - id: 0a35292d-64af-47ed-ae21-b55cbb662250
+      name: Andre Garcia
+      text: 'Trans Angels Premium: similar to Trans500 "All About Ms. Pink"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=andregarcia/gender=m/andre-garcia.htm
+        - https://stashdb.org/scenes/099d530f-ea08-4642-bc62-20098763aff6
+        - https://trans500.com/tour3/trailers/All-About-MsPink.html
   notes:
     - Mix of multiple performers (partial list)
