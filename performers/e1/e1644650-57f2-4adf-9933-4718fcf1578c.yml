@@ -1,13 +1,6 @@
 split:
   name: Sylvia
   fragments:
-    - id: 9cd452b2-e428-474f-988c-9e0f073e2b06
-      name: Sylvia (Bangbros, 2010)
-      text: My Life In Brazil
-      links:
-        - https://www.iafd.com/person.rme/perfid=sylvia_br_bangbros/gender=f/sylvia.htm
-        - https://www.indexxx.com/m/sylvia-7
-        - https://stashdb.org/scenes/32418f28-9678-491d-a87f-18552b63af4e
     - id: null
       name: Sylvia M. (Solvakian)
       notes:

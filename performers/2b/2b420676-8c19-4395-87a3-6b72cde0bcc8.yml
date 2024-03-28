@@ -1,13 +1,6 @@
 split:
   name: Jasmine
   fragments:
-    - id: 59d01c14-b376-4702-8637-0afb743e11bc
-      name: Jasmine (2010 BangBros)
-      links:
-        - https://www.iafd.com/person.rme/perfid=jasmine_br_10/gender=f/jasmine.htm
-        - https://www.indexxx.com/m/jasmine-20
-        - https://stashdb.org/scenes/71a1d4fe-76c0-4695-9178-9913e165f08e
-        - https://stashdb.org/scenes/366b19bf-b2b0-4a62-94c8-e08f2e2edc7c
     - id: null
       name: Jasmine (2005, Net Video Girls)
       notes:
