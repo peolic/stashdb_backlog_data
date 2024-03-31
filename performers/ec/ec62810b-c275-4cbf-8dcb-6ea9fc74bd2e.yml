@@ -1,5 +1,17 @@
 split:
   name: Nika and Marina
-  fragments: []
+  fragments:
+    - id: null
+      name: Nika
+      links:
+        - https://www.iafd.com/person.rme/perfid=nika_ylp/gender=f/nika.htm
+        - https://stashdb.org/scenes/d90c8f08-477f-4f2d-9657-acce9d46cac0
+    - id: null
+      name: Marina
+      links:
+        - https://www.iafd.com/person.rme/perfid=marina_ylp/gender=f/marina.htm
+        - https://stashdb.org/scenes/d90c8f08-477f-4f2d-9657-acce9d46cac0
   notes:
-    - Amalgamated performer
+    - Amalgamated performer (complete list) - Young Lesbians Portal 1939
+  links:
+    - https://www.iafd.com/title.rme/id=81581c04-6802-4c79-953a-458e3d9c3919
