@@ -2,15 +2,18 @@ split:
   name: Dolce
   fragments:
     - id: null
-      name: Dolce (2006, Reality Kings)
+      name: Dolce (2006, 8th Street Latinas)
       text: 8th Street Latinas
       links:
         - https://www.iafd.com/person.rme/perfid=dolce_rk_06/gender=f/dolce.htm
         - https://www.indexxx.com/m/dolce
+        - https://stashdb.org/scenes/9130c155-246e-48e3-bd66-cb2155f15b53
     - id: def43308-92d3-41b1-96dd-f1e62334efdb
       name: Dulce Vita AKA Dulce
       text: White Ghetto
       links:
         - https://www.iafd.com/person.rme/perfid=dulce_04/gender=f/dulce.htm
+        - https://stashdb.org/scenes/b2819d67-886c-479c-9807-2dee76bc1f2d
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-03-31)
+    - Best to not repurpose performer, and instead create a new one.

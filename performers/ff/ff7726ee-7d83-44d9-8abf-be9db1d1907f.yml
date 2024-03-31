@@ -1,9 +1,5 @@
 split:
   name: Gary
-  fragments:
-    - id: null
-      name: Gary (2011, Reality Kings)
-    - id: null
-      name: Gary (2014, Reality Kings)
+  fragments: []
   notes:
-    - Mix of multiple performers (complete list as of 2023-02-05)
+    - Mix of multiple performers (partial list)
