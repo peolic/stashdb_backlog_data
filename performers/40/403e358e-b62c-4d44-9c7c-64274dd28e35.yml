@@ -42,7 +42,7 @@ split:
       name: Paulina Zrnova
       notes:
         - "- \x02Devil's Film\x03"
-        - '- Bushy Bushy'
+        - '- Bushy Bushy +1 missing performer'
         - "- \x02White Ghetto\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=pavlinas/gender=f/pavlina-s..htm
@@ -50,6 +50,7 @@ split:
         - https://stashdb.org/scenes/f9734fdb-b48b-4c19-84ca-8c9fc8952980
         - https://stashdb.org/scenes/003a922d-a0e5-4ee3-81e8-6637dc3e9aa0
         - https://stashdb.org/scenes/7536fb03-b60f-4eb3-8fa3-bfd9dfd34e68
+        - https://stashdb.org/scenes/6e51171c-531d-4c70-a304-45e4a2276d5f
     - id: null
       name: Candy Cady
       notes:
