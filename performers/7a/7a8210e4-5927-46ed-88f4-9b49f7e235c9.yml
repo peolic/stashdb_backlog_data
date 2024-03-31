@@ -1,14 +1,6 @@
 split:
   name: Josy
   fragments:
-    - id: 368a2d63-4a26-494b-998f-7b97bf112850
-      name: Josy (2010, BangBros)
-      text: My Life In Brazil
-      links:
-        - https://www.iafd.com/person.rme/perfid=jody_br_10/gender=f/josy.htm
-        - https://www.indexxx.com/m/josy
-        - https://stashdb.org/scenes/e145f1a3-fc27-4b0f-a775-8669151ac44e
-        - https://bangbros.com/model30475/josy
     - id: null
       name: Josy (2011, Reality Kings)
       text: Mike In Brazil

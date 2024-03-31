@@ -1,13 +1,6 @@
 split:
   name: Sheila
   fragments:
-    - id: a17135c2-c665-49fc-9830-8601329cbcfc
-      name: Sheila (2010, BangBros)
-      text: My Life In Brazil
-      links:
-        - https://www.iafd.com/person.rme/perfid=sheila_10_br_bangbros/gender=f/sheila.htm
-        - https://www.indexxx.com/m/sheila-5
-        - https://stashdb.org/scenes/bc4678dd-3681-48e8-83e0-cfbf4aacc8b3
     - id: null
       name: Sheila (2002, Reality Kings)
       notes:
@@ -18,6 +11,7 @@ split:
         - https://www.indexxx.com/m/sheila-2
         - https://stashdb.org/scenes/9fb167d6-d290-4ccf-8435-1c02524b69aa
         - https://stashdb.org/scenes/fbdba75d-5b21-4e56-9bf9-e424a6ea7f68
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-01-19)
     - Best to not repurpose performer, and instead create a new one.
