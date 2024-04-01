@@ -1,5 +1,13 @@
 split:
   name: Rod
-  fragments: []
+  fragments:
+    - id: 6fb12b20-f965-473d-83c7-5f399d1bea01
+      name: Rod Diesel
+      text: Butts & Blacks
+      links:
+        - https://www.iafd.com/person.rme/perfid=roddiesel/gender=m/rod-diesel.htm
+        - https://stashdb.org/scenes/07ad20cc-8057-4806-a8ec-a4b5dac830e8
+  status: single fragment remains
   notes:
-    - One of two performers listed
+    - Mix of multiple performers (complete list as of 2024-04-01)
+    - Best to not repurpose performer, and instead create a new one.
