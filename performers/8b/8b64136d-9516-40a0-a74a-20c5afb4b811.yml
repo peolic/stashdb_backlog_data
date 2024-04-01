@@ -1,5 +1,14 @@
 split:
   name: Rocco
-  fragments: []
+  fragments:
+    - id: f932771c-fe13-4dc2-aac8-3ec0ee24c326
+      name: Rocco Klaror
+      notes:
+        - "- \x02Euro Sex Parties\x03"
+        - "- \x02Mike's Apartment\x03"
+        - '- HD Love'
+      links:
+        - https://www.iafd.com/person.rme/perfid=roccoklaror/gender=m/rocco-klaror.htm
+        - https://stashdb.org/scenes/1a5dc13f-e55c-40a1-bcc9-f689981fe996
   notes:
     - Mix of multiple performers (partial list)
