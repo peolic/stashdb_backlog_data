@@ -1,5 +1,25 @@
 split:
   name: Gregory
-  fragments: []
+  fragments:
+    - id: e1d84839-0e8a-40fe-abd8-8a317bce18ab
+      name: Gregory (2011, GF Revenge)
+      text: GF Revenge
+      links:
+        - https://www.iafd.com/person.rme/perfid=gregory_gf_11/gender=m/gregory.htm
+        - https://stashdb.org/scenes/043a4ec0-6ef3-4cde-aca1-fca7eb8a22ca
+        - https://www.realitykings.com/model/25740/gregory
+    - id: null
+      name: Gregory (2012, Dare Dorm)
+      text: Dare Dorm "In It To Win It"
+      links:
+        - https://www.iafd.com/person.rme/perfid=gregorydd12/gender=m/gregory.htm
+        - https://stashdb.org/scenes/7b33d1a9-11a0-4584-920b-25512f637aa1
+        - https://www.realitykings.com/model/25556/gregory
+    - id: null
+      name: Gregory (2011, Dare Dorm)
+      text: Dare Dorm "Measure Up"
+      links:
+        - https://stashdb.org/scenes/22b2059b-6931-45a4-b81f-209e9cab4bb8
+        - https://www.iafd.com/title.rme/id=5be42fb9-588c-4bcb-8d96-12be3c76e3c2
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2024-04-01)
