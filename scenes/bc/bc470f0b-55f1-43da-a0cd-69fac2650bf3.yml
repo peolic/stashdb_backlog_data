@@ -5,3 +5,6 @@ fingerprints:
   - algorithm: phash
     hash: 945cc53767e780aa
     correct_scene_id: 7310fdc0-f9f5-4120-84a6-ac13e45c24fe
+  - algorithm: phash
+    hash: 9454c53767e780ea
+    correct_scene_id: 7310fdc0-f9f5-4120-84a6-ac13e45c24fe
