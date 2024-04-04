@@ -7,9 +7,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: 88b88237-d1e0-4d54-9f21-d9d1ab928832
-      name: Rachel Dark
-      appearance: null
     - id: 6b7ee9bb-6b46-48fc-a49b-42614fdce5f9
       name: J.J.
       appearance: null

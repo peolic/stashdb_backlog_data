@@ -1,0 +1,22 @@
+c_studio:
+  - Christoph Clark Online
+  - null
+comments:
+  - Scene 1
+  - https://www.iafd.com/title.rme/id=a196b040-3481-4c5e-b0b5-daaf40ad5f7a
+performers:
+  remove: []
+  append:
+    - id: 2861f62d-664a-4ced-a31d-cb35df587b17
+      name: Sasha
+      appearance: null
+      disambiguation: 1999, Euro Angels Hardball 4
+    - id: ed950c52-4c81-4ce2-a423-8551950c7374
+      name: Christoph Clark
+      appearance: null
+    - id: 166d2806-a941-4e90-90bd-7ba1fe30cc8a
+      name: Choky Ice
+      appearance: null
+    - id: b052023f-eaaf-4d6c-a503-cf490bd30e0c
+      name: Frank Major
+      appearance: null
