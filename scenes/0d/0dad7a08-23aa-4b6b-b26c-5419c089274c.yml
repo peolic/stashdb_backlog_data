@@ -1,25 +1,4 @@
-c_studio:
-  - Net Video Girls
-  - null
 comments:
   - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489823
   - Ep 2015-05-16 - Emi ... Emmi Blake
-  - https://www.iafd.com/title.rme/title=netvideogirls+709%3a+emi/year=2015/netvideogirls-709%3a-emi.htm
-  - video @ 02:28 - Mark
 date: '2015-05-16'
-performers:
-  remove:
-    - id: c2187fb8-de0f-4416-bfc5-2335d37ef601
-      name: Emi
-      appearance: null
-  append:
-    - id: bd647448-cbfb-4b31-a806-d42777694cad
-      name: Emmi Blake
-      appearance: Emi
-      notes:
-        - https://www.iafd.com/person.rme/perfid=emmiblake/gender=f/emmi-blake.htm
-        - https://web.archive.org/web/20170709223948/http://ocmodeling.com/emmi-blake-interview-by-captain-jack/
-        - https://www.freeones.com/emmi-blake
-    - id: 5be35434-2f59-4518-81fc-88c38b7eab2e
-      name: Seth Gamble
-      appearance: Mark
