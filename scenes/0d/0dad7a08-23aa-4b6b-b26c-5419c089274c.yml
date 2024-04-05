@@ -13,12 +13,11 @@ performers:
       name: Emi
       appearance: null
   append:
-    - id: null
+    - id: bd647448-cbfb-4b31-a806-d42777694cad
       name: Emmi Blake
       appearance: Emi
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=emmiblake/gender=f/emmi-blake.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=emmiblake/gender=f/emmi-blake.htm
         - https://web.archive.org/web/20170709223948/http://ocmodeling.com/emmi-blake-interview-by-captain-jack/
         - https://www.freeones.com/emmi-blake
     - id: 5be35434-2f59-4518-81fc-88c38b7eab2e
