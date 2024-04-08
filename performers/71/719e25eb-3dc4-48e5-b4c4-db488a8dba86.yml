@@ -10,14 +10,12 @@ split:
         - https://www.iafd.com/person.rme/perfid=alice_older/gender=f/alice.htm
         - https://www.indexxx.com/m/alice-e-2
         - https://stashdb.org/scenes/2f6872f1-5d5f-404d-926e-0b25c0260ba3
-    - id: null
-      name: Alice (2008, Shady PI)
-      text: possibly Ashley Belle
-      notes:
-        - '- Shady PI'
+    - id: 9d118bed-aa3a-4185-9c8a-6415a27b80e0
+      name: Ashley Belle
+      text: Shady PI
       links:
-        - https://www.iafd.com/person.rme/perfid=alice_pp_08/gender=f/alice.htm
-        - https://www.indexxx.com/m/alice-23
+        - https://www.iafd.com/person.rme/perfid=shleybell/gender=f/ashley-belle.htm
+        - https://www.indexxx.com/m/ashley-bell
         - https://stashdb.org/scenes/c4825de8-c475-41a6-b323-6b9738de74a1
     - id: 0657c07a-fba2-4f86-bff8-a0cc268ed70c
       name: Alice Sveltnotska
