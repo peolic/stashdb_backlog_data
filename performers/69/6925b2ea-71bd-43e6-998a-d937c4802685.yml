@@ -1,0 +1,18 @@
+split:
+  name: Dizzy
+  fragments:
+    - id: null
+      name: Holly
+      text: 'Teen Teacher: same as Teacher''s Pet 5 Scene 3'
+      links:
+        - https://www.iafd.com/person.rme/perfid=holly03/gender=f/holly.htm
+        - https://stashdb.org/scenes/19d39375-5756-4ab2-a84c-e901bd106b2b
+        - https://www.iafd.com/title.rme/title=teacher%27s+pet+5/year=2002/teacher%27s-pet-5.htm
+    - id: null
+      name: '[todo]'
+      text: 'Nasty Angels: same as ???'
+      links:
+        - https://stashdb.org/scenes/b8409632-b81d-4b49-b077-b06e50905de7
+  notes:
+    - Mix of multiple performers (complete list as of 2024-04-09)
+    - Best to not repurpose performer, and instead create a new one.
