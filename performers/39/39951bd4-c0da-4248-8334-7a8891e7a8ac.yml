@@ -1,12 +1,6 @@
 split:
   name: Zack
-  fragments:
-    - id: 8527ea81-ae67-4f5d-9664-0ef9c1810177
-      name: Zack Lemec
-      text: (Pegas Productions)
-      links:
-        - https://www.iafd.com/person.rme/perfid=zacklemec/gender=m/zack-lemec.htm
-        - https://www.pegasproductions.com/zack
+  fragments: []
   status: single fragment remains
   notes:
     - 'Mix of multiple performers (possibly complete list as of 2022-06-11). '

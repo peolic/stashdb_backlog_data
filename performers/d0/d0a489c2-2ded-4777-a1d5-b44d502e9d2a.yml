@@ -1,14 +1,6 @@
 split:
   name: Viktoria
-  fragments:
-    - id: 51cd2838-77b0-4f79-815a-da6dcc0a863a
-      name: Vika C
-      text: Nasty Angels
-      links:
-        - https://www.iafd.com/person.rme/perfid=lena_hoh/gender=f/lena.htm
-        - https://www.indexxx.com/m/vika-y
-        - https://stashdb.org/scenes/860bf0e7-43d9-44e6-bd14-39a7e9ca815b
-        - https://stashdb.org/scenes/209d5c56-2fef-48ff-9c16-7171e46782f4
+  fragments: []
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-01-22)

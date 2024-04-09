@@ -1,15 +1,6 @@
 split:
   name: Tyler
   fragments:
-    - id: be3bd379-8d08-49ab-a209-dab3103c0e92
-      name: Tyler Wood
-      text: 'at least:'
-      notes:
-        - '- Blowpass (Network)'
-        - '- Digital Playground'
-        - '- First Time Auditions'
-      links:
-        - https://www.iafd.com/person.rme/perfid=tylerwood/gender=m/tyler-wood.htm
     - id: 99a57208-63d6-4c2b-9aad-6693e2652df6
       name: Tyler (2010-12, White Ghetto)
       text: Pure 18

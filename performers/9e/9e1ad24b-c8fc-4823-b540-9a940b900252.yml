@@ -1,13 +1,6 @@
 split:
   name: Trina
-  fragments:
-    - id: 8eff80cc-0a19-478d-9e9f-d3b44295bc8b
-      name: Sabara
-      text: Bushy Bushy
-      links:
-        - https://www.iafd.com/person.rme/perfid=sabara/gender=f/sabara.htm
-        - https://www.indexxx.com/m/sabara
-        - https://stashdb.org/scenes/39fe0802-6568-4464-9989-583d94cd7076
+  fragments: []
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-12-08)

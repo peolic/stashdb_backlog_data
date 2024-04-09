@@ -1,12 +1,6 @@
 split:
   name: Veronique
-  fragments:
-    - id: 84c50f19-574f-48d5-896b-66db7e564c38
-      name: Noela Noel
-      text: Net Video Girls
-      links:
-        - https://www.iafd.com/person.rme/perfid=noelanoel/gender=f/noela-noel.htm
-        - https://stashdb.org/scenes/b436fbae-034f-4957-999a-0ca6901dc1f3
+  fragments: []
   status: single fragment remains
   notes:
     - "\x02Mix of multiple performers\x03"
