@@ -3,16 +3,13 @@ split:
   fragments:
     - id: 5df16abe-b1de-454b-b35e-848b6aa5eba8
       name: Karl Ben
-      text: A mix of My Teen Oasis, Rocco Siffredi, Silverstone DVD
+      text: A mix of My Teen Oasis, Rocco Siffredi
       notes:
         - '- Pick-up lines #59'
-        - '- ??? Peeping Tom #23'
         - '- 2x ??? Nasty Tails #02'
       links:
         - https://www.iafd.com/person.rme/perfid=karlben/gender=m/karl-ben.htm
         - https://stashdb.org/scenes/2b33cea1-c3db-4aa7-ad09-f7523e31988c
-        - https://stashdb.org/scenes/789b8c03-4f9c-4b50-905b-17aee399ac6c
-        - https://www.iafd.com/title.rme/id=745c467b-6983-47a5-a234-88b548ea2a49
         - https://stashdb.org/scenes/076daa71-db5e-4226-97d3-88878f131e58
         - https://stashdb.org/scenes/0c4049e7-d096-4c83-9a4c-f43dcac2c48f
         - https://www.iafd.com/title.rme/id=788c8580-6a0f-4acf-bf7b-527c0aff483d
@@ -20,25 +17,24 @@ split:
       name: Carlos Bazuca
       text: A mix of My Teen Oasis, Rocco Siffredi, Silverstone DVD
       notes:
-        - '- Pick-up lines #46'
-        - '- Pick-up lines #68 - Luana Rio'
-        - '- Pick-up lines #68 - Suzy'
-        - '- Pick-up lines #76'
-        - '- Young Girls In Dark Territory'
-        - '- ??? Peeping Tom #23'
+        - "- \x02Pick-up lines #46\x03"
+        - "- \x02Pick-up lines #68 - Luana Rio\x03"
+        - "- \x02Pick-up lines #68 - Suzy\x03"
+        - "- \x02Pick-up lines #76\x03"
+        - "- \x02Young Girls In Dark Territory\x03"
+        - "- \x02Peeping Tom #23 - Bianca\x03"
         - '- 2x ??? Nasty Tails #02'
       links:
         - https://www.iafd.com/person.rme/perfid=carlos_br/gender=m/carlos-bazuca.htm
-        - https://stashdb.org/scenes/89238c07-e31e-46d6-b530-9633c5f48615
-        - https://stashdb.org/scenes/32f76e1a-5ca9-4e44-b358-8db0a39988cc
-        - https://stashdb.org/scenes/e221befc-0ec4-429e-9977-7c7a3fa0bcc2
-        - https://stashdb.org/scenes/b82d289e-d845-4dc3-867d-17940aa65d97
-        - https://stashdb.org/scenes/901fc06d-1053-4bc9-841f-5aed01893131
-        - https://stashdb.org/scenes/789b8c03-4f9c-4b50-905b-17aee399ac6c
-        - https://www.iafd.com/title.rme/id=745c467b-6983-47a5-a234-88b548ea2a49
         - https://stashdb.org/scenes/076daa71-db5e-4226-97d3-88878f131e58
         - https://stashdb.org/scenes/0c4049e7-d096-4c83-9a4c-f43dcac2c48f
         - https://www.iafd.com/title.rme/id=788c8580-6a0f-4acf-bf7b-527c0aff483d
+    - id: null
+      name: Max Junior
+      text: 'Peeping Tom #23 - Suzy'
+      links:
+        - https://www.iafd.com/title.rme/id=745c467b-6983-47a5-a234-88b548ea2a49
+        - https://stashdb.org/scenes/789b8c03-4f9c-4b50-905b-17aee399ac6c
     - id: null
       name: Miguel / Carlos (2002, 8th Street Latinas)
       text: 8th Street Latinas (2002)
