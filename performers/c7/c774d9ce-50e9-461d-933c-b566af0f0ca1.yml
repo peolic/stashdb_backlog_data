@@ -1,13 +1,6 @@
 split:
   name: Carlos
   fragments:
-    - id: 5df16abe-b1de-454b-b35e-848b6aa5eba8
-      name: Karl Ben
-      notes:
-        - '- Pick-up lines #59'
-      links:
-        - https://www.iafd.com/person.rme/perfid=karlben/gender=m/karl-ben.htm
-        - https://stashdb.org/scenes/2b33cea1-c3db-4aa7-ad09-f7523e31988c
     - id: null
       name: Max Junior AKA Mauro Amaral
       text: 'Peeping Tom #23 - Suzy'
