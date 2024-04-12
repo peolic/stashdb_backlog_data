@@ -2,7 +2,14 @@ split:
   name: Rambo
   fragments:
     - id: null
-      name: Rambo (Japornxxx)
+      name: Baby Rambo
+      text: Japornxxx (Rambo is **not** the alias)
+      links:
+        - https://www.iafd.com/person.rme/perfid=babyrambo/gender=m/baby-rambo.htm
+        - https://stashdb.org/scenes/4c59e06c-9428-4e72-bcb4-f0694d8f93d0
+        - https://stashdb.org/scenes/c0fe1d8e-20a7-44e5-8077-d02ec70a1469
+        - https://stashdb.org/scenes/8aeada08-866e-4fc6-b9e2-59df2825eba3
+        - https://stashdb.org/scenes/c4f9e98d-c3ec-4ef2-92ce-b8f46e4ae94d
     - id: null
       name: Rambo (Dick Dorm, 2010)
       links:
