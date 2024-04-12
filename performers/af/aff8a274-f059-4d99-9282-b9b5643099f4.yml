@@ -1,0 +1,14 @@
+split:
+  name: Rad
+  fragments:
+    - id: null
+      name: Rad (Dick Dorm, 2011)
+      links:
+        - https://stashdb.org/scenes/c0245272-798d-4ac2-b65f-cb8af51dae44
+    - id: null
+      name: Rad (Dare Dorm, 2011)
+      links:
+        - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
+        - https://www.iafd.com/person.rme/perfid=rad_dd_11/gender=m/rad.htm
+  notes:
+    - Mix of multiple performers (partial list)
