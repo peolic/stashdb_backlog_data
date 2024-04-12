@@ -1,0 +1,14 @@
+split:
+  name: Ronald
+  fragments:
+    - id: null
+      name: Ronald (Dare Dorm, 2012)
+      links:
+        - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
+        - https://www.iafd.com/person.rme/perfid=ronalddd12/gender=m/ronald.htm
+    - id: null
+      name: Ronald (Dick Dorm, 2012)
+    - id: null
+      name: Ronald (Papi, 2007)
+  notes:
+    - Mix of multiple performers
