@@ -1,5 +1,17 @@
 split:
   name: Maverick
-  fragments: []
+  fragments:
+    - id: null
+      name: Maverick
+      text: Naughty Bookworms
+      links:
+        - https://www.iafd.com/person.rme/perfid=maverick_rus/gender=m/maverick.htm
+        - https://stashdb.org/scenes/0d4c04c6-12a5-40e8-905d-cd4fff3c734f
+    - id: null
+      name: Maverick
+      text: Hard Porn World
+      links:
+        - https://www.iafd.com/person.rme/perfid=maverick_eu_12/gender=m/maverick.htm
+        - https://stashdb.org/scenes/dc14caef-8681-4638-92ec-ccad7e5e229e
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (partial list)

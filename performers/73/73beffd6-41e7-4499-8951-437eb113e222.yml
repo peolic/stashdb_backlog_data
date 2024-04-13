@@ -1,14 +1,6 @@
 split:
   name: Leah
   fragments:
-    - id: a2457b95-ce21-4a21-a392-bb5836d7da56
-      name: Leah Wilde AKA Leah Wild
-      text: Peter North (2008)
-      links:
-        - https://stashdb.org/performers/202683f4-db12-4c5e-8ae1-94bbacd5df80
-        - https://www.iafd.com/person.rme/perfid=leahwilde/gender=f/leah-wilde.htm
-        - https://www.indexxx.com/m/leah-wilde
-        - https://stashdb.org/scenes/548f0444-338f-41a0-bccd-8fa7c7255201
     - id: null
       name: Leah Santiago
       text: My Teen Oasis

@@ -1,5 +1,11 @@
 split:
   name: Pablo
-  fragments: []
+  fragments:
+    - id: null
+      name: Pablo (2008, Mike's Apartment)
+      text: Mike's Apartment
+      links:
+        - https://www.iafd.com/person.rme/perfid=pablo_rk_08/gender=m/pablo.htm
+        - https://stashdb.org/scenes/a1cdd4d2-1258-4b7c-887e-872237e2e3f8
   notes:
     - Mix of multiple performers (partial list)

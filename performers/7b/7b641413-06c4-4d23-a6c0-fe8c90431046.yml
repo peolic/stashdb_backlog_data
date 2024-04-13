@@ -1,5 +1,15 @@
 split:
   name: Suzanne
-  fragments: []
+  fragments:
+    - id: null
+      name: Suzanne (DDF)
+      text: DDF Network
+      links:
+        - https://www.iafd.com/person.rme/perfid=suzanne_ddf/gender=f/suzanne.htm
+        - https://www.indexxx.com/m/suzanne
+        - https://www.thenude.com/Suzanne_9055.htm
+        - https://stashdb.org/scenes/41a7d573-8aaf-4639-9008-b5667812e7a7
+        - https://stashdb.org/scenes/0aada63a-1ca8-4e92-8253-0b6ff3a07d62
+        - https://stashdb.org/scenes/25bb3f15-2e40-435a-bd7c-66ff93768418
   notes:
     - Mix of multiple performers (partial list)
