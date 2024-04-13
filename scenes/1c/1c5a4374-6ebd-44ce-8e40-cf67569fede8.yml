@@ -4,7 +4,10 @@ c_studio:
 comments:
   - 'same as Six in One #3, Scene #3'
 performers:
-  remove: []
+  remove:
+    - id: e1dcfc57-1b07-4c2d-aef0-8b01e2a25b61
+      name: Marci
+      appearance: null
   append:
     - id: null
       name: Suzy
