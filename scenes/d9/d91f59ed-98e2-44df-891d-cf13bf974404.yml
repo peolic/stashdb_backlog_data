@@ -7,11 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: b1dfc58d-2a46-4cd4-9983-3f518d02cb9d
       name: Suzy
       appearance: null
-      disambiguation: '?'
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=suzy_02_eu/gender=f/suzy.htm
+      disambiguation: 2002-2006, Hungarian
       notes:
+        - https://www.iafd.com/person.rme/perfid=suzy_02_eu/gender=f/suzy.htm
         - https://www.egafd.com/actresses/details.php/id/X07846
