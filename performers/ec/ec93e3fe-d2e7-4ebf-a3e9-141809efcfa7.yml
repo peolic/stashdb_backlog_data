@@ -2,13 +2,12 @@ split:
   name: Ben
   fragments:
     - id: null
-      name: Ben (Reality Dudes)
-      text: (multiple?)
-    - id: null
       name: Ben (18videoz)
     - id: null
-      name: Ben (2013, Reality Kings)
+      name: Ben (2013, GF Revenge)
+      text: GF Revenge
       links:
         - https://www.iafd.com/person.rme/perfid=ben_rk_13/gender=m/ben.htm
+        - https://stashdb.org/scenes/c655e63f-37b2-4845-ba54-a5ac031e8e7a
   notes:
     - Mix of multiple performers (partial list)
