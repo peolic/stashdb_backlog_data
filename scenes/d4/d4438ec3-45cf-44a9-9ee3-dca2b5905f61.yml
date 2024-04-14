@@ -1,0 +1,19 @@
+c_studio:
+  - Exploited College Girls
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=1bb6e3d6-56cf-4b4a-81f1-78bf5a3fc0f3
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Justine
+      appearance: null
+      disambiguation: 2018, Exploited College Girls
+      status: c
+      status_url: https://stashdb.org/edits/f2b72510-f2f3-48eb-88c9-6ead860040f2
+  update:
+    - id: 2640f727-db1c-4124-bf7a-5943560c9746
+      name: Tim Cannon
+      appearance: TC
+      old_appearance: null
