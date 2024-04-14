@@ -6,12 +6,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 13aed83a-bdd5-4451-a369-438fb35d80f4
       name: Justine
       appearance: null
       disambiguation: 2018, Exploited College Girls
-      status: c
-      status_url: https://stashdb.org/edits/f2b72510-f2f3-48eb-88c9-6ead860040f2
   update:
     - id: 2640f727-db1c-4124-bf7a-5943560c9746
       name: Tim Cannon
