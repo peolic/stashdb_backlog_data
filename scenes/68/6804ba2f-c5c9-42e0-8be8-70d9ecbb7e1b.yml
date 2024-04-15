@@ -1,8 +1,3 @@
-c_studio:
-  - Exploited College Girls
-  - null
-comments:
-  - https://www.indexxx.com/set/1008912/exploited-college-girls-toni/
 fingerprints:
   - algorithm: phash
     hash: d52854af41d3abd8
@@ -20,12 +15,3 @@ fingerprints:
     hash: 5270798cd6ad39a7
     correct_scene_id: 2576755a-510a-44e1-ac46-b1d7329facbc
     duration: 2878
-performers:
-  remove: []
-  append:
-    - id: c81e9890-ba32-41b2-a41d-1f5dcf25d3bf
-      name: Toni Rose
-      appearance: null
-    - id: a1aaf2e9-5519-4dc8-a52c-8c364545c805
-      name: J. Jay
-      appearance: Jay
