@@ -6,5 +6,5 @@ duration: '2080'
 fingerprints:
   - algorithm: phash
     hash: e607587c24ac793e
-    correct_scene_id: null
+    correct_scene_id: b0da76de-c97d-4171-9292-5ffbb0789131
     duration: 1916
