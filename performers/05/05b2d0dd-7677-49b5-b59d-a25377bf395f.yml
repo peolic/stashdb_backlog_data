@@ -3,12 +3,19 @@ split:
   fragments:
     - id: null
       name: Maxwell (Dare Dorm, 2011)
+      text: Dare Dorm "Caught On Tape"
       links:
         - https://www.iafd.com/person.rme/perfid=maxwell_dd_11/gender=m/maxwell.htm
         - https://stashdb.org/scenes/23d764e6-58e1-40d3-9ff9-7f1ffb4db051
     - id: null
       name: Maxwell (Dick Dorm, 2011)
+      text: Dick Dorm "So Clean"
+      links:
+        - https://stashdb.org/scenes/7e658bb8-6e05-4159-988b-b5f1b9f9a030
     - id: null
-      name: Maxwell (Dick Dorm, 2011)
+      name: Maxwell (Dick Dorm, 2010)
+      text: Dick Dorm "All In"
+      links:
+        - https://stashdb.org/scenes/d9c326cd-347f-409f-ae82-4253cdfbe22f
   notes:
     - Mix of multiple performers (complete list as of 2024-04-16)
