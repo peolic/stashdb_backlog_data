@@ -1,16 +1,6 @@
 split:
   name: Tina
   fragments:
-    - id: c02bcd14-5a08-497e-9426-0c57380f577b
-      name: Joli A AKA Tina Clarke
-      notes:
-        - "- \x021By-Day\x03"
-        - "- \x02Twistys\x03"
-        - '- White Ghetto'
-      links:
-        - https://www.iafd.com/person.rme/perfid=tinaclarke/gender=f/tina-clarke.htm
-        - https://www.indexxx.com/m/hannah
-        - https://stashdb.org/scenes/1769bd2d-5280-44b0-b024-7d34be0a6113
     - id: null
       name: Tina (2005, V9)
       notes:
