@@ -1,0 +1,22 @@
+c_studio:
+  - Nubiles.net
+  - null
+comments:
+  - original alias was Chloe, performer 'Kitty Rich' seems to be incorrect
+  - https://www.indexxx.com/set/14004/nubiles-chloe/
+performers:
+  remove:
+    - id: 83911407-b44d-4971-8d6a-17d936ac54b3
+      name: Kitty Rich
+      appearance: Kitty Blue
+  append:
+    - id: null
+      name: Chloe
+      appearance: null
+      disambiguation: 2006, Nubiles
+      status: new
+      status_url: https://www.indexxx.com/m/chloe-1
+      notes:
+        - https://www.thenude.com/_12301.htm
+        - https://www.boobpedia.com/boobs/Chloe_(Nubiles)
+        - https://nubiles.net/model/profile/542/Chloe.html
