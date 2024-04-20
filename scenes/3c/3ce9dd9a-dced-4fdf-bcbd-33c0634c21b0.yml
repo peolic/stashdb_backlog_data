@@ -11,11 +11,10 @@ performers:
       name: Chyanne Jacobs
       appearance: Cheyenne
   append:
-    - id: null
+    - id: f844ba27-f4b7-4200-a0ea-de2d43014afb
       name: Cheyenne
       appearance: null
       disambiguation: 2005, Round and Brown
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=cheyenne_rk05/gender=f/cheyenne.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=cheyenne_rk05/gender=f/cheyenne.htm
         - https://www.indexxx.com/m/cheyenne-1
