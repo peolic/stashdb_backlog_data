@@ -1,18 +1,6 @@
 split:
   name: Kyla and Jessica
-  fragments:
-    - id: b4b26d37-29dd-4a06-b4d3-76781a7b0566
-      name: Misel (CZ 2004-2019)
-      links:
-        - https://www.iafd.com/person.rme/perfid=misel_04/gender=f/misel.htm
-        - https://www.indexxx.com/m/misel
-        - https://stashdb.org/scenes/d31a2ad8-9dd5-4bd1-9161-1290bbbd29c6
-    - id: 6fc558ee-45f1-4b13-a1d3-446065c4ea9c
-      name: Terri (CZ)
-      links:
-        - https://www.iafd.com/person.rme/perfid=teri_eu_07/gender=f/teri.htm
-        - https://www.indexxx.com/m/terri
-        - https://stashdb.org/scenes/d31a2ad8-9dd5-4bd1-9161-1290bbbd29c6
+  fragments: []
   notes:
     - Amalgamated performer (complete list) - Young Lesbians Portal 1912
   links:
