@@ -1,18 +1,6 @@
 split:
   name: Sarah and Anna
-  fragments:
-    - id: 7c91afe8-b5d6-4977-b511-5913aba377a6
-      name: Klara Smetanova
-      links:
-        - https://www.iafd.com/person.rme/perfid=klara_cz_03/gender=f/klara.htm
-        - https://www.indexxx.com/m/klara-smetanova
-        - https://stashdb.org/scenes/15e89487-e920-4b3e-bdb2-bd423fffdc1d
-    - id: 4ca4825c-1d2f-47bf-9b33-807192fccbd1
-      name: Nika Blond
-      links:
-        - https://www.iafd.com/person.rme/perfid=nika_eu/gender=f/nika-blond.htm
-        - https://www.indexxx.com/m/nika-blond
-        - https://stashdb.org/scenes/15e89487-e920-4b3e-bdb2-bd423fffdc1d
+  fragments: []
   notes:
     - Amalgamated performer (complete list) - Young Lesbians Portal 1902
   links:

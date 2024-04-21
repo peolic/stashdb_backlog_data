@@ -1,21 +1,6 @@
 split:
   name: Aubry
-  fragments:
-    - id: fc329e5a-8a34-4ce7-825c-f3e9f2949682
-      name: Aubrey Sky
-      text: Peter North
-      links:
-        - https://www.iafd.com/person.rme/perfid=aubreysky/gender=f/aubrey-sky.htm
-        - https://www.indexxx.com/m/aubrey-sky
-        - https://stashdb.org/scenes/c41e970b-7170-47de-a081-1be6420ca619
-        - https://stashdb.org/scenes/782544f8-1a96-4acf-90ee-0e46108314be
-    - id: 4fc59764-dbd1-4984-82d2-b7db13d538f1
-      name: Carrina (White Ghetto)
-      text: Net Video Girls
-      notes:
-        - Moles and tattoos match
-      links:
-        - https://www.iafd.com/person.rme/perfid=carrina/gender=f/carrina.htm
-        - https://stashdb.org/scenes/599c8a2d-ffaf-4295-9222-db26ffaadf6b
+  fragments: []
+  status: 'done: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2023-03-25)
