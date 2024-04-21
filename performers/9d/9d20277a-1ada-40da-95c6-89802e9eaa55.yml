@@ -1,18 +1,6 @@
 split:
   name: Benjamin
   fragments:
-    - id: 8ed7d19c-efac-435c-a2fe-8f08fa79747b
-      name: Benjamin Dunn
-      text: Male Reality
-      links:
-        - https://www.iafd.com/person.rme/perfid=benjamindunn/gender=m/benjamin-dunn.htm
-        - https://stashdb.org/scenes/c6747ad9-a47b-486a-9cc7-3ce286617e4b
-        - https://stashdb.org/scenes/5ee28603-a08d-4205-bb77-a1b81ed46abf
-        - https://stashdb.org/scenes/16484425-02a8-4ec3-ac49-120a154d314f
-        - https://stashdb.org/scenes/aafdaaed-7b76-4341-9f3b-9d2c6e54b104
-        - https://stashdb.org/scenes/e36f1a4a-503b-4921-90fe-0d7ed164a4ea
-        - https://stashdb.org/scenes/45df7912-9f5d-498d-897c-21aeeedff7ed
-        - https://stashdb.org/scenes/fb9226b7-12e7-41c5-8e01-dfea47bd2c11
     - id: null
       name: Benjamin (2005, Men In Pain)
       text: Men In Pain

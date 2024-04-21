@@ -1,15 +1,6 @@
 split:
   name: Blaze
   fragments:
-    - id: 5e4c98ce-5ae0-4940-82a2-c2c4e26956ca
-      name: Alex James (2010-2014)
-      text: (Men.com + GF Revenge)
-      notes:
-        - Same performer for both sites
-      links:
-        - https://www.iafd.com/person.rme/perfid=alexjames_jc/gender=m/alex-james.htm
-        - https://www.men.com/modelprofile/24844/blaze
-        - https://www.realitykings.com/model/24844/blaze
     - id: null
       name: Blaze (2004-2005, Kink)
       links:

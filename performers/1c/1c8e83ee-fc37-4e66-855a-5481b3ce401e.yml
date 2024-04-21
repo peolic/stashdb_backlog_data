@@ -1,12 +1,6 @@
 split:
   name: Corey
   fragments:
-    - id: 1a99a676-20ab-4622-a618-2b81998322d3
-      name: Scotty Dean
-      text: Dare Dorm "Two Hot Babes"
-      links:
-        - https://www.iafd.com/person.rme/perfid=scottydean/gender=m/scotty-dean.htm
-        - https://stashdb.org/scenes/5cfadea6-c658-42e8-887d-c750de6a00e3
     - id: null
       name: Corey
       text: Dare Dorm "Things People Do"
@@ -16,12 +10,6 @@ split:
         - https://www.iafd.com/person.rme/perfid=corey_dd_11/gender=f/corey.htm
         - https://stashdb.org/scenes/55decc76-f7c8-47d7-b4d4-7c86f81cc84c
         - https://www.realitykings.com/model/25709/corey
-    - id: a6757830-3e96-4cf4-90a7-832f8d382fac
-      name: Corey (FratX)
-      text: FratX
-      links:
-        - https://www.iafd.com/person.rme/perfid=corey_fraternityx/gender=m/corey.htm
-        - https://stashdb.org/scenes/3ccc06f2-1121-4da1-8795-a0260040ee9e
     - id: null
       name: '?'
       text: Papi "Cock Shots"
