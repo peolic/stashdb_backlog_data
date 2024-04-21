@@ -1,18 +1,6 @@
 split:
   name: Lola C
-  fragments:
-    - id: 3139f8ea-27a6-4e9f-91e1-0fa04c8686db
-      name: Veronika V
-      text: Viv Thomas
-      links:
-        - https://www.iafd.com/person.rme/perfid=veronikav/gender=f/veronika-v..htm
-        - https://www.indexxx.com/m/veronika-v
-    - id: f7e4233a-e6e7-4ded-bbd0-aae588fb3c09
-      name: Nena (b. 1989, Russia)
-      text: Devil's Film
-      links:
-        - https://www.iafd.com/person.rme/perfid=lola_eu_08/gender=f/lola.htm
-        - https://www.indexxx.com/m/nena
-        - https://stashdb.org/scenes/6f76d058-de6a-43c1-9c9e-5a9f6b2b924b
+  fragments: []
+  status: 'done: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2024-02-02)

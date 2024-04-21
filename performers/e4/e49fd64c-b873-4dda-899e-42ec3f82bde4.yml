@@ -1,23 +1,6 @@
 split:
   name: Diego
-  fragments:
-    - id: e8ee77d9-227e-4e45-a868-6e3f45d5bc2f
-      name: Nick Vargas
-      notes:
-        - '- 40 Something Mag'
-        - '- 3x Gonzo'
-      links:
-        - https://www.iafd.com/person.rme/perfid=romizuska/gender=m/romi-zuska.htm
-        - https://stashdb.org/scenes/bb75039f-312b-4313-8df6-e881890d137b
-        - https://stashdb.org/scenes/1dddd893-c5d3-454c-9f78-11aa294cd605
-        - https://stashdb.org/scenes/1f4f6563-4a5e-42d3-af50-29c9192607aa
-        - https://stashdb.org/scenes/301f660d-d7da-4410-806c-f10f9aa555de
-    - id: 4f9caf88-379c-4a0c-8117-27302eec0420
-      name: Dylan Brown
-      text: Gonzo SZ2115
-      links:
-        - https://www.iafd.com/person.rme/perfid=dylanbrown/gender=m/dylan-brown.htm
-        - https://stashdb.org/scenes/b51e1683-b0e1-462f-bab4-ddd9a6317b61
-  status: single fragment remains
+  fragments: []
+  status: 'done: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2024-03-03)

@@ -1,18 +1,6 @@
 split:
   name: Karie and Sonya
-  fragments:
-    - id: c675a732-67e0-4bbd-875c-a317c55a6cfe
-      name: Joana Redgrave
-      links:
-        - https://www.iafd.com/person.rme/perfid=vanessa_05_eu/gender=f/joana-redgrave.htm
-        - https://www.indexxx.com/m/joana-redgrave
-        - https://stashdb.org/scenes/80146c4e-8f78-4913-876e-54f18779ec33
-    - id: 954bd145-82ca-4ca0-8f07-2eff7f18739d
-      name: Leontyna AKA Tina
-      links:
-        - https://www.iafd.com/person.rme/perfid=tina_eu_05/gender=f/tina.htm
-        - https://www.indexxx.com/m/pavlina-1
-        - https://stashdb.org/scenes/80146c4e-8f78-4913-876e-54f18779ec33
+  fragments: []
   notes:
     - Amalgamated performer (complete list) - Young Lesbians Portal 1878
   links:

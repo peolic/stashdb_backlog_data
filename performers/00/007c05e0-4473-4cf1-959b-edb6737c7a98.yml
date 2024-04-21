@@ -1,18 +1,6 @@
 split:
   name: Maria and Jessica
-  fragments:
-    - id: 4a098fc3-141b-4828-9d8a-dd003bd0966e
-      name: Shelly K aka Aisha
-      links:
-        - https://www.iafd.com/person.rme/perfid=aisha_pr/gender=f/aisha.htm
-        - https://www.indexxx.com/m/jirina
-        - https://stashdb.org/scenes/0ec73d11-8a52-43ea-b893-39a2f7c8c6b7
-    - id: 3780361c-eb28-4f0e-95de-943df7fc71dd
-      name: Renata Tomankova aka Celine
-      links:
-        - https://www.iafd.com/person.rme/perfid=celine_05_eu/gender=f/celine.htm
-        - https://www.indexxx.com/m/celine
-        - https://stashdb.org/scenes/0ec73d11-8a52-43ea-b893-39a2f7c8c6b7
+  fragments: []
   notes:
     - Amalgamated performer (complete list) - Young Lesbians Portal 1917
   links:

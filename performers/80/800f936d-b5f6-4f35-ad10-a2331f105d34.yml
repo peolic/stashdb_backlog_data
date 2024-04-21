@@ -1,11 +1,6 @@
 split:
   name: Dee
-  fragments:
-    - id: null
-      name: '[DickDorm scene]'
-      text: iafd contains no info
-      links:
-        - https://www.iafd.com/title.rme/title=work+out/year=2010/work-out.htm
-  status: single fragment remains
+  fragments: []
+  status: 'done: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2023-09-20)
