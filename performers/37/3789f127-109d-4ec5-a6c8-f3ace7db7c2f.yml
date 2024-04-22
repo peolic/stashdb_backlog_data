@@ -1,15 +1,6 @@
 split:
   name: Isabel
-  fragments:
-    - id: 58ec0d67-0dca-4d08-9714-9a7f590a5864
-      name: Isabel (HU, 2004-2005)
-      notes:
-        - '- 21 Sextury'
-        - '- 21 Sextreme'
-        - '- 21 Bonus'
-      links:
-        - https://www.iafd.com/person.rme/perfid=fanny_eu_04/gender=f/fanny.htm
-        - https://www.indexxx.com/m/isabel
+  fragments: []
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-07-24)

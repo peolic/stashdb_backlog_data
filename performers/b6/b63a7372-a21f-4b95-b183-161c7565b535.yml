@@ -1,13 +1,6 @@
 split:
   name: Cat
-  fragments:
-    - id: 59fe2ec8-2b3b-4942-b8c9-2e79b7908760
-      name: Cat (2010, Reality Kings)
-      text: Dare Dorm
-      links:
-        - https://www.iafd.com/person.rme/perfid=cat_rk10/gender=f/cat.htm
-        - https://stashdb.org/scenes/33eb0469-f0a7-4284-9fe4-cdf21fb47e58
-        - https://www.realitykings.com/model/26098/cat
-  status: single fragment remains
+  fragments: []
+  status: 'done: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2024-02-28)

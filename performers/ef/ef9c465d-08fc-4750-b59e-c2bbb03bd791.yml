@@ -1,16 +1,7 @@
 split:
   name: Azella (NVG)
-  fragments:
-    - id: 9ceeafed-86f3-40f0-8774-e9f8017a0290
-      name: Angelina Castellano AKA Kash
-      text: Net Video Girls (2011)
-      notes:
-        - tattoos match
-      links:
-        - https://www.iafd.com/person.rme/perfid=angelinacastellano/gender=f/angelina-castellano.htm
-        - https://stashdb.org/scenes/13bee819-9258-4550-8e09-e0f2a9d5e685
-        - https://www.iafd.com/title.rme/id=973b73a3-4b70-401e-a84f-5e7d27fe5c67
-  status: single fragment remains
+  fragments: []
+  status: 'done: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2022-07-12)
     - "The left breast mole visible on the 2018 image is not visible on the 2011 scene, \x02I believe\x03 they are two different performers."
