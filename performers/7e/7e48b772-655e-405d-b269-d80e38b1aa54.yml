@@ -1,12 +1,5 @@
 split:
   name: Frank
-  fragments:
-    - id: be3bd379-8d08-49ab-a209-dab3103c0e92
-      name: Tyler Wood
-      text: 1000 Facials
-      links:
-        - https://www.iafd.com/person.rme/perfid=tylerwood/gender=m/tyler-wood.htm
-        - https://stashdb.org/scenes/0d69e783-320d-4119-a2a3-41710f7c86ef
-        - https://www.iafd.com/title.rme/id=a342b3bd-80b4-4548-ad62-71b4b8937ce1
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
