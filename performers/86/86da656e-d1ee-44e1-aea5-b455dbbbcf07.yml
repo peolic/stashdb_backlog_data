@@ -1,13 +1,6 @@
 split:
   name: Jean
   fragments:
-    - id: 760e69e1-c28f-4ca0-8d1c-f6cfe595d98c
-      name: Jean-Claude Batiste AKA Jean Claude B
-      text: Flower Tucci
-      links:
-        - https://stashdb.org/performers/33962ee0-a526-4da5-91be-34078f1cf2ad
-        - https://www.iafd.com/person.rme/perfid=jcbatiste_m/gender=m/jean-claude-batiste.htm
-        - https://stashdb.org/scenes/9cfd6c36-b0a1-4b91-bfeb-0697dceaf884
     - id: null
       name: Amber (2005, V9) AKA Jen
       notes:
