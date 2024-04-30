@@ -3,3 +3,15 @@ fingerprints:
     hash: 1b0a63ed13773a75
     correct_scene_id: null
     duration: 638
+  - algorithm: phash
+    hash: aa328c23c6755f8d
+    correct_scene_id: null
+    duration: 2135
+  - algorithm: phash
+    hash: 9f1d2f417c81552e
+    correct_scene_id: null
+    duration: 788
+  - algorithm: phash
+    hash: 9ae5c936d831a34d
+    correct_scene_id: null
+    duration: 1062
