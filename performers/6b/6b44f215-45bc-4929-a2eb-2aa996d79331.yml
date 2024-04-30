@@ -1,12 +1,6 @@
 split:
   name: Caroline
   fragments:
-    - id: e59bf961-c174-457b-851d-c6860af725ca
-      name: Koshka (2009-2017, Russia)
-      text: Teen Core Club
-      links:
-        - https://www.iafd.com/person.rme/perfid=kristina_ru_09/gender=f/kristina.htm
-        - https://www.indexxx.com/m/karina-28
     - id: null
       name: Caroline (?, 2003-2005)
       text: Twistys
