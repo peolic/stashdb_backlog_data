@@ -1,17 +1,6 @@
 split:
   name: Harley
   fragments:
-    - id: 77010e4e-46e3-4701-819f-1129d4e27004
-      name: Haiko Titan
-      notes:
-        - '- 1000 Facials'
-        - '- Mile High Media: similar to F-ing Teens #3, Scene #2'
-        - '- Tera Patrick'
-      links:
-        - https://www.iafd.com/person.rme/perfid=harley_06/gender=m/harley.htm
-        - https://stashdb.org/scenes/1d468eaf-af0f-4f11-9dcf-9aa3cf62aa95
-        - https://stashdb.org/scenes/14a057b2-f655-4458-94d2-322c649e6b3a
-        - https://stashdb.org/scenes/2c7fa136-861b-4a4f-9083-d376267a8d35
     - id: null
       name: Harley Jacobs
       text: Money Talks
