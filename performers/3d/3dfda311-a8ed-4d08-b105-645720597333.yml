@@ -1,15 +1,6 @@
 split:
   name: Gabriella
   fragments:
-    - id: 3f538f81-fd28-403d-87f8-0da132453455
-      name: Gabriela (2005-2015, Russian)
-      notes:
-        - "- \x02Devil's Film\x03"
-        - '- Rocco Siffredi'
-      links:
-        - https://www.iafd.com/person.rme/perfid=gabriela_rs_06/gender=f/gabriela.htm
-        - https://www.indexxx.com/m/gabriela
-        - https://stashdb.org/scenes/c4ac8f81-cf36-47b6-b904-07945ba87d17
     - id: null
       name: Gabriella (2010, GF Revenge)
       text: GF Revenge (2010)
