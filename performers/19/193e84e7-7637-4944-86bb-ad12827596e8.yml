@@ -1,15 +1,6 @@
 split:
   name: Jasmin
   fragments:
-    - id: 0d4a183f-8d74-4432-b2a9-da51ee5123cf
-      name: Tandy Brown
-      notes:
-        - "- \x02Big Naturals\x03"
-        - '- Extreme Naturals'
-      links:
-        - https://www.iafd.com/person.rme/perfid=tandybrown/gender=f/tandy-brown.htm
-        - https://www.indexxx.com/m/tandy-brown
-        - https://stashdb.org/scenes/5ea28a86-4df6-43a4-b45d-59da8beb266b
     - id: null
       name: Jasmin (2009, White Ghetto)
       notes:
