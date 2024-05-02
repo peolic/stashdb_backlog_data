@@ -6,18 +6,8 @@ comments:
   - Carlos is not correct for this scene
   - https://www.iafd.com/title.rme/id=745c467b-6983-47a5-a234-88b548ea2a49
 performers:
-  remove:
-    - id: b9e0a84b-854d-4fbe-812c-076cd61802b0
-      name: Suzy
-      appearance: null
-    - id: c774d9ce-50e9-461d-933c-b566af0f0ca1
-      name: Carlos
-      appearance: null
+  remove: []
   append:
-    - id: d684937d-9072-42ca-8cfd-93b026e952c3
-      name: Suzy
-      appearance: null
-      disambiguation: Evil Angel 1999-2001
     - id: null
       name: Max Junior
       appearance: Max
