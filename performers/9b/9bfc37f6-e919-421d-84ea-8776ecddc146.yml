@@ -1,13 +1,5 @@
 split:
   name: Karl
-  fragments:
-    - id: 5df16abe-b1de-454b-b35e-848b6aa5eba8
-      name: Karl Ben
-      text: My Teen Oasis
-      links:
-        - https://www.iafd.com/person.rme/perfid=karlben/gender=m/karl-ben.htm
-        - https://stashdb.org/scenes/2411136f-e795-4dd2-9ab5-ca2d6aed22b0
-        - https://stashdb.org/scenes/18156300-3452-4fec-bfee-533e2809640a
-        - https://stashdb.org/scenes/66709931-d6ce-4ade-b769-344baa40f8f9
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
