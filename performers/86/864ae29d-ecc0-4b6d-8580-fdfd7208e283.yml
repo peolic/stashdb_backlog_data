@@ -1,11 +1,5 @@
 split:
   name: Misha
-  fragments:
-    - id: 18079366-870b-4782-93fb-727cfce0034f
-      name: Mischel Wild AKA Mischel Crazy
-      text: Woodman Casting X
-      links:
-        - https://www.iafd.com/person.rme/perfid=mischelwild/gender=f/mischel-wild.htm
-        - https://www.indexxx.com/m/mischel-crazy
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
