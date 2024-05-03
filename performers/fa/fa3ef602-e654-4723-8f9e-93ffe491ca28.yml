@@ -2,16 +2,6 @@ split:
   name: Myriam
   fragments:
     - id: null
-      name: Myriam (2014, Woodman)
-      text: Woodman Casting X (2014)
-      links:
-        - https://www.indexxx.com/m/myriam-4
-    - id: null
-      name: Myriam (French, 1999, Woodman)
-      text: Woodman Casting X (2009-07-04)
-      links:
-        - https://www.indexxx.com/m/myriam-2
-    - id: null
       name: Myriam (Peruvian, 1999, Woodman)
       text: Woodman Casting X (2009-06-21)
       links:
