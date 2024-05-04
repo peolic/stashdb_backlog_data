@@ -1,0 +1,14 @@
+c_studio:
+  - Casting Couch-HD
+  - null
+comments:
+  - correct male performer
+performers:
+  remove:
+    - id: 7c06cc04-d37e-47cc-bdf6-5b6f831dcc54
+      name: Jax Slayher
+      appearance: null
+  append:
+    - id: e34cbdd3-7943-4c0f-a9ab-abe9e46c3f2c
+      name: Lil D.
+      appearance: D
