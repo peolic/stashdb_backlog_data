@@ -12,11 +12,10 @@ performers:
       name: Katrena Starr
       appearance: Marilyn
   append:
-    - id: null
+    - id: ee548cf8-4de3-46a1-8972-79c968d97f45
       name: Katrina
       appearance: Marilyn
-      disambiguation: 2002-2004
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=katrina02/gender=f/katrina.htm
+      disambiguation: 2002-2004, US
       notes:
+        - https://www.iafd.com/person.rme/perfid=katrina02/gender=f/katrina.htm
         - https://www.indexxx.com/m/katrina-2

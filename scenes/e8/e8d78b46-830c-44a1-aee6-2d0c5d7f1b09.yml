@@ -7,11 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
-      name: Myriam
-      appearance: null
-      disambiguation: Canadian, 2004-2009
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=myrian_can/gender=f/myriam.htm
+    - id: 51213c1f-1599-453d-b57e-39303250224a
+      name: Miryam
+      appearance: Myriam
+      disambiguation: 2004-2009, CA
       notes:
+        - https://www.iafd.com/person.rme/perfid=myrian_can/gender=f/myriam.htm
         - https://www.indexxx.com/m/myriam-1
