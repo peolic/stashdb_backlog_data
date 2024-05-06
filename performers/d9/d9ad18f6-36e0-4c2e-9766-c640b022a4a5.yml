@@ -1,14 +1,6 @@
 split:
   name: Richard
   fragments:
-    - id: cfb11646-db90-469f-965d-b7edfb58536e
-      name: Richard Kline
-      text: Teen Teacher
-      notes:
-        - Same as Teacher's Pet 10 Scene 3
-      links:
-        - https://www.iafd.com/person.rme/perfid=richardraymond/gender=m/richard-kline.htm
-        - https://stashdb.org/scenes/620e1518-373b-40f4-b03f-d25a5a1daacb
     - id: null
       name: Richard (2005, BangBros)
       text: Bang Bus

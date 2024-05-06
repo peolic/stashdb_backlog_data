@@ -1,16 +1,6 @@
 split:
   name: Romeo
   fragments:
-    - id: 1b0bdc85-3844-4c4e-af0c-f4d1f2ab7ba5
-      name: Romeo (XConfessions)
-      text: JoyBear
-      links:
-        - https://www.iafd.com/person.rme/perfid=romeoonset/gender=m/romeo.htm
-        - https://www.joybear.com/models/romeo
-        - https://stashdb.org/scenes/3c9c0474-48c3-4dc4-a1a8-336d7c7919a8
-        - https://stashdb.org/scenes/4faca499-6d78-4e8c-8a2f-212e7c13d424
-        - https://stashdb.org/scenes/ee5f4b7a-1a03-45b0-ac19-928e7a773844
-        - https://stashdb.org/scenes/fb2780ae-4bd9-4432-8abe-24abbeca903d
     - id: null
       name: Romeo
       text: We Live Together - only mentioned in description, does not participate. maybe never shows.
