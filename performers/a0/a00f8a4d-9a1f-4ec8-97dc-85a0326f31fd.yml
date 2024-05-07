@@ -1,14 +1,6 @@
 split:
   name: Ricardo
   fragments:
-    - id: c8777f79-60a6-4141-b79b-4b4c287ea661
-      name: Ricardo Branco
-      notes:
-        - "- \x02Extreme Asses\x03"
-        - "- \x02Mike in Brazil\x03"
-        - '- Tranny Surprise'
-      links:
-        - https://www.iafd.com/person.rme/perfid=ricardobranco/gender=m/ricardo-branco.htm
     - id: null
       name: Ricardo (2013, GF Revenge)
       text: GF Revenge

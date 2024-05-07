@@ -8,13 +8,6 @@ split:
         - https://www.iafd.com/person.rme/perfid=avacox/gender=f/ava-cox.htm
         - https://www.indexxx.com/m/ava-cox
         - https://stashdb.org/scenes/1e6cde22-78ca-490d-89fa-b94746184f38
-    - id: 61fc85f0-4c37-40ea-8cff-4cc072e9543e
-      name: Stephanie Swift
-      text: TeamSkeet Extras
-      links:
-        - https://www.iafd.com/person.rme/perfid=sswift/gender=f/stephanie-swift.htm
-        - https://www.indexxx.com/m/stephanie-swift
-        - https://stashdb.org/scenes/f9df6784-a3b4-4abc-9015-11fcc61a9bef
     - id: null
       name: Stephanie Reigns
       text: Blowpass
@@ -44,17 +37,5 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=stephanie_rk10/gender=f/stephanie.htm
         - https://stashdb.org/scenes/0faec75f-ef9c-497f-bb3f-10d76123f52f
-    - id: b80313fb-ad68-4bfc-b892-5d5af9bc255c
-      name: Stephanie DuValle
-      text: Silverstone DVD
-      links:
-        - https://www.iafd.com/person.rme/perfid=sduvalle/gender=f/stephanie-duvalle.htm
-        - https://stashdb.org/scenes/b8c42956-746d-49ec-8497-39254f784987
-    - id: 8b4756c4-8959-4855-aff1-8e5fc801aacf
-      name: Stephanie Gonzalez
-      text: In the VIP
-      links:
-        - https://www.iafd.com/person.rme/perfid=unknownfemale_329690b/gender=f/stephanie-gonzalez.htm
-        - https://stashdb.org/scenes/5233dae3-7af8-44f3-925a-00f48d206602
   notes:
     - Mix of multiple performers (partial list)
