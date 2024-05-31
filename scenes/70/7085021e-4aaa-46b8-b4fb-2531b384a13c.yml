@@ -1,9 +1,9 @@
 fingerprints:
   - algorithm: oshash
     hash: 7f5d0187ea5845e0
-    correct_scene_id: null
+    correct_scene_id: 7e2f6e51-9abc-49be-8e99-4ab3bb597131
     duration: 807
   - algorithm: phash
     hash: f7d3ea8d29f010a1
-    correct_scene_id: null
+    correct_scene_id: 7e2f6e51-9abc-49be-8e99-4ab3bb597131
     duration: 807
