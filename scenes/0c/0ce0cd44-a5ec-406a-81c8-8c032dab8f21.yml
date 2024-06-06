@@ -23,9 +23,3 @@ fingerprints:
     hash: 8a75dd558af19911
     correct_scene_id: f7574124-5c3f-4510-9121-0fb4c0254eaa
     duration: 1321
-  - algorithm: phash
-    hash: a0b5b484dd9e0d8f
-    correct_scene_id: f7574124-5c3f-4510-9121-0fb4c0254eaa
-  - algorithm: phash
-    hash: b0b53484dc9e0d9f
-    correct_scene_id: f7574124-5c3f-4510-9121-0fb4c0254eaa
