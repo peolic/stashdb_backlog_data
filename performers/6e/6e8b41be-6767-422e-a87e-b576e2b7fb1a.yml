@@ -1,18 +1,5 @@
 split:
   name: Haily
-  fragments:
-    - id: null
-      name: Haily (2012, Mike In Brazil)
-      text: Mike In Brazil
-      links:
-        - https://www.iafd.com/person.rme/perfid=haily_br/gender=f/haily.htm
-        - https://www.indexxx.com/m/haily-1
-        - https://stashdb.org/scenes/fa528698-975b-48fc-84d8-1b3827b18d51
-    - id: null
-      name: Haily (2016, NVG)
-      notes:
-        - Ep 2016-08-22...CCHD...Haily
-      links:
-        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-10899953
+  fragments: []
   notes:
     - Mix of multiple performers (complete list as of 2023-05-07)
