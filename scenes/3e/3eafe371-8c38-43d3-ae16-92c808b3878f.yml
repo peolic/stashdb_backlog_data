@@ -9,13 +9,13 @@ fingerprints:
     duration: 1393
   - algorithm: phash
     hash: a17beae123aa70ac
-    correct_scene_id: null
+    correct_scene_id: 0926eb0d-1e7d-4713-a480-3012a9723222
     duration: 1401
   - algorithm: oshash
     hash: 18a398dd5dd927b6
-    correct_scene_id: null
+    correct_scene_id: 0926eb0d-1e7d-4713-a480-3012a9723222
     duration: 1401
   - algorithm: md5
     hash: 3f8b9af1ae0d5204a45395a120f3c3a3
-    correct_scene_id: null
+    correct_scene_id: 0926eb0d-1e7d-4713-a480-3012a9723222
     duration: 1401
