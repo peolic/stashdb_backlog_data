@@ -89,14 +89,6 @@ split:
         - https://stashdb.org/scenes/258abcbe-89ae-4f70-b426-fb4b7dd18b43
         - https://stashdb.org/scenes/37b9f0d1-f029-4b7e-b12f-b6c05e4fc361
     - id: null
-      name: Jessica Road
-      text: Mike's Apartment
-      links:
-        - https://www.iafd.com/person.rme/perfid=jessicaroad/gender=f/jessica-road.htm
-        - https://www.indexxx.com/m/piroska-1
-        - https://www.egafd.com/actresses/details.php/id/J00745
-        - https://stashdb.org/scenes/f484c495-ab37-4b34-8d79-a5a4a0ae5164
-    - id: null
       name: Jessica (2003, In the VIP)
       text: In the VIP (2003)
       notes:
