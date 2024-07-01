@@ -1,18 +1,12 @@
 split:
   name: Brittney
   fragments:
-    - id: c89b19c6-42de-4c22-9c8e-f874e4925b52
-      name: Brittney (2009, Bang Bros)
-      text: Bang Bus
-      links:
-        - https://www.iafd.com/person.rme/perfid=brittney_bang_09/gender=f/brittney.htm
-        - https://www.indexxx.com/m/brittney-1
-        - https://stashdb.org/scenes/ae2e8f2b-da09-4448-b04a-e1976c1b3a95
     - id: null
       name: Brittney (Teen Core Club)
       text: Try Teens
       links:
         - https://www.iafd.com/person.rme/perfid=brittney_08_russ/gender=f/brittney.htm
         - https://stashdb.org/scenes/8e6dae3b-9b1c-4a53-b3ef-6d21a8e418b2
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-04-06)
