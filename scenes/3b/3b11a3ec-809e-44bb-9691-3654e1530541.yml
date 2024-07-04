@@ -1,9 +1,65 @@
 fingerprints:
   - algorithm: phash
     hash: b81dd2a647a8d5ca
-    correct_scene_id: null
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
     duration: 1002
   - algorithm: oshash
     hash: 4a0d9e1ef63a4fb0
-    correct_scene_id: null
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: d9d308375dbb2e01
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 15bb9dc2e2748fe1
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 30f6faa28b0d9ad7
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 416917ab28cc50cb
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 6969c314fbd2d7dc
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 86b1339a780401ff
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: d9680f80c6f2b558
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: b8a23a76f8cb8a44
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: e4bb1e7c9e6414f7
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: fbc5b1fb4bc3e28c
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: phash
+    hash: b83dd2a647a8d58a
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: md5
+    hash: 98cae2263914ec44ef6dfc1ef83baf19
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 02b2d494547f0336
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
+    duration: 1002
+  - algorithm: oshash
+    hash: 0cd7d5c935be7950
+    correct_scene_id: 0b852e3c-4321-4cfc-93ba-907c6b295a12
     duration: 1002
