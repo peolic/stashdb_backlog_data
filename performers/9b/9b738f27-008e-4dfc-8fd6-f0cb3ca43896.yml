@@ -1,5 +1,9 @@
 split:
   name: Karina
-  fragments: []
+  fragments:
+    - id: null
+      name: ???
+      text: Peter North
+  status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)
