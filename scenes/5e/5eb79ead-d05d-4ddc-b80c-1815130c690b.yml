@@ -181,11 +181,11 @@ fingerprints:
     duration: 510
   - algorithm: oshash
     hash: fd0758b5843973f0
-    correct_scene_id: null
+    correct_scene_id: 41adcf31-3eb3-4489-bf4f-80bfc373bd44
     duration: 548
   - algorithm: phash
     hash: 820707030797f5ff
-    correct_scene_id: null
+    correct_scene_id: 41adcf31-3eb3-4489-bf4f-80bfc373bd44
     duration: 548
   - algorithm: oshash
     hash: 95e6021eeb738d0a
