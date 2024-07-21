@@ -11,11 +11,11 @@ performers:
       name: Krista
       appearance: null
   append:
-    - id: null
+    - id: 4e41749e-4b4f-46f7-8b68-d9f8c86e8c4c
       name: Krista Morgan
       appearance: Krista
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm
     - id: 2caf66c3-ce2f-4bd0-80ea-1de446902b15
       name: Mike
       appearance: null
