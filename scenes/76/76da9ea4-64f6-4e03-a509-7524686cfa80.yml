@@ -6,16 +6,8 @@ comments:
   - Ep 2014-11-06 - Krista Remastered ... Krista Morgan
 date: '2014-11-06'
 performers:
-  remove:
-    - id: 1b5dc519-81de-434d-84f9-b679c6e55cae
-      name: Krista
-      appearance: null
+  remove: []
   append:
-    - id: 4e41749e-4b4f-46f7-8b68-d9f8c86e8c4c
-      name: Krista Morgan
-      appearance: Krista
-      notes:
-        - https://www.iafd.com/person.rme/perfid=kristamorgan/gender=f/krista-morgan.htm
     - id: 2caf66c3-ce2f-4bd0-80ea-1de446902b15
       name: Mike
       appearance: null
