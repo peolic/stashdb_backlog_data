@@ -11,13 +11,12 @@ performers:
       name: Nikki
       appearance: null
   append:
-    - id: null
+    - id: a5c05bf6-c976-4509-9c7f-45778af104ba
       name: Nova Star
       appearance: Nikki
       disambiguation: '2013'
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=novastar_13/gender=f/nova-star.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=novastar_13/gender=f/nova-star.htm
         - https://web.archive.org/web/20140112181540/http://idealimagemanagement.com/main/profile.php?talent_id=441
         - https://ibb.co/QYMHLyZ
         - https://ibb.co/W3BFgNn
