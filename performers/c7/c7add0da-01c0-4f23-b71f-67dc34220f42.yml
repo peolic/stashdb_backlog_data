@@ -1,13 +1,5 @@
 split:
   name: Eva
-  fragments:
-    - id: 1eb2445d-312b-4372-ad25-e83899377e06
-      name: Eva (2015, NVG)
-      text: Casting Couch-HD (2015)
-      links:
-        - https://stashdb.org/scenes/64ec97f8-67f9-4dbb-9df0-576bf09f3f6d
-        - https://stashdb.org/scenes/0e37025c-b7ea-47b9-b765-47323456604c
-        - https://ibb.co/LJRV18Z
-        - https://ibb.co/zRWJCh4
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
