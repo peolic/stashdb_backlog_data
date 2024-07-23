@@ -6,21 +6,8 @@ comments:
   - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489814
   - Ep 2013.56 - Nikki = Nova Star
 performers:
-  remove:
-    - id: ec26f084-d8e3-4e30-bd8f-241987cfc788
-      name: Nikki
-      appearance: null
+  remove: []
   append:
-    - id: a5c05bf6-c976-4509-9c7f-45778af104ba
-      name: Nova Star
-      appearance: Nikki
-      disambiguation: '2013'
-      notes:
-        - https://www.iafd.com/person.rme/perfid=novastar_13/gender=f/nova-star.htm
-        - https://web.archive.org/web/20140112181540/http://idealimagemanagement.com/main/profile.php?talent_id=441
-        - https://ibb.co/QYMHLyZ
-        - https://ibb.co/W3BFgNn
-        - http://www.imagepost.com/videos/nikki-on-net-video-girls/
     - id: 82a0eb25-99f7-4cb7-82bb-49ef4a2217e4
       name: Tee Reel
       appearance: Chris
