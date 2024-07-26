@@ -1,14 +1,5 @@
 split:
   name: Claire
-  fragments:
-    - id: null
-      name: Claire (2003, Net Video Girls)
-      text: Net Video Girls
-      notes:
-        - 2013 is a remaster of likely a 2003 release
-        - + additional Net Video Girls scene
-      links:
-        - https://stashdb.org/scenes/00bbdc27-042c-4740-8593-820ea872a6d5
-        - https://stashdb.org/scenes/46bfe10b-55f8-4825-96cb-bd8528e4235a
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

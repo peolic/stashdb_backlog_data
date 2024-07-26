@@ -1,0 +1,13 @@
+c_studio:
+  - Net Video Girls
+  - null
+comments:
+  - add missing performer
+  - 'submitter: remove tag: "Missing Performer (Female)"'
+performers:
+  remove: []
+  append:
+    - id: 27131849-66c1-41a4-ad89-7f15f92563d8
+      name: Claire
+      appearance: null
+      disambiguation: 2003 / 2013, NVG Network
