@@ -1,12 +1,6 @@
 split:
   name: Carmella
-  fragments:
-    - id: null
-      name: Carmella (2011, Net Video Girls)
-      text: Net Video Girls
-      notes:
-        - 'Ep 2011.14 - Carmela (bad sp: Carmella)'
-      links:
-        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489813
+  fragments: []
+  status: 'empty: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2022-12-27)

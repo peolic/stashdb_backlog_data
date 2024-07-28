@@ -1,15 +1,7 @@
 split:
   name: Heidi
-  fragments:
-    - id: null
-      name: Heidi (2010, Net Video Girls)
-      text: Net Video Girls (2010)
-      notes:
-        - 2 scenes
-      links:
-        - https://stashdb.org/scenes/3b4a9eb6-da14-4beb-8fec-0dc76a2c9ea2
-        - https://stashdb.org/scenes/61444b47-bb3e-4e9d-a58b-74548dffe0ea
-  status: single fragment remains
+  fragments: []
+  status: 'empty: delete performer'
   notes:
     - "\x02Mix of multiple performers (partial list)\x03"
     - Best to not repurpose performer, and instead create a new one.
