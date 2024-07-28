@@ -1,11 +1,6 @@
 split:
   name: Bridgett
-  fragments:
-    - id: 3e6e4c03-f82c-4dfc-a3eb-23b45dca749d
-      name: Bridgett (2012, Net Video Girls)
-      links:
-        - https://static.netvideogirls.com/models/603-bridgett.jpg
-        - https://stashdb.org/scenes/bd4c4fc4-4c84-4d57-a1af-653fc34f6272
-  status: single fragment remains
+  fragments: []
+  status: 'empty: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2022-10-09)
