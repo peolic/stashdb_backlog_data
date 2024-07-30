@@ -12,15 +12,13 @@ split:
     - id: f881b807-12b7-41b6-8d27-9e8714592321
       name: Katie Collins (2010-2012, US) AKA Jizzelle Jennings
       notes:
-        - '- Bang Bus'
+        - "- \x02Bang Bus\x03"
         - '- Dare Dorm'
-        - '- GF Revenge'
+        - "- \x02GF Revenge\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=katiecollins/gender=f/katie-collins.htm
         - https://www.indexxx.com/m/katie-collins
-        - https://stashdb.org/scenes/2c996f17-81ce-4ac0-89da-558a535b4a5d
         - https://stashdb.org/scenes/1234c5ee-7552-4c28-babf-a50075bf7c3a
-        - https://stashdb.org/scenes/f9a26236-28c9-4d1c-b073-ae092078da48
     - id: null
       name: '[Dick Dorm scene]'
       links:
