@@ -12,13 +12,12 @@ performers:
       name: Cameron
       appearance: null
   append:
-    - id: null
+    - id: c8ee59fa-a4c7-4b24-b965-060b95d4c2f8
       name: Lilly Belle
       appearance: Cameron
       disambiguation: '2014'
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=lillybelle_14/gender=f/lilly-belle.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=lillybelle_14/gender=f/lilly-belle.htm
         - https://www.indexxx.com/m/lilly-23
         - https://www.thenude.com/_48931.htm
         - https://www.freeones.com/forums/threads/lilly-belle.800902/
