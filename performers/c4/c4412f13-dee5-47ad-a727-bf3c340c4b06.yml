@@ -1,8 +1,6 @@
 split:
   name: Stacy
-  fragments:
-    - id: f18e0d26-fb7d-4f5c-9bc4-4b78d811988c
-      name: Stacy (2005, NVG Network)
-      text: '?'
+  fragments: []
+  status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)

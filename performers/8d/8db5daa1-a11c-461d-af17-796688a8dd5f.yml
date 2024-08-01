@@ -1,13 +1,6 @@
 split:
   name: Ruby
-  fragments:
-    - id: null
-      name: Ruby (2005, Net Video Girls)
-      text: Net Video Girls (2005)
-      notes:
-        - Ep 2005.45 - Ruby
-      links:
-        - https://stashdb.org/scenes/73091642-c050-46f3-bbda-1e4d911a6978
-        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489804
+  fragments: []
+  status: 'empty: delete performer'
   notes:
     - Mix of multiple performers (partial list)
