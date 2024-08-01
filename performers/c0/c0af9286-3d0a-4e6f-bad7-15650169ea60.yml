@@ -1,11 +1,6 @@
 split:
   name: Melonie
-  fragments:
-    - id: null
-      name: Melonie (2008, Net Video Girls)
-      text: Net Video Girls (2008)
-      links:
-        - https://stashdb.org/scenes/2d084295-fa83-4d00-a51a-8d05fb9ebfc9
+  fragments: []
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-08-25)
