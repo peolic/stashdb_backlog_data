@@ -1,0 +1,9 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove: []
+  append:
+    - id: f6b32714-8d94-4070-b4ac-3ac5eb3be010
+      name: Elle Rigby
+      appearance: null
