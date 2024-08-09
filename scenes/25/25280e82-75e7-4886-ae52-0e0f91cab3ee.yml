@@ -1,0 +1,10 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: 2b6f94e8-ceb7-4c61-9252-bc28c6fa7f4b
+      name: Karissa
+      appearance: null
+      disambiguation: Morally Corrupt
