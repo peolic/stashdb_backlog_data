@@ -1,12 +1,6 @@
 split:
   name: Vickie
-  fragments:
-    - id: d9e2586e-fcdd-4a1a-b6bf-dd57f5f18cb9
-      name: Vickie (2004, Reality Kings)
-      text: In the VIP
-      links:
-        - https://www.iafd.com/person.rme/perfid=vickie_rk_04/gender=f/vickie.htm
-        - https://www.indexxx.com/m/vickie-2
-  status: single fragment remains
+  fragments: []
+  status: 'empty: delete performer'
   notes:
     - Mix of multiple performers (complete list as of 2022-07-05)
