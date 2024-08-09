@@ -1,7 +1,0 @@
-split:
-  name: Heidi
-  fragments: []
-  status: 'empty: delete performer'
-  notes:
-    - "\x02Mix of multiple performers (partial list)\x03"
-    - Best to not repurpose performer, and instead create a new one.
