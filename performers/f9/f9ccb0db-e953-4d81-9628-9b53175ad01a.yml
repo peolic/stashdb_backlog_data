@@ -2,13 +2,6 @@ split:
   name: Natasha
   fragments:
     - id: null
-      name: Natasha (2008, See My Wife)
-      text: See My Wife
-      links:
-        - https://www.iafd.com/person.rme/perfid=natasha_rk_08/gender=f/natasha.htm
-        - https://www.indexxx.com/m/natasha-9
-        - https://stashdb.org/scenes/57413a51-cbc0-4749-baf6-0a2930db3ea1
-    - id: null
       name: Natasha (2003, In the VIP)
       links:
         - https://www.iafd.com/person.rme/perfid=natasha_rk_03/gender=f/natasha.htm

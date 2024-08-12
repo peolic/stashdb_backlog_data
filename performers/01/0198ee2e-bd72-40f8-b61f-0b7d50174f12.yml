@@ -2,22 +2,12 @@ split:
   name: Alexandra
   fragments:
     - id: null
-      name: Alexandra (2019, Bang!)
-      text: Bang! Roadside XXX
-      links:
-        - https://www.iafd.com/person.rme/perfid=alexandra_bang/gender=f/alexandra.htm
-        - https://stashdb.org/scenes/44d1390a-57ee-4fe0-ae28-bc79ca959ebe
-    - id: null
       name: Alexandra (2010, Dare Dorm)
       text: Dare Dorm "All Games"
       links:
         - https://www.iafd.com/person.rme/perfid=alexandra_rk10/gender=f/alexandra.htm
         - https://stashdb.org/scenes/0faec75f-ef9c-497f-bb3f-10d76123f52f
-    - id: null
-      name: Alexandra (2000, Woodman)
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/alexandra-25
-        - https://stashdb.org/scenes/ff7582bd-5186-485b-88bc-06cc3aa61621
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-01-24)
+    - Best to not repurpose performer, and instead create a new one.
