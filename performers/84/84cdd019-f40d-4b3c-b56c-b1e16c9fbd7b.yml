@@ -1,13 +1,12 @@
 split:
   name: Laurie
   fragments:
-    - id: null
-      name: Laurie (2009, Net Video Girls)
-      text: Net Video Girls
-      notes:
-        - Ep 2XXX.XX - Laurie (lost)
+    - id: b5f9b8ce-ddd3-4e7f-a315-42efe58bdd7c
+      name: Laurie (2011, Nasty Angels)
+      text: Nasty Angels
       links:
-        - https://www.freeones.com/forums/threads/performer-guide-netvideogirls-com.101884/post-9489827
+        - https://stashdb.org/scenes/17049e12-f6fb-4bb0-8c85-1ad45914928a
+  status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)
     - Disambiguated before being completely split.
