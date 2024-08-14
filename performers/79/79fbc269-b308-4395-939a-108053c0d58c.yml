@@ -2,6 +2,16 @@ split:
   name: Peter
   fragments:
     - id: b2542dde-5ea2-41a1-b998-e24b2eac4995
-      name: Ruslan Kolesnikov (Young Libertines / Teeny Lovers)
+      name: Ruslan Kolesnikov
+      notes:
+        - '- Young Libertines (unconfirmed)'
+        - '- Teeny Lovers (unconfirmed)'
+    - id: null
+      name: Peter (2015, GF Revenge)
+      text: GF Revenge
+      notes:
+        - '[unlikely to be Peter Stallion, as listed on IAFD]'
+      links:
+        - https://www.realitykings.com/model/24555/peter
   notes:
     - Mix of multiple performers (partial list)
