@@ -1,0 +1,18 @@
+c_studio:
+  - Teach That Bitch
+  - null
+comments:
+  - Performers identified
+  - '''Sveta'' alias not confirmed by submitter, so removed'
+performers:
+  remove:
+    - id: 36689fe7-6e72-406c-8907-0b9e4f8a4383
+      name: Sveta
+      appearance: null
+  append:
+    - id: 9764eccb-0f7c-4993-8737-cffede25c782
+      name: Stacy Snake
+      appearance: null
+    - id: e61c6ee4-b106-45ba-9a83-38a695fe6954
+      name: Stefan Nikita
+      appearance: null
