@@ -1,15 +1,6 @@
 split:
   name: Trixie
   fragments:
-    - id: 9a8f5e37-24d2-494e-a6d0-95662f530fdf
-      name: Trixie (Hungarian, 2009)
-      text: Pix and Video
-      links:
-        - https://www.iafd.com/person.rme/id=ffc3e585-8557-4c53-bc12-eba028e952a9
-        - https://www.indexxx.com/m/trixie-5
-        - https://www.egafd.com/actresses/details.php/id/t00517
-        - https://stashdb.org/scenes/b5e2e679-0aa0-470e-a148-99e82c803709
-        - https://cdn.stashdb.org/images/fa/4b/fa4bfab0-38e2-47fe-b1d6-6c693d1f5c95
     - id: null
       name: Trixy (?)
       text: Woodman Casting X
