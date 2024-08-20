@@ -1,0 +1,16 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 82d4cbaf-cb0b-4ad7-b5d7-d8dbbbb43e97
+      name: Levi Cash
+      appearance: null
+  append:
+    - id: 3b6f710c-ccca-4dff-9f04-aee605adb8f0
+      name: Presley Hart
+      appearance: null
+    - id: cff51ae0-8bf2-42c5-ac2a-bd6088abc853
+      name: Scarlett
+      appearance: null
+      disambiguation: 2010, ExploitedX
