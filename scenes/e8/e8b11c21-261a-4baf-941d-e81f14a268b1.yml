@@ -1,0 +1,9 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove: []
+  append:
+    - id: 7e573214-6946-4247-9190-625d135714a8
+      name: Rain
+      appearance: Brittany or Starlett Skies
