@@ -17,7 +17,6 @@ performers:
       appearance: null
       status: new
       status_url: https://www.iafd.com/person.rme/id=015c76d8-b2b3-4252-96a1-1bf4e6f6b5fd
-    - id: null
-      name: Nikola
+    - id: c5340b01-5dce-479f-8add-6b48c40a8fff
+      name: Nicola
       appearance: null
-      status: new
