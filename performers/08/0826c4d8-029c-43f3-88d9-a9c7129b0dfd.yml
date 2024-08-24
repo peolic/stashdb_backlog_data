@@ -1,25 +1,5 @@
 split:
   name: Claudia
-  fragments:
-    - id: null
-      name: Claudia (Old-n-Young, 2007)
-      text: Old-n-Young
-      links:
-        - https://www.iafd.com/person.rme/perfid=claudia_07_tmw/gender=f/claudia.htm
-        - https://www.indexxx.com/m/claudia-15
-        - https://stashdb.org/scenes/c83a9327-3d78-4c7c-9531-b1bb3aaa2a41
-    - id: null
-      name: Claudia (Woodman Casting X, 2011)
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/claudia-6
-        - https://stashdb.org/scenes/37d9cf16-0ee8-47c7-96ee-d1d7c348769b
-    - id: null
-      name: Claudia (We Live Together, 2004)
-      text: We Live Together
-      links:
-        - https://www.iafd.com/person.rme/perfid=claudia_rk04/gender=f/claudia.htm
-        - https://www.indexxx.com/m/claudia-5
-        - https://stashdb.org/scenes/6f651330-e78a-4ed0-8a02-09d553a12cd1
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

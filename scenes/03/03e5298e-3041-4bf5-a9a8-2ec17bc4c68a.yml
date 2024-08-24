@@ -12,11 +12,11 @@ performers:
     - id: f9af3005-7cb3-435f-94cf-a6c319904fcb
       name: Mackenzie Star
       appearance: null
-    - id: null
+    - id: 8b545498-4d40-490d-93cf-fccd102f1798
       name: Jessa Lee
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=015c76d8-b2b3-4252-96a1-1bf4e6f6b5fd
+      notes:
+        - https://www.iafd.com/person.rme/id=015c76d8-b2b3-4252-96a1-1bf4e6f6b5fd
     - id: c5340b01-5dce-479f-8add-6b48c40a8fff
       name: Nicola
       appearance: null
