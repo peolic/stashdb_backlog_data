@@ -5,7 +5,8 @@ performers:
   remove: []
   append:
     - id: null
-      name: Amy (2012, mygf.com)
+      name: Amy
       appearance: null
+      disambiguation: 2012, mygf.com
       status: new
       status_url: https://www.iafd.com/person.rme/id=524c90b4-4bdf-4fb3-8120-00edbbb44f2a
