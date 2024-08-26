@@ -1,0 +1,11 @@
+c_studio:
+  - MyGF
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Nikkita
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=cdf637d8-01cd-42e4-b827-7d9d4ab848ab

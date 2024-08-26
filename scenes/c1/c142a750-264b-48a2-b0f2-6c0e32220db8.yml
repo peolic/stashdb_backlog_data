@@ -1,0 +1,11 @@
+c_studio:
+  - MyGF
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Amy (2012, mygf.com)
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=524c90b4-4bdf-4fb3-8120-00edbbb44f2a
