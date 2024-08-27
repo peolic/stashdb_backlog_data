@@ -1,5 +1,5 @@
 split:
-  name: Katie Collins
+  name: Katie Collins (2011, UK)
   fragments:
     - id: null
       name: Katie Collins (2011, UK)
@@ -14,14 +14,12 @@ split:
       notes:
         - "- \x02Bang Bus\x03"
         - '- Dare Dorm'
+        - '- Dick Dorm (visually confirmed, non-sex)'
         - "- \x02GF Revenge\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=katiecollins/gender=f/katie-collins.htm
         - https://www.indexxx.com/m/katie-collins
         - https://stashdb.org/scenes/1234c5ee-7552-4c28-babf-a50075bf7c3a
-    - id: null
-      name: '[Dick Dorm scene]'
-      links:
         - https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097
   notes:
     - Mix of multiple performers (complete list as of 2022-12-27)
