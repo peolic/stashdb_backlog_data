@@ -5,7 +5,8 @@ performers:
   remove: []
   append:
     - id: null
-      name: Shelby (Homemade Media)
+      name: Shelby
       appearance: null
+      disambiguation: Homemade Media
       status: new
       status_url: https://www.iafd.com/person.rme/id=c9c1c900-1950-499e-9e8b-eacfaaa35a64
