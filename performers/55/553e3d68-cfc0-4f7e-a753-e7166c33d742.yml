@@ -1,11 +1,6 @@
 split:
   name: Ivan
   fragments:
-    - id: null
-      name: Ivan Reigo
-      text: Boys First Time
-      links:
-        - https://www.iafd.com/person.rme/perfid=ivanreigo/gender=m/ivan-reigo.htm
     - id: 1f143947-0d68-46d9-b504-8648b66e85fd
       name: Cail Brodevski
       notes:
@@ -14,10 +9,5 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=dimaruss/gender=m/dima.htm
         - https://wtfpass.com/models/cail-1/
-    - id: null
-      name: '[Twistys scene]'
-      text: Ivan should be removed
-      links:
-        - https://www.iafd.com/title.rme/title=all+access+backstage+pass/year=2009/all-access-backstage-pass.htm
   notes:
     - Mix of multiple performers (possibly complete list as of 2023-03-29)
