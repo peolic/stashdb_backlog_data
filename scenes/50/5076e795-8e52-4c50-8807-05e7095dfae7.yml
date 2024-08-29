@@ -1,0 +1,12 @@
+c_studio:
+  - White Ghetto
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Cinna
+      appearance: null
+      disambiguation: White Ghetto
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d00b1d0d-6e68-4aec-a9ea-e7bea5e62a63
