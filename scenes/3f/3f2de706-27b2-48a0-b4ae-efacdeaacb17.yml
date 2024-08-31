@@ -1,0 +1,11 @@
+c_studio:
+  - Black Payback
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Nasty Nae
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=13612e04-818a-4e7e-85f1-0761a33db908
