@@ -1,0 +1,17 @@
+c_studio:
+  - VIP Crew
+  - null
+performers:
+  remove: []
+  append:
+    - id: cfd191a8-898d-4657-93e2-c0fc72e9a511
+      name: Stephanie
+      appearance: null
+    - id: null
+      name: Kristyl Jade
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=38baa725-9a9d-4e44-9b08-bef48668d3ce
+    - id: b79a202f-b285-42b0-b31e-216f79115d49
+      name: Nathasha
+      appearance: null
