@@ -1,0 +1,12 @@
+c_studio:
+  - Load My Mouth
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Celendine
+      appearance: null
+      disambiguation: 2008, loadmymouth.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0927b3a2-9976-46c4-9b1c-bd249b0f1919

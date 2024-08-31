@@ -1,0 +1,12 @@
+c_studio:
+  - WTFPass
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Ola
+      appearance: null
+      disambiguation: 2012, wtfpass.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b15c9058-9436-4514-8561-173f4fbc8b14

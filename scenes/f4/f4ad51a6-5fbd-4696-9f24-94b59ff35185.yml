@@ -1,0 +1,12 @@
+c_studio:
+  - WTFPass
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Anja
+      appearance: null
+      disambiguation: 2012, wtfpass.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f810ecc1-d00e-4377-9b5e-f8a015fb1f9d

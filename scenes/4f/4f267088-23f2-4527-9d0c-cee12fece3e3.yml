@@ -1,0 +1,12 @@
+c_studio:
+  - WTFPass
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Sabina
+      appearance: null
+      disambiguation: 2012, wtfpass.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8a2f761e-959e-48dd-9c38-483f79132174
