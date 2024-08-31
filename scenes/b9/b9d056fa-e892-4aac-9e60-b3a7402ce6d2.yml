@@ -1,0 +1,12 @@
+c_studio:
+  - Puta Locura
+  - null
+comments:
+  - See URL (sister of the other performer)
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Cristina Lay
+      appearance: null
+      status: new

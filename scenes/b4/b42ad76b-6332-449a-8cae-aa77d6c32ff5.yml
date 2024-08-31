@@ -1,0 +1,12 @@
+c_studio:
+  - Puta Locura
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Daniela
+      appearance: null
+      disambiguation: 2009, putalocura.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a51b05ec-8dae-4ec5-b4b6-1aef91e2fca1
