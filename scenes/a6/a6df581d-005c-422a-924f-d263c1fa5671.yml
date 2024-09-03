@@ -4,14 +4,19 @@ c_studio:
 comments:
   - Aliases are mixed up
 performers:
-  remove: []
+  remove:
+    - id: e190a2a4-d008-48ab-abc0-5adc8e1c17e7
+      name: Nicolle
+      appearance: null
   append:
     - id: 08829d45-0e5a-417c-977a-e24d33aaef4c
       name: Nicolle
       appearance: null
       disambiguation: 2012, daredorm.com
-    - id: null
+    - id: feb166e3-e099-4b40-b0ae-81701fea4186
       name: Nikki Ohe (currently credited Vickie Summers, alias should be Nicolle)
       appearance: null
       status: new
-      status_url: https://web.archive.org/web/20170210005740/https://www.modelmayhem.com/yayitsnikkiii
+      status_url: https://stashdb.org/performers/feb166e3-e099-4b40-b0ae-81701fea4186
+      notes:
+        - https://web.archive.org/web/20170210005740/https://www.modelmayhem.com/yayitsnikkiii
