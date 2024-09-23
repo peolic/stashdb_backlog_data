@@ -1,0 +1,12 @@
+c_studio:
+  - Public Place Pussy
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Mimi
+      appearance: Vanessa
+      disambiguation: 2010, White Ghetto
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=56c61db7-4e65-489d-932c-b780699f04bb

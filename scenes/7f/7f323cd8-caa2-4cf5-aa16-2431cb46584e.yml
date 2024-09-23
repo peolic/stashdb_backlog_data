@@ -1,0 +1,12 @@
+c_studio:
+  - L.A. New Girl
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Alina
+      appearance: null
+      disambiguation: lanewgirl.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5421c4e6-03a6-4ff8-a22a-b42f7af4728f
