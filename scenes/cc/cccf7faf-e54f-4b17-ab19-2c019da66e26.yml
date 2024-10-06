@@ -9,11 +9,9 @@ performers:
     - id: 1bd3efd0-3406-4bb3-a59b-d81f8e2dd2ec
       name: Maya
       appearance: null
-    - id: null
+    - id: 5fd906e8-2ea3-41c8-aa1d-626f2fbbe25e
       name: Rome Steel
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/ffbdeb1b-2827-424e-b413-802d15b339a2
     - id: f1a16f6c-1d48-4baa-b88b-6d4bc476385c
       name: Havoc Hailey
       appearance: null
