@@ -2,10 +2,7 @@ c_studio:
   - Dancing Bear
   - null
 performers:
-  remove:
-    - id: 84aa37fe-6ded-4633-87ba-08531401939f
-      name: Carol
-      appearance: null
+  remove: []
   append:
     - id: 1bd3efd0-3406-4bb3-a59b-d81f8e2dd2ec
       name: Maya
