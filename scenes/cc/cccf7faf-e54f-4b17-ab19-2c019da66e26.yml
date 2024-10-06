@@ -1,0 +1,22 @@
+c_studio:
+  - Money Talks
+  - null
+comments:
+  - Also with JMac
+performers:
+  remove: []
+  append:
+    - id: 1bd3efd0-3406-4bb3-a59b-d81f8e2dd2ec
+      name: Maya
+      appearance: null
+    - id: null
+      name: Rome Steel
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/ffbdeb1b-2827-424e-b413-802d15b339a2
+    - id: f1a16f6c-1d48-4baa-b88b-6d4bc476385c
+      name: Havoc Hailey
+      appearance: null
+    - id: f88d291d-39fc-4f6f-a4f0-35882f1846e7
+      name: Michelle Vargas
+      appearance: null
