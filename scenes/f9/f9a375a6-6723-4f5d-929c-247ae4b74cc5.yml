@@ -1,0 +1,21 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove:
+    - id: 84aa37fe-6ded-4633-87ba-08531401939f
+      name: Carol
+      appearance: null
+  append:
+    - id: 1bd3efd0-3406-4bb3-a59b-d81f8e2dd2ec
+      name: Maya
+      appearance: null
+    - id: null
+      name: Carol
+      appearance: null
+      disambiguation: 2010, gfrevenge.com
+      status: new
+      status_url: https://stashdb.org/edits/3a9fcf0e-ece6-4e82-b72c-d33d54859944
+    - id: 7ff53994-5aba-414c-9611-4291f8332184
+      name: Barbie
+      appearance: null
