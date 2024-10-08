@@ -1,0 +1,17 @@
+c_studio:
+  - Money Talks
+  - null
+comments:
+  - Also with Jessie Cabanne, Nina Gitch
+performers:
+  remove: []
+  append:
+    - id: a12bf820-cafd-4523-9fa3-4b21a0d95112
+      name: Carol Jasabe
+      appearance: null
+    - id: e0ddf0fd-57d6-4156-8a94-61232500c019
+      name: Ava Kelly
+      appearance: null
+    - id: a7f1d51c-33e1-4364-b47c-2ff0e21b9371
+      name: Esmi Lee
+      appearance: null
