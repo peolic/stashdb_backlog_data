@@ -2,7 +2,7 @@ c_studio:
   - Money Talks
   - null
 comments:
-  - Also with Jessie Cabanne, Nina Gitch
+  - Also with Jessie Cabanne, Nina Gitch, Esmi Lee
 performers:
   remove: []
   append:
@@ -12,6 +12,14 @@ performers:
     - id: e0ddf0fd-57d6-4156-8a94-61232500c019
       name: Ava Kelly
       appearance: null
-    - id: a7f1d51c-33e1-4364-b47c-2ff0e21b9371
-      name: Esmi Lee
+    - id: null
+      name: Nina Gitch
       appearance: null
+      status: c
+      status_url: https://www.iafd.com/person.rme/id=12019276-f8ec-4aa7-8def-fb05534b5274
+    - id: null
+      name: Chantal
+      appearance: null
+      disambiguation: 2012-2013, ATKingdom
+      status: c
+      status_url: https://stashdb.org/edits/fd1c3cf9-8213-47bd-bebe-49632e4e5eca
