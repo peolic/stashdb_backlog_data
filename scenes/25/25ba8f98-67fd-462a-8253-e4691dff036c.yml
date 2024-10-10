@@ -1,0 +1,18 @@
+c_studio:
+  - SG Video
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Judit
+      appearance: null
+      disambiguation: 2007, SG Video
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2da7b384-78b1-4ce6-aa8d-79daa1ff582c
+    - id: null
+      name: Susanna
+      appearance: null
+      disambiguation: 2007, SG Video
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=255e8c74-fecb-41de-9d4b-70bfc4d7c6fe
