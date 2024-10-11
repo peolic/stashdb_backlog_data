@@ -6,17 +6,8 @@ comments:
   - https://www.iafd.com/title.rme/id=53468666-da1a-4104-8a26-0c4d4a28aa94
   - Performer 'Dillan' removed without creating a new one
 performers:
-  remove:
-    - id: 84aa37fe-6ded-4633-87ba-08531401939f
-      name: Carol
-      appearance: null
+  remove: []
   append:
-    - id: null
-      name: Carol
-      appearance: null
-      disambiguation: 2007, Dr. Moretwat
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=carol___drmoretwat/gender=f/carol.htm
     - id: null
       name: Dillan
       appearance: null
