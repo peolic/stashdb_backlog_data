@@ -1,0 +1,12 @@
+c_studio:
+  - VIP Crew
+  - null
+performers:
+  remove:
+    - id: f86141d4-d2d7-4d21-aefa-6e42d670e097
+      name: Chase
+      appearance: null
+  append:
+    - id: facced23-f759-4827-9f0c-ff3dc87020e1
+      name: Stephanie DeJane
+      appearance: Chase
