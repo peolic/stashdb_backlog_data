@@ -1,11 +1,5 @@
 split:
   name: Caroline
-  fragments:
-    - id: null
-      name: Caroline (?, 2003-2005)
-      text: Twistys
-      links:
-        - https://www.iafd.com/person.rme/perfid=caroline_eu_02/gender=f/caroline.htm
-        - https://www.indexxx.com/m/caroline-1
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
