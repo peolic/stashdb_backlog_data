@@ -1,0 +1,18 @@
+c_studio:
+  - Private
+  - null
+performers:
+  remove: []
+  append:
+    - id: 7a03e069-4ad4-47ff-9d2a-2e467a956dda
+      name: Victoria Princess
+      appearance: null
+    - id: 785fa232-72bb-4250-8200-616f93e8223a
+      name: Mallory
+      appearance: null
+    - id: null
+      name: Hayden
+      appearance: null
+      disambiguation: 2009, woodmancastingx.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f66a6a32-97b1-46f9-a4fa-71adf360631f
