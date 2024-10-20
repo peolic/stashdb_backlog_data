@@ -6,8 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 8d1dafd7-60c1-486d-a351-6fea603593b8
       name: Jersey James
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=jerseyjames/gender=f/jersey-james.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=jerseyjames/gender=f/jersey-james.htm

@@ -8,11 +8,11 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 28395693-3d8b-4169-9a31-a9b96f48437c
       name: Max Cady
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=mcady/gender=m/max-cady.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=mcady/gender=m/max-cady.htm
     - id: null
       name: Tommy Gunn
       appearance: null

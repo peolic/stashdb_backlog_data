@@ -1,0 +1,14 @@
+c_studio:
+  - Wicked
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=353f5719-3e87-4245-934f-bcf37918eb83
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Papillon
+      appearance: null
+      disambiguation: 1996-2004
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=papillon/gender=f/papillon.htm

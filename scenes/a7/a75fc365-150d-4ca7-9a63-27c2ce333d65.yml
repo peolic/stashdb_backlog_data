@@ -8,12 +8,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
-      name: Gwen
-      appearance: null
-      disambiguation: Canadian, 2007-2010
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=gwen_07/gender=f/gwen.htm
+    - id: ddd99124-6be5-4871-a0d9-188d4acb9d2f
+      name: Private Gwen
+      appearance: Gwen
+      notes:
+        - Gwen [Canadian, 2007-2010]
+        - https://www.iafd.com/person.rme/perfid=gwen_07/gender=f/gwen.htm
     - id: 05ffb71f-3fe2-4682-8bf3-7a52c113885a
       name: Jenny G
       appearance: Jenny
