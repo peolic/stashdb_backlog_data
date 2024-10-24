@@ -2,13 +2,6 @@ split:
   name: Amy
   fragments:
     - id: null
-      name: Amy (?)
-      text: Saturday Night Latinas
-      links:
-        - https://www.iafd.com/person.rme/perfid=amy_br_10/gender=f/amy.htm
-        - https://www.indexxx.com/m/amy-8
-        - https://stashdb.org/scenes/0538080f-ebcd-4b79-aeb7-5c92e2f000f7
-    - id: null
       name: Amy (Dare Dorm, 2011-05-06)
       text: Dare Dorm "Guess Who"
       links:

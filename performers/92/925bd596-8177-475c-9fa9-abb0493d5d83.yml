@@ -1,7 +1,7 @@
 split:
   name: Bria
   fragments:
-    - id: null
+    - id: 625347cf-b84f-4199-a288-9ee6c72fbed6
       name: Bria (2008, Zoliboy)
       text: Zoliboy
       links:
@@ -10,7 +10,7 @@ split:
         - https://stashdb.org/scenes/9c9c01b4-90c9-4c47-abf9-c512ad2fe0b8
         - https://stashdb.org/scenes/272d01fd-bf74-499e-89df-a48b8973daf4
         - https://stashdb.org/scenes/4660cc55-15d1-4860-8bcc-f84ddc9ff9af
-    - id: null
+    - id: 14c99a7f-c1de-4451-840a-d40a0862f40a
       name: Bria (2003, Reality Kings)
       text: Wives in Pantyhose
       links:
@@ -19,8 +19,11 @@ split:
         - https://stashdb.org/scenes/3ea6b4f0-feb5-46e2-9aa7-e03cdac182d5
     - id: null
       name: '[todo]'
-      text: DIck Dorm "Happy Day"
+      text: Dick Dorm "Happy Day"
+      notes:
+        - possibly same as Bria in "Crossing Lips" (Dare Dorm)
       links:
+        - https://stashdb.org/scenes/55a270b9-c6c5-4bcc-86e8-0a5e50949765
         - https://www.iafd.com/title.rme/id=a3936dd7-ad0b-4a3b-872a-b9736f9c00f6
   notes:
     - Mix of multiple performers (complete list as of 2024-04-12)
