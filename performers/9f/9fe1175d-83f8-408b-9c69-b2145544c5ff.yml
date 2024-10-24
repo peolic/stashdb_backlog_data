@@ -1,7 +1,7 @@
 split:
   name: Camila
   fragments:
-    - id: null
+    - id: cf470e75-77e5-4c84-9eee-84ab3a2fb2fc
       name: Camila (2007, 8th Street Latinas)
       text: 8th Street Latinas
       links:
@@ -10,3 +10,4 @@ split:
         - https://stashdb.org/scenes/d0fa09ac-32c9-44f8-ae63-2bb60d8a5940
   notes:
     - Mix of multiple performers (partial list)
+    - Best to not repurpose performer, and instead create a new one.
