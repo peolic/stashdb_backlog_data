@@ -3,7 +3,9 @@ split:
   fragments:
     - id: null
       name: Alyssa (2006, Reality Kings)
-      text: VIP Crew
+      text: 'Note @R8822: Model is still to be identified. Picture @ Indexxx is of Kimberly Wood.'
+      notes:
+        - '- VIP Crew'
       links:
         - https://www.indexxx.com/m/alyssa-4
         - https://stashdb.org/scenes/48e6051d-e677-400d-845e-e44cc2c8b7f0
