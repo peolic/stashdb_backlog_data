@@ -1,0 +1,17 @@
+c_studio:
+  - CFNM Show
+  - null
+comments:
+  - 'Note: NOT Angela Rodriguez 0769ffaa-3cc1-4830-ba06-775cea78687a'
+performers:
+  remove: []
+  append:
+    - id: 43e23e94-f6d5-49b7-8eaa-5bf9fad10fcf
+      name: Jessica Fuentes
+      appearance: null
+    - id: null
+      name: Angela Rodriguez
+      appearance: null
+      disambiguation: 2008, cfnmshow.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=aed423f1-3d79-4484-b480-5c844df47731
