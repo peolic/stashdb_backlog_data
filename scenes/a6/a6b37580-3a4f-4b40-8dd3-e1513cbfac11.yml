@@ -1,0 +1,15 @@
+c_studio:
+  - Wicked
+  - null
+performers:
+  remove:
+    - id: 554bdb05-7917-4577-a426-960b56c1f9a0
+      name: Kat Stevens
+      appearance: null
+  append:
+    - id: null
+      name: Kat Stevens
+      appearance: null
+      disambiguation: Wicked
+      status: new
+      status_url: https://stashdb.org/edits/7e393cc9-591e-4717-8180-6591e840d110
