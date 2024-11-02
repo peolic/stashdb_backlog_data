@@ -1,0 +1,16 @@
+c_studio:
+  - Jacquie & Michel TV
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Charlotte
+      appearance: null
+      disambiguation: 2024, jacquieetmicheltv.net
+      status: new
+    - id: null
+      name: Lyia
+      appearance: null
+      disambiguation: 2024, jacquieetmicheltv.net
+      status: new

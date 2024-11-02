@@ -1,0 +1,13 @@
+c_studio:
+  - Jacquie & Michel TV
+  - null
+performers:
+  remove: []
+  append:
+    - id: d90fba15-0825-4fd6-8c25-21d54c976e31
+      name: Luna Rival
+      appearance: null
+    - id: null
+      name: "Miss Cl\xE9a"
+      appearance: null
+      status: new

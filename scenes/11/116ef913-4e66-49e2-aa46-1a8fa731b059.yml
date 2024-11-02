@@ -1,0 +1,11 @@
+c_studio:
+  - Jacquie & Michel TV
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Stella
+      appearance: null
+      disambiguation: 2024, jacquieetmicheltv.net
+      status: new
