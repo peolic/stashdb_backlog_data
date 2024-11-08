@@ -1,0 +1,9 @@
+c_studio:
+  - Bushy Bushy
+  - null
+performers:
+  remove: []
+  append:
+    - id: 5b11cde8-89ca-4737-bdeb-970a7078b455
+      name: Rosetta
+      appearance: Eva I
