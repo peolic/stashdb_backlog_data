@@ -2,8 +2,12 @@ c_studio:
   - Bushy Bushy
   - null
 performers:
-  remove: []
+  remove:
+    - id: 03df5206-cc63-410b-9d86-89ab9874c9b8
+      name: Eva I
+      appearance: null
   append:
     - id: 5b11cde8-89ca-4737-bdeb-970a7078b455
       name: Rosetta
       appearance: Eva I
+      disambiguation: KarupsOW, 2020
