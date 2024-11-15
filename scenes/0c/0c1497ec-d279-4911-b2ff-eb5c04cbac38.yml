@@ -1,0 +1,14 @@
+c_studio:
+  - Haze Her
+  - null
+performers:
+  remove: []
+  append:
+    - id: b443824c-9926-4fad-b5c4-6ae03365df4a
+      name: Amber Waves
+      appearance: null
+    - id: null
+      name: Gypsy Dash
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f307ce82-d8a7-434b-a4e7-e1dfc09147aa
