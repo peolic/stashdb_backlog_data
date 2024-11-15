@@ -1,8 +1,6 @@
 c_studio:
   - Money Talks
   - null
-comments:
-  - Also missing Havoc Hailey, Izy-Bella Blue, Sarah Vandella
 performers:
   remove: []
   append:
@@ -22,4 +20,13 @@ performers:
       status_url: https://www.iafd.com/person.rme/perfid=unknownfemale_329281h/gender=f/genesis.htm
     - id: aff01dfe-9467-4548-bfc9-aaa04c38b32b
       name: Charley Chase
+      appearance: null
+    - id: f1a16f6c-1d48-4baa-b88b-6d4bc476385c
+      name: Havoc Hailey
+      appearance: null
+    - id: 6913ef65-c2c7-42be-9bcf-2fb13a239308
+      name: Izy-Bella Blu
+      appearance: null
+    - id: d016d99c-4cec-47c3-928d-3a5359167af1
+      name: Sarah Vandella
       appearance: null

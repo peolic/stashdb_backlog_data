@@ -1,0 +1,12 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Marbel
+      appearance: null
+      disambiguation: 2012, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a1eb9ef3-9135-47d1-a130-774fc2022e2b
