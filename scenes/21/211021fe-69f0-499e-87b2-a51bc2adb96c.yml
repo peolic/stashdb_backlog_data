@@ -1,0 +1,12 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Addie
+      appearance: null
+      disambiguation: 2011-2015, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e788a029-80e9-44ba-a86d-9d9e8711d4bf
