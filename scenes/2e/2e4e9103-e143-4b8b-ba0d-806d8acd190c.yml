@@ -1,0 +1,11 @@
+c_studio:
+  - Dorm Invasion
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Libia Martin
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d4ad06bf-777c-43f8-a203-384d62b04fd4
