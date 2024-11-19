@@ -1,0 +1,17 @@
+c_studio:
+  - Evil Angel
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Samantha Fox
+      appearance: null
+      disambiguation: brazilian
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=96f3f27b-1b95-4188-ada5-704455c2d850
+    - id: null
+      name: Bruna Barcelli
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=03dae314-399d-4e83-9211-cc55fcfc77dd

@@ -10,5 +10,7 @@ performers:
       name: Dirty Dan
       appearance: null
       disambiguation: UK
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=dirtydan2/gender=m/dirty-dan.htm
+      status: c
+      status_url: https://stashdb.org/edits/0b7f5892-c824-4cc3-b4f3-3506381d3270
+      notes:
+        - https://www.iafd.com/person.rme/perfid=dirtydan2/gender=m/dirty-dan.htm
