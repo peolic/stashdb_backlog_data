@@ -6,11 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 90f8e81a-82f6-42de-a12a-caf3166a5f40
       name: Dirty Dan
       appearance: null
       disambiguation: UK
-      status: c
-      status_url: https://stashdb.org/edits/0b7f5892-c824-4cc3-b4f3-3506381d3270
       notes:
         - https://www.iafd.com/person.rme/perfid=dirtydan2/gender=m/dirty-dan.htm
