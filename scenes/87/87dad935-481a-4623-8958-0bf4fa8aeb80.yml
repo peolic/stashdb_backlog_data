@@ -1,0 +1,13 @@
+c_studio:
+  - Trans Angels
+  - null
+comments:
+  - 'Currently @ IAFD as https://www.iafd.com/person.rme/id=12bf684b-9e78-4139-9b6d-7af6d7857701 (picture: https://caps1cdn.adultempire.com/o/3962/3840/3553962_02930_3840.jpg)'
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Charlee Rose
+      appearance: Becky
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=716e9c3a-2cf7-46e3-b61a-2d5c66e53225
