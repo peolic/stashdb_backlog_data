@@ -1,0 +1,11 @@
+c_studio:
+  - MomPov
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Eryn Diamond
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ce60d81b-ce4d-44af-a2db-6afffbb3d5c9
