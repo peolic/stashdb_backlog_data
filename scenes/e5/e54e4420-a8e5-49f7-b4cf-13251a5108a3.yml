@@ -1,9 +1,0 @@
-c_studio:
-  - Michel's World
-  - null
-performers:
-  remove: []
-  append:
-    - id: 47c779fc-83c0-415e-9742-f73b5a083336
-      name: 7eye
-      appearance: null
