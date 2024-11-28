@@ -1,6 +1,22 @@
 split:
   name: Amanda
-  fragments: []
+  fragments:
+    - id: null
+      name: '[no name provided]'
+      text: Dare Dorm "Tape Party"
+      links:
+        - https://www.iafd.com/person.rme/id=0199de02-5ef1-46e9-b74c-476f930796bc
+        - https://stashdb.org/scenes/3ccbf165-36d1-4ddd-9b3b-69965954f74d
+    - id: null
+      name: '[no name provided]'
+      text: Dare Dorm "Your Wish"
+      links:
+        - https://www.iafd.com/person.rme/id=b7739b69-8817-48d4-91eb-fc57e54a4c07
+    - id: null
+      name: '[no name provided]'
+      text: Dare Dorm "Dessert Anyone"
+      links:
+        - https://www.iafd.com/person.rme/id=3a9e0bcf-30f3-4249-ae37-dc6896807821
   notes:
     - Mix of multiple performers (partial list)
     - Best to not repurpose performer, and instead create a new one.

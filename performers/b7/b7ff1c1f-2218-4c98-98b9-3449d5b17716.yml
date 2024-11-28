@@ -1,13 +1,6 @@
 split:
   name: Adria
   fragments:
-    - id: c0d83e4b-571b-4664-8a57-5834c8c36383
-      name: Adria (2006, Captain Stabbin)
-      text: Captain Stabbin
-      links:
-        - https://www.iafd.com/person.rme/perfid=adria_rk_2006/gender=f/adria.htm
-        - https://www.indexxx.com/m/adria
-        - https://stashdb.org/scenes/748eb0e2-1819-4185-ba94-681e648b32d8
     - id: null
       name: Adria (unknown)
       text: Rocco Siffredi
@@ -15,6 +8,7 @@ split:
         - https://www.iafd.com/person.rme/id=e0816289-ba51-4ede-86de-67ce8228ce68
         - https://stashdb.org/scenes/3fdc151a-c866-490e-9770-2adb1eb05c31
         - https://stashdb.org/scenes/bcfd7c23-cbb3-427a-9ca5-49061432efb5
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-05-04)
     - Best to not repurpose performer, and instead create a new one.
