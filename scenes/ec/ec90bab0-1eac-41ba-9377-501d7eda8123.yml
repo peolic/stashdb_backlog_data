@@ -1,0 +1,12 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Ynes
+      appearance: null
+      disambiguation: 2011, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=25a720c7-e093-43f0-aea7-d0c5985bd3db
