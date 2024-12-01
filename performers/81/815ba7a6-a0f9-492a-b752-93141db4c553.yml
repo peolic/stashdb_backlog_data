@@ -1,15 +1,17 @@
 split:
   name: Barbora
   fragments:
-    - id: null
+    - id: f43f1bdc-bb57-40a4-bfca-b633c392bfef
       name: Barbora (2008, Woodman)
       text: Woodman Casting X (2012)
       links:
         - https://www.indexxx.com/m/barbora-8
-    - id: null
+        - https://stashdb.org/scenes/de5dbaba-5164-4e07-a341-512c3c14af66
+    - id: 3f3198e1-9733-44d1-bbf8-5d54da163988
       name: Barbora (2003, Woodman) / Bara (KarupsPC)
       text: Woodman Casting X (2014)
       links:
         - https://www.indexxx.com/m/bara-1
+        - https://stashdb.org/scenes/332767df-7eda-450f-b625-e614e6a6e30b
   notes:
     - Mix of multiple performers (complete list as of 2022-09-06)
