@@ -1,0 +1,17 @@
+c_studio:
+  - Teen Teacher
+  - null
+comments:
+  - correct performer
+  - scene is originally Scene 2 of Teacher's Pet 10
+  - https://www.iafd.com/title.rme/id=63cded48-2e18-4bae-b422-14531a014af9
+  - https://www.adultdvdempire.com/1910813/teachers-pet-10-porn-videos.html#scene_496581
+performers:
+  remove:
+    - id: 4ec12cce-2222-4e76-9571-982148cca17b
+      name: Jessie Stevens
+      appearance: null
+  append:
+    - id: fdf84a77-bd56-4cd8-bc59-aa889dbf8fac
+      name: Candi Apple
+      appearance: Jessie Stevens

@@ -1,0 +1,17 @@
+c_studio:
+  - Teen Teacher
+  - null
+comments:
+  - correct performer
+  - scene is originally Scene 2 of School Bus Girls 5
+  - https://www.iafd.com/title.rme/id=19cf157c-1c7d-4736-9d37-1a51848a830a
+  - https://www.adultdvdempire.com/2959505/jim-powers-school-bus-girls-5-porn-videos.html#scene_1448665
+performers:
+  remove:
+    - id: 4ec12cce-2222-4e76-9571-982148cca17b
+      name: Jessie Stevens
+      appearance: null
+  append:
+    - id: 02eb0fb6-63df-44a7-b453-0abbf5ce9cb3
+      name: Jessi Summers
+      appearance: Jessie Stevens
