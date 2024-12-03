@@ -1,11 +1,6 @@
 split:
   name: Barbora
-  fragments:
-    - id: 3f3198e1-9733-44d1-bbf8-5d54da163988
-      name: Barbora (2003, Woodman) / Bara (KarupsPC)
-      text: Woodman Casting X (2014)
-      links:
-        - https://www.indexxx.com/m/bara-1
-        - https://stashdb.org/scenes/332767df-7eda-450f-b625-e614e6a6e30b
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-09-06)
