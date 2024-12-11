@@ -4,14 +4,14 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 0dd0259a-a4ee-4fe7-8b77-48a4f1d3e855
       name: Gwendolyn Knox
       appearance: null
-      status: new
-      status_url: https://www.indexxx.com/m/quincy-2
-    - id: null
+      notes:
+        - https://www.indexxx.com/m/quincy-2
+    - id: 21e05c4c-2a6f-4fb8-b80d-0f5256608929
       name: Nancy
       appearance: null
       disambiguation: 2017, gloryholeswallow.com
-      status: new
-      status_url: https://www.indexxx.com/m/nancy-10
+      notes:
+        - https://www.indexxx.com/m/nancy-10
