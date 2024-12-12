@@ -1,0 +1,12 @@
+c_studio:
+  - Club Sweethearts
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Gloria
+      appearance: null
+      disambiguation: 2018-2019, clubsweethearts.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=953a1571-2654-44a1-bf1d-fed9f6dadc09
