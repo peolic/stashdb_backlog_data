@@ -1,10 +1,5 @@
-split:
-  name: Gina Lopez
-  fragments:
-    - id: null
-      name: Gina Lopez (2013, Black GFs)
-      text: Black GFs
-      links:
-        - https://www.iafd.com/person.rme/perfid=ginalopez_13/gender=f/gina-lopez.htm
-  notes:
-    - Mix of multiple performers (complete list as of 2024-05-01)
+name: Gina Lopez (2013, Black GFs)
+urls:
+  - https://www.iafd.com/person.rme/id=d9fe8d29-4b9c-4ad0-ae22-281ab7243ed9
+urls_notes:
+  - disambiguate

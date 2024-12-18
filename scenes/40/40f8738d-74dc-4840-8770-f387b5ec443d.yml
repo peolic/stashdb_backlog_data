@@ -1,0 +1,16 @@
+c_studio:
+  - Yonitale
+  - null
+comments:
+  - incorrect performer
+  - https://www.indexxx.com/set/818325/yonitale-ariel-isabel/
+performers:
+  remove:
+    - id: bd029a9c-238d-4819-8094-503afffb1f9f
+      name: Izabella
+      appearance: Isabel
+  append:
+    - id: 01d1b2af-0972-425f-997f-1d1070b4f6a5
+      name: Ryana
+      appearance: Isabel
+      disambiguation: Ukrainian

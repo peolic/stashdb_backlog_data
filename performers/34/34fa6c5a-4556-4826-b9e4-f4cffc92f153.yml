@@ -21,10 +21,9 @@ split:
       name: Ben English
       text: (at least) 1 scene
       notes:
-        - '- Twistys "Amy Reid, Amy Right" - same as: Elite 2, Scene 1'
+        - "- \x02Twistys \"Amy Reid, Amy Right\" - same as: Elite 2, Scene 1\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=benenglish/gender=m/ben-english.htm
-        - https://stashdb.org/scenes/0ac9ef07-5015-4620-b7e8-b3e1d9d7d2d3
     - id: 00448815-8980-4a51-8691-1790750c2412
       name: Byron Long
       text: (at least) 1 scene (+1 related)
