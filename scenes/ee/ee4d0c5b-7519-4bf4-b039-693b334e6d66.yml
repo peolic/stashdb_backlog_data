@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: acac7dd4-52a4-47ad-9164-19c41eed55b1
       name: Kristyna
       appearance: Sonja M
-      disambiguation: 2012, oldperverts.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=bc6d0304-5d42-48e7-b74d-5a356d3bead4
+      disambiguation: MentalPass
+      notes:
+        - https://www.iafd.com/person.rme/id=5421c4e6-03a6-4ff8-a22a-b42f7af4728f
