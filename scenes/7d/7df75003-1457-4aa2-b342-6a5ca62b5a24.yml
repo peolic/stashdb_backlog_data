@@ -6,10 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: a0c4c270-f750-4dfe-abc8-f00c3efc7c1c
       name: Marie Bossette
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/40f068a8-0152-465c-916b-63ab6610b8d5
       notes:
         - https://www.iafd.com/person.rme/id=e30cad68-81e7-4f58-af57-bbb02842074a
