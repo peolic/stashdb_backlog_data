@@ -1,0 +1,9 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: 525bd59e-6f81-48ee-ba2e-b217268858cf
+      name: Alexa Leon
+      appearance: null

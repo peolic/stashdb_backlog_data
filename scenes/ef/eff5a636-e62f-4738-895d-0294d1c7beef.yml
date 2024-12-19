@@ -1,0 +1,12 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: 525bd59e-6f81-48ee-ba2e-b217268858cf
+      name: Alexa Leon
+      appearance: null
+    - id: bf20a298-e2c8-4641-9b16-6ab2d3caac8a
+      name: Harmony Paxson
+      appearance: null
