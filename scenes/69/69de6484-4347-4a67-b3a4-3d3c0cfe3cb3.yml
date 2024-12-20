@@ -4,9 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: 525bd59e-6f81-48ee-ba2e-b217268858cf
-      name: Alexa Leon
-      appearance: null
     - id: null
       name: Claudia Gonzalez
       appearance: null
