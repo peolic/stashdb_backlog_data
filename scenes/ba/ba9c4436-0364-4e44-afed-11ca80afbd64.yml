@@ -1,0 +1,11 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Wendy Lopez
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ed91875-f5b1-4d0c-95f1-68eb757298a9

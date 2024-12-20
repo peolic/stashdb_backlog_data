@@ -1,0 +1,29 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Alexis Michaels
+      appearance: null
+      disambiguation: 2012-13, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1f2dc888-1675-4745-90d9-30a7b96cb135
+    - id: null
+      name: Cristina
+      appearance: null
+      disambiguation: 2013, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e827c3d0-4661-472b-9095-e7de55a82c59
+    - id: null
+      name: Leyla
+      appearance: null
+      disambiguation: 2013, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f69b3a4e-5228-416c-8061-26e603c9ac25
+    - id: null
+      name: Wendy Lopez
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ed91875-f5b1-4d0c-95f1-68eb757298a9

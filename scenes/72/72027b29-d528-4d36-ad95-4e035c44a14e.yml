@@ -1,0 +1,12 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Alexis Michaels
+      appearance: null
+      disambiguation: 2012-13, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1f2dc888-1675-4745-90d9-30a7b96cb135
