@@ -1,0 +1,11 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Claudia Gonzalez
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2c196431-894c-4b8b-8b1a-71a6f0a3ec32
