@@ -10,11 +10,10 @@ performers:
       name: Georgia Brown
       appearance: Georgia
   append:
-    - id: null
+    - id: 38b84bc7-4566-476e-b3e1-486c2804a9c7
       name: Georgia Brown
       appearance: Georgia
       disambiguation: 2010-2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=georgiabrown/gender=f/georgia-brown.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=georgiabrown/gender=f/georgia-brown.htm
         - https://www.indexxx.com/m/georgia-brown-1
