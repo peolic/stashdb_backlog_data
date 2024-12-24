@@ -7,8 +7,8 @@ performers:
       name: Gita
       appearance: null
   append:
-    - id: null
+    - id: 2e25f344-5d42-4dc8-9b8f-1631553958d7
       name: Jarka Valentova
       appearance: Gita
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b3bd5c25-d4ad-4b15-b1c3-6bfc724146a2
+      notes:
+        - https://www.iafd.com/person.rme/id=b3bd5c25-d4ad-4b15-b1c3-6bfc724146a2
