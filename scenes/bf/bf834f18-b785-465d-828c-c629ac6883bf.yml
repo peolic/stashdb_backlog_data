@@ -2,10 +2,13 @@ c_studio:
   - 1By-Day
   - null
 performers:
-  remove: []
+  remove:
+    - id: 84ca10cb-e717-4a74-b5e9-0a741222dc1f
+      name: Gita
+      appearance: null
   append:
     - id: null
       name: Jarka Valentova
-      appearance: null
+      appearance: Gita
       status: new
       status_url: https://www.iafd.com/person.rme/id=b3bd5c25-d4ad-4b15-b1c3-6bfc724146a2
