@@ -1,0 +1,11 @@
+c_studio:
+  - 1By-Day
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Jarka Valentova
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b3bd5c25-d4ad-4b15-b1c3-6bfc724146a2
