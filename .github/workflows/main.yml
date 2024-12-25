@@ -10,7 +10,7 @@ concurrency: ci-${{ github.ref }}
 jobs:
   main:
     name: Update Data
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     env:
       PATH_EXPORTER: backlog
@@ -28,10 +28,10 @@ jobs:
         with:
           path: ${{ env.PATH_DATA }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      # - name: Set up Python
+      #   uses: actions/setup-python@v5
+      #   with:
+      #     python-version: '3.11'
 
       - name: Install dependencies
         working-directory: ${{ env.PATH_EXPORTER }}
