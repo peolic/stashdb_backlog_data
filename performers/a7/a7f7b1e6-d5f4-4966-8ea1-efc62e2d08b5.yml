@@ -2,10 +2,14 @@ split:
   name: Merlina
   fragments:
     - id: null
-      name: Merlina (White Ghetto)
-      text: Fame Digital
+      name: Merlina (2012, White Ghetto)
+      notes:
+        - '- White Ghetto'
+        - '- Transsexual Roadtrip'
       links:
         - https://www.iafd.com/person.rme/perfid=merlina_ts/gender=f/merlina.htm
+        - https://stashdb.org/scenes/4ea267db-b2de-4239-98ba-63114612f283
+        - https://stashdb.org/scenes/fcda417e-9a4f-4550-9170-27e967dc2c45
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-03-30)
