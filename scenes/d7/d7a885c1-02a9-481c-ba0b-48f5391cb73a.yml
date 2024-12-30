@@ -1,0 +1,12 @@
+c_studio:
+  - ATK Galleria
+  - null
+performers:
+  remove:
+    - id: 7153b307-2af7-4389-972a-b6420a46835a
+      name: Melissa Martinez
+      appearance: null
+  append:
+    - id: 273a9ad6-5ed6-4e98-aaac-7fc08616a7d4
+      name: Melissa Rose
+      appearance: null
