@@ -4,10 +4,11 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 7c144ea1-a9b7-45b5-8ee9-56dc9a7d64c0
       name: Nicole Sonye
       appearance: Nichole
       status: new
-      status_url: https://www.iafd.com/person.rme/id=cdafe65e-663b-440d-8aed-56e9ea62f7b0
+      status_url: https://stashdb.org/performers/7c144ea1-a9b7-45b5-8ee9-56dc9a7d64c0
       notes:
+        - https://www.iafd.com/person.rme/id=cdafe65e-663b-440d-8aed-56e9ea62f7b0
         - https://www.indexxx.com/m/nichole-4
