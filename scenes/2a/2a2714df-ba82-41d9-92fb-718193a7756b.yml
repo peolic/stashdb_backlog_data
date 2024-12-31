@@ -1,0 +1,21 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: da8a974e-3310-4aa9-988c-c1634b52e7e3
+      name: Bella Blaze
+      appearance: null
+    - id: f1a16f6c-1d48-4baa-b88b-6d4bc476385c
+      name: Havoc Hailey
+      appearance: null
+    - id: 5669876d-2b33-41a2-afc5-1bad27a0ec4f
+      name: Voodoo
+      appearance: null
+    - id: null
+      name: Sofi
+      appearance: null
+      disambiguation: 2009, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=190df369-211b-4e3b-afb6-1a267b20ef69

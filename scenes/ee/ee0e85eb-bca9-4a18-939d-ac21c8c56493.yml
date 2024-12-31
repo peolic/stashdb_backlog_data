@@ -1,0 +1,15 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: 781053f1-65a3-468e-ab44-98ed10f565bb
+      name: Melanie Scott
+      appearance: null
+    - id: 1214bbb5-8a9a-498a-8e3d-ed631fc6f4e3
+      name: Marli Jane
+      appearance: null
+    - id: 56a47d56-e308-439b-bf35-7f1a684cc6cd
+      name: Elena Rivera
+      appearance: null

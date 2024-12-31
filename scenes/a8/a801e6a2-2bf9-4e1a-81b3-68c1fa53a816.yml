@@ -1,0 +1,16 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Sofi
+      appearance: null
+      disambiguation: 2009, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=190df369-211b-4e3b-afb6-1a267b20ef69
+    - id: b4a29170-6eca-4c4e-bef1-4646c7dbdd91
+      name: Tayler
+      appearance: null
+      disambiguation: MilfHunter

@@ -1,0 +1,18 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Dulce
+      appearance: null
+      disambiguation: 2012, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=343ddd13-8787-4a0b-93d4-83caf80c45a7
+    - id: null
+      name: Genesis
+      appearance: null
+      disambiguation: 2012, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/perfid=unknownfemale_329281h/gender=f/genesis.htm
