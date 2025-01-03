@@ -1,5 +1,5 @@
 fingerprints:
-  - algorithm: phash
+  - algorithm: oshash
     hash: 719ccee0fc934625
     correct_scene_id: 0e9991fe-2eb5-4f57-8114-62f43fa4d410
     duration: 176
