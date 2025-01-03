@@ -8,7 +8,7 @@ fingerprints:
     correct_scene_id: b6f027a7-a556-449d-a455-8ff32fca5c5f
     duration: 2021
   - algorithm: phash
-    hash: d2d2d6f229a929a9
+    hash: d2d6d2f229a929a9
     correct_scene_id: null
     duration: 1982
   - algorithm: phash

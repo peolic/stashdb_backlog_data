@@ -1,4 +1,4 @@
 fingerprints:
-  - algorithm: phash
+  - algorithm: oshash
     hash: ae7e4561cb87f878
     correct_scene_id: 1f3680e9-d37b-484d-a2fd-b863813ac95f
