@@ -20,11 +20,9 @@ performers:
       appearance: null
       status: new
       status_url: https://www.iafd.com/person.rme/id=18f7b11a-d70c-48c6-9fc3-5e4794b62d79
-    - id: null
-      name: Laura Davis
-      appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2d6ecb15-a83d-406d-b192-0e9dacdd14b1
+    - id: 83ccf8bf-7caf-49ef-84e7-8f9c15d9e831
+      name: Adele Taylor
+      appearance: Laura Davis
     - id: b7d309f3-c77e-4afc-b3eb-4ad75a1ac44c
       name: Sophia Knight
       appearance: null
