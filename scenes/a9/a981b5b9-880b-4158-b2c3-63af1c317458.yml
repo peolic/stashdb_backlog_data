@@ -4,6 +4,6 @@ fingerprints:
     correct_scene_id: 1fdb4ac0-2707-43ca-9f21-77e7e508f592
     duration: 610
   - algorithm: phash
-    hash: ce22c968c9c7cc5d
+    hash: 867ab3846ab1393b
     correct_scene_id: 1fdb4ac0-2707-43ca-9f21-77e7e508f592
     duration: 610
