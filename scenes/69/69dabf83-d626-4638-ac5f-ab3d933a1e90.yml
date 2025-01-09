@@ -1,0 +1,38 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: cb71cab3-0126-4151-8ce8-bab022020ee6
+      name: Gia [Tug Pass] (also Meliya)
+      appearance: null
+    - id: null
+      name: Giovella
+      appearance: null
+      disambiguation: 2014, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f685aca5-6943-41d5-8b91-56070564254d
+    - id: null
+      name: Honey
+      appearance: null
+      disambiguation: 2014, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b35a1360-c339-47a9-a966-199e2301d87b
+    - id: null
+      name: Robin Stark
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=dc9ca482-3e03-43ca-b401-6250f3e5b1e5
+    - id: null
+      name: Suset
+      appearance: null
+      disambiguation: 2014, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8f769c9b-ad8c-428f-ae25-00f2cdd017b9
+    - id: null
+      name: Marissa
+      appearance: null
+      disambiguation: 2014, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2789de6b-8105-4668-952e-a73e43b46ab8
