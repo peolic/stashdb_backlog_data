@@ -1,0 +1,11 @@
+c_studio:
+  - Pimp Parade
+  - null
+comments:
+  - 'Persuajon is the model in the cover image, but the scene is really about Lickable [Stylez]. Better cover image: https://www.imagebam.com/image/9090381259268574'
+performers:
+  remove: []
+  append:
+    - id: 48a130fe-d9fc-42c6-96a6-1aa3af340a96
+      name: Pursuajon
+      appearance: null
