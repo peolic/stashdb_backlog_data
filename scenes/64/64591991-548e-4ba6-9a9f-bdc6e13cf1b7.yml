@@ -3,9 +3,9 @@ duplicates:
 fingerprints:
   - algorithm: oshash
     hash: 657e8fd82ebd99ea
-    correct_scene_id: null
+    correct_scene_id: 4c12a150-57b2-476e-adb5-c480b767d9b0
     duration: 941
   - algorithm: phash
     hash: 9867e19cd5116ab6
-    correct_scene_id: null
+    correct_scene_id: 4c12a150-57b2-476e-adb5-c480b767d9b0
     duration: 941
