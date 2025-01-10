@@ -1,0 +1,189 @@
+fingerprints:
+  - algorithm: phash
+    hash: 98181c181cdfe7e7
+    correct_scene_id: null
+    duration: 4
+  - algorithm: phash
+    hash: 981c1c1d1cc6e7e7
+    correct_scene_id: null
+    duration: 8
+  - algorithm: phash
+    hash: 9c181c1c5c9dc3f7
+    correct_scene_id: null
+    duration: 9
+  - algorithm: phash
+    hash: 9d1c1c1c8e63e763
+    correct_scene_id: null
+    duration: 18
+  - algorithm: phash
+    hash: 981c1c1c1cbe67e7
+    correct_scene_id: null
+    duration: 23
+  - algorithm: phash
+    hash: 98181c1d1e67e3e7
+    correct_scene_id: null
+    duration: 25
+  - algorithm: phash
+    hash: 981c1c181debf7e2
+    correct_scene_id: null
+    duration: 27
+  - algorithm: phash
+    hash: 9c1c1c1c1c9ce7e7
+    correct_scene_id: null
+    duration: 28
+  - algorithm: phash
+    hash: 98181c1c1ee7e7e3
+    correct_scene_id: null
+    duration: 29
+  - algorithm: phash
+    hash: 981c1c181f4fe767
+    correct_scene_id: null
+    duration: 30
+  - algorithm: phash
+    hash: 98181c1c1c77e7e7
+    correct_scene_id: null
+    duration: 31
+  - algorithm: phash
+    hash: 98181c1d1ddde2e7
+    correct_scene_id: null
+    duration: 32
+  - algorithm: phash
+    hash: 981c1c1c1c7ee7e3
+    correct_scene_id: null
+    duration: 33
+  - algorithm: phash
+    hash: 98181d181dabf7ea
+    correct_scene_id: null
+    duration: 34
+  - algorithm: phash
+    hash: 9c1c1c1d1c9567f5
+    correct_scene_id: null
+    duration: 35
+  - algorithm: phash
+    hash: 9d181c1d1cc6e5e7
+    correct_scene_id: null
+    duration: 36
+  - algorithm: phash
+    hash: 981c1c1c1c9cf7e7
+    correct_scene_id: null
+    duration: 37
+  - algorithm: phash
+    hash: 981c1c1d1dc7e2e7
+    correct_scene_id: null
+    duration: 38
+  - algorithm: phash
+    hash: 9d181c1c18dce7e7
+    correct_scene_id: null
+    duration: 39
+  - algorithm: phash
+    hash: 9d1c1c18187ee3e7
+    correct_scene_id: null
+    duration: 41
+  - algorithm: oshash
+    hash: 860478648ed93c76
+    correct_scene_id: null
+    duration: 42
+  - algorithm: phash
+    hash: 98181c1c1ea7f3e7
+    correct_scene_id: null
+    duration: 43
+  - algorithm: phash
+    hash: 9d1c181c1cdca6f7
+    correct_scene_id: null
+    duration: 44
+  - algorithm: phash
+    hash: 98181c1c1c9fe7e7
+    correct_scene_id: null
+    duration: 45
+  - algorithm: phash
+    hash: 9d1c181c1c6be3e7
+    correct_scene_id: null
+    duration: 49
+  - algorithm: phash
+    hash: 9c18181c1c3fe7e7
+    correct_scene_id: null
+    duration: 52
+  - algorithm: phash
+    hash: 981c1c1c1cf6e7e3
+    correct_scene_id: null
+    duration: 58
+  - algorithm: phash
+    hash: 881c1c3d1e67c767
+    correct_scene_id: null
+    duration: 60
+  - algorithm: phash
+    hash: 981c1c1c1dba7fe2
+    correct_scene_id: null
+    duration: 61
+  - algorithm: phash
+    hash: 981c1c183c9cfbe7
+    correct_scene_id: null
+    duration: 62
+  - algorithm: phash
+    hash: 9c181c1c1caff3e3
+    correct_scene_id: null
+    duration: 63
+  - algorithm: phash
+    hash: 981c181c296fe7e7
+    correct_scene_id: null
+    duration: 64
+  - algorithm: phash
+    hash: 981c1c181cf7e7e6
+    correct_scene_id: null
+    duration: 65
+  - algorithm: phash
+    hash: 9818181c18bfefe7
+    correct_scene_id: null
+    duration: 66
+  - algorithm: phash
+    hash: 9c1c1c181d6be7e3
+    correct_scene_id: null
+    duration: 68
+  - algorithm: phash
+    hash: 9d1c181c1c5be6e7
+    correct_scene_id: null
+    duration: 69
+  - algorithm: phash
+    hash: 881d1d1d1967e667
+    correct_scene_id: null
+    duration: 72
+  - algorithm: phash
+    hash: 9c181c1c1cbcf6e7
+    correct_scene_id: null
+    duration: 82
+  - algorithm: phash
+    hash: 981c3c183d63e767
+    correct_scene_id: null
+    duration: 83
+  - algorithm: phash
+    hash: 9d1c1c1c1c8df2e7
+    correct_scene_id: null
+    duration: 88
+  - algorithm: phash
+    hash: 9d1c1c0c0c2fe7e7
+    correct_scene_id: null
+    duration: 91
+  - algorithm: phash
+    hash: 9c1c1c1c1cc5e7e7
+    correct_scene_id: null
+    duration: 93
+  - algorithm: phash
+    hash: 9c3c181c1867e7e7
+    correct_scene_id: null
+    duration: 95
+  - algorithm: phash
+    hash: 9d181c1c1c98f7e7
+    correct_scene_id: null
+    duration: 100
+  - algorithm: phash
+    hash: 981c1c1c3c6be3e7
+    correct_scene_id: null
+    duration: 120
+  - algorithm: phash
+    hash: 981c1c181cb7f7ea
+    correct_scene_id: null
+    duration: 122
+  - algorithm: phash
+    hash: 981c1c1c1cbef7e2
+    correct_scene_id: null
+    duration: 123
