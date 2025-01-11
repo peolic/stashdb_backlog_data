@@ -1,12 +1,6 @@
 split:
   name: Pink
   fragments:
-    - id: 8fb3a1e0-e31d-43a7-8e5e-a2552eb469ba
-      name: Pink (2011, Soapy Massage)
-      text: Soapy Massage
-      links:
-        - https://www.iafd.com/person.rme/perfid=pink_11_asian/gender=f/pink.htm
-        - https://stashdb.org/scenes/2a806e5a-1b7b-4e53-b34a-40cc1c796f9b
     - id: null
       name: Pink (2007-2008, Reality Kings)
       text: '[NonSex?] We Live Together'
