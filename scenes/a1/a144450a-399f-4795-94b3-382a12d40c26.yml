@@ -4,22 +4,22 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: b618e05e-2b69-4d8a-83b8-902257497fec
       name: Cat D.
       appearance: null
       disambiguation: 2013, teenslikeitbig.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0bf7b9b4-7a55-46ac-aa7b-76bc452c7285
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=0bf7b9b4-7a55-46ac-aa7b-76bc452c7285
+    - id: d66eedd8-8ecc-43d9-9924-dc36f0366867
       name: Dick Bush
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=79ae6152-3efd-41b4-bfd1-3545f1ef846d
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=79ae6152-3efd-41b4-bfd1-3545f1ef846d
+    - id: 483e324c-ece9-45d8-98f6-8ddd13b36f75
       name: Ian Hurley
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=18f7b11a-d70c-48c6-9fc3-5e4794b62d79
+      notes:
+        - https://www.iafd.com/person.rme/id=18f7b11a-d70c-48c6-9fc3-5e4794b62d79
     - id: 83ccf8bf-7caf-49ef-84e7-8f9c15d9e831
       name: Adele Taylor
       appearance: Laura Davis

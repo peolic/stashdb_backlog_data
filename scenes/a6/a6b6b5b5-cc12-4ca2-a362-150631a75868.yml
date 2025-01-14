@@ -7,9 +7,9 @@ performers:
     - id: 3e37a962-2053-496a-9706-dea534fffeb5
       name: Lucy Diamond
       appearance: null
-    - id: null
+    - id: b618e05e-2b69-4d8a-83b8-902257497fec
       name: Cat D.
       appearance: null
       disambiguation: 2013, teenslikeitbig.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0bf7b9b4-7a55-46ac-aa7b-76bc452c7285
+      notes:
+        - https://www.iafd.com/person.rme/id=0bf7b9b4-7a55-46ac-aa7b-76bc452c7285

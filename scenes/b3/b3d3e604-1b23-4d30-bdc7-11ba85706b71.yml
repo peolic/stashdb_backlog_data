@@ -4,23 +4,23 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 95bb7ea5-efc9-4bb7-ba08-54ae68951510
       name: Charlotte
       appearance: null
       disambiguation: 2014, hotandmean.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0bbf1e6a-dcd6-4a80-a0c8-fa33814a8f2f
+      notes:
+        - https://www.iafd.com/person.rme/id=0bbf1e6a-dcd6-4a80-a0c8-fa33814a8f2f
     - id: 5aca5f35-a31d-44b1-8e1e-560425046d65
       name: Alexandra Little
       appearance: null
-    - id: null
+    - id: 483e324c-ece9-45d8-98f6-8ddd13b36f75
       name: Ian Hurley
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=18f7b11a-d70c-48c6-9fc3-5e4794b62d79
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=18f7b11a-d70c-48c6-9fc3-5e4794b62d79
+    - id: 5db2b787-ac09-4fc6-aa29-5a1313536077
       name: Lenny
       appearance: null
       disambiguation: 2013, hotandmean.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b23cdebe-44c5-4fb6-92b3-679a5e85afb3
+      notes:
+        - https://www.iafd.com/person.rme/id=b23cdebe-44c5-4fb6-92b3-679a5e85afb3
