@@ -211,3 +211,7 @@ fingerprints:
     hash: 83070387078ffcf6
     correct_scene_id: null
     duration: 2810
+  - algorithm: phash
+    hash: 820f07070faffcf0
+    correct_scene_id: null
+    duration: 39
