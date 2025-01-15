@@ -12,12 +12,12 @@ performers:
     - id: 6af653f6-cff7-4433-8f73-8d2d9bc13473
       name: Ashli Ames
       appearance: null
-    - id: null
+    - id: cbdde0ef-8ab8-4613-a4ad-0ac291dbc4c4
       name: Genesis
       appearance: null
       disambiguation: 2012, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=unknownfemale_329281h/gender=f/genesis.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=unknownfemale_329281h/gender=f/genesis.htm
     - id: aff01dfe-9467-4548-bfc9-aaa04c38b32b
       name: Charley Chase
       appearance: null

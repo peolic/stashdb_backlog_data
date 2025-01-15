@@ -10,9 +10,9 @@ performers:
       disambiguation: 2012, dancingbear.com
       status: new
       status_url: https://www.iafd.com/person.rme/id=343ddd13-8787-4a0b-93d4-83caf80c45a7
-    - id: null
+    - id: cbdde0ef-8ab8-4613-a4ad-0ac291dbc4c4
       name: Genesis
       appearance: null
       disambiguation: 2012, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=unknownfemale_329281h/gender=f/genesis.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=unknownfemale_329281h/gender=f/genesis.htm
