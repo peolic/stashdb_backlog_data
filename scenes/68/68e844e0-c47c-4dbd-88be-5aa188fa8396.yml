@@ -25,5 +25,7 @@ performers:
     - id: null
       name: Wendy Lopez
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0ed91875-f5b1-4d0c-95f1-68eb757298a9
+      status: c
+      status_url: https://stashdb.org/edits/27d17bed-82ae-458a-9bb5-d4bec486de1d
+      notes:
+        - https://www.iafd.com/person.rme/id=0ed91875-f5b1-4d0c-95f1-68eb757298a9

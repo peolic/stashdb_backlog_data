@@ -13,5 +13,7 @@ performers:
     - id: null
       name: Dan Silver
       appearance: Dirty Dan
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=acf41c86-bb93-4270-b977-30de91827939
+      status: c
+      status_url: https://stashdb.org/edits/0a7c0185-d647-441c-97ff-b12086b26edb
+      notes:
+        - https://www.iafd.com/person.rme/id=acf41c86-bb93-4270-b977-30de91827939
