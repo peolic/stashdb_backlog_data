@@ -1,9 +1,0 @@
-c_studio:
-  - Money Talks
-  - null
-performers:
-  remove: []
-  append:
-    - id: 8a66dc71-8ac2-4851-a6f0-ab9735f57194
-      name: Cindy Starfall
-      appearance: null
