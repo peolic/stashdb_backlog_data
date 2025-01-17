@@ -1,5 +1,4 @@
 scenes:
-  - 1ee75374-367f-447d-bdf7-9b9e563a0bda
   - ff523298-d33d-4f90-a6ce-a70780c3b83d
   - c56ef518-eb17-4a03-baae-c28a8effe566
   - c309333b-47fd-436a-b315-b3b584865296
@@ -9,5 +8,4 @@ scenes:
   - ba9c4436-0364-4e44-afed-11ca80afbd64
   - 8c95690e-5224-4622-948c-4b671cb1242f
   - c582c65d-22d4-462e-b645-90a20b73e224
-performers:
-  - a566d384-5563-4587-9e13-257c36d77d0c
+performers: []
