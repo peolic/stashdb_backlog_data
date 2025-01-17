@@ -7,25 +7,8 @@ performers:
       name: Lindsay
       appearance: null
   append:
-    - id: 5eb050e5-f50b-481d-90a5-6430dd1dc4b0
-      name: Wendy Lopez
-      appearance: null
-      notes:
-        - https://www.iafd.com/person.rme/id=0ed91875-f5b1-4d0c-95f1-68eb757298a9
     - id: null
       name: Lindsay Manning
       appearance: null
       status: new
       status_url: https://www.iafd.com/person.rme/id=8a94108c-86d8-4051-aed3-c3d8f3731321
-    - id: a7f1d51c-33e1-4364-b47c-2ff0e21b9371
-      name: Esmi Lee
-      appearance: null
-    - id: f1a16f6c-1d48-4baa-b88b-6d4bc476385c
-      name: Havoc Hailey
-      appearance: null
-    - id: 9515cc41-9fed-42bf-b7e9-316a097892b8
-      name: Logan Exx
-      appearance: null
-    - id: eaff5ecb-28ef-4009-abee-bf9d39bf2878
-      name: Makayla Rose
-      appearance: null
