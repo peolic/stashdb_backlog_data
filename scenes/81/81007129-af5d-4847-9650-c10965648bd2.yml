@@ -6,10 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 8a5381e8-d005-4982-a03a-59cff4e9afd9
       name: Dan Silver
-      appearance: Dirty Dan
-      status: c
-      status_url: https://stashdb.org/edits/0a7c0185-d647-441c-97ff-b12086b26edb
+      appearance: null
       notes:
         - https://www.iafd.com/person.rme/id=acf41c86-bb93-4270-b977-30de91827939
