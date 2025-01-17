@@ -7,8 +7,8 @@ performers:
       name: Lindsay
       appearance: null
   append:
-    - id: null
+    - id: 1bce4437-d77a-4c24-b8e0-0d7dd4d412aa
       name: Lindsay Manning
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8a94108c-86d8-4051-aed3-c3d8f3731321
+      notes:
+        - https://www.iafd.com/person.rme/id=8a94108c-86d8-4051-aed3-c3d8f3731321
