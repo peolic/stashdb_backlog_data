@@ -1,5 +1,18 @@
 split:
   name: Zia
-  fragments: []
+  fragments:
+    - id: null
+      name: Zia (2010, Dare Dorm)
+      text: Dare Dorm "Crazy Times"
+      links:
+        - https://www.iafd.com/person.rme/id=a232818f-e972-487e-82d7-1af7ccdbaaba
+        - https://stashdb.org/scenes/bb3dccb4-4b5b-4c53-b275-65394652f445
+    - id: null
+      name: Zia (2006, Hot Legs and Feet)
+      text: Hot Legs and Feet
+      links:
+        - https://www.iafd.com/person.rme/id=9acf6bbb-0ff3-47a6-9221-bb73460f7c76
+        - https://www.indexxx.com/m/zia
+        - https://stashdb.org/scenes/168850fb-771a-4ced-bb64-da18ff1c940d
   notes:
-    - Mix of two performers
+    - Mix of two performers (complete list as of 2025-01-18)
