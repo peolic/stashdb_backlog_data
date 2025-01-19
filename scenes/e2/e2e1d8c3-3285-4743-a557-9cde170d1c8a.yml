@@ -2,27 +2,27 @@ c_studio:
   - 40oz Bounce
   - null
 comments:
-  - https://www.iafd.com/title.rme/title=big+booty+pirates/year=2009/big-booty-pirates.htm
+  - https://www.iafd.com/title.rme/id=db5d3e5f-2fd9-4358-98f7-24c97ae24222
 performers:
   remove:
     - id: 6b33f536-0ce9-4cfa-bbaa-27a7323c4163
       name: Ms. Bliss & Stacey Sweets
       appearance: null
-      status: edit
   append:
-    - id: null
-      name: Ms. Bliss
-      appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=msbliss/gender=f/ms.-bliss.htm
-      notes:
-        - https://www.indexxx.com/m/ms-bliss
     - id: null
       name: Stacey Sweets
       appearance: null
       disambiguation: 2009-11
       status: new
-      status_url: https://www.iafd.com/person.rme/perfid=staceysweets/gender=f/stacey-sweets.htm
+      status_url: https://www.iafd.com/person.rme/id=46b6ce80-0b6f-401a-aeb6-03722076fe59
       notes:
         - https://www.indexxx.com/m/stacey-sweets
         - https://www.pichunter.com/gallery/3593566/Big_Booty_Black_Babe_Makes
+    - id: null
+      name: Mz. Blizz
+      appearance: Ms. Bliss
+      status: c
+      status_url: https://stashdb.org/edits/2cd8ac7c-8c12-463a-a2d4-22ae07f29dc1
+      notes:
+        - https://www.iafd.com/person.rme/id=2138c275-f270-4cdf-8fb4-f2e6d395f43c
+        - https://www.indexxx.com/m/ms-bliss
