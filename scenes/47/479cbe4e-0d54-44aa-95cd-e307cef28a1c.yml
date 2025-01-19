@@ -6,8 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: b9449370-6a48-4ecb-80c7-7f5450f59ddd
       name: Jordan Haze
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=aacf106e-f0c8-4e98-adff-80d010a5e435
+      notes:
+        - https://www.iafd.com/person.rme/id=aacf106e-f0c8-4e98-adff-80d010a5e435
