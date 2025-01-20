@@ -1,5 +1,14 @@
 split:
   name: Blake
-  fragments: []
+  fragments:
+    - id: null
+      name: Blake (Boys First Time)
+      notes:
+        - '- Boys First Time "A Sexy Time"'
+        - '- Boys First Time "One More Time"'
+        - face match, despite 5 year gap
+      links:
+        - https://stashdb.org/scenes/9553985e-3c1f-4879-8469-a4c3c23664e9
+        - https://stashdb.org/scenes/b30a9433-15a6-47c2-a2aa-39076ed0a346
   notes:
-    - Mix of multiple performers.
+    - Mix of multiple performers (complete list as of 2025-01-20)

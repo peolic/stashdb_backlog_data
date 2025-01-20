@@ -1,5 +1,15 @@
 split:
   name: Bo
-  fragments: []
+  fragments:
+    - id: null
+      name: Bo (2011, Boys First Time)
+      text: Boys First Time "Give Bo A Bone"
+      links:
+        - https://stashdb.org/scenes/6df04f9d-3499-4c23-8127-7667587621c9
+    - id: null
+      name: Bo (2008, Boys First Time)
+      text: Boys First Time "Dick Tickle"
+      links:
+        - https://stashdb.org/scenes/e4a3700c-ade2-4031-b707-438bc7cb839d
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2025-01-20)
