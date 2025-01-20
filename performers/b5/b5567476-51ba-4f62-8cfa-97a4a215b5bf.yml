@@ -1,6 +1,31 @@
 split:
   name: Brian
-  fragments: []
+  fragments:
+    - id: null
+      name: Alec Black
+      notes:
+        - '- Boys First Time "Back For More"'
+        - '- Boys First Time "Sweet Cum"'
+        - '"Back For More" = Boys First Time 34, Scene 1'
+        - '"Sweet Cum" = Boys First Time 35, Scene 4'
+        - as Alec
+      links:
+        - https://www.iafd.com/person.rme/id=a06660b0-e1bc-425f-a7d8-3add2a1aed98
+        - https://gayeroticvideoindex.com/performer/118176
+        - https://stashdb.org/scenes/60314b0d-dc91-4d4d-b2c3-0709bf60bdbc
+        - https://stashdb.org/scenes/5b8fae46-2fb4-44e5-bb5f-cf4ea99040e3
+        - https://gay.aebn.com/gay/movies/203499/boys-first-time-34#scene-941290
+        - https://gay.aebn.com/gay/movies/203513/boys-first-time-35#scene-941559
+    - id: null
+      name: Brian (2009, Boys First Time)
+      text: Boys First Time "Hung Long"
+      notes:
+        - '"Hung Long" = Boys First Time 13, Scene 3'
+        - photo on the cover of Boys First Time 13
+      links:
+        - https://stashdb.org/scenes/a08b176b-6a09-47b9-92e7-88f84fc40d48
+        - https://gay.aebn.com/gay/movies/200188/boys-first-time-13#scene-935399
+        - https://pic.aebn.net/Stream/Movie/BoxCovers/a200188_xlf.jpg
   notes:
     - Mix of multiple performers (partial list)
     - Disambiguated before being split.
