@@ -1,5 +1,15 @@
 split:
   name: Ally and Nina
-  fragments: []
+  fragments:
+    - id: null
+      name: unknown A
+      links:
+        - https://www.iafd.com/person.rme/id=d078974a-98fb-4f16-8886-20dafbdb137d
+    - id: null
+      name: unknown B
+      links:
+        - https://www.iafd.com/person.rme/id=b2561cc0-0eb5-4531-94ac-268f940e7dba
   notes:
-    - Amalgamated performer
+    - Amalgamated performer - Young Lesbians Portal 1993
+  links:
+    - https://www.iafd.com/title.rme/id=6339dd0d-1236-4c47-ad84-9a09b1922580

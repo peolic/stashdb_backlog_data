@@ -12,11 +12,13 @@ split:
       text: Dare Dorm "Your Wish"
       links:
         - https://www.iafd.com/person.rme/id=b7739b69-8817-48d4-91eb-fc57e54a4c07
+        - https://stashdb.org/scenes/fe6532c4-550b-4cac-b43b-f10f79532a27
     - id: null
       name: '[no name provided]'
       text: Dare Dorm "Dessert Anyone"
       links:
         - https://www.iafd.com/person.rme/id=3a9e0bcf-30f3-4249-ae37-dc6896807821
+        - https://stashdb.org/scenes/423351b3-3662-40d4-a56c-006ae4fbf37c
   notes:
     - Mix of multiple performers (partial list)
     - Best to not repurpose performer, and instead create a new one.

@@ -1,13 +1,19 @@
 split:
   name: Billy
   fragments:
-    - id: null
-      name: Billy (Boys First TIme 2007)
+    - id: 1c731561-6663-444c-8aeb-2edc181d5d9b
+      name: Sean Preston
+      text: Boys First TIme (2007)
+      links:
+        - https://www.iafd.com/person.rme/perfid=seanpreston/gender=m/sean-preston.htm
+        - https://stashdb.org/scenes/cabea6be-f24a-4e4c-ba2b-ec9ac27134a4
+        - https://stashdb.org/scenes/167dc212-12ec-420c-bfca-f7c09cf97f84
     - id: null
       name: Billy (2011, Dare Dorm)
-      text: Dare Dorm
+      text: Dare Dorm "School Project"
       links:
         - https://www.iafd.com/person.rme/perfid=billy_daredorm/gender=m/billy.htm
+        - https://stashdb.org/scenes/f87a8759-133e-4c68-9175-47a09b7ac5b6
   notes:
     - Mix of multiple performers (partial list). See edit with removed images
   links:
