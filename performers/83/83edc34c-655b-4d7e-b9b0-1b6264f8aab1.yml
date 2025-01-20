@@ -13,4 +13,4 @@ split:
   status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)
-    - Best to not repurpose performer, and instead create a new one.
+    - Best to move scenes and delete performer, rather than merging or renaming.

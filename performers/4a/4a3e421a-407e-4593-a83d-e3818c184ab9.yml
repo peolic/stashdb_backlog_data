@@ -15,4 +15,4 @@ split:
         - https://www.iafd.com/title.rme/id=5238ca92-53a3-47d9-bc8a-e44f9a05e1cc
   notes:
     - Mix of multiple performers (partial list)
-    - Best to not repurpose performer, and instead create a new one.
+    - Best to move scenes and delete performer, rather than merging or renaming.

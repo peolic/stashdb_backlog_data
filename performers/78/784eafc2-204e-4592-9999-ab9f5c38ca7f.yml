@@ -8,4 +8,4 @@ split:
         - https://stashdb.org/scenes/b7a82124-5b30-4ff9-8d29-8c4f8790de90
   notes:
     - Mix of multiple performers (complete list as of 2024-04-01)
-    - Best not to merge performer, and instead handle the individual scenes and delete.
+    - Best to move scenes and delete performer, rather than merging or renaming.

@@ -61,4 +61,4 @@ split:
         - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
   notes:
     - Mix of multiple performers (complete list as of 2024-03-31)
-    - Best to not repurpose performer, and instead create a new one.
+    - Best to move scenes and delete performer, rather than merging or renaming.

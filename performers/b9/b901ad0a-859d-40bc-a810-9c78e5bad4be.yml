@@ -5,12 +5,33 @@ split:
       name: John (2003-2004, Kink)
       text: Men in Pain
       links:
-        - https://www.iafd.com/person.rme/perfid=john2_kink/gender=m/john.htm
+        - https://www.iafd.com/person.rme/id=84eb6f77-2e3d-4650-b156-2340184612ba
+        - https://stashdb.org/scenes/8480476a-ee9c-4cb1-8432-f3f10c91a375
+        - https://stashdb.org/scenes/c35d01be-7994-48ff-9f9b-4a43a638072b
     - id: null
       name: John (2013, Dare Dorm)
-      text: Dare Dorm (2013)
+      text: Dare Dorm "Hot Mess"
       links:
-        - https://www.iafd.com/person.rme/perfid=john_dd_13/gender=m/john.htm
+        - https://www.iafd.com/person.rme/id=0194c805-72b5-462e-9cef-b3c0b73b7e18
+        - https://stashdb.org/scenes/36426f43-fbb4-4103-bdc0-797179867737
+    - id: 61d699ea-f383-4b90-8529-700490c0417b
+      name: '*Gene Neeley / Brian'
+      text: Gay Revenge "Heres Jon"
+      notes:
+        - the person in the image is Gene Neeley
+        - not sure whether he's Brian or John
+        - scene also in Gay Revenge 3
+      links:
+        - https://stashdb.org/scenes/618a998f-c863-4a64-bc33-d6e4ee9a1d30
+        - https://www.gaydvdempire.com/1763919/gay-revenge-3-gay-porn-movies.html
+    - id: null
+      name: '?'
+      text: Gay Revenge "Covered Up"
+      notes:
+        - gallery of the scene?
+      links:
+        - https://stashdb.org/scenes/7e91a347-32ea-498b-999d-a28dc8f87a7f
+        - https://www.sexhd.pics/gallery/gayrevenge/gayrevenge-model/ultra-bisexual-world/
     - id: null
       name: '[MILF Hunter scene]'
       text: John is incorrect, there are only 2 performers in the scene
@@ -19,3 +40,4 @@ split:
         - https://www.iafd.com/title.rme/title=love+boutique/year=2010/love-boutique.htm
   notes:
     - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.
