@@ -1,5 +1,5 @@
 split:
-  name: Jared
+  name: Hoss Kado
   fragments:
     - id: e87390d7-eee2-4a43-afbe-aef522cf766b
       name: Hoss Kado
@@ -12,7 +12,7 @@ split:
         - https://stashdb.org/scenes/ff5106ec-db66-4554-a57c-f86282b73f0e
   notes:
     - Mix of multiple performers (possibly complete list as of 2022-06-16).
-    - Performer was renamed, being non-unique.
+    - Performer was renamed from Jared, being non-unique.
     - "\x02Hoss Kado will need to be split off and the page reverted to the generic Jared.\x03"
   links:
     - https://stashdb.org/edits/5c712b89-ca94-42bb-b0c7-67dea3f296ae
