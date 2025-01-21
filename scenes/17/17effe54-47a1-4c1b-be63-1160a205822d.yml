@@ -6,9 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: afd36ef3-92a6-4c4d-a57e-efdf22330890
       name: Papillon
       appearance: null
       disambiguation: 1996-2004
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5c66cf69-d7ec-441f-8cb1-cbe0245ee4d4
+      notes:
+        - https://www.iafd.com/person.rme/id=5c66cf69-d7ec-441f-8cb1-cbe0245ee4d4
