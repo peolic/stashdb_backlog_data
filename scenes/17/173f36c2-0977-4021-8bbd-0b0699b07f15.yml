@@ -6,9 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: e0b0baa9-2577-406a-b9c0-c50e81157d4f
       name: Molly
       appearance: null
       disambiguation: 2009, Hardcore Partying
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d8a28f89-8151-4453-becd-f926617e1ff8
+      notes:
+        - https://www.iafd.com/person.rme/id=d8a28f89-8151-4453-becd-f926617e1ff8

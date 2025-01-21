@@ -13,9 +13,9 @@ performers:
       disambiguation: Canadian, 2006-2008
       notes:
         - https://www.iafd.com/person.rme/perfid=lexy_07/gender=f/lexy.htm
-    - id: null
+    - id: 57776f83-455f-4951-abe8-1c6cb0782372
       name: Naika
       appearance: null
       disambiguation: Canadian, 2006-2007
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6f07f460-c82e-4aea-b0eb-0611ba7402b8
+      notes:
+        - https://www.iafd.com/person.rme/id=6f07f460-c82e-4aea-b0eb-0611ba7402b8
