@@ -7,11 +7,11 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: bfff9f27-1056-4a97-8912-643eb7163e4d
       name: Kate Klimax
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5db5f1bf-59f8-4131-a53d-55f36b0309a9
+      notes:
+        - https://www.iafd.com/person.rme/id=5db5f1bf-59f8-4131-a53d-55f36b0309a9
     - id: c547f1d0-5046-4991-b830-0acc21d7576f
       name: Jade
       appearance: null
