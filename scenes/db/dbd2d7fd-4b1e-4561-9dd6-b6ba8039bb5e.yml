@@ -7,9 +7,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 8b644092-e393-4e4b-b268-ea3198f49ca2
       name: Jenn
       appearance: null
       disambiguation: 2006, Pink Visual
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b5871ffa-2969-4e7e-993b-4b0c0aa8e875
+      notes:
+        - https://www.iafd.com/person.rme/id=b5871ffa-2969-4e7e-993b-4b0c0aa8e875

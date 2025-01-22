@@ -6,9 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 91c9613d-c82d-43a3-a857-b7b8d39d8c58
       name: Johnny
       appearance: null
       disambiguation: 2011, BangBros
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=25c1b686-16bf-428e-bc6b-f116351712dd
+      notes:
+        - https://www.iafd.com/person.rme/id=25c1b686-16bf-428e-bc6b-f116351712dd

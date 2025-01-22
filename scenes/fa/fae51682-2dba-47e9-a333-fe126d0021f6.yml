@@ -9,6 +9,11 @@ performers:
       name: Levi Cash
       appearance: null
   append:
+    - id: null
+      name: Levi
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=75a0ea0c-3740-45a8-a361-6016c1238487
     - id: 3b6f710c-ccca-4dff-9f04-aee605adb8f0
       name: Presley Hart
       appearance: null
@@ -16,8 +21,3 @@ performers:
       name: Scarlett
       appearance: null
       disambiguation: 2010, ExploitedX
-    - id: null
-      name: Levi
-      appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=75a0ea0c-3740-45a8-a361-6016c1238487

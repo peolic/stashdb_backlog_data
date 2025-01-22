@@ -1,0 +1,11 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Andrea Sullivan
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7cf1cc5e-1153-455d-9b97-2868d3aeb119

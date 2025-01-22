@@ -9,9 +9,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: c8a3d6a4-7209-42b8-9d09-06983c4fc556
       name: Ariana Skyy
       appearance: Arianna
       disambiguation: Canadian
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=27b77a1f-d1c8-46c3-bb8b-c5de43d911a6
+      notes:
+        - https://www.iafd.com/person.rme/id=27b77a1f-d1c8-46c3-bb8b-c5de43d911a6

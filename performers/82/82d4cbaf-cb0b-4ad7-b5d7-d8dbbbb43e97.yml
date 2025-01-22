@@ -7,6 +7,8 @@ split:
         - https://www.iafd.com/person.rme/perfid=levicash/gender=m/levi-cash.htm
     - id: null
       name: Levi Steele
+      notes:
+        - +remove image
       links:
         - https://www.iafd.com/person.rme/id=f2d31304-b762-4bec-9c56-b9269e1cb760
         - https://stashdb.org/edits/89ab4ca3-99e5-479c-bbc5-dba9056bf51b

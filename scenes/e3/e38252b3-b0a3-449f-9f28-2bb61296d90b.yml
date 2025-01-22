@@ -3,8 +3,12 @@ c_studio:
   - null
 comments:
   - Performer 'Dillan' removed without creating a new one
+  - 'Scene is the same as Snatch''d: Stolen Home Videos #20, Scene #1'
 performers:
-  remove: []
+  remove:
+    - id: c3a2a296-919d-4487-8259-fac162b32fc3
+      name: Dominika
+      appearance: null
   append:
     - id: a0dc9ebc-b21d-48a6-99cf-bfbf50f3490d
       name: Dillan
@@ -12,3 +16,7 @@ performers:
       disambiguation: Home Porno Tapes
       notes:
         - https://cdn.stashdb.org/images/c0/80/c0801e4a-01f3-4244-80f7-8f189a84ec00
+    - id: b51d8ade-781a-45e9-b569-26931954a016
+      name: Dominika
+      appearance: null
+      disambiguation: Home Porno Tapes
