@@ -1,0 +1,18 @@
+c_studio:
+  - Bang Bus
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Yaya
+      appearance: null
+      disambiguation: 2020, mydirtymaid.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b56acbbd-4087-430d-b707-839d4cfdd409
+    - id: null
+      name: Vicky
+      appearance: null
+      disambiguation: 2019, bangbus.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=eadbadd7-2743-437e-9c3f-640a72687329
