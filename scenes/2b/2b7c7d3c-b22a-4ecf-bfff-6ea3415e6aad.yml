@@ -6,8 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 73f8abcf-750c-4273-9f5e-531db731e790
       name: Johnny Danger
       appearance: null
-      status: new
-      status_url: https://stashdb.org/edits/45050a46-8c2d-42f9-a261-2a856066fd1d
+      notes:
+        - https://www.iafd.com/person.rme/id=6a5b3175-1fd7-475f-9c93-f9fa54ad1dfa
