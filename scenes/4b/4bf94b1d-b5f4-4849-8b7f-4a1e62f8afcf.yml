@@ -10,7 +10,7 @@ performers:
       name: Mark Furious
       appearance: null
       status: new
-      status_url: https://www.iafd.com/person.rme/perfid=markfurious/gender=m/mark-furious.htm
+      status_url: https://www.iafd.com/person.rme/id=8e795ffe-dcd9-4fe2-99da-9dcd691d5f27
   update:
     - id: 779f5bf1-0acf-4061-9b14-772afdc3ab1b
       name: Flower Fields

@@ -1,0 +1,11 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Becky Bang
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=121a254e-cd24-49a0-b89d-62c6ea64a931
