@@ -6,11 +6,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 6cdb143d-ae56-4def-a1c5-74d9d918a290
       name: Dillan Andrews
       appearance: Dillan
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5dac5dba-9a10-4d51-8049-99e80e05ab05
       notes:
+        - https://www.iafd.com/person.rme/id=5dac5dba-9a10-4d51-8049-99e80e05ab05
         - https://www.indexxx.com/m/dillan
         - https://cdn.stashdb.org/images/7c/f9/7cf980b0-d215-4613-9b8a-9883bf0b8770
