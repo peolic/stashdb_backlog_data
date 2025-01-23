@@ -11,7 +11,10 @@ split:
       name: White Mike with right forearm tattoo
     - id: null
       name: Black Mike
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (partial list)
     - Performers require identification.
     - Offloaded from Mike (415368f0-98d3-48f0-a290-65a7d283afa2)
+  links:
+    - https://stashdb.org/performers/415368f0-98d3-48f0-a290-65a7d283afa2
