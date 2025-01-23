@@ -1,0 +1,17 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0e3eb005-87fc-47fb-866c-40691548de3d
+performers:
+  remove: []
+  append:
+    - id: 307354da-0f49-40fc-9f61-85baa2b844f3
+      name: Sherri
+      appearance: null
+      disambiguation: 2004, bangbus.com
+    - id: null
+      name: Jason
+      appearance: Mark
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=afa845d2-cc0c-4662-9b43-26663533ba13

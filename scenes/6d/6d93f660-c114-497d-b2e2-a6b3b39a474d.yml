@@ -1,0 +1,16 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=49df4321-1afc-401c-a1f6-c9fa02582f2e
+performers:
+  remove: []
+  append:
+    - id: ce6f88ce-11a1-4688-bba9-be3d67050eef
+      name: Megan Jones
+      appearance: Nicole
+    - id: null
+      name: Jason
+      appearance: Marc
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=afa845d2-cc0c-4662-9b43-26663533ba13
