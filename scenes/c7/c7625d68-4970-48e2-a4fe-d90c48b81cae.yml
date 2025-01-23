@@ -4,8 +4,9 @@ c_studio:
 performers:
   remove:
     - id: 5d20ef07-0a75-4ba9-a9fc-43db1cc798f6
-      name: Caroline (CDGirls)
+      name: Caroline
       appearance: null
+      disambiguation: CDGirls
   append:
     - id: c61c665e-bff7-412d-a01a-eb749b75c38c
       name: Carolina De Lys

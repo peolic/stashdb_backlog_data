@@ -1,0 +1,13 @@
+c_studio:
+  - Girls Got Cream
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=05b596c2-f06c-4fb7-87fd-8cd52969dc74
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Solntse
+      appearance: Madeline
+      status: c
+      status_url: https://stashdb.org/edits/750aeda0-6e1b-4447-a539-2a837924b6a7
