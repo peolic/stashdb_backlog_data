@@ -11,7 +11,7 @@ performers:
       appearance: null
       disambiguation: 2002, BangBros
       status: new
-      status_url: https://www.iafd.com/person.rme/perfid=mary_02_bb/gender=f/mary.htm
+      status_url: https://www.iafd.com/person.rme/id=1fff475a-b57d-4dc3-9ad3-d21ffa27a468
       notes:
         - https://www.indexxx.com/m/destiny-13
     - id: null
@@ -19,4 +19,4 @@ performers:
       appearance: null
       disambiguation: 2002, BangBros
       status: new
-      status_url: https://www.iafd.com/person.rme/perfid=jesus_bb/gender=m/jesus.htm
+      status_url: https://www.iafd.com/person.rme/id=11a5e7af-1b2c-4869-81ba-c67a3e239522
