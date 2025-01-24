@@ -9,9 +9,9 @@ performers:
       appearance: null
       notes:
         - https://www.iafd.com/person.rme/id=7cf1cc5e-1153-455d-9b97-2868d3aeb119
-    - id: null
+    - id: a8866d8f-3bcd-4d29-bfd3-20eb031b9659
       name: Danni
       appearance: null
       disambiguation: 2009, mollyslife.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e1518185-4042-4a7b-8348-5f46be7f60f3
+      notes:
+        - https://www.iafd.com/person.rme/id=e1518185-4042-4a7b-8348-5f46be7f60f3

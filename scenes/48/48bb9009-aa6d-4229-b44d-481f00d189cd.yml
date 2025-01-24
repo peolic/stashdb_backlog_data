@@ -7,13 +7,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: cf8ffd5a-c85f-49f2-9f93-6c9c468992f2
       name: Sara
       appearance: null
       disambiguation: 2006, Exploited College Girls
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=388a34e9-1674-4ce2-9183-2489e17ed4f9
       notes:
+        - https://www.iafd.com/person.rme/id=388a34e9-1674-4ce2-9183-2489e17ed4f9
         - https://www.indexxx.com/m/sara-9
         - https://exploitedcollegegirls.com/models/sara.html
     - id: e04d8515-20ae-43a7-bbff-7aa613f63392
