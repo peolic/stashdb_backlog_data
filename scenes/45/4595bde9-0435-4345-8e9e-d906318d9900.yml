@@ -6,13 +6,12 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 1dfc1c50-28d5-4ef6-a90c-18415a71c759
       name: Mary
       appearance: null
       disambiguation: 2002, BangBros
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1fff475a-b57d-4dc3-9ad3-d21ffa27a468
       notes:
+        - https://www.iafd.com/person.rme/id=1fff475a-b57d-4dc3-9ad3-d21ffa27a468
         - https://www.indexxx.com/m/destiny-13
     - id: null
       name: Jesus
