@@ -1,19 +1,6 @@
 split:
   name: Sherri
-  fragments:
-    - id: e4d63c3e-f7fd-4fe2-8880-bf1ff4c6f6be
-      name: Sherri (2007, Round and Brown)
-      text: Round and Brown
-      links:
-        - https://www.iafd.com/person.rme/perfid=sherri_bl_rk/gender=f/sherri.htm
-        - https://www.indexxx.com/m/sherri-2
-        - https://stashdb.org/scenes/d7b208da-3f9b-4448-a799-89ba98d4216f
-    - id: 307354da-0f49-40fc-9f61-85baa2b844f3
-      name: Sherri (2004, In the VIP)
-      text: In the VIP
-      links:
-        - https://www.iafd.com/person.rme/perfid=sherri_rk_04/gender=f/sherri.htm
-        - https://www.indexxx.com/m/sherri-5
-        - https://stashdb.org/scenes/30ee126b-c510-439d-88e8-8ef0bf78a8c0
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-13)
