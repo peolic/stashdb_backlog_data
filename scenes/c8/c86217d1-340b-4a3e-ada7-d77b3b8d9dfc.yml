@@ -7,9 +7,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 5d300d80-155a-40d3-b7e8-e1b9a0c705b5
       name: Ilia
       appearance: null
       disambiguation: TeenMegaWorld, 2009
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c9d4c5c0-7777-4657-9d0a-5e0d0688d5eb
+      notes:
+        - https://www.iafd.com/person.rme/id=c9d4c5c0-7777-4657-9d0a-5e0d0688d5eb
