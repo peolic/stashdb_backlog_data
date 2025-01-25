@@ -7,9 +7,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 44f9a0b8-4b76-4b4b-8412-de69e80ae7e8
       name: Johny
       appearance: null
       disambiguation: 2009, White Ghetto
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=johny_wg/gender=m/johny.htm
+      notes:
+        - https://www.iafd.com/person.rme/perfid=johny_wg/gender=m/johny.htm
