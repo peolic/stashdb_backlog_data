@@ -5,12 +5,6 @@ split:
       name: Levi Cash
       links:
         - https://www.iafd.com/person.rme/perfid=levicash/gender=m/levi-cash.htm
-    - id: 697a3620-05ff-4088-a42c-06263a035dcf
-      name: Levi Steele
-      notes:
-        - +remove image
-      links:
-        - https://www.iafd.com/person.rme/id=f2d31304-b762-4bec-9c56-b9269e1cb760
-        - https://stashdb.org/edits/89ab4ca3-99e5-479c-bbc5-dba9056bf51b
+  status: queued to be marked as done
   notes:
     - Mix of three performers. Two completely different performers were merged into Levi Cash, now they need to be split up again.

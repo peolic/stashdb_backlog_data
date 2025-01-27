@@ -2,13 +2,6 @@ split:
   name: Jazmine
   fragments:
     - id: null
-      name: Jazmine (2011, Reality Kings)
-      text: GF Revenge
-      links:
-        - https://www.iafd.com/person.rme/perfid=jazmine_gf_11/gender=f/jazmine.htm
-        - https://stashdb.org/scenes/37e84077-96b1-4265-a46d-f03202075bee
-        - https://www.realitykings.com/model/24618/jazmine
-    - id: null
       name: Jazmine (2003-2005)
       text: In the VIP
       links:
