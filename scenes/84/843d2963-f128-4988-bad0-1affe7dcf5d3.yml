@@ -15,13 +15,12 @@ performers:
       name: Lucas Andradez
       appearance: null
   append:
-    - id: null
+    - id: c9f89126-1914-46e3-a234-26312d7cb04d
       name: Jazmine
       appearance: null
       disambiguation: ATKingdom, jaz006
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=88db228b-50a1-4fa2-a84d-606239658a73
       notes:
+        - https://www.iafd.com/person.rme/id=88db228b-50a1-4fa2-a84d-606239658a73
         - https://www.indexxx.com/m/jazmine
         - https://www.thenude.com/_37506.htm
     - id: 3605be4e-e186-46da-bdfc-f14456f62947
