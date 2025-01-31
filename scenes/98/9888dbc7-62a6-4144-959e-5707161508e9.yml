@@ -6,11 +6,11 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: b39fff82-1c61-4cfe-b817-878f40dd08ee
       name: Solntse
       appearance: Madeline
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=611dc1eb-3d39-4c02-817e-9f10197031df
+      disambiguation: Sineplex
       notes:
+        - https://www.iafd.com/person.rme/id=611dc1eb-3d39-4c02-817e-9f10197031df
         - https://www.indexxx.com/m/solntse
         - https://www.egafd.com/actresses/details.php/id/S02184
