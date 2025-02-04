@@ -4,15 +4,10 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 5390aa86-8dd0-4427-828f-09201f3c6142
       name: Charlotte
       appearance: null
       disambiguation: 2024, jacquieetmicheltv.net
-      status: new
-      status_url: https://stashdb.org/edits/4b17e722-299e-45a1-ad82-71773f5a7a1a
-    - id: null
-      name: Lyia
+    - id: e11434e8-f1e2-4c26-80bb-10a9955b771e
+      name: Lyia Ziggy
       appearance: null
-      disambiguation: 2024, jacquieetmicheltv.net
-      status: new
-      status_url: https://stashdb.org/edits/f869b208-9637-47c3-8ed9-7efbf8d89979

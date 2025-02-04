@@ -9,8 +9,8 @@ performers:
     - id: ce6f88ce-11a1-4688-bba9-be3d67050eef
       name: Megan Jones
       appearance: Nicole
-    - id: null
+    - id: ce7907d8-8456-4d6b-854f-3eb708dec230
       name: Jason
       appearance: Marc
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=afa845d2-cc0c-4662-9b43-26663533ba13
+      notes:
+        - v
