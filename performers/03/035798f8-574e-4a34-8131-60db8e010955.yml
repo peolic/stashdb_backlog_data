@@ -1,12 +1,7 @@
 split:
   name: Katrina
-  fragments:
-    - id: null
-      name: Katrina
-      text: Nubiles (2006-2007)
-      links:
-        - https://www.indexxx.com/m/katrina
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-05-01)
     - Best to move scenes and delete performer, rather than merging or renaming.
