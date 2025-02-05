@@ -4,12 +4,12 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 5aaf2cb4-e753-4e43-9745-5f6a9f24a5ed
       name: Kenneth
       appearance: null
       disambiguation: 2012, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=72d8ddc0-f383-4c67-b2bb-2715d8b81c8f
+      notes:
+        - https://www.iafd.com/person.rme/id=72d8ddc0-f383-4c67-b2bb-2715d8b81c8f
     - id: d6c7332a-f487-4f0c-bbeb-12c8ca766b68
       name: Kristen James
       appearance: null
