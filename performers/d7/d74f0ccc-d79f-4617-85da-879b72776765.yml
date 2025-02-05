@@ -2,13 +2,6 @@ split:
   name: Harley
   fragments:
     - id: null
-      name: Harley Jacobs
-      text: Money Talks
-      links:
-        - https://www.iafd.com/person.rme/perfid=harleyjacobs/gender=f/harley-jacobs.htm
-        - https://www.indexxx.com/m/harley-jacobs
-        - https://stashdb.org/scenes/17d281e7-5d0d-430c-80cd-f2cd25bb2c04
-    - id: null
       name: Harley Monroe
       text: Peter North
       links:

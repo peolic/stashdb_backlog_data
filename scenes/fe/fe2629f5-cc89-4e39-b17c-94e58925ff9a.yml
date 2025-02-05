@@ -4,8 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 3119b492-39fa-4afe-9f66-86225cc6cfdb
       name: Goth Delilah
       appearance: Delilah
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8f774436-9eab-4cb2-988a-88651758a6d3
+      notes:
+        - https://www.iafd.com/person.rme/id=8f774436-9eab-4cb2-988a-88651758a6d3

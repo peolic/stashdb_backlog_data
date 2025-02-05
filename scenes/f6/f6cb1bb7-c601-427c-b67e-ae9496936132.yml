@@ -6,8 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 6367b378-ef46-4c26-b370-27afbaee018a
       name: Charlee Rose
       appearance: Becky
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=716e9c3a-2cf7-46e3-b61a-2d5c66e53225
+      notes:
+        - https://www.iafd.com/person.rme/id=716e9c3a-2cf7-46e3-b61a-2d5c66e53225

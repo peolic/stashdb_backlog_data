@@ -10,8 +10,8 @@ performers:
       disambiguation: 2012, dancingbear.com
       status: new
       status_url: https://www.iafd.com/person.rme/id=72d8ddc0-f383-4c67-b2bb-2715d8b81c8f
-    - id: null
+    - id: d6c7332a-f487-4f0c-bbeb-12c8ca766b68
       name: Kristen James
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=94dd379a-ccf4-4287-83c8-64b55e48c68e
+      notes:
+        - https://www.iafd.com/person.rme/id=94dd379a-ccf4-4287-83c8-64b55e48c68e

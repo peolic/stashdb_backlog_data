@@ -4,8 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 81f6acf5-b884-4b40-b8d8-2e78fc40a517
       name: Claudia Gonzalez
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2c196431-894c-4b8b-8b1a-71a6f0a3ec32
+      notes:
+        - https://www.iafd.com/person.rme/id=2c196431-894c-4b8b-8b1a-71a6f0a3ec32

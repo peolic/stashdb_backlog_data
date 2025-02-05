@@ -4,8 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: ef272c45-511f-406e-a590-fc212e35a849
       name: Morpheusa Lee
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=20e3c00f-859f-414a-9e11-0aa8a37d68f9
+      notes:
+        - https://www.iafd.com/person.rme/id=20e3c00f-859f-414a-9e11-0aa8a37d68f9

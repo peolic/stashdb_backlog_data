@@ -4,16 +4,15 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 4a2013e9-7165-40b6-919b-cfa9ad0652bd
       name: Sunny Rockwell
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2776f18e-5936-4bcc-b728-09aa9884f22a
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=2776f18e-5936-4bcc-b728-09aa9884f22a
+    - id: e1264741-1626-44ba-8ae8-b660b9019ca4
       name: Isabella
       appearance: null
       disambiguation: 2002, bignaturals.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=08adb223-b04d-4672-bfee-7bdde789b3a6
       notes:
+        - https://www.iafd.com/person.rme/id=08adb223-b04d-4672-bfee-7bdde789b3a6
         - https://www.indexxx.com/m/isabella-7

@@ -4,8 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: f4a91f04-b25e-4aab-90b0-4182bda42ee8
       name: Mindy Robinson
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=282fc604-1402-44b9-88c2-93df2c2c8bca
+      notes:
+        - https://www.iafd.com/person.rme/id=282fc604-1402-44b9-88c2-93df2c2c8bca

@@ -6,10 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: aad9daaf-fd5b-4388-a090-d4d4fc905bf2
       name: Brandy Jade
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=fc5e8403-5561-44c4-b628-59e0ff9becd7
       notes:
+        - https://www.iafd.com/person.rme/id=fc5e8403-5561-44c4-b628-59e0ff9becd7
         - https://vegascastingcouch.com/models/brandy-jade/62efff3cec345339c47751c1
