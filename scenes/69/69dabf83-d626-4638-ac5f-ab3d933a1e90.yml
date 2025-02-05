@@ -5,8 +5,9 @@ performers:
   remove: []
   append:
     - id: cb71cab3-0126-4151-8ce8-bab022020ee6
-      name: Gia [Tug Pass] (also Meliya)
-      appearance: null
+      name: Gia
+      appearance: Meliya
+      disambiguation: Tug Pass
     - id: d71d30b5-72f9-4086-adf8-e56e9ed66e1e
       name: Giovella
       appearance: null
