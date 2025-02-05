@@ -7,16 +7,16 @@ performers:
       name: Harley
       appearance: null
   append:
-    - id: null
+    - id: 38be1ee9-8b53-477e-b90e-9c7b784a6a0f
       name: Harley Jacobs
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5acaa8f8-d525-40e3-8e4a-3e33565857e9
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=5acaa8f8-d525-40e3-8e4a-3e33565857e9
+    - id: 6ffed2dc-cb12-4995-992d-8d757a05f1bd
       name: Aramani Barr
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e64a20b1-dc30-421e-a2a5-54ba48ce1868
+      notes:
+        - https://www.iafd.com/person.rme/id=e64a20b1-dc30-421e-a2a5-54ba48ce1868
     - id: 49184fdb-932c-463c-885f-1d3d334014a5
       name: Brad Star
       appearance: null

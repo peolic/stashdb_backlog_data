@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 5d946531-bb73-4d96-b358-ef7cf77885b3
       name: Sandra
       appearance: null
       disambiguation: 2002, bangbus.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f5a8be53-f2db-4959-8748-5ef69628bc8c
+      notes:
+        - https://www.iafd.com/person.rme/id=f5a8be53-f2db-4959-8748-5ef69628bc8c

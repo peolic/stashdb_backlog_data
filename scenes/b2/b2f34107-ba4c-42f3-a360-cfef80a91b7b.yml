@@ -4,8 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: d328cb76-bf87-469c-bc15-5bb17450cb3e
       name: Becky Bang
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=121a254e-cd24-49a0-b89d-62c6ea64a931
+      notes:
+        - https://www.iafd.com/person.rme/id=121a254e-cd24-49a0-b89d-62c6ea64a931
