@@ -4,9 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
-      name: Kylee
-      appearance: null
-      disambiguation: 2006, escorttrick.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=71d868dd-7499-41b7-8780-d43798c5d49e
+    - id: 3bca3b8f-8fce-434c-922c-e984288177ef
+      name: Kylee Crista
+      appearance: Kylee
