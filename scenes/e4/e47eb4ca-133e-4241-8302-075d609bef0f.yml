@@ -4,12 +4,12 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 03da7136-0b88-4cbd-b4ac-226fddb3c864
       name: Leyla
       appearance: null
       disambiguation: 2013, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f69b3a4e-5228-416c-8061-26e603c9ac25
+      notes:
+        - https://www.iafd.com/person.rme/id=f69b3a4e-5228-416c-8061-26e603c9ac25
     - id: aa93f1b0-fad5-46b6-a99b-3f1e294c7b6b
       name: Janelle James
       appearance: null

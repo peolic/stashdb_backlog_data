@@ -4,21 +4,21 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 41a64125-da79-41dc-a957-ca467016aaeb
       name: Alexis Michaels
       appearance: null
       disambiguation: 2012-13, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1f2dc888-1675-4745-90d9-30a7b96cb135
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=1f2dc888-1675-4745-90d9-30a7b96cb135
+    - id: 2fb9d389-dfd1-4653-ae47-d2b5895b27ea
       name: Cristina
       appearance: null
       disambiguation: 2013, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e827c3d0-4661-472b-9095-e7de55a82c59
-    - id: null
+      notes:
+        - https://www.iafd.com/person.rme/id=e827c3d0-4661-472b-9095-e7de55a82c59
+    - id: 03da7136-0b88-4cbd-b4ac-226fddb3c864
       name: Leyla
       appearance: null
       disambiguation: 2013, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f69b3a4e-5228-416c-8061-26e603c9ac25
+      notes:
+        - https://www.iafd.com/person.rme/id=f69b3a4e-5228-416c-8061-26e603c9ac25
