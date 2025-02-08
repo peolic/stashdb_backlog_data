@@ -1,9 +1,0 @@
-c_studio:
-  - Teens at Work
-  - null
-performers:
-  remove: []
-  append:
-    - id: 3bca3b8f-8fce-434c-922c-e984288177ef
-      name: Kylee Crista
-      appearance: Kylee
