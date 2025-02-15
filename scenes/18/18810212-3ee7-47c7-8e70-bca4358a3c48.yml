@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: d31d4c9d-d1d0-485d-a136-9ab1b03206cc
       name: Nikkita
       appearance: null
       disambiguation: 2012, mygf.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=cdf637d8-01cd-42e4-b827-7d9d4ab848ab
+      notes:
+        - https://www.iafd.com/person.rme/id=cdf637d8-01cd-42e4-b827-7d9d4ab848ab

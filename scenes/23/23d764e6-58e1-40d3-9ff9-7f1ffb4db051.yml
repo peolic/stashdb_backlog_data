@@ -10,12 +10,11 @@ performers:
       name: Elisa Tiger
       appearance: Latika
   append:
-    - id: null
+    - id: 4eb44fdf-f88f-487a-8b4f-8971b85490ae
       name: Latika
       appearance: null
       disambiguation: RealityKings 25904
-      status: new
-      status_url: https://www.iafd.com/person.rme/perfid=latika_dd_11/gender=f/latika.htm
       notes:
+        - https://www.iafd.com/person.rme/perfid=latika_dd_11/gender=f/latika.htm
         - likely incorrect photo on realitykings.com
         - https://www.realitykings.com/model/25904/latika

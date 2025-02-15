@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 28bb8ab3-2b7b-44ae-b1c4-9a657e8d1cae
       name: Cintia
       appearance: Carolina
       disambiguation: 2010-2019, my18teens.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=465b12d5-6a93-499d-bdd0-219589af8b7c
+      notes:
+        - https://www.iafd.com/person.rme/id=465b12d5-6a93-499d-bdd0-219589af8b7c

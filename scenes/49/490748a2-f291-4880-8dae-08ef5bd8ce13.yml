@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 889c7142-ab75-4b6d-8859-3fe55dc75b33
       name: Celendine
       appearance: null
       disambiguation: 2008, loadmymouth.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0927b3a2-9976-46c4-9b1c-bd249b0f1919
+      notes:
+        - https://www.iafd.com/person.rme/id=0927b3a2-9976-46c4-9b1c-bd249b0f1919

@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: cf8dcbc0-4d64-4107-93df-be302f9e7f45
       name: Shelby
       appearance: null
       disambiguation: 2012, Homemade Media
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c9c1c900-1950-499e-9e8b-eacfaaa35a64
+      notes:
+        - https://www.iafd.com/person.rme/id=c9c1c900-1950-499e-9e8b-eacfaaa35a64

@@ -4,8 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 59e375fa-df80-4800-a914-3752473e34e8
       name: Alena B
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=acf4e8be-ceff-4453-87f2-d24f414cf642
+      disambiguation: hegre.com
+      notes:
+        - https://www.iafd.com/person.rme/id=acf4e8be-ceff-4453-87f2-d24f414cf642
