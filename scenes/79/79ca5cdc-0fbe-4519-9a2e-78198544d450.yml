@@ -1,0 +1,11 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Kitty Deveah
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=27617d56-ee72-47a8-9548-f0513d97124b
