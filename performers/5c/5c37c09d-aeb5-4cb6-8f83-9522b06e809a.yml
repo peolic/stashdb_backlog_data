@@ -2,10 +2,12 @@ split:
   name: Chrissy
   fragments:
     - id: null
-      name: Chrissy (2003, In The VIP)
+      name: Chrissy (2003, In the VIP)
+      text: In the VIP "Hip Tothe Cock"
       links:
         - https://www.iafd.com/person.rme/perfid=chrissy_rk_03/gender=f/chrissy.htm
         - https://www.indexxx.com/m/chrissy-3
+        - https://stashdb.org/scenes/f883bbac-33b6-4616-96cc-3f5553f1fe30
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-06-30)

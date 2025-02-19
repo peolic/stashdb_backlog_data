@@ -1,5 +1,11 @@
 split:
   name: Bradley
-  fragments: []
+  fragments:
+    - id: null
+      name: Bradley (2013, Mike's Apartment)
+      text: Mike's Apartment "So Delicious"
+      links:
+        - https://www.iafd.com/person.rme/id=1e0ba741-60f5-41d7-905c-dbf2b53dc440
+        - https://stashdb.org/scenes/5015bad4-389e-4e5e-ab3f-ee98da860ece
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (partial list)

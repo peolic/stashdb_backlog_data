@@ -3,8 +3,10 @@ split:
   fragments:
     - id: null
       name: Briana (2012, Dare Dorm)
+      text: Dare Dorm "Tape Party"
       links:
         - https://www.iafd.com/person.rme/perfid=briana_dd12/gender=f/briana.htm
+        - https://stashdb.org/scenes/3ccbf165-36d1-4ddd-9b3b-69965954f74d
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-07-17)
