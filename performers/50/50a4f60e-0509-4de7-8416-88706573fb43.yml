@@ -2,15 +2,16 @@ split:
   name: Leila
   fragments:
     - id: null
-      name: Leila (Dare Dorm)
-      text: Dare Dorm
+      name: Leila (2012, Dare Dorm)
+      text: Dare Dorm "Flamingo"
       links:
         - https://www.iafd.com/person.rme/perfid=leila_dd_12/gender=f/leila.htm
+        - https://stashdb.org/scenes/cfdd69e6-4bb5-49f9-9940-8c364f21fdf3
     - id: null
       name: Leila (Lusty Grandmas)
       text: Lusty Grandmas
       notes:
-        - Additional scene, as Edith
+        - Additional scene missing performer, as Edith
       links:
         - https://www.iafd.com/person.rme/perfid=leila_lg/gender=f/leila.htm
         - https://stashdb.org/scenes/78f8a6b2-4f64-458b-b36d-e894891b632e
@@ -18,7 +19,18 @@ split:
         - https://stashdb.org/scenes/e4b04ca5-0784-445e-bbe2-4efaa30fb943
         - https://stashdb.org/scenes/ac831232-2f6b-4aa4-a04d-6a8d3e0e0605
     - id: null
-      name: Leila (18videoz)
-      text: maybe multiple performers
+      name: '[todo]'
+      notes:
+        - '- Nasty Angels "Dildo-pleasing young pussy"'
+        - '- Nasty Angels "She can please herself solo"'
+      links:
+        - https://stashdb.org/scenes/ed225bbb-56ab-4348-a4f1-6bde6cde0b3e
+        - https://stashdb.org/scenes/dcaf91d6-b711-4c26-9cf9-f6ce38be9180
+    - id: null
+      name: '[todo]'
+      text: Nasty Angels "Bathroom pussy close-ups"
+      links:
+        - https://stashdb.org/scenes/4de3cccb-201c-4451-ad9f-8ce8a9325725
   notes:
     - Mix of multiple performers (complete list as of 2022-09-05)
+    - Best to move scenes and delete performer, rather than merging or renaming.
