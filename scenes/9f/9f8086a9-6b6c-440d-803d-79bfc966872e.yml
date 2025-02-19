@@ -1,8 +1,13 @@
 c_studio:
-  - ''
-  - null
+  - Manojob
+  - Finishes The Job
+comments:
+  - fix incorrect performer
 performers:
-  remove: []
+  remove:
+    - id: a02e8ef8-5558-4e11-8b31-4849e9ab2d0d
+      name: Penny Brooks
+      appearance: Alice White
   append:
     - id: null
       name: Alice White
