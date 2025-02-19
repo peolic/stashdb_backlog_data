@@ -2,10 +2,15 @@ split:
   name: Kendall
   fragments:
     - id: null
-      name: Kendall (2008, Boys First Time)
-    - id: null
       name: Kendall (2011, Dare Dorm)
+      text: Dare Dorm "Get A Head"
       links:
         - https://www.iafd.com/person.rme/perfid=kendall_dd_11/gender=m/kendall.htm
+        - https://stashdb.org/scenes/a8771e21-c462-447a-837b-e6ae1855140b
+    - id: null
+      name: Kendall (2008, Boys First Time)
+      text: Boys First Time "Dick Flick"
+      links:
+        - https://stashdb.org/scenes/dc12a9b3-3c6f-4494-85ab-f0a5907a51cd
   notes:
     - Mix of multiple performers (complete list as of 2022-06-30)

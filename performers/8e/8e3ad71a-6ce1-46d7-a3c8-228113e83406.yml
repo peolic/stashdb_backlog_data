@@ -3,8 +3,10 @@ split:
   fragments:
     - id: null
       name: Sandrine
+      text: Woodman Casting X (2009)
       links:
         - https://www.indexxx.com/m/sandrine-4
+        - https://stashdb.org/scenes/5152d8da-5fe9-4223-b42c-706d7b8f717e
   status: single fragment remains
   notes:
     - Mix of multiple performers
