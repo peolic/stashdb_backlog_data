@@ -1,5 +1,5 @@
 split:
-  name: Pim
+  name: Pim (Trans)
   fragments:
     - id: null
       name: Pim (2017, TS Playground)
@@ -10,4 +10,7 @@ split:
         - https://tsplayground.com/models/pim-611.html
   status: single fragment remains
   notes:
-    - Mix of multiple performers (complete list as of 2024-03-12)
+    - "\x02Mix of multiple performers (complete list as of 2024-03-12)\x03"
+    - 'Performer''s disambiguation could be improved, image #1 (linked) needs to be removed (= Sukanja)'
+  links:
+    - https://stashdb.org/images/7d2a5311-9d46-4a45-ae1f-cfaf091cc6a9
