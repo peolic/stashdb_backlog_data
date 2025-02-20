@@ -2,9 +2,11 @@ split:
   name: Fiona
   fragments:
     - id: null
-      name: Fiona (2011, Reality Kings)
+      name: Fiona (2011, Horny Birds)
       text: Horny Birds
       links:
         - https://stashdb.org/scenes/ebb8daae-35b8-44a5-8f5e-5a1fad80945d
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-07-15)
+    - Best to move scenes and delete performer, rather than merging or renaming.

@@ -2,11 +2,13 @@ split:
   name: Lacy
   fragments:
     - id: null
-      name: Lacy (2005, Reality Kings)
+      name: Lacy (2005, Cum Fiesta)
       text: Cum Fiesta
       links:
         - https://www.iafd.com/person.rme/perfid=lacy_rk_2005/gender=f/lacy.htm
         - https://www.indexxx.com/m/lacy-1
         - https://stashdb.org/scenes/16eb5257-d2dc-42b7-afe4-0d1140315741
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-12-04)
+    - Best to move scenes and delete performer, rather than merging or renaming.

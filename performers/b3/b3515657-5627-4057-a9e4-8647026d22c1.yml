@@ -2,11 +2,13 @@ split:
   name: Marketa
   fragments:
     - id: null
-      name: Marketa (b. 1990, Czech)
-      text: 1 scene
+      name: Marketa (Bushy Bushy)
+      text: 'Bushy Bushy "50 Hairy Cream Pies #02"'
+      notes:
+        - compilation, performer in the image is Nataly Lancaster
       links:
-        - https://www.iafd.com/person.rme/perfid=marketa_ddf/gender=f/marketa.htm
-        - https://www.indexxx.com/m/marketa-2
-        - https://stashdb.org/scenes/93c5f652-703c-4329-bfbe-dff6dc46cd65
+        - https://stashdb.org/scenes/417ec5d4-3f6e-4f51-b150-c707248aadb3
+  status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.
