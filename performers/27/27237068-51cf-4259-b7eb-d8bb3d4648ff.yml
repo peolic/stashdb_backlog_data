@@ -7,5 +7,7 @@ split:
       links:
         - https://stashdb.org/scenes/1ca80ef7-bdd9-4362-b0bd-1a86bd4aa5c5
         - https://www.iafd.com/title.rme/title=best+gift/year=2010/best-gift.htm
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-07-15)
+    - Best to move scenes and delete performer, rather than merging or renaming.
