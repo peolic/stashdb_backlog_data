@@ -4,18 +4,14 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 47517f66-d15d-40cd-98cc-56b58072c767
       name: Samantha Fox
       appearance: null
       disambiguation: brazilian
-      status: c
-      status_url: https://stashdb.org/edits/4fc32b57-c310-4dce-8a80-994fee9dc04c
       notes:
         - https://www.iafd.com/person.rme/id=96f3f27b-1b95-4188-ada5-704455c2d850
-    - id: null
+    - id: b36a381b-350d-4130-85f6-1958dd76ee97
       name: Bruna Barcelli
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/749c053b-b79d-4c85-b2f1-2007ebd64d00
       notes:
         - https://www.iafd.com/person.rme/id=03dae314-399d-4e83-9211-cc55fcfc77dd
