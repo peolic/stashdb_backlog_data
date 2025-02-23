@@ -1,0 +1,17 @@
+c_studio:
+  - Wicked
+  - null
+comments:
+  - fix incorrect performer
+  - scene is similar to a few releases, one of them is Vivian E @ ClubSeventeen
+  - https://www.indexxx.com/set/579813/club-seventeen-vivian-e/
+  - https://stashdb.org/scenes/7ae7b8f3-2af0-4d5d-af82-acf87344586e
+performers:
+  remove:
+    - id: 440ca900-4303-4dd4-8d26-2e6bcc39a3c5
+      name: Annalee
+      appearance: null
+  append:
+    - id: 779739af-7b08-4a50-ba1e-75710189a0b0
+      name: Jessica Miller
+      appearance: null
