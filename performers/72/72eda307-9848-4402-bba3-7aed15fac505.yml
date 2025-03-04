@@ -18,12 +18,6 @@ split:
         - https://www.iafd.com/person.rme/perfid=adele_cz_02/gender=f/adele.htm
         - https://www.indexxx.com/m/hetty-2
         - https://stashdb.org/scenes/0a5075d4-8b9d-417e-b3b3-5b8d19bf36f7
-    - id: 68a93dd5-0231-446f-b294-92c2e614049d
-      name: Patricia (2012, Dare Dorm)
-      text: Dare Dorm "Smoke Out"
-      links:
-        - https://www.iafd.com/person.rme/id=264b2a3e-07e6-4047-883f-33b4fff11100
-        - https://stashdb.org/scenes/a5237b46-3540-43d8-9ace-ccd8c06e4c98
   notes:
     - Mix of multiple performers (complete list as of 2025-03-04)
     - Best to move scenes and delete performer, rather than merging or renaming.
