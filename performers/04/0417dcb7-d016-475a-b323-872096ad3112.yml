@@ -1,5 +1,10 @@
 split:
   name: Joel
-  fragments: []
+  fragments:
+    - id: null
+      name: Joel (ALS Scan)
+      links:
+        - https://www.alsscan.com/model/joel
   notes:
     - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.
