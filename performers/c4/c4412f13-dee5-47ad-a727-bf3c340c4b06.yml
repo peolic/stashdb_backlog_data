@@ -1,6 +1,11 @@
 split:
   name: Stacy
-  fragments: []
+  fragments:
+    - id: null
+      name: Stacy (2011, Nasty Angels)
+      text: Nasty Angels "Teen in red fishnets sextoying"
+      links:
+        - https://stashdb.org/scenes/6cd564cf-d0be-4698-9b0f-4dfd7f7ac5cb
   status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)

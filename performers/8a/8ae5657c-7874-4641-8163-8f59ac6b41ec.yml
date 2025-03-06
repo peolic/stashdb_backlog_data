@@ -1,6 +1,11 @@
 split:
   name: Shelby
-  fragments: []
+  fragments:
+    - id: null
+      name: Shelby (2013, Dick Dorm)
+      text: Dick Dorm "Show Me Yours"
+      links:
+        - https://stashdb.org/scenes/4f7ab4ba-f2ba-4cb3-a3c3-128bda130f02
   status: single fragment remains
   notes:
     - Mix of multiple performers (partial list)
