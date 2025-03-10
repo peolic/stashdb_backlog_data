@@ -1,11 +1,6 @@
 split:
   name: Alan
   fragments:
-    - id: 76e2c878-68a5-4030-b91d-5d2535b903c1
-      name: Valter Karotti
-      text: some 18videoz?
-      links:
-        - https://www.iafd.com/person.rme/perfid=vova_rus/gender=m/valter-karotti.htm
     - id: ba52e43f-39f5-4392-9bb8-e90df9caa391
       name: '*possibly [82%]* Luis Big Dog'
       notes:
