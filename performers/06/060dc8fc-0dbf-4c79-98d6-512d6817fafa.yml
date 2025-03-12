@@ -1,5 +1,13 @@
 split:
   name: Mario
-  fragments: []
+  fragments:
+    - id: null
+      name: Mario Peeples
+      text: Mike's Apartment "Wise Couple""
+      notes:
+        - is in a lot of scenes with Gina Pearl
+      links:
+        - https://www.iafd.com/person.rme/id=96af7abe-df09-4ff6-a778-abd96a98d518
+        - https://stashdb.org/scenes/11e5c495-09a5-449d-8222-04aa0c0a2b89
   notes:
     - Mix of multiple performers (partial list)
