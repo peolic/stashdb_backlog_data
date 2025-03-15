@@ -1,7 +1,8 @@
 split:
   name: Christen
   fragments:
-    - id: 2758cc29-165a-4439-a6e4-6bac638898f5
+    - column: H
+      id: 2758cc29-165a-4439-a6e4-6bac638898f5
       name: Cameron Steel
       text: tattoos match
       notes:

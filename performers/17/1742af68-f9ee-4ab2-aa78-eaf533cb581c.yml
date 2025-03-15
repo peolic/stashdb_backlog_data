@@ -1,14 +1,16 @@
 split:
   name: Sindy
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Sindy (2007, DDF Network)
       text: Hot Legs and Feet
       links:
         - https://www.iafd.com/person.rme/perfid=jasmin_eu_03/gender=f/jasmin.htm
         - https://www.indexxx.com/m/sindy
         - https://stashdb.org/scenes/70810354-16f9-424a-a607-7dec41c36626
-    - id: null
+    - column: O
+      id: null
       name: Sindy (2006, Street Blowjobs)
       text: Street Blowjobs
       links:

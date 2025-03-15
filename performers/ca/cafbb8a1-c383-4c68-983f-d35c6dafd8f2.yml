@@ -1,26 +1,30 @@
 split:
   name: Natalie
   fragments:
-    - id: null
+    - column: AA
+      id: null
       name: Natalie (2003, Street Blowjobs)
       text: Street Blowjobs
       links:
         - https://www.iafd.com/person.rme/perfid=natalie_rk03/gender=f/natalie.htm
         - https://www.indexxx.com/m/natalie-9
         - https://stashdb.org/scenes/75f5dcf7-0944-41c0-9383-f866bb8ba2a3
-    - id: null
+    - column: AC
+      id: null
       name: Natalie (Dare Dorm 2010-10-22)
       text: Dare Dorm "Fooling Around" - unknown, see iafd link
       links:
         - https://stashdb.org/scenes/fae51682-2dba-47e9-a333-fe126d0021f6
         - https://www.iafd.com/title.rme/title=fooling+around/year=2010/fooling-around.htm
-    - id: null
+    - column: AD
+      id: null
       name: Natalie (Dare Dorm 2010-08-27)
       text: Dare Dorm "That's So"
       links:
         - https://www.iafd.com/person.rme/perfid=natalie_rk10/gender=f/natalie.htm
         - https://stashdb.org/scenes/1b2bf2e9-773e-4838-8ba6-0da61839f0b1
-    - id: null
+    - column: AE
+      id: null
       name: Natalie (2010, GF Revenge)
       text: GF Revenge (some)
       notes:

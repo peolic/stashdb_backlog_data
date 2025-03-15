@@ -1,14 +1,16 @@
 split:
   name: Joana
   fragments:
-    - id: null
+    - column: J
+      id: null
       name: Joana (2006, SexMex)
       links:
         - https://www.iafd.com/person.rme/perfid=joana_sxmx/gender=f/joana.htm
         - https://sexmex.xxx/tour/models/joana-sexmex.html
         - https://stashdb.org/scenes/6b8fa018-8e03-4390-ab45-34704baf1f4b
         - https://stashdb.org/scenes/9195b3e6-311c-4c50-bb3d-dfc301666988
-    - id: null
+    - column: K
+      id: null
       name: Jenny (2004, V9) AKA Joana
       notes:
         - '- Girls Next Door Abused: same as Use ''Em Abuse ''Em and Lose ''Em #2, Scene #1'

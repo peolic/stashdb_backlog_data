@@ -1,13 +1,15 @@
 split:
   name: Leah
   fragments:
-    - id: null
+    - column: R
+      id: null
       name: Leah Santiago
       text: My Teen Oasis
       links:
         - https://www.iafd.com/person.rme/perfid=lsantiago/gender=f/leah-santiago.htm
         - https://stashdb.org/scenes/08a85093-d524-4ef6-bc6a-951a9c30c7ce
-    - id: null
+    - column: X
+      id: null
       name: Leah (Dick Dorm, 2011)
       links:
         - https://stashdb.org/scenes/63ed6e5e-2979-468f-bdc8-add91e026272

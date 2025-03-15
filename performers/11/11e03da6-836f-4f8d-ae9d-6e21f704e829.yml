@@ -1,7 +1,8 @@
 split:
   name: Kelly
   fragments:
-    - id: null
+    - column: Y
+      id: null
       name: Nina Russell
       text: Tranny Surprise
       links:

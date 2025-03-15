@@ -1,12 +1,14 @@
 split:
   name: Hoss Kado
   fragments:
-    - id: e87390d7-eee2-4a43-afbe-aef522cf766b
+    - column: H
+      id: e87390d7-eee2-4a43-afbe-aef522cf766b
       name: Hoss Kado
       text: most scenes
       links:
         - https://www.iafd.com/person.rme/perfid=hosskado/gender=m/hoss-kado.htm
-    - id: null
+    - column: J
+      id: null
       name: Jared (Boys First Time 2004)
       links:
         - https://stashdb.org/scenes/ff5106ec-db66-4554-a57c-f86282b73f0e

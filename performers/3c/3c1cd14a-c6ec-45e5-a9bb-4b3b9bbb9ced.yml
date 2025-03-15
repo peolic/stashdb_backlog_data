@@ -1,7 +1,8 @@
 split:
   name: Patrik
   fragments:
-    - id: a9c64ad2-f4fb-4570-9807-cc3f0aed3a7e
+    - column: H
+      id: a9c64ad2-f4fb-4570-9807-cc3f0aed3a7e
       name: Sexy Boy
       notes:
         - '- maybe some from 18videoz'
@@ -9,7 +10,8 @@ split:
         - "\x02photo gallery from one of the scene edits\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=sexyboy/gender=m/sexy-boy.htm
-    - id: null
+    - column: I
+      id: null
       name: Patrik (2012, Sell Your GF)
       notes:
         - '- 2x Sell Your GF'

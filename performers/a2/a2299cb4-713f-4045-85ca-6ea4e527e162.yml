@@ -1,14 +1,16 @@
 split:
   name: Jeff
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Jeff (18videoz, Dirty Flix)
       notes:
         - possibly all (x19) 18videoz scenes (excluding Home Porno Tapes)
         - possibly all (x4) Dirty Flix scenes
       links:
         - https://stashdb.org/images/1e32d743-48fa-495e-abb5-980c19cc4519
-    - id: null
+    - column: M
+      id: null
       name: Jeff
       text: Home Porno Tapes "Wife making love to my dick"
       notes:

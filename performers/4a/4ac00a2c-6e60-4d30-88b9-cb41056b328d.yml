@@ -1,14 +1,16 @@
 split:
   name: Candis
   fragments:
-    - id: 4ac00a2c-6e60-4d30-88b9-cb41056b328d
+    - column: H
+      id: 4ac00a2c-6e60-4d30-88b9-cb41056b328d
       name: Nikki Kyle
       text: MILF Hunter
       links:
         - https://www.iafd.com/person.rme/perfid=nikkikyle/gender=f/nikki-kyle.htm
         - https://www.indexxx.com/m/candis
         - https://stashdb.org/scenes/9ea4011a-898f-434a-81a8-77dcc6f9ec6a
-    - id: null
+    - column: I
+      id: null
       name: Candis (2008, Teen Core Club)
       text: Girls Got Cream
       links:

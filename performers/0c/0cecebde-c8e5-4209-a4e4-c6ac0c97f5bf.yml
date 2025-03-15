@@ -1,14 +1,16 @@
 split:
   name: Liza
   fragments:
-    - id: null
+    - column: O
+      id: null
       name: Lisa Foxx
       text: Street Blowjobs
       links:
         - https://www.iafd.com/person.rme/perfid=lisafoxx/gender=f/lisa-foxx.htm
         - https://www.indexxx.com/m/liza-4
         - https://stashdb.org/scenes/771b919d-d7a6-4b57-b511-dd19e56d977f
-    - id: null
+    - column: S
+      id: null
       name: Liza (2011, Nasty Angels)
       notes:
         - gallery

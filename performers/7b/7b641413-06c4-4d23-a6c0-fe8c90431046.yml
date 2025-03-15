@@ -1,7 +1,8 @@
 split:
   name: Suzanne
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Suzanne (DDF)
       text: DDF Network
       links:

@@ -1,7 +1,8 @@
 split:
   name: Dino
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Dino
       text: Girls Next Door Abused "Truth, dare and fuck"
       notes:

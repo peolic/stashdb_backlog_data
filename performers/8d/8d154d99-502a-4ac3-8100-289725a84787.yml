@@ -1,7 +1,8 @@
 split:
   name: Marianna
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Marianna (2012, Mike In Brazil)
       text: Mike In Brazil
       links:

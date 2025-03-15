@@ -1,7 +1,8 @@
 split:
   name: Ethan
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Ethan Blue
       links:
         - https://www.iafd.com/person.rme/perfid=ethanblue/gender=m/ethan-blue.htm

@@ -1,21 +1,24 @@
 split:
   name: Shannon
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Shannon (2007, Street Blowjobs)
       text: Street Blowjobs
       links:
         - https://www.iafd.com/person.rme/perfid=shannon_rk_07/gender=f/shannon.htm
         - https://www.indexxx.com/m/shannon-2
         - https://stashdb.org/scenes/14166cd1-c14d-4abd-96b6-7b65255d110c
-    - id: 1218eb68-1094-44c3-9342-f61712ec7926
+    - column: M
+      id: 1218eb68-1094-44c3-9342-f61712ec7926
       name: Shannon (2002, MILF Hunter)
       text: MILF Hunter
       links:
         - https://www.iafd.com/person.rme/id=09079f26-26d2-40cc-96c6-7fb5c07a44ed
         - https://www.indexxx.com/m/shannon-1
         - https://stashdb.org/scenes/70627385-8cda-4df9-bf13-6f6bd0622833
-    - id: null
+    - column: N
+      id: null
       name: Shannon (2004, Twistys)
       text: Twistys
       links:

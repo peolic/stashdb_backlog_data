@@ -1,7 +1,8 @@
 split:
   name: Princess D (2000-2004, Odyssey)
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Princess (Princess B)
       notes:
         - '- Give Me Teens'
@@ -13,7 +14,8 @@ split:
         - https://stashdb.org/scenes/04b2ea32-99b5-4624-abd5-c59927f0bd7a
         - https://stashdb.org/scenes/21cc3885-98b5-4d10-90c0-3caa7cae9e47
         - https://www.whiteghetto.com/en/video/whiteghetto/The-Basement-Tapes-05/16811
-    - id: null
+    - column: I
+      id: null
       name: Princess (Princess D)
       notes:
         - '- My Teen Oasis'

@@ -1,7 +1,8 @@
 split:
   name: Arianna Sky
   fragments:
-    - id: 4cd8cc1a-9083-42d8-bfe9-4b7cade2ed8c
+    - column: H
+      id: 4cd8cc1a-9083-42d8-bfe9-4b7cade2ed8c
       name: Arianna Sky (American)
       notes:
         - '- College Rules'

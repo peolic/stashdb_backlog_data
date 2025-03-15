@@ -1,13 +1,15 @@
 split:
   name: Rocky
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Rocky
       text: Tranny Surprise
       links:
         - https://www.iafd.com/person.rme/perfid=rocky_rk/gender=m/rocky.htm
         - https://stashdb.org/scenes/d53b640f-680b-48fb-acda-9494cc572ef8
-    - id: null
+    - column: L
+      id: null
       name: Rocky (Boys First Time, 2009)
       links:
         - https://stashdb.org/scenes/a6c84ae9-89fb-4d84-902f-abb4dfe91a72

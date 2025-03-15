@@ -1,14 +1,16 @@
 split:
   name: Candy
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Candy Estefana
       text: Twistys (2003)
       links:
         - https://www.iafd.com/person.rme/perfid=estefana/gender=f/candy-estefana.htm
         - https://www.indexxx.com/m/candy-9
         - https://stashdb.org/scenes/37858e4c-7782-4416-8bd8-67f1ba449e48
-    - id: null
+    - column: U
+      id: null
       name: Sweet Candy (Canadian)
       text: Nasty Angels
       notes:

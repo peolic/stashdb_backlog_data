@@ -1,7 +1,8 @@
 split:
   name: Hunter
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Hunter (Teen Core Club)
       text: Spermantino
       notes:

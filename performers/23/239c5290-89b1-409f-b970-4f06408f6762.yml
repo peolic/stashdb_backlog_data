@@ -1,7 +1,8 @@
 split:
   name: Eliza
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Eliza (21 Sextreme)
       text: Zoliboy
       links:
@@ -11,7 +12,8 @@ split:
         - https://stashdb.org/scenes/6c159079-9d77-46fe-bca7-5178049c81cd
         - https://stashdb.org/scenes/4a9dfdfd-1375-40ae-962f-c83cda9984fa
         - https://stashdb.org/scenes/6212c3a6-d4f2-4b7f-a4ea-de424b717288
-    - id: null
+    - column: I
+      id: null
       name: Eliza (2012-2013, Burning Angel)
       text: Burning Angel
       links:
@@ -19,7 +21,8 @@ split:
         - https://stashdb.org/scenes/96954a10-4c63-4448-ba43-0f217a1ada7b
         - https://stashdb.org/scenes/f5209e7d-f669-42dd-b079-e2062346ad38
         - https://www.burningangel.com/en/pornstar/view/Eliza/27498
-    - id: null
+    - column: L
+      id: null
       name: Eliza (2003, Reality Kings)
       text: 8th Street Latinas
       links:

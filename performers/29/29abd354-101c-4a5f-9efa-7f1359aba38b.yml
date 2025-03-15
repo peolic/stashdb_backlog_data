@@ -1,13 +1,15 @@
 split:
   name: Marie
   fragments:
-    - id: null
+    - column: Q
+      id: null
       name: Marie (2007, Lesbian Factor)
       text: Lesbian Factor
       links:
         - https://www.iafd.com/person.rme/perfid=marie_lfact/gender=f/marie.htm
         - https://stashdb.org/scenes/aaf57659-e58a-4760-a948-b24e35397bd6
-    - id: null
+    - column: S
+      id: null
       name: Marie (French, 1997, Woodman)
       text: Woodman Casting X
       links:

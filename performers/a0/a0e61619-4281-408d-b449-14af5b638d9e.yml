@@ -1,7 +1,8 @@
 split:
   name: Jeremy
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Jeremy (2012, Reality Kings)
       notes:
         - '- Black GFs (2012)'
@@ -12,7 +13,8 @@ split:
         - https://stashdb.org/scenes/55c4314b-ef53-4cb2-8665-d3c84f31d598
         - https://stashdb.org/scenes/54883fcf-f029-4c4e-88d6-dada65e29458
         - https://www.realitykings.com/model/26051/jeremy
-    - id: null
+    - column: Q
+      id: null
       name: Jeremy (2003, Kink)
       text: Butt Machine Boys
       links:

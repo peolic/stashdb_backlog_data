@@ -1,10 +1,12 @@
 split:
   name: Joe Shmoe
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: '[multiple performers]'
       text: 707 scenes (as of 2024-06-03)
-    - id: null
+    - column: I
+      id: null
       name: J.R. Nelson
       text: (at least) 1 scene (+2 related)
       notes:
@@ -17,14 +19,16 @@ split:
         - https://stashdb.org/scenes/58229fd3-bea5-4861-bbce-04782d44bf86
         - https://stashdb.org/scenes/172f9e04-9aa8-4115-b080-ddaaef0135af
         - https://stashdb.org/scenes/9fb5c954-3f88-48fa-8044-2dc8ebe61343
-    - id: b5e5c13f-3d5d-4029-882a-69736c055166
+    - column: J
+      id: b5e5c13f-3d5d-4029-882a-69736c055166
       name: Ben English
       text: (at least) 1 scene
       notes:
         - "- \x02Twistys \"Amy Reid, Amy Right\" - same as: Elite 2, Scene 1\x03"
       links:
         - https://www.iafd.com/person.rme/perfid=benenglish/gender=m/ben-english.htm
-    - id: 00448815-8980-4a51-8691-1790750c2412
+    - column: K
+      id: 00448815-8980-4a51-8691-1790750c2412
       name: Byron Long
       text: (at least) 1 scene (+1 related)
       notes:
@@ -35,7 +39,8 @@ split:
         - https://www.iafd.com/person.rme/perfid=byronlong/gender=m/byron-long.htm
         - https://stashdb.org/scenes/e8b1834e-779c-41ff-9afa-5c5d7ef8cc0e
         - https://stashdb.org/scenes/2cd713a6-c6d0-452b-a75b-2263dbab2cd5
-    - id: a2f2bcf9-5e02-4e9b-8bf0-e48ef0a8d9c9
+    - column: L
+      id: a2f2bcf9-5e02-4e9b-8bf0-e48ef0a8d9c9
       name: Lee Stone
       text: (at least) 1 scene
       notes:
@@ -43,7 +48,8 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=leestone/gender=m/lee-stone.htm
         - https://stashdb.org/scenes/80361c59-c8d9-4253-b809-8aedb3072de7
-    - id: 96d1f3bc-838d-49d4-8938-f31be18f1089
+    - column: M
+      id: 96d1f3bc-838d-49d4-8938-f31be18f1089
       name: Barrett Blade
       text: (at least) 1 scene
       notes:
@@ -51,7 +57,8 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=barrettb/gender=m/barrett-blade.htm
         - https://stashdb.org/scenes/3b0d9975-8201-4423-a0a7-29cd8af297b1
-    - id: null
+    - column: N
+      id: null
       name: Simon Synister
       text: (at least) 1 scene
       notes:

@@ -1,32 +1,37 @@
 split:
   name: Max
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Max (2007, Mike's Apartment)
       text: Mike's Apartment "Roc And Soc Them"
       links:
         - https://www.iafd.com/person.rme/id=e88e1207-db64-4e8e-bad4-0452b38a3747
         - https://stashdb.org/scenes/a8f17893-1c37-4e78-8025-f81501d21d3b
-    - id: null
+    - column: J
+      id: null
       name: Max (2005, Tranny Surprise)
       text: Tranny Surprise "Twig And Berries"
       links:
         - https://www.iafd.com/person.rme/id=e9f5e3dc-5a84-4f07-87f1-664bf61ab3bf
         - https://stashdb.org/scenes/f246f07e-f1c0-4c34-a402-70312650bb29
-    - id: null
+    - column: L
+      id: null
       name: Max (2002, MILF Hunter)
       text: MILF Hunter "Matador"
       links:
         - https://www.iafd.com/person.rme/id=93a2f552-f858-4643-9ba2-73623c1661c4
         - https://stashdb.org/scenes/68665b0d-19a5-47b7-90c6-047df9577947
-    - id: null
+    - column: M
+      id: null
       name: Max (Twistys)
       text: incorrect per iafd and data18
       links:
         - https://stashdb.org/scenes/57fc083d-9973-4c62-870a-151d2103e5b9
         - https://www.iafd.com/title.rme/title=my+booty+guard/year=2011/my-booty-guard.htm
         - https://www.data18.com/scenes/1245323
-    - id: 05490f88-d95d-424c-b55d-6013a7865ef2
+    - column: N
+      id: 05490f88-d95d-424c-b55d-6013a7865ef2
       name: Max Dior
       notes:
         - "- \x02ALS Scan\x03"
@@ -34,7 +39,8 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=maximiliandyor/gender=m/max-dyor.htm
         - https://www.alsscan.com/model/max
-    - id: null
+    - column: O
+      id: null
       name: Max (2019, 18videoz, Dirty Flix) / Mr Sweet
       notes:
         - '- Causal Teen Sex (2019)'
@@ -56,7 +62,8 @@ split:
         - https://stashdb.org/scenes/d9060b13-987d-4b56-b0e6-c2f4411771fe
         - https://stashdb.org/scenes/d912129c-2202-40a9-8674-eb8e6b9b24b7
         - https://stashdb.org/scenes/edd16a1b-722c-4d26-9996-24a901c8a9e1
-    - id: null
+    - column: P
+      id: null
       name: Max (2011-2014, 18videoz, Dirty Flix)
       text: unidentified, possibly multiple performers
   notes:

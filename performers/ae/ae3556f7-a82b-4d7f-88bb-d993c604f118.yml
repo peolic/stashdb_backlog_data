@@ -1,20 +1,23 @@
 split:
   name: Lucia
   fragments:
-    - id: null
+    - column: Q
+      id: null
       name: Lucia (2009, Euro Sex Parties)
       text: Euro Sex Parties
       links:
         - https://www.iafd.com/person.rme/perfid=lucia_09_rk/gender=f/lucia.htm
         - https://www.indexxx.com/m/lucia-6
         - https://stashdb.org/scenes/a2a4c9f3-c419-4a77-b9d2-0cf4feca556a
-    - id: null
+    - column: R
+      id: null
       name: Lucia (2007, White Ghetto)
       text: Transsexual Roadtrip
       links:
         - https://www.iafd.com/person.rme/perfid=luciats07/gender=f/lucia.htm
         - https://stashdb.org/scenes/f67b6163-3f98-40cd-a85d-0c0aaf35a355
-    - id: null
+    - column: S
+      id: null
       name: Lucia
       text: Dare Dorm "Are Good Times"
       links:

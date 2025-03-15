@@ -1,14 +1,16 @@
 split:
   name: Rafaela
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Rafaela (2011, Reality Kings)
       text: Mike In Brazil "Wanna Bang"
       links:
         - https://www.iafd.com/person.rme/perfid=rafaela_11_br/gender=f/rafaela.htm
         - https://www.indexxx.com/m/rafaela-1
         - https://stashdb.org/scenes/c66648eb-b72b-4222-9e07-1a6bd14dbd90
-    - id: null
+    - column: J
+      id: null
       name: Rafaela (2005, Northstar) AKA Vanessa (2004, "No Limits 8")
       text: 'Peter North "Latina Fever #13"'
       links:

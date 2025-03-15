@@ -1,13 +1,15 @@
 split:
   name: Jim
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Jim (2002, Big Naturals)
       text: Big Naturals
       links:
         - https://stashdb.org/scenes/5c23e5d7-9a5d-47dc-b909-8468e14dee4b
         - https://www.iafd.com/title.rme/id=a70f1059-c872-43ef-bb71-97362893bb6b
-    - id: null
+    - column: L
+      id: null
       name: Jim (2002, Tranny Surprise)
       text: Tranny Surprise
       links:

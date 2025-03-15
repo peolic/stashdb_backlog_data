@@ -1,7 +1,8 @@
 split:
   name: Jesse
   fragments:
-    - id: null
+    - column: O
+      id: null
       name: Jesse [NonSex]
       text: 8th Street Latinas
       links:

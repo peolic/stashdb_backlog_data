@@ -1,7 +1,8 @@
 split:
   name: Ana
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Ana (2011, Sex Mex)
       text: Sex Mex
       links:

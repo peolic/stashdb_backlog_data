@@ -1,13 +1,15 @@
 split:
   name: Angelina A
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Angelina (2003-2004)
       text: Peter North
       links:
         - https://www.iafd.com/person.rme/perfid=angelica_en/gender=f/angelina.htm
         - https://stashdb.org/scenes/f80a4e4d-eeb8-4ae4-9a8d-c8e154a5621c
-    - id: null
+    - column: I
+      id: null
       name: Shannan
       text: The Life Erotic
       links:

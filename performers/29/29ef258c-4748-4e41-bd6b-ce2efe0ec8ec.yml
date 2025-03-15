@@ -1,14 +1,16 @@
 split:
   name: Katarina
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Katarina (2008, Monster Curves)
       text: Monster Curves
       links:
         - https://www.iafd.com/person.rme/perfid=katarina_rk/gender=f/katarina.htm
         - https://www.indexxx.com/m/katarina-3
         - https://stashdb.org/scenes/21fb1351-b1cd-4c7b-a90d-ca787410bee0
-    - id: null
+    - column: K
+      id: null
       name: Katarina
       text: Woodman Casting X
       links:

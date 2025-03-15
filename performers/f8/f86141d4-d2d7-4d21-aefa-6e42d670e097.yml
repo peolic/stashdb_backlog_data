@@ -1,7 +1,8 @@
 split:
   name: Chase
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Chase (2019, Fantasy Massage)
       text: Fantasy Massage
       links:

@@ -1,7 +1,8 @@
 split:
   name: Mallory
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Mallory (2012, Dare Dorm)
       text: Dare Dorm "Flamingo"
       links:

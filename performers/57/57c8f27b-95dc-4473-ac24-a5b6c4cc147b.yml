@@ -1,18 +1,21 @@
 split:
   name: Matt
   fragments:
-    - id: null
+    - column: O
+      id: null
       name: Matt (2007, Reality Kings)
       text: Mike's Apartment
       links:
         - https://www.iafd.com/person.rme/perfid=matt_rk_07/gender=m/matt.htm
         - https://stashdb.org/scenes/094c4a50-3cf9-4ddb-80b2-133206a5b494
-    - id: null
+    - column: P
+      id: null
       name: Matt (ALS Scan)
       text: maybe useless?
       links:
         - https://www.alsscan.com/model/matt
-    - id: null
+    - column: R
+      id: null
       name: John (2006, V9)
       text: Home Porno Tapes "Always say YES to hot sex"
       notes:

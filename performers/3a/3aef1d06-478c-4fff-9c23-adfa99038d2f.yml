@@ -1,7 +1,8 @@
 split:
   name: Kennedy
   fragments:
-    - id: null
+    - column: M
+      id: null
       name: Kennedy (2010, Dare Dorm)
       text: Dare Dorm
       links:

@@ -1,7 +1,8 @@
 split:
   name: Tami
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Tami (2010, GF Revenge)
       text: GF Revenge "City Walk"
       notes:

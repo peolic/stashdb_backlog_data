@@ -1,7 +1,8 @@
 split:
   name: Jenifer
   fragments:
-    - id: null
+    - column: N
+      id: null
       name: Jennifer Piubella
       text: Tranny Surprise
       links:

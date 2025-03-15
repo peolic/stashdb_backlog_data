@@ -1,7 +1,8 @@
 split:
   name: Robert
   fragments:
-    - id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
+    - column: H
+      id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
       name: Albert Long
       notes:
         - '- Bang Bus "Zoel"'
@@ -10,50 +11,59 @@ split:
         - https://www.iafd.com/person.rme/perfid=albertlong/gender=m/albert-long.htm
         - https://stashdb.org/scenes/49acf7d7-218a-4c89-9e86-5eadf562bb57
         - https://stashdb.org/scenes/a8645dc3-1393-43f3-ade8-422814bf7aba
-    - id: null
+    - column: M
+      id: null
       name: Robert (2018, Reality Kings)
       text: GF Revenge (2018)
       links:
         - https://www.iafd.com/person.rme/perfid=robert_gfleaks/gender=m/robert.htm
         - https://stashdb.org/scenes/a4d9f60f-de88-4337-a53b-533b551c0c2a
-    - id: null
+    - column: N
+      id: null
       name: Robert (2010, Reality Kings)
       text: GF Revenge (2010)
       links:
         - https://www.iafd.com/person.rme/perfid=robert_gf_10/gender=m/robert.htm
         - https://stashdb.org/scenes/c8447b9b-afd2-4d82-9817-b874b43a1d3b
-    - id: null
+    - column: O
+      id: null
       name: Robert (2003, Kink)
       text: Butt Machine Boys
       links:
         - https://www.iafd.com/person.rme/perfid=robert2_kink/gender=m/robert.htm
         - https://stashdb.org/scenes/38f4c79f-a9e1-47d8-bf9b-d3944cb2de4c
-    - id: null
+    - column: P
+      id: null
       name: '?'
       text: Papi "Santas Snake"
       links:
         - https://stashdb.org/scenes/d03c8ce7-bf96-420a-b8cf-596f55e3a0a9
-    - id: null
+    - column: R
+      id: null
       name: '?'
       text: Papi "Cock Shots"
       links:
         - https://stashdb.org/scenes/fda6fa34-b9c4-4b9c-bd4d-4b5d39ed3737
-    - id: null
+    - column: S
+      id: null
       name: '?'
       text: Papi "Pool Party"
       links:
         - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
-    - id: null
+    - column: T
+      id: null
       name: '?'
       text: Dick Dorm "Feel Me"
       links:
         - https://stashdb.org/scenes/b26eaee1-8573-43e1-970f-5a9039bb031d
-    - id: null
+    - column: U
+      id: null
       name: '?'
       text: Dick Dorm "Head Games"
       links:
         - https://stashdb.org/scenes/c4ebf512-a069-467b-a2ef-35cb4b9218ad
-    - id: null
+    - column: V
+      id: null
       name: Albert (2018, Sell Your GF)
       text: Sell Your GF "Fuck for cash as birthday gift" - missing performer
       links:

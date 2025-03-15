@@ -1,17 +1,20 @@
 split:
   name: Timea
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Timea
       links:
         - https://www.indexxx.com/m/timea-14
         - https://stashdb.org/scenes/077988d9-e6dc-462f-83ce-29b1f331b123
-    - id: null
+    - column: J
+      id: null
       name: Timea
       links:
         - https://www.indexxx.com/m/timea-15
         - https://stashdb.org/scenes/082f1b58-c71b-48e6-a55c-ffc616b796f5
-    - id: null
+    - column: K
+      id: null
       name: Timea
       links:
         - https://www.indexxx.com/m/timea-18

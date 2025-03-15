@@ -1,13 +1,15 @@
 split:
   name: Joselyn
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Joselyn (2010, Dare Dorm)
       text: Dare Dorm
       links:
         - https://www.iafd.com/person.rme/perfid=joselyn_rk10/gender=f/joselyn.htm
         - https://stashdb.org/scenes/1b2bf2e9-773e-4838-8ba6-0da61839f0b1
-    - id: null
+    - column: J
+      id: null
       name: Joselyn (2006, In the VIP)
       text: In the VIP
       links:

@@ -1,7 +1,8 @@
 split:
   name: Kelley
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Kelley Rose (2006-2011)
       text: First Time Auditions
       links:

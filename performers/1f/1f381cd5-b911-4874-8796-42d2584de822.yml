@@ -1,21 +1,24 @@
 split:
   name: Nancy
   fragments:
-    - id: null
+    - column: P
+      id: null
       name: Nancy (2005, 8th Street Latinas)
       text: 8th Street Latinas
       links:
         - https://www.iafd.com/person.rme/perfid=nancy_rk_05/gender=f/nancy.htm
         - https://www.indexxx.com/m/nancy-3
         - https://stashdb.org/scenes/7ba72349-dc45-4ab4-820e-a6f6a029e656
-    - id: null
+    - column: R
+      id: null
       name: Nancy (2001, Cum Fiesta)
       text: Cum Fiesta
       links:
         - https://www.iafd.com/person.rme/perfid=nancy_rk_01/gender=f/nancy.htm
         - https://www.indexxx.com/m/nancy-2
         - https://stashdb.org/scenes/d3c968ab-33c7-497b-987d-edd22b07180a
-    - id: null
+    - column: W
+      id: null
       name: Nancy
       text: '"Reverse Gang Bang #02"'
       links:

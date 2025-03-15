@@ -1,13 +1,15 @@
 split:
   name: Maverick
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Maverick
       text: Naughty Bookworms
       links:
         - https://www.iafd.com/person.rme/perfid=maverick_rus/gender=m/maverick.htm
         - https://stashdb.org/scenes/0d4c04c6-12a5-40e8-905d-cd4fff3c734f
-    - id: null
+    - column: I
+      id: null
       name: Maverick
       text: Hard Porn World
       links:

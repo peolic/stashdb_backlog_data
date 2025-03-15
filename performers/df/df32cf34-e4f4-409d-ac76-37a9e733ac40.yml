@@ -1,7 +1,8 @@
 split:
   name: Clark
   fragments:
-    - id: 444dcc38-7dd4-4dab-a7d4-2a38c1ae8025
+    - column: K
+      id: 444dcc38-7dd4-4dab-a7d4-2a38c1ae8025
       name: Kich (2007-2014)
       text: Young Libertines "Teen girlfriends share cock"
       notes:
@@ -10,7 +11,8 @@ split:
         - https://www.iafd.com/person.rme/perfid=kich/gender=m/kich.htm
         - https://stashdb.org/scenes/b540ef3b-6e5c-4e54-aa43-cea596073d17
         - https://www.stunning18.com/model/kenia-h-and-brigitta-f/gallery/20210410/BRIGGITTA___SUPER_THREESOME
-    - id: null
+    - column: L
+      id: null
       name: 'Clark (2013-2014, Reality Kings #25097)'
       notes:
         - '- GF Revenge "Bow Wrapped"'

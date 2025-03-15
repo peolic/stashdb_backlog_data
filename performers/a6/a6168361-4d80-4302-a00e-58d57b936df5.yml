@@ -1,12 +1,14 @@
 split:
   name: Tibor
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Tibor (ALS Scan)
       links:
         - https://www.alsscan.com/model/tibor
         - https://stashdb.org/scenes/95f40ab3-c654-4b60-b577-9c5436178b28
-    - id: null
+    - column: I
+      id: null
       name: Tibor
       text: Home Porno Tapes "Nerdy cock-hungry bitch"
       notes:

@@ -1,13 +1,15 @@
 split:
   name: Ken
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Ken
       text: White Ghetto
       links:
         - https://www.iafd.com/person.rme/perfid=ken_bl/gender=m/ken.htm
         - https://stashdb.org/scenes/0be2dfc8-dee4-4528-b921-c5818293f47b
-    - id: null
+    - column: M
+      id: null
       name: Van (Chaos Men) AKA Ken
       text: GF Revenge
       links:
@@ -17,7 +19,8 @@ split:
         - https://www.realitykings.com/model/24527/ken
         - https://ibb.co/rmvX5Vv
         - https://www.chaosmen.com/en/pornstar/view/name/93305
-    - id: null
+    - column: N
+      id: null
       name: 'Ken #26546'
       text: Black GFs
       links:

@@ -1,7 +1,8 @@
 split:
   name: Julia
   fragments:
-    - id: null
+    - column: M
+      id: null
       name: Julia (2011, GF Revenge)
       text: GF Revenge "Hidden Hopes"
       notes:

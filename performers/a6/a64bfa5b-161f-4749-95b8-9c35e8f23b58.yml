@@ -1,7 +1,8 @@
 split:
   name: Lida
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Lida (2011, Doghouse Digital)
       text: Doghouse Digital
       links:
@@ -9,7 +10,8 @@ split:
         - https://stashdb.org/scenes/f9b545b7-78cf-4d95-bd31-7cf9fed5f2a9
         - https://stashdb.org/scenes/7a3ef145-47e8-4be9-988b-d5d662e0a4b8
         - https://stashdb.org/scenes/639e890f-9e6d-4804-9f2d-5ea1b6b460bf
-    - id: null
+    - column: J
+      id: null
       name: Lida
       text: Woodman Casting X (2011)
       links:

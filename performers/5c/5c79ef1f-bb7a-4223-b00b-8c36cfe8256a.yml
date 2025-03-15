@@ -1,13 +1,15 @@
 split:
   name: Chaz
   fragments:
-    - id: f16ce1ac-3f4e-4523-9bc9-d55540922d02
+    - column: I
+      id: f16ce1ac-3f4e-4523-9bc9-d55540922d02
       name: Chaz Vincent
       text: My Teen Oasis
       links:
         - https://www.iafd.com/person.rme/perfid=cvincent/gender=f/chaz-vincent.htm
         - https://stashdb.org/scenes/4a51a54b-6d43-48d5-b7a3-c863a1b9b752
-    - id: null
+    - column: J
+      id: null
       name: Chaz (2010, Dare Dorm)
       text: Dare Dorm "Full Of It"
       links:

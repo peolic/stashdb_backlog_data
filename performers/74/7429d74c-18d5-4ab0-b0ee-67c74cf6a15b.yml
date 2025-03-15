@@ -1,7 +1,8 @@
 split:
   name: Anya
   fragments:
-    - id: null
+    - column: R
+      id: null
       name: Anya (Nasty Angels)
       links:
         - https://stashdb.org/scenes/700c6d77-8385-42f2-bc8f-c0baf4ae5e1e

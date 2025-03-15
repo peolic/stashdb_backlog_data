@@ -1,7 +1,8 @@
 split:
   name: Judith
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Judith
       text: Club Sandy / Zoliboy
       links:

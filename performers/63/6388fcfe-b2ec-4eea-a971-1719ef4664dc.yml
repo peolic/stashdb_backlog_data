@@ -1,19 +1,22 @@
 split:
   name: Amy
   fragments:
-    - id: null
+    - column: O
+      id: null
       name: Amy (Dare Dorm, 2011-05-06)
       text: Dare Dorm "Guess Who"
       links:
         - https://stashdb.org/scenes/581f605a-1964-4918-b8ef-3d8147b6d1cd
         - https://www.iafd.com/title.rme/id=8926d78d-fb6a-47b5-8929-4a73d7c5fbeb
-    - id: null
+    - column: P
+      id: null
       name: Amy (Dare Dorm, 2012)
       text: Dare Dorm "Saint Pattys Day"
       links:
         - https://www.iafd.com/person.rme/perfid=amydd12/gender=f/amy.htm
         - https://stashdb.org/scenes/6a679478-782d-45b4-bc03-8f50a305c46e
-    - id: null
+    - column: S
+      id: null
       name: Amy
       text: Home Porno Tapes "Playing a fetish game on cam"
       notes:
@@ -24,7 +27,8 @@ split:
         - https://vod.aebn.com/straight/movies/87942/snatch-d-31#scene-367706
         - https://www.iafd.com/title.rme/id=01f6e137-b631-4636-a8e8-dbf7a74b0044
         - https://stashdb.org/images/20c50eb2-2293-4669-acf4-043e9b16e3b4
-    - id: null
+    - column: T
+      id: null
       name: Amy (Young Porn Home Video)
       links:
         - https://www.iafd.com/person.rme/id=93787859-7c60-4e37-a0d9-32e83bb15238

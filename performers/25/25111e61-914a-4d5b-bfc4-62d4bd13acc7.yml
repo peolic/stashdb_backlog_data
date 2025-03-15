@@ -1,7 +1,8 @@
 split:
   name: Emily
   fragments:
-    - id: null
+    - column: R
+      id: null
       name: Emily / Beatrice ?
       text: Teen Mega World
       links:

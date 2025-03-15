@@ -1,7 +1,8 @@
 split:
   name: Corey
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Corey (2011, Dare Dorm)
       text: Dare Dorm "Things People Do"
       notes:
@@ -12,13 +13,15 @@ split:
         - https://www.iafd.com/person.rme/perfid=corey_dd_11/gender=f/corey.htm
         - https://stashdb.org/scenes/55decc76-f7c8-47d7-b4d4-7c86f81cc84c
         - https://www.realitykings.com/model/25709/corey
-    - id: null
+    - column: N
+      id: null
       name: '?'
       text: Papi "Cock Shots"
       links:
         - https://stashdb.org/scenes/fda6fa34-b9c4-4b9c-bd4d-4b5d39ed3737
         - https://www.iafd.com/title.rme/id=338de67c-2079-4a66-9eb8-68708d8aa048
-    - id: null
+    - column: P
+      id: null
       name: '?'
       text: Papi "El Maletero"
       links:

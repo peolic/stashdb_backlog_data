@@ -1,7 +1,8 @@
 split:
   name: Dan
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: '? Dan (Trick Your GF)'
       text: '[cuckold]'
       links:

@@ -1,28 +1,32 @@
 split:
   name: Jacob
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Jacob (2012, GF Revenge)
       text: GF Revenge
       links:
         - https://stashdb.org/scenes/f2daec85-405e-427b-b2dc-54086a7d51ea
         - https://www.iafd.com/title.rme/id=c71556a9-9a6f-4a12-a5b3-12f2ecd4b476
         - https://www.realitykings.com/model/24814/jacob
-    - id: null
+    - column: M
+      id: null
       name: Jacob (2012, Dare Dorm)
       text: Dare Dorm "Happy Analversary"
       links:
         - https://www.iafd.com/person.rme/perfid=jacobdd12/gender=m/jacob.htm
         - https://stashdb.org/scenes/ee4b7259-490c-47d5-b4af-fbf2374104be
         - https://www.realitykings.com/model/24814/jacob
-    - id: null
+    - column: N
+      id: null
       name: Jacob (2011, Dare Dorm)
       text: Dare Dorm "Get A Head"
       links:
         - https://www.iafd.com/person.rme/perfid=jacob_dd_11/gender=m/jacob.htm
         - https://stashdb.org/scenes/a8771e21-c462-447a-837b-e6ae1855140b
         - https://www.realitykings.com/model/24814/jacob
-    - id: null
+    - column: O
+      id: null
       name: Chad
       text: (unconfirmed, but likely the same performer)
       notes:

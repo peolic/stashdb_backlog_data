@@ -1,7 +1,8 @@
 split:
   name: Kay
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Kay (2010, GF Revenge)
       text: GF Revenge
       links:

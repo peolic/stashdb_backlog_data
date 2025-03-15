@@ -1,7 +1,8 @@
 split:
   name: Madison
   fragments:
-    - id: null
+    - column: U
+      id: null
       name: Madison (Submissed)
       notes:
         - 'She is also in:'

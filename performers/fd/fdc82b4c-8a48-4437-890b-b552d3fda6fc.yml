@@ -1,13 +1,15 @@
 split:
   name: Bobby
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Bobby (2002, Butt Machine Boys)
       text: Butt Machine Boys
       links:
         - https://www.iafd.com/person.rme/perfid=bobby_02_kink/gender=m/bobby.htm
         - https://stashdb.org/scenes/b6effa8e-b97c-4dac-97fc-f7812da00ab7
-    - id: null
+    - column: J
+      id: null
       name: Bobby (2005, Doctor Adventures)
       text: Doctor Adventures
       links:

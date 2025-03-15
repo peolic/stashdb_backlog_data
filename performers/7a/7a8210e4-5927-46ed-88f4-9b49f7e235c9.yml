@@ -1,14 +1,16 @@
 split:
   name: Josy
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Josy (2011, Reality Kings)
       text: Mike In Brazil
       links:
         - https://www.iafd.com/person.rme/perfid=josy_br_2012/gender=f/josy.htm
         - https://www.indexxx.com/m/josy-1
         - https://stashdb.org/scenes/52a9c8c6-b6aa-460e-93b0-c9a576e6ba19
-    - id: null
+    - column: J
+      id: null
       name: Josy (2007, Woodman)
       text: Woodman Casting X
       links:

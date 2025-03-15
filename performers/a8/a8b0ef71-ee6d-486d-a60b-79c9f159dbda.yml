@@ -1,13 +1,15 @@
 split:
   name: Whitney
   fragments:
-    - id: null
+    - column: N
+      id: null
       name: Whitney (2010, Dare Dorm)
       text: Dare Dorm "Crazy Times"
       links:
         - https://www.iafd.com/person.rme/perfid=whitney_rk/gender=f/whitney.htm
         - https://stashdb.org/scenes/bb3dccb4-4b5b-4c53-b275-65394652f445
-    - id: null
+    - column: O
+      id: null
       name: Whitney (2011, Dare Dorm)
       text: Dare Dorm "Things People Do"
       links:

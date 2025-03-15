@@ -1,7 +1,8 @@
 split:
   name: Katrin
   fragments:
-    - id: null
+    - column: P
+      id: null
       name: Katrin (1994, Woodman)
       text: Woodman Casting X
       links:

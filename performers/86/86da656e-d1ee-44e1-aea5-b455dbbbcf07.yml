@@ -1,7 +1,8 @@
 split:
   name: Jean
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Amber (2005, V9) AKA Jen
       notes:
         - '- Girls Next Door Abused "Fake porn audition": same as Use ''Em Abuse ''Em and Lose ''Em #4, Scene #3'

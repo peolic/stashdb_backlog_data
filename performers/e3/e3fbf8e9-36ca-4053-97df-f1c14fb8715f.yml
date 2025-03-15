@@ -1,7 +1,8 @@
 split:
   name: Kleopatra
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Kleopatra
       text: Hairy Undies
       links:

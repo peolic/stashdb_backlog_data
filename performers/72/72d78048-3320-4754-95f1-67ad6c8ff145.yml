@@ -1,9 +1,11 @@
 split:
   name: Rado Zuska
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Rado Zuska
-    - id: null
+    - column: I
+      id: null
       name: Marek (18videoz)
       links:
         - https://cdn.stashdb.org/images/f1/1a/f11a2ac4-d961-43aa-984e-ba9320422e1b

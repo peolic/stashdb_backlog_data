@@ -1,7 +1,8 @@
 split:
   name: Michel
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: John (2006, V9)
       text: Girls Next Door Abused "Kinky little bitch"
       notes:

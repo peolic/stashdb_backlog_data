@@ -1,17 +1,20 @@
 split:
   name: Seth
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Seth (2005, Boys First Time)
       text: Boys First Time "Bananna Hammock"
       links:
         - https://stashdb.org/scenes/7f638b12-fbcf-44f0-b1de-fb851a3ad981
-    - id: null
+    - column: M
+      id: null
       name: Seth (2008, Boys First Time)
       text: Boys First Time "Hands Solo"
       links:
         - https://stashdb.org/scenes/aebff4e0-8d22-450f-bc7c-8d67e477c123
-    - id: null
+    - column: N
+      id: null
       name: Seth (Dick Dorm)
       text: Dick Dorm "Make It Double"
       links:

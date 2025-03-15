@@ -1,14 +1,16 @@
 split:
   name: Diamond B
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Diamond
       text: Twistys
       links:
         - https://www.iafd.com/person.rme/perfid=diamond_black_03/gender=f/diamond.htm
         - https://www.indexxx.com/m/diamond-b
         - https://stashdb.org/scenes/eb1597df-91a0-4a0d-adce-c11091b00ce9
-    - id: null
+    - column: I
+      id: null
       name: Ya Ya AKA Diamond
       text: Big Fat Creampie
       links:

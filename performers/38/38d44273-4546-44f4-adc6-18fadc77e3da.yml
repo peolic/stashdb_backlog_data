@@ -1,12 +1,14 @@
 split:
   name: Erika And Elie
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Erika
       links:
         - https://www.indexxx.com/m/erika-31
         - https://stashdb.org/scenes/3071490a-ca4d-440a-a099-f758f688cfbd
-    - id: null
+    - column: I
+      id: null
       name: Elie
       links:
         - https://www.indexxx.com/m/elie

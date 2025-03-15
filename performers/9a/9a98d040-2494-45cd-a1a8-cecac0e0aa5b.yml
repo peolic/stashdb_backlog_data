@@ -1,7 +1,8 @@
 split:
   name: Suzan
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Suzan
       notes:
         - '- HotLegsAndFeet'
@@ -12,13 +13,15 @@ split:
         - https://stashdb.org/scenes/d0d2a7b6-656b-4a01-bf2b-b925972d3939
         - https://stashdb.org/scenes/6cb24d3e-ac26-482a-85eb-c993b1f062ed
         - https://stashdb.org/scenes/09da11d2-8c50-4617-808c-9360e040e7a6
-    - id: null
+    - column: L
+      id: null
       name: Suzan
       text: Woodman Casting X (2009)
       links:
         - https://www.indexxx.com/m/suzan-8
         - https://stashdb.org/scenes/87b1dddc-f6be-44e7-891b-e95dcb247a7b
-    - id: null
+    - column: M
+      id: null
       name: Suzan
       text: Woodman Casting X (2013)
       links:

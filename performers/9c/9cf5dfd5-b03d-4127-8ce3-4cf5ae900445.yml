@@ -1,13 +1,15 @@
 split:
   name: Samantha
   fragments:
-    - id: null
+    - column: U
+      id: null
       name: Samantha (2010, In the VIP)
       text: In the VIP
       links:
         - https://www.iafd.com/person.rme/perfid=samantha_rk_10/gender=f/samantha.htm
         - https://stashdb.org/scenes/62ea68c2-0651-4a73-b17b-64da9bd87f07
-    - id: null
+    - column: AA
+      id: null
       name: Samantha (2006, V9)
       notes:
         - '- Girls Next Door Abused "Score of the night": Same as Use ''Em Abuse ''Em and Lose ''Em #8, Scene #2'

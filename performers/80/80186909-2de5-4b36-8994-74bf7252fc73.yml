@@ -1,14 +1,16 @@
 split:
   name: Samuel
   fragments:
-    - id: null
+    - column: J
+      id: null
       name: Victor (?)
       text: Doghouse Digital
       links:
         - https://www.iafd.com/person.rme/perfid=victor_rk/gender=m/victor.htm
         - https://stashdb.org/scenes/00816caa-34fe-4cc4-9f28-7567ecffc732
         - https://stashdb.org/scenes/d5d24799-e5c6-43af-9138-8bc5213cad56
-    - id: null
+    - column: K
+      id: null
       name: '[89%] Latin Rex'
       text: Boys First Time (2004)
       links:

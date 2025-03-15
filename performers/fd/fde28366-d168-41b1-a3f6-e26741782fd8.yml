@@ -1,7 +1,8 @@
 split:
   name: Connor
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Connor (2003, Tranny Surprise)
       text: Tranny Surprise "Long Legs"
       links:

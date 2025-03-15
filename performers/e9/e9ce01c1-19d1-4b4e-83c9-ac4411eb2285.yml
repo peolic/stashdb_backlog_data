@@ -1,12 +1,14 @@
 split:
   name: Paloma
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Paloma (2007-2011, Sex Mex)
       text: Sex Mex (9 scenes)
       links:
         - https://www.iafd.com/person.rme/id=c0b8844e-3646-483f-9a65-dbfdb7d98299
-    - id: null
+    - column: I
+      id: null
       name: Paloma Bratio
       text: Tranny Surprise "Coconut Milk"
       links:

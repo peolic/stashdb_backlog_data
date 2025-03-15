@@ -1,7 +1,8 @@
 split:
   name: Brian
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Alec Black
       notes:
         - '- Boys First Time "Back For More"'
@@ -16,7 +17,8 @@ split:
         - https://stashdb.org/scenes/5b8fae46-2fb4-44e5-bb5f-cf4ea99040e3
         - https://gay.aebn.com/gay/movies/203499/boys-first-time-34#scene-941290
         - https://gay.aebn.com/gay/movies/203513/boys-first-time-35#scene-941559
-    - id: null
+    - column: I
+      id: null
       name: Brian (2009, Boys First Time)
       text: Boys First Time "Hung Long"
       notes:
@@ -26,7 +28,8 @@ split:
         - https://stashdb.org/scenes/a08b176b-6a09-47b9-92e7-88f84fc40d48
         - https://gay.aebn.com/gay/movies/200188/boys-first-time-13#scene-935399
         - https://pic.aebn.net/Stream/Movie/BoxCovers/a200188_xlf.jpg
-    - id: 61d699ea-f383-4b90-8529-700490c0417b
+    - column: J
+      id: 61d699ea-f383-4b90-8529-700490c0417b
       name: Gene Neeley(*) / John
       text: Gay Revenge "Heres Jon"
       notes:
@@ -35,7 +38,8 @@ split:
       links:
         - https://stashdb.org/scenes/618a998f-c863-4a64-bc33-d6e4ee9a1d30
         - https://www.gaydvdempire.com/1763919/gay-revenge-3-gay-porn-movies.html
-    - id: null
+    - column: K
+      id: null
       name: '?'
       text: Dick Dorm "Tape Out"
       links:

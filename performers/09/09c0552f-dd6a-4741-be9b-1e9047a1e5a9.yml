@@ -1,14 +1,16 @@
 split:
   name: Parker
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Parker (2010, Reality Kings)
       text: First Time Auditions
       links:
         - https://www.iafd.com/person.rme/perfid=parker_rk_10/gender=f/parker.htm
         - https://www.indexxx.com/m/parker-2
         - https://stashdb.org/scenes/a1d5b89e-4474-46a2-a37a-75a30f89a928
-    - id: null
+    - column: K
+      id: null
       name: Parker (2004, Reality Kings)
       notes:
         - '- Big Naturals'
@@ -18,7 +20,8 @@ split:
         - https://www.indexxx.com/m/parker
         - https://stashdb.org/scenes/c8484773-b375-47e4-a5c6-181493c2ebe2
         - https://stashdb.org/scenes/01b5eb4b-907e-4b29-9aff-ccedd58f8cfd
-    - id: null
+    - column: M
+      id: null
       name: Parker / Ted
       notes:
         - '- (Parker) Girls Next Door Abused "MILF fucked in her house": Same as Use ''Em Abuse ''Em and Lose ''Em #14, Scene #2'

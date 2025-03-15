@@ -1,12 +1,14 @@
 split:
   name: Nika and Marina
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Nika
       links:
         - https://www.iafd.com/person.rme/perfid=nika_ylp/gender=f/nika.htm
         - https://stashdb.org/scenes/d90c8f08-477f-4f2d-9657-acce9d46cac0
-    - id: null
+    - column: I
+      id: null
       name: Marina
       links:
         - https://www.iafd.com/person.rme/perfid=marina_ylp/gender=f/marina.htm

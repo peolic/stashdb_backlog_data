@@ -1,7 +1,8 @@
 split:
   name: Marc
   fragments:
-    - id: null
+    - column: J
+      id: null
       name: Mark Matthews (2007)
       text: Boys First Time
       notes:

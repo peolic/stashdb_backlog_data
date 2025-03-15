@@ -1,7 +1,8 @@
 split:
   name: Joey
   fragments:
-    - id: null
+    - column: J
+      id: null
       name: 'Joey #25493'
       notes:
         - '- GF Revenge: "Working On A Threesome", "Back Shot"'
@@ -12,7 +13,8 @@ split:
         - https://stashdb.org/scenes/7d08f48e-c073-4f4e-9a16-f6e385a7a6d5
         - https://stashdb.org/scenes/d9230eb6-f3ac-409e-81c7-cc40c1a47c96
         - https://www.realitykings.com/model/25493/joey
-    - id: null
+    - column: K
+      id: null
       name: 'Joey #26243'
       text: GF Revenge "All In Brianna", "Hot Buns", "Lip Service"
       links:

@@ -1,7 +1,8 @@
 split:
   name: Susana
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Susana (SexMex)
       links:
         - https://www.iafd.com/person.rme/perfid=susana_sxmx/gender=f/susana.htm

@@ -1,7 +1,8 @@
 split:
   name: Mandy
   fragments:
-    - id: null
+    - column: Q
+      id: null
       name: Mandy (2004, V9)
       notes:
         - '- Girls Next Door Abused "Country girl seduced and fucked": same as Use ''Em Abuse ''Em and Lose ''Em #2, Scene #3'

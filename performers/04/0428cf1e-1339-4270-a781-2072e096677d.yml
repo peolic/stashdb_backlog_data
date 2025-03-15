@@ -1,7 +1,8 @@
 split:
   name: Gerda
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Gerda May
       text: Nubiles
       links:
@@ -10,7 +11,8 @@ split:
         - https://stashdb.org/scenes/611dce37-6446-4147-a3dd-850ddd016d50
         - https://stashdb.org/scenes/0a7302eb-193b-4eac-a340-4ed0ecceb98f
         - https://stashdb.org/scenes/50120cf8-4f9a-416c-b795-95f7b6e67ea6
-    - id: 2da76626-647b-48cf-833c-dfe856dd95f4
+    - column: J
+      id: 2da76626-647b-48cf-833c-dfe856dd95f4
       name: Serafima / Gerda / Julia D
       text: Old-n-Young
       links:

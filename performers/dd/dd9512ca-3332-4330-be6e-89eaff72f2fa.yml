@@ -1,7 +1,8 @@
 split:
   name: Brad
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Brad (2014, Reality Kings)
       notes:
         - '- Monster Curves "Super Sling"'
@@ -13,12 +14,14 @@ split:
         - https://stashdb.org/scenes/b3f2df01-cbb8-4630-a90c-b11fc748cc77
         - https://stashdb.org/scenes/ff7fe002-79f5-4362-9d0e-4cbdd5d5deba
         - https://www.realitykings.com/model/1877/brad
-    - id: null
+    - column: M
+      id: null
       name: Brad (2014, Trick Your GF)
       links:
         - https://stashdb.org/scenes/e4cfe9bd-d757-4b0b-b400-afec60be0218
         - https://stashdb.org/scenes/d71e5480-8abe-40e0-ac17-2d782eedc996
-    - id: null
+    - column: N
+      id: null
       name: Brad (2004, Boys First Time)
       text: Boys First Time "Main Attraction"
       links:

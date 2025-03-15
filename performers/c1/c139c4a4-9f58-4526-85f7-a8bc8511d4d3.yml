@@ -1,7 +1,8 @@
 split:
   name: Nanette
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Nanette (Nubiles)
       text: Nubiles
       links:

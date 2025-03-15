@@ -1,7 +1,8 @@
 split:
   name: Luxe
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Luxe (2011, Dare Dorm)
       text: Dare Dorm
       links:

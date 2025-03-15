@@ -1,7 +1,8 @@
 split:
   name: Bria
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: '[todo]'
       text: Dick Dorm "Happy Day"
       notes:

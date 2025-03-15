@@ -1,7 +1,8 @@
 split:
   name: Jordan
   fragments:
-    - id: null
+    - column: R
+      id: null
       name: Jordan (Dare Dorm, 2011)
       text: Dare Dorm "Bathroom Vandals"
       links:

@@ -1,13 +1,15 @@
 split:
   name: Oksy
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Margo AKA Oksy
       text: most scenes
       links:
         - https://www.iafd.com/person.rme/perfid=margo_rus_10/gender=f/margo.htm
         - https://www.indexxx.com/m/nikki-2
-    - id: null
+    - column: I
+      id: null
       name: Oksy (Teen Mega World)
       text: Solo Teen Girls
       links:

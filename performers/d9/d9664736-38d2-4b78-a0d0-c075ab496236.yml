@@ -1,7 +1,8 @@
 split:
   name: Liena
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Liena
       text: Woodman Casting X (2009-03-05)
       links:

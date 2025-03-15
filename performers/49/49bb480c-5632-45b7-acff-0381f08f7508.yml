@@ -1,13 +1,15 @@
 split:
   name: Dominic
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Dominic Osso
       text: RK Prime
       links:
         - https://www.iafd.com/person.rme/perfid=dominicosso/gender=m/dominic-osso.htm
         - https://stashdb.org/scenes/ca62ce79-57bc-41d3-9212-a2d256425f78
-    - id: null
+    - column: O
+      id: null
       name: Dominic (Gay Revenge)
       text: Gay Revenge
       links:

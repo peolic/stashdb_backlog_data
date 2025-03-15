@@ -1,7 +1,8 @@
 split:
   name: Crystal
   fragments:
-    - id: null
+    - column: X
+      id: null
       name: Crystal (2010-01-01, GF Revenge)
       text: Off-camera in this scene (only her hand/arm is visible when she touches someone; see gallery).
       links:

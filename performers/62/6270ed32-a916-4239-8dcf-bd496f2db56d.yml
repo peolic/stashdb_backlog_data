@@ -1,13 +1,15 @@
 split:
   name: Patrick
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Patrick (2004, Men In Pain)
       text: Men In Pain
       links:
         - https://www.iafd.com/person.rme/perfid=patrick_kink/gender=m/patrick.htm
         - https://stashdb.org/scenes/9117090c-8b0a-4e84-9541-59abb20f63ea
-    - id: null
+    - column: I
+      id: null
       name: Patrick (TugPass)
       text: Finish Him (unknown info)
       links:

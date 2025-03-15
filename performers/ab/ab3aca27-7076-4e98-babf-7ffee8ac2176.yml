@@ -1,13 +1,15 @@
 split:
   name: Dusty
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Dusty Rose
       text: Peter North
       links:
         - https://www.iafd.com/person.rme/perfid=dusty/gender=f/dusty.htm
         - https://stashdb.org/scenes/ce257b04-0c50-4c80-ab7a-15be9be05fc2
-    - id: null
+    - column: M
+      id: null
       name: Dusty (Burning Angel)
       text: at least 2009 scene, probably the 2008 scene as well
       links:

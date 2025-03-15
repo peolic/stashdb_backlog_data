@@ -1,12 +1,14 @@
 split:
   name: Tai and Siu
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: unknown long hair
       links:
         - https://www.iafd.com/person.rme/perfid=uf798315a/gender=f/unknown-female-798315%2da.htm
         - https://stashdb.org/scenes/cd65a340-8976-4e08-85a9-3651fb65600f
-    - id: null
+    - column: I
+      id: null
       name: unknown short hair
       links:
         - https://www.iafd.com/person.rme/perfid=uf798315b/gender=f/unknown-female-798315%2db.htm

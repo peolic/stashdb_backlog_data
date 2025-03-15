@@ -1,7 +1,8 @@
 split:
   name: Sandrine
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Sandrine
       text: Woodman Casting X (2009)
       links:

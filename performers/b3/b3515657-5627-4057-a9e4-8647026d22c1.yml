@@ -1,7 +1,8 @@
 split:
   name: Marketa
   fragments:
-    - id: null
+    - column: L
+      id: null
       name: Marketa (Bushy Bushy)
       text: 'Bushy Bushy "50 Hairy Cream Pies #02"'
       notes:

@@ -1,7 +1,8 @@
 split:
   name: Mario
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Mario Peeples
       text: Mike's Apartment "Wise Couple""
       notes:

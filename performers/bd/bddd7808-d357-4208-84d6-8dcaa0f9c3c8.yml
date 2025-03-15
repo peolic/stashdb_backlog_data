@@ -1,7 +1,8 @@
 split:
   name: Mad
   fragments:
-    - id: cdc261b0-4876-4361-b507-30495bd41cbc
+    - column: I
+      id: cdc261b0-4876-4361-b507-30495bd41cbc
       name: Mad (2010, Reality Kings)
       notes:
         - "- \x02Dare Dorm \"Your Wish\"\x03"

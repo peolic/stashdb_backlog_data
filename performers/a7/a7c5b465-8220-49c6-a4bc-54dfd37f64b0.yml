@@ -1,14 +1,16 @@
 split:
   name: Lexie
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Lexie (2008, We Live Together)
       text: We Live Together
       links:
         - https://www.iafd.com/person.rme/perfid=lexielat/gender=f/lexie.htm
         - https://www.indexxx.com/m/lexie-1
         - https://stashdb.org/scenes/e2d8e983-b3ea-4b1c-b31b-b4da38995546
-    - id: null
+    - column: I
+      id: null
       name: Lexie (2006, Street Blowjobs)
       text: Street Blowjobs
       links:

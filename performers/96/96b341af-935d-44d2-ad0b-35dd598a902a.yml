@@ -1,7 +1,8 @@
 split:
   name: Leo
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Leo (2014, GF Revenge)
       text: GF Revenge
       links:

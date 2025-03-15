@@ -1,11 +1,13 @@
 split:
   name: Xavier
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Xavier (Pegas Productions)
       links:
         - https://www.pegasproductions.com/xavier
-    - id: null
+    - column: I
+      id: null
       name: Xavier (Reality Kings 2007)
       text: Cum Fiesta
       links:

@@ -1,14 +1,16 @@
 split:
   name: Theresa
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Theresa (2003, Big Naturals)
       text: Big Naturals
       links:
         - https://www.iafd.com/person.rme/perfid=theresa_rk_03/gender=f/theresa.htm
         - https://www.indexxx.com/m/theresa-1
         - https://stashdb.org/scenes/0639f555-ba64-4439-bf33-035ddb8f9382
-    - id: null
+    - column: K
+      id: null
       name: Theresa (2011, Dare Dorm)
       text: Dare Dorm "Things People Do"
       links:

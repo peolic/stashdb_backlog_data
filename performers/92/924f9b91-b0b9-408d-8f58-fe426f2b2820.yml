@@ -1,7 +1,8 @@
 split:
   name: Viktor
   fragments:
-    - id: null
+    - column: I
+      id: null
       name: Viktor / Mike
       notes:
         - names 'Viktor' / 'Mike' may not match originals

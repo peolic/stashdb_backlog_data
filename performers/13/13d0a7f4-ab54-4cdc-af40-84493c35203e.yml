@@ -1,12 +1,14 @@
 split:
   name: Gala and Vika
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: unknown blonde
       links:
         - https://www.iafd.com/person.rme/perfid=uf798280a/gender=f/unknown-female-798280%2da.htm
         - https://stashdb.org/scenes/083c78d1-c169-4cbd-adc0-66ffa2f439bd
-    - id: null
+    - column: I
+      id: null
       name: unknown brunette
       links:
         - https://www.iafd.com/person.rme/perfid=uf798280b/gender=f/unknown-female-798280%2db.htm

@@ -1,7 +1,8 @@
 split:
   name: Gary
   fragments:
-    - id: null
+    - column: O
+      id: null
       name: Gary (Casual Teen Sex)
       text: Casual Teen Sex
       links:

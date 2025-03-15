@@ -1,7 +1,8 @@
 split:
   name: Dinara
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Dinara (RU)
       text: Nubiles
       links:

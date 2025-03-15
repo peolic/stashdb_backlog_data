@@ -1,7 +1,8 @@
 split:
   name: Mike
   fragments:
-    - id: null
+    - column: AA
+      id: null
       name: Viktor / Mike
       notes:
         - names 'Mike' / 'Viktor' may not match originals
@@ -16,7 +17,8 @@ split:
         - https://stashdb.org/scenes/68d87446-83b4-424f-8f8c-20d3fe132616
         - https://www.adultdvdempire.com/2970698/snatchd-11-stolen-home-videos-porn-videos.html#scene_1517348
         - https://www.iafd.com/title.rme/id=863f2978-35d3-4cb8-8e7e-af4c7263f133
-    - id: null
+    - column: AB
+      id: null
       name: Mike
       text: Girls Next Door Abused "An extra job"
       notes:

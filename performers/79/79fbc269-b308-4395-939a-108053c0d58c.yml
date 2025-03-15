@@ -1,12 +1,14 @@
 split:
   name: Peter
   fragments:
-    - id: b2542dde-5ea2-41a1-b998-e24b2eac4995
+    - column: L
+      id: b2542dde-5ea2-41a1-b998-e24b2eac4995
       name: Ruslan Kolesnikov
       notes:
         - '- Young Libertines (unconfirmed)'
         - '- Teeny Lovers (unconfirmed)'
-    - id: null
+    - column: M
+      id: null
       name: Peter (2010, GF Revenge)
       text: GF Revenge "Wild Party"
       notes:
@@ -15,14 +17,16 @@ split:
       links:
         - https://stashdb.org/scenes/cb9aa0c8-e7e3-4cf5-bbe6-7a896cca46c8
         - https://www.realitykings.com/model/24719/peter
-    - id: null
+    - column: N
+      id: null
       name: Peter (2013, GF Revenge)
       text: GF Revenge "Nice Tits"
       links:
         - https://www.iafd.com/person.rme/id=f683d446-1e08-4a51-8072-98fe5e61620f
         - https://stashdb.org/scenes/806ba412-c496-4422-852b-9100cbb756a6
         - https://www.realitykings.com/model/25823/peter
-    - id: null
+    - column: O
+      id: null
       name: Peter (2015, GF Revenge)
       text: GF Revenge "Oral Selfie"
       notes:

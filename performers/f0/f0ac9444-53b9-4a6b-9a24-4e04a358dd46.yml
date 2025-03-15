@@ -1,13 +1,15 @@
 split:
   name: Maggie
   fragments:
-    - id: null
+    - column: J
+      id: null
       name: Maggie (Teen Core Club)
       text: Try Teens
       links:
         - https://www.iafd.com/person.rme/perfid=maggie_09_russ/gender=f/maggie.htm
         - https://stashdb.org/scenes/669d2543-7dea-4f44-a915-555382dccfaf
-    - id: null
+    - column: L
+      id: null
       name: Maggie (2001, Reality Kings)
       text: Wives in Pantyhose
       links:

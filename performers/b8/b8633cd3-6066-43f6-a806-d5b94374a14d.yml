@@ -1,12 +1,14 @@
 split:
   name: Rebecca
   fragments:
-    - id: null
+    - column: R
+      id: null
       name: Rebecca (BR, 2000-2001)
       text: My Teen Oasis
       links:
         - https://www.iafd.com/person.rme/perfid=rebecca_br/gender=f/rebecca.htm
-    - id: null
+    - column: U
+      id: null
       name: Rebecca
       text: Home Porno Tapes "Fucking upstairs"
       notes:

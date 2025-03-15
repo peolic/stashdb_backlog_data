@@ -1,7 +1,8 @@
 split:
   name: Casper
   fragments:
-    - id: null
+    - column: K
+      id: null
       name: Casper (Gay Revenge, 2012)
       links:
         - https://stashdb.org/scenes/be7dc69e-1a8b-4fd6-a4ac-e228e1162c27

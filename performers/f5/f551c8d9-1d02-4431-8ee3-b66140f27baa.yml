@@ -1,12 +1,14 @@
 split:
   name: Ildico & Beata
   fragments:
-    - id: null
+    - column: H
+      id: null
       name: Ildico (Hungarian, 1999)
       links:
         - https://www.indexxx.com/m/ildico-2
         - https://stashdb.org/scenes/2aeef610-ae5c-459b-8460-0999b1a61092
-    - id: null
+    - column: I
+      id: null
       name: Beata (Hungarian, 1999)
       links:
         - https://www.indexxx.com/m/beata-14

@@ -1,13 +1,15 @@
 split:
   name: July
   fragments:
-    - id: null
+    - column: P
+      id: null
       name: July (1995, Woodman)
       text: Woodman Casting X (2010)
       links:
         - https://www.indexxx.com/m/july-12
         - https://stashdb.org/scenes/b83350cc-e3d9-457e-867b-9e9e1609f683
-    - id: null
+    - column: R
+      id: null
       name: July AKA Stormy (TrueAmateurModels)
       text: Home Porno Tapes "Lesbian weekend"
       notes:
