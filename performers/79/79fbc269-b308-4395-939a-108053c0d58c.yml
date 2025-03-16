@@ -1,12 +1,6 @@
 split:
   name: Peter
   fragments:
-    - column: L
-      id: b2542dde-5ea2-41a1-b998-e24b2eac4995
-      name: Ruslan Kolesnikov
-      notes:
-        - '- Young Libertines (unconfirmed)'
-        - '- Teeny Lovers (unconfirmed)'
     - column: M
       id: null
       name: Peter (2010, GF Revenge)
