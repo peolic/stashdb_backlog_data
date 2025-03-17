@@ -27,3 +27,11 @@ fingerprints:
     hash: f748b7885da27982
     correct_scene_id: e16c49b3-3f4a-4f5f-919c-23435bf6c365
     duration: 462
+  - algorithm: phash
+    hash: 82a27f8a1faa7aa2
+    correct_scene_id: 9af350aa-71b6-42f4-bcec-e1949e6503ce
+    duration: 266
+  - algorithm: phash
+    hash: a54a3fb580686d3e
+    correct_scene_id: a999ad61-81f8-4024-8587-d153628f91c3
+    duration: 282
