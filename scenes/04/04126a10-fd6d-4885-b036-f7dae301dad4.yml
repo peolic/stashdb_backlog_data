@@ -6,10 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: b76188ff-2e27-4622-b700-b00f2767adab
       name: Nasty Nae
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/b3f50c30-bc52-48ae-b934-c874b0b4dcc4
       notes:
         - https://www.iafd.com/person.rme/id=13612e04-818a-4e7e-85f1-0761a33db908
