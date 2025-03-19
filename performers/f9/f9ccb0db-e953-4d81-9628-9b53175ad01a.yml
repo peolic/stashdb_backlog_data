@@ -1,12 +1,5 @@
 split:
   name: Natasha
-  fragments:
-    - column: O
-      id: cf08adb1-c80a-425c-8cf7-4739c544123b
-      name: Natasha (2003, In the VIP)
-      links:
-        - https://www.iafd.com/person.rme/perfid=natasha_rk_03/gender=f/natasha.htm
-        - https://stashdb.org/scenes/9a7392ea-576e-4294-b0b6-93fe730ace18
-        - https://stashdb.org/scenes/eb16ef2e-bd77-437e-b91e-795286d40bae
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
