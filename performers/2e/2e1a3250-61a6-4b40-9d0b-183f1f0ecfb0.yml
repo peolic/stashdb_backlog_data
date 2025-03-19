@@ -1,5 +1,64 @@
 split:
   name: George
-  fragments: []
+  fragments:
+    - column: I
+      id: 5081a76f-adce-4eb4-bf8d-a28412fe4bf5
+      name: George Lee
+      notes:
+        - "- \x02other scenes - already moved\x03"
+        - '- Doghouse Digital "Spermbanks #13"'
+        - '- Doghouse Digital "His First MILF #03"'
+      links:
+        - https://www.iafd.com/person.rme/perfid=georgelee_2015/gender=m/george-lee.htm
+        - https://stashdb.org/scenes/19b2cf17-b5b0-475c-b43c-e0c53a492a96
+        - https://stashdb.org/scenes/02bdfa53-c075-4346-b178-eef4d8ca2158
+    - column: L
+      id: null
+      name: George (2015, 18videoz)
+      links:
+        - https://stashdb.org/images/0829346b-4177-447e-bc07-9ea5ed566719
+        - https://stashdb.org/scenes/51792f8e-c15d-4504-97e3-f558ab4ac47f
+        - https://stashdb.org/scenes/af884425-686a-4613-b9c6-3935843e0baa
+        - https://stashdb.org/scenes/8069e5b8-d59d-46e7-a120-3991fee68ccf
+        - https://stashdb.org/scenes/4807ddb5-7081-49cf-b1f0-99358c41efe4
+        - https://stashdb.org/scenes/dc8e9b2b-ed06-4f13-930c-606254dd1c84
+        - https://stashdb.org/scenes/6f61c1ea-503b-42d0-8d85-40c4b9a23680
+    - column: M
+      id: null
+      name: Andras Molnar
+      text: Mike's Apartment "Sperm Lake"
+      links:
+        - https://www.iafd.com/person.rme/id=6544f3f3-8dc1-4f7c-8173-ccef40b9d7dd
+        - https://stashdb.org/scenes/485bb1b3-5b5f-4894-8633-0ddaf88719b0
+    - column: N
+      id: null
+      name: George[1]
+      notes:
+        - '- Girls Next Door Abused "Lonely girl": Same as Use ''Em Abuse ''Em and Lose ''Em #10, Scene #2'
+        - '- Home Porno Tapes "Fucked my gf like a porn boss": Same as Snatch''d: Stolen Home Videos #23, Scene #1'
+        - scene is hidden on one AdultEmpire entry, but it's screenshots 00000 -> 01880, duration is roughly 31:20
+        - and cut incorrectly on another AdultEmpire entry
+        - name 'George' may not match original
+      links:
+        - https://stashdb.org/scenes/e4582dc6-2d15-4f81-8696-1505b6e29495
+        - https://www.adultdvdempire.com/3694388/use-em-lose-em-vol-10-porn-videos.html#scene_1312976
+        - https://www.iafd.com/title.rme/id=440ca6b5-7fd3-4a48-8bc0-d50161cc5e7e
+        - https://stashdb.org/scenes/17ab4c61-01a7-4136-bfcd-26f24f96d7b6
+        - https://www.adultdvdempire.com/1321713/snatchd-stolen-home-videos-23-porn-videos.html
+        - https://www.adultdvdempire.com/3717334/snatchd-23-porn-videos.html
+        - https://www.iafd.com/title.rme/id=955cbb1d-d7f3-4036-8534-bdf08b9d9e75
+    - column: O
+      id: null
+      name: George[2]
+      text: Home Porno Tapes "Best sex of our marriage"
+      notes:
+        - 'Same as Snatch''d: Stolen Home Videos #5, Scene #?'
+        - missing VOD
+        - name 'George' may not match original
+      links:
+        - https://stashdb.org/scenes/67f2e483-9b77-40d3-af6a-42c4bb098697
+        - https://www.adultdvdmarketplace.com/dvd_view_211686.html
+        - https://www.iafd.com/title.rme/id=c2c4a9d1-76ac-4304-ab49-2d3028501930
   notes:
     - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.
