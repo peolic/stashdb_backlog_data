@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-24.04
 
     env:
+      PYTHONUNBUFFERED: 'TRUE'
       PATH_EXPORTER: backlog
       PATH_DATA: backlog/backlog_data
 
