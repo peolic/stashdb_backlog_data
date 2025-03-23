@@ -1,4 +1,6 @@
 name: Arijna
 urls:
-  - https://www.indexxx.com/m/arijna
   - https://www.iafd.com/person.rme/id=e9d1e548-c9eb-4c93-9fb6-07887448f2b7
+  - https://www.indexxx.com/m/arijna
+urls_notes:
+  - disambiguate
