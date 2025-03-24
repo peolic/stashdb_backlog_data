@@ -1,5 +1,12 @@
 split:
   name: Wayne
-  fragments: []
+  fragments:
+    - column: J
+      id: null
+      name: Wayne (2012, Dare Dorm)
+      text: Dare Dorm "Classy Girl"
+      links:
+        - https://www.iafd.com/person.rme/id=c9207fd7-16f0-493f-928a-4c54aa87ade4
+        - https://stashdb.org/scenes/e66b2c6b-c94f-464e-ada4-2cc2cd932dde
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-03-24)
