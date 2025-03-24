@@ -9,12 +9,9 @@ performers:
       name: Penny Brooks
       appearance: Alice White
   append:
-    - id: null
-      name: Alice White
-      appearance: null
-      disambiguation: '2008'
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=05e2923e-dd7e-4bb2-b060-e7110733b733
+    - id: 3867dd04-ab9e-42a1-8b35-47ef821a6ab9
+      name: Rikku Lockhart
+      appearance: Alice White
       notes:
-        - AKA Rikku Lockhart
+        - https://www.iafd.com/person.rme/id=05e2923e-dd7e-4bb2-b060-e7110733b733
         - https://www.indexxx.com/m/rikku-lockhart
