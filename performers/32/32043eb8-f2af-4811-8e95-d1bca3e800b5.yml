@@ -1,5 +1,14 @@
 split:
   name: Jaden
-  fragments: []
+  fragments:
+    - column: I
+      id: null
+      name: Jaden (Boys First Time)
+      text: possibly all (x3) Boys First Time scenes
+      links:
+        - https://stashdb.org/scenes/85ad8ff3-8f18-46f0-82b1-27f24e35a28e
+        - https://stashdb.org/scenes/632b0b11-3678-405b-934e-e46c798081f1
+        - https://stashdb.org/scenes/6212ee9e-6d86-4db8-99df-1f3b9d5c8320
+  status: single fragment remains
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-03-24)
