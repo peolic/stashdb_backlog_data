@@ -1,15 +1,6 @@
 split:
   name: Mindy
-  fragments:
-    - column: H
-      id: 8455f6e4-e0d5-4586-b772-c532674a44ea
-      name: Mindy (Nubiles)
-      links:
-        - https://www.indexxx.com/m/mindy
-        - https://www.thenude.com/_12001.htm
-        - https://stashdb.org/scenes/5256b18d-bef3-43f6-8fdd-9ba6be3627ff
-        - https://stashdb.org/scenes/c540040d-70f1-41bc-a67c-399b2aba1a12
-        - https://stashdb.org/scenes/b0c307a2-5975-423b-97e0-c0dba2a0bf47
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2022-07-10)
