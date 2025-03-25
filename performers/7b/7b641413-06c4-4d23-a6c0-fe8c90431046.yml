@@ -2,11 +2,11 @@ split:
   name: Suzanne
   fragments:
     - column: H
-      id: null
+      id: 3632df70-f789-459e-a0d7-91952326b5a9
       name: Suzanne (DDF)
       text: DDF Network
       links:
-        - https://www.iafd.com/person.rme/perfid=suzanne_ddf/gender=f/suzanne.htm
+        - https://www.iafd.com/title.rme/id=af13b12e-470e-4687-b6d4-d748a1b73a66
         - https://www.indexxx.com/m/suzanne
         - https://www.thenude.com/Suzanne_9055.htm
         - https://stashdb.org/scenes/41a7d573-8aaf-4639-9008-b5667812e7a7
