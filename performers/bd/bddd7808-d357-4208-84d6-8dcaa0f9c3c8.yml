@@ -1,7 +1,7 @@
 split:
   name: Mad
   fragments:
-    - column: I
+    - column: J
       id: cdc261b0-4876-4361-b507-30495bd41cbc
       name: Mad (2010, Reality Kings)
       notes:

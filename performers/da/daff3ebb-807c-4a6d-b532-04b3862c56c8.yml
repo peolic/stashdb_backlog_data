@@ -1,7 +1,7 @@
 split:
   name: Cody
   fragments:
-    - column: I
+    - column: J
       id: null
       name: Cody (2011, Dare Dorm)
       text: Dare Dorm "Things People Do"
@@ -9,7 +9,7 @@ split:
         - https://www.iafd.com/person.rme/id=ab5804db-f8fe-48a2-a5ae-8b2b3ede7b90
         - https://stashdb.org/scenes/55decc76-f7c8-47d7-b4d4-7c86f81cc84c
         - https://www.realitykings.com/model/20636/cody
-    - column: J
+    - column: K
       id: null
       name: Cody (2015, Dick Dorm)
       text: Dick Dorm "Peek A Cock"

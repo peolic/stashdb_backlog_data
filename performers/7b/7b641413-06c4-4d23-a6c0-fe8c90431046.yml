@@ -1,7 +1,7 @@
 split:
   name: Suzanne
   fragments:
-    - column: H
+    - column: I
       id: 3632df70-f789-459e-a0d7-91952326b5a9
       name: Suzanne (DDF)
       text: DDF Network

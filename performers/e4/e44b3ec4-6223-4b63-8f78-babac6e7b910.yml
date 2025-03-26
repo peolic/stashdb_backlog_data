@@ -1,13 +1,13 @@
 split:
   name: Ally and Nina
   fragments:
-    - column: H
+    - column: I
       id: null
       name: unknown A
       links:
         - https://www.iafd.com/person.rme/id=d078974a-98fb-4f16-8886-20dafbdb137d
         - https://stashdb.org/scenes/0b7ec1fc-4550-4afa-841f-e9b7bff351b6
-    - column: I
+    - column: J
       id: null
       name: unknown B
       links:

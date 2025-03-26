@@ -1,7 +1,7 @@
 split:
   name: Tj
   fragments:
-    - column: H
+    - column: I
       id: null
       name: TJ AKA Ryan
       text: 'at least:'

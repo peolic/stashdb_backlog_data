@@ -1,7 +1,7 @@
 split:
   name: Jean
   fragments:
-    - column: L
+    - column: M
       id: null
       name: Amber (2005, V9) AKA Jen
       notes:

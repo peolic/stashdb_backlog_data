@@ -1,12 +1,12 @@
 split:
   name: Rad
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Rad (Dick Dorm, 2011)
       links:
         - https://stashdb.org/scenes/c0245272-798d-4ac2-b65f-cb8af51dae44
-    - column: I
+    - column: J
       id: null
       name: Rad (Dare Dorm, 2011)
       links:

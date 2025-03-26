@@ -1,7 +1,7 @@
 split:
   name: Mandy
   fragments:
-    - column: Q
+    - column: R
       id: null
       name: Mandy (2004, V9)
       notes:

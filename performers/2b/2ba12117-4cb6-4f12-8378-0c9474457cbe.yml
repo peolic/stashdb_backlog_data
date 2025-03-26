@@ -1,14 +1,14 @@
 split:
   name: Ania And Tania
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Ania (2000, Russian, Woodman)
       text: Fully clothed interview
       links:
         - https://www.indexxx.com/m/ania-9
         - https://stashdb.org/scenes/44d2936c-d497-40f1-8740-a233d899b5e6
-    - column: I
+    - column: J
       id: null
       name: Tania (2000, Russian, Woodman)
       text: Fully clothed interview

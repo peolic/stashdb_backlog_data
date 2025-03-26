@@ -1,7 +1,7 @@
 split:
   name: Angel
   fragments:
-    - column: X
+    - column: Y
       id: null
       name: Angel (2007, V9)
       notes:

@@ -1,7 +1,7 @@
 split:
   name: Luba
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Luba
       text: Woodman Casting X (2009)

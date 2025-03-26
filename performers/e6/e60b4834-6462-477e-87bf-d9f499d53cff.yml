@@ -1,13 +1,13 @@
 split:
   name: Geo
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Geo (Black GFs, 2014)
       links:
         - https://www.iafd.com/person.rme/perfid=geo_rk14/gender=m/geo.htm
         - https://stashdb.org/scenes/e6e5281b-73c2-4e66-aa3b-590b9cfcc9b7
-    - column: I
+    - column: J
       id: null
       name: Geo (Dick Dorm, 2011)
       links:

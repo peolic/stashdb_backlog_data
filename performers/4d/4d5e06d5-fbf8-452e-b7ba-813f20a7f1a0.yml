@@ -1,7 +1,7 @@
 split:
   name: Pablo
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Pablo (2008, Mike's Apartment)
       text: Mike's Apartment

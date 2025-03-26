@@ -1,14 +1,14 @@
 split:
   name: Samantha
   fragments:
-    - column: U
+    - column: V
       id: null
       name: Samantha (2010, In the VIP)
       text: In the VIP
       links:
         - https://www.iafd.com/person.rme/perfid=samantha_rk_10/gender=f/samantha.htm
         - https://stashdb.org/scenes/62ea68c2-0651-4a73-b17b-64da9bd87f07
-    - column: AA
+    - column: AB
       id: null
       name: Samantha (2006, V9)
       notes:

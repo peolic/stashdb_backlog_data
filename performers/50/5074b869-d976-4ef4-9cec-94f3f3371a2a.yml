@@ -1,11 +1,11 @@
 split:
   name: Moe Shmoe
   fragments:
-    - column: H
+    - column: I
       id: null
       name: '[multiple performers]'
       text: 15 scenes (as of 2024-06-03)
-    - column: I
+    - column: J
       id: c94545c7-535c-4415-b392-0b60e129fad8
       name: Tony Eveready
       text: (at least) 1 scene (+1 related)

@@ -1,14 +1,14 @@
 split:
   name: Nico
   fragments:
-    - column: K
+    - column: L
       id: null
       name: Nico (2011, Blowpass)
       text: Throated
       links:
         - https://www.iafd.com/person.rme/perfid=nico_xxx/gender=m/nico.htm
         - https://stashdb.org/scenes/d7990968-3a7f-4f11-9b9a-b559860f6afa
-    - column: O
+    - column: P
       id: null
       name: Nico (2011, Kink)
       text: Bound in Public

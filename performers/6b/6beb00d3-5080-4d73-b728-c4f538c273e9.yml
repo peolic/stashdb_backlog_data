@@ -1,14 +1,14 @@
 split:
   name: Judith And Szuza
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Judit
       links:
         - https://www.iafd.com/person.rme/perfid=judit_hun_99/gender=f/judit.htm
         - https://www.indexxx.com/m/judith-17
         - https://stashdb.org/scenes/600f2cbb-1222-4bf6-a0d0-c22ccbcc9513
-    - column: I
+    - column: J
       id: null
       name: Susza
       links:

@@ -1,14 +1,14 @@
 split:
   name: Oscar
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Oscar (2002, 8th Street Latinas)
       text: 8th Street Latinas "Tag Team Pounding"
       links:
         - https://www.iafd.com/person.rme/perfid=oscar_latin_rk/gender=m/oscar.htm
         - https://stashdb.org/scenes/9fb167d6-d290-4ccf-8435-1c02524b69aa
-    - column: I
+    - column: J
       id: null
       name: Oscar (2003, 8th Street Latinas)
       text: 8th Street Latinas "Caliente Bollo"

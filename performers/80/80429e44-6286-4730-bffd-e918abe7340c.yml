@@ -1,7 +1,7 @@
 split:
   name: Miguel
   fragments:
-    - column: I
+    - column: J
       id: null
       name: Miguel (2006, Bang Bus)
       text: Bang Bus

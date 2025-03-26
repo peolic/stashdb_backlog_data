@@ -1,7 +1,7 @@
 split:
   name: Casper
   fragments:
-    - column: K
+    - column: L
       id: null
       name: Casper (Gay Revenge, 2012)
       links:

@@ -1,7 +1,7 @@
 split:
   name: Luna
   fragments:
-    - column: N
+    - column: O
       id: null
       name: Luna
       text: Woodman Casting X (2009)

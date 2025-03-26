@@ -1,7 +1,7 @@
 split:
   name: Anya
   fragments:
-    - column: R
+    - column: S
       id: null
       name: Anya (Nasty Angels)
       links:

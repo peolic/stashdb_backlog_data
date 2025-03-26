@@ -1,7 +1,7 @@
 split:
   name: Simona
   fragments:
-    - column: N
+    - column: O
       id: null
       name: Simona
       text: XL Girls

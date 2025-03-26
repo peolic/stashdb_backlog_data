@@ -1,7 +1,7 @@
 split:
   name: Flavia
   fragments:
-    - column: H
+    - column: I
       id: 067e6655-3cb5-4f98-8da4-a6ac0dad158d
       name: Flavia Hickman
       text: Mike in Brazil
@@ -9,7 +9,7 @@ split:
         - https://www.iafd.com/person.rme/id=081db52b-220b-4469-969d-56d6609d97c0
         - https://www.indexxx.com/m/flavia-1
         - https://stashdb.org/scenes/7e9f22e3-dc34-4292-a769-b613819d256e
-    - column: I
+    - column: J
       id: null
       name: Flavia (2008, In the VIP)
       text: In the VIP
@@ -17,7 +17,7 @@ split:
         - https://www.iafd.com/person.rme/id=9801c10f-be03-4525-a832-fba26383dd5e
         - https://www.indexxx.com/m/flavia
         - https://stashdb.org/scenes/e583158a-ba65-4702-8c5f-d3d823d444ee
-    - column: J
+    - column: K
       id: d5ea2e93-a52a-459f-892b-419411987493
       name: Nastia Goldis
       text: Fab Sluts

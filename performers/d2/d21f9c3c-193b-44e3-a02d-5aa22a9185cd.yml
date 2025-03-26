@@ -1,7 +1,7 @@
 split:
   name: Alan
   fragments:
-    - column: M
+    - column: N
       id: ba52e43f-39f5-4392-9bb8-e90df9caa391
       name: Luis Big Dog
       notes:

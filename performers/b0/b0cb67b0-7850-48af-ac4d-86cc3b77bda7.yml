@@ -1,7 +1,7 @@
 split:
   name: Ted
   fragments:
-    - column: J
+    - column: K
       id: null
       name: Parker / Ted
       notes:

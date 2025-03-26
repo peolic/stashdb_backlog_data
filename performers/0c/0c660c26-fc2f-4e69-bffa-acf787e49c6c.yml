@@ -1,14 +1,14 @@
 split:
   name: Jamie
   fragments:
-    - column: M
+    - column: N
       id: null
       name: Jamie (2004, Kink)
       text: Men In Pain
       links:
         - https://www.iafd.com/person.rme/perfid=jamie_kink_m/gender=m/jamie.htm
         - https://stashdb.org/scenes/b9124a0e-9f2a-4c15-a2bd-0262e319b0d6
-    - column: Y
+    - column: Z
       id: null
       name: Jamie (2004, Reality Kings)
       text: In the VIP

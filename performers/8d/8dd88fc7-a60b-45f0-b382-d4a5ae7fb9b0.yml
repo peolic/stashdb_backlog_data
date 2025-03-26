@@ -1,7 +1,7 @@
 split:
   name: Marija
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Marija (2008-2009, 21 Sextreme)
       notes:
@@ -15,7 +15,7 @@ split:
         - https://stashdb.org/scenes/57ad8d0c-12c3-4f95-ae1d-a3d172977a2a
         - https://stashdb.org/scenes/6392ee20-1192-4225-806d-152c8197f433
         - https://stashdb.org/scenes/027246fa-5160-4acb-9d12-0c7cba387c45
-    - column: J
+    - column: K
       id: null
       name: Marija (2011, Woodman)
       text: Woodman Casting X (2011)

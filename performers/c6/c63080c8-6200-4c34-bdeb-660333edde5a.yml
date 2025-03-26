@@ -1,7 +1,7 @@
 split:
   name: Safire
   fragments:
-    - column: I
+    - column: J
       id: null
       name: Safire
       text: Motherfucker XXX

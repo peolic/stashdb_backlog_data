@@ -1,7 +1,7 @@
 split:
   name: Mandi
   fragments:
-    - column: J
+    - column: K
       id: null
       name: Mandi (2011, Dare Dorm)
       text: Dare Dorm

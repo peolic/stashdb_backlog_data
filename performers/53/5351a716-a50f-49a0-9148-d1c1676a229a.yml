@@ -1,7 +1,7 @@
 split:
   name: Jewelz
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Jewelz (2010, Bang Bus)
       text: Bang Bus

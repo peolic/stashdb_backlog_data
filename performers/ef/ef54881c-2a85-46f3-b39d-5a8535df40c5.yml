@@ -1,7 +1,7 @@
 split:
   name: Rj (Reality Kings, 2014)
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Rj (2014, Reality Kings)
       notes:
@@ -12,7 +12,7 @@ split:
         - https://stashdb.org/scenes/a5fc22bb-d295-48c3-b1ac-f2ccdf0a33df
         - https://stashdb.org/scenes/6bb4d2eb-bedc-44b7-b484-67bab8f70a0c
         - https://www.realitykings.com/model/25329/rj
-    - column: I
+    - column: J
       id: null
       name: Rj (2010, Dare Dorm)
       text: Dare Dorm "Game On"

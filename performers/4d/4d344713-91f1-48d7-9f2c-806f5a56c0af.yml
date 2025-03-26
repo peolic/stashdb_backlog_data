@@ -1,7 +1,7 @@
 split:
   name: Scott
   fragments:
-    - column: N
+    - column: O
       id: null
       name: Scott (2004, In the VIP)
       text: In the VIP

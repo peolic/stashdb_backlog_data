@@ -1,13 +1,13 @@
 split:
   name: Kinga
   fragments:
-    - column: K
+    - column: L
       id: null
       name: Kinga
       links:
         - https://www.indexxx.com/m/kinga-5
         - https://stashdb.org/scenes/3064c899-9f28-4c39-9c8b-470a0cf1d4fd
-    - column: L
+    - column: M
       id: null
       name: Kinga
       links:

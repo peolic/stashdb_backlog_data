@@ -1,7 +1,7 @@
 split:
   name: Anabel
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Anabel AKA Ilona Gabrielova
       text: Doghouse Digital

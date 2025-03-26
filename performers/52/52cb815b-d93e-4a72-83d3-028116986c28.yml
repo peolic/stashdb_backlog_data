@@ -1,7 +1,7 @@
 split:
   name: Megan
   fragments:
-    - column: R
+    - column: S
       id: null
       name: Megan (2005, Reality Kings)
       text: First Time Auditions
@@ -9,7 +9,7 @@ split:
         - https://www.iafd.com/person.rme/perfid=megan_rk_05/gender=f/megan.htm
         - https://www.indexxx.com/m/megan-6
         - https://stashdb.org/scenes/0804846f-7dca-4ce5-8852-d58f33f698a2
-    - column: S
+    - column: T
       id: null
       name: Megan (1996, Woodman Casting X)
       links:

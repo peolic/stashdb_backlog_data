@@ -1,7 +1,7 @@
 split:
   name: Ouan And Mame
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Quan
       text: 'note: ''Q'', not ''O'''
@@ -9,7 +9,7 @@ split:
         - https://www.iafd.com/person.rme/perfid=quan/gender=f/quan.htm
         - https://www.indexxx.com/m/ouan
         - https://stashdb.org/scenes/4c8fb292-842d-4408-9fc8-eb371f6e4918
-    - column: I
+    - column: J
       id: 0ffce4ff-fbbe-41d3-ae62-7ebf7bacde66
       name: Mame Yong
       links:

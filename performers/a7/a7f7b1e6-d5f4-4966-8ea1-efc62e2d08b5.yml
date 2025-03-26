@@ -1,7 +1,7 @@
 split:
   name: Merlina
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Merlina (2012, White Ghetto)
       notes:

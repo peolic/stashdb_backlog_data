@@ -1,12 +1,12 @@
 split:
   name: Micky
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Micky (TS)
       links:
         - https://www.iafd.com/person.rme/perfid=micky_ts/gender=f/micky.htm
-    - column: I
+    - column: J
       id: null
       name: Milky (2010, Dick Dorm)
       links:

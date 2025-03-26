@@ -1,7 +1,7 @@
 split:
   name: Ethan
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Ethan Blue
       links:

@@ -1,14 +1,14 @@
 split:
   name: Johnny
   fragments:
-    - column: K
+    - column: L
       id: null
       name: Johnny (2003, Tranny Surprise)
       text: Tranny Surprise
       links:
         - https://www.iafd.com/person.rme/perfid=johnny_rk/gender=m/johnny.htm
         - https://stashdb.org/scenes/6fc98db8-51ce-42c6-abb4-1712d42ccd1e
-    - column: L
+    - column: M
       id: null
       name: Johnny
       text: '"Animal Trainer #20"'

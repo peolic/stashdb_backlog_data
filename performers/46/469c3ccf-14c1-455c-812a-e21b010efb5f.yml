@@ -1,7 +1,7 @@
 split:
   name: Kelly Lu
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Kelly Lu (2017)
       text: Colombia Fuck Fest
@@ -9,7 +9,7 @@ split:
         - https://www.iafd.com/person.rme/perfid=kellylu/gender=f/kelly-lu.htm
         - https://stashdb.org/scenes/d551605e-a926-4d80-870a-c68e12cac177
         - https://stashdb.org/scenes/552ad4f2-e0d2-4b0b-8058-d2672b03ddbb
-    - column: I
+    - column: J
       id: null
       name: Kelly Lu (2022, Playboy)
       links:

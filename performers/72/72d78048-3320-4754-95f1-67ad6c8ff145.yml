@@ -1,10 +1,10 @@
 split:
   name: Rado Zuska
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Rado Zuska
-    - column: I
+    - column: J
       id: null
       name: Marek (18videoz)
       links:

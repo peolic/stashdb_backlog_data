@@ -1,11 +1,11 @@
 split:
   name: Bo Shmoe
   fragments:
-    - column: H
+    - column: I
       id: null
       name: '[multiple performers]'
       text: 61 scenes (as of 2024-06-03)
-    - column: I
+    - column: J
       id: 7dd228bc-e0c8-4fda-8d09-71434f54b823
       name: Mr. Marcus
       text: (at least) 1 scene (+1 related)

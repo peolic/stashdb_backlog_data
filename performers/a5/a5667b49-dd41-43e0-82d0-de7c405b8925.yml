@@ -1,7 +1,7 @@
 split:
   name: Eric
   fragments:
-    - column: I
+    - column: J
       id: null
       name: Eric (2020, Bang Bus)
       text: Bang Bus

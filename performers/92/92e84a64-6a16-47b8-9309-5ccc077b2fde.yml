@@ -1,7 +1,7 @@
 split:
   name: Jenny
   fragments:
-    - column: S
+    - column: T
       id: null
       name: Jamie (2005, V9) AKA Jenny
       notes:

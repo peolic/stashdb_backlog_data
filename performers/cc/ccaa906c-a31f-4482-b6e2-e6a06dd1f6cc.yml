@@ -1,7 +1,7 @@
 split:
   name: Rosa
   fragments:
-    - column: L
+    - column: M
       id: null
       name: Rosa
       notes:

@@ -1,7 +1,7 @@
 split:
   name: Hector
   fragments:
-    - column: I
+    - column: J
       id: null
       name: Hector (2003, 8th Street Latinas)
       text: 8th Street Latinas

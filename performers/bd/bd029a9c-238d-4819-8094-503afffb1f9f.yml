@@ -1,7 +1,7 @@
 split:
   name: Izabella
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Izabella (2007, Teen Mega World)
       text: Teen Mega World
@@ -11,7 +11,7 @@ split:
         - https://stashdb.org/scenes/dfcc1761-1f69-4890-b300-8f1299be62dd
         - https://stashdb.org/scenes/211d44fe-c650-4125-bdf9-2d743daefed4
         - https://stashdb.org/scenes/99d198eb-021e-4fed-bd69-eddaf2279981
-    - column: M
+    - column: N
       id: null
       name: Izabella (2011, Woodman)
       text: Woodman Casting X (2011)

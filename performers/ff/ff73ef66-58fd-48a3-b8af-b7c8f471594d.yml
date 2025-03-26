@@ -1,7 +1,7 @@
 split:
   name: Kay
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Kay (2010, GF Revenge)
       text: GF Revenge

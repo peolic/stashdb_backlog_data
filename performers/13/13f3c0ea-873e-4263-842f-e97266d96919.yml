@@ -1,7 +1,7 @@
 split:
   name: Rambo
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Baby Rambo
       text: Japornxxx (Rambo is **not** the alias)
@@ -14,7 +14,7 @@ split:
         - https://stashdb.org/scenes/8aeada08-866e-4fc6-b9e2-59df2825eba3
         - https://stashdb.org/scenes/c4f9e98d-c3ec-4ef2-92ce-b8f46e4ae94d
         - https://stashdb.org/scenes/4d8191a6-0e46-496b-8339-18ada1bd1827
-    - column: I
+    - column: J
       id: null
       name: Rambo (Dick Dorm, 2010)
       text: Dick Dorm "Apples And Balls"

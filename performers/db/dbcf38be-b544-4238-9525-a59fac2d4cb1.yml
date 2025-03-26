@@ -1,7 +1,7 @@
 split:
   name: Chip
   fragments:
-    - column: I
+    - column: J
       id: null
       name: Chip (2003, Tranny Surprise)
       text: 6x Tranny Surprise
@@ -13,7 +13,7 @@ split:
         - https://stashdb.org/scenes/52ff7cd0-e3bf-4ee4-9edc-7a28c98589f1
         - https://stashdb.org/scenes/a1830329-6d82-4730-9d6e-b2b51f08e8d3
         - https://stashdb.org/scenes/4fe519ae-031d-440f-8afe-e407060a7215
-    - column: J
+    - column: K
       id: null
       name: Chip (cuckold)
       notes:

@@ -1,7 +1,7 @@
 split:
   name: Parker
   fragments:
-    - column: H
+    - column: I
       id: null
       name: Parker (2010, Reality Kings)
       text: First Time Auditions
@@ -9,7 +9,7 @@ split:
         - https://www.iafd.com/person.rme/perfid=parker_rk_10/gender=f/parker.htm
         - https://www.indexxx.com/m/parker-2
         - https://stashdb.org/scenes/a1d5b89e-4474-46a2-a37a-75a30f89a928
-    - column: K
+    - column: L
       id: null
       name: Parker (2004, Reality Kings)
       notes:
@@ -20,7 +20,7 @@ split:
         - https://www.indexxx.com/m/parker
         - https://stashdb.org/scenes/c8484773-b375-47e4-a5c6-181493c2ebe2
         - https://stashdb.org/scenes/01b5eb4b-907e-4b29-9aff-ccedd58f8cfd
-    - column: M
+    - column: N
       id: null
       name: Parker / Ted
       notes:
