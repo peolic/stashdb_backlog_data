@@ -1,0 +1,14 @@
+c_studio:
+  - Dane Jones
+  - Sexy Hub
+comments:
+  - https://www.iafd.com/title.rme/id=8767bbff-74cd-4889-a936-036cfbedef08
+performers:
+  remove: []
+  append:
+    - id: a7465d4c-4d85-4d86-ad16-9c42e1a3588c
+      name: Victoria Puppy
+      appearance: null
+    - id: 5d01e10f-953a-419c-b3bb-281c77157d6b
+      name: Steve Q
+      appearance: null
