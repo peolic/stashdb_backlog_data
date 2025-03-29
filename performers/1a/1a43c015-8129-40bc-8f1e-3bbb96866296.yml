@@ -20,9 +20,10 @@ split:
     - column: W
       id: null
       name: Thomas (2011, Dick Dorm)
+      text: Dick Dorm "Centipenis"
       links:
-        - https://www.iafd.com/title.rme/title=centipenis/year=2011/centipenis.htm
         - https://stashdb.org/scenes/7d195000-4005-4819-bf07-3c7f236b27af
+        - https://www.iafd.com/title.rme/id=9ef90ecd-3c1a-4a4b-b938-0739637f6db3
   notes:
     - Mix of multiple performers named Thomas (possibly complete list as of 2022-08-20).
     - Thomas was merged into Thomas Crown, being non-unique.
