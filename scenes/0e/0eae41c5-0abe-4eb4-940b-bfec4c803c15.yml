@@ -1,0 +1,12 @@
+c_studio:
+  - Rub A Teen
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=85ef8fad-ca1e-4978-9fc7-9835a0102527
+performers:
+  remove: []
+  append:
+    - id: 4c837d66-57d2-47d9-8d00-d4b8503f0524
+      name: Alan
+      appearance: null
+      disambiguation: Russia
