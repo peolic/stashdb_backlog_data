@@ -1,0 +1,12 @@
+c_studio:
+  - The Battle For Earth
+  - null
+comments:
+  - tattoos match
+  - remove tag `Missing Performer (Female)`
+performers:
+  remove: []
+  append:
+    - id: 1b51dc81-fafd-4479-9730-43397fcb48b4
+      name: bluberrydreams
+      appearance: Blu
