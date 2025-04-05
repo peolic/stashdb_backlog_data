@@ -1,14 +1,6 @@
 split:
   name: Anastasia
   fragments:
-    - column: X
-      id: 5afbeb4a-4928-4f76-8cbf-4776dfb26d8f
-      name: Anastasia
-      text: Woodman Casting X (2009-11-04)
-      links:
-        - https://www.indexxx.com/m/anastasia-28
-        - https://www.woodmancastingx.com/girl/anastasia_3238
-        - https://stashdb.org/scenes/3eac2871-c490-47d1-885e-803fae4b7b20
     - column: Y
       id: null
       name: Anastasia
