@@ -2,3 +2,28 @@ fingerprints:
   - algorithm: phash
     hash: d72a1d4ee8088f9d
     correct_scene_id: null
+    duration: 886
+  - algorithm: oshash
+    hash: d51778a9318e7dc5
+    correct_scene_id: null
+    duration: 886
+  - algorithm: oshash
+    hash: 7056cede1cf6fd6b
+    correct_scene_id: null
+    duration: 886
+  - algorithm: md5
+    hash: 19125ab37f28c7184ecd1e50b2877c66
+    correct_scene_id: null
+    duration: 886
+  - algorithm: oshash
+    hash: ec271ceb6db606a2
+    correct_scene_id: null
+    duration: 886
+  - algorithm: phash
+    hash: d72a1d6ee8088e9d
+    correct_scene_id: null
+    duration: 886
+  - algorithm: oshash
+    hash: 14b351101bebd2e6
+    correct_scene_id: null
+    duration: 886
