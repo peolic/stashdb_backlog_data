@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 3e37d92d-e245-4186-94ad-8f49edf36567
       name: Ynes
       appearance: null
       disambiguation: 2011, dancingbear.com
-      status: c
-      status_url: https://stashdb.org/edits/0fa69b27-22a3-4e6d-b9d4-5177ae88934b
       notes:
         - https://www.iafd.com/person.rme/id=25a720c7-e093-43f0-aea7-d0c5985bd3db
