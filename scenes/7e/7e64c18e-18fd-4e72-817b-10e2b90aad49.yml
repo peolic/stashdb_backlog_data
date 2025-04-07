@@ -1,0 +1,12 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: CatalinaXXXLady
+      appearance: null
+      disambiguation: 2011, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e595d31c-f3bb-4a11-acb0-fbc300a6aec3
