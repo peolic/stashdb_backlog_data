@@ -1,0 +1,15 @@
+c_studio:
+  - Net Girl
+  - null
+comments:
+  - missing male performer
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Ezekiel
+      appearance: null
+      disambiguation: 2022, Net Girl
+      notes:
+        - https://ocmodeling.com/model/ezekiel/
+        - https://ibb.co/j9mrffcH
