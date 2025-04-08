@@ -5,7 +5,8 @@ split:
       id: cab03e5a-b9f9-4c2f-aba9-e9357dfb6734
       name: Adam Black
       links:
-        - https://www.iafd.com/person.rme/perfid=adamblack/gender=m/adam-black.htm
+        - https://www.iafd.com/person.rme/id=63b605bb-6b78-4b6a-ad24-37b7df3409ce
+  status: queued to be marked as done
   notes:
     - Need to confirm if all of the scenes are of the same performer.
     - Could merge if they are.
