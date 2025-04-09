@@ -4,6 +4,7 @@ split:
     - column: I
       id: 1a43c015-8129-40bc-8f1e-3bbb96866296
       name: Thomas Crown
+      text: most scenes (as Thomas, and other aliases)
       links:
         - https://www.iafd.com/person.rme/perfid=tomas/gender=m/thomas-crown.htm
     - column: R

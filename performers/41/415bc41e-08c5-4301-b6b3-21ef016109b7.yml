@@ -4,6 +4,7 @@ split:
     - column: I
       id: null
       name: Micky (TS)
+      text: most scenes
       links:
         - https://www.iafd.com/person.rme/perfid=micky_ts/gender=f/micky.htm
     - column: J
