@@ -6,11 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: c61e89dd-21af-43de-9206-0ddd7b2b4bff
       name: Jocelyn Jade
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/801a79d3-5826-4c35-8b64-7e9adcf60217
       notes:
         - https://www.iafd.com/person.rme/id=2f4d8b80-1d52-4447-aac0-b953b2be6578
         - https://www.indexxx.com/m/jocelyn-jade
