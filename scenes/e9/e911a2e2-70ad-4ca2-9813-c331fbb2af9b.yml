@@ -1,0 +1,11 @@
+c_studio:
+  - Aunt Judy's XXX
+  - null
+comments:
+  - missing male performer
+performers:
+  remove: []
+  append:
+    - id: f6046b35-a4e1-45ab-8b37-b7c0e16e1634
+      name: Tyler Cruise
+      appearance: null
