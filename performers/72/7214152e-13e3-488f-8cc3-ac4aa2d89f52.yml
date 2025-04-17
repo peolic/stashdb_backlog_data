@@ -1,6 +1,17 @@
 split:
   name: Kyle
-  fragments: []
+  fragments:
+    - column: P
+      id: null
+      name: Kyle
+      notes:
+        - '- Boys First Time "Bone Deep"'
+        - '- Boys First Time "Cock Hard"'
+        - '- Boys First Time "Beef Buddies"'
+      links:
+        - https://stashdb.org/scenes/7f584c41-87fe-4830-b59c-1371eecb22ed
+        - https://stashdb.org/scenes/0bd3794d-ef89-4d74-aa54-4d4371b8c942
+        - https://stashdb.org/scenes/505c7159-094c-425d-8ad2-6dfb04820fe2
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
