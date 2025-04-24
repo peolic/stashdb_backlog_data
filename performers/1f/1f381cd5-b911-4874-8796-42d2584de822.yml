@@ -4,17 +4,17 @@ split:
     - column: Q
       id: null
       name: Nancy (2005, 8th Street Latinas)
-      text: 8th Street Latinas
+      text: 8th Street Latinas "Sister Act Too"
       links:
-        - https://www.iafd.com/person.rme/perfid=nancy_rk_05/gender=f/nancy.htm
+        - https://www.iafd.com/person.rme/id=c2e5653a-6aa4-46e7-9f03-6d063f5e40ef
         - https://www.indexxx.com/m/nancy-3
         - https://stashdb.org/scenes/7ba72349-dc45-4ab4-820e-a6f6a029e656
     - column: S
       id: null
       name: Nancy (2001, Cum Fiesta)
-      text: Cum Fiesta
+      text: Cum Fiesta "Suckoff"
       links:
-        - https://www.iafd.com/person.rme/perfid=nancy_rk_01/gender=f/nancy.htm
+        - https://www.iafd.com/person.rme/id=e935dd79-8077-498f-a481-cd3146bda829
         - https://www.indexxx.com/m/nancy-2
         - https://stashdb.org/scenes/d3c968ab-33c7-497b-987d-edd22b07180a
     - column: X
@@ -26,4 +26,5 @@ split:
         - https://stashdb.org/scenes/87d27b30-d8bc-490f-a9a8-9b1c2f32f7bf
         - https://stashdb.org/scenes/59d42504-e008-49bd-9842-db70ec9f89c6
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-03-25)
+    - Best to move scenes and delete performer, rather than merging or renaming.
