@@ -1,24 +1,5 @@
-c_studio:
-  - Black Ambush
-  - null
-code: '1079'
-comments:
-  - it seems the original submission of the scene provided hashes with a shorter duration. incorrect? shorter cut? BTS video?
-  - add missing performers
-  - https://www.iafd.com/title.rme/id=c006771d-a3b4-4dc8-a96a-d111f39272e9
-duration: '4284'
 fingerprints:
   - algorithm: phash
     hash: f95d6ae654071a15
     correct_scene_id: null
     duration: 2933
-performers:
-  remove: []
-  append:
-    - id: 2360e980-46b7-4862-8ed6-f6b1d193c8c2
-      name: Naomi
-      appearance: null
-      disambiguation: 2018, ExploitedX
-    - id: 151a2081-b5c7-4ce0-8273-15428eab3dc0
-      name: Jovan Jordan
-      appearance: null
