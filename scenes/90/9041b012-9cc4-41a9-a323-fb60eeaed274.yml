@@ -9,5 +9,5 @@ fingerprints:
     duration: 5581
   - algorithm: oshash
     hash: 5e213f87a30f5000
-    correct_scene_id: null
+    correct_scene_id: e3cce236-4d30-4f0d-8a74-80cef796adaa
     duration: 5582
