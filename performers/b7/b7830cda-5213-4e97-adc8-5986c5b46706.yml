@@ -1,14 +1,6 @@
 split:
   name: Marina
   fragments:
-    - column: K
-      id: d871655b-d4c1-49e3-8ffa-d04931d07c7f
-      name: Marina (2005, 8th Street Latinas)
-      text: 8th Street Latinas
-      links:
-        - https://www.iafd.com/person.rme/perfid=marina_rk_05/gender=f/marina.htm
-        - https://www.indexxx.com/m/marina-4
-        - https://stashdb.org/scenes/4d957b72-4977-4c2c-9f00-e2efc85957fb
     - column: O
       id: null
       name: Marina (2010, Woodman)
