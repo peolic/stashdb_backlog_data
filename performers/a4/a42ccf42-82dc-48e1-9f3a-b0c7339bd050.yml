@@ -1,19 +1,12 @@
 split:
   name: Tom
   fragments:
-    - column: K
-      id: null
-      name: Tom (2014, Dare Dorm)
-      text: Dare Dorm "Party Time"
-      links:
-        - https://www.iafd.com/person.rme/id=533f8730-bb4e-4cac-bfa1-400da826d28f
-        - https://stashdb.org/scenes/a686054a-6422-4465-9fca-d5e39abe2ac9
-        - https://www.realitykings.com/model/25864/tom
     - column: P
       id: null
       name: Tom (2015, 18videoz)
       text: Sell Your GF
       links:
+        - https://stashdb.org/images/53b3fac5-9d47-4cf0-bb43-f619cf7d5154
         - https://stashdb.org/scenes/81254515-7d44-47a5-955a-09846ad33e2a
         - https://stashdb.org/scenes/450e1af6-786f-4432-b42e-be2005c76c26
     - column: R
