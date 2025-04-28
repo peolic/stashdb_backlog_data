@@ -1,14 +1,6 @@
 split:
   name: Tom
   fragments:
-    - column: J
-      id: null
-      name: Tom (2009, Dare Dorm)
-      text: Dare Dorm "My Lucky Day"
-      links:
-        - https://www.iafd.com/person.rme/id=7f030894-c3bd-476d-9d11-e3852d305802
-        - https://stashdb.org/scenes/2e604085-8786-43ce-bddd-a2b90e900663
-        - https://www.realitykings.com/model/25974/tom
     - column: K
       id: null
       name: Tom (2014, Dare Dorm)
