@@ -12,7 +12,9 @@ split:
     - column: O
       id: null
       name: Diamond (Teen Core Club)
+      text: Young Throats
       links:
+        - https://www.iafd.com/person.rme/id=6da1cc37-c3a6-4b8a-9a2f-accd356735d0
         - https://stashdb.org/scenes/de1c873a-d5f1-4cc2-a9d6-154234741d09
     - column: P
       id: null
@@ -25,3 +27,4 @@ split:
         - https://stashdb.org/scenes/c3675dad-4d10-40b2-8b2e-4f8df3566af2
   notes:
     - Mix of multiple performers (complete list as of 2022-07-17)
+    - Best to move scenes and delete performer, rather than merging or renaming.
