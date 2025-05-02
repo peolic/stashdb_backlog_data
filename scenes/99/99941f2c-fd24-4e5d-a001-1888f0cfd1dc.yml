@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - 'Based on the description: This is only a photo album and not a scene, and the current performers are incorrect.'
+  - https://www.porngals4.com/abbey-i-miss-you-baby-gf-revenge-67811/
+performers:
+  remove:
+    - id: 8e8d8721-6eb5-470b-9614-0fc1d4c059cd
+      name: Maria
+      appearance: null
+    - id: 9fe1175d-83f8-408b-9c69-b2145544c5ff
+      name: Camila
+      appearance: null
+  append:
+    - id: d599562f-714f-4ebb-93c3-85ba09a22143
+      name: Abbey
+      appearance: null
+      disambiguation: 2011, gfrevenge.com
