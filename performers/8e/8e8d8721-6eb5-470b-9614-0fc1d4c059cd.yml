@@ -1,18 +1,6 @@
 split:
   name: Maria
   fragments:
-    - column: AB
-      id: 0dbe44ea-a8e0-497f-bb7b-d670c6a73808
-      name: Nikki Sun
-      text: Wicked
-      notes:
-        - Seems to be Nikki Sun in a black wig.
-      links:
-        - https://www.iafd.com/person.rme/perfid=nikkisun/gender=f/nikki-sun.htm
-        - https://www.indexxx.com/m/nikki-sun
-        - https://stashdb.org/scenes/190fe407-1e0a-4c87-a00c-8bd1dd224f9e
-        - https://www.iafd.com/title.rme/id=f66c83a5-b525-4b82-a9ca-91d049bfb338
-        - https://ibb.co/B4bjbsH
     - column: AD
       id: c6c00183-4be8-48dc-92cc-c305f06143d8
       name: Karinne (2004, Captain Stabbin)
