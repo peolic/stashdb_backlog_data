@@ -1,17 +1,6 @@
 split:
   name: Anabel
-  fragments:
-    - column: I
-      id: e8b2479d-21b5-4a5a-895c-1c20be90add6
-      name: Anabel AKA Ilona Gabrielova
-      text: Doghouse Digital
-      links:
-        - https://www.iafd.com/person.rme/perfid=diana_mat_10/gender=f/diana.htm
-        - https://www.indexxx.com/m/radka-11
-        - https://stashdb.org/scenes/31b606c3-9e8f-45e1-978c-1797cede47bc
-        - https://stashdb.org/scenes/525fa671-4785-4d5a-a5b0-bda3cfa62891
-        - https://stashdb.org/scenes/5c81d93c-efec-4fc8-84be-de0fbdc04d17
-        - https://stashdb.org/scenes/524de252-1bdc-4557-8ee4-d047832f7dbd
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-26)
