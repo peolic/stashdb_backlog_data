@@ -1,0 +1,13 @@
+c_studio:
+  - Public Agent
+  - null
+comments:
+  - duration based on fingerprints
+  - https://www.iafd.com/title.rme/id=acadc262-6f5e-498b-9ea3-62c343cf717b
+duration: '1938'
+performers:
+  remove: []
+  append:
+    - id: c7e97049-1b98-441e-9f01-097e9915621f
+      name: Coreline Blue
+      appearance: Tess Verax

@@ -15,3 +15,8 @@ performers:
       notes:
         - https://ocmodeling.com/model/ezekiel/
         - https://ibb.co/j9mrffcH
+  update:
+    - id: a0d89267-0e9d-4b19-9873-bf31b0155881
+      name: Bella Luna
+      appearance: Bella
+      old_appearance: null
