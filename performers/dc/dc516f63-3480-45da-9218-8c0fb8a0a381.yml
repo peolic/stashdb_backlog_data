@@ -1,13 +1,6 @@
 split:
   name: Tatiana
   fragments:
-    - column: S
-      id: 1c50e0f4-2bf7-406c-9502-5c86ccaa4b26
-      name: Tatiana D (Brazilian)
-      text: Silverstone DVD
-      links:
-        - https://www.iafd.com/person.rme/perfid=tatiana_br_03/gender=f/tatiana.htm
-        - https://stashdb.org/scenes/b6d8043d-c576-4262-acb8-a5fdec70bc10
     - column: T
       id: null
       name: Tatiana (2011, Woodman)
