@@ -1,13 +1,21 @@
 c_studio:
   - Hot College Fucks
   - null
+comments:
+  - add missing performer (tattoos match)
+  - set aliases from studio
 performers:
   remove: []
   append:
     - id: 090f6b46-fd8b-46d7-a5db-ca4bb5ce0e25
       name: Ben
       appearance: null
-      disambiguation: Corbin Fisher 2024, A.K.A. Jake Combs
+      disambiguation: Corbin Fisher 2024; A.K.A. Jake Combs
+      notes:
+        - https://www.iafd.com/person.rme/id=3c153a1f-c080-4224-9297-571ef4ed6dd4
+        - https://www.waybig.com/pornstars/jake-combs-10274.html
+        - https://www.corbinfisher.com/tour/models/Ben-4.html
+        - additional tattoos as Ben (in 2024), since Jake Combs (in 2021)
   update:
     - id: 91c1afbf-7507-435d-ae50-68d1709cca16
       name: Melody Nigth
