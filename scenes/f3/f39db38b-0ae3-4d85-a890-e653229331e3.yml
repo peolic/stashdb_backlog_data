@@ -1,0 +1,15 @@
+c_studio:
+  - Nookies Originals
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Enzo East
+      appearance: null
+      status: new
+      status_url: https://www.101modeling.com/site/talent/view.php?t_id=1720&pageType=profile
+      notes:
+        - https://x.com/EnzoEasttt
+        - https://onlyfans.com/enzoeastttvip
+        - https://linktr.ee/EnzoEast
