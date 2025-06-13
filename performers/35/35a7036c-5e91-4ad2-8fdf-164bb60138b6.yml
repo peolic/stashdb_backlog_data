@@ -1,13 +1,6 @@
 split:
   name: David
   fragments:
-    - column: L
-      id: 297f8b21-8138-46dd-969c-ffabbe238edc
-      name: Oscar (2008, Sean Cody) AKA David (2007, Bang Bus)
-      text: Bang Bus (2007)
-      links:
-        - https://www.iafd.com/person.rme/perfid=oscar_sc_2/gender=m/oscar.htm
-        - https://stashdb.org/scenes/5ddc057a-a1a0-46e8-9cb9-9d21f5b02e4c
     - column: M
       id: null
       name: David (2002, Butt Machine Boys)
