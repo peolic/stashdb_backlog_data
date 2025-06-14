@@ -1,9 +1,9 @@
 split:
-  name: Oksy
+  name: Oksy (Sineplex, 2009)
   fragments:
     - column: I
       id: null
-      name: Margo AKA Oksy
+      name: Margo AKA Oksy (Sineplex, 2009)
       text: most scenes
       links:
         - https://www.iafd.com/person.rme/perfid=margo_rus_10/gender=f/margo.htm

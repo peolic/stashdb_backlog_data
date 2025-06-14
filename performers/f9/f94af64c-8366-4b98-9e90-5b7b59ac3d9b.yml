@@ -13,15 +13,6 @@ split:
         - https://stashdb.org/scenes/d7bd34e0-cce8-4ce2-9f75-bf360d1b6aa9
         - https://stashdb.org/scenes/6e0ed6f2-54bd-4f0b-ab36-21ccec219a16
         - https://stashdb.org/scenes/0c21ae26-917f-4cea-b1a6-1490285e1f50
-    - column: K
-      id: 20ccb14c-6dd0-4f08-94a4-9185f9a3fcfa
-      name: Phoenix (2005, Tugjobs)
-      text: Tugjobs "Phoenix"
-      links:
-        - https://www.iafd.com/person.rme/id=8bc21a72-0d03-46b1-8b44-3d9d49feb827
-        - https://www.indexxx.com/m/phoenix
-        - https://stashdb.org/scenes/40ec2bee-db6e-4d23-9ed1-45dba31da054
-        - https://www.iafd.com/person.rme/perfid=phoenix_bb_05/gender=f/phoenix.htm
     - column: M
       id: null
       name: Phoenix (2007, Boys First Time)
