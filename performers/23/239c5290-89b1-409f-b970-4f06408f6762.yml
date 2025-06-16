@@ -6,8 +6,9 @@ split:
       name: Eliza (21 Sextreme)
       text: Zoliboy
       links:
-        - https://www.iafd.com/person.rme/perfid=eliza_eu_09/gender=f/eliza.htm
+        - https://www.iafd.com/person.rme/id=29f98c2a-2be1-472c-95ce-f767c87fae11
         - https://www.indexxx.com/m/eliza-3
+        - https://www.egafd.com/actresses/details.php/id/E00684
         - https://images01-openlife.gammacdn.com/actors/39596/39596_500x750.jpg
         - https://stashdb.org/scenes/6c159079-9d77-46fe-bca7-5178049c81cd
         - https://stashdb.org/scenes/4a9dfdfd-1375-40ae-962f-c83cda9984fa
@@ -31,3 +32,4 @@ split:
         - https://stashdb.org/scenes/3a4ce9b1-afb8-4d11-8e81-31808a1827ec
   notes:
     - Mix of multiple performers (complete list as of 2022-07-27)
+    - Best to move scenes and delete performer, rather than merging or renaming.
