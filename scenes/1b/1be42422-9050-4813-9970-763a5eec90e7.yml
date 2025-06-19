@@ -13,7 +13,7 @@ fingerprints:
     duration: 1448
   - algorithm: phash
     hash: 83b363d8d7f13803
-    correct_scene_id: null
+    correct_scene_id: a2d7d4b7-42c4-4ec9-8a48-a29c06873cbb
     duration: 3031
   - algorithm: phash
     hash: e39c0ce366ac9f81
