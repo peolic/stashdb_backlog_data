@@ -1,18 +1,6 @@
 split:
   name: Eliza
   fragments:
-    - column: I
-      id: 0b26fd5d-2903-4180-ad89-a412adb08d0d
-      name: Eliza (21 Sextreme)
-      text: Zoliboy
-      links:
-        - https://www.iafd.com/person.rme/id=29f98c2a-2be1-472c-95ce-f767c87fae11
-        - https://www.indexxx.com/m/eliza-3
-        - https://www.egafd.com/actresses/details.php/id/E00684
-        - https://images01-openlife.gammacdn.com/actors/39596/39596_500x750.jpg
-        - https://stashdb.org/scenes/6c159079-9d77-46fe-bca7-5178049c81cd
-        - https://stashdb.org/scenes/4a9dfdfd-1375-40ae-962f-c83cda9984fa
-        - https://stashdb.org/scenes/6212c3a6-d4f2-4b7f-a4ea-de424b717288
     - column: J
       id: null
       name: Eliza (2012-2013, Burning Angel)
