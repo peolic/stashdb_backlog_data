@@ -2,5 +2,5 @@ duplicate_of: 07582c62-4ff9-443f-b10e-e9f845957908
 fingerprints:
   - algorithm: phash
     hash: ea0524acfe86978e
-    correct_scene_id: null
+    correct_scene_id: 76d2d98b-486b-432d-ab44-dca48fd9135e
     duration: 528
