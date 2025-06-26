@@ -6,9 +6,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: 43e23e94-f6d5-49b7-8eaa-5bf9fad10fcf
-      name: Jessica Fuentes
-      appearance: null
     - id: null
       name: Angela Rodriguez
       appearance: null
