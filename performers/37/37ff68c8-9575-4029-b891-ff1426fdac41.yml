@@ -3,19 +3,12 @@ split:
   fragments:
     - column: J
       id: null
-      name: Savanah (2005, Reality Kings)
+      name: Savanah (2005, We Live Together)
       text: We Live Together
       links:
-        - https://www.iafd.com/person.rme/perfid=savanah_rk05/gender=f/savanah.htm
+        - https://www.iafd.com/person.rme/id=eb29f27a-b109-4568-8a15-a194b34f72ef
         - https://www.indexxx.com/m/savanah
         - https://stashdb.org/scenes/6306e8b1-42eb-42ca-80b0-dec28eff3d3a
-    - column: K
-      id: 455f855c-9068-4a5b-ade4-66ee95c096bc
-      name: Savannah Rain
-      text: Peter North
-      links:
-        - https://www.iafd.com/person.rme/id=509ff934-cbb2-42d5-8d20-349d935b5020
-        - https://www.indexxx.com/m/sherri
-        - https://stashdb.org/scenes/56516697-2f53-4c61-b138-930c1ef2738e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-01-12)

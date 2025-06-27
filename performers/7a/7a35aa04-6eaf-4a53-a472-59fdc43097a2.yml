@@ -1,17 +1,7 @@
 split:
   name: Miranda
-  fragments:
-    - column: Q
-      id: 787c4464-0f0c-40ac-ae1b-4c86b49fd892
-      name: Paula (2012, Home Porno Tapes)
-      text: 'Home Porno Tapes "Sex video proof": Same as Snatch''d: Stolen Home Videos #21, Scene #2'
-      links:
-        - https://www.iafd.com/person.rme/id=6a9ff632-56fd-4611-a191-f17f9fb652a9
-        - https://cdn.stashdb.org/images/9a/3f/9a3f0a33-78bc-4e70-87e0-5f2081182b2c
-        - https://stashdb.org/scenes/25d05fc0-faca-4823-8465-5c4683154937
-        - https://www.adultdvdempire.com/3724101/snatchd-21-porn-videos.html#scene_1188350
-        - https://www.iafd.com/title.rme/id=efb0c491-9173-4831-a721-e7ba1115e8e3
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
