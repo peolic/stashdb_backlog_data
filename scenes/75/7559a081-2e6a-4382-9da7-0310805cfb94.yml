@@ -1,0 +1,13 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'Scene is from Boys First Time 16: https://www.iafd.com/title.rme/id=14c659a9-b64b-4d85-811f-aac5f70f93e6, CJ is not credited by
+    IAFD'
+performers:
+  remove: []
+  append:
+    - id: null
+      name: CJ
+      appearance: null
+      status: new
