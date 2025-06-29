@@ -1,5 +1,17 @@
 split:
   name: Brent
-  fragments: []
+  fragments:
+    - column: L
+      id: null
+      name: Brett (Boys First Time, 2007)
+      notes:
+        - Scene is from Boys First Time 2, credited as Brett & Chad
+      links:
+        - https://stashdb.org/scenes/4e365164-1665-43dc-ba0e-e2c8336476dd
+    - column: M
+      id: null
+      name: Brent (Boys First Time, 2006)
+      links:
+        - https://stashdb.org/scenes/15edfee7-c0c9-407d-a9bf-8205032c04fa
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-06-29)

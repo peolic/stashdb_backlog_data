@@ -11,5 +11,15 @@ split:
       links:
         - https://stashdb.org/scenes/472738be-643c-486c-aee4-66caecf8ce49
         - https://www.iafd.com/title.rme/id=0f2e5d3b-8b92-4f9a-be69-8ef33ae1ec90
+    - column: N
+      id: null
+      name: Bruce (Dick Dorm, 2011)
+      links:
+        - https://stashdb.org/scenes/b26eaee1-8573-43e1-970f-5a9039bb031d
+    - column: O
+      id: null
+      name: Bruce (Papi, 2007)
+      links:
+        - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-06-06)
