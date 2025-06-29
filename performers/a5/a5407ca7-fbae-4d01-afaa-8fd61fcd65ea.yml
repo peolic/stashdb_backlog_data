@@ -29,12 +29,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=paul_rk_08/gender=m/paul.htm
         - https://stashdb.org/scenes/1834bb27-89fb-46dc-bcf7-965b03bbf21b
-    - column: M
-      id: 32d09b23-b020-4aaf-a5f2-41e7fd0f9d69
-      name: Paul (2005, BangBros)
-      text: BangBros
-      links:
-        - https://www.iafd.com/person.rme/perfid=paul_bb/gender=m/paul.htm
     - column: O
       id: null
       name: Paul (2011, Dare Dorm)
