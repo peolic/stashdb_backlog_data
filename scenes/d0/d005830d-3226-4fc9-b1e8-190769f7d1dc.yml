@@ -1,0 +1,13 @@
+c_studio:
+  - Doghouse Digital
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=97c939f4-2862-4181-a37c-3cdc473c9e70
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Xavier Silver
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=83208079-b3bf-4bf2-9b41-f14cdb6b53ae
