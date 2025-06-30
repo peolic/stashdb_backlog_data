@@ -17,7 +17,7 @@ split:
         - https://stashdb.org/scenes/d682bfd3-46dd-48d0-9dc7-7a7a17bed1e8
     - column: P
       id: null
-      name: Draike (2014, Boys First Time)
+      name: Drake (Boys First Time, 2014)
       text: Boys First Time "My Boyfriend" - incorrect alias
       links:
         - https://www.iafd.com/person.rme/id=bee8f4a6-5075-4ea7-a2bd-dd5d86b27ddd
@@ -45,6 +45,24 @@ split:
         - https://vod.aebn.com/straight/movies/98162/snatch-d-33#scene-839092
         - https://www.iafd.com/title.rme/id=564b0d81-cd28-4142-b18a-def0dd1b6b5d
         - https://stashdb.org/images/b09b51c1-a877-4576-93c8-4abd9b21d592
+    - column: S
+      id: null
+      name: Jake (Boys First Time, 2013)
+      links:
+        - https://stashdb.org/scenes/9750fe61-f4ab-43b2-8659-ea79c12fcb81
+        - https://www.themoviedb.org/person/4995821-jake
+    - column: T
+      id: null
+      name: Jake (Boys First Time, 2012)
+      links:
+        - https://www.themoviedb.org/person/4468929-jake
+        - https://stashdb.org/scenes/8c1c830c-cdd5-4c73-827f-ed04b9e043f2
+    - column: U
+      id: null
+      name: Jake (Dick Dorm, 2012)
+      text: possibly the same as Jake (Boys First Time, 2012)
+      links:
+        - https://stashdb.org/scenes/5e8dedf2-4949-4e4d-85cd-e0a19669e880
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
