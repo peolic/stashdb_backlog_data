@@ -11,8 +11,9 @@ split:
     - column: N
       id: null
       name: Dennis (Boys First Time, 2013)
+      text: Boys First Time "Riding Jake"
       links:
-        - https://www.themoviedb.org/person/4995818-dennis
         - https://stashdb.org/scenes/9750fe61-f4ab-43b2-8659-ea79c12fcb81
+        - https://www.themoviedb.org/person/4995818-dennis
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)

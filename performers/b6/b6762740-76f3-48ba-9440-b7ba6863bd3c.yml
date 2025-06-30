@@ -48,19 +48,23 @@ split:
     - column: S
       id: null
       name: Jake (Boys First Time, 2013)
+      text: Boys First Time "Riding Jake"
       links:
         - https://stashdb.org/scenes/9750fe61-f4ab-43b2-8659-ea79c12fcb81
         - https://www.themoviedb.org/person/4995821-jake
     - column: T
       id: null
       name: Jake (Boys First Time, 2012)
+      text: Boys First Time "The Man Muscle"
       links:
-        - https://www.themoviedb.org/person/4468929-jake
         - https://stashdb.org/scenes/8c1c830c-cdd5-4c73-827f-ed04b9e043f2
+        - https://www.themoviedb.org/person/4468929-jake
     - column: U
       id: null
       name: Jake (Dick Dorm, 2012)
       text: possibly the same as Jake (Boys First Time, 2012)
+      notes:
+        - '- Dick Dorm "Its Not Gay"'
       links:
         - https://stashdb.org/scenes/5e8dedf2-4949-4e4d-85cd-e0a19669e880
   notes:
