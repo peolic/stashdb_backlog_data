@@ -1,6 +1,16 @@
 split:
   name: Joel
-  fragments: []
+  fragments:
+    - column: M
+      id: null
+      name: Joel (Gay Revenge, 2012)
+      links:
+        - https://stashdb.org/scenes/73eb4c6b-9bf1-4e5c-a4f5-cce4e2d60d96
+    - column: N
+      id: null
+      name: Joel (Boys First Time, 2011)
+      links:
+        - https://stashdb.org/scenes/fb4acd32-6471-422b-b499-6b57cd469f3f
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

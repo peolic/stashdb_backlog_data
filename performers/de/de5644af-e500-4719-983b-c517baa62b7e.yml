@@ -1,5 +1,5 @@
 split:
-  name: Joey
+  name: Joey (Reality King)
   fragments:
     - column: K
       id: null
@@ -24,7 +24,7 @@ split:
         - https://stashdb.org/scenes/0d7b4771-5b0a-4160-94e9-c24bf6bd261d
         - https://www.realitykings.com/model/26243/joey
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-06-30)
     - Performer was disambiguated while being non-unique.
   links:
     - https://stashdb.org/edits/46b3308c-513d-4695-996f-197d625ecf8a
