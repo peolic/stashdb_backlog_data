@@ -4,10 +4,13 @@ split:
     - column: I
       id: null
       name: Alejandro (2012, Dare Dorm)
-      text: Dare Dorm "Classy Girl"
+      notes:
+        - '- Dare Dorm "Classy Girl"'
+        - '- ??? Dick Dorm "Gonzo Mask" (linked via Reality Kings ID)'
       links:
         - https://www.iafd.com/person.rme/id=b236297c-6a63-4a3a-ba9f-06694bdea001
         - https://stashdb.org/scenes/e66b2c6b-c94f-464e-ada4-2cc2cd932dde
+        - https://stashdb.org/scenes/aec746b9-b79f-4a10-b994-e512a44c16b7
     - column: J
       id: null
       name: Christopher Alexander
