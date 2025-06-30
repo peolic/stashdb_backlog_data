@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: a0432b43-d526-484e-93be-77b4a88e03ba
+      name: Danny
+      appearance: null
+  append:
+    - id: null
+      name: Danny Tucan
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7af1a5a1-27c4-4eca-9351-dcd00b8ae38e

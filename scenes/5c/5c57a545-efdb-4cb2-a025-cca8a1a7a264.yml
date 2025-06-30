@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'Confirmed by IAFD: https://www.iafd.com/title.rme/id=377ed2ae-b606-4769-a7ea-d601ade01069'
+performers:
+  remove:
+    - id: e5b532d6-c592-482c-9bd3-86504e9e5972
+      name: Clint
+      appearance: null
+    - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
+      name: Michael
+      appearance: null
+  append:
+    - id: null
+      name: Clint Radford
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=529d5fd4-3150-47f3-919b-b66b05aefbd7
+    - id: null
+      name: Michael Pearce
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=31e06922-09e7-4799-98ca-d958feedbd04
