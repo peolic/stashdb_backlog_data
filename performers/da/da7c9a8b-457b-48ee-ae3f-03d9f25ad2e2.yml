@@ -11,25 +11,30 @@ split:
     - column: Q
       id: null
       name: Jesse (Dare Dorm, 2012)
+      text: Dare Dorm "A Night To Remember"
       links:
         - https://www.iafd.com/person.rme/id=9f3f072e-e883-44b5-a879-6dc348b360bc
-        - https://www.realitykings.com/model/26068/jesse
         - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
+        - https://www.realitykings.com/model/26068/jesse
     - column: R
       id: null
       name: Jesse (Dare Dorm, 2010)
+      text: Dare Dorm "Foolish Things"
       links:
-        - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
         - https://www.iafd.com/person.rme/id=d4880ed1-616d-4e7f-9710-667c4dc5c562
+        - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
     - column: S
       id: null
       name: Jesse (Boys First Time, 2009)
-      text: scene is in Boys First Time 14
+      text: Boys First Time "Double Dongs"
+      notes:
+        - scene is in Boys First Time 14
       links:
         - https://stashdb.org/scenes/ab77fa88-e349-4c93-a23b-4510e23e5872
     - column: T
       id: null
       name: Jesse (Boys First Time, 2011)
+      text: Boys First Time "Hot Body"
       links:
         - https://stashdb.org/scenes/250824b7-cb46-4b44-893a-ae8c6006abf5
   notes:

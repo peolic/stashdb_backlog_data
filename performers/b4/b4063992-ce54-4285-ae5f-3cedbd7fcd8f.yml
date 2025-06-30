@@ -42,7 +42,9 @@ split:
     - column: T
       id: null
       name: James (Boys First Time, 2007)
-      text: scene is present in Boys First Time 3 DVD
+      text: Boys First Time "Willie Wanker"
+      notes:
+        - scene is present in Boys First Time 3 DVD
       links:
         - https://stashdb.org/scenes/e02a059d-629d-4999-926f-17356d77064f
   notes:

@@ -26,6 +26,7 @@ split:
     - column: N
       id: null
       name: Jean (Papi, 2007)
+      text: Papi "Banana In Tailpipe"
       links:
         - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
         - https://www.iafd.com/title.rme/id=3954d30e-8f0e-4147-85b4-40fa7f21729a
