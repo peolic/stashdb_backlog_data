@@ -4,6 +4,7 @@ split:
     - column: K
       id: null
       name: Luke (Male Reality, 2015)
+      text: 'Male Reality "Gaykakke #02 Scene 2"'
       links:
         - https://www.iafd.com/person.rme/id=b8ef573d-ea71-4523-afaa-0689be4bf1e2
         - https://stashdb.org/scenes/bcc84a66-caa2-45bf-9c41-a3d5ff22d658
