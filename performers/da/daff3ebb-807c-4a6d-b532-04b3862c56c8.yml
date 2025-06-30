@@ -4,12 +4,14 @@ split:
     - column: J
       id: null
       name: Cody (2011, Dare Dorm)
-      text: Dare Dorm "Things People Do"
+      notes:
+        - '- Dare Dorm "Things People Do"'
+        - '- Dick Dorm "Glow Dicks"'
       links:
         - https://www.iafd.com/person.rme/id=ab5804db-f8fe-48a2-a5ae-8b2b3ede7b90
         - https://stashdb.org/scenes/55decc76-f7c8-47d7-b4d4-7c86f81cc84c
-        - https://www.realitykings.com/model/20636/cody
         - https://stashdb.org/scenes/63ed6e5e-2979-468f-bdc8-add91e026272
+        - https://www.realitykings.com/model/20636/cody
     - column: K
       id: null
       name: Cody (2015, Dick Dorm)

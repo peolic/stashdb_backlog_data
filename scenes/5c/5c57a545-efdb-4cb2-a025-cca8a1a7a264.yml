@@ -2,7 +2,8 @@ c_studio:
   - Boys First Time
   - null
 comments:
-  - 'Confirmed by IAFD: https://www.iafd.com/title.rme/id=377ed2ae-b606-4769-a7ea-d601ade01069'
+  - Confirmed by IAFD
+  - https://www.iafd.com/title.rme/id=377ed2ae-b606-4769-a7ea-d601ade01069
 performers:
   remove:
     - id: e5b532d6-c592-482c-9bd3-86504e9e5972

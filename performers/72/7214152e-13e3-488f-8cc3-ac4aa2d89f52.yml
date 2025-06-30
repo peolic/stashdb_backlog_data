@@ -75,13 +75,6 @@ split:
       links:
         - https://stashdb.org/scenes/8c9bd4b1-49ce-418c-882f-b696e0ca168e
         - https://www.iafd.com/title.rme/id=55d96a3a-006f-432d-aed1-0dd2fbdcc753
-    - column: X
-      id: null
-      name: '[todo]'
-      text: Dick Dorm "Head Games"
-      links:
-        - https://stashdb.org/scenes/c4ebf512-a069-467b-a2ef-35cb4b9218ad
-        - https://www.iafd.com/title.rme/id=aa3df809-1c1a-468e-b31d-130a0b229d0e
   notes:
     - Mix of multiple performers (complete list as of 2025-04-17)
     - Best to move scenes and delete performer, rather than merging or renaming.

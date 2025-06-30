@@ -22,9 +22,10 @@ split:
     - column: L
       id: null
       name: Danny Tucan
+      text: Boys First Time "Doing Danny"
       links:
         - https://www.iafd.com/person.rme/id=7af1a5a1-27c4-4eca-9351-dcd00b8ae38e
-        - https://www.themoviedb.org/person/3592925-danny-tucan
         - https://stashdb.org/scenes/6cd56462-d1dc-44b5-b3a6-732cc6e563d2
+        - https://www.themoviedb.org/person/3592925-danny-tucan
   notes:
     - Mix of multiple performers (partial list)
