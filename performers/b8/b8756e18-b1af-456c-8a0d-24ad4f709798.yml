@@ -1,5 +1,11 @@
 split:
   name: Luke
-  fragments: []
+  fragments:
+    - column: K
+      id: null
+      name: Luke (Male Reality, 2015)
+      links:
+        - https://www.iafd.com/person.rme/id=b8ef573d-ea71-4523-afaa-0689be4bf1e2
+        - https://stashdb.org/scenes/bcc84a66-caa2-45bf-9c41-a3d5ff22d658
   notes:
     - Mix of multiple performers (partial list)

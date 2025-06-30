@@ -18,6 +18,7 @@ split:
     - column: N
       id: null
       name: Johnny (Boys First Time, 2014)
+      text: Boys First Time "Doing Johnny"
       links:
         - https://stashdb.org/scenes/eddf4d95-f6b4-4a14-a1da-3648257e0876
   notes:
