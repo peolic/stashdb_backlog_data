@@ -4,28 +4,26 @@ split:
     - column: T
       id: null
       name: Caroline (Dare Dorm, 2010)
+      text: Dare Dorm "Strip Pong"
       links:
+        - https://stashdb.org/scenes/9c1df9d6-48e6-4ea9-aa81-d63aa37ed92d
         - https://www.imdb.com/name/nm9242332/
         - https://www.realitykings.com/model/25786/caroline
-        - https://stashdb.org/scenes/9c1df9d6-48e6-4ea9-aa81-d63aa37ed92d
         - https://www.iafd.com/title.rme/id=e6fad362-6fb2-429b-adba-f3f8a8861238
         - https://www.imdb.com/title/tt6257998/
     - column: U
       id: null
       name: Caroline (White Ghetto, 2009)
+      text: 'White Ghetto "Grandpa Loves Cream Pie #03"'
       links:
         - https://stashdb.org/scenes/e721f389-9b7d-4f7f-9c2c-963e9c5f763e
-    - column: V
-      id: null
-      name: Caroline (Dream Master)
-      links:
-        - https://stashdb.org/scenes/1e28a09b-c6b0-440e-b570-8821336b562a
-        - https://stashdb.org/performers/7cb948c8-c914-479e-9267-a7ab1251eda6
     - column: W
       id: null
       name: Caroline (Call Girl)
+      text: Silvia Saint "Call Girl"
       links:
         - https://stashdb.org/scenes/b4827862-9636-44cd-9a3c-ee840f8b0267
+        - https://www.iafd.com/title.rme/id=821362ca-31a0-438f-a682-2cd06857d2e8
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

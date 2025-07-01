@@ -3,6 +3,13 @@ split:
   fragments:
     - column: K
       id: null
-      name: '?'
+      name: '? aka Christine (Devil''s Film, 2006)'
+      text: Devil's Film "Guide To Dirty Dancing"
+      notes:
+        - Same as Guide To Dirty Dancing, Scene 3 (Stripping)
+      links:
+        - https://stashdb.org/scenes/dbca0c5e-9f08-48bb-991b-57b218333baa
+        - https://straight.aebn.com/straight/movies/103945/guide-to-dirty-dancing
+  status: single fragment remains
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list)

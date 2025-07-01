@@ -1,17 +1,6 @@
 split:
   name: Vanessa B.
-  fragments:
-    - column: I
-      id: 9f7622ec-d1fa-46aa-bbf6-adeac35669be
-      name: Bunny Knight
-      text: 'Mile High Media "All Black In The Sac #04 Scene 1"'
-      notes:
-        - scene is similar to "Vanessa Earns Her Cash With Her Sweet Gash" by allrealitypass.com
-      links:
-        - https://www.iafd.com/person.rme/id=e919f021-222e-49df-9424-54458d6dc03e
-        - https://www.indexxx.com/m/bunny-knight
-        - https://stashdb.org/scenes/10e99897-a3d3-4339-ae06-fd8936ae871e
-        - https://www.iafd.com/title.rme/id=343e59c5-f206-43b8-b872-1a1b0ca7320d
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)

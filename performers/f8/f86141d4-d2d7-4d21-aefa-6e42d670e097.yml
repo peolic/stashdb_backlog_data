@@ -12,6 +12,7 @@ split:
     - column: P
       id: null
       name: Chase (Boys First Time, 2013)
+      text: Boys First Time "Doing Danny"
       notes:
         - Boys First Time 28, Scene 2
       links:
@@ -19,11 +20,13 @@ split:
     - column: Q
       id: null
       name: Chase (Dick Dorm, 2013)
+      text: Dick Dorm "Its A Dude"
       links:
         - https://stashdb.org/scenes/de2a6d76-8476-4ec5-bcd4-e000bd8577e1
     - column: R
       id: null
       name: Chase (Boys First Time, 2006)
+      text: Boys First Time "Face Down Ass Up"
       links:
         - https://stashdb.org/scenes/dc64868c-008c-4cb8-ab0e-8cb7594291a7
   notes:
