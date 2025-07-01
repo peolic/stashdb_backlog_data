@@ -18,11 +18,15 @@ split:
     - column: L
       id: null
       name: Bobby (Papi, 2007)
+      text: Papi "Banana In Tailpipe"
       links:
         - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
     - column: M
       id: null
       name: Bobby (Trick Your GF, 2016)
+      text: Trick Your GF "Eskimo brothers"
+      notes:
+        - possibly Brett Ravage
       links:
         - https://stashdb.org/scenes/518c6382-205c-44bb-a190-69cae7693054
   notes:

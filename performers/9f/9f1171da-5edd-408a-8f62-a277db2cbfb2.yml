@@ -21,6 +21,11 @@ split:
     - column: K
       id: null
       name: Alejandro (Papi, 2006)
+      notes:
+        - '- Papi "Penis Patrol"'
+        - '- Papi "Papi Palace"'
+        - '- Papi "Dicks Ahoy"'
+        - '- Papi "Hot House Party"'
       links:
         - https://stashdb.org/scenes/ce1ca5aa-1ab7-4a42-8a2c-2766596e1099
         - https://stashdb.org/scenes/68679538-265b-4288-842c-84e3a8fca62f

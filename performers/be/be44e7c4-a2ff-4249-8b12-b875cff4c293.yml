@@ -13,6 +13,9 @@ split:
     - column: M
       id: null
       name: Alexander (Papi, 2007)
+      notes:
+        - '- Papi "Juicy Jacuzzi"'
+        - '- Papi "El Maletero"'
       links:
         - https://stashdb.org/scenes/e92298fa-9177-41f1-9c84-afa88dcbc508
         - https://stashdb.org/scenes/87aa4ce9-9f79-4353-8138-f76452030152

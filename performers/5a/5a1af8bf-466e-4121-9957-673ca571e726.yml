@@ -1,5 +1,8 @@
 split:
   name: Christie
-  fragments: []
+  fragments:
+    - column: K
+      id: null
+      name: '?'
   notes:
     - Mix of multiple performers (partial list)

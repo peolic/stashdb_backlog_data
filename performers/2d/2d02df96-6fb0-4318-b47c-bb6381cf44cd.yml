@@ -24,13 +24,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=rico_rk_m_06/gender=m/rico.htm
         - https://stashdb.org/scenes/1e46e5d1-1664-490c-801b-34828f0be9e5
-    - column: L
-      id: null
-      name: Rico Armin
-      text: Male Reality
-      links:
-        - https://www.iafd.com/person.rme/perfid=ricoarmin_ep/gender=m/rico-armin.htm
-        - https://stashdb.org/scenes/64021630-c509-4a1c-8dbc-431a576f2bad
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

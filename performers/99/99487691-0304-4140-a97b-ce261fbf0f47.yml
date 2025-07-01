@@ -4,11 +4,13 @@ split:
     - column: L
       id: null
       name: Antonio (Papi, 2008)
+      text: Papi "Testicle Seduction"
       links:
         - https://stashdb.org/scenes/d9fd780d-ce0d-4ab4-be49-f7d6a77bc462
     - column: M
       id: null
       name: Antonio (Boys First Time, 2004)
+      text: Boys First Time "Surfer Crush"
       links:
         - https://stashdb.org/scenes/a5b1044d-7956-4fce-b44b-bd84641ab347
   notes:
