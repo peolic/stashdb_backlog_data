@@ -1,6 +1,30 @@
 split:
   name: Brittany
-  fragments: []
+  fragments:
+    - column: M
+      id: null
+      name: Brittany (Dare Dorm, 2012-12-14)
+      links:
+        - https://www.realitykings.com/model/24967/brittany
+        - https://www.iafd.com/person.rme/id=b8c12b16-7435-4b19-aed2-33bf413891d4
+        - https://www.imdb.com/name/nm9242540/
+        - https://stashdb.org/scenes/c9ee6653-653c-43cb-b63f-f094e7f7c3de
+    - column: N
+      id: null
+      name: Brittany (Dare Dorm, 2012-06-01)
+      links:
+        - https://www.realitykings.com/model/21625/brittany
+        - https://www.iafd.com/person.rme/id=b6aea841-9641-4c60-93a7-517451a29e2f
+        - https://www.imdb.com/name/nm10936862/
+        - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
+    - column: O
+      id: null
+      name: Brittany (Dare Dorm, 2012-03-23)
+      links:
+        - https://www.realitykings.com/model/21132/brittany
+        - https://www.iafd.com/person.rme/id=5a7a0750-8998-4aae-90b2-b7d929691a87
+        - https://www.imdb.com/name/nm10929710/
+        - https://stashdb.org/scenes/cfdd69e6-4bb5-49f9-9940-8c364f21fdf3
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

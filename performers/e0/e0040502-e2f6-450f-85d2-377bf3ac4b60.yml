@@ -1,10 +1,6 @@
 split:
   name: Bo Shmoe
-  fragments:
-    - column: I
-      id: null
-      name: '[multiple performers]'
-      text: 61 scenes (as of 2024-06-03)
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
     - Appears to be a placeholder name for a male performer for (likely) redistributed scenes.

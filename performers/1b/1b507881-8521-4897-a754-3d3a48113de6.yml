@@ -17,3 +17,4 @@ split:
         - https://www.themoviedb.org/person/4995818-dennis
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
+    - Best to move scenes and delete performer, rather than merging or renaming.

@@ -18,6 +18,14 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=22f58aa3-a956-4eae-92d9-fb4ac8a33d12
         - https://stashdb.org/scenes/a77d3186-9ce5-4031-8be7-c461784a0af6
+    - column: K
+      id: null
+      name: Alejandro (Papi, 2006)
+      links:
+        - https://stashdb.org/scenes/ce1ca5aa-1ab7-4a42-8a2c-2766596e1099
+        - https://stashdb.org/scenes/68679538-265b-4288-842c-84e3a8fca62f
+        - https://stashdb.org/scenes/60a0090a-092b-445d-bfdc-76f4cf88c728
+        - https://stashdb.org/scenes/4f2676c0-ef90-4edf-b936-31f13ce55119
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

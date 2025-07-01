@@ -3,7 +3,7 @@ split:
   fragments:
     - column: K
       id: null
-      name: Alex A (Fame Digital, 2012)
+      name: Alex A (White Ghetto, 2008)
       text: Motherfucker XXX "Big Fat Squirters"
       links:
         - https://www.iafd.com/person.rme/id=5849a022-958c-45c3-b495-bf4efc799752
@@ -12,3 +12,4 @@ split:
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-06-21)
+    - Best to move scenes and delete performer, rather than merging or renaming.

@@ -29,3 +29,4 @@ split:
         - https://www.themoviedb.org/person/3592925-danny-tucan
   notes:
     - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.
