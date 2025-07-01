@@ -7,6 +7,12 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=jim_bft/gender=m/jim.htm
         - https://stashdb.org/scenes/175bbe28-ec40-4390-b0b5-64efe392d51c
+        - https://stashdb.org/scenes/5c4bf790-18e9-4240-90f0-81215b858b89
+    - column: Q
+      id: null
+      name: Adam (Dick Dorm, 2013)
+      links:
+        - https://stashdb.org/scenes/f1de2ce7-a83a-4f5a-8372-c3f91a5dad77
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
