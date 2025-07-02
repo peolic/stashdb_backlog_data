@@ -1,0 +1,5 @@
+fingerprints:
+  - algorithm: phash
+    hash: d34ba631037ea347
+    correct_scene_id: null
+    duration: 2019
