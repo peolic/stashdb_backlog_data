@@ -75,7 +75,7 @@ jobs:
           git add -A
           git commit -m "update data"
           git push
-          echo "# [View commit `$(git rev-parse --short=9 HEAD)`](https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD))" >> $GITHUB_STEP_SUMMARY
+          echo "# [View commit \`$(git rev-parse --short=9 HEAD)\`](https://github.com/${{ github.repository }}/commit/$(git rev-parse HEAD))" >> $GITHUB_STEP_SUMMARY
 
       - name: Push tag
         if: ${{ env.changes_exist == 'true' || env.current_cache != github.sha }}
