@@ -13,8 +13,9 @@ performers:
       appearance: Rosalinda
   append:
     - id: null
-      name: Rosalinda (2005, 8th Street Latinas)
+      name: Rosalinda
       appearance: null
+      disambiguation: 2005, 8th Street Latinas
       status: new
       status_url: https://www.iafd.com/person.rme/id=b829c0db-f392-4e6c-9305-fbfdaf049e26
       notes:

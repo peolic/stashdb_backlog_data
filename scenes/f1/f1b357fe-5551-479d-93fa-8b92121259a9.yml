@@ -6,16 +6,19 @@ comments:
 performers:
   remove:
     - id: dee5b846-628b-4170-9fbb-b6048d64417d
-      name: Joey (Boys First Time)
+      name: Joey
       appearance: null
+      disambiguation: Boys First Time
   append:
     - id: null
-      name: Jooey (Boys First Time, 2010)
+      name: Jooey
       appearance: null
+      disambiguation: Boys First Time, 2010
       status: new
       status_url: https://www.iafd.com/person.rme/id=f78ae213-9cf1-4829-b698-a75d5699124e
     - id: null
-      name: Evan (Boys First Time, 2010)
+      name: Evan
       appearance: null
+      disambiguation: Boys First Time, 2010
       status: new
       status_url: https://www.iafd.com/person.rme/id=73518f44-4b3e-4adb-9327-258f70f1f284
