@@ -21,12 +21,6 @@ split:
       text: Papi "Banana In Tailpipe"
       links:
         - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
-    - column: M
-      id: 50e20a1e-1386-4c45-911c-17256654cdbc
-      name: Brett Ravage aka Bobby (Trick Your GF, 2016)
-      text: Trick Your GF "Eskimo brothers"
-      links:
-        - https://stashdb.org/scenes/518c6382-205c-44bb-a190-69cae7693054
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.
