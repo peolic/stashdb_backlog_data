@@ -1,0 +1,17 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=01773070-e277-4717-8b0c-19fac8370b64
+  - https://www.indexxx.com/set/46298/bangbus-donna/
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Donna
+      appearance: null
+      disambiguation: 2004, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b8ede9f4-fca3-42c7-ac0e-665e7717fab8
+      notes:
+        - https://www.indexxx.com/m/donna-25

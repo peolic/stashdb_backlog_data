@@ -1,0 +1,9 @@
+fingerprints:
+  - algorithm: phash
+    hash: e865613d43ccf4d2
+    correct_scene_id: null
+    duration: 852
+  - algorithm: phash
+    hash: e975613d432c34d3
+    correct_scene_id: null
+    duration: 850
