@@ -3,3 +3,19 @@ fingerprints:
     hash: 8d6c7b1ad4c8aa4e
     correct_scene_id: null
     duration: 1027
+  - algorithm: phash
+    hash: 8140f0f3cfd5e1c6
+    correct_scene_id: null
+    duration: 1230
+  - algorithm: phash
+    hash: 8140f0f3c7d5e3c6
+    correct_scene_id: null
+    duration: 1230
+  - algorithm: phash
+    hash: 8140f0f3cfd5e1f0
+    correct_scene_id: null
+    duration: 1230
+  - algorithm: phash
+    hash: b874f5818298eaf6
+    correct_scene_id: null
+    duration: 1210
