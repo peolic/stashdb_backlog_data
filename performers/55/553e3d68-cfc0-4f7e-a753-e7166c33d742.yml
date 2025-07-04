@@ -1,15 +1,6 @@
 split:
   name: Ivan
-  fragments:
-    - column: M
-      id: 1f143947-0d68-46d9-b504-8648b66e85fd
-      name: Cail Brodevski
-      notes:
-        - '- some/all of Dirty Flix'
-        - '- some/all of 18videoz'
-      links:
-        - https://www.iafd.com/person.rme/id=6512509e-e615-4b1c-bb9a-6927b7b097ba
-        - https://wtfpass.com/models/cail-1/
+  fragments: []
   notes:
     - Mix of multiple performers (possibly complete list as of 2023-03-29)
     - Best to move scenes and delete performer, rather than merging or renaming.
