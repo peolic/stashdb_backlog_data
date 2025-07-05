@@ -47,12 +47,18 @@ split:
         - https://www.iafd.com/person.rme/perfid=david_dd_11/gender=m/david.htm
         - https://stashdb.org/scenes/a8771e21-c462-447a-837b-e6ae1855140b
     - column: V
-      id: null
-      name: David (2011-01-14, Dare Dorm)
+      id: cb7c9564-9d8e-4cb7-9364-e07326865f6b
+      name: Martin (Corbin Fisher) aka David
       text: Dare Dorm "On Target"
+      notes:
+        - 1. Tattoo on right shoulder blade matches.
+        - 2. Birthday (May 25, 1989) matches.
       links:
+        - https://www.iafd.com/person.rme/id=a3e4312c-1d72-4cc7-9ac6-e7522eb420ff
         - https://www.iafd.com/person.rme/id=63c8c92b-f344-4639-afd4-961fc9bb5e90
         - https://stashdb.org/scenes/c9a92752-442f-41fd-82d1-b2b76ace9b5c
+        - https://ibb.co/SwP2D6r8
+        - https://www.realitykings.com/model/21443/david
     - column: W
       id: null
       name: David (2010, Dare Dorm)
