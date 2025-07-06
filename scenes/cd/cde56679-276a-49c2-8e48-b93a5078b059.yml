@@ -1,0 +1,16 @@
+c_studio:
+  - Lethal Pass
+  - null
+comments:
+  - correct performer
+  - Riveted Rectums
+  - https://www.iafd.com/title.rme/id=10379cb4-c5b4-40ae-8373-57e6442f9e84
+performers:
+  remove:
+    - id: 50e70ddc-e7a7-4276-b896-52a5f8e4fa9b
+      name: Tony Michaels
+      appearance: null
+  append:
+    - id: d5a01b97-93aa-4a87-b093-7aad78fdf8d5
+      name: Tony Michaels
+      appearance: null
