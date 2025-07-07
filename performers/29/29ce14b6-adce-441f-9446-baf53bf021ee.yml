@@ -36,6 +36,13 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=dave_622692/gender=m/dave.htm
         - https://stashdb.org/scenes/bfc03502-5642-4e79-88fb-0e96183d4e93
+    - column: O
+      id: null
+      name: Dave (Gay Revenge, 2011)
+      notes:
+        - '- Gay Revenge "Dick To Dick"'
+      links:
+        - https://stashdb.org/scenes/3acf6bee-4fa4-42b0-815b-ce9f55cad6aa
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
