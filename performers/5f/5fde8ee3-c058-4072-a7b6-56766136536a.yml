@@ -1,22 +1,6 @@
 split:
   name: Martin
-  fragments:
-    - column: L
-      id: null
-      name: Bryan (Reality Dudes, 2010) as Martin
-      notes:
-        - Appears to have been renamed to "Bryan" on RK after the import into StashDB.
-        - Dick Dorm "Lets Hear It"
-        - Dare Dorm "All Games"
-      links:
-        - https://www.realitykings.com/model/19741/bryan
-        - https://www.iafd.com/person.rme/id=bbf03cfa-4285-49db-9b9e-8ae04fa2802a
-        - https://stashdb.org/scenes/029e1aaa-48d0-4a94-980b-076fdc381030
-        - https://www.iafd.com/title.rme/id=fc6579ae-a649-494e-8742-e5f796286219
-        - https://www.imdb.com/title/tt6258024/
-        - https://stashdb.org/scenes/0faec75f-ef9c-497f-bb3f-10d76123f52f
-    - column: M
-      id: null
-      name: Martin (Boys First Time, 2004)
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,0 +1,11 @@
+c_studio:
+  - GF Revenge
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Mary
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=acbb78a8-2884-4cf7-843b-8b89938cbc21
