@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'From IAFD: https://www.iafd.com/title.rme/id=5d814dd2-9aa0-4e75-8e6d-182ca8afb5be'
+performers:
+  remove:
+    - id: 23148453-1f58-4ab0-b2b6-743b5205d284
+      name: Eddie
+      appearance: null
+  append:
+    - id: null
+      name: Edward Steel
+      appearance: Eddie
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=51e62246-8a37-4da8-9c10-46f013017f2d
