@@ -15,6 +15,20 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=7681c89c-3e81-42ad-9d5a-7c2825a7b0d3
         - https://stashdb.org/scenes/4e1dc8dd-254f-4544-9696-0ce51179d558
+    - column: M
+      id: null
+      name: Luis (Papi, 2006)
+      notes:
+        - Papi "Papi Palace"
+      links:
+        - https://stashdb.org/scenes/68679538-265b-4288-842c-84e3a8fca62f
+    - column: N
+      id: null
+      name: Luis (Boys First Time, 2011)
+      notes:
+        - Boys First Time "The Back End"
+      links:
+        - https://stashdb.org/scenes/8715cd44-482d-4dbb-8027-592df9ca1d7e
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

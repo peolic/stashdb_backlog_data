@@ -3,11 +3,11 @@ split:
   fragments:
     - column: O
       id: null
-      name: Lola (?)
+      name: Lola (Young Libertines, 2015)
       text: Young Libertines
       links:
         - https://stashdb.org/scenes/d4abbedc-434c-4f69-8ed8-28b4ae51fd29
   status: single fragment remains
   notes:
-    - Mix of multiple performers (partial list) - updated 2022-05-11
+    - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
