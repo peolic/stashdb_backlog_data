@@ -4,10 +4,17 @@ split:
     - column: L
       id: null
       name: Leo (2014, GF Revenge)
-      text: GF Revenge
+      text: GF Revenge "Sunny Pics"
       links:
         - https://www.iafd.com/person.rme/perfid=leo_rk14/gender=m/leo.htm
         - https://stashdb.org/scenes/6b6bfccb-ba49-4849-9486-8ab834f943a7
+    - column: M
+      id: null
+      name: Leo (Boys First Time, 2005)
+      notes:
+        - Boys First Time "Wanker Yanker"
+      links:
+        - https://stashdb.org/scenes/291c1e2a-1cd9-4839-bd82-a7bb91085783
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
