@@ -1,0 +1,18 @@
+split:
+  name: Rusty (Sean Cody 2014)
+  fragments:
+    - column: I
+      id: 864c872e-b320-471a-bae5-f4e958bc1813
+      name: Rusty (Sean Cody 2014)
+      notes:
+        - Sean Cody
+    - column: J
+      id: null
+      name: Rusty (Papi, 2008)
+      notes:
+        - Papi "Testicle Seduction"
+      links:
+        - https://stashdb.org/scenes/d9fd780d-ce0d-4ab4-be49-f7d6a77bc462
+  notes:
+    - Performer was disambiguated while being non-unique
+    - Complete list as of 2025-07-07
