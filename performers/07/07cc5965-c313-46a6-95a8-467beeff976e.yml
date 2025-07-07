@@ -1,5 +1,15 @@
 split:
   name: Kira and Ayo
-  fragments: []
+  fragments:
+    - column: I
+      id: null
+      name: Kira (Young Lesbians Portal, 2008)
+      links:
+        - https://www.indexxx.com/set/906921/younglesbiansportal-kira-and-ayo/
+    - column: J
+      id: null
+      name: Ayo (Young Lesbians Portal, 2008)
+      links:
+        - https://www.indexxx.com/set/906921/younglesbiansportal-kira-and-ayo/
   notes:
     - Amalgamated performer
