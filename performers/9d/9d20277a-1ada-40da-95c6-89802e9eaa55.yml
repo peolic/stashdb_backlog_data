@@ -31,6 +31,15 @@ split:
         - https://www.iafd.com/person.rme/id=23324db1-2275-4187-aa9b-b0438a0c66dd
         - https://stashdb.org/scenes/e4df1911-b30f-4429-b88d-5e3d8e53e40f
         - https://www.iafd.com/title.rme/id=25f2e907-3206-421e-ad74-852e980e37d3
+    - column: P
+      id: null
+      name: Benjamin (Papi, 2007)
+      notes:
+        - '- Papi "House Party Humpers"'
+        - '- Papi "Banana In Tailpipe"'
+      links:
+        - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
+        - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

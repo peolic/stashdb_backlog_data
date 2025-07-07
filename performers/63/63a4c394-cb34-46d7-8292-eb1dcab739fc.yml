@@ -1,5 +1,37 @@
 split:
   name: Christopher
-  fragments: []
+  fragments:
+    - column: K
+      id: null
+      name: Christopher (Dick Dorm, 2013)
+      notes:
+        - Scene 2 from Dick Dorm 10
+        - '- Dick Dorm "Frat Guys Go Hard"'
+      links:
+        - https://stashdb.org/scenes/d034dfb5-bf79-45b7-a9f2-8bc1833d1f36
+    - column: L
+      id: null
+      name: Christopher (Boys First Time, 2008)
+      notes:
+        - '- Boys First Time "Meat Packer"'
+        - '- Boys First Time "Ass Contact"'
+      links:
+        - https://stashdb.org/scenes/2eff7d43-9746-4868-81b9-01d6164b85b4
+        - https://stashdb.org/scenes/fe927253-e1a0-4287-bb73-1b0267f740f9
+    - column: M
+      id: null
+      name: Christopher (Papi, 2008)
+      notes:
+        - '- Papi "Sword Fight"'
+      links:
+        - https://stashdb.org/scenes/39cfc1e3-89ce-43f7-b06b-27c4d363719c
+    - column: N
+      id: null
+      name: Christopher (Teeny Lovers, 2012)
+      notes:
+        - '- Teeny Lovers "High-heeled teen gets fucked"'
+      links:
+        - https://stashdb.org/scenes/7dfc54f1-0597-4753-ad16-922e27bc7511
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list)
+    - Best to move scenes and delete performer, rather than merging or renaming.

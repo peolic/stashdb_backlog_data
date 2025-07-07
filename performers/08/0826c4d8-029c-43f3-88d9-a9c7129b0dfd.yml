@@ -1,6 +1,18 @@
 split:
   name: Claudia
-  fragments: []
+  fragments:
+    - column: Q
+      id: null
+      name: Claudia (Sex Mex, 2015)
+      notes:
+        - '- Sex Mex "Anal"'
+        - '- Sex Mex "Banged"'
+      links:
+        - https://www.iafd.com/person.rme/id=e2402289-6d82-479c-bc8d-25fe45d79207
+        - https://www.iafd.com/title.rme/id=efaa6d89-5207-4ad8-bacb-e5a432406f00
+        - https://stashdb.org/scenes/7b265786-9988-4590-a086-c392f47c09ea
+        - https://www.iafd.com/title.rme/id=1a9f2a7f-eb06-416b-9c34-4f9556b013b3
+        - https://stashdb.org/scenes/b4ed913d-2945-4d82-b953-9db466a6ea3e
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
