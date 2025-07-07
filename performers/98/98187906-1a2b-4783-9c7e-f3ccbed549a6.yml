@@ -4,12 +4,43 @@ split:
     - column: J
       id: null
       name: Judith
-      text: Club Sandy / Zoliboy
+      notes:
+        - '- Club Sandy "Preparing for a bath"'
+        - '- Club Sandy "Incongruous Play"'
+        - '- Zoliboy "Only for the boyfriend, eh?"'
       links:
         - https://www.iafd.com/person.rme/perfid=judith_eu_022/gender=f/judith.htm
         - https://www.indexxx.com/m/judith
         - https://stashdb.org/scenes/ba4623b5-37a1-4ffa-846e-86e84845c211
         - https://stashdb.org/scenes/feb86938-6222-46e0-845b-0361c50f6557
         - https://stashdb.org/scenes/d58885e4-681c-4eaf-9643-ea4b87b6a6c6
+    - column: K
+      id: null
+      name: Judith (Woodman Casting X, 2001)
+      notes:
+        - Wooman Casting X "Judith" 2012-08-02
+      links:
+        - https://www.indexxx.com/m/judith-10
+        - https://www.indexxx.com/set/675259/woodmancastingx-judith/
+        - https://stashdb.org/scenes/5d870153-1dc7-468e-8858-61428664238f
+    - column: L
+      id: null
+      name: Judith (Woodman Casting X, 1999-04)
+      notes:
+        - Woodman Casting X "Judith" 2009-11-25
+      links:
+        - https://www.indexxx.com/m/judith-12
+        - https://www.indexxx.com/set/677128/woodmancastingx-judith/
+        - https://stashdb.org/scenes/09d0ea6f-e1a3-49f1-a1b0-8b5ed65a571e
+    - column: M
+      id: null
+      name: Judith (Woodman Casting X, 199-09)
+      notes:
+        - Woodman Casting X "Judith" 2009-07-07
+      links:
+        - https://www.indexxx.com/m/judith-13
+        - https://www.indexxx.com/set/677438/woodmancastingx-judith/
+        - https://stashdb.org/scenes/b36c5e48-e6ec-4736-a3a5-4fab426069ac
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-07-07)
+    - Best to move scenes and delete performer, rather than merging or renaming.

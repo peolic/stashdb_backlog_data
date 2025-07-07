@@ -19,5 +19,13 @@ split:
         - https://www.iafd.com/person.rme/perfid=josedd12/gender=f/jose.htm
         - https://stashdb.org/scenes/3ccbf165-36d1-4ddd-9b3b-69965954f74d
         - https://www.realitykings.com/model/25764/jose
+    - column: L
+      id: null
+      name: Jose (Dick Dorm, 2011)
+      notes:
+        - Dick Dorm "Blast Off"
+      links:
+        - https://stashdb.org/scenes/f2d9b90c-d1ad-4472-b796-d1b6bce0c0ac
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (partial list as of 2025-07-07)
+    - Best to move scenes and delete performer, rather than merging or renaming.
