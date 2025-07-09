@@ -1,6 +1,11 @@
 split:
   name: Rita
-  fragments: []
+  fragments:
+    - column: AE
+      id: null
+      name: Rita (Home Porno Tapes, 2011)
+      links:
+        - https://stashdb.org/scenes/e6ff9245-859a-4fb7-9aa1-042c0a3e865e
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

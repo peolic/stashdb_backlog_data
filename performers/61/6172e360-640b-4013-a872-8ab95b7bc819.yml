@@ -4,8 +4,15 @@ split:
     - column: J
       id: null
       name: Sandra (Sex Mex)
+      notes:
+        - '- Sex Mex "Sex On Webcam"'
+        - '- Sex Mex "Threesome"'
+        - '- Sex Mex "Firsttime"'
       links:
         - https://www.iafd.com/person.rme/perfid=sandra_sxmx/gender=f/sandra.htm
+        - https://stashdb.org/scenes/d4f87e2a-9ac1-45bc-8f7d-0f236a838852
+        - https://stashdb.org/scenes/251bd6f5-e69f-4fd8-a52e-f07df86956e8
+        - https://stashdb.org/scenes/c5b89a9c-cc1b-4b56-aada-07a71cb824c1
     - column: Z
       id: null
       name: Sandra (2005, Bang Bus)
@@ -38,5 +45,5 @@ split:
         - https://www.iafd.com/person.rme/perfid=sandra_rk/gender=f/sandra.htm
         - https://stashdb.org/scenes/465cab7a-2b02-4c32-8b2e-1a5c9e05c274
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.
