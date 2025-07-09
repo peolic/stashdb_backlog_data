@@ -1,15 +1,7 @@
 split:
   name: Marion
-  fragments:
-    - column: L
-      id: null
-      name: Miguel Santiago
-      text: Boys First Time (2007)
-      links:
-        - https://www.iafd.com/person.rme/perfid=miguelsantiago/gender=m/miguel-santiago.htm
-        - https://stashdb.org/scenes/1b4acaf3-3ad7-4016-b690-e124c1a868dd
-        - https://www.iafd.com/title.rme/id=64c0b8f8-90ff-45ca-b66a-1cf72cd2a645
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -9,13 +9,7 @@ split:
         - Bottom in the scene
       links:
         - https://stashdb.org/scenes/8a50e482-3be0-49f6-a65c-2cacae730d41
-    - column: Q
-      id: eb928c65-0dec-4ffd-acb8-bfadcee9f7d9
-      name: Jacob Valdez aka Shane (Dick Dorm, 2012)
-      notes:
-        - Dick Dorm "Gonzo Mask"
-      links:
-        - https://stashdb.org/scenes/aec746b9-b79f-4a10-b994-e512a44c16b7
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.
