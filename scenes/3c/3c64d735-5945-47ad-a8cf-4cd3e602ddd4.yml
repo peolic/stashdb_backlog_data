@@ -1,23 +1,18 @@
 c_studio:
   - Boys First Time
   - null
-comments:
-  - Confirmed by IAFD
-  - https://www.iafd.com/title.rme/id=377ed2ae-b606-4769-a7ea-d601ade01069
 performers:
   remove:
-    - id: e5b532d6-c592-482c-9bd3-86504e9e5972
-      name: Clint
+    - id: daf09e18-d628-4da9-b0f3-e6b5afa6367b
+      name: Tyler
       appearance: null
     - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
       name: Michael
       appearance: null
   append:
-    - id: null
-      name: Clint Radford
-      appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=529d5fd4-3150-47f3-919b-b66b05aefbd7
+    - id: 83c46a1b-dca8-4510-8339-25b14eff9c0e
+      name: Tyler Bishop
+      appearance: Tyler
     - id: null
       name: Michael Pearce
       appearance: Michael

@@ -1,5 +1,12 @@
 split:
   name: Svetlana
-  fragments: []
+  fragments:
+    - column: J
+      id: null
+      name: Svetlana (Wooman Casting X, 1993)
+      links:
+        - https://www.indexxx.com/m/svetlana-24
+        - https://stashdb.org/scenes/440e63df-0cf7-484b-81ab-c5c17318a16b
+        - https://www.indexxx.com/set/677298/woodmancastingx-svetlana/
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-07-08)

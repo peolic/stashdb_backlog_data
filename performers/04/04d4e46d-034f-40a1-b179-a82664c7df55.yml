@@ -1,5 +1,11 @@
 split:
   name: Tatjana Et Natasha
-  fragments: []
+  fragments:
+    - column: I
+      id: null
+      name: Tatjana (Woodman Casting X, 1993)
+    - column: J
+      id: null
+      name: Natasha (Woodman Casting X, 1993)
   notes:
     - Amalgamated performer

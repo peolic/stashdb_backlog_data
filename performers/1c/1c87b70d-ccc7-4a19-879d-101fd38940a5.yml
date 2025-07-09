@@ -1,5 +1,20 @@
 split:
   name: Theo
-  fragments: []
+  fragments:
+    - column: K
+      id: null
+      name: Theo (Dick Dorm, 2013)
+      notes:
+        - Dick Dorm "Show Me Yours"
+      links:
+        - https://stashdb.org/scenes/4f7ab4ba-f2ba-4cb3-a3c3-128bda130f02
+    - column: L
+      id: null
+      name: Theo (Boys First Time, 2011)
+      notes:
+        - Boys First Time "Man To Man"
+      links:
+        - https://stashdb.org/scenes/e9412a1a-2b1b-4b23-a538-e90943c09f72
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2025-07-08)
+    - Best to move scenes and delete performer, rather than merging or renaming.

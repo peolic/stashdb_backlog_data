@@ -1,5 +1,21 @@
 split:
   name: Vince
-  fragments: []
+  fragments:
+    - column: L
+      id: null
+      name: Vince (Housewife 1 on 1)
+      links:
+        - https://www.iafd.com/person.rme/id=8066b40a-0441-4b44-8074-2d23a80e9fbc
+        - https://stashdb.org/scenes/694b158a-cae5-45eb-ac01-3114616e710e
+        - https://www.iafd.com/title.rme/id=d7f4b4d6-0628-41a9-8ed5-b4142f11b1b6
+    - column: M
+      id: null
+      name: Vince (Men In Pain, 2005)
+      links:
+        - https://www.kink.com/model/7471/Vince
+        - https://www.iafd.com/person.rme/id=fa42c7f1-4348-4a79-9472-bf2655df311f
+        - https://stashdb.org/scenes/901c113f-e369-451a-96e7-dac8b4f43310
+        - https://www.iafd.com/title.rme/id=7ed9e6cc-190a-4b9e-89d8-9e4e473c7de5
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2025-07-08)
+    - Best to move scenes and delete performer, rather than merging or renaming.

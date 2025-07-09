@@ -1,5 +1,12 @@
 split:
   name: Vito
-  fragments: []
+  fragments:
+    - column: K
+      id: 8492ceb1-9d4d-4754-82b0-683107d1f3ad
+      name: Vito Corleone
+      notes:
+        - North Pole 36
+      links:
+        - https://stashdb.org/scenes/d7b72131-07f6-4773-b70b-72b0b00fa76c
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-07-08)

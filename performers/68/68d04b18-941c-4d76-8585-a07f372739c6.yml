@@ -1,5 +1,12 @@
 split:
   name: Tye
-  fragments: []
+  fragments:
+    - column: J
+      id: null
+      name: Tye (Boys First Time, 2010)
+      notes:
+        - Boys First Time "Bone Deep"
+      links:
+        - https://stashdb.org/scenes/7f584c41-87fe-4830-b59c-1371eecb22ed
   notes:
-    - Mix of multiple performers
+    - Mix of multiple performers (complete list as of 2025-07-08)
