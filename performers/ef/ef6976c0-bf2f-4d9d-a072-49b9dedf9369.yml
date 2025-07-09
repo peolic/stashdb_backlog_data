@@ -22,8 +22,7 @@ split:
     - column: L
       id: null
       name: Jose (Dick Dorm, 2011)
-      notes:
-        - Dick Dorm "Blast Off"
+      text: Dick Dorm "Blast Off"
       links:
         - https://stashdb.org/scenes/f2d9b90c-d1ad-4472-b796-d1b6bce0c0ac
   notes:
