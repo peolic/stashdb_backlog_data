@@ -4,15 +4,14 @@ split:
     - column: K
       id: null
       name: Larissa (Boob Squad, 2002)
-      notes:
-        - Boob Squad "Larissa Goes On A Long Ride"
+      text: Boob Squad "Larissa Goes On A Long Ride"
       links:
         - https://www.iafd.com/person.rme/id=b74e4e54-43fe-46b6-9625-3af79b69cba4
         - https://www.indexxx.com/m/larissa-7
+        - https://stashdb.org/scenes/3f91263e-ff88-4c52-8da6-63ecdfc66171
+        - https://www.iafd.com/title.rme/id=a22aeb62-8944-405f-a481-4bdd34b327df
         - https://www.imdb.com/name/nm9979060/
         - https://www.imdb.com/title/tt8712556/
-        - https://www.iafd.com/title.rme/id=a22aeb62-8944-405f-a481-4bdd34b327df
-        - https://stashdb.org/scenes/3f91263e-ff88-4c52-8da6-63ecdfc66171
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
