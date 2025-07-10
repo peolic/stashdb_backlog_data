@@ -55,8 +55,7 @@ split:
     - column: V
       id: null
       name: Tyler (Boys First Time, 2009)
-      notes:
-        - Boys First Time "Alone At Last"
+      text: Boys First Time "Alone At Last"
       links:
         - https://stashdb.org/scenes/e1bdf3d5-c7c2-418e-a428-b53ffa850e95
   notes:

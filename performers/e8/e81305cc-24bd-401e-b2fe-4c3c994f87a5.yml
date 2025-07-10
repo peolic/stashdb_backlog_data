@@ -4,36 +4,30 @@ split:
     - column: R
       id: null
       name: Justin (Dare Dorm, 2012-05)
-      notes:
-        - Dare Dorm "Saint Pattys Day"
+      text: Dare Dorm "Saint Pattys Day"
       links:
-        - https://www.realitykings.com/model/22323/justin
         - https://www.iafd.com/person.rme/id=2eaa3274-d576-44ac-8853-0a9b8759a09c
-        - https://www.iafd.com/title.rme/id=502d0b99-1f73-47ed-ab84-db3ad974bc6c
-        - https://www.imdb.com/title/tt6346252/
         - https://stashdb.org/scenes/6a679478-782d-45b4-bc03-8f50a305c46e
+        - https://www.iafd.com/title.rme/id=502d0b99-1f73-47ed-ab84-db3ad974bc6c
+        - https://www.realitykings.com/model/22323/justin
+        - https://www.imdb.com/title/tt6346252/
     - column: S
       id: null
       name: Justin (Dare Dorm, 2012-03)
-      notes:
-        - Dare Dorm "Smoke Out"
+      text: Dare Dorm "Smoke Out"
       links:
-        - https://www.realitykings.com/model/21615/justin
         - https://www.iafd.com/person.rme/id=b6675276-2456-401f-a5df-918513b59c2a
-        - https://www.iafd.com/title.rme/id=353dae08-8d12-475d-9bd5-a75e9bb58702
-        - https://www.imdb.com/title/tt6346212/
         - https://stashdb.org/scenes/a5237b46-3540-43d8-9ace-ccd8c06e4c98
+        - https://www.iafd.com/title.rme/id=353dae08-8d12-475d-9bd5-a75e9bb58702
+        - https://www.realitykings.com/model/21615/justin
+        - https://www.imdb.com/title/tt6346212/
     - column: T
       id: null
       name: Justin (Dare Dorm, 2011-12)
-      notes:
-        - Dare Dorm "Bathroom Vandals"
       links:
-        - https://www.realitykings.com/model/26530/justin
         - https://www.iafd.com/person.rme/id=006d73c3-f71f-40a4-b5c5-d5a8abb4797e
-        - https://www.iafd.com/title.rme/id=09ef6a64-de3b-457e-9d4f-a08cc589a387
+        - https://www.realitykings.com/model/26530/justin
         - https://www.imdb.com/title/tt6346170/
-        - https://stashdb.org/scenes/da0f5a37-d07a-4585-9c64-27503edd2b9b
     - column: U
       id: null
       name: Justin (Dare Dorm (2011-08)

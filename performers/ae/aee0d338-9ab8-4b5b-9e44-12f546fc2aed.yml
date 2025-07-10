@@ -18,8 +18,7 @@ split:
     - column: K
       id: null
       name: Xavier (Papi, 2006)
-      notes:
-        - Papi "Hot House Party"
+      text: Papi "Hot House Party"
       links:
         - https://stashdb.org/scenes/4f2676c0-ef90-4edf-b936-31f13ce55119
     - column: L
@@ -34,8 +33,7 @@ split:
     - column: M
       id: null
       name: Xavier (Boys First Time, 2008)
-      notes:
-        - Boys First Time "Quick Start"
+      text: Boys First Time "Quick Start"
       links:
         - https://stashdb.org/scenes/e7351a67-411f-40e8-a663-dbc5586accdd
   notes:
