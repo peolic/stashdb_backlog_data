@@ -1,0 +1,11 @@
+c_studio:
+  - Racks & Blacks
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=628d5eed-73e2-4b05-be46-7bd8b1ae4918
+performers:
+  remove: []
+  append:
+    - id: f477f7b8-d7fc-48cf-be11-b0f0cdaed9ea
+      name: Lucky Star
+      appearance: null
