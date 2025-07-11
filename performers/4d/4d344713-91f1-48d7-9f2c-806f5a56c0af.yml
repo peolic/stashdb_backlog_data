@@ -4,35 +4,32 @@ split:
     - column: O
       id: null
       name: Scott (2004, In the VIP)
-      text: In the VIP
+      text: In the VIP "Spring Break"
       links:
-        - https://www.iafd.com/person.rme/perfid=scott_rk_04/gender=f/scott.htm
+        - https://www.iafd.com/person.rme/id=99379b2c-386b-471f-95f1-9f094b01ccbf
         - https://stashdb.org/scenes/ccd5b3d9-b26a-4d43-aeb7-caf6112ab347
     - column: P
       id: null
       name: Scott (Boys First Time, 2008)
-      notes:
-        - Boys First Time "All By Myself"
+      text: Boys First Time "All By Myself"
       links:
         - https://stashdb.org/scenes/16863718-6f92-4fe9-9fa2-dc0748d1616d
     - column: Q
       id: null
       name: Scott (Dare Dorm, 2009)
-      notes:
-        - Dare Dorm "Three Course Treat"
+      text: Dare Dorm "Three Course Treat"
       links:
-        - https://www.realitykings.com/model/25681/scott
         - https://stashdb.org/scenes/2939e981-9216-4758-bf2b-49d01492f479
+        - https://www.realitykings.com/model/25681/scott
     - column: R
       id: null
       name: Scott (Dare Dorm, 2012)
-      notes:
-        - Dare Dorms "Happy Analversary"
+      text: Dare Dorms "Happy Analversary"
       links:
         - https://www.iafd.com/person.rme/id=4ee52f4f-89b9-4ef2-b483-548e16535c03
+        - https://stashdb.org/scenes/ee4b7259-490c-47d5-b4af-fbf2374104be
         - https://www.realitykings.com/model/25289/scott
         - https://www.imdb.com/title/tt6346284/
-        - https://stashdb.org/scenes/ee4b7259-490c-47d5-b4af-fbf2374104be
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.

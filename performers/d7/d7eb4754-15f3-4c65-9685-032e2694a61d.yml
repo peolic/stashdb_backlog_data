@@ -17,23 +17,22 @@ split:
         - https://stashdb.org/scenes/b6f7b0a6-4edd-4c35-a64e-b723a8601e58
     - column: N
       id: null
-      name: Oscar (Street BlowJobs, 2002)
-      notes:
-        - Street BlowJobs "Quick Buck Suck"
+      name: Oscar (Street Blowjobs, 2002)
+      text: Street Blowjobs "Quick Buck Suck"
       links:
+        - https://stashdb.org/scenes/33a4a300-3d9d-45bd-82a9-5208209730c8
         - https://www.imdb.com/name/nm8841708/
         - https://www.imdb.com/title/tt5496928/
-        - https://stashdb.org/scenes/33a4a300-3d9d-45bd-82a9-5208209730c8
     - column: O
       id: null
       name: Oscar (In the VIP, 2004)
-      notes:
-        - In The VIP "Fort Lickerdale"
+      text: In The VIP "Fort Lickerdale"
       links:
+        - https://stashdb.org/scenes/93cdb819-574e-439e-b5fe-f42be77c6e17
+        - https://www.iafd.com/title.rme/id=56eb7878-41ca-4387-8726-b39df787124b
         - https://www.realitykings.com/model/10047/oscar
         - https://www.imdb.com/name/nm9823880/
         - https://www.imdb.com/title/tt8385896/
-        - https://stashdb.org/scenes/93cdb819-574e-439e-b5fe-f42be77c6e17
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.

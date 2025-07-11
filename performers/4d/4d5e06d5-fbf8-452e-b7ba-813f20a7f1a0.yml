@@ -11,15 +11,13 @@ split:
     - column: J
       id: null
       name: Pablo (Papi, 2007)
-      notes:
-        - Papi "Santas Snake"
+      text: Papi "Santas Snake"
       links:
         - https://stashdb.org/scenes/d03c8ce7-bf96-420a-b8cf-596f55e3a0a9
     - column: K
       id: null
       name: Pablo (Dick Dorm, 2011)
-      notes:
-        - Dick Dorm "Blast Off"
+      text: Dick Dorm "Blast Off"
       links:
         - https://stashdb.org/scenes/f2d9b90c-d1ad-4472-b796-d1b6bce0c0ac
   notes:

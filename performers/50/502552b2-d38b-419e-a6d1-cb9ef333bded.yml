@@ -4,6 +4,7 @@ split:
     - column: AH
       id: null
       name: Olga (Woodman Casting X, 2004)
+      text: Woodman Casting X (2013-03-18)
       links:
         - https://www.indexxx.com/m/olga-13
         - https://stashdb.org/scenes/cf636ab1-2f71-4944-a344-b3a2b4d67363
@@ -11,6 +12,7 @@ split:
     - column: AI
       id: null
       name: Olga (Woodman Casting X, 2001)
+      text: Woodman Casting X (2010-12-20)
       links:
         - https://www.indexxx.com/m/olga-21
         - https://stashdb.org/scenes/6cab59c5-a15f-4393-b6f0-a612295e2009
@@ -18,6 +20,7 @@ split:
     - column: AJ
       id: null
       name: Olga (Woodman Casting X, 1994-12-15)
+      text: Woodman Casting X (2010-10-27)
       links:
         - https://www.indexxx.com/m/olga-27
         - https://stashdb.org/scenes/a576960f-9730-4e97-8792-8ac67ea83ab7
@@ -25,6 +28,7 @@ split:
     - column: AK
       id: null
       name: Olga (Woodman Casting X, 1994-04-18)
+      text: Woodman Casting X (2009-10-07)
       links:
         - https://www.indexxx.com/m/olga-34
         - https://stashdb.org/scenes/4111e5dd-1756-4b48-8f97-faec133ab389
@@ -32,6 +36,7 @@ split:
     - column: AL
       id: null
       name: Olga (Woodman Casting X, 1995)
+      text: Woodman Casting X (2009-01-11)
       links:
         - https://www.indexxx.com/m/olga-35
         - https://stashdb.org/scenes/854d0fa4-700d-456f-b902-1e3fb3e98362
@@ -39,6 +44,7 @@ split:
     - column: AM
       id: null
       name: Olga (Woodman Casting X, 1994-12-12)
+      text: Woodman Casting X (2008-12-26)
       links:
         - https://www.indexxx.com/m/olga-72
         - https://stashdb.org/scenes/e58db0a5-9eb3-4cc8-a909-fae0c8012640

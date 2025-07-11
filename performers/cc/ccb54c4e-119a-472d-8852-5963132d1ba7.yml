@@ -92,8 +92,7 @@ split:
     - column: X
       id: null
       name: Nick (Dick Dorm, 2012)
-      notes:
-        - Dick Dorm "Gonzo Mask"
+      text: Dick Dorm "Gonzo Mask"
       links:
         - https://stashdb.org/scenes/aec746b9-b79f-4a10-b994-e512a44c16b7
   notes:

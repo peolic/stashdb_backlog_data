@@ -27,15 +27,13 @@ split:
     - column: N
       id: null
       name: Rico (Boys First Time, 2006)
-      notes:
-        - Boys First Time "Sauve"
+      text: Boys First Time "Sauve"
       links:
         - https://stashdb.org/scenes/0136ab20-b56d-429e-ba88-be97ba09611a
     - column: O
       id: null
       name: Rico (Boys First Time, 2007)
-      notes:
-        - Boys First Time "Ay Que Rico"
+      text: Boys First Time "Ay Que Rico"
       links:
         - https://stashdb.org/scenes/774678ad-8042-41b4-8f67-7cce17faa94d
   notes:
