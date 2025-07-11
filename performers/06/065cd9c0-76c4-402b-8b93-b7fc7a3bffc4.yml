@@ -15,8 +15,7 @@ split:
     - column: S
       id: null
       name: Steve (Papi, 2007)
-      notes:
-        - Papi "Santas Snake"
+      text: Papi "Santas Snake"
       links:
         - https://stashdb.org/scenes/d03c8ce7-bf96-420a-b8cf-596f55e3a0a9
   notes:

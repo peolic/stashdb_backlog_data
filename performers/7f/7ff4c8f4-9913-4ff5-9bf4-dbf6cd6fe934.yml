@@ -11,8 +11,7 @@ split:
     - column: K
       id: null
       name: Timmy (Boys First Time, 2010)
-      notes:
-        - Boys First Time "Nobodys Looking"
+      text: Boys First Time "Nobodys Looking"
       links:
         - https://stashdb.org/scenes/afa50208-79e7-4b77-ad88-d810a6bfd47c
   notes:

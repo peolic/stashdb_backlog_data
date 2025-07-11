@@ -47,8 +47,7 @@ split:
     - column: T
       id: null
       name: Tommy (Boys First Time, 2006)
-      notes:
-        - Boys First Time "Face Down Ass Up"
+      text: Boys First Time "Face Down Ass Up"
       links:
         - https://stashdb.org/scenes/dc64868c-008c-4cb8-ab0e-8cb7594291a7
   notes:

@@ -4,8 +4,7 @@ split:
     - column: K
       id: 8492ceb1-9d4d-4754-82b0-683107d1f3ad
       name: Vito Corleone
-      notes:
-        - North Pole 36
+      text: 'Peter North "North Pole #36"'
       links:
         - https://stashdb.org/scenes/d7b72131-07f6-4773-b70b-72b0b00fa76c
   status: single fragment remains

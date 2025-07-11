@@ -25,12 +25,11 @@ split:
     - column: N
       id: null
       name: Trevor (Dare Dorm, 2011)
-      notes:
-        - Dare Dorm "On Target"
+      text: Dare Dorm "On Target"
       links:
         - https://www.iafd.com/person.rme/id=f5c313e6-2a92-47d8-a55a-a48dc57b194d
-        - https://www.realitykings.com/model/24610/trevor
         - https://stashdb.org/scenes/c9a92752-442f-41fd-82d1-b2b76ace9b5c
+        - https://www.realitykings.com/model/24610/trevor
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.
