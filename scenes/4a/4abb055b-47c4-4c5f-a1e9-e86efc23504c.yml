@@ -1,0 +1,13 @@
+c_studio:
+  - Woodman Casting X
+  - null
+performers:
+  remove:
+    - id: 1ddcaca6-535f-43f5-a26f-b1c45f2a75d9
+      name: Kate
+      appearance: null
+  append:
+    - id: 2145c18e-7df0-4fa6-9ac6-70f2293a04d4
+      name: Kate S.
+      appearance: Kate
+      disambiguation: CZ, b. 1984

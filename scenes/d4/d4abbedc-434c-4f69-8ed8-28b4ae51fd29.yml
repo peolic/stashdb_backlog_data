@@ -1,0 +1,13 @@
+c_studio:
+  - Young Libertines
+  - null
+performers:
+  remove:
+    - id: 37f86373-4723-4b48-9332-7c6613bcd358
+      name: Lola
+      appearance: null
+  append:
+    - id: 2be85a09-afac-480b-995a-4add20688ba3
+      name: Lola
+      appearance: null
+      disambiguation: Young Libertines, 2015

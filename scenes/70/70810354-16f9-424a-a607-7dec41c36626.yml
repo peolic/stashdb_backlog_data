@@ -1,0 +1,15 @@
+c_studio:
+  - Hot Legs and Feet
+  - null
+comments:
+  - https://www.indexxx.com/set/11560/hot-legs-and-feet-carmen-sindy/
+performers:
+  remove:
+    - id: 1742af68-f9ee-4ab2-aa78-eaf533cb581c
+      name: Sindy
+      appearance: null
+  append:
+    - id: 9ca8ded3-f0fa-465d-8aa5-140d75660489
+      name: Jasmine A
+      appearance: Sindy
+      disambiguation: vivthomas.com
