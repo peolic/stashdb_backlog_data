@@ -18,15 +18,13 @@ split:
     - column: M
       id: null
       name: Luis (Papi, 2006)
-      notes:
-        - Papi "Papi Palace"
+      text: Papi "Papi Palace"
       links:
         - https://stashdb.org/scenes/68679538-265b-4288-842c-84e3a8fca62f
     - column: N
       id: null
       name: Luis (Boys First Time, 2011)
-      notes:
-        - Boys First Time "The Back End"
+      text: Boys First Time "The Back End"
       links:
         - https://stashdb.org/scenes/8715cd44-482d-4dbb-8027-592df9ca1d7e
   notes:

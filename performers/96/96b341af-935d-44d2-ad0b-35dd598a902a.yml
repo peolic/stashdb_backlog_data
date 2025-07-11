@@ -11,8 +11,7 @@ split:
     - column: M
       id: null
       name: Leo (Boys First Time, 2005)
-      notes:
-        - Boys First Time "Wanker Yanker"
+      text: Boys First Time "Wanker Yanker"
       links:
         - https://stashdb.org/scenes/291c1e2a-1cd9-4839-bd82-a7bb91085783
   notes:
