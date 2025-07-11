@@ -16,8 +16,7 @@ split:
     - column: L
       id: null
       name: Marc (Papi, 2008)
-      notes:
-        - Papi "Testicle Seduction"
+      text: Papi "Testicle Seduction"
       links:
         - https://stashdb.org/scenes/d9fd780d-ce0d-4ab4-be49-f7d6a77bc462
   notes:
