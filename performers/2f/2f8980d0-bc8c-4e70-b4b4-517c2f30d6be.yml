@@ -19,30 +19,30 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=acbb78a8-2884-4cf7-843b-8b89938cbc21
         - https://stashdb.org/scenes/81bade0e-860a-461f-b314-863a2cf72a66
+        - https://www.iafd.com/title.rme/id=e431c5eb-b8a0-4bd5-a5ca-3102229c9b40
         - https://www.realitykings.com/model/25025/mary
         - https://www.imdb.com/name/nm9242388/
         - https://www.imdb.com/title/tt6263578/
     - column: P
       id: null
       name: Mary (Dare Dorm, 2010-11)
-      notes:
-        - Dare Dorm "Just You"
+      text: Dare Dorm "Just You"
       links:
-        - https://www.realitykings.com/model/25948/mary
         - https://www.iafd.com/person.rme/id=9460a727-057e-4237-8f89-2401b4d81f9c
-        - https://www.imdb.com/name/nm10912811/
-        - https://www.iafd.com/title.rme/id=541f6a53-db77-42a1-bf6d-39a221a75635
-        - https://www.imdb.com/title/tt6263504/
         - https://stashdb.org/scenes/693f3282-7a39-4321-a3c4-b687525e86b3
+        - https://www.iafd.com/title.rme/id=541f6a53-db77-42a1-bf6d-39a221a75635
+        - https://www.realitykings.com/model/25948/mary
+        - https://www.imdb.com/name/nm10912811/
+        - https://www.imdb.com/title/tt6263504/
     - column: Q
       id: null
       name: Mary (Dare Dorm, 2010-08)
-      notes:
-        - Dare Dorm "Foolish Things"
+      text: Dare Dorm "Foolish Things"
       links:
+        - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
+        - https://www.iafd.com/title.rme/id=c8c9c0d1-d9aa-480b-8d59-6f270982fc99
         - https://www.imdb.com/name/nm10912756/
         - https://www.imdb.com/title/tt6258034/
-        - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

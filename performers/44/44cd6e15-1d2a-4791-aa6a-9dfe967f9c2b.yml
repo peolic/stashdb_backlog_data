@@ -33,18 +33,16 @@ split:
     - column: AF
       id: null
       name: Michelle (Dick Dorm, 2011)
-      notes:
-        - Dick Dorm "Glow Dicks"
+      text: Dick Dorm "Glow Dicks"
       links:
         - https://stashdb.org/scenes/63ed6e5e-2979-468f-bdc8-add91e026272
     - column: AG
       id: null
       name: Michelle (Dare Dorm, 2011)
-      notes:
-        - Dare Dorm "Measure Up"
+      text: Dare Dorm "Measure Up"
       links:
-        - https://www.imdb.com/name/nm10929454/
         - https://stashdb.org/scenes/22b2059b-6931-45a4-b81f-209e9cab4bb8
+        - https://www.imdb.com/name/nm10929454/
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
