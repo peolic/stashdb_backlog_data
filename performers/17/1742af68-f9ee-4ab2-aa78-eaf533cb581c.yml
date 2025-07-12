@@ -1,15 +1,7 @@
 split:
   name: Sindy
-  fragments:
-    - column: J
-      id: 9ca8ded3-f0fa-465d-8aa5-140d75660489
-      name: Sindy (2007, DDF Network)
-      text: Hot Legs and Feet
-      links:
-        - https://www.iafd.com/person.rme/id=e351d3b2-d38c-4092-9226-abad537b4111
-        - https://www.indexxx.com/m/sindy
-        - https://stashdb.org/scenes/70810354-16f9-424a-a607-7dec41c36626
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2022-07-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

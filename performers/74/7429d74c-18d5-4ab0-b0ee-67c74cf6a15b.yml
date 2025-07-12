@@ -1,13 +1,7 @@
 split:
   name: Anya
-  fragments:
-    - column: S
-      id: 57525e05-dd69-40c7-b9d0-32f829a233b0
-      name: Anya (Nasty Angels)
-      text: Nasty Angels "Nasty fucking after classes"
-      links:
-        - https://stashdb.org/scenes/700c6d77-8385-42f2-bc8f-c0baf4ae5e1e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-28)
     - Best to move scenes and delete performer, rather than merging or renaming.
