@@ -1,0 +1,14 @@
+c_studio:
+  - Wicked
+  - null
+comments:
+  - Studio name of "Wicked" is incorrect
+performers:
+  remove:
+    - id: 8c6f622b-3eb8-4729-b436-e643a8b5c62c
+      name: Chad
+      appearance: null
+  append:
+    - id: 76e2c878-68a5-4030-b91d-5d2535b903c1
+      name: Valter Karotti
+      appearance: Chad

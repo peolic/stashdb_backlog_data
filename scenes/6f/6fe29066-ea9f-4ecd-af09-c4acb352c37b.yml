@@ -1,0 +1,14 @@
+c_studio:
+  - Doghouse Digital
+  - null
+comments:
+  - 'Original "Travis" alias from incorrect Doghouse Digital performer merge: https://www.iafd.com/title.rme/id=df6b1456-f121-4d4b-8ed3-877dca10c036'
+performers:
+  remove:
+    - id: 3ff683d8-9915-49f1-99f1-0cff7c56d3cb
+      name: David Sobota
+      appearance: null
+  append:
+    - id: d60c8e8a-45de-4fb9-b6b6-65941308634c
+      name: Eric Tomfor
+      appearance: Zack Hood

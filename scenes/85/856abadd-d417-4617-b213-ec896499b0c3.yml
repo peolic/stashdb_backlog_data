@@ -1,0 +1,13 @@
+c_studio:
+  - White Ghetto
+  - null
+performers:
+  remove:
+    - id: b9cc13bc-324c-41d2-ac47-321c42620c76
+      name: Kira Lynn
+      appearance: null
+      disambiguation: RU / LV
+  append:
+    - id: aa864357-033f-4459-93c4-3c314608db69
+      name: Misty Dawn
+      appearance: Kira Lynn

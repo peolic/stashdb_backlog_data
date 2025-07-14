@@ -1,0 +1,12 @@
+c_studio:
+  - Hairy Undies
+  - null
+performers:
+  remove:
+    - id: 3332c7ea-2b89-411e-8653-5847c0212aa3
+      name: Cloey
+      appearance: null
+  append:
+    - id: ddd1bfef-1666-4e5a-9de8-f2a3339ac1e6
+      name: Chloey Adams
+      appearance: Cloey
