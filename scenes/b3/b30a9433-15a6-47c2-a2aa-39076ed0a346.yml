@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 4d4edf9d-e420-42c0-b0b6-18b9942ae942
+      name: Blake
+      appearance: null
+  append:
+    - id: null
+      name: Blake
+      appearance: null
+      disambiguation: Boys First Time
+      status: new

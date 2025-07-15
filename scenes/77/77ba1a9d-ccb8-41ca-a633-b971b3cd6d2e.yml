@@ -1,0 +1,20 @@
+c_studio:
+  - Nubiles
+  - null
+comments:
+  - 'From Indexxx: https://www.indexxx.com/set/13708/nubiles-anita/'
+performers:
+  remove:
+    - id: 92496929-43ca-44f9-8862-9465c908de36
+      name: Anita
+      appearance: null
+  append:
+    - id: null
+      name: Anita
+      appearance: null
+      disambiguation: Nubles
+      status: new
+      status_url: https://www.indexxx.com/m/anita-2
+      notes:
+        - https://www.thenude.com/_11713.htm
+        - https://nubiles.net/model/profile/612/
