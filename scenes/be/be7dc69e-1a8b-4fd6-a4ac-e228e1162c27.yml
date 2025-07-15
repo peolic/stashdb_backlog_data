@@ -3,16 +3,10 @@ c_studio:
   - null
 performers:
   remove:
-    - id: daf09e18-d628-4da9-b0f3-e6b5afa6367b
-      name: Tyler
-      appearance: null
     - id: dfa36ba8-40d8-4d25-9040-f9f5f4278586
       name: Casper
       appearance: null
   append:
-    - id: 83c46a1b-dca8-4510-8339-25b14eff9c0e
-      name: Tyler Bishop
-      appearance: Tyler
     - id: null
       name: Casper
       appearance: null

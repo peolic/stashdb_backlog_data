@@ -2,7 +2,8 @@ c_studio:
   - Sex Mex
   - null
 comments:
-  - 'From IAFD: https://www.iafd.com/title.rme/id=904f888d-2120-48fe-b518-200877c5720c'
+  - 'From IAFD:'
+  - https://www.iafd.com/title.rme/id=904f888d-2120-48fe-b518-200877c5720c
 performers:
   remove:
     - id: 0e06a22c-803a-457a-ad51-2896a1f53dfa
