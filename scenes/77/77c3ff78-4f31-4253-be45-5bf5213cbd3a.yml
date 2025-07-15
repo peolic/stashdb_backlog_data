@@ -8,9 +8,6 @@ performers:
     - id: 23148453-1f58-4ab0-b2b6-743b5205d284
       name: Eddie
       appearance: null
-    - id: 14090f4c-94d3-4bac-9ceb-cf403b5f14d8
-      name: Jr
-      appearance: null
   append:
     - id: null
       name: Edward Steel
@@ -18,8 +15,5 @@ performers:
       status: new
       status_url: https://www.iafd.com/person.rme/id=51e62246-8a37-4da8-9c10-46f013017f2d
     - id: null
-      name: JR
+      name: Eli Duran
       appearance: null
-      disambiguation: Boys First Time, 2011-02
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ec9953ef-c64a-4c04-8d3f-2e035af09142

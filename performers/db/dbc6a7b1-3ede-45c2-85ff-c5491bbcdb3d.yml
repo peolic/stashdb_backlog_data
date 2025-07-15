@@ -18,13 +18,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=ab2996d9-fdc1-4d5f-a9b2-2b43f8842323
         - https://stashdb.org/scenes/0faec75f-ef9c-497f-bb3f-10d76123f52f
-    - column: X
-      id: 03fd3e53-3cb4-4eb1-934f-19c5eb403409
-      name: Monica (2009, Sex Mex)
-      text: Sex Mex
-      links:
-        - https://www.iafd.com/person.rme/id=739fd818-1bfb-40b1-90a5-38b58eb978a4
-        - https://stashdb.org/scenes/ab30531c-3816-45b7-95be-1c8026bd08e2
     - column: Y
       id: null
       name: Monica
