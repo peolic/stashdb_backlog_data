@@ -24,11 +24,11 @@ fingerprints:
     duration: 94038
   - algorithm: phash
     hash: ea59974963f0bc44
-    correct_scene_id: null
+    correct_scene_id: f746ba69-5e10-4e9c-9122-b755a03d7d35
     duration: 3438
   - algorithm: phash
     hash: ea59b74963f0b444
-    correct_scene_id: null
+    correct_scene_id: f746ba69-5e10-4e9c-9122-b755a03d7d35
     duration: 3438
   - algorithm: oshash
     hash: 7a3021831df26897

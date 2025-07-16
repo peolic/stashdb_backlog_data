@@ -10,9 +10,11 @@ fingerprints:
   - algorithm: oshash
     hash: 0a662dfb1d86cd5a
     correct_scene_id: null
+    duration: 76
   - algorithm: phash
     hash: 8707070703847fff
     correct_scene_id: null
+    duration: 76
   - algorithm: oshash
     hash: b64a1812b54a323a
     correct_scene_id: null

@@ -293,7 +293,7 @@ fingerprints:
     duration: 1318
   - algorithm: phash
     hash: 981c1c1c1cb9c7ef
-    correct_scene_id: null
+    correct_scene_id: 57fbd6b2-6e2c-4e1b-a6d4-c65df5418d94
     duration: 1436
   - algorithm: phash
     hash: 9c1c1c1c1ee6e373
@@ -305,7 +305,7 @@ fingerprints:
     duration: 2711
   - algorithm: phash
     hash: 9c9c1c1c9c9ce3e3
-    correct_scene_id: null
+    correct_scene_id: 93e2d5b0-63b2-4130-b45d-315ac8337e41
     duration: 2800
   - algorithm: phash
     hash: b06860cae4f5cedc

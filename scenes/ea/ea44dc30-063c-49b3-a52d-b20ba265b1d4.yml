@@ -1,10 +1,10 @@
 fingerprints:
-  - algorithm: phash
-    hash: f7e3426ce5109695
-    correct_scene_id: c960772f-6a18-42c1-a096-d4f02933478e
-    duration: 1735
   - algorithm: oshash
     hash: ea93dc611ec70a9b
+    correct_scene_id: c960772f-6a18-42c1-a096-d4f02933478e
+    duration: 1735
+  - algorithm: phash
+    hash: f7e3426ce5109695
     correct_scene_id: c960772f-6a18-42c1-a096-d4f02933478e
     duration: 1735
   - algorithm: oshash
