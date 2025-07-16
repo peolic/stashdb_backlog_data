@@ -1,0 +1,12 @@
+c_studio:
+  - The Very Best Of
+  - null
+performers:
+  remove:
+    - id: 6ef1d880-1a26-4b94-9709-12f161c88340
+      name: Mariah
+      appearance: null
+  append:
+    - id: 3090cb74-d162-40b5-83b5-52f276136503
+      name: Susan Eubanks
+      appearance: Mariah
