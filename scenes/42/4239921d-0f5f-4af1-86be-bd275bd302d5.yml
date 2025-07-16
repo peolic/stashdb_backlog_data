@@ -1,0 +1,33 @@
+fingerprints:
+  - algorithm: md5
+    hash: db7fbb6879ad0f7c0aa55eb63966844c
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: phash
+    hash: a21866187cfcb7a9
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: phash
+    hash: a218661a7cfcb6a9
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: oshash
+    hash: 313222e073a38dfd
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: oshash
+    hash: 8ee551819d561134
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: oshash
+    hash: c2b81077fd0b5a71
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: oshash
+    hash: f57730a96472bdda
+    correct_scene_id: null
+    duration: 1111
+  - algorithm: oshash
+    hash: ff39198622787d1d
+    correct_scene_id: null
+    duration: 1111

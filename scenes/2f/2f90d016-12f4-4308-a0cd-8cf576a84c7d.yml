@@ -10,40 +10,40 @@ fingerprints:
   - algorithm: oshash
     hash: 126f24c6dcd58e34
     correct_scene_id: null
-    duration: 1384
+    duration: 1382
   - algorithm: oshash
     hash: 3a947730186befb4
     correct_scene_id: null
-    duration: 1385
+    duration: 1382
   - algorithm: oshash
     hash: 379577a6b52b4b61
     correct_scene_id: null
-    duration: 1386
+    duration: 1382
   - algorithm: oshash
     hash: 7d0917e2565fb677
     correct_scene_id: null
-    duration: 1387
+    duration: 1382
   - algorithm: oshash
     hash: c4458a7cde90b6fc
     correct_scene_id: null
-    duration: 1388
+    duration: 1382
   - algorithm: oshash
     hash: dea920f9f7b2a990
     correct_scene_id: null
-    duration: 1389
+    duration: 1382
   - algorithm: oshash
     hash: e61299e012a28580
     correct_scene_id: null
-    duration: 1390
+    duration: 1382
   - algorithm: phash
     hash: d3c221cb786d8727
     correct_scene_id: null
-    duration: 1391
+    duration: 1382
   - algorithm: phash
     hash: d3c221cf78698727
     correct_scene_id: null
-    duration: 1392
+    duration: 1382
   - algorithm: phash
     hash: d3c221cf786d8725
     correct_scene_id: null
-    duration: 1393
+    duration: 1382
