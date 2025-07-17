@@ -9,20 +9,7 @@ split:
         - https://www.iafd.com/person.rme/perfid=sophia_rk_2005/gender=f/sophia.htm
         - https://www.indexxx.com/m/sophia-8
         - https://stashdb.org/scenes/878a071c-a777-4948-b12d-a084728d8f65
-    - column: M
-      id: 59b233c8-fc58-4d8c-a195-9db3ec4189a9
-      name: Sophia Gently
-      notes:
-        - "- \x02Devil's Film\x03"
-        - "- \x02Give Me Teens\x03"
-        - "- \x02Jules Jordan (Network): Scene 6 from Feeding Frezy 5\x03"
-        - '- New Sensations: correct movie name is in the studio link, titles are incorrect'
-        - "- \x02Wicked\x03"
-      links:
-        - https://www.iafd.com/person.rme/perfid=sophia_03/gender=f/sophia-gently.htm
-        - https://www.indexxx.com/m/sophia-gently
-        - https://stashdb.org/scenes/4ed9c420-914c-47bf-af7d-449588c22b1e
-        - https://stashdb.org/scenes/ea81165b-a937-4ff0-867c-2377a5bedd4b
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-08-02)
     - Best to move scenes and delete performer, rather than merging or renaming.
