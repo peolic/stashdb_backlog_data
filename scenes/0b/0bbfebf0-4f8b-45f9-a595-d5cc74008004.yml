@@ -7,3 +7,19 @@ fingerprints:
     hash: acc22e15f76be070
     correct_scene_id: null
     duration: 1578
+  - algorithm: phash
+    hash: acc22e15d76be270
+    correct_scene_id: null
+    duration: 1578
+  - algorithm: phash
+    hash: cc50fc05c1cec7e3
+    correct_scene_id: null
+    duration: 1586
+  - algorithm: phash
+    hash: cc50fc05c1cfc7e2
+    correct_scene_id: null
+    duration: 1586
+  - algorithm: phash
+    hash: cc51bc25c1c7c7e2
+    correct_scene_id: null
+    duration: 1586
