@@ -3,3 +3,27 @@ fingerprints:
     hash: eda48f8b1fa04b83
     correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
     duration: 1544
+  - algorithm: md5
+    hash: e563fe3dc72a813e06c6ae78b241e3eb
+    correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
+    duration: 1544
+  - algorithm: oshash
+    hash: 34a24c2198890a92
+    correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
+    duration: 1544
+  - algorithm: oshash
+    hash: 43f9dcc287d34087
+    correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
+    duration: 1544
+  - algorithm: oshash
+    hash: 66039488b902e529
+    correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
+    duration: 1544
+  - algorithm: oshash
+    hash: a2a01eae83d37483
+    correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
+    duration: 1544
+  - algorithm: phash
+    hash: eda48fcb1fe00383
+    correct_scene_id: eb7b5622-1c24-4975-ab17-00e5f2837c38
+    duration: 1544
