@@ -3,3 +3,7 @@ fingerprints:
     hash: 95fb35807783a2c3
     correct_scene_id: 26e06725-8565-40b1-a633-e38e564f0dfa
     duration: 2095
+  - algorithm: oshash
+    hash: a01767bf0c92e414
+    correct_scene_id: 26e06725-8565-40b1-a633-e38e564f0dfa
+    duration: 2095
