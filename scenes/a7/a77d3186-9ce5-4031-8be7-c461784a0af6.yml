@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 9f1171da-5edd-408a-8f62-a277db2cbfb2
+      name: Alejandro
+      appearance: null
+  append:
+    - id: null
+      name: Christopher Alexander
+      appearance: Alejandro
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=22f58aa3-a956-4eae-92d9-fb4ac8a33d12

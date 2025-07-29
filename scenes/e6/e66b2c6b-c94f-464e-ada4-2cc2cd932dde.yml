@@ -1,0 +1,15 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 9f1171da-5edd-408a-8f62-a277db2cbfb2
+      name: Alejandro
+      appearance: null
+  append:
+    - id: null
+      name: Alejandro
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b236297c-6a63-4a3a-ba9f-06694bdea001

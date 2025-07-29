@@ -1,0 +1,50 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
+      name: Alex
+      appearance: null
+    - id: 908043ea-12c9-4185-a821-669ed7e281f8
+      name: Eduardo
+      appearance: null
+    - id: b901ad0a-859d-40bc-a810-9c78e5bad4be
+      name: John
+      appearance: null
+    - id: null
+      name: William
+      appearance: null
+  append:
+    - id: null
+      name: Alex
+      appearance: null
+      disambiguation: Oct 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=bb18de22-7855-4a36-9887-0e94558b90b1
+      notes:
+        - https://www.realitykings.com/model/24512/alex
+    - id: null
+      name: Eduardo
+      appearance: null
+      disambiguation: 2012, Dick Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5a593010-4efb-472d-bd69-cda7ea9bf60f
+      notes:
+        - https://www.realitykings.com/model/20965/eduardo
+    - id: null
+      name: John
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=03ff6f77-1c20-4d72-9a06-83419a65d4e0
+      notes:
+        - https://www.realitykings.com/model/24514/john
+    - id: null
+      name: William
+      appearance: null
+      disambiguation: 2012-10, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a80f5c26-cf78-4a73-82dd-1e32b0237f20
+      notes:
+        - https://www.realitykings.com/model/20976/william

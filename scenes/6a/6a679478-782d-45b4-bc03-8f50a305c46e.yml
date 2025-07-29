@@ -1,0 +1,42 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 6388fcfe-b2ec-4eea-a971-1719ef4664dc
+      name: Amy
+      appearance: null
+    - id: 1e3bae38-6e02-403e-8c7a-bfa880485c54
+      name: Felicia
+      appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+    - id: null
+      name: Justin
+      appearance: null
+  append:
+    - id: null
+      name: Amy
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=448f9bb8-1d24-4453-bd0f-d963125adb6d
+    - id: null
+      name: Felicia
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0a88f22e-a7ff-47cf-b2a7-bcf5a1fd4130
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2012-05
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
+    - id: null
+      name: Justin
+      appearance: null
+      disambiguation: Dare Dorm, 2012-05
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2eaa3274-d576-44ac-8853-0a9b8759a09c

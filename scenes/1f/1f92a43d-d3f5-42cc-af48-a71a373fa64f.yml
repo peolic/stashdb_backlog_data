@@ -1,0 +1,17 @@
+c_studio:
+  - GF Revenge
+  - null
+performers:
+  remove:
+    - id: 01a695d8-aef4-46b5-8acf-d1206061b8c1
+      name: Lee
+      appearance: null
+  append:
+    - id: null
+      name: Lee
+      appearance: null
+      disambiguation: 2013, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b8bcaf27-7529-456c-a14c-3fa9420ee2cc
+      notes:
+        - https://www.realitykings.com/model/25875/lee

@@ -1,0 +1,12 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: 23148453-1f58-4ab0-b2b6-743b5205d284
+      name: Eddie
+      appearance: null
+  append:
+    - id: 6f1e1ba3-c9f4-403e-8178-e77c8c5a5fbd
+      name: Edward Steel
+      appearance: Eddie
