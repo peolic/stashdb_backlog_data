@@ -10,14 +10,11 @@ performers:
       disambiguation: 2010-2015, dancingbear.com
       status: new
       status_url: https://www.iafd.com/person.rme/id=e1657912-f594-4721-a2e2-b43b8979bc5b
-    - id: null
-      name: Gina
+    - id: a4c9d767-45a4-47a8-a636-d3ed4f1e9052
+      name: Gina [2011-2014, dancingbear.com
       appearance: null
-      disambiguation: 2011-2014, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=997eeba5-ad9f-42a4-8334-dfc59f16b4a1
     - id: null
-      name: Amanda
+      name: Mandy
       appearance: null
       disambiguation: 2008, inthevip.com
       status: new
@@ -28,9 +25,3 @@ performers:
       disambiguation: 2011-2015, dancingbear.com
       status: new
       status_url: https://www.iafd.com/person.rme/id=e788a029-80e9-44ba-a86d-9d9e8711d4bf
-    - id: null
-      name: Amanda
-      appearance: null
-      disambiguation: 2008, inthevip.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8f4277e7-2f0b-47c9-8824-01309e358e91

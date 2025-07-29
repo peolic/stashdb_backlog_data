@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: aa1399fd-8741-46e6-b280-cffe0670f87c
       name: Libia Martin
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d4ad06bf-777c-43f8-a203-384d62b04fd4

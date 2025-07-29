@@ -13,13 +13,9 @@ performers:
       name: Michael
       appearance: null
   append:
-    - id: null
+    - id: 6165f08a-8e38-474a-b63d-08943db6a1cc
       name: Clint Radford
-      appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=529d5fd4-3150-47f3-919b-b66b05aefbd7
-    - id: null
+      appearance: Clint
+    - id: 3241e0d5-bfe8-4726-b0f7-ac5ff5ff2576
       name: Michael Pearce
       appearance: Michael
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=31e06922-09e7-4799-98ca-d958feedbd04

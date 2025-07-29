@@ -7,8 +7,6 @@ performers:
       name: Danny
       appearance: null
   append:
-    - id: null
+    - id: 8cb2f544-5106-450f-a597-3e783f9d0ffb
       name: Danny Tucan
-      appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=7af1a5a1-27c4-4eca-9351-dcd00b8ae38e
+      appearance: Danny

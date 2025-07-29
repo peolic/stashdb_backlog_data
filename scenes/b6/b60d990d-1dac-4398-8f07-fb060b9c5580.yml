@@ -6,8 +6,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: cf0ca56d-8964-4c9a-93f0-e56d34c90638
       name: Logan Reaves
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5dd9d77c-d028-4de4-bfa8-b8bdd5243134

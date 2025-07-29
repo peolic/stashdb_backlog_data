@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 7445ee52-22c7-4542-a0ec-3dec3b678491
       name: Kitty Deveah
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=27617d56-ee72-47a8-9548-f0513d97124b

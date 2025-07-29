@@ -6,8 +6,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 5345dca5-c76d-4f61-915e-d0a86baa6f11
       name: Alexis Silk
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6f124a18-6bd7-4302-92cd-57bacef13c13

@@ -4,9 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
-      name: Gina
+    - id: a4c9d767-45a4-47a8-a636-d3ed4f1e9052
+      name: Gina [2011-2014, dancingbear.com
       appearance: null
-      disambiguation: 2011-2014, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=997eeba5-ad9f-42a4-8334-dfc59f16b4a1

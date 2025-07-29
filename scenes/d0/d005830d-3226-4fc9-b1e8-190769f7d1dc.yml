@@ -6,8 +6,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 279ec262-499d-4ecb-a84d-a904d841745c
       name: Xavier Silver
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=83208079-b3bf-4bf2-9b41-f14cdb6b53ae

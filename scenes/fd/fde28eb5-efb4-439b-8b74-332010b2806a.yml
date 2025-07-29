@@ -6,8 +6,6 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 8c75465a-6008-40c5-9970-6f99c1ed8404
       name: Amber Star
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=cc3a74f9-7399-4af5-9629-21608072dde6

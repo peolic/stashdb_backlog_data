@@ -7,8 +7,6 @@ performers:
       name: Michael
       appearance: null
   append:
-    - id: null
+    - id: 3241e0d5-bfe8-4726-b0f7-ac5ff5ff2576
       name: Michael Pearce
       appearance: Michael
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=31e06922-09e7-4799-98ca-d958feedbd04

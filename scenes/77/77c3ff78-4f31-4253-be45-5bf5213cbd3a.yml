@@ -10,8 +10,6 @@ performers:
       name: Eddie
       appearance: null
   append:
-    - id: null
+    - id: 6f1e1ba3-c9f4-403e-8178-e77c8c5a5fbd
       name: Edward Steel
       appearance: Eddie
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=51e62246-8a37-4da8-9c10-46f013017f2d
