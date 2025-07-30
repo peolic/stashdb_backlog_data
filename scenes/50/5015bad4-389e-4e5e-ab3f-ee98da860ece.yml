@@ -3,7 +3,7 @@ c_studio:
   - null
 performers:
   remove:
-    - id: null
+    - id: f787a9e7-2b91-4ee4-9413-bceac796d3b5
       name: Bradley
       appearance: null
   append:

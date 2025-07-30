@@ -1,0 +1,15 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: f78532fc-b2b4-465d-97c2-a46a430d9429
+      name: Brandon
+      appearance: null
+  append:
+    - id: null
+      name: Brandon
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      status_url: http://brandon/
