@@ -1,9 +1,0 @@
-c_studio:
-  - Dorm Invasion
-  - null
-performers:
-  remove: []
-  append:
-    - id: aa1399fd-8741-46e6-b280-cffe0670f87c
-      name: Libia Martin
-      appearance: null

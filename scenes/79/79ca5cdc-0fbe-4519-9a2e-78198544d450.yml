@@ -1,9 +1,0 @@
-c_studio:
-  - Money Talks
-  - null
-performers:
-  remove: []
-  append:
-    - id: 7445ee52-22c7-4542-a0ec-3dec3b678491
-      name: Kitty Deveah
-      appearance: null

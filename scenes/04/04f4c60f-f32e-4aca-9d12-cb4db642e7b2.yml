@@ -4,15 +4,11 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 56296075-bdf3-474b-bada-c532c8b5c4b1
       name: Mike
       appearance: null
       disambiguation: 2002-2003, bangbus.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=df1a6cea-8aa9-486d-8c71-653e796d9055
-    - id: null
+    - id: 320cabf9-f08f-46db-bf15-2cf951be2b85
       name: Naomi
       appearance: Iman
       disambiguation: ATKingdom, nao003
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=56592f0f-b6e1-481f-ab5d-dc0e158d5487
