@@ -1,0 +1,15 @@
+c_studio:
+  - Woodman Casting X
+  - null
+performers:
+  remove:
+    - id: 4a3e421a-407e-4593-a83d-e3818c184ab9
+      name: Andrea
+      appearance: null
+  append:
+    - id: null
+      name: Andrea
+      appearance: null
+      disambiguation: Woodman Casting X, 1999
+      status: new
+      status_url: https://www.indexxx.com/m/andrea-63

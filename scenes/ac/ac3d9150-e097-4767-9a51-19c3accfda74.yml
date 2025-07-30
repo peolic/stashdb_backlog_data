@@ -1,0 +1,17 @@
+c_studio:
+  - Naughty Bookworms
+  - null
+performers:
+  remove:
+    - id: c319019b-822d-4704-8cfd-88e37c33b8ad
+      name: Bob
+      appearance: null
+  append:
+    - id: null
+      name: Bob
+      appearance: null
+      disambiguation: 2004, Naughty America
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=176ec3ff-a363-4bfd-a466-f115af24f52f
+      notes:
+        - https://www.naughtyamerica.com/pornstar/bob

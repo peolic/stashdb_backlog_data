@@ -1,0 +1,15 @@
+c_studio:
+  - Sex Mex
+  - null
+performers:
+  remove:
+    - id: f1aad028-ce29-4cee-aa21-b31cccdf8651
+      name: Angie
+      appearance: null
+  append:
+    - id: null
+      name: Angie
+      appearance: null
+      disambiguation: 2005-2011, SexMex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e6c79cc4-a9ee-4ca9-a70a-5546e155e5d2

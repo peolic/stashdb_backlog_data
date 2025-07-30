@@ -1,0 +1,15 @@
+c_studio:
+  - Cum Girls
+  - null
+performers:
+  remove:
+    - id: ca94db89-5084-4242-be6c-902147176d06
+      name: Barbie
+      appearance: null
+  append:
+    - id: null
+      name: Barbie
+      appearance: null
+      disambiguation: 2005, Cum Girls
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=67cf4806-6f03-4080-bb6b-0b94b93e8743

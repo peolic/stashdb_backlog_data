@@ -1,0 +1,50 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 55d494b3-166c-4847-acac-84593cc28050
+      name: Andrew
+      appearance: null
+    - id: 5f380b48-6fc9-4102-83b9-8d355f7082ff
+      name: Anthony
+      appearance: null
+    - id: b901ad0a-859d-40bc-a810-9c78e5bad4be
+      name: John
+      appearance: null
+    - id: e81305cc-24bd-401e-b2fe-4c3c994f87a5
+      name: Justin
+      appearance: null
+  append:
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=07ff6312-8491-41b5-bd29-20261f7a10c2
+      notes:
+        - https://www.realitykings.com/model/25229/andrew
+        - https://www.imdb.com/name/nm9242442/
+    - id: null
+      name: Anthony
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=91ae7637-2006-4304-86c7-f9cf47d1ae59
+      notes:
+        - https://www.realitykings.com/model/25231/anthony
+    - id: null
+      name: John
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=39b427dc-3da0-4c24-b19a-0c7e97fae625
+      notes:
+        - https://www.realitykings.com/model/25233/john
+    - id: null
+      name: Justin
+      appearance: null
+      disambiguation: Dare Dorm, 2011-08
+      status: new
+      notes:
+        - https://www.iafd.com/person.rme/id=4e4b0d5a-b5b8-4298-bb9a-e09ea4681e7b

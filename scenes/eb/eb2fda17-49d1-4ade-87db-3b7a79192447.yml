@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 5f380b48-6fc9-4102-83b9-8d355f7082ff
+      name: Anthony
+      appearance: null
+  append:
+    - id: null
+      name: Billy Blew
+      appearance: Anthony
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6e94e9a5-b1f7-4512-85a0-e2f4596127c6

@@ -1,0 +1,17 @@
+c_studio:
+  - Mike's Apartment
+  - null
+performers:
+  remove:
+    - id: null
+      name: Bradley
+      appearance: null
+  append:
+    - id: null
+      name: Bradley
+      appearance: null
+      disambiguation: 2013, Mike's Apartment
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1e0ba741-60f5-41d7-905c-dbf2b53dc440
+      notes:
+        - https://www.realitykings.com/model/15345/bradley

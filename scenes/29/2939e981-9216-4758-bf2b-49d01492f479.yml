@@ -1,0 +1,44 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: f1aad028-ce29-4cee-aa21-b31cccdf8651
+      name: Angie
+      appearance: null
+    - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
+      name: Jason
+      appearance: null
+    - id: 4d344713-91f1-48d7-9f2c-806f5a56c0af
+      name: Scott
+      appearance: null
+    - id: 7065e5e7-0c06-4b37-9618-5be06393fb82
+      name: Christian
+      appearance: null
+  append:
+    - id: null
+      name: Angie
+      appearance: null
+      disambiguation: Dare Dorm, 2009
+      status: new
+      status_url: https://www.imdb.com/name/nm9242328/
+      notes:
+        - https://www.realitykings.com/model/25673/angie
+    - id: null
+      name: Jason
+      appearance: null
+      disambiguation: Dare Dorm, 2009
+      status: new
+      status_url: https://www.realitykings.com/model/25677/jason
+    - id: null
+      name: Scott
+      appearance: null
+      disambiguation: Dare Dorm, 2009
+      status: new
+      status_url: https://www.realitykings.com/model/25681/scott
+    - id: null
+      name: Christian
+      appearance: null
+      disambiguation: Dare Dorm, 2009
+      status: new
+      status_url: https://www.realitykings.com/model/25675/christian

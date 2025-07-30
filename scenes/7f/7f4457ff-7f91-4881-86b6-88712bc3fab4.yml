@@ -1,0 +1,17 @@
+c_studio:
+  - Twistys
+  - null
+performers:
+  remove:
+    - id: ee3c4699-b02b-44c7-9454-b0e4a95a5ddc
+      name: Bobbi
+      appearance: null
+  append:
+    - id: null
+      name: Bobbi
+      appearance: null
+      disambiguation: 2006, Twistys
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d5d92e5d-e092-4e21-8a58-9a3030cd0294
+      notes:
+        - https://www.indexxx.com/m/bobbi-4

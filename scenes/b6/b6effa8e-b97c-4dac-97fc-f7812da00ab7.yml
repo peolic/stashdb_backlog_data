@@ -1,0 +1,17 @@
+c_studio:
+  - Butt Machine Boys
+  - null
+performers:
+  remove:
+    - id: fdc82b4c-8a48-4437-890b-b552d3fda6fc
+      name: Bobby
+      appearance: null
+  append:
+    - id: null
+      name: Bobby
+      appearance: null
+      disambiguation: 2002, Butt Machine Boys
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3d48701e-8c87-40df-a707-0cee0b6f0fe3
+      notes:
+        - https://www.kinkmen.com/model/349/Bobby

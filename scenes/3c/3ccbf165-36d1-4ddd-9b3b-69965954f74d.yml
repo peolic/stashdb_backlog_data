@@ -1,0 +1,17 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: c1642f14-4b17-4e4b-84af-372195a65d1c
+      name: Betty
+      appearance: null
+  append:
+    - id: null
+      name: Betty
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a569d53e-03df-41a7-87f8-033a59381fce
+      notes:
+        - https://www.realitykings.com/model/25746/betty

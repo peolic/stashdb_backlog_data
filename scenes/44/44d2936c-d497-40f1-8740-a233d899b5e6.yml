@@ -1,0 +1,21 @@
+c_studio:
+  - Woodman Casting X
+  - null
+performers:
+  remove:
+    - id: 2ba12117-4cb6-4f12-8378-0c9474457cbe
+      name: Ania And Tania
+      appearance: null
+  append:
+    - id: null
+      name: Ania
+      appearance: null
+      disambiguation: 2000, Russian, Woodman
+      status: new
+      status_url: https://www.indexxx.com/m/ania-9
+    - id: null
+      name: Tania
+      appearance: null
+      disambiguation: 2000, Russian, Woodman
+      status: new
+      status_url: https://www.indexxx.com/m/tania-8
