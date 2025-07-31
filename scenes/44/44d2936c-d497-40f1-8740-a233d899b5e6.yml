@@ -11,11 +11,15 @@ performers:
       name: Ania
       appearance: null
       disambiguation: 2000, Russian, Woodman
-      status: new
-      status_url: https://www.indexxx.com/m/ania-9
+      status: c
+      status_url: https://stashdb.org/edits/c55bffb4-5145-4f78-ab18-b5e70c2443d2
+      notes:
+        - https://www.indexxx.com/m/ania-9
     - id: null
       name: Tania
       appearance: null
       disambiguation: 2000, Russian, Woodman
-      status: new
-      status_url: https://www.indexxx.com/m/tania-8
+      status: c
+      status_url: https://stashdb.org/edits/7b4acc74-dc95-4ed1-a437-421cbfac3346
+      notes:
+        - https://www.indexxx.com/m/tania-8

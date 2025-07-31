@@ -1,0 +1,15 @@
+c_studio:
+  - Pegas Productions
+  - null
+comments:
+  - per url - scene 5 from 1001 Fantasmes a Quebec 2
+  - https://www.iafd.com/title.rme/id=38252f92-9340-42a2-b866-c1861cf851f3
+performers:
+  remove:
+    - id: aee0d338-9ab8-4b5b-9e44-12f546fc2aed
+      name: Xavier
+      appearance: null
+  append:
+    - id: 279ec262-499d-4ecb-a84d-a904d841745c
+      name: Xavier Silver
+      appearance: Xavier
