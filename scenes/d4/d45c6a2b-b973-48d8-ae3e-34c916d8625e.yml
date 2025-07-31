@@ -1,0 +1,24 @@
+c_studio:
+  - I Shoot My Girl
+  - null
+performers:
+  remove:
+    - id: 55d494b3-166c-4847-acac-84593cc28050
+      name: Andrew
+      appearance: null
+    - id: c6c058a1-4176-4768-8b0a-b7eb7e1961ec
+      name: Tanya
+      appearance: null
+  append:
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: I Shoot My Girl
+      status: c
+      status_url: https://stashdb.org/edits/6c686e51-0b33-4785-8765-24678f8a3fd6
+    - id: null
+      name: Tanya
+      appearance: null
+      disambiguation: I Shoot My Girl
+      status: c
+      status_url: https://stashdb.org/edits/3935232d-2bc5-41b0-8cad-701120b963e1
