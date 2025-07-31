@@ -20,10 +20,11 @@ performers:
       name: Angie
       appearance: null
       disambiguation: Dare Dorm, 2009
-      status: new
-      status_url: https://www.imdb.com/name/nm9242328/
+      status: c
+      status_url: https://stashdb.org/edits/c3943e2d-8342-4520-b5c4-124ad85ddcea
       notes:
         - https://www.realitykings.com/model/25673/angie
+        - https://www.imdb.com/name/nm9242328/
     - id: null
       name: Jason
       appearance: null

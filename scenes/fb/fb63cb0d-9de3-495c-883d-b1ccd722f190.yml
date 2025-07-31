@@ -20,11 +20,12 @@ performers:
       name: Andrew
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=07ff6312-8491-41b5-bd29-20261f7a10c2
+      status: c
+      status_url: https://stashdb.org/edits/68bf2bb9-53dd-470e-b998-f78f6dc98852
       notes:
         - https://www.realitykings.com/model/25229/andrew
         - https://www.imdb.com/name/nm9242442/
+        - https://www.iafd.com/person.rme/id=07ff6312-8491-41b5-bd29-20261f7a10c2
     - id: null
       name: Anthony
       appearance: null

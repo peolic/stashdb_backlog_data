@@ -1,16 +1,7 @@
 split:
   name: Mick
-  fragments:
-    - column: J
-      id: dce58200-76e5-477d-ba4e-a7207d71ce79
-      name: Mick Gibson
-      notes:
-        - '- Boys First Time "Hot Cock"'
-        - "- \x02Boys First Time \"Dose Of Dick\"\x03"
-      links:
-        - https://www.iafd.com/person.rme/id=39adaa39-0b8d-429f-bfc0-b00741d7081c
-        - https://stashdb.org/scenes/6e6cb098-dccf-464f-94b2-65828adf3d10
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
