@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 8e03ce19-63d7-4338-9b85-359265a40794
       name: Daniela
       appearance: null
       disambiguation: 2009, putalocura.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a51b05ec-8dae-4ec5-b4b6-1aef91e2fca1
+      notes:
+        - https://www.iafd.com/person.rme/id=a51b05ec-8dae-4ec5-b4b6-1aef91e2fca1

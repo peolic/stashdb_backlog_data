@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 6a642663-6b27-4292-a8f8-eec70d38cf7d
       name: Jordan
       appearance: null
       disambiguation: 2014, Klixen
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e01aea16-3b88-466d-a566-807f52a37a2f
+      notes:
+        - https://www.iafd.com/person.rme/id=e01aea16-3b88-466d-a566-807f52a37a2f

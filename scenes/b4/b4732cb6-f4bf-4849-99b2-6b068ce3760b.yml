@@ -6,9 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: c8ce48c4-8f12-4a8a-9c90-661046b85e7b
       name: Angela Rodriguez
       appearance: null
       disambiguation: 2008, cfnmshow.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=aed423f1-3d79-4484-b480-5c844df47731
+      notes:
+        - https://www.iafd.com/person.rme/id=aed423f1-3d79-4484-b480-5c844df47731

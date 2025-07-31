@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 77d8f80f-4efa-47e3-bd21-6ff2dd0b5cd5
       name: Alina
       appearance: null
       disambiguation: 2020, lanewgirl.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5421c4e6-03a6-4ff8-a22a-b42f7af4728f
+      notes:
+        - https://www.iafd.com/person.rme/id=5421c4e6-03a6-4ff8-a22a-b42f7af4728f

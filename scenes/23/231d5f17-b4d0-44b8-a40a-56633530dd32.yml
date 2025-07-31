@@ -11,13 +11,12 @@ performers:
       appearance: null
       disambiguation: American 2006-2008
   append:
-    - id: null
+    - id: 8b2e73cb-54d3-4a07-9e65-8f39c85b1421
       name: Anna Lee
       appearance: null
-      disambiguation: 2007, Evasive Angels
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0faf263c-e97e-4f34-92c4-1e48284fc02a
+      disambiguation: 2007, Evasive Angles
       notes:
         - AKA Ashlin Van
+        - https://www.iafd.com/person.rme/id=0faf263c-e97e-4f34-92c4-1e48284fc02a
         - https://www.indexxx.com/m/anna-lee-4
         - https://www.indexxx.com/m/annalee

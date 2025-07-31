@@ -4,9 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 06cb4efa-d590-4c2c-8744-56fa7e5cc97f
       name: Lara
       appearance: null
       disambiguation: 2019, german-scout.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8e95fd55-c1c1-42b2-9266-b581e81cddfc
+      notes:
+        - https://www.iafd.com/person.rme/id=8e95fd55-c1c1-42b2-9266-b581e81cddfc

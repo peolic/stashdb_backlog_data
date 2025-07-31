@@ -7,11 +7,10 @@ performers:
       name: Brandon
       appearance: null
   append:
-    - id: null
+    - id: 127b5996-1f92-4404-bab4-fe09731fe578
       name: Brandon
       appearance: null
       disambiguation: 2003, Men In Pain
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=85188cb9-89e7-44d8-9516-bc5bf246623d
       notes:
+        - https://www.iafd.com/person.rme/id=85188cb9-89e7-44d8-9516-bc5bf246623d
         - https://www.kink.com/model/125/Brandon
