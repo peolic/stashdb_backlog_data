@@ -8,8 +8,10 @@ performers:
       name: Lilian
       appearance: null
       disambiguation: 2014, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=526574d2-1f1e-433a-aac2-a9acd11faf84
+      status: c
+      status_url: https://stashdb.org/edits/c9e33c77-f1a4-4262-a522-96eaf3198bb9
+      notes:
+        - https://www.iafd.com/person.rme/id=526574d2-1f1e-433a-aac2-a9acd11faf84
     - id: dd461535-c170-49dc-a76c-92b426e0e6e3
       name: Jade Blaze
       appearance: null
@@ -19,5 +21,7 @@ performers:
       name: Diamond
       appearance: null
       disambiguation: 2014, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=3d4656ab-5c6b-4e01-8f82-99cf3b4ba478
+      status: c
+      status_url: https://stashdb.org/edits/88536dcd-732a-4fcf-9b91-100bb097004e
+      notes:
+        - https://www.iafd.com/person.rme/id=3d4656ab-5c6b-4e01-8f82-99cf3b4ba478
