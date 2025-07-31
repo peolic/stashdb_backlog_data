@@ -1,14 +1,6 @@
 split:
   name: Clint
   fragments:
-    - column: L
-      id: 6165f08a-8e38-474a-b63d-08943db6a1cc
-      name: Clint Radford
-      text: Boys First Time "Get Down"
-      links:
-        - https://www.iafd.com/person.rme/id=529d5fd4-3150-47f3-919b-b66b05aefbd7
-        - https://gayeroticvideoindex.com/performer/69967
-        - https://stashdb.org/scenes/5c57a545-efdb-4cb2-a025-cca8a1a7a264
     - column: M
       id: null
       name: Clint (Dick Dorm, 2011)
@@ -17,6 +9,7 @@ split:
         - '- Dick Dorm "Pump It"'
       links:
         - https://stashdb.org/scenes/0394bfb2-0702-40fc-8d74-22ac28ae50b1
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
