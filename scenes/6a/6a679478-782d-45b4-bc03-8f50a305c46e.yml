@@ -20,8 +20,10 @@ performers:
       name: Amy
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=448f9bb8-1d24-4453-bd0f-d963125adb6d
+      status: c
+      status_url: https://stashdb.org/edits/823c3acc-4875-42d2-9181-7e7404ee9f83
+      notes:
+        - https://www.iafd.com/person.rme/id=448f9bb8-1d24-4453-bd0f-d963125adb6d
     - id: null
       name: Felicia
       appearance: null

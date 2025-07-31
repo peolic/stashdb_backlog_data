@@ -1,6 +1,8 @@
 c_studio:
   - Tranny Surprise
   - null
+comments:
+  - https://www.imdb.com/title/tt7716976/
 performers:
   remove:
     - id: dd6e3938-8cdb-45ce-aa49-873457296ad6
@@ -11,5 +13,7 @@ performers:
       name: Bianca
       appearance: null
       disambiguation: 2005, Tranny Surprise
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5316aa47-4789-4d30-87ac-ee72239aba13
+      status: c
+      status_url: https://stashdb.org/edits/a582fadb-a3f5-4973-8d73-33cd4f874c62
+      notes:
+        - https://www.iafd.com/person.rme/id=5316aa47-4789-4d30-87ac-ee72239aba13

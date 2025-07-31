@@ -1,7 +1,7 @@
 split:
   name: Anita
   fragments: []
-  status: empty - delete performer
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
