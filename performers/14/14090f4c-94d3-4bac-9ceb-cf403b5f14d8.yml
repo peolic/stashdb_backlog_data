@@ -1,18 +1,6 @@
 split:
   name: Jr
   fragments:
-    - column: I
-      id: d7f46454-a692-4a50-83ca-7c6c797b39b5
-      name: JR (Boys First Time, 2011-02)
-      notes:
-        - '- Boys First Time "The Cock Shocker"'
-        - '- Boys First Time "Booty Buddies"'
-      links:
-        - https://www.iafd.com/person.rme/id=ec9953ef-c64a-4c04-8d3f-2e035af09142
-        - https://www.iafd.com/title.rme/id=6d95cf2d-fe55-409a-bfec-797063aa14f7
-        - https://stashdb.org/scenes/02fb6bf0-52e3-4f09-aace-287c07b1ad32
-        - https://www.iafd.com/title.rme/id=06d0c972-ebd6-4d5c-b853-2b7ccb33e962
-        - https://stashdb.org/scenes/3fefaa01-3042-4ece-a17e-5699c2a33feb
     - column: J
       id: null
       name: JR (Boys First Time, 2011-05-27)

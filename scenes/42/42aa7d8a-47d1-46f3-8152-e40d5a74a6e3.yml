@@ -5,8 +5,9 @@ performers:
   remove: []
   append:
     - id: a4c9d767-45a4-47a8-a636-d3ed4f1e9052
-      name: Gina [2011-2014, dancingbear.com
+      name: Gina
       appearance: null
+      disambiguation: 2011-2014, dancingbear.com
     - id: null
       name: Layla
       appearance: null

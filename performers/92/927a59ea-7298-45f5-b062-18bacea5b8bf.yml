@@ -1,14 +1,7 @@
 split:
   name: Billy
-  fragments:
-    - column: N
-      id: 69a2f6ea-65bc-4c57-a198-c0b62c68d66c
-      name: Billy (2011, Dare Dorm)
-      text: Dare Dorm "School Project"
-      links:
-        - https://www.iafd.com/person.rme/perfid=billy_daredorm/gender=m/billy.htm
-        - https://stashdb.org/scenes/f87a8759-133e-4c68-9175-47a09b7ac5b6
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-01-20). See edit with removed images
     - Best to move scenes and delete performer, rather than merging or renaming.
