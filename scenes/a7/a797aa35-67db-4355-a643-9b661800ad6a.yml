@@ -12,12 +12,10 @@ performers:
       name: Rosa Rey
       appearance: Rosalinda
   append:
-    - id: null
+    - id: 4fc99fd9-49a9-49d1-996e-0e3599f9aa0b
       name: Rosalinda
       appearance: null
       disambiguation: 2005, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/bd35517d-12ee-45ea-9615-7816fd706ac9
       notes:
         - AKA Crystal Hernandez
         - https://www.iafd.com/person.rme/id=b829c0db-f392-4e6c-9305-fbfdaf049e26

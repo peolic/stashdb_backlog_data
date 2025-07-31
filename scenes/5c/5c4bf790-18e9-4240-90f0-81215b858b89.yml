@@ -7,11 +7,9 @@ performers:
       name: Adam
       appearance: null
   append:
-    - id: null
+    - id: 658cab30-36fe-4042-9e2a-50ced36fcd46
       name: Jim
       appearance: null
       disambiguation: Boys First Time, 2010
-      status: c
-      status_url: https://stashdb.org/edits/b908c54f-83d4-4c35-bf89-8b55332443fb
       notes:
         - https://www.iafd.com/person.rme/id=10f65157-58d8-4fe1-8613-3ea8965269b9

@@ -28,9 +28,10 @@ performers:
       name: Eduardo
       appearance: null
       disambiguation: 2012, Dick Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5a593010-4efb-472d-bd69-cda7ea9bf60f
+      status: c
+      status_url: https://stashdb.org/edits/10f7c244-e213-4b8f-ac16-4c3351c253a9
       notes:
+        - https://www.iafd.com/person.rme/id=5a593010-4efb-472d-bd69-cda7ea9bf60f
         - https://www.realitykings.com/model/20965/eduardo
     - id: null
       name: John

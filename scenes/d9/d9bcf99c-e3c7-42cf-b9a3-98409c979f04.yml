@@ -4,12 +4,10 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 6222ea66-0d11-46bf-a93f-51290c10a6a1
       name: Gloria
       appearance: null
       disambiguation: 2018-2019, clubsweethearts.com
-      status: c
-      status_url: https://stashdb.org/edits/f79ba67a-165e-4b9b-804e-f7d04dd4880b
       notes:
         - https://www.iafd.com/person.rme/id=d52e8302-d0d8-485f-bf9b-3804c4a0a3ee
         - https://adultprime.com/studios/search?type=performer&q=Gloria

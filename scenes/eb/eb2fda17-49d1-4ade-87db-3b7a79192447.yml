@@ -10,5 +10,7 @@ performers:
     - id: null
       name: Billy Blew
       appearance: Anthony
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6e94e9a5-b1f7-4512-85a0-e2f4596127c6
+      status: c
+      status_url: https://stashdb.org/edits/4a884e34-2bd2-470a-944e-0afcc3ba9fcc
+      notes:
+        - https://www.iafd.com/person.rme/id=6e94e9a5-b1f7-4512-85a0-e2f4596127c6

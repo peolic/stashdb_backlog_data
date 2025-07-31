@@ -11,5 +11,7 @@ performers:
       name: Angie
       appearance: null
       disambiguation: 2005-2011, SexMex
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e6c79cc4-a9ee-4ca9-a70a-5546e155e5d2
+      status: c
+      status_url: https://stashdb.org/edits/7237fa87-853d-4bc8-bc98-a1b46489d848
+      notes:
+        - https://www.iafd.com/person.rme/id=e6c79cc4-a9ee-4ca9-a70a-5546e155e5d2
