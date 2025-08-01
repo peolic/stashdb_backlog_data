@@ -1,13 +1,6 @@
 split:
   name: Austin
   fragments:
-    - column: L
-      id: null
-      name: Austin (2005, Naughty America)
-      text: American Daydreams
-      links:
-        - https://www.iafd.com/person.rme/perfid=austin_na/gender=m/austin.htm
-        - https://stashdb.org/scenes/f356e19b-3fcd-4b1c-9912-ed06d4c4b269
     - column: N
       id: null
       name: Jeff

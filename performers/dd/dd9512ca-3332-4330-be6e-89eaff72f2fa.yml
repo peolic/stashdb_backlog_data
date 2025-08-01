@@ -1,19 +1,6 @@
 split:
   name: Brad
   fragments:
-    - column: L
-      id: null
-      name: Brad (2014, Reality Kings)
-      notes:
-        - '- Monster Curves "Super Sling"'
-        - '- Crazy College GFs "Pool Party"'
-        - '- Dare Dorm "Dorm Games"'
-      links:
-        - https://www.iafd.com/person.rme/perfid=brad_rk/gender=m/brad.htm
-        - https://stashdb.org/scenes/b7bfa18f-b6b0-439a-be38-20d5322c585e
-        - https://stashdb.org/scenes/b3f2df01-cbb8-4630-a90c-b11fc748cc77
-        - https://stashdb.org/scenes/ff7fe002-79f5-4362-9d0e-4cbdd5d5deba
-        - https://www.realitykings.com/model/1877/brad
     - column: N
       id: null
       name: Brad (2014, Trick Your GF)

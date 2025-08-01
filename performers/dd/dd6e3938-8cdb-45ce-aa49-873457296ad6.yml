@@ -1,14 +1,7 @@
 split:
   name: Bianca
-  fragments:
-    - column: X
-      id: null
-      name: Bianca (2005, Tranny Surprise)
-      text: Tranny Surprise
-      links:
-        - https://www.iafd.com/person.rme/perfid=bianca_rk_ts/gender=f/bianca.htm
-        - https://stashdb.org/scenes/3d8dab07-601f-4ba0-9d33-151ae104d699
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-02-15)
     - Best to move scenes and delete performer, rather than merging or renaming.
