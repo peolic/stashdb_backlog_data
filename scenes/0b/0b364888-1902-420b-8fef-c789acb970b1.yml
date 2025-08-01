@@ -10,15 +10,11 @@ performers:
       name: Tanya
       appearance: null
   append:
-    - id: null
+    - id: 40ee5b38-359a-45d8-8c41-1d00360e74e4
       name: Andrew
       appearance: null
       disambiguation: I Shoot My Girl
-      status: c
-      status_url: https://stashdb.org/edits/6c686e51-0b33-4785-8765-24678f8a3fd6
-    - id: null
+    - id: 7f4aa598-c328-410f-9a70-2df0c4b4d78e
       name: Tanya
       appearance: null
       disambiguation: I Shoot My Girl
-      status: c
-      status_url: https://stashdb.org/edits/3935232d-2bc5-41b0-8cad-701120b963e1

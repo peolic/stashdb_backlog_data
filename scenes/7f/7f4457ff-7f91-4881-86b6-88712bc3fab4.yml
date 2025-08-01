@@ -7,12 +7,10 @@ performers:
       name: Bobbi
       appearance: null
   append:
-    - id: null
+    - id: 03cb1b49-0a21-45ad-bdeb-c029c7e8d930
       name: Bobbi
       appearance: null
       disambiguation: 2006, Twistys
-      status: c
-      status_url: https://stashdb.org/edits/42a4efe5-837e-468e-ba83-26f6644e63e0
       notes:
         - https://www.indexxx.com/m/bobbi-4
         - https://www.iafd.com/person.rme/id=d5d92e5d-e092-4e21-8a58-9a3030cd0294
