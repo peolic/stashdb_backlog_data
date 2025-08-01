@@ -1,14 +1,7 @@
 split:
   name: Ana
-  fragments:
-    - column: J
-      id: edf81531-d7b7-4305-9ead-1a1d5b4c3b3e
-      name: Ana (2011, Sex Mex)
-      text: Sex Mex
-      links:
-        - https://www.iafd.com/person.rme/perfid=ana_sxmx_11/gender=f/ana.htm
-        - https://stashdb.org/scenes/5605c69d-3df9-44cf-b0c4-9e54b1755bba
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-04-14)
     - Best to move scenes and delete performer, rather than merging or renaming.

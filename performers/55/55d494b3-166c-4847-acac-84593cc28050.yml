@@ -1,15 +1,8 @@
 split:
   name: Andrew
   fragments:
-    - column: N
-      id: null
-      name: Andrew (I Shoot My Girl)
-      text: all (x61) scenes
-      links:
-        - http://www.ishootmygirl.com/
-        - https://stashdb.org/images/445454ae-5fdc-47f3-b118-b4a59175d8e2
     - column: O
-      id: null
+      id: 50562c28-27ee-4f54-9a6f-cec6676f3dca
       name: Andrew (2011, Dare Dorm)
       text: Dare Dorm "Straight Pimpin"
       links:

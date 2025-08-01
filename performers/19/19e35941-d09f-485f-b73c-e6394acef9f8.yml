@@ -1,22 +1,6 @@
 split:
   name: Alex
   fragments:
-    - column: X
-      id: null
-      name: Alex (2005, In the VIP)
-      text: In the VIP
-      links:
-        - https://www.iafd.com/person.rme/perfid=alex_rk_05/gender=f/alex.htm
-        - https://www.indexxx.com/m/alex-13
-        - https://stashdb.org/scenes/ded2514d-7983-4458-b270-694ba0964ac8
-    - column: Y
-      id: null
-      name: Alex (2014, Dare Dorm)
-      text: Dare Dorm "My First Time"
-      links:
-        - https://www.iafd.com/person.rme/perfid=alex_dd14/gender=m/alex.htm
-        - https://stashdb.org/scenes/a7da4531-ff76-4920-b504-e0098eb257a2
-        - https://www.realitykings.com/model/25063/alex
     - column: Z
       id: null
       name: Alex (Oct 2012, Dare Dorm)
