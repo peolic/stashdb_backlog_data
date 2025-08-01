@@ -7,19 +7,15 @@ performers:
       name: Ania And Tania
       appearance: null
   append:
-    - id: null
+    - id: 1a70889e-21f6-487d-a134-ca3cf495f4ad
       name: Ania
       appearance: null
       disambiguation: 2000, Russian, Woodman
-      status: c
-      status_url: https://stashdb.org/edits/c55bffb4-5145-4f78-ab18-b5e70c2443d2
       notes:
         - https://www.indexxx.com/m/ania-9
-    - id: null
+    - id: 762de826-aba6-4466-afa8-6e3da0c66207
       name: Tania
       appearance: null
       disambiguation: 2000, Russian, Woodman
-      status: c
-      status_url: https://stashdb.org/edits/7b4acc74-dc95-4ed1-a437-421cbfac3346
       notes:
         - https://www.indexxx.com/m/tania-8

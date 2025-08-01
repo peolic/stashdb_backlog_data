@@ -7,11 +7,9 @@ performers:
       name: Brad
       appearance: null
   append:
-    - id: null
+    - id: ade8c74a-9723-465c-b2e0-77eacabcd4f3
       name: Brad
       appearance: null
       disambiguation: 2014, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/e3a2e3c1-b4bd-4634-91bd-37e2ca42d2db
       notes:
         - https://www.realitykings.com/model/1877/brad

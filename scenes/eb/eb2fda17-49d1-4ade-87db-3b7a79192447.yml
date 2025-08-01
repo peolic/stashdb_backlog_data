@@ -7,10 +7,8 @@ performers:
       name: Anthony
       appearance: null
   append:
-    - id: null
+    - id: 4cfb8209-7e91-4126-8695-710263279805
       name: Billy Blew
-      appearance: Anthony
-      status: c
-      status_url: https://stashdb.org/edits/4a884e34-2bd2-470a-944e-0afcc3ba9fcc
+      appearance: null
       notes:
         - https://www.iafd.com/person.rme/id=6e94e9a5-b1f7-4512-85a0-e2f4596127c6

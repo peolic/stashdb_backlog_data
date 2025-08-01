@@ -16,12 +16,10 @@ performers:
       name: Justin
       appearance: null
   append:
-    - id: null
+    - id: 50562c28-27ee-4f54-9a6f-cec6676f3dca
       name: Andrew
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/68bf2bb9-53dd-470e-b998-f78f6dc98852
       notes:
         - https://www.realitykings.com/model/25229/andrew
         - https://www.imdb.com/name/nm9242442/
