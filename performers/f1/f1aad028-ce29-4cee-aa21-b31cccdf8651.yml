@@ -2,11 +2,13 @@ split:
   name: Angie
   fragments:
     - column: S
-      id: null
+      id: bdc01787-5375-41e2-b0d3-6cde26c15156
       name: Angie (Dare Dorm, 2009)
+      text: Dare Dorm "Three Course Treat"
       links:
         - https://stashdb.org/scenes/2939e981-9216-4758-bf2b-49d01492f479
         - https://www.imdb.com/name/nm9242328/
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-06-29)
     - Best to move scenes and delete performer, rather than merging or renaming.
