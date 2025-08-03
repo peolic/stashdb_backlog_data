@@ -1,0 +1,25 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=e6fad362-6fb2-429b-adba-f3f8a8861238 and https://www.imdb.com/title/tt6257998/
+performers:
+  remove:
+    - id: 6b44f215-45bc-4929-a2eb-2aa996d79331
+      name: Caroline
+      appearance: null
+  append:
+    - id: null
+      name: Caroline
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.imdb.com/name/nm9242332/
+      notes:
+        - https://www.imdb.com/name/nm9242332/
+        - https://www.realitykings.com/model/25786/caroline
+    - id: null
+      name: Pal Dickingir
+      appearance: null
+      status: new
+      status_url: https://www.imdb.com/name/nm8591028/

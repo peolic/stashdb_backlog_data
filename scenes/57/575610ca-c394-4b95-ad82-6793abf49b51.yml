@@ -2,11 +2,14 @@ c_studio:
   - Tranny Surprise
   - null
 comments:
-  - https://www.imdb.com/title/tt7656358/, https://www.iafd.com/title.rme/id=ae582a34-a58c-44f3-8d17-9f6bcbeec32f
+  - https://www.imdb.com/title/tt7656358/ and https://www.iafd.com/title.rme/id=ae582a34-a58c-44f3-8d17-9f6bcbeec32f
 performers:
   remove:
     - id: c774d9ce-50e9-461d-933c-b566af0f0ca1
       name: Carlos
+      appearance: null
+    - id: 8ad17267-ac13-4ccb-b977-5612d8ade6cf
+      name: Christina
       appearance: null
   append:
     - id: null
@@ -18,3 +21,12 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=ad1fce87-7cc2-4f63-9af2-974c59a44686
         - https://www.imdb.com/name/nm9429510/
+    - id: null
+      name: Christina
+      appearance: null
+      disambiguation: 2003, Tranny Surprise
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=cf795f67-ac2d-41be-82e9-d4c7740221c7
+      notes:
+        - https://www.iafd.com/person.rme/id=cf795f67-ac2d-41be-82e9-d4c7740221c7
+        - https://www.imdb.com/name/nm9434005/

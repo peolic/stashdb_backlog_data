@@ -2,7 +2,7 @@ c_studio:
   - Tranny Surprise
   - null
 comments:
-  - https://www.imdb.com/title/tt7648662/, https://www.iafd.com/title.rme/id=f6ca4e08-f9f1-4c7f-b7af-b83734b398ed
+  - https://www.imdb.com/title/tt7648662/ and https://www.iafd.com/title.rme/id=f6ca4e08-f9f1-4c7f-b7af-b83734b398ed
 performers:
   remove:
     - id: c774d9ce-50e9-461d-933c-b566af0f0ca1

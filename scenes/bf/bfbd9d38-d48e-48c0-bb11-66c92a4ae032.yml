@@ -3,7 +3,7 @@ c_studio:
   - null
 performers:
   remove:
-    - id: null
+    - id: 0a811ff9-1333-44ee-b626-1deba75e7d3f
       name: Brandy
       appearance: null
   append:

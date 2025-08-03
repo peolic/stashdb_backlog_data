@@ -23,21 +23,24 @@ performers:
       notes:
         - https://www.realitykings.com/model/25673/angie
         - https://www.imdb.com/name/nm9242328/
-    - id: null
-      name: Jason
-      appearance: null
-      disambiguation: Dare Dorm, 2009
-      status: new
-      status_url: https://www.realitykings.com/model/25677/jason
+    - id: 1536b488-a2ba-4c70-8ce1-56c14bebffbb
+      name: Brett Swanson
+      appearance: Jason
+      notes:
+        - https://www.realitykings.com/model/25677/jason
     - id: null
       name: Scott
       appearance: null
       disambiguation: Dare Dorm, 2009
-      status: new
-      status_url: https://www.realitykings.com/model/25681/scott
+      status: c
+      status_url: https://stashdb.org/edits/0f08e113-956d-49c9-9b67-7f977889085c
+      notes:
+        - https://www.realitykings.com/model/25681/scott
     - id: null
       name: Christian
       appearance: null
       disambiguation: Dare Dorm, 2009
-      status: new
-      status_url: https://www.realitykings.com/model/25675/christian
+      status: c
+      status_url: https://stashdb.org/edits/ef772185-6f8f-4492-a13c-d80463842b91
+      notes:
+        - https://www.realitykings.com/model/25675/christian

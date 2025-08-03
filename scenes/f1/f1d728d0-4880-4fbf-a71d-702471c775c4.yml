@@ -1,0 +1,18 @@
+c_studio:
+  - My Naughty Latin Maid
+  - null
+performers:
+  remove:
+    - id: 0d216d2c-f738-45e4-a834-0a8c51849b90
+      name: Carmen
+      appearance: null
+  append:
+    - id: null
+      name: Staci Waters
+      appearance: Carmen
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ee5d0109-f756-4e27-8513-ef8470c85de8
+      notes:
+        - https://www.iafd.com/person.rme/id=ee5d0109-f756-4e27-8513-ef8470c85de8
+        - https://www.indexxx.com/m/staci-waters
+        - https://www.imdb.com/name/nm1882092/

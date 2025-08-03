@@ -1,0 +1,17 @@
+c_studio:
+  - Sex Mex
+  - null
+performers:
+  remove:
+    - id: 0d216d2c-f738-45e4-a834-0a8c51849b90
+      name: Carmen
+      appearance: null
+  append:
+    - id: null
+      name: Carmen
+      appearance: null
+      disambiguation: 2006, SexMex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5df3a976-cbaa-41d2-ad3a-d9d05a8c2356
+      notes:
+        - https://www.iafd.com/person.rme/id=5df3a976-cbaa-41d2-ad3a-d9d05a8c2356
