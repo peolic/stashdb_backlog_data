@@ -8,5 +8,7 @@ performers:
       name: Mary
       appearance: null
       disambiguation: GF Revenge, 2010
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=acbb78a8-2884-4cf7-843b-8b89938cbc21
+      status: c
+      status_url: https://stashdb.org/edits/f5c07da8-0740-476e-a574-8d1aa3361ac9
+      notes:
+        - https://www.iafd.com/person.rme/id=acbb78a8-2884-4cf7-843b-8b89938cbc21

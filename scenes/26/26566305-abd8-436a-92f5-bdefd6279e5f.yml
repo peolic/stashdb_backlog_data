@@ -11,5 +11,7 @@ performers:
       name: Bob
       appearance: null
       disambiguation: 2008, Tranny Surprise
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e613d63e-8ab0-41bb-b9a7-3dd19dda3872
+      status: c
+      status_url: https://stashdb.org/edits/170bb84c-135e-49e0-be8f-6b43b1130a8a
+      notes:
+        - https://www.iafd.com/person.rme/id=e613d63e-8ab0-41bb-b9a7-3dd19dda3872
