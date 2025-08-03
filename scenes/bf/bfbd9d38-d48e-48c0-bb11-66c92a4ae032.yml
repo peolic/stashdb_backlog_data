@@ -1,0 +1,12 @@
+c_studio:
+  - Ebony Channel
+  - null
+performers:
+  remove:
+    - id: null
+      name: Brandy
+      appearance: null
+  append:
+    - id: 0af5680f-41cc-4131-b5c8-bcdd85e9c269
+      name: Brandi Foxx
+      appearance: Brandy

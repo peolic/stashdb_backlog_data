@@ -1,0 +1,21 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.imdb.com/title/tt6395328/
+performers:
+  remove:
+    - id: 1818f1da-77cb-462f-a751-8ce624d0ce0c
+      name: Brittany
+      appearance: null
+  append:
+    - id: null
+      name: Brittany
+      appearance: null
+      disambiguation: Dare Dorm, 2012-12-14
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b8c12b16-7435-4b19-aed2-33bf413891d4
+      notes:
+        - https://www.iafd.com/person.rme/id=b8c12b16-7435-4b19-aed2-33bf413891d4
+        - https://www.realitykings.com/model/24967/brittany
+        - https://www.imdb.com/name/nm9242540/

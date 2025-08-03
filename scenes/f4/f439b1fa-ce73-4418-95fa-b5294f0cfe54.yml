@@ -1,0 +1,58 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.imdb.com/title/tt6346254/
+performers:
+  remove:
+    - id: 1818f1da-77cb-462f-a751-8ce624d0ce0c
+      name: Brittany
+      appearance: null
+    - id: 3dfda311-a8ed-4d08-b105-645720597333
+      name: Gabriella
+      appearance: null
+    - id: da7c9a8b-457b-48ee-ae3f-03d9f25ad2e2
+      name: Jesse
+      appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+  append:
+    - id: null
+      name: Brittany
+      appearance: null
+      disambiguation: Dare Dorm, 2012-06-01
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b6aea841-9641-4c60-93a7-517451a29e2f
+      notes:
+        - https://www.iafd.com/person.rme/id=b6aea841-9641-4c60-93a7-517451a29e2f
+        - https://www.realitykings.com/model/21625/brittany
+        - https://www.imdb.com/name/nm10936862/
+    - id: null
+      name: Gabriella
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ff0976a-1db7-4bed-8912-f1394a6c0790
+      notes:
+        - https://www.iafd.com/person.rme/id=0ff0976a-1db7-4bed-8912-f1394a6c0790
+        - https://www.realitykings.com/model/26066/gabriella
+        - https://www.imdb.com/name/nm10936863/
+    - id: null
+      name: Jesse
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9f3f072e-e883-44b5-a879-6dc348b360bc
+      notes:
+        - https://www.iafd.com/person.rme/id=9f3f072e-e883-44b5-a879-6dc348b360bc
+        - https://www.realitykings.com/model/26068/jesse
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2012-06-01
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
+      notes:
+        - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
+        - https://www.realitykings.com/model/26072/nicholas

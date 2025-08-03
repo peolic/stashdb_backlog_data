@@ -1,0 +1,13 @@
+c_studio:
+  - Devil's Tgirls
+  - null
+performers:
+  remove:
+    - id: c774d9ce-50e9-461d-933c-b566af0f0ca1
+      name: Carlos
+      appearance: null
+  append:
+    - id: null
+      name: Carlos De Leo
+      appearance: Carlos
+      status: new
