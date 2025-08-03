@@ -20,10 +20,11 @@ performers:
       name: Alex
       appearance: null
       disambiguation: Oct 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=bb18de22-7855-4a36-9887-0e94558b90b1
+      status: c
+      status_url: https://stashdb.org/edits/237218bb-214d-471a-8920-6efe45c9695c
       notes:
         - https://www.realitykings.com/model/24512/alex
+        - https://www.iafd.com/person.rme/id=bb18de22-7855-4a36-9887-0e94558b90b1
     - id: fb6c1251-7c32-46bf-a650-689baf1161ca
       name: Eduardo
       appearance: null
@@ -35,15 +36,17 @@ performers:
       name: John
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=03ff6f77-1c20-4d72-9a06-83419a65d4e0
+      status: c
+      status_url: https://stashdb.org/edits/8f69d26d-0b4d-4f66-8252-dec2c16e3f56
       notes:
         - https://www.realitykings.com/model/24514/john
+        - https://www.iafd.com/person.rme/id=03ff6f77-1c20-4d72-9a06-83419a65d4e0
     - id: null
       name: William
       appearance: null
       disambiguation: 2012-10, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a80f5c26-cf78-4a73-82dd-1e32b0237f20
+      status: c
+      status_url: https://stashdb.org/edits/a19004c8-1911-44d1-8281-3b535e527f4d
       notes:
         - https://www.realitykings.com/model/20976/william
+        - https://www.iafd.com/person.rme/id=a80f5c26-cf78-4a73-82dd-1e32b0237f20

@@ -14,15 +14,17 @@ performers:
       name: Alex
       appearance: null
       disambiguation: Mar 9 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=660f8cf6-48ee-41c1-b633-0670e0e25bc2
+      status: c
+      status_url: https://stashdb.org/edits/58f399ce-2984-4c9a-b12c-686d9046df9e
       notes:
         - https://www.realitykings.com/model/24680/alex
+        - https://www.iafd.com/person.rme/id=660f8cf6-48ee-41c1-b633-0670e0e25bc2
     - id: null
       name: Justin
       appearance: null
       disambiguation: Dare Dorm, 2012-03
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b6675276-2456-401f-a5df-918513b59c2a
+      status: c
+      status_url: https://stashdb.org/edits/6a7a5513-cd65-4510-b32b-3cb037c04f52
       notes:
         - https://www.realitykings.com/model/21615/justin
+        - https://www.iafd.com/person.rme/id=b6675276-2456-401f-a5df-918513b59c2a

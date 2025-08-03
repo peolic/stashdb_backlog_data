@@ -17,26 +17,29 @@ performers:
       name: Alex
       appearance: null
       disambiguation: Mar 23 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8bd7ce46-70fe-485c-9c98-518ab5d753a3
+      status: c
+      status_url: https://stashdb.org/edits/8f57dc07-150b-4b49-8525-f50f9125bd6f
       notes:
         - https://www.realitykings.com/model/24857/alex
         - https://www.imdb.com/name/nm11756012/
+        - https://www.iafd.com/person.rme/id=8bd7ce46-70fe-485c-9c98-518ab5d753a3
     - id: null
       name: Leila
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a76bd6e6-86f3-4f0c-9e13-38e18ab53fdf
+      status: c
+      status_url: https://stashdb.org/edits/a08a1e81-b4bf-4861-bbe8-582a0d3533cf
       notes:
         - https://www.realitykings.com/model/24864/leila
         - https://www.imdb.com/name/nm10929711/
+        - https://www.iafd.com/person.rme/id=a76bd6e6-86f3-4f0c-9e13-38e18ab53fdf
     - id: null
       name: Brittany
       appearance: null
       disambiguation: Dare Dorm, 2012-03-23
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5a7a0750-8998-4aae-90b2-b7d929691a87
+      status: c
+      status_url: https://stashdb.org/edits/ec847845-34db-4215-b534-47ce2a3fee83
       notes:
         - https://www.realitykings.com/model/21132/brittany
         - https://www.imdb.com/name/nm10929710/
+        - https://www.iafd.com/person.rme/id=5a7a0750-8998-4aae-90b2-b7d929691a87

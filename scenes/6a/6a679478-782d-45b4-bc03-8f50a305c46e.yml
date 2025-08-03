@@ -1,6 +1,8 @@
 c_studio:
   - Dare Dorm
   - null
+comments:
+  - https://www.imdb.com/title/tt6346252/
 performers:
   remove:
     - id: 6388fcfe-b2ec-4eea-a971-1719ef4664dc
@@ -26,17 +28,23 @@ performers:
       name: Felicia
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0a88f22e-a7ff-47cf-b2a7-bcf5a1fd4130
+      status: c
+      status_url: https://stashdb.org/edits/ffd9f6d8-610a-4467-bc19-90ae1e20b2d7
+      notes:
+        - https://www.iafd.com/person.rme/id=0a88f22e-a7ff-47cf-b2a7-bcf5a1fd4130
     - id: null
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-05
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
+      status: c
+      status_url: https://stashdb.org/edits/66e49bdc-c08c-4a88-94af-c4bb08340550
+      notes:
+        - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
     - id: null
       name: Justin
       appearance: null
       disambiguation: Dare Dorm, 2012-05
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2eaa3274-d576-44ac-8853-0a9b8759a09c
+      status: c
+      status_url: https://stashdb.org/edits/9274b611-3675-4420-937d-f07443a5544f
+      notes:
+        - https://www.iafd.com/person.rme/id=2eaa3274-d576-44ac-8853-0a9b8759a09c
