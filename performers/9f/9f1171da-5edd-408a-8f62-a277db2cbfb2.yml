@@ -1,15 +1,6 @@
 split:
   name: Alejandro
   fragments:
-    - column: I
-      id: d7e91817-3c31-4822-b9e7-a2adb30503d8
-      name: Alejandro (2012, Dare Dorm)
-      notes:
-        - "- \x02Dare Dorm \"Classy Girl\"\x03"
-        - '- ??? Dick Dorm "Gonzo Mask" (linked via Reality Kings ID)'
-      links:
-        - https://www.iafd.com/person.rme/id=b236297c-6a63-4a3a-ba9f-06694bdea001
-        - https://stashdb.org/scenes/aec746b9-b79f-4a10-b994-e512a44c16b7
     - column: K
       id: null
       name: Alejandro (Papi, 2006)

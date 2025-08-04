@@ -1,14 +1,6 @@
 split:
   name: Candy
   fragments:
-    - column: L
-      id: null
-      name: Candy Estefana
-      text: Twistys (2003)
-      links:
-        - https://www.iafd.com/person.rme/perfid=estefana/gender=f/candy-estefana.htm
-        - https://www.indexxx.com/m/candy-9
-        - https://stashdb.org/scenes/37858e4c-7782-4416-8bd8-67f1ba449e48
     - column: V
       id: null
       name: Sweet Candy (Canadian)
@@ -20,6 +12,7 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=sweetcandy/gender=f/sweet-candy.htm
         - https://stashdb.org/scenes/1bac85b9-e411-4d55-ba1d-12a9f99ba17c
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-01-31)
     - Best to move scenes and delete performer, rather than merging or renaming.

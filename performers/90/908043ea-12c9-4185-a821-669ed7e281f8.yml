@@ -1,18 +1,6 @@
 split:
   name: Eduardo
   fragments:
-    - column: I
-      id: fb6c1251-7c32-46bf-a650-689baf1161ca
-      name: Eduardo (2012, Dick Dorm)
-      notes:
-        - "- \x02Dick Dorm \"Its Not Gay\"\x03\x02 (sex role)\x03"
-        - '- Dare Dorm "Ordering Strippers" (non-sex role)'
-      links:
-        - https://stashdb.org/scenes/090dcc5a-db8a-48f2-9ed0-8f1efe629c6c
-        - https://www.iafd.com/person.rme/perfid=eduardo212/gender=m/eduardo.htm
-        - https://www.realitykings.com/model/20965/eduardo
-        - https://storage.pics-x.com/gallery-images/360154/0038.jpg?md5=c45d76833cd0414f36adbf0b00127ff6
-        - https://pics-x.com/gallery/360154/ordering-strippers-dare-dorm
     - column: J
       id: null
       name: Eduardo (2012-09-07, Dare Dorm)
@@ -20,5 +8,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/perfid=eduardodd12/gender=m/eduardo.htm
         - https://stashdb.org/scenes/d306b5af-6e18-4133-b44a-b9de6de93116
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-12)

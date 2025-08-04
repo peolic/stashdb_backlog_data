@@ -11,16 +11,6 @@ split:
         - https://www.iafd.com/title.rme/id=502d0b99-1f73-47ed-ab84-db3ad974bc6c
         - https://www.realitykings.com/model/22323/justin
         - https://www.imdb.com/title/tt6346252/
-    - column: S
-      id: 6d206d1d-4573-4565-a900-2a5d729a362e
-      name: Justin (Dare Dorm, 2012-03)
-      text: Dare Dorm "Smoke Out"
-      links:
-        - https://www.iafd.com/person.rme/id=b6675276-2456-401f-a5df-918513b59c2a
-        - https://stashdb.org/scenes/a5237b46-3540-43d8-9ace-ccd8c06e4c98
-        - https://www.iafd.com/title.rme/id=353dae08-8d12-475d-9bd5-a75e9bb58702
-        - https://www.realitykings.com/model/21615/justin
-        - https://www.imdb.com/title/tt6346212/
     - column: T
       id: null
       name: Justin (Dare Dorm, 2011-12)

@@ -1,13 +1,6 @@
 split:
   name: Bradley
   fragments:
-    - column: I
-      id: 07bb316d-6769-4137-954a-461a24bb493c
-      name: Bradley (2013, Mike's Apartment)
-      text: Mike's Apartment "So Delicious"
-      links:
-        - https://www.iafd.com/person.rme/id=1e0ba741-60f5-41d7-905c-dbf2b53dc440
-        - https://stashdb.org/scenes/5015bad4-389e-4e5e-ab3f-ee98da860ece
     - column: J
       id: null
       name: Bradley (Boys First Time, 2006)
@@ -17,5 +10,6 @@ split:
       links:
         - https://stashdb.org/scenes/d858bd43-48c3-4ce5-af05-45c2c69028d8
         - https://stashdb.org/scenes/b912388a-36c3-4c98-bcaf-0fc2cf526a6e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)

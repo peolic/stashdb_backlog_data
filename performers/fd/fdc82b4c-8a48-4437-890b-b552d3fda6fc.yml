@@ -1,19 +1,13 @@
 split:
   name: Bobby
   fragments:
-    - column: J
-      id: null
-      name: Bobby (2002, Butt Machine Boys)
-      text: Butt Machine Boys
-      links:
-        - https://www.iafd.com/person.rme/perfid=bobby_02_kink/gender=m/bobby.htm
-        - https://stashdb.org/scenes/b6effa8e-b97c-4dac-97fc-f7812da00ab7
     - column: L
       id: null
       name: Bobby (Papi, 2007)
       text: Papi "Banana In Tailpipe"
       links:
         - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.
