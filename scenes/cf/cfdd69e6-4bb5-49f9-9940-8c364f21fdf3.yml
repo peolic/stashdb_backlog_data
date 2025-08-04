@@ -13,12 +13,10 @@ performers:
       name: Brittany
       appearance: null
   append:
-    - id: null
+    - id: 12db8dee-c3f7-451d-b913-1132ca532dab
       name: Alex
       appearance: null
       disambiguation: Mar 23 2012, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/8f57dc07-150b-4b49-8525-f50f9125bd6f
       notes:
         - https://www.realitykings.com/model/24857/alex
         - https://www.imdb.com/name/nm11756012/

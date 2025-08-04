@@ -7,12 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 7a94446d-64b0-4833-ba3f-cdb9160141bd
       name: Donna
       appearance: null
       disambiguation: 2004, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/f9338e41-e215-41b7-96d1-78e5b9280fda
       notes:
         - https://www.indexxx.com/m/donna-25
         - https://www.iafd.com/person.rme/id=b8ede9f4-fca3-42c7-ac0e-665e7717fab8

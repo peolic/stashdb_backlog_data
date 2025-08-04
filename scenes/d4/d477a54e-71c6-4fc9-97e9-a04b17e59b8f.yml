@@ -7,12 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 58571e32-750d-40cf-ad44-30ece9487f07
       name: Rodrigo
       appearance: null
       disambiguation: Pegas Productions
-      status: c
-      status_url: https://stashdb.org/edits/f2c41f98-ae94-4ae7-9b5a-37ecb6a66279
       notes:
         - https://caps1cdn.adultempire.com/p/4315/720/1734315_04750_720b.jpg
         - https://www.iafd.com/person.rme/id=2163ba53-272f-4aac-a289-14b5ba40d192

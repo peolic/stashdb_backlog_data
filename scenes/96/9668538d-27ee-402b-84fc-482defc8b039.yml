@@ -6,12 +6,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 9e18617b-c38b-479c-bc0a-975690e8b682
       name: Ezekiel
       appearance: null
       disambiguation: 2022, Net Girl
-      status: c
-      status_url: https://stashdb.org/edits/8eae9ebd-3ed6-415e-8940-b52d36c09f81
       notes:
         - https://ocmodeling.com/model/ezekiel/
         - https://x.com/ezekiel__95

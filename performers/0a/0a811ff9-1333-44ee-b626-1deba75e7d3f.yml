@@ -1,16 +1,7 @@
 split:
   name: Brandy
-  fragments:
-    - column: U
-      id: 0af5680f-41cc-4131-b5c8-bcdd85e9c269
-      name: Brandi Foxx
-      text: Ebony Channel - same as Combat Zone "Pretty Young Teens" Scene 4
-      links:
-        - https://www.iafd.com/person.rme/id=71e99b71-6045-4d6e-a354-b61c12001b04
-        - https://stashdb.org/scenes/bfbd9d38-d48e-48c0-bb11-66c92a4ae032
-        - https://www.iafd.com/title.rme/title=pretty+young+teens/year=2013/pretty-young-teens.htm
-        - https://vod.aebn.com/straight/movies/169155/pretty-young-teens#scene-803926
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2023-05-22)
     - Best to move scenes and delete performer, rather than merging or renaming.

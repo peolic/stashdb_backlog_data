@@ -7,12 +7,10 @@ performers:
       name: Bradley
       appearance: null
   append:
-    - id: null
+    - id: 07bb316d-6769-4137-954a-461a24bb493c
       name: Bradley
       appearance: null
       disambiguation: 2013, Mike's Apartment
-      status: c
-      status_url: https://stashdb.org/edits/4cd16665-533b-4cf0-b80c-06f90d9c22e1
       notes:
         - https://www.iafd.com/person.rme/id=1e0ba741-60f5-41d7-905c-dbf2b53dc440
         - https://www.realitykings.com/model/15345/bradley
