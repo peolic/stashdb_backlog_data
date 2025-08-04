@@ -47,12 +47,12 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=9f3f072e-e883-44b5-a879-6dc348b360bc
         - https://www.realitykings.com/model/26068/jesse
-    - id: null
+    - id: 01411ea1-7435-4865-a343-465d8ddaf8f0
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-06-01
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
+      status: auto
       notes:
         - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
         - https://www.realitykings.com/model/26072/nicholas
+        - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9

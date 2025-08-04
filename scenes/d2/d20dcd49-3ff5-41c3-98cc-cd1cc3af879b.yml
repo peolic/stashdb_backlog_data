@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 3f8de524-cb6a-4597-8566-1a41a3ac69e8
       name: Dahlia
       appearance: null
       disambiguation: 2024, jacquieetmicheltv.net
-      status: c
-      status_url: https://stashdb.org/edits/e09ed1ec-231f-4254-bfb6-dc7e50e93d4e
       notes:
         - https://www.jacquieetmicheltv.net/en/actors/66bb501b030a07f40a2a3b9b/dahlia

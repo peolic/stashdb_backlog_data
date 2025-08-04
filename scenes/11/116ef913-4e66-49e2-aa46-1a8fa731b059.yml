@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: c307eacb-dd92-416b-99cc-531f934e0cf1
       name: Stella
       appearance: null
       disambiguation: 2024, jacquieetmicheltv.net
-      status: c
-      status_url: https://stashdb.org/edits/0c728985-3e9f-4bd9-8bb2-ea1ce7832116
       notes:
         - https://www.jacquieetmicheltv.net/en/actors/66852fcdbe9610563f6864b4/stella
