@@ -1,0 +1,22 @@
+c_studio:
+  - I Know That Girl
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=b42c505a-56dc-4577-b120-1631e97a2160
+  - https://www.indexxx.com/set/113048/i-know-that-girl-chanel/
+performers:
+  remove:
+    - id: 37235260-03a7-40bb-a9e0-8d60b2fe59f3
+      name: Chanel
+      appearance: null
+  append:
+    - id: null
+      name: Chanel
+      appearance: null
+      disambiguation: 2010, I Know That Girl
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9cba034a-65e6-4bdb-a2ee-fdc740052109
+      notes:
+        - https://www.iafd.com/person.rme/id=9cba034a-65e6-4bdb-a2ee-fdc740052109
+        - https://www.indexxx.com/m/chanel-6
+        - https://www.imdb.com/name/nm7374094/

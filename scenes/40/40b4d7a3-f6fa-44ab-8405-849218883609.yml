@@ -1,0 +1,21 @@
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.indexxx.com/set/34289/street-blowjobs-chanel/
+  - https://www.iafd.com/title.rme/id=2f7fd8c7-37da-4f2e-9ee9-33d1e5065b9a
+performers:
+  remove:
+    - id: 37235260-03a7-40bb-a9e0-8d60b2fe59f3
+      name: Chanel
+      appearance: null
+  append:
+    - id: null
+      name: Chanel
+      appearance: null
+      disambiguation: 2008, Street BlowJobs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a10b72bc-6e57-498b-b49c-16c4ceacfe15
+      notes:
+        - https://www.iafd.com/person.rme/id=a10b72bc-6e57-498b-b49c-16c4ceacfe15
+        - https://www.indexxx.com/m/chanel-1

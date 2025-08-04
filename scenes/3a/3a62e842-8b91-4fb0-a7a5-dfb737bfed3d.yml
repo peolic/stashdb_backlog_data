@@ -1,0 +1,20 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=6d722cd5-2c7c-4bc8-83a2-9283bc6c7b6d
+performers:
+  remove:
+    - id: 9159b380-07d8-45c8-9531-5c510e5fde73
+      name: Carrie
+      appearance: null
+  append:
+    - id: null
+      name: Carrie
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=145373b6-85d7-4751-a1de-1fc690ecb953
+      notes:
+        - https://www.iafd.com/person.rme/id=145373b6-85d7-4751-a1de-1fc690ecb953
+        - https://www.realitykings.com/model/24801/carrie

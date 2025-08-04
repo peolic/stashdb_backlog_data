@@ -1,0 +1,27 @@
+c_studio:
+  - Ass Parade
+  - null
+comments:
+  - https://www.imdb.com/title/tt13734048/
+  - https://www.iafd.com/title.rme/id=eb4b212b-c249-4206-b019-c69697bdcb4b
+  - https://www.indexxx.com/set/224948/ass-parade-catalina-rubi/
+performers:
+  remove:
+    - id: daf78f70-f9ad-4476-abf5-c820ea223bf8
+      name: Catalina
+      appearance: null
+  append:
+    - id: null
+      name: Catalina
+      appearance: null
+      disambiguation: 2011, BangBros
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=884405ac-984d-457e-9377-739f82e35ba9
+      notes:
+        - https://www.iafd.com/person.rme/id=884405ac-984d-457e-9377-739f82e35ba9
+        - https://www.indexxx.com/m/catalina-3
+        - https://www.imdb.com/name/nm9880981/
+        - https://www.boobpedia.com/boobs/Catalina_(Bang_Bros)
+    - id: c36f6cb4-a30a-466a-90b8-0fd8d1197e04
+      name: Johnny Champ
+      appearance: null

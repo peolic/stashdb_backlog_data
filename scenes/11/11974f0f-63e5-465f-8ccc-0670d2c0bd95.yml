@@ -1,0 +1,18 @@
+c_studio:
+  - Rocco Siffredi
+  - null
+performers:
+  remove:
+    - id: 37235260-03a7-40bb-a9e0-8d60b2fe59f3
+      name: Chanel
+      appearance: null
+  append:
+    - id: null
+      name: Chanel
+      appearance: null
+      disambiguation: 1986-1999
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b228e278-a8a4-4d7d-8c68-929fcc13d824
+      notes:
+        - https://www.iafd.com/person.rme/id=b228e278-a8a4-4d7d-8c68-929fcc13d824
+        - https://www.imdb.com/name/nm0151556/
