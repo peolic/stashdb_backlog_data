@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 677f1435-0c15-4f67-883d-46c8b79f3d76
       name: Ellie
       appearance: null
       disambiguation: 2024, jacquieetmicheltv.net
-      status: c
-      status_url: https://stashdb.org/edits/6c19a6e9-f6e4-4026-b92e-8738d0e0470b
       notes:
         - https://www.jacquieetmicheltv.net/en/actors/664f30f18e3ec4985bf8e806/ellie
