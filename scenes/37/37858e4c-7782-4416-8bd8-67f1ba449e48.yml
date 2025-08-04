@@ -7,11 +7,9 @@ performers:
       name: Candy
       appearance: null
   append:
-    - id: null
+    - id: ce23a714-add2-48a6-8268-b6c602b21d92
       name: Candy Estafana
       appearance: Candy
-      status: c
-      status_url: https://stashdb.org/edits/170ecbbe-9225-4014-928e-0747d4c2bdc0
       notes:
         - https://www.iafd.com/person.rme/id=5eefb9ef-8851-47ca-9663-cd87d0a0e0f3
         - https://www.indexxx.com/m/candy-9
