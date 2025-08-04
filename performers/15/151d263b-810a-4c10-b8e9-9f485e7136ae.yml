@@ -55,9 +55,11 @@ split:
       links:
         - https://stashdb.org/scenes/7d195000-4005-4819-bf07-3c7f236b27af
     - column: R
-      id: null
+      id: 01411ea1-7435-4865-a343-465d8ddaf8f0
       name: Nicholas (Dare Dorm, 2012-05)
       text: Dare Dorm "Saint Pattys Day"
+      notes:
+        - IAFD link is shared between other Reality Kings performers named Nicholas with scenes released in 2012.
       links:
         - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
         - https://stashdb.org/scenes/6a679478-782d-45b4-bc03-8f50a305c46e
@@ -68,11 +70,13 @@ split:
       id: null
       name: Nicholas (Dare Dorm, 2012-06-01)
       text: Dare Dorm "A Night To Remember"
+      notes:
+        - IAFD link is shared between other Reality Kings performers named Nicholas with scenes released in 2012.
       links:
-        - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
         - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
         - https://www.iafd.com/title.rme/id=c5b989fa-6a2c-494b-b74b-27ac0940284b
         - https://www.realitykings.com/model/26072/nicholas
+        - https://www.iafd.com/person.rme/id=444e31c8-ed94-4059-8cf8-8452a38b8be9
         - https://www.imdb.com/title/tt6346254/
     - column: T
       id: null
