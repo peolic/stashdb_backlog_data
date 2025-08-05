@@ -2,7 +2,7 @@ split:
   name: Brittany
   fragments:
     - column: M
-      id: null
+      id: 0be48e65-5cbc-4dbb-8e99-154476f042f1
       name: Brittany (Dare Dorm, 2012-12-14)
       text: Dare Dorm "One For The Money"
       links:
@@ -11,7 +11,7 @@ split:
         - https://www.realitykings.com/model/24967/brittany
         - https://www.imdb.com/name/nm9242540/
     - column: N
-      id: null
+      id: 1bc1b5f8-97b3-4b4e-811b-9cb93e9ec217
       name: Brittany (Dare Dorm, 2012-06-01)
       text: Dare Dorm "A Night To Remember"
       links:
