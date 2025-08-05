@@ -1,13 +1,7 @@
 split:
   name: Felicia
-  fragments:
-    - column: P
-      id: null
-      name: Felicia (2012, Dare Dorm)
-      links:
-        - https://www.iafd.com/person.rme/perfid=feliciadd12/gender=f/felicia.htm
-        - https://stashdb.org/scenes/6a679478-782d-45b4-bc03-8f50a305c46e
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2022-09-05)
     - Best to move scenes and delete performer, rather than merging or renaming.

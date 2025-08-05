@@ -4,26 +4,23 @@ split:
     - column: K
       id: null
       name: Daniel (Tranny Surprise, 2006)
-      notes:
-        - '- Tranny Surprise "Sexy Lil Thing"'
+      text: Tranny Surprise "Sexy Lil Thing"
       links:
         - https://www.iafd.com/person.rme/id=e86ff7ca-3514-4592-aacb-616a158c4ee0
-        - https://www.imdb.com/name/nm9502913/
         - https://stashdb.org/scenes/e9bdcfc3-eb76-49bb-9723-d516fa6d5ead
+        - https://www.imdb.com/name/nm9502913/
     - column: L
       id: null
       name: Daniel (See My Wife, 2008)
-      notes:
-        - '- See My Wife "Sweet Paige"'
+      text: See My Wife "Sweet Paige"
       links:
         - https://www.iafd.com/person.rme/id=3e26cd8e-b8e8-424a-aac5-abaae5d906f9
-        - https://www.imdb.com/name/nm9203925/
         - https://stashdb.org/scenes/52ef9892-a523-4074-b041-aeea9e45c1a1
+        - https://www.imdb.com/name/nm9203925/
     - column: M
       id: null
       name: Daniel (Dare Dorm, 2010)
-      notes:
-        - '- Dare Dorm "Foolish Things"'
+      text: Dare Dorm "Foolish Things"
       links:
         - https://www.iafd.com/person.rme/id=6975ba40-c42d-4607-a0d2-d1833de4eae0
         - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
@@ -36,21 +33,32 @@ split:
         - https://stashdb.org/scenes/d45a9edc-390c-4b00-a9b3-02fa7139544c
         - https://www.realitykings.com/model/26638/daniel
         - https://www.imdb.com/name/nm11398383/
-    - column: O
-      id: 77b4324c-1525-45fc-bd04-828299c39e4f
-      name: Daniel (Dare Dorm, 2012)
-      text: Dare Dorm "Tape Party"
-      links:
-        - https://www.iafd.com/person.rme/id=31c490f2-e28f-477d-9167-7e30a962832e
-        - https://stashdb.org/scenes/3ccbf165-36d1-4ddd-9b3b-69965954f74d
-        - https://www.realitykings.com/model/25754/daniel
     - column: P
       id: null
       name: Daniel (Dick Dorm, 2013)
-      notes:
-        - '- Dick Dorm "I Will If You Will"'
+      text: Dick Dorm "I Will If You Will"
       links:
         - https://stashdb.org/scenes/e8ed026f-c45e-4117-8b41-8864a0ce065d
+    - column: Q
+      id: null
+      name: Daniel
+      text: Home Porno Tapes "Hot sex on vacation"
+      notes:
+        - 'Same as Snatch''d: Stolen Home Videos #4, Scene #2'
+        - name 'Daniel' may not match original
+      links:
+        - https://stashdb.org/scenes/d42bd0f8-ec31-45a7-b5b4-e72e8a94b7e0
+        - https://www.adultdvdempire.com/3767046/snatchd-4-stolen-home-videos-porn-videos.html
+        - https://www.iafd.com/title.rme/id=7c6228c9-e030-4d1a-8334-3749adc41c02
+    - column: R
+      id: null
+      name: '[todo]'
+      notes:
+        - '- Young Libertines "Teens simply enjoy lovemaking"'
+        - '- Teeny Lovers "Cutie with perky nipples gets fucked"'
+      links:
+        - https://stashdb.org/scenes/751710d9-4f6c-41ed-b345-be276c8281d0
+        - https://stashdb.org/scenes/ca93de03-2bce-4f12-8e66-86f3ade9b88b
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-08-05)
     - Best to move scenes and delete performer, rather than merging or renaming.
