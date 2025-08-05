@@ -18,12 +18,10 @@ performers:
       name: Nicholas
       appearance: null
   append:
-    - id: null
+    - id: 1bc1b5f8-97b3-4b4e-811b-9cb93e9ec217
       name: Brittany
       appearance: null
       disambiguation: Dare Dorm, 2012-06-01
-      status: c
-      status_url: https://stashdb.org/edits/f4250b74-32c6-4d26-a7f0-ab1fd2928876
       notes:
         - https://www.iafd.com/person.rme/id=b6aea841-9641-4c60-93a7-517451a29e2f
         - https://www.realitykings.com/model/21625/brittany
