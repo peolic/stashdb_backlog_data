@@ -1,0 +1,18 @@
+c_studio:
+  - Teen Teacher
+  - null
+performers:
+  remove:
+    - id: 01c138a4-f428-4a1b-8ae3-838831f484b7
+      name: Keegan
+      appearance: null
+  append:
+    - id: null
+      name: Keegan Skyy
+      appearance: Keegan
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c8992d7d-ec4a-4d91-a003-5d9e82a06485
+      notes:
+        - https://www.iafd.com/person.rme/id=c8992d7d-ec4a-4d91-a003-5d9e82a06485
+        - https://www.imdb.com/name/nm1123361/
+        - https://www.themoviedb.org/person/2208577-keegan-skyy
