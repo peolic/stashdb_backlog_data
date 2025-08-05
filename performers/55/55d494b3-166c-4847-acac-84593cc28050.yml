@@ -1,13 +1,6 @@
 split:
   name: Andrew
   fragments:
-    - column: O
-      id: 50562c28-27ee-4f54-9a6f-cec6676f3dca
-      name: Andrew (2011, Dare Dorm)
-      text: Dare Dorm "Straight Pimpin"
-      links:
-        - https://www.iafd.com/person.rme/perfid=andrew_dd_11/gender=m/andrew.htm
-        - https://stashdb.org/scenes/fb63cb0d-9de3-495c-883d-b1ccd722f190
     - column: P
       id: null
       name: Andrew[1]

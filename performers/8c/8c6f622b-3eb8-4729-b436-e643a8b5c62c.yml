@@ -1,13 +1,6 @@
 split:
   name: Chad
   fragments:
-    - column: M
-      id: 40362476-5112-46c6-bf96-0c84eabeb463
-      name: Chad (2010, Dare Dorm)
-      text: Dare Dorm "Indoor Pool"
-      links:
-        - https://www.iafd.com/person.rme/id=1a121954-2cef-44c3-9b98-915e98ddb269
-        - https://stashdb.org/scenes/dbc04377-d036-4957-85db-73f1a4ab38f8
     - column: N
       id: 76e2c878-68a5-4030-b91d-5d2535b903c1
       name: Valter Karotti

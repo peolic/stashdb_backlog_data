@@ -8,13 +8,6 @@ split:
       links:
         - https://stashdb.org/scenes/581f605a-1964-4918-b8ef-3d8147b6d1cd
         - https://www.iafd.com/title.rme/id=8926d78d-fb6a-47b5-8929-4a73d7c5fbeb
-    - column: Q
-      id: null
-      name: Amy (Dare Dorm, 2012)
-      text: Dare Dorm "Saint Pattys Day"
-      links:
-        - https://www.iafd.com/person.rme/id=448f9bb8-1d24-4453-bd0f-d963125adb6d
-        - https://stashdb.org/scenes/6a679478-782d-45b4-bc03-8f50a305c46e
     - column: T
       id: null
       name: Amy

@@ -1,15 +1,6 @@
 split:
   name: Brittany
   fragments:
-    - column: M
-      id: 0be48e65-5cbc-4dbb-8e99-154476f042f1
-      name: Brittany (Dare Dorm, 2012-12-14)
-      text: Dare Dorm "One For The Money"
-      links:
-        - https://www.iafd.com/person.rme/id=b8c12b16-7435-4b19-aed2-33bf413891d4
-        - https://stashdb.org/scenes/c9ee6653-653c-43cb-b63f-f094e7f7c3de
-        - https://www.realitykings.com/model/24967/brittany
-        - https://www.imdb.com/name/nm9242540/
     - column: N
       id: 1bc1b5f8-97b3-4b4e-811b-9cb93e9ec217
       name: Brittany (Dare Dorm, 2012-06-01)
@@ -19,6 +10,7 @@ split:
         - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
         - https://www.realitykings.com/model/21625/brittany
         - https://www.imdb.com/name/nm10936862/
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

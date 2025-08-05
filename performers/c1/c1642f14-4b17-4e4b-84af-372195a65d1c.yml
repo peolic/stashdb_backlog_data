@@ -1,13 +1,6 @@
 split:
   name: Betty
   fragments:
-    - column: O
-      id: null
-      name: Betty (2012, Dare Dorm)
-      text: Dare Dorm "Tape Party"
-      links:
-        - https://www.iafd.com/person.rme/perfid=bettydd12/gender=f/betty.htm
-        - https://stashdb.org/scenes/3ccbf165-36d1-4ddd-9b3b-69965954f74d
     - column: S
       id: null
       name: Betty
@@ -20,6 +13,7 @@ split:
         - https://cdn.stashdb.org/images/e4/7e/e47eb50f-d5b4-4c17-aa15-7b259fe22e53
         - https://www.adultdvdempire.com/1386073/snatchd-stolen-home-videos-34-porn-videos.html#scene_1425318
         - https://www.iafd.com/title.rme/id=d5112233-0cde-4f0e-b285-0fb464e38fe2
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-03)
     - Best to move scenes and delete performer, rather than merging or renaming.
