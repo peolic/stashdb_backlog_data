@@ -1,0 +1,39 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.imdb.com/title/tt6395310/
+performers:
+  remove:
+    - id: ef0ed4b4-ee2a-4ad3-a0cd-3796e5c1a29c
+      name: Damon
+      appearance: null
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+    - id: d1efd156-4241-451f-8201-789ac01607e4
+      name: Hugo
+      appearance: null
+  append:
+    - id: ac99d931-76b5-4113-97ad-8a1441aaefb5
+      name: Damon
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+    - id: null
+      name: Richard
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0060f3b7-f50a-4181-b500-403bc91b13e6
+      notes:
+        - https://www.iafd.com/person.rme/id=0060f3b7-f50a-4181-b500-403bc91b13e6
+        - https://www.realitykings.com/model/25554/richard
+    - id: null
+      name: Hugo
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9c6aa8f2-7902-43cc-811c-a175393c900d
+      notes:
+        - https://www.iafd.com/person.rme/id=9c6aa8f2-7902-43cc-811c-a175393c900d
+        - https://www.realitykings.com/model/25558/hugo
