@@ -1,0 +1,34 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=fa6a612b-eb9b-4cf2-aa1a-5b928c659398
+  - https://www.imdb.com/title/tt7715318/
+performers:
+  remove:
+    - id: 8e650a69-448f-4c7f-acd3-f65a0ed58f6a
+      name: Jennifer
+      appearance: null
+    - id: 758309c2-65c0-4da3-a6c6-c28475f50ef9
+      name: Pedro
+      appearance: null
+  append:
+    - id: null
+      name: Jennifer Piubella
+      appearance: Jennifer
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8309530b-f448-49d6-ab25-6fd77f046b30
+      notes:
+        - https://www.iafd.com/person.rme/id=8309530b-f448-49d6-ab25-6fd77f046b30
+        - https://www.imdb.com/name/nm9468288/
+        - https://www.adultfilmdatabase.com/actor/jennifer-piubella-75220/
+        - https://shemalestardb.com/stars/J/Jhenifer_Bellucci/
+    - id: null
+      name: Pedro
+      appearance: null
+      disambiguation: Tranny Surprise, 2004
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b668a1e1-2e3b-4241-a3ba-45b400f8d6a5
+      notes:
+        - https://www.iafd.com/person.rme/id=b668a1e1-2e3b-4241-a3ba-45b400f8d6a5
+        - https://www.imdb.com/name/nm9468173/

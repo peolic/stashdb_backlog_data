@@ -1,0 +1,54 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.imdb.com/title/tt6263572/
+  - https://www.iafd.com/title.rme/id=372dadec-3ba3-4c71-958e-666ab7e8b10a
+performers:
+  remove:
+    - id: 2b3ec9bf-24d4-4783-89b8-f22c69a22cd6
+      name: Charmaine
+      appearance: null
+    - id: f868c9e3-8551-4117-8ba1-bf9c968650a3
+      name: Luxe
+      appearance: null
+    - id: 36bdeffc-5c73-44b8-a2f2-4ca1190960b8
+      name: Dylan
+      appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+  append:
+    - id: null
+      name: Charmaine Suicide
+      appearance: Charmaine
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=224e3263-fa72-4f09-9579-317119a1a329
+      notes:
+        - https://www.iafd.com/person.rme/id=224e3263-fa72-4f09-9579-317119a1a329
+        - https://www.imdb.com/name/nm7589493/
+    - id: null
+      name: Luxe
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=60f37086-70c1-4c7a-a8d6-707b4ca2a6a3
+      notes:
+        - https://www.iafd.com/person.rme/id=60f37086-70c1-4c7a-a8d6-707b4ca2a6a3
+        - https://www.imdb.com/name/nm9242408/
+    - id: null
+      name: Dylan
+      appearance: null
+      disambiguation: 2011-02, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=74de4411-85fd-4b1d-99bc-7fe3f4cfe73e
+      notes:
+        - https://www.iafd.com/person.rme/id=74de4411-85fd-4b1d-99bc-7fe3f4cfe73e
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2011-02
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c934d9f3-b8eb-42b2-b839-a4399e7d8d6d
+      notes:
+        - https://www.iafd.com/person.rme/id=c934d9f3-b8eb-42b2-b839-a4399e7d8d6d
