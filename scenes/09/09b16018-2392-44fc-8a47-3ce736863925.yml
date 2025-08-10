@@ -1,0 +1,17 @@
+c_studio:
+  - Playboy Plus
+  - null
+performers:
+  remove:
+    - id: 9f38b91f-f13a-4895-8f1c-d202f8308670
+      name: Emma Jade
+      appearance: null
+  append:
+    - id: null
+      name: Emma Jade
+      appearance: null
+      disambiguation: Playboy Plus
+      status: new
+      status_url: https://www.playboyplus.com/profile/emma-jade
+      notes:
+        - https://www.thenude.com/_51768.htm
