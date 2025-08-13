@@ -3,7 +3,7 @@ split:
   fragments:
     - column: M
       id: null
-      name: Ken
+      name: Ken / Mr. Ken
       text: White Ghetto
       links:
         - https://www.iafd.com/person.rme/id=77a65130-1ddd-428d-a08d-42f191e3ca2b
