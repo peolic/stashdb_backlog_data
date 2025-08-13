@@ -1,0 +1,11 @@
+c_studio:
+  - Ruby Onyx
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: J Bird
+      appearance: Goddess Siren
+      status: new
+      status_url: https://purpleport.com/portfolio/altsiren/
