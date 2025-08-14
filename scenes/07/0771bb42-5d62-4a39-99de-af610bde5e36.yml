@@ -1,0 +1,11 @@
+c_studio:
+  - Money Talks
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=6315e9a2-6919-48ad-902f-967c2ec47c51
+performers:
+  remove: []
+  append:
+    - id: 020bd9b8-6db9-4a8e-b6a2-dd17d136089e
+      name: Kimmy Anne
+      appearance: null
