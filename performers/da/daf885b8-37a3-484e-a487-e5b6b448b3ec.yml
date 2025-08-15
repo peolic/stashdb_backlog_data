@@ -11,8 +11,7 @@ split:
     - column: L
       id: null
       name: Damien (Boys First Time, 2007)
-      notes:
-        - '- Boys First Time "Finally Legal"'
+      text: Boys First Time "Finally Legal"
       links:
         - https://stashdb.org/scenes/97ee9104-56ce-403c-b39b-fe3cd08254c6
   notes:
