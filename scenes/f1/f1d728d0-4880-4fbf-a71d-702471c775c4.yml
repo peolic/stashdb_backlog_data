@@ -7,11 +7,9 @@ performers:
       name: Carmen
       appearance: null
   append:
-    - id: null
+    - id: 12bb7d9d-13b2-4ee6-b48d-a7d29687f3b6
       name: Staci Waters
       appearance: Carmen
-      status: c
-      status_url: https://stashdb.org/edits/b07f254b-c8db-4c59-bcd5-2e0597e96314
       notes:
         - https://www.iafd.com/person.rme/id=ee5d0109-f756-4e27-8513-ef8470c85de8
         - https://www.indexxx.com/m/staci-waters

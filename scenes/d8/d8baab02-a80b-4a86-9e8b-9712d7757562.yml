@@ -7,11 +7,9 @@ performers:
       name: Carmen
       appearance: null
   append:
-    - id: null
+    - id: 458f0086-5cde-43cb-8d0a-2ffd1ba93321
       name: Carmen
       appearance: null
       disambiguation: 2006, Sex Mex
-      status: c
-      status_url: https://stashdb.org/edits/a01c9d25-c68f-4062-a549-46d20c8d6364
       notes:
         - https://www.iafd.com/person.rme/id=5df3a976-cbaa-41d2-ad3a-d9d05a8c2356

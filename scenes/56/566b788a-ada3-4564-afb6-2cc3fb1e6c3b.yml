@@ -13,7 +13,7 @@ performers:
   append:
     - id: null
       name: Chanel
-      appearance: Chanel
+      appearance: null
       disambiguation: 2005, Dangerous Dongs
       status: c
       status_url: https://stashdb.org/edits/cf4be437-36f1-42a7-9236-4943a0f4296f
