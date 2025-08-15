@@ -7,11 +7,9 @@ performers:
       name: Keegan
       appearance: null
   append:
-    - id: null
+    - id: 99018aa4-9a0d-4b8c-9253-4108a2c9635e
       name: Keegan Skyy
       appearance: Keegan
-      status: c
-      status_url: https://stashdb.org/edits/a337b7ed-458a-497e-a2f8-65808a4ddf8c
       notes:
         - https://www.iafd.com/person.rme/id=c8992d7d-ec4a-4d91-a003-5d9e82a06485
         - https://www.imdb.com/name/nm1123361/

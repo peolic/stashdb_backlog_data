@@ -11,12 +11,10 @@ performers:
       name: Catalina
       appearance: null
   append:
-    - id: null
+    - id: 8c0d57e7-840a-4e7e-96ed-40bf61ecb69e
       name: Catalina
       appearance: null
       disambiguation: 2011, BangBros
-      status: c
-      status_url: https://stashdb.org/edits/3521af65-0423-4f88-a917-46e73fe47287
       notes:
         - https://www.iafd.com/person.rme/id=884405ac-984d-457e-9377-739f82e35ba9
         - https://www.indexxx.com/m/catalina-3

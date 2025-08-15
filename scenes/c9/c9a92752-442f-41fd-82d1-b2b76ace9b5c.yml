@@ -7,12 +7,10 @@ performers:
       name: Carl
       appearance: null
   append:
-    - id: null
+    - id: 4462fa39-b4db-4e17-a740-0b65ca3a4011
       name: Carl
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/5db694a2-73e6-47d0-83f9-e70f2fb4ad2e
       notes:
         - https://www.iafd.com/person.rme/id=e463211f-688c-401f-bd10-6cb977af8e2f
         - https://www.realitykings.com/model/24602/carl
