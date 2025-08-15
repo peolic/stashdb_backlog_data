@@ -10,12 +10,10 @@ performers:
       name: Jeff
       appearance: null
   append:
-    - id: null
+    - id: 80da7f0a-17dd-48aa-a031-1867081585f2
       name: Carl
       appearance: null
       disambiguation: 2014, Sell Your GF
-      status: c
-      status_url: https://stashdb.org/edits/3519b6b2-feb0-4f8a-9d1f-401107b23de2
       notes:
         - https://stashdb.org/images/faca08e2-85f1-487d-b260-2fda5da9701b
     - id: null
