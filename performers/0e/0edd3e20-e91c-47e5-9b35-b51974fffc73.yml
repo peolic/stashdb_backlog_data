@@ -1,13 +1,7 @@
 split:
   name: Leona
-  fragments:
-    - column: K
-      id: null
-      name: Leona (2009, White Ghetto)
-      text: Bushy Bushy
-      links:
-        - https://www.iafd.com/person.rme/perfid=leona_granny/gender=f/leona.htm
-        - https://stashdb.org/scenes/2ce05188-6496-43df-8ac5-b1095c6dec4c
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-06-21)
     - Best to move scenes and delete performer, rather than merging or renaming.

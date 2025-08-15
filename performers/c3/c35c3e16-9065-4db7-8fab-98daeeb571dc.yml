@@ -4,13 +4,10 @@ split:
     - column: M
       id: null
       name: Ken / Mr. Ken
-      notes:
-        - '- White Ghetto "Cuckhold Diairies #20, Scene 1"'
-        - '- ??? Katie Diamonds "Face Fuck & Facial"'
+      text: 'White Ghetto "Cuckhold Diairies #20, Scene 1"'
       links:
         - https://www.iafd.com/person.rme/id=77a65130-1ddd-428d-a08d-42f191e3ca2b
         - https://stashdb.org/scenes/0be2dfc8-dee4-4528-b921-c5818293f47b
-        - https://stashdb.org/scenes/2ea6fb48-bbe2-4e96-8198-529f9036b659
     - column: O
       id: null
       name: 'Ken #26546'
