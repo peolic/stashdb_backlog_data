@@ -1,13 +1,5 @@
-split:
-  name: Emma Jade
-  fragments:
-    - column: I
-      id: 9f38b91f-f13a-4895-8f1c-d202f8308670
-      name: Emma Jade (disambiguation?)
-      text: most scenes
-      links:
-        - https://www.iafd.com/person.rme/id=00485802-81a3-4127-810f-3a2fe94462a8
-        - https://www.indexxx.com/m/emma-jade
-  status: single fragment remains
-  notes:
-    - Mix of multiple performers (possibly complete list as of 2024-04-08)
+name: Emma Jade
+urls:
+  - https://www.iafd.com/person.rme/id=00485802-81a3-4127-810f-3a2fe94462a8
+urls_notes:
+  - should have disambiguation

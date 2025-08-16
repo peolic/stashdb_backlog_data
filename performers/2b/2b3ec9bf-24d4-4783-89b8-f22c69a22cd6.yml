@@ -2,11 +2,11 @@ split:
   name: Charmaine
   fragments:
     - column: J
-      id: null
+      id: ad949f54-39c4-4b0c-b1e5-acb2235a1d5f
       name: Charmaine Suicide
       text: Dare Dorm
       links:
-        - https://www.iafd.com/person.rme/perfid=charmsuicide/gender=f/charmaine-suicide.htm
+        - https://www.iafd.com/person.rme/id=224e3263-fa72-4f09-9579-317119a1a329
         - https://stashdb.org/scenes/6bd7bfda-ae16-47bb-aedd-0f2179519b4a
   status: single fragment remains
   notes:
