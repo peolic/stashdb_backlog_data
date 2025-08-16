@@ -19,11 +19,9 @@ performers:
       name: Nicholas
       appearance: null
   append:
-    - id: null
+    - id: ad949f54-39c4-4b0c-b1e5-acb2235a1d5f
       name: Charmaine Suicide
       appearance: Charmaine
-      status: c
-      status_url: https://stashdb.org/edits/1267ce5e-69d6-44d8-a45e-0d069072a8f6
       notes:
         - https://www.iafd.com/person.rme/id=224e3263-fa72-4f09-9579-317119a1a329
         - https://www.imdb.com/name/nm7589493/
