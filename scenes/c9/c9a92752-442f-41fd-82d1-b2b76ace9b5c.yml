@@ -6,6 +6,15 @@ performers:
     - id: 705d0d1f-b8e3-40f1-ba7e-acd8d45fe36b
       name: Carl
       appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+    - id: e57e5f77-b6a6-4c7a-a7aa-56917cd99511
+      name: Ryan
+      appearance: null
+    - id: f44e4535-2c04-4527-9cc9-7d2a1cecc1f4
+      name: Trrevor
+      appearance: null
   append:
     - id: 4462fa39-b4db-4e17-a740-0b65ca3a4011
       name: Carl
@@ -14,3 +23,30 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=e463211f-688c-401f-bd10-6cb977af8e2f
         - https://www.realitykings.com/model/24602/carl
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2011-01
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ce14966b-129e-43ff-9142-71cf5c43d5df
+      notes:
+        - https://www.iafd.com/person.rme/id=ce14966b-129e-43ff-9142-71cf5c43d5df
+        - https://www.realitykings.com/model/24608/nicholas
+    - id: null
+      name: Ryan
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b416da1c-c0d9-4fa2-8022-89ef68097c4f
+      notes:
+        - https://www.iafd.com/person.rme/id=b416da1c-c0d9-4fa2-8022-89ef68097c4f
+        - https://www.realitykings.com/model/24604/ryan
+    - id: null
+      name: Trevor
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f5c313e6-2a92-47d8-a55a-a48dc57b194d
+      notes:
+        - https://www.iafd.com/person.rme/id=f5c313e6-2a92-47d8-a55a-a48dc57b194d
+        - https://www.realitykings.com/model/24610/trevor
