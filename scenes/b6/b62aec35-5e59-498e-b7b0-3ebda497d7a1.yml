@@ -7,12 +7,10 @@ performers:
       name: Carrie
       appearance: null
   append:
-    - id: null
+    - id: 5332f40d-9d92-4421-b21c-6b4d2e197701
       name: Carrie
       appearance: null
       disambiguation: 2004, Devil's Film
-      status: c
-      status_url: https://stashdb.org/edits/ceebb468-93d5-4657-9ca8-64ab2db032a9
       notes:
         - https://www.iafd.com/person.rme/id=782b2fc5-f00e-4133-9111-e2c92a62495c
         - https://www.imdb.com/name/nm10996806/
