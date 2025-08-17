@@ -7,11 +7,9 @@ performers:
       name: Carlos
       appearance: null
   append:
-    - id: null
+    - id: dc7be32c-60ef-4436-b978-9b8c2b13b3d4
       name: Carlos
       appearance: null
       disambiguation: 2006, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/6b5c5089-6a9f-4bfe-8d8c-4b746400bc66
       notes:
         - https://www.iafd.com/person.rme/id=24c37fa2-9db2-4f78-8423-569d2910d9af

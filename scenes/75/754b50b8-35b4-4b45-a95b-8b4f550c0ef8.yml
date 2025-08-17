@@ -7,12 +7,10 @@ performers:
       name: Carlos
       appearance: null
   append:
-    - id: null
+    - id: f343b8a6-3c03-4e97-9d3d-8804e5921bd8
       name: Carlos
       appearance: null
       disambiguation: Reality Kings 26626
-      status: c
-      status_url: https://stashdb.org/edits/321525ab-41ee-4757-b242-4c126b06b8f8
       notes:
         - https://www.iafd.com/person.rme/id=6d4e7c74-a0d2-41cf-9f1f-e04d4082526f
         - https://www.realitykings.com/model/26626/carlos
