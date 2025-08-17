@@ -13,7 +13,7 @@ performers:
       name: Ryan
       appearance: null
     - id: f44e4535-2c04-4527-9cc9-7d2a1cecc1f4
-      name: Trrevor
+      name: Trevor
       appearance: null
   append:
     - id: 4462fa39-b4db-4e17-a740-0b65ca3a4011
@@ -27,8 +27,8 @@ performers:
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2011-01
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ce14966b-129e-43ff-9142-71cf5c43d5df
+      status: c
+      status_url: https://stashdb.org/edits/65075aa0-b613-47a5-8384-b42a5b2052be
       notes:
         - https://www.iafd.com/person.rme/id=ce14966b-129e-43ff-9142-71cf5c43d5df
         - https://www.realitykings.com/model/24608/nicholas
@@ -36,8 +36,8 @@ performers:
       name: Ryan
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b416da1c-c0d9-4fa2-8022-89ef68097c4f
+      status: c
+      status_url: https://stashdb.org/edits/7bc57e3d-5558-4cab-a6b6-4be12ccef195
       notes:
         - https://www.iafd.com/person.rme/id=b416da1c-c0d9-4fa2-8022-89ef68097c4f
         - https://www.realitykings.com/model/24604/ryan
@@ -45,8 +45,8 @@ performers:
       name: Trevor
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f5c313e6-2a92-47d8-a55a-a48dc57b194d
+      status: c
+      status_url: https://stashdb.org/edits/c4c3d3cb-6071-4370-903f-deee1ed835fb
       notes:
         - https://www.iafd.com/person.rme/id=f5c313e6-2a92-47d8-a55a-a48dc57b194d
         - https://www.realitykings.com/model/24610/trevor
