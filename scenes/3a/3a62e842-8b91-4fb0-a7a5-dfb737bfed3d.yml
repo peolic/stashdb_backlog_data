@@ -9,12 +9,10 @@ performers:
       name: Carrie
       appearance: null
   append:
-    - id: null
+    - id: 5a63a0fc-78c6-4e95-b96b-13f3159e825d
       name: Carrie
       appearance: null
       disambiguation: 2010, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/36cbb57e-bf30-44dc-ab5b-fd9e12417826
       notes:
         - https://www.iafd.com/person.rme/id=145373b6-85d7-4751-a1de-1fc690ecb953
         - https://www.realitykings.com/model/24801/carrie

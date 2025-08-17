@@ -19,21 +19,17 @@ performers:
       name: Damon
       appearance: null
       disambiguation: 2012, Dare Dorm
-    - id: null
+    - id: dafbd523-c780-4e47-9a6a-1ca2709e89f2
       name: Richard
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: c
-      status_url: https://stashdb.org/edits/2563d12e-158a-4e3d-8958-7c1d2a249e6c
       notes:
         - https://www.iafd.com/person.rme/id=0060f3b7-f50a-4181-b500-403bc91b13e6
         - https://www.realitykings.com/model/25554/richard
-    - id: null
+    - id: 1f2cd7cc-26fb-417b-b018-7eb3527fa241
       name: Hugo
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/9b73945d-27b2-4dce-9a35-f96d194bf8c4
       notes:
         - https://www.iafd.com/person.rme/id=9c6aa8f2-7902-43cc-811c-a175393c900d
         - https://www.realitykings.com/model/25558/hugo

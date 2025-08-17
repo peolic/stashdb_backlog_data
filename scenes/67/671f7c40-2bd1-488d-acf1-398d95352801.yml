@@ -9,12 +9,10 @@ performers:
       name: Cecilia
       appearance: null
   append:
-    - id: null
+    - id: 578ae1ee-9e1c-4605-b6cd-6cf3b075717a
       name: Cecilia
       appearance: null
       disambiguation: 2007, Teen Mega World
-      status: c
-      status_url: https://stashdb.org/edits/080b0f54-a176-4b9d-a22d-7072abdce62e
       notes:
         - https://www.iafd.com/person.rme/id=3fb1ffd2-fcf6-4d5a-bbe3-866f127c0c02
         - https://www.indexxx.com/m/cecilia-3

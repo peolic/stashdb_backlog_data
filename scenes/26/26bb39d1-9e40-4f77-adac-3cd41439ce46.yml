@@ -10,12 +10,10 @@ performers:
       name: Cecilia
       appearance: null
   append:
-    - id: null
+    - id: 868e2674-f73b-4dc9-834d-272f29db79d7
       name: Cecilia
       appearance: null
       disambiguation: 2011, Mike in Brazil
-      status: c
-      status_url: https://stashdb.org/edits/fe830a01-7314-405b-a36f-8df23763cb50
       notes:
         - https://www.iafd.com/person.rme/id=19d17875-fba3-4ec7-90c0-2a7268ce5996
         - https://www.indexxx.com/m/cecilia-2

@@ -12,12 +12,10 @@ performers:
       name: Chrissy
       appearance: null
   append:
-    - id: null
+    - id: 28e82313-13ef-4262-a33a-730faf269dc0
       name: Chrissy
       appearance: null
       disambiguation: 2003, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/938e9ba0-1724-495c-9949-5c929c2b69f3
       notes:
         - https://www.iafd.com/person.rme/id=b5b1b001-a0ae-4743-9259-8d0a66c06005
         - https://www.indexxx.com/m/chrissy-3

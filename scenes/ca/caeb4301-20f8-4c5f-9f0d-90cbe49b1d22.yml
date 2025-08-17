@@ -7,11 +7,9 @@ performers:
       name: Carlos
       appearance: null
   append:
-    - id: null
+    - id: 5325572f-b6d2-4342-bdf3-e53731b57c9d
       name: Carlos K
       appearance: Carlos
       disambiguation: Czech, 2007-2012
-      status: c
-      status_url: https://stashdb.org/edits/e8a71a82-0020-405d-9bae-adf21176ce74
       notes:
         - https://www.iafd.com/person.rme/id=49a1e1c6-f5cb-44db-86c4-80b34b2160cf

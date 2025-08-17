@@ -10,11 +10,9 @@ performers:
       name: Casey
       appearance: null
   append:
-    - id: null
+    - id: fcc58377-1969-4e3c-8612-a6aa2ea70a42
       name: Casey
       appearance: null
       disambiguation: 2012, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/371e8848-1a6b-4d28-8b37-0d8802c0b6b4
       notes:
         - https://www.iafd.com/person.rme/id=8e2941ba-c072-44ca-ac0a-8b400568ef4f

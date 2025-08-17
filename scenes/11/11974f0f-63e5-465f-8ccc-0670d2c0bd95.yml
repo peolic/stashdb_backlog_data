@@ -7,12 +7,10 @@ performers:
       name: Chanel
       appearance: null
   append:
-    - id: null
+    - id: 8b1342a9-6b0c-4c15-a655-234a0a5766c4
       name: Chanel
       appearance: null
       disambiguation: 1986-1999
-      status: c
-      status_url: https://stashdb.org/edits/993f2285-0ea3-4153-bbeb-6e2254b16a18
       notes:
         - https://www.iafd.com/person.rme/id=b228e278-a8a4-4d7d-8c68-929fcc13d824
         - https://www.imdb.com/name/nm0151556/
