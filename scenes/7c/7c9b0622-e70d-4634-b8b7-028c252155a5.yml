@@ -1,0 +1,18 @@
+c_studio:
+  - Tranny Surprise
+  - null
+performers:
+  remove:
+    - id: 8d72f9fb-07c6-42d4-9658-6685020e0549
+      name: Charlene
+      appearance: null
+  append:
+    - id: null
+      name: Charlene
+      appearance: null
+      disambiguation: 2003, Tranny Surprise
+      status: c
+      status_url: https://stashdb.org/edits/05714a27-33a6-48a7-b6fb-64ece562ff47
+      notes:
+        - https://www.iafd.com/person.rme/id=99e8aca5-3f84-413a-93fd-59d5c96e191d
+        - https://www.imdb.com/title/tt7647782/

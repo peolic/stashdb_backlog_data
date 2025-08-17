@@ -1,15 +1,6 @@
 split:
   name: Brittany
-  fragments:
-    - column: N
-      id: 1bc1b5f8-97b3-4b4e-811b-9cb93e9ec217
-      name: Brittany (Dare Dorm, 2012-06-01)
-      text: Dare Dorm "A Night To Remember"
-      links:
-        - https://www.iafd.com/person.rme/id=b6aea841-9641-4c60-93a7-517451a29e2f
-        - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
-        - https://www.realitykings.com/model/21625/brittany
-        - https://www.imdb.com/name/nm10936862/
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)

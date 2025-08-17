@@ -14,9 +14,10 @@ performers:
       name: Chaz
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.realitykings.com/model/25982/chaz
+      status: c
+      status_url: https://stashdb.org/edits/ae8271cd-5453-4f3c-b48e-70387802cdf8
       notes:
+        - https://www.iafd.com/person.rme/id=da019f67-6508-428d-b09b-c4f691409ef2
         - https://www.realitykings.com/model/25982/chaz
         - https://www.imdb.com/name/nm9242331/
     - id: b4f7d2e5-f262-4456-a799-3f3727c0f1dc

@@ -1,16 +1,6 @@
 split:
   name: Blake
-  fragments:
-    - column: K
-      id: adb92c22-89be-46c9-8ced-83e923088c7d
-      name: Blake (Boys First Time)
-      notes:
-        - '- Boys First Time "A Sexy Time"'
-        - '- Boys First Time "One More Time"'
-        - face match, despite 5 year gap
-      links:
-        - https://stashdb.org/scenes/9553985e-3c1f-4879-8469-a4c3c23664e9
-        - https://stashdb.org/scenes/b30a9433-15a6-47c2-a2aa-39076ed0a346
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-01-20)

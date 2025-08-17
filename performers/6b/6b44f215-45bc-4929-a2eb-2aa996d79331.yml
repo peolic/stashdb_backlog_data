@@ -1,16 +1,6 @@
 split:
   name: Caroline
   fragments:
-    - column: T
-      id: b8afcf27-4320-4750-998c-53a1de88c39c
-      name: Caroline (Dare Dorm, 2010)
-      text: Dare Dorm "Strip Pong"
-      links:
-        - https://stashdb.org/scenes/9c1df9d6-48e6-4ea9-aa81-d63aa37ed92d
-        - https://www.imdb.com/name/nm9242332/
-        - https://www.realitykings.com/model/25786/caroline
-        - https://www.iafd.com/title.rme/id=e6fad362-6fb2-429b-adba-f3f8a8861238
-        - https://www.imdb.com/title/tt6257998/
     - column: U
       id: null
       name: Caroline (White Ghetto, 2009)
