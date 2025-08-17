@@ -29,8 +29,8 @@ performers:
       name: Luxe
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=60f37086-70c1-4c7a-a8d6-707b4ca2a6a3
+      status: c
+      status_url: https://stashdb.org/edits/3506e2a4-5d05-4a41-a628-098a675731dd
       notes:
         - https://www.iafd.com/person.rme/id=60f37086-70c1-4c7a-a8d6-707b4ca2a6a3
         - https://www.imdb.com/name/nm9242408/
@@ -38,15 +38,15 @@ performers:
       name: Dylan
       appearance: null
       disambiguation: 2011-02, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=74de4411-85fd-4b1d-99bc-7fe3f4cfe73e
+      status: c
+      status_url: https://stashdb.org/edits/57682aa2-a1c0-44e1-af30-c93051aa8ff0
       notes:
         - https://www.iafd.com/person.rme/id=74de4411-85fd-4b1d-99bc-7fe3f4cfe73e
     - id: null
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2011-02
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c934d9f3-b8eb-42b2-b839-a4399e7d8d6d
+      status: c
+      status_url: https://stashdb.org/edits/49ea9526-62b6-4cdd-89b5-ec0a178ec86f
       notes:
         - https://www.iafd.com/person.rme/id=c934d9f3-b8eb-42b2-b839-a4399e7d8d6d

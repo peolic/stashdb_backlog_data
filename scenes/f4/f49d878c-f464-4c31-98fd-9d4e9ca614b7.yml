@@ -1,0 +1,12 @@
+c_studio:
+  - Give Me Teens
+  - null
+performers:
+  remove:
+    - id: 050d72a6-d0ba-45dc-9fd7-cfec9c8a8df3
+      name: Chelsea
+      appearance: null
+  append:
+    - id: c00f55b3-8baf-4657-8832-c8cca737177f
+      name: Olga C
+      appearance: Chelsea

@@ -1,0 +1,18 @@
+c_studio:
+  - Digital Playground Episodes
+  - null
+performers:
+  remove:
+    - id: 8ad17267-ac13-4ccb-b977-5612d8ade6cf
+      name: Christina
+      appearance: null
+  append:
+    - id: null
+      name: Christina
+      appearance: null
+      disambiguation: 2014, Digital Playground
+      status: c
+      status_url: https://stashdb.org/edits/9e70448e-de7f-48f9-a5d9-6ac746b20496
+      notes:
+        - https://www.iafd.com/person.rme/id=4c9b3771-f04e-4f10-84c1-5f26f357355a
+        - https://www.digitalplayground.com/modelprofile/34538/christina
