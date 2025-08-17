@@ -10,7 +10,7 @@ split:
         - https://stashdb.org/scenes/f439b1fa-ce73-4418-95fa-b5294f0cfe54
         - https://www.realitykings.com/model/21625/brittany
         - https://www.imdb.com/name/nm10936862/
-  status: single fragment remains
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

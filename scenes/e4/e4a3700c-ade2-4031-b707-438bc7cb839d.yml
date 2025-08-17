@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 2d948a15-b2ec-44bc-ae7a-f2b5da05a35d
+      name: Bo
+      appearance: null
+    - id: a7669e73-ab8c-41ec-9e06-38f83791628b
+      name: Jessie
+      appearance: null
+  append:
+    - id: null
+      name: Bo
+      appearance: null
+      disambiguation: 2008, Boys First Time
+      status: new
+    - id: null
+      name: Jessie
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new

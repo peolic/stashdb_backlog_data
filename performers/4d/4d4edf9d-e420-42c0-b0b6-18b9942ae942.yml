@@ -11,7 +11,7 @@ split:
       links:
         - https://stashdb.org/scenes/9553985e-3c1f-4879-8469-a4c3c23664e9
         - https://stashdb.org/scenes/b30a9433-15a6-47c2-a2aa-39076ed0a346
-  status: single fragment remains
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-01-20)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: f787a9e7-2b91-4ee4-9413-bceac796d3b5
+      name: Bradley
+      appearance: null
+    - id: f0f7c7fb-8f4e-4aa0-ac6e-2eddc37540d7
+      name: Felix
+      appearance: null
+  append:
+    - id: null
+      name: Bradley
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+    - id: null
+      name: Felix
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
