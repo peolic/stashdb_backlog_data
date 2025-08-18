@@ -1,13 +1,6 @@
 split:
   name: Jana
   fragments:
-    - column: J
-      id: ef00e9d5-45b1-40c2-aa9e-93542d7f7a82
-      name: Jana (Nubiles, 2007)
-      links:
-        - https://www.indexxx.com/m/jana-2
-        - https://stashdb.org/scenes/d63491c5-7411-4595-b689-48f7d0ba39db
-        - https://stashdb.org/scenes/385de01d-d03d-4d86-b854-0667cee3ced7
     - column: O
       id: null
       name: Jana (Wooman Casting X, 2015)
@@ -15,6 +8,7 @@ split:
       links:
         - https://www.indexxx.com/m/jana-25
         - https://stashdb.org/scenes/23989e9f-6c79-4a89-a27f-da2448c0c27f
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

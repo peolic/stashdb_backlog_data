@@ -1,30 +1,6 @@
 split:
   name: Chanel
-  fragments:
-    - column: N
-      id: a6203a2c-2cdf-4c2c-b398-132a33ffca0f
-      name: Chanel (2010, I Know That Girl)
-      text: I Know That Girl
-      links:
-        - https://www.iafd.com/person.rme/id=9cba034a-65e6-4bdb-a2ee-fdc740052109
-        - https://www.indexxx.com/m/chanel-6
-        - https://stashdb.org/scenes/a6437dee-7d7a-4891-b937-d2a803eb57a2
-    - column: P
-      id: 6cc8c4b6-7740-4300-971a-9fe44fd488c4
-      name: Chanel (2008, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=a10b72bc-6e57-498b-b49c-16c4ceacfe15
-        - https://www.indexxx.com/m/chanel-1
-        - https://stashdb.org/scenes/40b4d7a3-f6fa-44ab-8405-849218883609
-    - column: R
-      id: 8b1342a9-6b0c-4c15-a655-234a0a5766c4
-      name: Chanel (1986-1999)
-      text: Rocco Siffredi
-      links:
-        - https://www.iafd.com/person.rme/id=b228e278-a8a4-4d7d-8c68-929fcc13d824
-        - https://stashdb.org/scenes/11974f0f-63e5-465f-8ccc-0670d2c0bd95
-        - https://www.iafd.com/title.rme/title=conquest/year=1994/conquest.htm
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-24)

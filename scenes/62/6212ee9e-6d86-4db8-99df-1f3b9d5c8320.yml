@@ -10,12 +10,10 @@ performers:
       name: Jaden
       appearance: null
   append:
-    - id: null
+    - id: 1a855cc8-b164-486e-8eec-dcd8a8862933
       name: AJ
       appearance: null
       disambiguation: Boys First Time, 2005
-      status: c
-      status_url: https://stashdb.org/edits/53a73519-495d-42d6-b722-4d648f03df58
     - id: 6bef8e8b-6831-4670-bfa3-b41e326d554a
       name: Jaden Swift
       appearance: Jaden
