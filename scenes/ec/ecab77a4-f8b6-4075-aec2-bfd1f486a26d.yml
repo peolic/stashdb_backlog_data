@@ -1,0 +1,21 @@
+c_studio:
+  - ALS Angels
+  - null
+comments:
+  - correct performer, based on indexxx page and images on studio page
+  - https://alsangels.com/profiles/daisy.html
+performers:
+  remove:
+    - id: 53c75238-f063-476d-9275-7812605011e0
+      name: Nikita Blonde
+      appearance: Daisy
+      disambiguation: CZ, 2011-2012
+  append:
+    - id: null
+      name: Judith
+      appearance: Daisy
+      disambiguation: 2004, 21sextury
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ccbb6694-f7b7-4f62-a174-d80338b07b2d
+      notes:
+        - https://www.indexxx.com/m/judith

@@ -10,12 +10,15 @@ split:
         - https://stashdb.org/scenes/b9124a0e-9f2a-4c15-a2bd-0262e319b0d6
     - column: Z
       id: null
-      name: Jamie (2004, Reality Kings)
-      text: In the VIP
+      name: Jamie (2004, In the VIP)
+      notes:
+        - '- In the VIP "The Big Easy"'
+        - '- In the VIP "Cajun Cookies" - missing performer (non-sex)'
       links:
-        - https://www.iafd.com/person.rme/perfid=jamie_rk_04/gender=f/jamie.htm
+        - https://www.iafd.com/person.rme/id=b8068e89-1ddd-4786-9a06-b4d29c89ff8b
         - https://www.indexxx.com/m/jamie-5
         - https://stashdb.org/scenes/58b48644-54d0-46d6-8a21-ae40a5468ba5
+        - https://stashdb.org/scenes/80368e35-62fb-4490-ae07-87a573937b38
     - column: AD
       id: null
       name: Jamie (Boys First Time, 2004)

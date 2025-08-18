@@ -1,0 +1,19 @@
+c_studio:
+  - Club Sandy
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=20e865c1-8e07-4f64-8564-6e8fd173961f
+performers:
+  remove:
+    - id: 98187906-1a2b-4783-9c7e-f3ccbed549a6
+      name: Judith
+      appearance: null
+  append:
+    - id: null
+      name: Judith
+      appearance: null
+      disambiguation: 2004, 21sextury
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ccbb6694-f7b7-4f62-a174-d80338b07b2d
+      notes:
+        - https://www.indexxx.com/m/judith

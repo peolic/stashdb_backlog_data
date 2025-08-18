@@ -1,0 +1,19 @@
+c_studio:
+  - Teen Teacher
+  - null
+comments:
+  - same as Teacher's Pet 5 Scene 1
+  - https://www.adultdvdempire.com/472497/teachers-pet-5-porn-videos.html
+  - https://caps1cdn.adultempire.com/o/2496/640/472496_01280_640.jpg
+performers:
+  remove:
+    - id: 79f7049c-493b-4389-b3b3-b90e856cedc6
+      name: Jane
+      appearance: null
+  append:
+    - id: null
+      name: Kara Mia
+      appearance: Jane
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b13f62cb-520d-4571-9e08-e08713774566
+      notes: []

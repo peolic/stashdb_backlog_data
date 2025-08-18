@@ -3,10 +3,10 @@ split:
   fragments:
     - column: J
       id: null
-      name: Josy (2011, Reality Kings)
+      name: Josy (2011, Mike in Brazil)
       text: Mike In Brazil
       links:
-        - https://www.iafd.com/person.rme/perfid=josy_br_2012/gender=f/josy.htm
+        - https://www.iafd.com/person.rme/id=d379369a-87d9-475f-a3ef-eb9b8537ac2e
         - https://www.indexxx.com/m/josy-1
         - https://stashdb.org/scenes/52a9c8c6-b6aa-460e-93b0-c9a576e6ba19
     - column: K
