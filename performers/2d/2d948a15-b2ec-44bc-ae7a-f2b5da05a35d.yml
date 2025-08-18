@@ -1,13 +1,7 @@
 split:
   name: Bo
-  fragments:
-    - column: L
-      id: 97a35372-d0c3-4921-8a57-b94c9ee0bb10
-      name: Bo (2008, Boys First Time)
-      text: Boys First Time "Dick Tickle"
-      links:
-        - https://stashdb.org/scenes/e4a3700c-ade2-4031-b707-438bc7cb839d
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-01-20)
     - Best to move scenes and delete performer, rather than merging or renaming.

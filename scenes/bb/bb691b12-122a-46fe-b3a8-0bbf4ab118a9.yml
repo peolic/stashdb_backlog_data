@@ -1,0 +1,14 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: b5567476-51ba-4f62-8cfa-97a4a215b5bf
+      name: Brian
+      appearance: null
+  append:
+    - id: null
+      name: Brian
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new

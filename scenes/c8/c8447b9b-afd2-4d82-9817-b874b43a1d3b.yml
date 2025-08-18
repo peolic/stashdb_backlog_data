@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=69c45dd0-e190-4646-940f-7abf9c03cab5
+performers:
+  remove:
+    - id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
+      name: Albert Long
+      appearance: null
+  append:
+    - id: null
+      name: Robert
+      appearance: null
+      disambiguation: 2010, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d10eaf9a-f488-4265-883b-8ef2961e91cd
+      notes:
+        - https://www.iafd.com/person.rme/id=d10eaf9a-f488-4265-883b-8ef2961e91cd

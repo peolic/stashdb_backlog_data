@@ -1,0 +1,13 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Albert
+      appearance: null
+      disambiguation: 2018, Sell Your GF
+      status: new
+      notes:
+        - https://stashdb.org/images/49aca734-40ba-42eb-a1b7-ded4fb6f239b

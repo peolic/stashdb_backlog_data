@@ -1,15 +1,6 @@
 split:
   name: Bradley
-  fragments:
-    - column: J
-      id: be1927dc-043e-4ae9-b793-a197a9487ff8
-      name: Bradley (Boys First Time, 2006)
-      notes:
-        - '- Boys First Time "Day In The Sun"'
-        - '- Gay Revenge "Fun In The Sun"'
-      links:
-        - https://stashdb.org/scenes/d858bd43-48c3-4ce5-af05-45c2c69028d8
-        - https://stashdb.org/scenes/b912388a-36c3-4c98-bcaf-0fc2cf526a6e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)

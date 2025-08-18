@@ -1,17 +1,6 @@
 split:
   name: Pedro
-  fragments:
-    - column: J
-      id: cb32134b-0b1d-4d91-895c-699b18c06050
-      name: Pedro (Tranny Surprise, 2004)
-      notes:
-        - "- \x02Tranny Surprise \"Greedy Cock Lover\"\x03"
-        - "- \x02Tranny Surprise \"Toast To Rump\"\x03"
-        - '- Tranny Surprise "Pucker Butt"'
-        - "- \x02Tranny Surprise \"Yoga Tug\"\x03"
-      links:
-        - https://www.iafd.com/person.rme/id=b668a1e1-2e3b-4241-a3ba-45b400f8d6a5
-        - https://stashdb.org/scenes/4a9cb414-ed9b-4836-a5d6-5294df2bfae8
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
