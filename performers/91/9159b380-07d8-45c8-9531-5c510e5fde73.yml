@@ -1,20 +1,6 @@
 split:
   name: Carrie
-  fragments:
-    - column: N
-      id: 3e13e581-567b-49cf-b7d2-f24c69a0edd7
-      name: Carrie (2010, Dare Dorm)
-      text: Dare Dorm "Game On"
-      links:
-        - https://www.iafd.com/person.rme/id=7e3267ac-2c4b-42f3-9b3a-4a69d842c4d7
-        - https://stashdb.org/scenes/465cab7a-2b02-4c32-8b2e-1a5c9e05c274
-    - column: O
-      id: 5a63a0fc-78c6-4e95-b96b-13f3159e825d
-      name: Carrie (2010, GF Revenge)
-      text: GF Revenge "Wild And Crazy"
-      links:
-        - https://www.iafd.com/person.rme/id=145373b6-85d7-4751-a1de-1fc690ecb953
-        - https://stashdb.org/scenes/3a62e842-8b91-4fb0-a7a5-dfb737bfed3d
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)

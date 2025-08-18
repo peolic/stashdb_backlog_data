@@ -1,22 +1,6 @@
 split:
   name: Cecilia
-  fragments:
-    - column: L
-      id: 578ae1ee-9e1c-4605-b6cd-6cf3b075717a
-      name: Cecilia (2007, Old-n-Young)
-      text: Old-n-Young "Feisty Man Eater"
-      links:
-        - https://www.iafd.com/person.rme/id=3fb1ffd2-fcf6-4d5a-bbe3-866f127c0c02
-        - https://www.indexxx.com/m/cecilia-3
-        - https://stashdb.org/scenes/671f7c40-2bd1-488d-acf1-398d95352801
-    - column: M
-      id: 868e2674-f73b-4dc9-834d-272f29db79d7
-      name: Cecilia (2011, Mike in Brazil)
-      text: Mike in Brazil "Booty Voyage"
-      links:
-        - https://www.iafd.com/person.rme/id=19d17875-fba3-4ec7-90c0-2a7268ce5996
-        - https://www.indexxx.com/m/cecilia-2
-        - https://stashdb.org/scenes/26bb39d1-9e40-4f77-adac-3cd41439ce46
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-05-23)

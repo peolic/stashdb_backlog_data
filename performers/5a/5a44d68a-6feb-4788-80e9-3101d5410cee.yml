@@ -1,13 +1,6 @@
 split:
   name: Casey
   fragments:
-    - column: L
-      id: fcc58377-1969-4e3c-8612-a6aa2ea70a42
-      name: Casey (2012, In the VIP)
-      text: In the VIP "Wet And Wild"
-      links:
-        - https://www.iafd.com/person.rme/id=8e2941ba-c072-44ca-ac0a-8b400568ef4f
-        - https://stashdb.org/scenes/a282948d-1f2b-478d-b0b1-b7f237dd7b7d
     - column: M
       id: null
       name: Casey

@@ -1,13 +1,6 @@
 split:
   name: Hugo
   fragments:
-    - column: K
-      id: 1f2cd7cc-26fb-417b-b018-7eb3527fa241
-      name: Hugo (2012, Dare Dorm)
-      text: Dare Dorm "In It To Win It"
-      links:
-        - https://www.iafd.com/person.rme/perfid=hugodd12/gender=m/hugo.htm
-        - https://stashdb.org/scenes/7b33d1a9-11a0-4584-920b-25512f637aa1
     - column: L
       id: null
       name: Hugo (2015, Trick Your GF)
@@ -15,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/a1ab9130-9033-4da5-a57f-41c851c2bf86
         - https://stashdb.org/images/4c4004ec-56ab-4597-9e8e-96041acfdd9a
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-03-04)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,13 +1,6 @@
 split:
   name: Dylan
   fragments:
-    - column: L
-      id: 3517eb7b-1ae1-45ed-a314-1964e54e53aa
-      name: Dylan (2011-02, Dare Dorm)
-      text: Dare Dorm "Lick Me"
-      links:
-        - https://www.iafd.com/person.rme/id=74de4411-85fd-4b1d-99bc-7fe3f4cfe73e
-        - https://stashdb.org/scenes/6bd7bfda-ae16-47bb-aedd-0f2179519b4a
     - column: M
       id: null
       name: Dylan (2011-09, Dare Dorm)

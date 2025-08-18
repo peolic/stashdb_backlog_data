@@ -62,14 +62,6 @@ split:
         - https://www.iafd.com/person.rme/id=b8728d72-1160-410d-9c4b-c13a726ec1fa
         - https://stashdb.org/scenes/f3d1e2b5-c942-423d-a8ac-ce39fda74b99
         - https://www.iafd.com/title.rme/id=31a0c075-6e58-48d2-a693-01b7ba92adcb
-    - column: AH
-      id: 6893479b-df9f-4289-afc5-af67d467d188
-      name: Jessica (Dare Dorm, 2010)
-      text: Dare Dorm "Game On"
-      links:
-        - https://www.iafd.com/person.rme/id=df915ab8-9284-4695-8237-34adc81eed34
-        - https://stashdb.org/scenes/465cab7a-2b02-4c32-8b2e-1a5c9e05c274
-        - https://www.iafd.com/title.rme/id=b4e96562-bdce-4911-b6ad-ba3b4b7815f9
     - column: AJ
       id: null
       name: Jessica (Dare Dorm, 2011-12)
