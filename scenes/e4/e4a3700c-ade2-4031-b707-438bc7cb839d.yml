@@ -6,17 +6,16 @@ performers:
     - id: 2d948a15-b2ec-44bc-ae7a-f2b5da05a35d
       name: Bo
       appearance: null
-    - id: a7669e73-ab8c-41ec-9e06-38f83791628b
-      name: Jessie
-      appearance: null
   append:
     - id: null
       name: Bo
       appearance: null
       disambiguation: 2008, Boys First Time
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/e121130e-40c7-4fb8-a679-9be8e9cddd14
     - id: null
       name: Jessie
       appearance: null
       disambiguation: Boys First Time, 2008
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/02db9696-46c4-43af-ace0-0bc7e13b2c1e

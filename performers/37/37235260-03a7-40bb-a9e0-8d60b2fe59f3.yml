@@ -25,6 +25,7 @@ split:
         - https://www.iafd.com/person.rme/id=b228e278-a8a4-4d7d-8c68-929fcc13d824
         - https://stashdb.org/scenes/11974f0f-63e5-465f-8ccc-0670d2c0bd95
         - https://www.iafd.com/title.rme/title=conquest/year=1994/conquest.htm
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-24)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 368c6103-7dbd-46af-8160-04ae41a4c1a3
+      name: Carlo
+      appearance: null
+    - id: d73d16b2-5e26-43bb-81bd-d8fe47275e40
+      name: Dominick
+      appearance: null
+  append:
+    - id: null
+      name: Carlo
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+    - id: null
+      name: Dominick
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new

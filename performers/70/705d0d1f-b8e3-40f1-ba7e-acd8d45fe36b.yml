@@ -17,6 +17,7 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=e463211f-688c-401f-bd10-6cb977af8e2f
         - https://stashdb.org/scenes/c9a92752-442f-41fd-82d1-b2b76ace9b5c
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-04)
     - Best to move scenes and delete performer, rather than merging or renaming.
