@@ -1,0 +1,18 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.imdb.com/title/tt7713822/
+performers:
+  remove:
+    - id: 758309c2-65c0-4da3-a6c6-c28475f50ef9
+      name: Pedro
+      appearance: null
+  append:
+    - id: cb32134b-0b1d-4d91-895c-699b18c06050
+      name: Pedro
+      appearance: null
+      disambiguation: Tranny Surprise, 2004
+      notes:
+        - https://www.iafd.com/person.rme/id=b668a1e1-2e3b-4241-a3ba-45b400f8d6a5
+        - https://www.imdb.com/name/nm9468173/
