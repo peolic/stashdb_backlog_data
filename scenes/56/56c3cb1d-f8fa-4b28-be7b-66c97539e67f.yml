@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 5531b2b3-30a8-424f-bff6-2786a0d00a2c
       name: J Bird
       appearance: Goddess Siren
-      status: c
-      status_url: https://stashdb.org/edits/1d9696ff-dae3-47e1-9daa-7a16148d3661
       notes:
         - https://purpleport.com/portfolio/altsiren/
