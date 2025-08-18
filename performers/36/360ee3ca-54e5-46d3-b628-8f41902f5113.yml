@@ -1,12 +1,6 @@
 split:
   name: Aj
-  fragments:
-    - column: I
-      id: 1a855cc8-b164-486e-8eec-dcd8a8862933
-      name: Aj (Boys First Time, 2005)
-      text: Boys First Time "Golden Flair"
-      links:
-        - https://stashdb.org/scenes/6212ee9e-6d86-4db8-99df-1f3b9d5c8320
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
