@@ -2,6 +2,7 @@ c_studio:
   - Wicked
   - null
 comments:
+  - https://www.iafd.com/title.rme/id=6b9c577a-7aa5-4532-a24a-67748bd3ae43
   - Studio name of "Wicked" is incorrect - title and content match a Dynamite Video release (redistribution of scenes)
 performers:
   remove:
@@ -12,3 +13,6 @@ performers:
     - id: 76e2c878-68a5-4030-b91d-5d2535b903c1
       name: Valter Karotti
       appearance: Chad
+studio:
+  - null
+  - Dynamite Video

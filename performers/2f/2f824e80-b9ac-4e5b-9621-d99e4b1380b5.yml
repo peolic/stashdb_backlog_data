@@ -4,16 +4,16 @@ split:
     - column: J
       id: null
       name: Joselyn (2010, Dare Dorm)
-      text: Dare Dorm
+      text: Dare Dorm "Thats So"
       links:
-        - https://www.iafd.com/person.rme/perfid=joselyn_rk10/gender=f/joselyn.htm
+        - https://www.iafd.com/person.rme/id=6f837378-7955-4268-b9e8-8e9bfce6f267
         - https://stashdb.org/scenes/1b2bf2e9-773e-4838-8ba6-0da61839f0b1
     - column: K
       id: null
       name: Joselyn (2006, In the VIP)
-      text: In the VIP
+      text: In the VIP "Automatic Slims"
       links:
-        - https://www.iafd.com/person.rme/perfid=joselyn_rk_06/gender=f/joselyn.htm
+        - https://www.iafd.com/person.rme/id=35b806d5-db68-45a8-b8e4-16c32e0a1a3e
         - https://www.indexxx.com/m/joselyn-1
         - https://stashdb.org/scenes/3040a0ff-6897-413d-aa57-ec11800cc179
   notes:
