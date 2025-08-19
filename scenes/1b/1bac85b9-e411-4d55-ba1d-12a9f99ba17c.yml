@@ -1,0 +1,15 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: 403e358e-b62c-4d44-9c7c-64274dd28e35
+      name: Candy
+      appearance: null
+  append:
+    - id: null
+      name: Sweet Candy
+      appearance: null
+      disambiguation: Canadian
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6cd41fdc-db12-4919-a0ea-54b37407da6e

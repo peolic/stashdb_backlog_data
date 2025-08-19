@@ -1,0 +1,15 @@
+c_studio:
+  - GF Revenge
+  - null
+performers:
+  remove:
+    - id: df32cf34-e4f4-409d-ac76-37a9e733ac40
+      name: Clark
+      appearance: null
+  append:
+    - id: null
+      name: Clark
+      appearance: null
+      disambiguation: 2013-2014, Reality Kings
+      status: new
+      status_url: https://www.realitykings.com/model/25097/clark

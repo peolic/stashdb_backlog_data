@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 8c6f622b-3eb8-4729-b436-e643a8b5c62c
+      name: Chad
+      appearance: null
+  append:
+    - id: null
+      name: Chad
+      appearance: null
+      disambiguation: 2009, Boys First Time
+      status: new
