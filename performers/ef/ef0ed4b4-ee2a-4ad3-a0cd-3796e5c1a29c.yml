@@ -1,13 +1,6 @@
 split:
   name: Damon
-  fragments:
-    - column: J
-      id: null
-      name: Damon James
-      text: Mommy Blows Best
-      links:
-        - https://www.iafd.com/person.rme/perfid=damonjames/gender=m/damon-james.htm
-        - https://stashdb.org/scenes/1876e5b7-94ee-4d32-a17e-5742580f4238
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (possibly complete list as of 2024-03-03)

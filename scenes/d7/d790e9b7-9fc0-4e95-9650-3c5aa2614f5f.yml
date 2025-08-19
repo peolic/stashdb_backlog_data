@@ -6,9 +6,33 @@ performers:
     - id: fdc82b4c-8a48-4437-890b-b552d3fda6fc
       name: Bobby
       appearance: null
+    - id: 9d20277a-1ada-40da-95c6-89802e9eaa55
+      name: Benjamin
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 86da656e-d1ee-44e1-aea5-b455dbbbcf07
+      name: Jean
+      appearance: null
   append:
     - id: null
       name: Bobby
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+    - id: null
+      name: Benjamin
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+    - id: null
+      name: Jean
       appearance: null
       disambiguation: Papi, 2007
       status: new

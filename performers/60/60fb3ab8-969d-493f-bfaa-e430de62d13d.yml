@@ -3,8 +3,10 @@ split:
   fragments:
     - column: Y
       id: null
-      name: Crystal (2010-01-01, GF Revenge)
-      text: Off-camera in this scene (only her hand/arm is visible when she touches someone; see gallery).
+      name: Crystal (2010, GF Revenge)
+      text: GF Revenge "Fun Bubbles"
+      notes:
+        - Off-camera in this scene (only her hand/arm is visible when she touches someone; see gallery).
       links:
         - https://stashdb.org/scenes/8eee9a4f-abf3-42d9-89e7-f535c87f971b
         - https://pics-x.com/gallery/185775/fun-bubbles-gf-revenge
@@ -14,13 +16,12 @@ split:
     - column: Z
       id: null
       name: Crystal (Dare Dorm, 2011)
-      notes:
-        - '- Dare Dorm "Whip It Good"'
+      text: Dare Dorm "Whip It Good"
       links:
-        - https://www.imdb.com/name/nm9242433/
         - https://www.iafd.com/person.rme/id=a4c4a87a-711a-4cb1-8587-77f172df5dab
-        - https://www.realitykings.com/model/25199/crystal
         - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
+        - https://www.imdb.com/name/nm9242433/
+        - https://www.realitykings.com/model/25199/crystal
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

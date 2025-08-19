@@ -11,5 +11,7 @@ performers:
       name: Marty
       appearance: null
       disambiguation: Male Reality, 2014
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f34d6f70-f4db-4fc6-aee0-a1573ea36f89
+      status: c
+      status_url: https://stashdb.org/edits/06b429a3-e76a-4c05-b544-1c7f16538bc2
+      notes:
+        - https://www.iafd.com/person.rme/id=f34d6f70-f4db-4fc6-aee0-a1573ea36f89

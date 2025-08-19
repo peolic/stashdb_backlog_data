@@ -1,0 +1,22 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: f78532fc-b2b4-465d-97c2-a46a430d9429
+      name: Brandon
+      appearance: null
+    - id: 63a4c394-cb34-46d7-8292-eb1dcab739fc
+      name: Christopher
+      appearance: null
+  append:
+    - id: null
+      name: Brandon
+      appearance: null
+      disambiguation: 2010, Dick Dorm
+      status: new
+    - id: null
+      name: Christopher
+      appearance: null
+      disambiguation: 2010, Dick Dorm
+      status: new
