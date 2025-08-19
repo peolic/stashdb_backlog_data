@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: d21f9c3c-193b-44e3-a02d-5aa22a9185cd
+      name: Alan
+      appearance: null
+    - id: dc8a243d-d411-41af-b48e-17ca742ecae6
+      name: Charlie
+      appearance: null
+  append:
+    - id: null
+      name: Alan
+      appearance: null
+      disambiguation: 2006, Boys First Time
+      status: new
+    - id: null
+      name: Charlie
+      appearance: null
+      disambiguation: 2006, Boys First Time
+      status: new
