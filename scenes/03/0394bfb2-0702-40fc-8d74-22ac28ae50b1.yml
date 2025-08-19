@@ -1,0 +1,38 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: e5b532d6-c592-482c-9bd3-86504e9e5972
+      name: Clint
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
+      name: Jason
+      appearance: null
+    - id: 5c92c7df-4ad7-42f1-ab64-fbe56573cbbc
+      name: Jeremiah
+      appearance: null
+  append:
+    - id: null
+      name: Clint
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: Dick Dorm, 2011-03
+      status: new
+    - id: null
+      name: Jason
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+    - id: null
+      name: Jeremiah
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new

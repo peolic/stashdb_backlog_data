@@ -1,6 +1,9 @@
 c_studio:
   - Dare Dorm
   - null
+comments:
+  - https://www.imdb.com/title/tt6395396/
+  - https://www.iafd.com/title.rme/id=39de0314-3266-44ea-a9a7-b77deaf7d2b3
 performers:
   remove:
     - id: df32cf34-e4f4-409d-ac76-37a9e733ac40
@@ -12,4 +15,6 @@ performers:
       appearance: null
       disambiguation: 2013-2014, Reality Kings
       status: new
-      status_url: https://www.realitykings.com/model/25097/clark
+      status_url: https://www.iafd.com/person.rme/id=8bd47207-d823-4d1f-99b6-02cb04eb0ff2
+      notes:
+        - https://www.realitykings.com/model/25097/clark

@@ -1,0 +1,16 @@
+c_studio:
+  - Sex Mex
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=1a9f2a7f-eb06-416b-9c34-4f9556b013b3
+performers:
+  remove:
+    - id: 0826c4d8-029c-43f3-88d9-a9c7129b0dfd
+      name: Claudia
+      appearance: null
+  append:
+    - id: null
+      name: Claudia ]Sex Mex, 2015]
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e2402289-6d82-479c-bc8d-25fe45d79207
