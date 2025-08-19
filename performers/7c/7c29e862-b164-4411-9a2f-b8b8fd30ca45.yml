@@ -42,7 +42,7 @@ split:
       name: Tommy (2004, In the VIP)
       text: In the VIP (2004)
       links:
-        - https://www.iafd.com/person.rme/perfid=tommy_rk_04/gender=m/tommy.htm
+        - https://www.iafd.com/person.rme/id=a1ae10b0-992c-43c6-9ba3-4aede30f3e40
         - https://stashdb.org/scenes/7885f959-2dff-4183-afff-ca2644ba25ca
     - column: T
       id: null
