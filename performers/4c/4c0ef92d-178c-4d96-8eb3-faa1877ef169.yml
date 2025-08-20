@@ -12,9 +12,9 @@ split:
     - column: L
       id: null
       name: Devin (2007, Pure 18)
-      text: Pure 18
+      text: Pure 18 "Finger Lickin Good"
       links:
-        - https://www.iafd.com/person.rme/perfid=devin_08/gender=f/devin.htm
+        - https://www.iafd.com/person.rme/id=bce89af9-053a-46a6-b7af-9b7e4a53e388
         - https://www.indexxx.com/m/devin-1
         - https://stashdb.org/scenes/6b6be35b-15f7-41a4-bc22-9a9eb8e9dd0d
     - column: M
