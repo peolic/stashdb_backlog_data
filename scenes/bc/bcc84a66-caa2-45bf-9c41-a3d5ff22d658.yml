@@ -7,11 +7,9 @@ performers:
       name: Luke
       appearance: null
   append:
-    - id: null
+    - id: aa1a4423-2b0c-40da-a544-853a7ae0b8b2
       name: Luke
       appearance: null
       disambiguation: Male Reality, 2014
-      status: c
-      status_url: https://stashdb.org/edits/a3528825-6d03-471a-a3fc-636e07e72d5d
       notes:
         - https://www.iafd.com/person.rme/id=b8ef573d-ea71-4523-afaa-0689be4bf1e2

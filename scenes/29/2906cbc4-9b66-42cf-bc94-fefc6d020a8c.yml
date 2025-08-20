@@ -1,0 +1,30 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #14, Scene #1'
+  - https://www.adultdvdempire.com/1512032/use-em-abuse-em-lose-em-vol-14-porn-videos.html#scene_1487343
+  - https://www.iafd.com/title.rme/id=440785aa-2302-47fa-92fb-c0854927dbcc
+performers:
+  remove:
+    - id: 25e3e2f9-081c-40d5-a568-b690262a09af
+      name: Timo Hardy
+      appearance: Garry
+    - id: a990373b-94fc-479b-aa1b-167640aa03b0
+      name: Rachel
+      appearance: null
+  append:
+    - id: null
+      name: Johnny
+      appearance: Garry
+      disambiguation: 2007, XP Video
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=570f5a8f-4d31-4872-a463-123306852092
+    - id: null
+      name: Rachel
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
+      notes:
+        - https://ibb.co/WNQwS5mH
+        - https://stashdb.org/images/978ca75d-3d25-41d5-bb2a-cc1f2eb54ec1
