@@ -8,6 +8,12 @@ performers:
     - id: 25e3e2f9-081c-40d5-a568-b690262a09af
       name: Timo Hardy
       appearance: Timur
+    - id: 97e3ad9b-07dc-4363-843d-ee55182dc74a
+      name: Sergei ]WTFPass[
+      appearance: null
+    - id: 6f5821f0-d585-47dd-a312-b7c973eab029
+      name: Igor ]WTFPass 2011[
+      appearance: null
   append:
     - id: null
       name: Timur
@@ -18,3 +24,10 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=502e0fdd-a83e-4d7e-904d-acff1d987746
         - https://wtfpass.com/models/timur-2/
+    - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c
+      name: Mr. Henderson
+      appearance: Sergei
+    - id: 780e63c9-c477-44d3-a04c-5f2022da1760
+      name: Vincent Vega
+      appearance: Igor
+      disambiguation: RU
