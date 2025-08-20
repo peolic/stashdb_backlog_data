@@ -1,0 +1,15 @@
+c_studio:
+  - College Fuck Parties
+  - null
+comments:
+  - https://wtfpass.com/videos/2985/ssp7601/
+performers:
+  remove:
+    - id: 97e3ad9b-07dc-4363-843d-ee55182dc74a
+      name: Sergei
+      appearance: null
+      disambiguation: WTFPass
+  append:
+    - id: e61c6ee4-b106-45ba-9a83-38a695fe6954
+      name: Stefan Nikita
+      appearance: Sergei

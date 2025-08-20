@@ -2,12 +2,9 @@ c_studio:
   - Hard Fuck Girls
   - null
 comments:
-  - https://www.iafd.com/title.rme/id=a5a36a60-21eb-46f4-9cd5-d20e0e02c489
+  - https://www.iafd.com/title.rme/id=88474e51-1fd9-4ca2-b63c-d118142d48b4
 performers:
   remove:
-    - id: 25e3e2f9-081c-40d5-a568-b690262a09af
-      name: Timo Hardy
-      appearance: Timur
     - id: 97e3ad9b-07dc-4363-843d-ee55182dc74a
       name: Sergei
       appearance: null
@@ -17,15 +14,6 @@ performers:
       appearance: null
       disambiguation: WTFPass 2011
   append:
-    - id: null
-      name: Timur
-      appearance: null
-      disambiguation: WTFPass
-      status: c
-      status_url: https://stashdb.org/edits/801e9393-71fe-4693-9e94-20ed09d81f91
-      notes:
-        - https://www.iafd.com/person.rme/id=502e0fdd-a83e-4d7e-904d-acff1d987746
-        - https://wtfpass.com/models/timur-2/
     - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c
       name: Mr. Henderson
       appearance: Sergei

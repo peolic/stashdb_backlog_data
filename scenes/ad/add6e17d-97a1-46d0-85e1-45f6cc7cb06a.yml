@@ -1,0 +1,23 @@
+c_studio:
+  - Hard Fuck Girls
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=cc2393db-e98b-42b9-9b3c-e3ff0963c92d
+performers:
+  remove:
+    - id: 97e3ad9b-07dc-4363-843d-ee55182dc74a
+      name: Sergei
+      appearance: null
+      disambiguation: WTFPass
+    - id: 6f5821f0-d585-47dd-a312-b7c973eab029
+      name: Igor
+      appearance: null
+      disambiguation: WTFPass 2011
+  append:
+    - id: e61c6ee4-b106-45ba-9a83-38a695fe6954
+      name: Stefan Nikita
+      appearance: Sergei
+    - id: 780e63c9-c477-44d3-a04c-5f2022da1760
+      name: Vincent Vega
+      appearance: Igor
+      disambiguation: RU

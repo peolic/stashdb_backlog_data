@@ -1,0 +1,15 @@
+c_studio:
+  - Hard Fuck Girls
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=bb576135-ba88-4cac-8b84-59d7d0f2fac1
+performers:
+  remove:
+    - id: 97e3ad9b-07dc-4363-843d-ee55182dc74a
+      name: Sergei
+      appearance: null
+      disambiguation: WTFPass
+  append:
+    - id: e61c6ee4-b106-45ba-9a83-38a695fe6954
+      name: Stefan Nikita
+      appearance: Sergei

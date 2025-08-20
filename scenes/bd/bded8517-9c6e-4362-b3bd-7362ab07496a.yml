@@ -1,0 +1,17 @@
+c_studio:
+  - Dolls Porn
+  - null
+comments:
+  - current date very wrong, 2018 is an approximation
+  - https://wtfpass.com/videos/5902/cip0405/
+date: '2018'
+performers:
+  remove:
+    - id: 97e3ad9b-07dc-4363-843d-ee55182dc74a
+      name: Sergei
+      appearance: null
+      disambiguation: WTFPass
+  append:
+    - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c
+      name: Mr. Henderson
+      appearance: Sergei
