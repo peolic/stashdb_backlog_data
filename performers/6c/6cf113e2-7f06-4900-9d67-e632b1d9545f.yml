@@ -1,14 +1,7 @@
 split:
   name: Marty
-  fragments:
-    - column: L
-      id: caac00f0-1fb2-4133-90a2-8befdba6d020
-      name: Marty (Male Reality, 2017)
-      text: 'Male Reality "Gay Massage #06 Scene 3"'
-      links:
-        - https://www.iafd.com/person.rme/id=f34d6f70-f4db-4fc6-aee0-a1573ea36f89
-        - https://stashdb.org/scenes/d3170641-825a-4b6a-9d1e-a212607cde3e
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.
