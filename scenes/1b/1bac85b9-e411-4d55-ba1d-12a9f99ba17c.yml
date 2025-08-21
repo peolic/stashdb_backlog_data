@@ -11,5 +11,7 @@ performers:
       name: Sweet Candy
       appearance: null
       disambiguation: Canadian
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6cd41fdc-db12-4919-a0ea-54b37407da6e
+      status: c
+      status_url: https://stashdb.org/edits/dd3235f8-13cc-46ca-b335-27e509c23a0e
+      notes:
+        - https://www.iafd.com/person.rme/id=6cd41fdc-db12-4919-a0ea-54b37407da6e
