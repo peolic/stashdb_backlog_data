@@ -1,0 +1,17 @@
+c_studio:
+  - Buttman
+  - Evil Angel
+comments:
+  - https://www.iafd.com/title.rme/id=8e2dc391-830c-4587-83b3-121541e5cb4f
+performers:
+  remove:
+    - id: dbcf38be-b544-4238-9525-a59fac2d4cb1
+      name: Chip
+      appearance: null
+  append:
+    - id: null
+      name: Chip
+      appearance: null
+      disambiguation: Cuckold Sessions
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=24ac875f-08ae-4492-bea1-764c746e5fdc
