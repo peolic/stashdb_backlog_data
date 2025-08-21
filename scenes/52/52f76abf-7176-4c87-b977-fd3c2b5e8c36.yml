@@ -1,0 +1,15 @@
+c_studio:
+  - Trans Angels Premium
+  - null
+performers:
+  remove:
+    - id: 1ed9467c-80ea-4dff-bd2d-a048bce65e7b
+      name: Charles
+      appearance: null
+  append:
+    - id: null
+      name: Charlie
+      appearance: null
+      disambiguation: 2015, Trans500
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=64c3865f-1651-44fb-af48-e4b196dc201b

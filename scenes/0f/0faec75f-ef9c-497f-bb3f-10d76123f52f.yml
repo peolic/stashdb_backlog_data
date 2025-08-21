@@ -1,0 +1,56 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=fc6579ae-a649-494e-8742-e5f796286219
+  - https://www.imdb.com/title/tt6258024/
+performers:
+  remove:
+    - id: dc8a243d-d411-41af-b48e-17ca742ecae6
+      name: Charlie
+      appearance: null
+    - id: null
+      name: Martin
+      appearance: null
+    - id: dbc6a7b1-3ede-45c2-85ff-c5491bbcdb3d
+      name: Monica
+      appearance: null
+    - id: 65912c4f-49cb-457f-ab1e-8e45eda1c5d0
+      name: Stephanie
+      appearance: null
+  append:
+    - id: null
+      name: Charlie
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6d040858-7059-4ded-9c99-477bbb9f001d
+      notes:
+        - https://www.imdb.com/name/nm10912747/
+        - https://www.realitykings.com/model/24791/charlie
+    - id: null
+      name: Martin
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=bbf03cfa-4285-49db-9b9e-8ae04fa2802a
+      notes:
+        - https://www.realitykings.com/model/19741/bryan
+    - id: null
+      name: Monica
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ab2996d9-fdc1-4d5f-a9b2-2b43f8842323
+      notes:
+        - https://www.realitykings.com/model/24795/monica
+        - https://www.imdb.com/name/nm10912748/
+    - id: null
+      name: Stephanie
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=498e1851-9169-4315-ab7f-7e14f1b2a120
+      notes:
+        - https://www.imdb.com/name/nm10912749/
+        - https://www.realitykings.com/model/24797/stephanie

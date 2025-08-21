@@ -1,0 +1,25 @@
+c_studio:
+  - First Time Auditions
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=669f0dcb-5734-482b-b1c7-ae4c9a4f36a3
+  - https://www.indexxx.com/set/493518/first-time-auditions-charlie/
+  - https://www.imdb.com/title/tt6993484/
+performers:
+  remove:
+    - id: dc8a243d-d411-41af-b48e-17ca742ecae6
+      name: Charlie
+      appearance: null
+  append:
+    - id: null
+      name: Charlie
+      appearance: null
+      disambiguation: 2013, First Time Auditions
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1261f576-6e96-4c59-b43c-6717474c1ac1
+      notes:
+        - https://www.indexxx.com/m/charlie-19
+        - https://www.realitykings.com/model/9341/charlie
+        - https://www.thenude.com/_57935.htm
+        - https://www.18eighteen.com/teen-babes/Charlie/7177/
+        - https://www.imdb.com/name/nm17138274/

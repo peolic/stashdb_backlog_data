@@ -1,0 +1,22 @@
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.indexxx.com/set/650488/street-blowjobs-charlie/
+  - https://www.imdb.com/title/tt5491956/
+  - https://www.iafd.com/title.rme/id=74a5e20e-cb23-4cc2-995e-14334b5e73b9
+performers:
+  remove:
+    - id: dc8a243d-d411-41af-b48e-17ca742ecae6
+      name: Charlie
+      appearance: null
+  append:
+    - id: null
+      name: Charlie Baby
+      appearance: Charlie
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f1387412-c621-40f0-a5e1-0efd54671fe9
+      notes:
+        - https://www.indexxx.com/m/charlie-21
+        - https://www.realitykings.com/model/9813/charlie
+        - https://www.imdb.com/name/nm7945183/

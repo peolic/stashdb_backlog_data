@@ -1,0 +1,28 @@
+c_studio:
+  - Delete or Fix | MindGeek API Fix | milehigh
+  - null
+performers:
+  remove:
+    - id: f166bdda-a981-4408-8522-04d2a18e7fdd
+      name: Brenda
+      appearance: null
+  append:
+    - id: null
+      name: Brenda
+      appearance: null
+      disambiguation: Mile High Media
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7834db66-c980-4a77-8a18-4546a7c6ce2b
+      notes:
+        - https://www.imdb.com/name/nm10897567/
+    - id: null
+      name: Maria
+      appearance: null
+      disambiguation: Mile High Media
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=61c33a30-d831-4465-8523-3a2c133b113a
+      notes:
+        - https://www.imdb.com/name/nm3508415/
+studio:
+  - eb2b1fd3-d388-4b56-88ac-9ac33f1ddb74
+  - Redistributed through "Mile High Xtreme" both digitally and in DVD form which is why it showed up in the MindGeek scrape.
