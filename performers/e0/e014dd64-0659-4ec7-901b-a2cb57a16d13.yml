@@ -4,10 +4,9 @@ split:
     - column: M
       id: null
       name: Daniella (German, 1994-2002)
-      text: Wicked "The Kiss Scene 4"
       notes:
-        - 'also:'
-        - The Voyeur 3 Scene 3 - missing performer
+        - '- Wicked "The Kiss Scene 4"'
+        - '- also: The Voyeur 3 Scene 3 - missing performer'
       links:
         - https://www.iafd.com/person.rme/perfid=daniella/gender=f/daniella.htm
         - https://stashdb.org/scenes/3ee96aab-c196-4a5f-9d6f-bffb0e5d2d99
