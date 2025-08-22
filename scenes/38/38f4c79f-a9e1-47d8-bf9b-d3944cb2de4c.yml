@@ -9,12 +9,10 @@ performers:
       name: Albert Long
       appearance: Robert
   append:
-    - id: null
+    - id: 0f06beea-2af8-4d0c-9970-b79bd6df7bd0
       name: Robert
       appearance: null
       disambiguation: 2003, Butt Machine Boys
-      status: c
-      status_url: https://stashdb.org/edits/3c6c58a8-4cea-4906-9918-f2f7af83f45a
       notes:
         - https://www.iafd.com/person.rme/id=12018d8b-06a8-4d10-8350-4bcf7cb528cc
         - https://www.kinkmen.com/model/2526/Robert
