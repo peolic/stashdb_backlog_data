@@ -7,12 +7,10 @@ performers:
       name: Cream
       appearance: null
   append:
-    - id: null
+    - id: 0b133b1d-9f06-4c25-b11d-5137de867dbc
       name: Cream
       appearance: null
       disambiguation: 2006, Trans 500
-      status: c
-      status_url: https://stashdb.org/edits/0538dff9-ff94-4184-9aa4-77361c526bfa
       notes:
         - https://www.iafd.com/person.rme/id=bea73672-7214-4a28-a4f1-cf071fb2aaab
         - https://stashdb.org/images/a7afb550-4a26-408a-b4cd-76d9026971eb

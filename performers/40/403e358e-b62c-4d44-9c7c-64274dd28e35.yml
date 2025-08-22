@@ -1,18 +1,7 @@
 split:
   name: Candy
-  fragments:
-    - column: V
-      id: 5c14a82f-a1c8-4ca3-a2f8-bcc9bd8d3743
-      name: Sweet Candy (Canadian)
-      text: Nasty Angels
-      notes:
-        - 'Same as "Dr. Moretwat''s Homemade Porno: Clean But Filthy Vol. 4" - Scene 2 (of 4)'
-        - It is not the original release, and not found on IAFD
-        - tattoo matches
-      links:
-        - https://www.iafd.com/person.rme/id=6cd41fdc-db12-4919-a0ea-54b37407da6e
-        - https://stashdb.org/scenes/1bac85b9-e411-4d55-ba1d-12a9f99ba17c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-31)
     - Best to move scenes and delete performer, rather than merging or renaming.

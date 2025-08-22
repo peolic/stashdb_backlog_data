@@ -1,14 +1,7 @@
 split:
   name: Damien
-  fragments:
-    - column: J
-      id: 9b159a0b-103f-49e3-8962-8231ad98c4b9
-      name: Damien (2005, Men In Pain)
-      text: Men In Pain
-      links:
-        - https://www.iafd.com/person.rme/id=fea81d32-ef60-4fdf-8e5b-dc5746779b71
-        - https://stashdb.org/scenes/4e24d80c-89df-422e-a5a7-e45013a955be
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,0 +1,19 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.imdb.com/title/tt7647788/
+performers:
+  remove:
+    - id: dbcf38be-b544-4238-9525-a59fac2d4cb1
+      name: Chip
+      appearance: null
+  append:
+    - id: null
+      name: Chip
+      appearance: null
+      disambiguation: 2003, Tranny Surprise
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=70521b65-241f-4a8a-8905-9ec2601df12b
+      notes:
+        - https://www.imdb.com/name/nm9354987/
