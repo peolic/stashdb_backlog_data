@@ -9,12 +9,10 @@ performers:
       name: Timo Hardy
       appearance: Timur
   append:
-    - id: null
+    - id: 1c745215-5f21-4040-b12e-9987cc8af4ca
       name: Timur
       appearance: null
       disambiguation: WTFPass
-      status: c
-      status_url: https://stashdb.org/edits/801e9393-71fe-4693-9e94-20ed09d81f91
       notes:
         - https://www.iafd.com/person.rme/id=502e0fdd-a83e-4d7e-904d-acff1d987746
         - https://wtfpass.com/models/timur-2/
