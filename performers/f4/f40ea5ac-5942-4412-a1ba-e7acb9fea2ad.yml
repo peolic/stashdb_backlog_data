@@ -1,20 +1,7 @@
 split:
   name: Joli
-  fragments:
-    - column: I
-      id: 63ac4811-7a3e-4309-98d0-de6825336eed
-      name: Joli (2005-2006, BangBros)
-      notes:
-        - '- Street Ranger "Joli"'
-        - '- Tugjobs "Tug Away Jolie!"'
-        - '- Monsters of Cock "joli"'
-      links:
-        - https://www.iafd.com/person.rme/id=b9ed0f08-a8ba-439d-848c-c67205893298
-        - https://www.indexxx.com/m/joli
-        - https://stashdb.org/scenes/da77ea0d-8f15-4570-934e-b509c8c8286a
-        - https://stashdb.org/scenes/74c267c5-3e41-4028-b888-f05428717f45
-        - https://stashdb.org/scenes/12f5b81f-af7d-4691-b760-044c0c99f635
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2022-07-10)
     - Best to move scenes and delete performer, rather than merging or renaming.
