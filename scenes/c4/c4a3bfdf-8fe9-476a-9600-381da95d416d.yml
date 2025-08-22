@@ -14,9 +14,10 @@ performers:
     - id: null
       name: Charlie Baby
       appearance: Charlie
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f1387412-c621-40f0-a5e1-0efd54671fe9
+      status: c
+      status_url: https://stashdb.org/edits/3a17dc03-e468-4288-9939-aa1820efe007
       notes:
+        - https://www.iafd.com/person.rme/id=f1387412-c621-40f0-a5e1-0efd54671fe9
         - https://www.indexxx.com/m/charlie-21
         - https://www.realitykings.com/model/9813/charlie
         - https://www.imdb.com/name/nm7945183/

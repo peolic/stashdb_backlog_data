@@ -11,17 +11,19 @@ performers:
       name: Brenda
       appearance: null
       disambiguation: 2007, Magnus
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=7834db66-c980-4a77-8a18-4546a7c6ce2b
+      status: c
+      status_url: https://stashdb.org/edits/b6b6c74b-f213-41e0-b8e0-7ade84ef4bef
       notes:
+        - https://www.iafd.com/person.rme/id=7834db66-c980-4a77-8a18-4546a7c6ce2b
         - https://www.imdb.com/name/nm10897567/
     - id: null
       name: Maria
       appearance: null
       disambiguation: 2007, Magnus
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=61c33a30-d831-4465-8523-3a2c133b113a
+      status: c
+      status_url: https://stashdb.org/edits/5f52498a-2952-42bc-9478-a020605d5c20
       notes:
+        - https://www.iafd.com/person.rme/id=61c33a30-d831-4465-8523-3a2c133b113a
         - https://www.imdb.com/name/nm3508415/
 studio:
   - eb2b1fd3-d388-4b56-88ac-9ac33f1ddb74
