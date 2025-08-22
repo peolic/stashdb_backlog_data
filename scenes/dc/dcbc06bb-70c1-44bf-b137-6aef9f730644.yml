@@ -10,12 +10,10 @@ performers:
       name: Clark
       appearance: null
   append:
-    - id: null
+    - id: ccb488bf-b37a-43ab-8e3d-8f336dd70b8b
       name: Clark
       appearance: null
       disambiguation: 2013-2014, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/2622b5e3-7c7d-410f-9111-72fc16517939
       notes:
         - https://www.iafd.com/person.rme/id=8bd47207-d823-4d1f-99b6-02cb04eb0ff2
         - https://www.realitykings.com/model/25097/clark
