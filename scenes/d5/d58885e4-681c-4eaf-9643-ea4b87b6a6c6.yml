@@ -9,12 +9,10 @@ performers:
       name: Judith
       appearance: null
   append:
-    - id: null
+    - id: 85f0c2e7-a4b2-45c3-94a5-dcea846532bb
       name: Judith
       appearance: null
       disambiguation: 2004, 21sextury
-      status: c
-      status_url: https://stashdb.org/edits/2f8eac98-b78d-4783-8c7d-f0fc4e3cf4ce
       notes:
         - https://www.iafd.com/person.rme/id=ccbb6694-f7b7-4f62-a174-d80338b07b2d
         - https://www.indexxx.com/m/judith

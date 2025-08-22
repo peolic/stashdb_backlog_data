@@ -11,10 +11,8 @@ performers:
       name: Jane
       appearance: null
   append:
-    - id: null
+    - id: ecfd18ba-6c3a-407b-8f39-498ea76514d7
       name: Kara Mia
       appearance: Jane
-      status: c
-      status_url: https://stashdb.org/edits/397d72e0-e2c7-4673-babc-58dd4e1d5d89
       notes:
         - https://www.iafd.com/person.rme/id=b13f62cb-520d-4571-9e08-e08713774566
