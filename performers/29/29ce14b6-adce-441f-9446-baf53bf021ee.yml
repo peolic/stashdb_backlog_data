@@ -12,21 +12,21 @@ split:
       name: Dave (2015, Male Reality)
       text: Male Reality
       links:
-        - https://www.iafd.com/person.rme/perfid=dave_malereality/gender=m/dave.htm
+        - https://www.iafd.com/person.rme/id=712f106a-b259-496f-a48e-71f71eac73a2
         - https://stashdb.org/scenes/90190168-cc1a-4953-9122-81d271cfd88f
     - column: L
       id: null
       name: Dave (2009, Gonzo)
       text: Gonzo
       links:
-        - https://www.iafd.com/person.rme/perfid=dave_legalporno/gender=m/dave.htm
+        - https://www.iafd.com/person.rme/id=2e671b3b-59c0-4acc-bc35-2f0ab354e427
         - https://stashdb.org/scenes/a999a233-0a38-402c-aa97-383bf65fc213
     - column: M
       id: null
-      name: Dave (2003, Kink)
+      name: Dave (2003, Men In Pain)
       text: Men In Pain
       links:
-        - https://www.iafd.com/person.rme/perfid=dave_kink/gender=m/dave.htm
+        - https://www.iafd.com/person.rme/id=07d0aca8-c3bc-48f3-a83d-da1b3557972b
         - https://stashdb.org/scenes/fcfefea1-a964-418f-9932-cb86a8cf26a1
         - https://stashdb.org/scenes/5b20bd18-d316-46fd-9dec-c6fd98ecd92f
     - column: N
@@ -34,13 +34,12 @@ split:
       name: Dave (2008, Mike's Apartment)
       text: Mike's Apartment
       links:
-        - https://www.iafd.com/person.rme/perfid=dave_622692/gender=m/dave.htm
+        - https://www.iafd.com/person.rme/id=e9304e4f-2e8a-417c-92c5-af7c8a484d88
         - https://stashdb.org/scenes/bfc03502-5642-4e79-88fb-0e96183d4e93
     - column: O
       id: null
       name: Dave (Gay Revenge, 2011)
-      notes:
-        - '- Gay Revenge "Dick To Dick"'
+      text: Gay Revenge "Dick To Dick"
       links:
         - https://stashdb.org/scenes/3acf6bee-4fa4-42b0-815b-ce9f55cad6aa
   notes:

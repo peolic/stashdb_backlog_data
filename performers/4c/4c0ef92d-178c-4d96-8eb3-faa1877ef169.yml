@@ -12,9 +12,9 @@ split:
     - column: M
       id: null
       name: Devin (2012, GF Revenge)
-      text: GF Revenge
+      text: GF Revenge "House Play"
       links:
-        - https://www.iafd.com/person.rme/perfid=devin_rk12/gender=m/devin.htm
+        - https://www.iafd.com/person.rme/id=1f0390ea-ec05-44a1-827e-e06335a8c0d5
         - https://stashdb.org/scenes/dafd9b2c-bad3-4224-801b-63e069bf6d0d
         - https://www.realitykings.com/model/24498/devin
     - column: R
