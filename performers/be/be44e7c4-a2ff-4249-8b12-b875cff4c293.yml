@@ -20,13 +20,12 @@ split:
         - https://stashdb.org/scenes/e92298fa-9177-41f1-9c84-afa88dcbc508
         - https://stashdb.org/scenes/87aa4ce9-9f79-4353-8138-f76452030152
     - column: N
-      id: null
+      id: c2d8cb83-02f9-48ba-8c0d-8486cb3ceb99
       name: Alexander (Dare Dorm, 2011)
-      notes:
-        - '- Dare Dorm "Guess Who"'
+      text: Dare Dorm "Guess Who"
       links:
-        - https://www.imdb.com/name/nm9242417/
         - https://stashdb.org/scenes/581f605a-1964-4918-b8ef-3d8147b6d1cd
+        - https://www.imdb.com/name/nm9242417/
     - column: O
       id: null
       name: Alexander (Nasty Angels, 2011)
