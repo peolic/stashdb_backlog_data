@@ -11,12 +11,10 @@ performers:
       name: Charlie
       appearance: null
   append:
-    - id: null
+    - id: ab1c3f3b-3e13-482c-8ca8-17b2a9ea9d1f
       name: Charlie
       appearance: null
       disambiguation: 2013, First Time Auditions
-      status: c
-      status_url: https://stashdb.org/edits/57e2b8a4-a857-48c4-a482-34ae3adb6983
       notes:
         - https://www.iafd.com/person.rme/id=1261f576-6e96-4c59-b43c-6717474c1ac1
         - https://www.indexxx.com/m/charlie-19

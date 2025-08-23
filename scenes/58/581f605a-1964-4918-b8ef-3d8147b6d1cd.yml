@@ -18,20 +18,16 @@ performers:
       name: Kylie
       appearance: null
   append:
-    - id: null
+    - id: c2d8cb83-02f9-48ba-8c0d-8486cb3ceb99
       name: Alexander
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/389bb802-0ea4-4d62-8b63-849cd2c21010
       notes:
         - https://www.imdb.com/name/nm9242417/
-    - id: null
+    - id: 8a995f18-4f08-4584-9838-f1aea3ba1dfc
       name: Melanie
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/d3ee9a73-83da-4252-9646-ce5f3a448d15
       notes:
         - https://www.imdb.com/name/nm9242418/
     - id: 1f7fdfce-523e-4116-8038-6d5eb558dce0
@@ -41,11 +37,9 @@ performers:
       notes:
         - https://www.imdb.com/name/nm10924381/
         - Confirmed via IMDb and RK IDs
-    - id: null
+    - id: ebdb0800-de4d-4879-bf4a-a3af3f893069
       name: Kylie
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/06b85dfa-5772-47b5-b2a4-16ed3133b31c
       notes:
         - https://www.imdb.com/name/nm10925361/
