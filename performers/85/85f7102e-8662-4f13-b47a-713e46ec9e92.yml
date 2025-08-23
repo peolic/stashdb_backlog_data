@@ -9,13 +9,7 @@ split:
         - https://www.iafd.com/person.rme/id=d173688d-8865-4376-9541-0c625ad9b0fc
         - https://www.indexxx.com/m/kylie-9
         - https://stashdb.org/scenes/9e487147-ec53-4381-a098-f64151a936d2
-    - column: L
-      id: ebdb0800-de4d-4879-bf4a-a3af3f893069
-      name: Kylie (2011, Dare Dorm)
-      text: Dare Dorm "Guess Who" [unknown on IAFD]
-      links:
-        - https://stashdb.org/scenes/581f605a-1964-4918-b8ef-3d8147b6d1cd
-        - https://www.iafd.com/title.rme/id=8926d78d-fb6a-47b5-8929-4a73d7c5fbeb
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-02-29)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -17,15 +17,6 @@ split:
         - https://www.iafd.com/person.rme/id=f1387412-c621-40f0-a5e1-0efd54671fe9
         - https://www.indexxx.com/m/charlie-21
         - https://stashdb.org/scenes/c4a3bfdf-8fe9-476a-9600-381da95d416d
-    - column: U
-      id: 234d0a44-d30a-40d4-8e81-c27d36e6389f
-      name: Charlie (2010, Dare Dorm)
-      text: Dare Dorm "All Games"
-      notes:
-        - 'note: the photo may not match the correct performer'
-      links:
-        - https://www.iafd.com/person.rme/id=6d040858-7059-4ded-9c99-477bbb9f001d
-        - https://stashdb.org/scenes/0faec75f-ef9c-497f-bb3f-10d76123f52f
     - column: V
       id: null
       name: Charlie (2010, GF Revenge)

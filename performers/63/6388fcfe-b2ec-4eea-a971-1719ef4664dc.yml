@@ -1,13 +1,6 @@
 split:
   name: Amy
   fragments:
-    - column: P
-      id: null
-      name: Amy (Dare Dorm, 2011-05-06)
-      text: Dare Dorm "Guess Who"
-      links:
-        - https://stashdb.org/scenes/581f605a-1964-4918-b8ef-3d8147b6d1cd
-        - https://www.iafd.com/title.rme/id=8926d78d-fb6a-47b5-8929-4a73d7c5fbeb
     - column: T
       id: null
       name: Amy
@@ -20,6 +13,7 @@ split:
         - https://vod.aebn.com/straight/movies/87942/snatch-d-31#scene-367706
         - https://www.iafd.com/title.rme/id=01f6e137-b631-4636-a8e8-dbf7a74b0044
         - https://stashdb.org/images/20c50eb2-2293-4669-acf4-043e9b16e3b4
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-01-20)
     - Best to move scenes and delete performer, rather than merging or renaming.

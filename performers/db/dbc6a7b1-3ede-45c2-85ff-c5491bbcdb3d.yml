@@ -9,15 +9,6 @@ split:
         - https://www.iafd.com/person.rme/id=e541ace9-6b83-46d4-ad47-fe69c0d3604b
         - https://www.indexxx.com/m/monica
         - https://stashdb.org/scenes/6a0bd4c1-e657-4c38-8c70-819c906c3993
-    - column: W
-      id: 41a66478-37c7-4331-a780-b44be8a822bf
-      name: Monica (2010, Dare Dorm)
-      text: Dare Dorm "All Games"
-      notes:
-        - 'note: the photo may not match the correct performer'
-      links:
-        - https://www.iafd.com/person.rme/id=ab2996d9-fdc1-4d5f-a9b2-2b43f8842323
-        - https://stashdb.org/scenes/0faec75f-ef9c-497f-bb3f-10d76123f52f
     - column: Y
       id: null
       name: Monica
