@@ -18,13 +18,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=d10eaf9a-f488-4265-883b-8ef2961e91cd
         - https://stashdb.org/scenes/c8447b9b-afd2-4d82-9817-b874b43a1d3b
-    - column: P
-      id: 0f06beea-2af8-4d0c-9970-b79bd6df7bd0
-      name: Robert (2003, Butt Machine Boys)
-      text: Butt Machine Boys
-      links:
-        - https://www.iafd.com/person.rme/id=12018d8b-06a8-4d10-8350-4bcf7cb528cc
-        - https://stashdb.org/scenes/38f4c79f-a9e1-47d8-bf9b-d3944cb2de4c
     - column: Q
       id: null
       name: '?'

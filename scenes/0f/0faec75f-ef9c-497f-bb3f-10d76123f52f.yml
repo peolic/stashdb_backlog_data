@@ -23,34 +23,36 @@ performers:
       name: Charlie
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6d040858-7059-4ded-9c99-477bbb9f001d
+      status: c
+      status_url: https://stashdb.org/edits/7dc13804-afc2-453e-87f6-63bb48c414eb
       notes:
+        - https://www.iafd.com/person.rme/id=6d040858-7059-4ded-9c99-477bbb9f001d
         - https://www.imdb.com/name/nm10912747/
         - https://www.realitykings.com/model/24791/charlie
-    - id: null
+    - id: 2a462658-adfa-4b3b-a9e1-0e19f691a65b
       name: Martin
-      appearance: null
-      disambiguation: Dare Dorm, 2010
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=bbf03cfa-4285-49db-9b9e-8ae04fa2802a
+      appearance: Bryan
+      disambiguation: Sean Cody 2009
       notes:
+        - https://www.iafd.com/person.rme/id=bbf03cfa-4285-49db-9b9e-8ae04fa2802a
         - https://www.realitykings.com/model/19741/bryan
     - id: null
       name: Monica
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ab2996d9-fdc1-4d5f-a9b2-2b43f8842323
+      status: c
+      status_url: https://stashdb.org/edits/39dc5731-6b28-4be5-acc8-8b0079781c9b
       notes:
+        - https://www.iafd.com/person.rme/id=ab2996d9-fdc1-4d5f-a9b2-2b43f8842323
         - https://www.realitykings.com/model/24795/monica
         - https://www.imdb.com/name/nm10912748/
     - id: null
       name: Stephanie
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=498e1851-9169-4315-ab7f-7e14f1b2a120
+      status: c
+      status_url: https://stashdb.org/edits/fc963aa9-a427-419c-bfc9-a135248c01a0
       notes:
+        - https://www.iafd.com/person.rme/id=498e1851-9169-4315-ab7f-7e14f1b2a120
         - https://www.imdb.com/name/nm10912749/
         - https://www.realitykings.com/model/24797/stephanie

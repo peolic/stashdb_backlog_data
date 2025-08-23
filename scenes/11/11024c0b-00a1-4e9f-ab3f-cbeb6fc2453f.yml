@@ -2,7 +2,7 @@ c_studio:
   - GF Revenge
   - null
 comments:
-  - Tiffany is wearing the black dress. Co-star LCDC is wearing the blue dress. Becky maybe holding the camera.
+  - Tiffany is wearing the black dress. Co-star LCDC is wearing the blue dress. Becky is holding the camera and can be seen in the mirror.
   - https://www.data18.com/scenes/1184768
 performers:
   remove:
@@ -22,7 +22,8 @@ performers:
       name: Tiffany
       appearance: null
       disambiguation: 2011, GF Revenge
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/a1578002-2e38-4268-9a9b-a6e0a357354c
       notes:
         - https://imgs1cdn.adultempire.com/galleries/78/755001007900554878_800.jpg
     - id: ab4b4fc8-60a0-45c2-9d7b-3f8074586bff
@@ -33,3 +34,6 @@ performers:
         - https://www.modelmayhem.com/LCDC
         - https://b.porngals4.com/media/galleries/1/9/46967-2538088644/chloe-reese-carter-invite-only-in-the-vip-2802600-2196158364.jpg
         - 'Non-sex in: Invite Only (In The VIP)'
+    - id: 78ef1d03-d6d2-497c-ba20-3b7fa6ae8f10
+      name: Becky Brielle
+      appearance: Becky

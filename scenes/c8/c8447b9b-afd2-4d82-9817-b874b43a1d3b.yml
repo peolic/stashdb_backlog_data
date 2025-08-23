@@ -10,12 +10,10 @@ performers:
       name: Albert Long
       appearance: Robert
   append:
-    - id: null
+    - id: 8fa2914b-40cc-45ae-8a89-53222f370e92
       name: Robert
       appearance: null
       disambiguation: 2010, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/790e581f-23bd-4da0-b067-b48e93114c1e
       notes:
         - https://www.iafd.com/person.rme/id=d10eaf9a-f488-4265-883b-8ef2961e91cd
         - https://www.realitykings.com/model/25093/robert
