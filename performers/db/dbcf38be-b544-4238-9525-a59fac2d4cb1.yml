@@ -1,18 +1,6 @@
 split:
   name: Chip
-  fragments:
-    - column: J
-      id: ec1302d2-ea27-4a50-a2c2-84f0e41331d1
-      name: Chip (2003, Tranny Surprise)
-      text: 6x Tranny Surprise
-      links:
-        - https://www.iafd.com/person.rme/id=70521b65-241f-4a8a-8905-9ec2601df12b
-        - https://stashdb.org/scenes/4cbb0e82-bdd2-4fc8-8dfe-dcada1e1623e
-        - https://stashdb.org/scenes/7abb173a-d0f8-4e53-bebc-0f279fa7c3d4
-        - https://stashdb.org/scenes/4c44d630-386a-4135-9ceb-380714b3e2b3
-        - https://stashdb.org/scenes/52ff7cd0-e3bf-4ee4-9edc-7a28c98589f1
-        - https://stashdb.org/scenes/a1830329-6d82-4730-9d6e-b2b51f08e8d3
-        - https://stashdb.org/scenes/4fe519ae-031d-440f-8afe-e407060a7215
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-03)

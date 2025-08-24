@@ -1,21 +1,14 @@
 c_studio:
-  - Sell Your GF
+  - Young Sex Parties
   - null
+comments:
+  - visually confirmed
 performers:
   remove:
-    - id: a2299cb4-713f-4045-85ca-6ea4e527e162
-      name: Jeff
-      appearance: null
     - id: ec93e3fe-d2e7-4ebf-a3e9-141809efcfa7
       name: Ben
       appearance: null
   append:
-    - id: 43a00426-4a5e-4ee1-abd9-962e3a3f26c1
-      name: Jeff
-      appearance: null
-      disambiguation: 18videoz, Dirty Flix
-      notes:
-        - https://stashdb.org/images/1e32d743-48fa-495e-abb5-980c19cc4519
     - id: null
       name: Ben
       appearance: null
