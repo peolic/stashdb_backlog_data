@@ -1,0 +1,25 @@
+c_studio:
+  - Horny Birds
+  - null
+performers:
+  remove:
+    - id: 0c6d1503-b56c-4c21-9d14-859377470025
+      name: Chris
+      appearance: null
+    - id: d66532b5-a426-4188-ae1e-15886e75fdaa
+      name: Johnny
+      appearance: null
+  append:
+    - id: null
+      name: Chris
+      appearance: null
+      disambiguation: 2012, Horny Birds
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e554426b-ebbf-4b32-9f89-31d3008c7c57
+      notes:
+        - https://www.realitykings.com/model/24750/chris
+    - id: null
+      name: Johnny
+      appearance: null
+      disambiguation: Horny Birds, 2012
+      status: new

@@ -1,0 +1,51 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 0c6d1503-b56c-4c21-9d14-859377470025
+      name: Chris
+      appearance: null
+    - id: 086fbcf8-1709-43b4-9a60-b386698e5fdd
+      name: Manuel
+      appearance: null
+    - id: 679974d9-d386-4b62-a929-10e207241fcf
+      name: Nate
+      appearance: null
+    - id: 7214152e-13e3-488f-8cc3-ac4aa2d89f52
+      name: Kyle
+      appearance: null
+  append:
+    - id: null
+      name: Chris
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=67b3b1f4-c156-40fd-a581-5383a835177f
+      notes:
+        - https://www.imdb.com/name/nm9242465/
+        - https://www.realitykings.com/model/25703/chris
+    - id: null
+      name: Manuel
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=652aa10a-9283-4d01-8ee6-e765f6e32448
+      notes:
+        - https://www.realitykings.com/model/25724/manuel
+    - id: null
+      name: Nate
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=249f1282-5443-401a-ae76-72660f8375ab
+      notes:
+        - https://www.realitykings.com/model/25722/nate
+    - id: null
+      name: Kyle
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9ca74221-dcc8-4778-b44c-3ed653c151e3
+      notes:
+        - https://www.realitykings.com/model/25720/kyle

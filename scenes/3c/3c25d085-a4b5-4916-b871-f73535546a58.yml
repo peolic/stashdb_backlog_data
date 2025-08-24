@@ -1,0 +1,15 @@
+c_studio:
+  - Big Naturals
+  - null
+performers:
+  remove:
+    - id: 0c6d1503-b56c-4c21-9d14-859377470025
+      name: Chris
+      appearance: null
+  append:
+    - id: null
+      name: Chris
+      appearance: null
+      disambiguation: 2002, Big Naturals
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c436887e-9ebc-4bfd-b195-7553e1a45405

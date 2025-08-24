@@ -1,0 +1,22 @@
+c_studio:
+  - VIP Crew
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=eafbda7e-3a69-45d6-a6e7-a0ee0bb798ea
+  - https://www.imdb.com/title/tt6689732/
+  - https://www.data18.com/scenes/14536
+performers:
+  remove:
+    - id: 0c6d1503-b56c-4c21-9d14-859377470025
+      name: Chris
+      appearance: null
+  append:
+    - id: 30f222fe-7f9c-477f-8d26-7b578facc6b3
+      name: Chris
+      appearance: null
+      disambiguation: 2006, Reality Kings
+      notes:
+        - https://www.iafd.com/person.rme/id=516f52be-275f-4663-b2ed-cac9ed2bb417
+        - https://www.iafd.com/person.rme/id=e995c1cf-fefb-4f80-8380-4eb787af9345
+        - https://www.imdb.com/name/nm8823668/
+        - https://realitysitesnetwork.com/pornstars/3943/chris

@@ -1,0 +1,17 @@
+c_studio:
+  - Fantasy Massage
+  - Fantasy Massage
+performers:
+  remove:
+    - id: f86141d4-d2d7-4d21-aefa-6e42d670e097
+      name: Chase
+      appearance: null
+  append:
+    - id: null
+      name: Chase
+      appearance: null
+      disambiguation: 2019, Fantasy Massage
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ca1ffda-442f-4936-b2b0-d5f72ee41c26
+      notes:
+        - https://stashdb.org/images/67359503-aff9-4c93-a265-d0400a497c2d
