@@ -1,0 +1,19 @@
+c_studio:
+  - First Time Auditions
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=addf8896-72bb-46ad-8322-87d63fa06859
+performers:
+  remove:
+    - id: 09c0552f-dd6a-4741-be9b-1e9047a1e5a9
+      name: Parker
+      appearance: null
+  append:
+    - id: null
+      name: Parker
+      appearance: null
+      disambiguation: 2010, First Time Auditions
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=95cb7f43-c167-4672-bfa6-d0e8471fd4ff
+      notes:
+        - https://www.indexxx.com/m/parker-2

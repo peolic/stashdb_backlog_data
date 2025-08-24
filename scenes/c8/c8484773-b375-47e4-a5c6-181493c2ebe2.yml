@@ -1,0 +1,19 @@
+c_studio:
+  - Big Naturals
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=381d25db-f9e1-4671-beb2-1634fc17b179
+performers:
+  remove:
+    - id: 09c0552f-dd6a-4741-be9b-1e9047a1e5a9
+      name: Parker
+      appearance: null
+  append:
+    - id: null
+      name: Parker
+      appearance: null
+      disambiguation: 2004, Big Naturals
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=bf86cd9e-1cb2-4e8c-981b-f7c7cf4c016b
+      notes:
+        - https://www.indexxx.com/m/parker
