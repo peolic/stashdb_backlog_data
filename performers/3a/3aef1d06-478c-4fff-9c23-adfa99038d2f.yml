@@ -4,9 +4,9 @@ split:
     - column: N
       id: null
       name: Kennedy (2010, Dare Dorm)
-      text: Dare Dorm
+      text: Dare Dorm "Dessert Anyone"
       links:
-        - https://www.iafd.com/person.rme/perfid=kennedy_rk10/gender=f/kennedy.htm
+        - https://www.iafd.com/person.rme/id=9810d6dd-b83b-45a2-81e1-4a3d938b6847
         - https://stashdb.org/scenes/423351b3-3662-40d4-a56c-006ae4fbf37c
   status: single fragment remains
   notes:
