@@ -1,0 +1,17 @@
+c_studio:
+  - Men In Pain
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=de74ed04-0412-4dee-8e06-0ab76447ea19
+performers:
+  remove:
+    - id: 1593eb92-a0d9-4817-9775-b9ae21cfae41
+      name: Mark
+      appearance: null
+  append:
+    - id: null
+      name: Mark
+      appearance: null
+      disambiguation: 2004, Men In Pain
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8a30ebe9-b929-4967-ad31-2986fbd9914a
