@@ -11,5 +11,7 @@ performers:
       name: Cody
       appearance: null
       disambiguation: 2015, Dick Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=444c5e80-1fc3-48d6-9cf7-0c7d90339ce5
+      status: c
+      status_url: https://stashdb.org/edits/5729e47c-21b8-4d38-8597-10a7ff007b33
+      notes:
+        - https://www.iafd.com/person.rme/id=444c5e80-1fc3-48d6-9cf7-0c7d90339ce5

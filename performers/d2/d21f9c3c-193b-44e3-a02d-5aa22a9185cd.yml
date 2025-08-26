@@ -1,15 +1,7 @@
 split:
   name: Alan
-  fragments:
-    - column: O
-      id: c8adedca-cbbd-4811-95e5-88fbd44b7974
-      name: Alan (Boys First Time, 2006)
-      text: Boys First Time "Tight Fit"
-      notes:
-        - Name is likely wrong.
-      links:
-        - https://stashdb.org/scenes/3fd1827d-233f-47cd-add9-339aace747b3
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

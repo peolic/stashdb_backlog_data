@@ -73,12 +73,13 @@ performers:
       name: Mandi
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b28122c8-8a2f-4dc9-b477-94d258a6877f
+      status: c
+      status_url: https://stashdb.org/edits/0bf01dbe-29b2-441b-a3e6-449ccbaee22a
       notes:
         - Mandi also appeared in Girls Gone Wild's 2010 reality TV show "The Search for the Hottest Girl in America"
         - and in the GGW magazine cover (which is featured in the TV episode - a behind the scenes of the photo shoot)
         - October 2008
+        - https://www.iafd.com/person.rme/id=b28122c8-8a2f-4dc9-b477-94d258a6877f
         - https://ibb.co/f82Pp04
         - https://ibb.co/L9G3SSX
         - https://wonderclub.com/GGW200810
@@ -86,17 +87,19 @@ performers:
       name: Cody
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ab5804db-f8fe-48a2-a5ae-8b2b3ede7b90
+      status: c
+      status_url: https://stashdb.org/edits/7185af09-a086-47d5-b1c4-919b5b0b95b0
       notes:
+        - https://www.iafd.com/person.rme/id=ab5804db-f8fe-48a2-a5ae-8b2b3ede7b90
         - https://www.realitykings.com/model/20636/cody
     - id: null
       name: Theresa
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d8a492fd-f4b7-4dd2-8409-3a27e112179d
+      status: c
+      status_url: https://stashdb.org/edits/e107b7f4-4e5f-45aa-8ee3-9bc0c0699a64
       notes:
+        - https://www.iafd.com/person.rme/id=d8a492fd-f4b7-4dd2-8409-3a27e112179d
         - https://www.imdb.com/name/nm10929478/
         - https://www.realitykings.com/model/25713/theresa
         - 'confirmed: RK photo matches name'
@@ -104,10 +107,11 @@ performers:
       name: Corey
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=77e881e9-de3d-470a-a239-2ee88f67e033
+      status: c
+      status_url: https://stashdb.org/edits/2d0bb46e-ad54-4099-8e36-eec89a5723ee
       notes:
         - RK photo is not accurate, Aylo has them listed as a male and the photo is of Mandi.
+        - https://www.iafd.com/person.rme/id=77e881e9-de3d-470a-a239-2ee88f67e033
         - https://www.realitykings.com/model/25709/corey
         - https://www.imdb.com/name/nm10929476/
     - id: null
