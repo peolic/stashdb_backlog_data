@@ -9,12 +9,10 @@ performers:
       name: Mark
       appearance: null
   append:
-    - id: null
+    - id: aae205ff-2964-4125-8982-ed0043478b58
       name: Mark
       appearance: null
       disambiguation: 2013-2015, 18videoz
-      status: c
-      status_url: https://stashdb.org/edits/f281aafe-06ce-40cc-8717-fe952ad2c0c7
       notes:
         - https://stashdb.org/images/1b6fe8c0-b47e-4eb6-ab6f-2922f0ce02ab
     - id: 2d9c1497-0c27-4576-b347-a9e5bbd7f1cc

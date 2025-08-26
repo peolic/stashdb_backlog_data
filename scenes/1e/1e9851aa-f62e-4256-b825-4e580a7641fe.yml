@@ -11,12 +11,10 @@ performers:
       appearance: null
       disambiguation: Boys First Time
   append:
-    - id: null
+    - id: 62ed1e20-40e8-4407-b414-dcf06515b5ae
       name: Chad
       appearance: null
       disambiguation: 2009, Boys First Time
-      status: c
-      status_url: https://stashdb.org/edits/c3fd519b-eb0d-4bce-94e6-235ffe7c472d
     - id: 0c4ac4b4-ea0f-4903-a6e2-59abefa402d0
       name: Joey
       appearance: null

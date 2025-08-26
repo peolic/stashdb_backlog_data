@@ -19,12 +19,10 @@ performers:
       name: Will
       appearance: null
   append:
-    - id: null
+    - id: 7f9647dd-e1ea-4c64-a471-c4f4bf2c0d71
       name: Mark
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/3539fe22-3206-4fa2-aec3-72770b2ba25f
       notes:
         - https://www.iafd.com/person.rme/id=7069fea5-81d2-4688-a5f7-e7c57b3b76e9
     - id: bd47d728-8e80-4874-9629-95112e988b47
@@ -34,19 +32,15 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=a232818f-e972-487e-82d7-1af7ccdbaaba
         - https://www.imdb.com/name/nm10912784/
-    - id: null
+    - id: 5b659fcb-9e37-4044-aa19-cab123f63a2b
       name: Whitney
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/c3d83c7e-b633-4113-bab7-b10282c069b2
       notes:
         - https://www.iafd.com/person.rme/id=b4e4a559-4a42-48fe-b491-44f6a5e8b89b
-    - id: null
+    - id: a5248d9a-02dd-4817-a064-1ae7d259f662
       name: Will
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/79436887-14bd-4657-a987-2b662bf2943c
       notes:
         - https://www.iafd.com/person.rme/id=c308ed5b-3a8e-40d1-bf49-02989b9e6f3f

@@ -10,17 +10,13 @@ performers:
       name: Johnny
       appearance: null
   append:
-    - id: null
+    - id: b2cee677-d83a-4d17-8f6f-b7368b648d46
       name: Chris
       appearance: null
       disambiguation: 2012-08, Horny Birds
-      status: c
-      status_url: https://stashdb.org/edits/0d6cfbc7-4a58-40a4-8fce-64da801965bc
       notes:
         - https://www.iafd.com/person.rme/id=e554426b-ebbf-4b32-9f89-31d3008c7c57
-    - id: null
+    - id: 9e0f921e-3f6e-4a5a-a001-7c7de8f1a73a
       name: Johnny
       appearance: null
       disambiguation: Horny Birds, 2012
-      status: c
-      status_url: https://stashdb.org/edits/301b5022-3f3c-440f-920a-fa22a9bed472
