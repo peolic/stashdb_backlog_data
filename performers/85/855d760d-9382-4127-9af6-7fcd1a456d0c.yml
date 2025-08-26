@@ -1,20 +1,5 @@
-split:
-  name: Valentino
-  fragments:
-    - column: I
-      id: 855d760d-9382-4127-9af6-7fcd1a456d0c
-      name: Valentino Rey
-      notes:
-        - Most scenes and most metadata is Valentino Rey so they should be renamed instead of making a new performer.
-      links:
-        - https://www.iafd.com/person.rme/id=2334e04f-3064-464c-ac9b-f972dbab9ae7
-        - https://www.imdb.com/name/nm0721172/
-        - https://www.wikiporno.org/wiki/Valentino
-        - https://theporndb.net/performers/valentino-rey
-        - https://www.evilangel.com/en/pornstar/view/Valentino/22573
-  status: single fragment remains
-  notes:
-    - Mix of multiple performers (complete list as of 2025-07-10)
-    - Valentino Rey was merged into Valentino, being non-unique.
-  links:
-    - https://stashdb.org/edits/b6634bc4-f60f-4946-a4b6-93ab50da5289
+name: Valentino Rey
+urls:
+  - https://www.iafd.com/person.rme/id=2334e04f-3064-464c-ac9b-f972dbab9ae7
+urls_notes:
+  - performer is now split up - rename/disambiguate
