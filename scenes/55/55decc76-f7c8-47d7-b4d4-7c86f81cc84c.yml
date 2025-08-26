@@ -20,32 +20,36 @@ performers:
       name: Chris
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=67b3b1f4-c156-40fd-a581-5383a835177f
+      status: c
+      status_url: https://stashdb.org/edits/2a062bc0-6a01-40c1-a0f8-24557ddc9626
       notes:
+        - https://www.iafd.com/person.rme/id=67b3b1f4-c156-40fd-a581-5383a835177f
         - https://www.imdb.com/name/nm9242465/
         - https://www.realitykings.com/model/25703/chris
     - id: null
       name: Manuel
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=652aa10a-9283-4d01-8ee6-e765f6e32448
+      status: c
+      status_url: https://stashdb.org/edits/c062bfa1-5823-4097-8faa-f36b8874842d
       notes:
+        - https://www.iafd.com/person.rme/id=652aa10a-9283-4d01-8ee6-e765f6e32448
         - https://www.realitykings.com/model/25724/manuel
     - id: null
       name: Nate
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=249f1282-5443-401a-ae76-72660f8375ab
+      status: c
+      status_url: https://stashdb.org/edits/22d1ebc8-e5fd-47d1-808b-c99cc5066757
       notes:
+        - https://www.iafd.com/person.rme/id=249f1282-5443-401a-ae76-72660f8375ab
         - https://www.realitykings.com/model/25722/nate
     - id: null
       name: Kyle
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=9ca74221-dcc8-4778-b44c-3ed653c151e3
+      status: c
+      status_url: https://stashdb.org/edits/16743052-332a-463e-a4d8-9b36e1688522
       notes:
+        - https://www.iafd.com/person.rme/id=9ca74221-dcc8-4778-b44c-3ed653c151e3
         - https://www.realitykings.com/model/25720/kyle

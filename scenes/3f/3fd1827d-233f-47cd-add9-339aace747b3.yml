@@ -14,9 +14,11 @@ performers:
       name: Alan
       appearance: null
       disambiguation: 2006, Boys First Time
-      status: new
+      status: c
+      status_url: https://stashapp.ibuildthings.dev/performers/8076/scenes?sortby=date
     - id: null
       name: Charlie
       appearance: null
       disambiguation: 2006, Boys First Time
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/c02e5ad3-71f9-408c-a145-004d939a70e7

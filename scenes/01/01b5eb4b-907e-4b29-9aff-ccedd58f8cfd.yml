@@ -13,5 +13,8 @@ performers:
       name: Parker
       appearance: null
       disambiguation: 2004, Big Naturals
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=bf86cd9e-1cb2-4e8c-981b-f7c7cf4c016b
+      status: c
+      status_url: https://stashdb.org/edits/f313fcca-2df0-4a31-bb71-c32acadfb513
+      notes:
+        - https://www.iafd.com/person.rme/id=bf86cd9e-1cb2-4e8c-981b-f7c7cf4c016b
+        - https://www.indexxx.com/m/parker

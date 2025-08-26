@@ -11,5 +11,7 @@ performers:
       name: Chris
       appearance: null
       disambiguation: 2002, Big Naturals
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c436887e-9ebc-4bfd-b195-7553e1a45405
+      status: c
+      status_url: https://stashdb.org/edits/9270b74a-bc3e-442a-9823-f24246ba4514
+      notes:
+        - https://www.iafd.com/person.rme/id=c436887e-9ebc-4bfd-b195-7553e1a45405

@@ -14,16 +14,18 @@ performers:
       name: Chelsea
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f366aec9-d739-4793-a14f-4dcee9a1d152
+      status: c
+      status_url: https://stashdb.org/edits/474c0ee7-78e9-42a1-a3d9-5a04b003c7c6
       notes:
+        - https://www.iafd.com/person.rme/id=f366aec9-d739-4793-a14f-4dcee9a1d152
         - https://www.realitykings.com/model/25432/chelsea
         - https://www.imdb.com/name/nm9242492/
     - id: null
       name: William
       appearance: null
       disambiguation: 2012-02, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=dc5ec263-c5a4-4fff-83a6-27ca12d52ecf
+      status: c
+      status_url: https://stashdb.org/edits/231d460d-d593-45d1-906b-7c46e1479c0a
       notes:
+        - https://www.iafd.com/person.rme/id=dc5ec263-c5a4-4fff-83a6-27ca12d52ecf
         - https://www.realitykings.com/model/25451/william

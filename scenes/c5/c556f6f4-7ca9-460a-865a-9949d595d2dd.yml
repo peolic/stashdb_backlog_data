@@ -3,23 +3,23 @@ c_studio:
   - null
 performers:
   remove:
-    - id: 8c6f622b-3eb8-4729-b436-e643a8b5c62c
-      name: Chad
-      appearance: null
     - id: dee5b846-628b-4170-9fbb-b6048d64417d
       name: Joey
       appearance: null
       disambiguation: Boys First Time
-  append:
-    - id: null
-      name: Chad
+    - id: 855d760d-9382-4127-9af6-7fcd1a456d0c
+      name: Valentino
       appearance: null
-      disambiguation: 2009, Boys First Time
-      status: c
-      status_url: https://stashdb.org/edits/c3fd519b-eb0d-4bce-94e6-235ffe7c472d
+  append:
     - id: null
       name: Joey
       appearance: null
       disambiguation: Boys First Time, 2009
       status: c
       status_url: https://stashdb.org/edits/89583dbc-fe1e-4a38-98fa-3b29a1a50afb
+    - id: null
+      name: Valentino
+      appearance: null
+      disambiguation: Boys First Time, 2009
+      status: c
+      status_url: https://stashdb.org/edits/a054bb9d-e2cc-416a-888f-4f34801e1ec0

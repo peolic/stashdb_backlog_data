@@ -13,5 +13,7 @@ performers:
       name: Mark
       appearance: null
       disambiguation: 2004, Men In Pain
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8a30ebe9-b929-4967-ad31-2986fbd9914a
+      status: c
+      status_url: https://stashdb.org/edits/a0b1befd-6f3b-41db-b07c-62886cf5faad
+      notes:
+        - https://www.iafd.com/person.rme/id=8a30ebe9-b929-4967-ad31-2986fbd9914a

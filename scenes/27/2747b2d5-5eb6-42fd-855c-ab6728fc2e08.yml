@@ -13,5 +13,7 @@ performers:
       name: Mark
       appearance: null
       disambiguation: 2002, Butt Machine Boys
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=9216225f-b3bb-4434-88c6-d4baadc30b02
+      status: c
+      status_url: https://stashdb.org/edits/b12e3162-ec41-435b-a489-a2382a2bc3e7
+      notes:
+        - https://www.iafd.com/person.rme/id=9216225f-b3bb-4434-88c6-d4baadc30b02
