@@ -17,9 +17,10 @@ performers:
       name: Steven
       appearance: null
       disambiguation: 2013, Crazy College GFs
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0c5dce55-e91f-4df3-93db-c5d8bedd38b7
+      status: c
+      status_url: https://stashdb.org/edits/ef9cf6b8-95aa-4fbb-9cc7-498cd230105c
       notes:
+        - https://www.iafd.com/person.rme/id=0c5dce55-e91f-4df3-93db-c5d8bedd38b7
         - https://www.realitykings.com/model/26576/steven
     - id: 5302516a-d20b-4514-a296-bdb85d7c0302
       name: Alisha Adams

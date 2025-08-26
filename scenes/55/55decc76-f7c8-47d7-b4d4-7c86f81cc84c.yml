@@ -2,7 +2,8 @@ c_studio:
   - Dare Dorm
   - null
 comments:
-  - Whit (not Whitney) = Kayla Kandy (birthday match)
+  - Whit is Kayla Kandy (birthday match to a twitter post)
+  - Whitney is not Kayla Kandy (ignore IAFD, Whitney's name and birthday confirmed via non-porn sources)
 performers:
   remove:
     - id: 0c6d1503-b56c-4c21-9d14-859377470025
@@ -25,6 +26,15 @@ performers:
       appearance: null
     - id: daff3ebb-807c-4a6d-b532-04b3862c56c8
       name: Cody
+      appearance: null
+    - id: 1a6a4ff4-3ea7-439c-944c-192da570b09c
+      name: Theresa
+      appearance: null
+    - id: 1c8e83ee-fc37-4e66-855a-5481b3ce401e
+      name: Corey
+      appearance: null
+    - id: a8b0ef71-ee6d-486d-a60b-79c9f159dbda
+      name: Whitney
       appearance: null
   append:
     - id: 51faf4f6-9840-4145-aee4-7eac0e2a0770
@@ -59,10 +69,6 @@ performers:
     - id: 5fe4aa42-2ad5-4fce-bdb4-a4af6beb75c0
       name: Kayla Kandy
       appearance: Whit
-      notes:
-        - https://www.iafd.com/person.rme/id=67b3b1f4-c156-40fd-a581-5383a835177f
-        - https://www.imdb.com/name/nm9242465/
-        - https://www.realitykings.com/model/25703/chris
     - id: null
       name: Mandi
       appearance: null
@@ -84,3 +90,34 @@ performers:
       status_url: https://www.iafd.com/person.rme/id=ab5804db-f8fe-48a2-a5ae-8b2b3ede7b90
       notes:
         - https://www.realitykings.com/model/20636/cody
+    - id: null
+      name: Theresa
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d8a492fd-f4b7-4dd2-8409-3a27e112179d
+      notes:
+        - https://www.imdb.com/name/nm10929478/
+        - https://www.realitykings.com/model/25713/theresa
+        - 'confirmed: RK photo matches name'
+    - id: null
+      name: Corey
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=77e881e9-de3d-470a-a239-2ee88f67e033
+      notes:
+        - RK photo is not accurate, Aylo has them listed as a male and the photo is of Mandi.
+        - https://www.realitykings.com/model/25709/corey
+        - https://www.imdb.com/name/nm10929476/
+    - id: null
+      name: Whitney
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.imdb.com/name/nm10929475/
+      notes:
+        - https://www.realitykings.com/model/25707/whitney
+        - the photo on Whit is Whitney
+        - https://image-service-ht.project1content.com/f43/30d/270/e59/4de/685/d1b/a4f/529/239/1b/model/profile_001.jpg
+        - https://ibb.co/ZW0DtVg
