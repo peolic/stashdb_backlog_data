@@ -1,0 +1,26 @@
+c_studio:
+  - Money Talks
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=c64db3cf-614a-4563-9a42-0dd4409ab9c3
+performers:
+  remove: []
+  append:
+    - id: c3612830-7fc6-4cfc-8182-82c27ed54a10
+      name: Brooke Benett
+      appearance: null
+      disambiguation: 2013, ATK / Reality Kings
+    - id: null
+      name: Steven
+      appearance: null
+      disambiguation: 2013, Crazy College GFs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0c5dce55-e91f-4df3-93db-c5d8bedd38b7
+      notes:
+        - https://www.realitykings.com/model/26576/steven
+    - id: 037911e0-b892-4422-9812-4c39921b8758
+      name: Chassity Bliss
+      appearance: null
+    - id: 1a8ecaad-f31d-4075-9a76-8c158ec71e3b
+      name: Eve Marlowe
+      appearance: null

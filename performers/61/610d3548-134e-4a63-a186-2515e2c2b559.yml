@@ -3,10 +3,10 @@ split:
   fragments:
     - column: I
       id: null
-      name: Rafaela (2011, Reality Kings)
+      name: Rafaela (2011, Mike In Brazil)
       text: Mike In Brazil "Wanna Bang"
       links:
-        - https://www.iafd.com/person.rme/perfid=rafaela_11_br/gender=f/rafaela.htm
+        - https://www.iafd.com/person.rme/id=cb4b2e17-4946-4eb4-b24d-9c3a9a4439b1
         - https://www.indexxx.com/m/rafaela-1
         - https://stashdb.org/scenes/c66648eb-b72b-4222-9e07-1a6bd14dbd90
     - column: K

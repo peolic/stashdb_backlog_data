@@ -1,6 +1,8 @@
 c_studio:
   - Dare Dorm
   - null
+comments:
+  - Whit (not Whitney) = Kayla Kandy (birthday match)
 performers:
   remove:
     - id: 0c6d1503-b56c-4c21-9d14-859377470025
@@ -14,6 +16,12 @@ performers:
       appearance: null
     - id: 7214152e-13e3-488f-8cc3-ac4aa2d89f52
       name: Kyle
+      appearance: null
+    - id: ce1f178e-2b55-4b59-bb51-a10dc85615ab
+      name: Whit
+      appearance: null
+    - id: cb0e403a-87e5-45fe-baf5-fadc693caa4a
+      name: Mandi
       appearance: null
   append:
     - id: 51faf4f6-9840-4145-aee4-7eac0e2a0770
@@ -45,3 +53,23 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=9ca74221-dcc8-4778-b44c-3ed653c151e3
         - https://www.realitykings.com/model/25720/kyle
+    - id: 5fe4aa42-2ad5-4fce-bdb4-a4af6beb75c0
+      name: Kayla Kandy
+      appearance: Whit
+      notes:
+        - https://www.iafd.com/person.rme/id=67b3b1f4-c156-40fd-a581-5383a835177f
+        - https://www.imdb.com/name/nm9242465/
+        - https://www.realitykings.com/model/25703/chris
+    - id: null
+      name: Mandi
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b28122c8-8a2f-4dc9-b477-94d258a6877f
+      notes:
+        - Mandi also appeared in Girls Gone Wild's 2010 reality TV show "The Search for the Hottest Girl in America"
+        - and in the GGW magazine cover (which is featured in the TV episode - a behind the scenes of the photo shoot)
+        - October 2008
+        - https://ibb.co/f82Pp04
+        - https://ibb.co/L9G3SSX
+        - https://wonderclub.com/GGW200810

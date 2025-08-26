@@ -4,9 +4,9 @@ split:
     - column: K
       id: null
       name: Pink (2007-2008, Reality Kings)
-      text: '[NonSex?] We Live Together'
+      text: '[NonSex] We Live Together'
       links:
-        - https://www.iafd.com/person.rme/perfid=pink_rk/gender=f/pink.htm
+        - https://www.iafd.com/person.rme/id=3c48aab0-e428-4e93-91c7-8922624fcbfa
         - https://www.indexxx.com/m/pink
         - https://stashdb.org/scenes/2efc15ee-9807-4ec1-ac90-97faa7257364
     - column: M

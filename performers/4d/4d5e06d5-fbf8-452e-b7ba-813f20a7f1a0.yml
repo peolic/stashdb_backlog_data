@@ -6,7 +6,7 @@ split:
       name: Pablo (2008, Mike's Apartment)
       text: Mike's Apartment
       links:
-        - https://www.iafd.com/person.rme/perfid=pablo_rk_08/gender=m/pablo.htm
+        - https://www.iafd.com/person.rme/id=32eb1de5-d0cf-441d-83ce-31e0b6310f92
         - https://stashdb.org/scenes/a1cdd4d2-1258-4b7c-887e-872237e2e3f8
     - column: J
       id: null
