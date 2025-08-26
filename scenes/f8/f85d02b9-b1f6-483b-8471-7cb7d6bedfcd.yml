@@ -7,11 +7,9 @@ performers:
       name: Cody
       appearance: null
   append:
-    - id: null
+    - id: 37e972c3-1132-43e1-9265-cdfa3cc44885
       name: Cody
       appearance: null
       disambiguation: 2015, Dick Dorm
-      status: c
-      status_url: https://stashdb.org/edits/5729e47c-21b8-4d38-8597-10a7ff007b33
       notes:
         - https://www.iafd.com/person.rme/id=444c5e80-1fc3-48d6-9cf7-0c7d90339ce5
