@@ -7,12 +7,10 @@ performers:
       name: Cloey
       appearance: null
   append:
-    - id: null
+    - id: 3bc74e41-5cab-4268-86f6-130d4dcc3b2c
       name: Cloey
       appearance: null
       disambiguation: 2005, Captain Stabbin
-      status: c
-      status_url: https://stashdb.org/edits/7602af8c-8c8a-41dc-ae9e-2b8f08a19990
       notes:
         - https://www.iafd.com/person.rme/id=09f0b9e6-bdae-4200-9512-b49af295a47a
         - https://www.indexxx.com/m/cloey-1
