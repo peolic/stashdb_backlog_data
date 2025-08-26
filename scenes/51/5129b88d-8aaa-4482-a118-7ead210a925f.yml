@@ -11,12 +11,10 @@ performers:
       name: Parker
       appearance: null
   append:
-    - id: null
+    - id: a9f6f25b-7fa0-41e1-8023-78ab779d8573
       name: Parker
       appearance: null
       disambiguation: 2007, XP Video
-      status: c
-      status_url: https://stashdb.org/edits/6364cb51-3aa6-48e0-a28a-7621a46a8ade
       notes:
         - https://www.iafd.com/person.rme/id=9c384c39-40de-40ba-8a47-3cd3501389fb
         - https://stashdb.org/images/143b15c3-f19e-4fc6-adf1-64298bf66ea1

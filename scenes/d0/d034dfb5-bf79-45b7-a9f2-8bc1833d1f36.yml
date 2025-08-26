@@ -10,15 +10,11 @@ performers:
       name: Christopher
       appearance: null
   append:
-    - id: null
+    - id: d6bbfec1-2432-401f-8c15-36fcbf4901a2
       name: Brandon
       appearance: null
       disambiguation: 2010, Dick Dorm
-      status: c
-      status_url: https://stashdb.org/edits/54df9a1f-fd95-4eb4-a859-6fc03966bf28
-    - id: null
+    - id: 9b0a0634-2cb5-4374-bd9c-0aacd9d82f1d
       name: Christopher
       appearance: null
       disambiguation: 2010, Dick Dorm
-      status: c
-      status_url: https://stashdb.org/edits/80b7c5b3-6eaa-4cac-967e-6b2121132c02

@@ -12,12 +12,10 @@ performers:
       name: Ely
       appearance: null
   append:
-    - id: null
+    - id: 98a96ec2-9268-4714-8248-8489e254687d
       name: Adrian
       appearance: null
       disambiguation: 2004, Boys First Time
-      status: c
-      status_url: https://stashdb.org/edits/ad5dfdc9-d9d9-49b1-aa1e-bac51aa508c5
   update:
     - id: b6cf4fb5-abfb-49ad-befb-a402935c45a7
       name: Ely

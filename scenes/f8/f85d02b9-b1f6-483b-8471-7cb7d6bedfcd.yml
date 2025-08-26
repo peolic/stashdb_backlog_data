@@ -1,0 +1,15 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: daff3ebb-807c-4a6d-b532-04b3862c56c8
+      name: Cody
+      appearance: null
+  append:
+    - id: null
+      name: Cody
+      appearance: null
+      disambiguation: 2015, Dick Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=444c5e80-1fc3-48d6-9cf7-0c7d90339ce5

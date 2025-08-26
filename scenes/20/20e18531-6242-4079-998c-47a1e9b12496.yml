@@ -1,0 +1,19 @@
+c_studio:
+  - Young Lesbians Portal
+  - null
+performers:
+  remove:
+    - id: 2a40cb2d-f5f5-4262-8865-5e21fd8164d0
+      name: Cindy and Miko
+      appearance: null
+  append:
+    - id: null
+      name: Cindy
+      appearance: null
+      disambiguation: Young Lesbians Portal, 2009
+      status: new
+    - id: null
+      name: Miko
+      appearance: null
+      disambiguation: Young Lesbians Portal, 2009
+      status: new

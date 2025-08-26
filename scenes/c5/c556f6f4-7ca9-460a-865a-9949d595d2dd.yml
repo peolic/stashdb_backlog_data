@@ -11,12 +11,10 @@ performers:
       name: Valentino
       appearance: null
   append:
-    - id: null
+    - id: 0c4ac4b4-ea0f-4903-a6e2-59abefa402d0
       name: Joey
       appearance: null
       disambiguation: Boys First Time, 2009
-      status: c
-      status_url: https://stashdb.org/edits/89583dbc-fe1e-4a38-98fa-3b29a1a50afb
     - id: null
       name: Valentino
       appearance: null

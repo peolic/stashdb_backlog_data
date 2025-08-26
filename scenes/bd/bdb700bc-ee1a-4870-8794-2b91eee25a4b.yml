@@ -1,0 +1,20 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.imdb.com/title/tt12389984/
+  - https://www.iafd.com/title.rme/id=8f4e649f-482e-492b-bb7a-5e8af63b4b66
+performers:
+  remove:
+    - id: e4f7a792-b714-469c-bd89-676410b10f8e
+      name: Christy
+      appearance: null
+  append:
+    - id: null
+      name: Christy
+      appearance: null
+      disambiguation: 2006, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b99e3576-fb8a-444f-ac20-f360f672bd1b
+      notes:
+        - https://www.indexxx.com/m/christy-1
