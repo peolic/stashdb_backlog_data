@@ -10,14 +10,6 @@ split:
         - https://stashdb.org/scenes/3ef5d778-07e8-41b6-839e-cd0a83bf4954
         - https://stashdb.org/scenes/9b092e74-c46c-4eef-b123-399ea1115507
         - https://stashdb.org/scenes/ba06fc06-84e0-4c8a-a746-8cf1017056fb
-    - column: K
-      id: 625e96cd-51f6-4837-9de2-1cf16f060608
-      name: William (2012-02, Dare Dorm)
-      text: Dare Dorm "Oil Slick"
-      links:
-        - https://www.iafd.com/person.rme/id=dc5ec263-c5a4-4fff-83a6-27ca12d52ecf
-        - https://stashdb.org/scenes/a6df581d-005c-422a-924f-d263c1fa5671
-        - https://www.realitykings.com/model/25451/william
     - column: L
       id: null
       name: William (2011, Dare Dorm)

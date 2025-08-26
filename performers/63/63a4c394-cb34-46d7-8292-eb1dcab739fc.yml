@@ -1,14 +1,6 @@
 split:
   name: Christopher
   fragments:
-    - column: K
-      id: 9b0a0634-2cb5-4374-bd9c-0aacd9d82f1d
-      name: Christopher (Dick Dorm, 2013)
-      notes:
-        - Scene 2 from Dick Dorm 10
-        - '- Dick Dorm "Frat Guys Go Hard"'
-      links:
-        - https://stashdb.org/scenes/d034dfb5-bf79-45b7-a9f2-8bc1833d1f36
     - column: L
       id: null
       name: Christopher (Boys First Time, 2008)

@@ -1,13 +1,7 @@
 split:
   name: Carlo
-  fragments:
-    - column: M
-      id: 00694265-2146-46c2-a30d-7660026922db
-      name: Carlo (Boys First Time, 2006)
-      text: Boys First Time "Locker Room Loving"
-      links:
-        - https://stashdb.org/scenes/d73f3612-d50b-4585-aa27-1472dea09131
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-04-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

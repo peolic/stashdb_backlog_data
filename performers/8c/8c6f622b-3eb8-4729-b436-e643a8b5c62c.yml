@@ -1,13 +1,7 @@
 split:
   name: Chad
-  fragments:
-    - column: O
-      id: 62ed1e20-40e8-4407-b414-dcf06515b5ae
-      name: Chad (2009, Boys First Time)
-      text: Boys First Time "Tight Ass"
-      links:
-        - https://stashdb.org/scenes/1e9851aa-f62e-4256-b825-4e580a7641fe
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-03-03)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -10,12 +10,10 @@ performers:
       name: Charlie
       appearance: null
   append:
-    - id: null
+    - id: c8adedca-cbbd-4811-95e5-88fbd44b7974
       name: Alan
       appearance: null
       disambiguation: 2006, Boys First Time
-      status: c
-      status_url: https://stashdb.org/edits/a4af9285-cb76-414c-b77f-c52e98857087
     - id: ed395287-48b5-4256-b1ed-b891e8995c57
       name: Charlie
       appearance: null
