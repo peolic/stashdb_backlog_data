@@ -38,9 +38,15 @@ performers:
       appearance: null
       status: new
       status_url: https://www.iafd.com/person.rme/id=b74389e2-81b0-44dd-8dd1-55e3663d8a0d
+      notes:
+        - https://www.imdb.com/name/nm10929442/
+        - https://www.realitykings.com/model/25205/heather
     - id: null
       name: Gabrielle
       appearance: null
       disambiguation: 2011, Dare Dorm
       status: new
       status_url: https://www.iafd.com/person.rme/id=b70b9243-6e90-4f05-b90e-8a6c5bde7743
+      notes:
+        - https://www.imdb.com/name/nm10929443/
+        - https://www.realitykings.com/model/25207/gabrielle

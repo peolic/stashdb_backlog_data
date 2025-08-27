@@ -1,18 +1,12 @@
 split:
   name: Manuel
   fragments:
-    - column: I
-      id: 6c179e3a-b73f-4a34-9f54-de34520d4b71
-      name: Manuel (Dare Dorm, 2011)
-      text: Dare Dorm "Things People Do"
-      links:
-        - https://www.iafd.com/person.rme/id=652aa10a-9283-4d01-8ee6-e765f6e32448
-        - https://stashdb.org/scenes/55decc76-f7c8-47d7-b4d4-7c86f81cc84c
     - column: J
       id: null
       name: Manuel (Dick Dorm, 2011)
       text: Dick Dorm "Balls Balls Balls"
       links:
         - https://stashdb.org/scenes/c0245272-798d-4ac2-b65f-cb8af51dae44
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
