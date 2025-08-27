@@ -6,12 +6,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: bf57711d-2e8a-4ae8-97f8-762dfd3d7c83
       name: Oleg
       appearance: null
       disambiguation: WTFPass, 2015
-      status: c
-      status_url: https://stashdb.org/edits/0fad377a-66ba-44c7-9794-534ddda517ec
       notes:
         - https://www.iafd.com/person.rme/id=59282541-8536-4f4f-8487-17b173eb3730
         - https://wtfpass.com/models/oleg-4/

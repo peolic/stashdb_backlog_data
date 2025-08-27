@@ -16,12 +16,10 @@ performers:
       name: Gabrielle
       appearance: null
   append:
-    - id: null
+    - id: 9c52fec3-12e7-4b6c-b7d6-0673f9491e18
       name: Crystal
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/3123833d-dbeb-46ba-b7ff-c10b1c0a19f3
       notes:
         - https://www.iafd.com/person.rme/id=a4c4a87a-711a-4cb1-8587-77f172df5dab
         - https://www.imdb.com/name/nm9242433/
