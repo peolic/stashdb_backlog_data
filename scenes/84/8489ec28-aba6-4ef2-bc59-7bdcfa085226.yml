@@ -9,6 +9,12 @@ performers:
     - id: 7c82803f-d0b5-4b8b-9233-13dd75e7f65c
       name: Jonathan
       appearance: null
+    - id: d033fae2-e749-4068-945b-df3064ae017e
+      name: Heather
+      appearance: null
+    - id: d1e5ad30-8697-4299-9ffc-4c4a3a5584e3
+      name: Gabrielle
+      appearance: null
   append:
     - id: null
       name: Crystal
@@ -27,3 +33,14 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=7272060e-d4b1-4db2-b130-c136fc95e96c
         - https://www.realitykings.com/model/25178/jonathan
+    - id: null
+      name: Heather (Dare Dorm, 2011]
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b74389e2-81b0-44dd-8dd1-55e3663d8a0d
+    - id: null
+      name: Gabrielle
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b70b9243-6e90-4f05-b90e-8a6c5bde7743

@@ -12,12 +12,10 @@ performers:
       name: Kimberly
       appearance: null
   append:
-    - id: null
+    - id: 19e7bb8d-2f45-41e2-bcec-c4b82f16c26b
       name: Connor
       appearance: null
       disambiguation: 2003, Tranny Surprise
-      status: c
-      status_url: https://stashdb.org/edits/83efd095-e4a8-4dfb-a066-4991202c677f
       notes:
         - https://www.iafd.com/person.rme/id=bdfd3475-43d1-404e-aac9-5ac7adb8ef7c
     - id: null

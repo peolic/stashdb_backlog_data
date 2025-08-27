@@ -6,11 +6,10 @@ split:
       name: Jonathan (2011, Dare Dorm)
       notes:
         - '- Dare Dorm "Whip It Good"'
-        - '- Black GFs "Luscious Lushes"'
+        - "- \x02Black GFs \"Luscious Lushes\"\x03"
       links:
         - https://www.iafd.com/person.rme/id=7272060e-d4b1-4db2-b130-c136fc95e96c
         - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
-        - https://stashdb.org/scenes/85c70649-59a7-44ae-8122-cc44eda2ab00
         - https://www.realitykings.com/model/25178/jonathan
     - column: K
       id: null

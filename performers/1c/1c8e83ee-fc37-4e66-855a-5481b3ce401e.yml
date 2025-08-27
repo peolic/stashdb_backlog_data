@@ -1,18 +1,6 @@
 split:
   name: Corey
   fragments:
-    - column: M
-      id: a919c8b4-f2ed-423a-b50c-5706e687be5e
-      name: Corey (2011, Dare Dorm)
-      text: Dare Dorm "Things People Do"
-      notes:
-        - 'NOTE: possibly a guy that is mislabeled as a girl. the person in the photo on the Reality Kings profile is actually of Mandi
-          (non-sex role).'
-        - photo may be incorrect
-      links:
-        - https://www.iafd.com/person.rme/id=77e881e9-de3d-470a-a239-2ee88f67e033
-        - https://stashdb.org/scenes/55decc76-f7c8-47d7-b4d4-7c86f81cc84c
-        - https://www.realitykings.com/model/25709/corey
     - column: O
       id: null
       name: '?'
