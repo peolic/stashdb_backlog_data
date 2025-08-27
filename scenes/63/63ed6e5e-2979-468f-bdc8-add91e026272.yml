@@ -12,6 +12,12 @@ performers:
     - id: 517ff2e8-0792-4d1e-a1c0-c8c8a6bc1705
       name: Zachary
       appearance: null
+    - id: 73beffd6-41e7-4499-8951-437eb113e222
+      name: Leah
+      appearance: null
+    - id: dc8a243d-d411-41af-b48e-17ca742ecae6
+      name: Charlie
+      appearance: null
   append:
     - id: a77e8f21-c1c4-4e2b-a459-3ae419afadac
       name: Cody
@@ -29,4 +35,14 @@ performers:
       name: Zachary
       appearance: null
       disambiguation: Dick Dorm, 2011
+      status: new
+    - id: null
+      name: Leah
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+    - id: null
+      name: Charlie
+      appearance: null
+      disambiguation: 2011, Dick Dorm
       status: new
