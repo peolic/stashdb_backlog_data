@@ -6,6 +6,12 @@ performers:
     - id: daff3ebb-807c-4a6d-b532-04b3862c56c8
       name: Cody
       appearance: null
+    - id: 44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b
+      name: Michelle
+      appearance: null
+    - id: 517ff2e8-0792-4d1e-a1c0-c8c8a6bc1705
+      name: Zachary
+      appearance: null
   append:
     - id: a77e8f21-c1c4-4e2b-a459-3ae419afadac
       name: Cody
@@ -14,3 +20,13 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=ab5804db-f8fe-48a2-a5ae-8b2b3ede7b90
         - https://www.realitykings.com/model/20636/cody
+    - id: null
+      name: Michelle
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+    - id: null
+      name: Zachary
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new

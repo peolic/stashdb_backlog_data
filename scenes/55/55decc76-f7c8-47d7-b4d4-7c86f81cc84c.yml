@@ -110,9 +110,10 @@ performers:
       name: Whitney
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.imdb.com/name/nm10929475/
+      status: c
+      status_url: https://stashdb.org/edits/cf90ff47-c0d3-4932-8b0d-9c7846bdfa97
       notes:
+        - https://www.imdb.com/name/nm10929475/
         - https://www.realitykings.com/model/25707/whitney
         - the photo on Whit is Whitney
         - https://image-service-ht.project1content.com/f43/30d/270/e59/4de/685/d1b/a4f/529/239/1b/model/profile_001.jpg

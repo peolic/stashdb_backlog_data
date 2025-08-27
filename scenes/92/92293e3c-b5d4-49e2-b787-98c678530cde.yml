@@ -1,15 +1,31 @@
 c_studio:
   - Tranny Surprise
   - null
+comments:
+  - https://www.imdb.com/title/tt7667884/
 performers:
   remove:
     - id: fde28366-d168-41b1-a3f6-e26741782fd8
       name: Connor
+      appearance: null
+    - id: d5144dc2-d925-4ee0-9175-fc26d996590b
+      name: Kimberly
       appearance: null
   append:
     - id: null
       name: Connor
       appearance: null
       disambiguation: 2003, Tranny Surprise
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=bdfd3475-43d1-404e-aac9-5ac7adb8ef7c
+      status: c
+      status_url: https://stashdb.org/edits/83efd095-e4a8-4dfb-a066-4991202c677f
+      notes:
+        - https://www.iafd.com/person.rme/id=bdfd3475-43d1-404e-aac9-5ac7adb8ef7c
+    - id: null
+      name: Kimberly
+      appearance: null
+      disambiguation: 2003, Tranny Surprise
+      status: c
+      status_url: https://stashdb.org/edits/5b9c4284-cdc5-416a-9e68-04b928e08ead
+      notes:
+        - https://www.iafd.com/person.rme/id=5b1a617c-2424-4056-8855-ca8214342795
+        - https://www.imdb.com/name/nm9441716/
