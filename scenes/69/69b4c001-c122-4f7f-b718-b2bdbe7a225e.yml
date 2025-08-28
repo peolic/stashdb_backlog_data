@@ -13,10 +13,6 @@ performers:
     - id: eb377fa4-b733-4edb-bcde-df025764c930
       name: Kayla
       appearance: null
-    - id: d2196dfc-ac1c-4dfe-9ecc-c6a95353a644
-      name: Cathiaextra
-      appearance: null
-      status: edit
   append:
     - id: adf49edd-4427-42e3-af19-b404da4916b7
       name: Honey Lee
@@ -26,7 +22,3 @@ performers:
       appearance: null
       disambiguation: 2004, In the VIP
       status: new
-    - id: d2196dfc-ac1c-4dfe-9ecc-c6a95353a644
-      name: Cathia
-      appearance: Cathiaextra
-      disambiguation: Bang Bros, 2004
