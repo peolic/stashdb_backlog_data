@@ -1,14 +1,6 @@
 split:
   name: Christy
   fragments:
-    - column: J
-      id: 624b50da-5396-427a-9709-df9e7cadb8ea
-      name: Christy (2006, Bang Bus)
-      text: Bang Bus (2006)
-      links:
-        - https://www.iafd.com/person.rme/id=b99e3576-fb8a-444f-ac20-f360f672bd1b
-        - https://www.indexxx.com/m/christy-1
-        - https://stashdb.org/scenes/bdb700bc-ee1a-4870-8794-2b91eee25a4b
     - column: L
       id: null
       name: Christie (2005, V9)

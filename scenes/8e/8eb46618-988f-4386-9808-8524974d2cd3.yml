@@ -6,7 +6,11 @@ comments:
   - https://www.imdb.com/title/tt14980868/
   - https://www.indexxx.com/set/46220/big-mouthfuls-cathia/
 performers:
-  remove: []
+  remove:
+    - id: null
+      name: '[edit'
+      appearance: null
+      disambiguation: edit
   append:
     - id: d2196dfc-ac1c-4dfe-9ecc-c6a95353a644
       name: Cathia

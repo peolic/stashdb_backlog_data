@@ -1,0 +1,14 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: 9cedcfba-7dda-4c3e-823b-94ccec81acfe
+      name: Dima
+      appearance: null
+  append:
+    - id: null
+      name: Dima
+      appearance: null
+      disambiguation: Nasty Angels
+      status: new

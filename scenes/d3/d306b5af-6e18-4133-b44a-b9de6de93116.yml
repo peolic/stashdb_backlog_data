@@ -1,0 +1,49 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 908043ea-12c9-4185-a821-669ed7e281f8
+      name: Eduardo
+      appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+    - id: b8c9c225-b5da-4686-b219-95d912b28d52
+      name: Steven
+      appearance: null
+    - id: 92536c1f-38e4-42ab-b9cb-29d58044f51b
+      name: Melissa
+      appearance: null
+  append:
+    - id: null
+      name: Eduardo
+      appearance: null
+      disambiguation: 2012-09-07, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d878c760-b7f0-44b8-af40-422db129a8b0
+      notes:
+        - https://www.realitykings.com/model/25926/eduardo
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2012-09
+      status: new
+      notes:
+        - https://www.realitykings.com/model/25934/nicholas
+    - id: null
+      name: Steven
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ed639183-61d0-4637-927e-07513a4d3d5d
+      notes:
+        - https://www.realitykings.com/model/25938/steven
+    - id: null
+      name: Melissa
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=280a376a-8099-4c05-af5c-b23de6aaae33
+      notes:
+        - https://www.realitykings.com/model/25930/melissa

@@ -1,0 +1,17 @@
+c_studio:
+  - Round and Brown
+  - null
+performers:
+  remove:
+    - id: 9177c184-00fc-4269-87c5-2978d2f9e732
+      name: Faith
+      appearance: null
+  append:
+    - id: null
+      name: Faith Jones
+      appearance: Faith
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d4fe0574-e036-4d18-bb58-d53e68888b62
+      notes:
+        - https://www.indexxx.com/m/faith-5
+        - https://www.imdb.com/name/nm9763056/

@@ -1,0 +1,25 @@
+c_studio:
+  - Dick Dorm
+  - null
+comments:
+  - Brittany and Nicole were previously removed as non-sex performers, one male on the cover is still missing
+performers:
+  remove:
+    - id: 3f069653-0ecd-4f2e-9124-ab1b02aff387
+      name: Douglas
+      appearance: null
+  append:
+    - id: null
+      name: Douglas
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+    - id: d0db4783-e80e-4825-9bb0-8099cd1f68d5
+      name: Brittany
+      appearance: null
+      disambiguation: Dare Dorm, 2012-03-23
+    - id: null
+      name: Nicole
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
