@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: f66c56fa-7acb-4aed-9981-40d02706038b
+      name: Nino
+      appearance: null
+    - id: 3e8c33ef-3395-4f42-8af0-fb643e9ba1fb
+      name: Nic
+      appearance: null
+  append:
+    - id: null
+      name: Versaci
+      appearance: Nino
+      disambiguation: Latino Fan Club
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=857594ef-0053-4bbf-b75a-6180d47c299c
+      notes:
+        - https://gayeroticvideoindex.com/performer/142724
+        - https://gayeroticvideoindex.com/performer/59336
+    - id: null
+      name: Nic
+      appearance: Angel
+      disambiguation: Boys First Time, 2008
+      status: new

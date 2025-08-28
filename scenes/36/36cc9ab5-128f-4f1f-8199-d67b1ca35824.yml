@@ -1,0 +1,22 @@
+c_studio:
+  - Gay Revenge
+  - null
+performers:
+  remove:
+    - id: 3e8c33ef-3395-4f42-8af0-fb643e9ba1fb
+      name: Nic
+      appearance: null
+    - id: a541577b-e616-4af5-9fe6-da3dfc02ccea
+      name: Rob
+      appearance: null
+  append:
+    - id: null
+      name: Nic
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
+    - id: null
+      name: Rob
+      appearance: null
+      disambiguation: Reality Dudes, 2008
+      status: new
