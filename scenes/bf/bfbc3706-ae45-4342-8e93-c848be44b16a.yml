@@ -1,6 +1,8 @@
 c_studio:
   - White Ghetto
   - null
+comments:
+  - https://www.iafd.com/title.rme/id=56b77d3c-2acd-4f0e-bdc7-be9c53004fbd
 performers:
   remove:
     - id: 5332d582-64aa-4572-9ae7-633408032aba
@@ -9,7 +11,7 @@ performers:
   append:
     - id: null
       name: Isis Raja
-      appearance: null
+      appearance: Isis
       status: new
       status_url: https://www.iafd.com/person.rme/id=548a2ab7-98b5-4458-89c7-9a014366659e
       notes:
