@@ -1,18 +1,6 @@
 split:
   name: Crystal
   fragments:
-    - column: Y
-      id: null
-      name: Crystal (2010, GF Revenge)
-      text: GF Revenge "Fun Bubbles"
-      notes:
-        - Off-camera in this scene (only her hand/arm is visible when she touches someone; see gallery).
-      links:
-        - https://stashdb.org/scenes/8eee9a4f-abf3-42d9-89e7-f535c87f971b
-        - https://pics-x.com/gallery/185775/fun-bubbles-gf-revenge
-        - https://www.realitykings.com/model/25357/crystal
-        - https://www.iafd.com/person.rme/id=d1a0650d-369e-4f54-b375-d98e242d9b52
-        - https://www.iafd.com/title.rme/id=5e8cbebe-794a-400f-8de3-e785bf192210
     - column: Z
       id: 9c52fec3-12e7-4b6c-b7d6-0673f9491e18
       name: Crystal (Dare Dorm, 2011)
@@ -22,6 +10,7 @@ split:
         - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
         - https://www.imdb.com/name/nm9242433/
         - https://www.realitykings.com/model/25199/crystal
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

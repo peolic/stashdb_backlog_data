@@ -1,0 +1,19 @@
+c_studio:
+  - White Ghetto
+  - null
+performers:
+  remove:
+    - id: 5332d582-64aa-4572-9ae7-633408032aba
+      name: Isis
+      appearance: null
+  append:
+    - id: null
+      name: Isis Raja
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=548a2ab7-98b5-4458-89c7-9a014366659e
+      notes:
+        - https://www.freeones.com/isis-raja
+        - https://www.imdb.com/name/nm4263897/
+        - https://www.adultfilmdatabase.com/actor/isis-raja-54336/
+        - https://www.themoviedb.org/person/3400119-isis-raja
