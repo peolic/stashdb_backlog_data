@@ -7,10 +7,8 @@ performers:
       name: Nic
       appearance: null
   append:
-    - id: null
+    - id: 4f47780f-9bc9-41dd-89ee-e518c41e8477
       name: Nic Wilde
       appearance: Nic
-      status: c
-      status_url: https://stashdb.org/edits/b0675357-66cc-4e0c-91d0-c58564496a4f
       notes:
         - https://www.iafd.com/person.rme/id=43c9147d-c610-4bee-b4cc-041decffa40a
