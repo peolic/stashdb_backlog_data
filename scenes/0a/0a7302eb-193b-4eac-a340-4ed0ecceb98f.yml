@@ -7,11 +7,9 @@ performers:
       name: Gerda
       appearance: null
   append:
-    - id: null
+    - id: f3b1cbc3-dc82-4fb5-b509-45065d25503e
       name: Gerda May
       appearance: Gerda
-      status: c
-      status_url: https://stashdb.org/edits/97673ffe-ac2c-473c-9309-646926ea0c95
       notes:
         - https://www.indexxx.com/m/gerda-may
         - https://www.thenude.com/_28003.htm

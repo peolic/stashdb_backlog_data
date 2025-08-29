@@ -10,11 +10,9 @@ performers:
       name: Faith
       appearance: null
   append:
-    - id: null
+    - id: 0257f49b-8547-4c3b-ad3c-7a1f2ac28444
       name: Faith Jones
       appearance: Faith
-      status: c
-      status_url: https://stashdb.org/edits/1a2bb51a-1dd6-4cac-af57-0882635daccd
       notes:
         - https://www.iafd.com/person.rme/id=d4fe0574-e036-4d18-bb58-d53e68888b62
         - https://www.indexxx.com/m/faith-5
