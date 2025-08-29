@@ -10,5 +10,7 @@ performers:
     - id: null
       name: Nic Wilde
       appearance: Nic
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=43c9147d-c610-4bee-b4cc-041decffa40a
+      status: c
+      status_url: https://stashdb.org/edits/b0675357-66cc-4e0c-91d0-c58564496a4f
+      notes:
+        - https://www.iafd.com/person.rme/id=43c9147d-c610-4bee-b4cc-041decffa40a
