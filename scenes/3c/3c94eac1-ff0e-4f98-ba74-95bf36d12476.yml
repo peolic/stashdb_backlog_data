@@ -1,0 +1,15 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=67176677-a9dc-42e4-b399-a41c8e95a8d5
+performers:
+  remove:
+    - id: e3d1dfd7-cb3d-49c7-a9b5-4baf2ab17e51
+      name: Shawn
+      appearance: null
+  append:
+    - id: be92d58c-d35a-4f80-97e6-131891ab8cad
+      name: Shawn
+      appearance: null
+      disambiguation: Reality Kings, 2010

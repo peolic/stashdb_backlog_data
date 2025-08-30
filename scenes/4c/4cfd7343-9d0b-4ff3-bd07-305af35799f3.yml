@@ -1,0 +1,18 @@
+c_studio:
+  - Doctor Adventures
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=97f8030c-eab9-4183-970f-2ce3272dab2d
+  - https://www.imdb.com/title/tt6476086/
+performers:
+  remove:
+    - id: b079f264-16c1-48b5-9049-ad089488d607
+      name: Dallas
+      appearance: null
+      disambiguation: 2006-2018
+  append:
+    - id: null
+      name: Ben Foxxx
+      appearance: Dallas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=32e7b1b2-a96d-4271-b4ba-3b6e3b605414

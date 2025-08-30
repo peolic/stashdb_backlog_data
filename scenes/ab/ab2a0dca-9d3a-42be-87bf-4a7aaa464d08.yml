@@ -1,0 +1,15 @@
+c_studio:
+  - Woodman Casting X
+  - null
+performers:
+  remove:
+    - id: b9a337fd-c787-4cf4-bc0e-71b7bf4a29ab
+      name: Csilla
+      appearance: null
+  append:
+    - id: null
+      name: Csilla
+      appearance: null
+      disambiguation: Woodman Casting X, 2012-03
+      status: new
+      status_url: https://www.indexxx.com/m/csilla
