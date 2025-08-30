@@ -35,17 +35,19 @@ performers:
       name: Heather
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b74389e2-81b0-44dd-8dd1-55e3663d8a0d
+      status: c
+      status_url: https://stashdb.org/edits/86526de6-7675-4d0f-b549-82fa854aeaf0
       notes:
+        - https://www.iafd.com/person.rme/id=b74389e2-81b0-44dd-8dd1-55e3663d8a0d
         - https://www.imdb.com/name/nm10929442/
         - https://www.realitykings.com/model/25205/heather
     - id: null
       name: Gabrielle
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b70b9243-6e90-4f05-b90e-8a6c5bde7743
+      status: c
+      status_url: https://stashdb.org/edits/e858c414-75ab-407c-a591-b04c84552c92
       notes:
+        - https://www.iafd.com/person.rme/id=b70b9243-6e90-4f05-b90e-8a6c5bde7743
         - https://www.imdb.com/name/nm10929443/
         - https://www.realitykings.com/model/25207/gabrielle

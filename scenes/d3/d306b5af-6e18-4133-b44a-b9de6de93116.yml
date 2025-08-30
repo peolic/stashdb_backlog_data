@@ -20,30 +20,34 @@ performers:
       name: Eduardo
       appearance: null
       disambiguation: 2012-09-07, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d878c760-b7f0-44b8-af40-422db129a8b0
+      status: c
+      status_url: https://stashdb.org/edits/22e22aac-2a5d-46c9-9e6a-b5acc800a3ec
       notes:
+        - https://www.iafd.com/person.rme/id=d878c760-b7f0-44b8-af40-422db129a8b0
         - https://www.realitykings.com/model/25926/eduardo
     - id: null
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-09
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/dceeef74-fcae-4c38-bcb8-4baadd68a9b9
       notes:
         - https://www.realitykings.com/model/25934/nicholas
     - id: null
       name: Steven
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ed639183-61d0-4637-927e-07513a4d3d5d
+      status: c
+      status_url: https://stashdb.org/edits/b470ae19-f05f-4c4c-a445-d3a409a1617a
       notes:
+        - https://www.iafd.com/person.rme/id=ed639183-61d0-4637-927e-07513a4d3d5d
         - https://www.realitykings.com/model/25938/steven
     - id: null
       name: Melissa
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=280a376a-8099-4c05-af5c-b23de6aaae33
+      status: c
+      status_url: https://stashdb.org/edits/61a20f1b-7d8b-469c-9b10-0550c90615fc
       notes:
+        - https://www.iafd.com/person.rme/id=280a376a-8099-4c05-af5c-b23de6aaae33
         - https://www.realitykings.com/model/25930/melissa

@@ -13,9 +13,10 @@ performers:
       name: Flavia
       appearance: null
       disambiguation: 2008, In the VIP
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=9801c10f-be03-4525-a832-fba26383dd5e
+      status: c
+      status_url: https://stashdb.org/edits/8e576101-e883-46bf-be51-e7094d072b8e
       notes:
+        - https://www.iafd.com/person.rme/id=9801c10f-be03-4525-a832-fba26383dd5e
         - https://www.indexxx.com/m/flavia
     - id: ee220b21-c857-494a-aa14-94723eb0a8a9
       name: Janie
