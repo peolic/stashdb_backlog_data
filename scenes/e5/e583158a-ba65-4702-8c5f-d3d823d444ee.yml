@@ -9,12 +9,10 @@ performers:
       name: Flavia
       appearance: null
   append:
-    - id: null
+    - id: bca0f328-3678-4904-a5ae-8f280c21213d
       name: Flavia
       appearance: null
       disambiguation: 2008, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/8e576101-e883-46bf-be51-e7094d072b8e
       notes:
         - https://www.iafd.com/person.rme/id=9801c10f-be03-4525-a832-fba26383dd5e
         - https://www.indexxx.com/m/flavia
