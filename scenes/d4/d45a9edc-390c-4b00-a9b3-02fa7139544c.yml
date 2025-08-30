@@ -1,0 +1,32 @@
+c_studio:
+  - Horny Birds
+  - null
+comments:
+  - https://www.imdb.com/title/tt14980828/
+performers:
+  remove:
+    - id: ac5976cb-9e1a-43e9-b556-d5746f1010b3
+      name: Daniel
+      appearance: null
+    - id: a9549dff-2731-4534-afb5-ce60a8ec087d
+      name: Joshua
+      appearance: null
+  append:
+    - id: null
+      name: Daniel
+      appearance: null
+      disambiguation: Horny Birds, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a67343af-923a-4904-a073-8c0f5f3319cc
+      notes:
+        - https://www.imdb.com/name/nm11398383/
+        - https://www.realitykings.com/model/26638/daniel
+    - id: null
+      name: Joshua
+      appearance: null
+      disambiguation: Horny Birds, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ca79760-cae7-40e0-b9d6-e2670f547aa7
+      notes:
+        - https://www.realitykings.com/model/26636/joshua
+        - https://www.imdb.com/name/nm11055388/

@@ -1,0 +1,56 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.imdb.com/title/tt6258034/
+performers:
+  remove:
+    - id: ac5976cb-9e1a-43e9-b556-d5746f1010b3
+      name: Daniel
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 57c5a9e9-fcc2-422a-bff0-448efe1e65e3
+      name: Elizabeth
+      appearance: null
+    - id: da7c9a8b-457b-48ee-ae3f-03d9f25ad2e2
+      name: Jesse
+      appearance: null
+    - id: 2f8980d0-bc8c-4e70-b4b4-517c2f30d6be
+      name: Mary
+      appearance: null
+  append:
+    - id: null
+      name: Daniel
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6975ba40-c42d-4607-a0d2-d1833de4eae0
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=31a0196b-6033-4c22-bd16-95f7add61d74
+    - id: null
+      name: Elizabeth
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=48b6942e-1853-419e-a584-42a4a7eb4c05
+      notes:
+        - https://www.imdb.com/name/nm10912755/
+    - id: null
+      name: Jesse
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d4880ed1-616d-4e7f-9710-667c4dc5c562
+    - id: null
+      name: Mary
+      appearance: null
+      disambiguation: Dare Dorm, 2010-08
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10912756/

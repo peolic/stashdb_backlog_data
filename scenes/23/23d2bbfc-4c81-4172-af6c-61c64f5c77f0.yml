@@ -1,0 +1,32 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.indexxx.com/set/33235/8th-street-latinas-daniella/
+  - https://www.iafd.com/title.rme/id=15f8391e-d0ed-4947-809d-52107e7cdf1e
+  - https://www.imdb.com/title/tt6637656/
+performers:
+  remove:
+    - id: dd4c1a12-1508-4935-b3a9-2eaee1654a4a
+      name: Daniella
+      appearance: null
+    - id: 2d02df96-6fb0-4318-b47c-bb6381cf44cd
+      name: Rico
+      appearance: null
+  append:
+    - id: null
+      name: Daniella
+      appearance: null
+      disambiguation: 2002, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=809e0819-93e8-42d2-8b47-920ea2d9821c
+      notes:
+        - https://www.indexxx.com/m/daniella-1
+        - IMDb claims as Daniela Ognibene?
+        - https://www.imdb.com/name/nm1655943/
+    - id: null
+      name: Rico
+      appearance: null
+      disambiguation: 2002, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b40844ac-f35a-4124-8a20-107d492bd37b
