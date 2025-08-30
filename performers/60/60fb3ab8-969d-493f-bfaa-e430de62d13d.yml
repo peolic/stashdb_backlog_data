@@ -1,16 +1,7 @@
 split:
   name: Crystal
-  fragments:
-    - column: Z
-      id: 9c52fec3-12e7-4b6c-b7d6-0673f9491e18
-      name: Crystal (Dare Dorm, 2011)
-      text: Dare Dorm "Whip It Good"
-      links:
-        - https://www.iafd.com/person.rme/id=a4c4a87a-711a-4cb1-8587-77f172df5dab
-        - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
-        - https://www.imdb.com/name/nm9242433/
-        - https://www.realitykings.com/model/25199/crystal
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

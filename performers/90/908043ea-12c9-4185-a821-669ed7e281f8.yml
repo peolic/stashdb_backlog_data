@@ -1,13 +1,6 @@
 split:
   name: Eduardo
-  fragments:
-    - column: J
-      id: 6c31104b-a153-4d4a-abb6-7d4c17028fbe
-      name: Eduardo (2012-09-07, Dare Dorm)
-      text: Dare Dorm "Pledge Fuck"
-      links:
-        - https://www.iafd.com/person.rme/id=d878c760-b7f0-44b8-af40-422db129a8b0
-        - https://stashdb.org/scenes/d306b5af-6e18-4133-b44a-b9de6de93116
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-04-12)

@@ -14,9 +14,11 @@ performers:
       name: Nic
       appearance: null
       disambiguation: Boys First Time, 2008
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/1d6341fd-4835-4967-9634-0da639ec531a
     - id: null
       name: Rob
       appearance: null
       disambiguation: Reality Dudes, 2008
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/a6cfbf23-de17-4945-be90-6eab4be9becb

@@ -1,15 +1,7 @@
 split:
   name: Flavia
-  fragments:
-    - column: J
-      id: bca0f328-3678-4904-a5ae-8f280c21213d
-      name: Flavia (2008, In the VIP)
-      text: In the VIP
-      links:
-        - https://www.iafd.com/person.rme/id=9801c10f-be03-4525-a832-fba26383dd5e
-        - https://www.indexxx.com/m/flavia
-        - https://stashdb.org/scenes/e583158a-ba65-4702-8c5f-d3d823d444ee
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-01-17)
     - Best to move scenes and delete performer, rather than merging or renaming.

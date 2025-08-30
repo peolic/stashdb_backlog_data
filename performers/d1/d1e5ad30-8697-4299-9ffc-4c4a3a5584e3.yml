@@ -17,13 +17,6 @@ split:
         - https://www.iafd.com/person.rme/id=d10dfb39-22e8-4f3e-b4ab-79c855f8d2bc
         - https://www.indexxx.com/m/gabrielle-8
         - https://stashdb.org/scenes/0131c47d-8c84-4b13-a15f-1b7e9cd91595
-    - column: L
-      id: 1bb8810f-12d4-4c78-adfb-355295f7dd96
-      name: Gabrielle (2011, Dare Dorm)
-      text: Dare Dorm "Whip It Good"
-      links:
-        - https://www.iafd.com/person.rme/id=b70b9243-6e90-4f05-b90e-8a6c5bde7743
-        - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
   notes:
     - Mix of multiple performers (complete list as of 2022-06-10)
     - Best to move scenes and delete performer, rather than merging or renaming.

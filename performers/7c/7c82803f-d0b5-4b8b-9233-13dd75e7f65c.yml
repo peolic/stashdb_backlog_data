@@ -1,16 +1,6 @@
 split:
   name: Jonathan
   fragments:
-    - column: J
-      id: ad2ca199-0530-4735-ab7f-109c3fdaa464
-      name: Jonathan (2011, Dare Dorm)
-      notes:
-        - '- Dare Dorm "Whip It Good"'
-        - "- \x02Black GFs \"Luscious Lushes\"\x03"
-      links:
-        - https://www.iafd.com/person.rme/id=7272060e-d4b1-4db2-b130-c136fc95e96c
-        - https://stashdb.org/scenes/8489ec28-aba6-4ef2-bc59-7bdcfa085226
-        - https://www.realitykings.com/model/25178/jonathan
     - column: K
       id: null
       name: Jonathan (2010, Dare Dorm)
