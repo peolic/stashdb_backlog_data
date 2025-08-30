@@ -1,19 +1,6 @@
 split:
   name: Faith
-  fragments:
-    - column: O
-      id: 0257f49b-8547-4c3b-ad3c-7a1f2ac28444
-      name: Faith (2006-2007, Round and Brown)
-      notes:
-        - '- Ball Honeys'
-        - '- Round and Brown'
-      links:
-        - https://www.iafd.com/person.rme/id=d4fe0574-e036-4d18-bb58-d53e68888b62
-        - https://www.indexxx.com/m/faith-5
-        - https://stashdb.org/scenes/df5a85b0-bf8c-455a-ad20-e996c135977e
-        - https://stashdb.org/scenes/8ae4706a-70a9-4230-9f23-a352c9ac5196
-        - https://stashdb.org/scenes/2357fdf6-6184-438d-875f-733d58ac37d1
-        - https://stashdb.org/scenes/310d41ce-b135-4fbd-ab0d-df2675b4cfa4
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-05-12)

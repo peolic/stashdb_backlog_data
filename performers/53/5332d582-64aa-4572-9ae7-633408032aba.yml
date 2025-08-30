@@ -1,21 +1,7 @@
 split:
   name: Isis
-  fragments:
-    - column: J
-      id: null
-      name: Isis (2004, Round and Brown)
-      text: Round and Brown "Debilitating Blow"
-      links:
-        - https://www.iafd.com/person.rme/id=7c18bb5e-42c9-4255-a946-74d7b125e4e0
-        - https://www.indexxx.com/m/isis-2
-        - https://stashdb.org/scenes/59e81b28-4b3d-45b7-aeae-74e161681be8
-    - column: K
-      id: f63e723b-c403-487c-b41a-556e1f022f38
-      name: Isis Raja
-      text: 'White Ghetto "Big Ass Anal Cream Pie #2"'
-      links:
-        - https://www.iafd.com/person.rme/id=548a2ab7-98b5-4458-89c7-9a014366659e
-        - https://stashdb.org/scenes/bfbc3706-ae45-4342-8e93-c848be44b16a
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-04-24)
     - Best to move scenes and delete performer, rather than merging or renaming.

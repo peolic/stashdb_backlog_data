@@ -1,13 +1,6 @@
 split:
   name: Nic
   fragments:
-    - column: I
-      id: 4f47780f-9bc9-41dd-89ee-e518c41e8477
-      name: Nic Wilde
-      text: Seduced By A Cougar
-      links:
-        - https://www.iafd.com/person.rme/id=43c9147d-c610-4bee-b4cc-041decffa40a
-        - https://stashdb.org/scenes/0dff9d72-7bbd-4dbc-900e-802fa94c09a1
     - column: J
       id: null
       name: Nic (Boys First Time, 2008)
@@ -19,5 +12,6 @@ split:
         - https://stashdb.org/scenes/20546c14-5b3e-47a7-ba6e-e7c76c72cf29
         - https://stashdb.org/scenes/c5034b33-5de7-448f-a9a1-583f1caadb2f
         - https://stashdb.org/scenes/36cc9ab5-128f-4f1f-8199-d67b1ca35824
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)

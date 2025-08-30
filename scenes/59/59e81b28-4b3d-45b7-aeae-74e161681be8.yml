@@ -7,12 +7,10 @@ performers:
       name: Isis
       appearance: null
   append:
-    - id: null
+    - id: 91be2e55-de3f-4508-ac0e-e404679e4b9f
       name: Isis
       appearance: null
       disambiguation: 2004, Round and Brown
-      status: c
-      status_url: https://stashdb.org/edits/ff5b42ae-b998-4843-9bb9-d1525c112760
       notes:
         - https://www.iafd.com/person.rme/id=7c18bb5e-42c9-4255-a946-74d7b125e4e0
         - https://www.indexxx.com/m/isis-2

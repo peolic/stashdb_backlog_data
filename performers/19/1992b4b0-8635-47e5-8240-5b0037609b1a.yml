@@ -1,16 +1,7 @@
 split:
   name: Dinara
-  fragments:
-    - column: I
-      id: 590fd6b3-c7d8-4443-a6fd-00db5f7f9f80
-      name: Dinara (RU)
-      text: Nubiles
-      links:
-        - https://www.indexxx.com/m/dinara
-        - https://stashdb.org/scenes/5cd8ca3b-ee3c-4ea3-b590-46f4f9d12f39
-        - https://stashdb.org/scenes/967566e9-b75c-4558-8ded-34a7492c8e34
-        - https://stashdb.org/scenes/eae2b37c-7a1d-4ba7-9eee-15c1a75ae098
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
