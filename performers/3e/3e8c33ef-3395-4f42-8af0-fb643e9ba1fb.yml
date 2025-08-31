@@ -1,17 +1,6 @@
 split:
   name: Nic
-  fragments:
-    - column: J
-      id: d1caf7b6-1df9-4df2-8838-5d8d6cd2cc4c
-      name: Nic (Boys First Time, 2008)
-      notes:
-        - '- Boys First Time "Tight Asses"'
-        - '- Boys First Time "The Big One" (credited as Angel in description)'
-        - '- Gay Revenge "Helping Hand"'
-      links:
-        - https://stashdb.org/scenes/20546c14-5b3e-47a7-ba6e-e7c76c72cf29
-        - https://stashdb.org/scenes/c5034b33-5de7-448f-a9a1-583f1caadb2f
-        - https://stashdb.org/scenes/36cc9ab5-128f-4f1f-8199-d67b1ca35824
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list)
