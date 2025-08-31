@@ -10,12 +10,10 @@ performers:
       name: Rob
       appearance: null
   append:
-    - id: null
+    - id: d1caf7b6-1df9-4df2-8838-5d8d6cd2cc4c
       name: Nic
       appearance: null
       disambiguation: Boys First Time, 2008
-      status: c
-      status_url: https://stashdb.org/edits/1d6341fd-4835-4967-9634-0da639ec531a
     - id: c597f365-2163-49ec-86e4-d3163fc545fd
       name: Rob
       appearance: null
