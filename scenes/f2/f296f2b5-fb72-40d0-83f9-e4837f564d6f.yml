@@ -12,5 +12,7 @@ performers:
     - id: null
       name: Richard Becker
       appearance: Danny
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=70c5f32f-507d-4efb-bd96-aa971c6daba3
+      status: c
+      status_url: https://stashdb.org/edits/d60efaec-4629-4e29-bb98-9de417b8296c
+      notes:
+        - https://www.iafd.com/person.rme/id=70c5f32f-507d-4efb-bd96-aa971c6daba3
