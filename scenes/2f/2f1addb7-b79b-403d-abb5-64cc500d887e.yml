@@ -1,0 +1,14 @@
+c_studio:
+  - Cumshot Oasis
+  - null
+performers:
+  remove:
+    - id: e014dd64-0659-4ec7-901b-a2cb57a16d13
+      name: Danielle
+      appearance: null
+  append:
+    - id: null
+      name: Danielle Davis
+      appearance: Danielle
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=717a4084-578f-4571-bca1-36463a4bbbae

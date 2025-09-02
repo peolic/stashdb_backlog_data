@@ -1,0 +1,14 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+performers:
+  remove:
+    - id: e014dd64-0659-4ec7-901b-a2cb57a16d13
+      name: Danielle
+      appearance: null
+  append:
+    - id: null
+      name: Danielle
+      appearance: null
+      disambiguation: 2007, VP
+      status: new
