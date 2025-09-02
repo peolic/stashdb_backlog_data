@@ -1,0 +1,17 @@
+fingerprints:
+  - algorithm: md5
+    hash: f61a7df1f0c217a1eb7e12ea814a039c
+    correct_scene_id: null
+    duration: 1618
+  - algorithm: oshash
+    hash: 0563691d282c0527
+    correct_scene_id: null
+    duration: 1618
+  - algorithm: oshash
+    hash: 90ecc34bb7ab2a90
+    correct_scene_id: 58efd72b-465b-4552-ab22-ec7808e43242
+    duration: 1618
+  - algorithm: phash
+    hash: f4f7596260e9119c
+    correct_scene_id: 58efd72b-465b-4552-ab22-ec7808e43242
+    duration: 1618
