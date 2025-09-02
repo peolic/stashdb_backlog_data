@@ -11,10 +11,8 @@ performers:
       appearance: null
       disambiguation: 2006-2018
   append:
-    - id: null
+    - id: 9878dba8-0142-4ddf-9e79-29a31cd846c2
       name: Ben Foxxx
       appearance: Dallas
-      status: c
-      status_url: https://stashdb.org/edits/281e2d1f-a765-4d71-bca0-e2cb22da205e
       notes:
         - https://www.iafd.com/person.rme/id=32e7b1b2-a96d-4271-b4ba-3b6e3b605414
