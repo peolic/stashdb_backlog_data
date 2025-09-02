@@ -1,0 +1,15 @@
+c_studio:
+  - Male Reality
+  - null
+performers:
+  remove:
+    - id: 29ce14b6-adce-441f-9446-baf53bf021ee
+      name: Dave
+      appearance: null
+  append:
+    - id: null
+      name: Dave
+      appearance: null
+      disambiguation: 2015, Male Reality
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=712f106a-b259-496f-a48e-71f71eac73a2
