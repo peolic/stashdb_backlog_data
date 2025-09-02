@@ -13,7 +13,8 @@ performers:
     - id: null
       name: Dalia Fox
       appearance: Dalia
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5ab262a7-ab50-4afb-a1ba-377cbcc4ff17
+      status: c
+      status_url: https://stashdb.org/edits/2b57854a-5d1e-402f-af91-9d079449e4f7
       notes:
+        - https://www.iafd.com/person.rme/id=5ab262a7-ab50-4afb-a1ba-377cbcc4ff17
         - https://www.imdb.com/name/nm8874127/

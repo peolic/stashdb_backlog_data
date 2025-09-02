@@ -11,5 +11,7 @@ performers:
       name: Cynthia
       appearance: null
       disambiguation: 2005, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1076ba95-2952-481d-a3e2-36c44c9f5ed2
+      status: c
+      status_url: https://stashdb.org/edits/e06fce80-9132-40d1-97f3-57d7a1079ad4
+      notes:
+        - https://www.iafd.com/person.rme/id=1076ba95-2952-481d-a3e2-36c44c9f5ed2
