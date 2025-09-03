@@ -11,5 +11,7 @@ performers:
       name: Daniella
       appearance: Danielle
       disambiguation: German, 1994-2002
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=357d3830-bb94-4943-af21-077dbd40a6c3
+      status: c
+      status_url: https://stashdb.org/edits/949e2b6d-e30c-4209-9428-e1ab7f954171
+      notes:
+        - https://www.iafd.com/person.rme/id=357d3830-bb94-4943-af21-077dbd40a6c3

@@ -15,24 +15,73 @@ performers:
     - id: 86da656e-d1ee-44e1-aea5-b455dbbbcf07
       name: Jean
       appearance: null
+    - id: 1d5ffc62-057d-4298-a02e-9340faa2539b
+      name: Ian
+      appearance: null
+    - id: 01a695d8-aef4-46b5-8acf-d1206061b8c1
+      name: Lee
+      appearance: null
+    - id: b6762740-76f3-48ba-9440-b7ba6863bd3c
+      name: Jake
+      appearance: null
+    - id: b8756e18-b1af-456c-8a0d-24ad4f709798
+      name: Luke
+      appearance: null
+    - id: c3d5e5ac-64eb-4898-b0c0-c8282086a0c2
+      name: Lj
+      appearance: null
   append:
     - id: null
       name: Bobby
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/608bd55d-64a1-4a80-8717-fcfe15f20764
     - id: null
       name: Benjamin
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/9305b9f1-64fa-46e8-a17f-a9cb86dfb152
     - id: null
       name: David
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/13637273-1161-4311-a9b6-720971e32c29
     - id: null
       name: Jean
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/56562a0e-65e1-456f-97f1-75bfdc28d945
+    - id: null
+      name: Ian
+      appearance: null
+      disambiguation: Papi, 2007
+      status: c
+      status_url: https://stashdb.org/edits/dc935978-c26e-4856-9e84-71eb70ec6c4c
+    - id: null
+      name: Lee
+      appearance: null
+      disambiguation: Papi, 2007
+      status: c
+      status_url: https://stashdb.org/edits/6a99ab46-b899-48c7-b9b5-101bcbc9e0c1
+    - id: null
+      name: Jake
+      appearance: null
+      disambiguation: Papi, 2007
+      status: c
+      status_url: https://stashdb.org/edits/68327757-d0f2-4703-8b40-c940b208b8fd
+    - id: null
+      name: Luke
+      appearance: null
+      disambiguation: Papi, 2007
+      status: c
+      status_url: https://stashdb.org/edits/44e10388-6712-4684-a493-38e7f4e093e9
+    - id: null
+      name: Lj
+      appearance: null
+      disambiguation: Papi, 2007
+      status: c
+      status_url: https://stashdb.org/edits/92d6c5f4-74f6-4ce8-b45e-97a1295191e4

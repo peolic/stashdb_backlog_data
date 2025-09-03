@@ -11,5 +11,7 @@ performers:
       name: Dave
       appearance: null
       disambiguation: 2015, Male Reality
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=712f106a-b259-496f-a48e-71f71eac73a2
+      status: c
+      status_url: https://stashdb.org/edits/292249b8-272a-41b4-928f-d80c281443df
+      notes:
+        - https://www.iafd.com/person.rme/id=712f106a-b259-496f-a48e-71f71eac73a2

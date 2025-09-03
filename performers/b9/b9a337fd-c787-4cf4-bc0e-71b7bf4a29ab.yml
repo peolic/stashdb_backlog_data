@@ -1,18 +1,6 @@
 split:
   name: Csilla
-  fragments:
-    - column: J
-      id: 0661da56-0462-440a-a45f-a90590b3848b
-      name: Csilla (Woodman, 2012-03)
-      links:
-        - https://www.indexxx.com/m/csilla
-        - https://stashdb.org/scenes/ab2a0dca-9d3a-42be-87bf-4a7aaa464d08
-    - column: K
-      id: c7f1e707-59bf-4003-923c-dde5c6a9f2e6
-      name: Csilla (Woodman, 2012-12)
-      links:
-        - https://www.indexxx.com/m/csilla-2
-        - https://stashdb.org/scenes/957c9dbf-5361-4c6e-b0b2-5892bca9f33b
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-19)

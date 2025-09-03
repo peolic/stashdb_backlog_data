@@ -1,24 +1,6 @@
 split:
   name: Danny
-  fragments:
-    - column: J
-      id: 9a0ae762-142c-43a6-a110-a42062eff9ae
-      name: Richard Becker
-      text: Mike's Apartment
-      links:
-        - https://www.iafd.com/person.rme/id=70c5f32f-507d-4efb-bd96-aa971c6daba3
-        - https://stashdb.org/scenes/f296f2b5-fb72-40d0-83f9-e4837f564d6f
-    - column: K
-      id: bffd5a28-4d32-41d3-8053-5b0b875bac26
-      name: Donny Dooes
-      text: Leg Sex
-      notes:
-        - '@kouaak: I believe the scene is a rerelease of the scene "The Smell Of Lust"'
-        - Male performer matches visually
-      links:
-        - https://www.iafd.com/person.rme/id=f992e2b3-8d3b-4cf4-bfbd-b8d8457ff783
-        - https://stashdb.org/scenes/3d682cd0-b870-4c5b-936a-ab3e5becbc43
-        - https://www.iafd.com/title.rme/title=smell+of+lust/year=2013/smell-of-lust.htm
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

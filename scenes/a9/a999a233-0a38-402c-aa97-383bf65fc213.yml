@@ -11,5 +11,7 @@ performers:
       name: Dave
       appearance: null
       disambiguation: 2009, Gonzo
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2e671b3b-59c0-4acc-bc35-2f0ab354e427
+      status: c
+      status_url: https://stashdb.org/edits/fc548ac9-a1b4-4acb-b280-fb3f1be9f99d
+      notes:
+        - https://www.iafd.com/person.rme/id=2e671b3b-59c0-4acc-bc35-2f0ab354e427
