@@ -7,11 +7,9 @@ performers:
       name: Cynthia
       appearance: null
   append:
-    - id: null
+    - id: e1628a9e-6543-4174-b636-8c277a73f0da
       name: Cynthia
       appearance: null
       disambiguation: 2005, V9
-      status: c
-      status_url: https://stashdb.org/edits/e06fce80-9132-40d1-97f3-57d7a1079ad4
       notes:
         - https://www.iafd.com/person.rme/id=1076ba95-2952-481d-a3e2-36c44c9f5ed2
