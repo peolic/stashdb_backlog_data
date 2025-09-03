@@ -9,10 +9,8 @@ performers:
       name: Danny
       appearance: null
   append:
-    - id: null
+    - id: 9a0ae762-142c-43a6-a110-a42062eff9ae
       name: Richard Becker
       appearance: Danny
-      status: c
-      status_url: https://stashdb.org/edits/d60efaec-4629-4e29-bb98-9de417b8296c
       notes:
         - https://www.iafd.com/person.rme/id=70c5f32f-507d-4efb-bd96-aa971c6daba3
