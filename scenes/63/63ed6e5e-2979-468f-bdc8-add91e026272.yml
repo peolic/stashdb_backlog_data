@@ -30,19 +30,23 @@ performers:
       name: Michelle
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/1b9a411c-0d2e-43a6-9d56-6b75bc2b1bb2
     - id: null
       name: Zachary
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/946269b0-34cf-4c6d-956f-fdf9c095323f
     - id: null
       name: Leah
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/1ccf083b-0515-433a-ad0a-ad0ef7f706ef
     - id: null
       name: Charlie
       appearance: null
       disambiguation: 2011, Dick Dorm
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/b1850354-1981-4308-aa66-1e3c35b87a80

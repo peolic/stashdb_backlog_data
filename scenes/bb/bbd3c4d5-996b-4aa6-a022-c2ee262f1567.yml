@@ -25,32 +25,40 @@ performers:
       name: Daniel
       appearance: null
       disambiguation: Dare Dorm, 2010
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6975ba40-c42d-4607-a0d2-d1833de4eae0
+      status: c
+      status_url: https://stashdb.org/edits/765e3e3d-d9ce-43ec-9efd-0075f6d1f402
+      notes:
+        - https://www.iafd.com/person.rme/id=6975ba40-c42d-4607-a0d2-d1833de4eae0
     - id: null
       name: David
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=31a0196b-6033-4c22-bd16-95f7add61d74
+      status: c
+      status_url: https://stashdb.org/edits/00eb9fdf-b2ee-4daa-ac63-5a76f21156c8
+      notes:
+        - https://www.iafd.com/person.rme/id=31a0196b-6033-4c22-bd16-95f7add61d74
     - id: null
       name: Elizabeth
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=48b6942e-1853-419e-a584-42a4a7eb4c05
+      status: c
+      status_url: https://stashdb.org/edits/ca904753-b2e4-43dd-b36a-7c000f31bff5
       notes:
+        - https://www.iafd.com/person.rme/id=48b6942e-1853-419e-a584-42a4a7eb4c05
         - https://www.imdb.com/name/nm10912755/
     - id: null
       name: Jesse
       appearance: null
       disambiguation: Dare Dorm, 2010
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d4880ed1-616d-4e7f-9710-667c4dc5c562
+      status: c
+      status_url: https://stashdb.org/edits/9781287b-902b-4fe0-a44b-83e540b40d78
+      notes:
+        - https://www.iafd.com/person.rme/id=d4880ed1-616d-4e7f-9710-667c4dc5c562
     - id: null
       name: Mary
       appearance: null
       disambiguation: Dare Dorm, 2010-08
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/e497f85a-5231-49ad-a40e-38b0c8ec392a
       notes:
         - https://www.imdb.com/name/nm10912756/
