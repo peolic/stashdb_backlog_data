@@ -9,11 +9,9 @@ performers:
       name: Dalia
       appearance: null
   append:
-    - id: null
+    - id: 414d37df-9819-4050-8ff5-fba3a119e116
       name: Sweetie Nice
       appearance: Dalia
-      status: c
-      status_url: https://stashdb.org/edits/86db0f53-c582-49d9-b7a8-664d0750ae76
       notes:
         - https://www.iafd.com/person.rme/id=ac02d2c6-ba2a-4df6-8d4e-e315caa10af4
         - https://www.indexxx.com/m/dalia-2
