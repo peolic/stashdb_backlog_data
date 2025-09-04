@@ -1,0 +1,52 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=cb6e8018-108e-4b36-9f40-fde07cabcbda
+  - https://www.imdb.com/title/tt6340912/
+performers:
+  remove:
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: null
+      name: Kenny
+      appearance: null
+    - id: 85916a57-00ad-41a2-b76e-3a68a97efda0
+      name: Jacob
+      appearance: null
+    - id: 57a55562-8d05-4ad9-aaaa-c811647946fa
+      name: Kendall
+      appearance: null
+  append:
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: 2011-07-01, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=4d9c596d-a98c-4d3a-806c-cb45404f1de2
+    - id: null
+      name: Kenny
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7b0cc4eb-d08a-4458-b8d1-e4a4ab04d5ed
+      notes:
+        - https://www.realitykings.com/model/25275/kenny
+    - id: null
+      name: Jacob
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=75cf40fe-3cde-4b7d-b77a-15dc00418e43
+      notes:
+        - https://www.realitykings.com/model/24814/jacob
+        - https://www.imdb.com/name/nm10929439/
+    - id: null
+      name: Kendall
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9e04d2b8-34e5-4fa0-a306-41c4a57e44f8
+      notes:
+        - https://www.realitykings.com/model/25277/kendall

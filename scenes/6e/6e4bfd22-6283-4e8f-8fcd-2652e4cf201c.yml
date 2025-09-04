@@ -23,10 +23,11 @@ performers:
       appearance: null
       disambiguation: Dick Dorm, 2012
       status: new
-    - id: d0db4783-e80e-4825-9bb0-8099cd1f68d5
+    - id: null
       name: Brittany
       appearance: null
-      disambiguation: Dare Dorm, 2012-03-23
+      disambiguation: Dick Dorm, 2012
+      status: new
     - id: null
       name: Nicole
       appearance: null
