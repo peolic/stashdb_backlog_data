@@ -1,0 +1,15 @@
+c_studio:
+  - Young Libertines
+  - null
+performers:
+  remove:
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+  append:
+    - id: null
+      name: Dmitriy
+      appearance: David
+      disambiguation: Private Sex Tapes
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=dea2f83d-5b5e-4c29-9176-d038a1bea4fa

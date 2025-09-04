@@ -4,12 +4,13 @@ c_studio:
 comments:
   - https://www.iafd.com/title.rme/id=cb6e8018-108e-4b36-9f40-fde07cabcbda
   - https://www.imdb.com/title/tt6340912/
+  - https://www.data18.com/scenes/1184739
 performers:
   remove:
     - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
       name: David
       appearance: null
-    - id: null
+    - id: 5dbeb152-92e6-4942-a6e5-d84cbc6cc98b
       name: Kenny
       appearance: null
     - id: 85916a57-00ad-41a2-b76e-3a68a97efda0
@@ -25,6 +26,8 @@ performers:
       disambiguation: 2011-07-01, Dare Dorm
       status: new
       status_url: https://www.iafd.com/person.rme/id=4d9c596d-a98c-4d3a-806c-cb45404f1de2
+      notes:
+        - https://wtfpass.com/models/dmitriy-cfst10/
     - id: null
       name: Kenny
       appearance: null

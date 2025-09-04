@@ -1,0 +1,21 @@
+c_studio:
+  - Sinemale
+  - null
+performers:
+  remove:
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+  append:
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: 2006, Sinemale
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=63a7e2e1-b827-483a-a212-beb5ab0a4d17
+    - id: null
+      name: Taleon
+      appearance: null
+      disambiguation: Sinemale, 2006
+      status: new
+      status_url: https://www.iafd.com/title.rme/id=3cd8a870-6f8e-446b-bf55-33c4137cea62
