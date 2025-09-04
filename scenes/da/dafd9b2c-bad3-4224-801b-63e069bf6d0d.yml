@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0ed4496b-7973-49f1-b655-88a6f6151c74
+performers:
+  remove:
+    - id: 4c0ef92d-178c-4d96-8eb3-faa1877ef169
+      name: Devin
+      appearance: null
+  append:
+    - id: null
+      name: Devin
+      appearance: null
+      disambiguation: 2012, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1f0390ea-ec05-44a1-827e-e06335a8c0d5
+      notes:
+        - https://www.realitykings.com/model/24498/devin

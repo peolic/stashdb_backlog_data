@@ -1,0 +1,15 @@
+c_studio:
+  - White Ghetto
+  - null
+performers:
+  remove:
+    - id: dc411202-4c6b-4a83-9ac9-d494eddda686
+      name: Desire
+      appearance: null
+  append:
+    - id: null
+      name: Desire
+      appearance: null
+      disambiguation: Gentlemen's Video, 2005
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=30e2563f-9d74-4742-aaa9-c7a1d3b482c2

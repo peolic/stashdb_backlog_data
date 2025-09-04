@@ -1,0 +1,24 @@
+c_studio:
+  - Pure 18
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=5ef138e4-2c64-4998-8d0b-0c0c5072e8be
+  - https://www.indexxx.com/set/35307/pure-18-devin/
+  - https://www.imdb.com/title/tt7975730/
+performers:
+  remove:
+    - id: 4c0ef92d-178c-4d96-8eb3-faa1877ef169
+      name: Devin
+      appearance: null
+  append:
+    - id: null
+      name: Devin
+      appearance: null
+      disambiguation: 2007, Pure 18
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=bce89af9-053a-46a6-b7af-9b7e4a53e388
+      notes:
+        - https://www.indexxx.com/m/devin-1
+        - https://www.imdb.com/name/nm9612626/
+        - 'Third party profile matching Aylo ID:'
+        - https://realitysitesnetwork.com/pornstars/16569/devin
