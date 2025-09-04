@@ -1,16 +1,6 @@
 split:
   name: Donnie
   fragments:
-    - column: J
-      id: null
-      name: Donnie (2014, Reality Kings)
-      notes:
-        - '- Black GFs'
-        - '- Crazy College GFs'
-      links:
-        - https://www.iafd.com/person.rme/id=012b23b9-7674-460d-a204-4ae9c9766e9d
-        - https://stashdb.org/scenes/9bed9500-2c2e-49e5-87be-ff0cdf3dd946
-        - https://stashdb.org/scenes/209c72eb-f6cd-4b71-bf77-c87f88ad4a11
     - column: K
       id: null
       name: Murat (2009-2010, Russian)

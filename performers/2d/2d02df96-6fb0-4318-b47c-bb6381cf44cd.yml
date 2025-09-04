@@ -1,13 +1,6 @@
 split:
   name: Rico
   fragments:
-    - column: I
-      id: 508e3e4f-4b93-49c2-b4d6-f523dbaea9af
-      name: Rico (2002, 8th Street Latinas)
-      text: 8th Street Latinas "Ass N Knockers"
-      links:
-        - https://www.iafd.com/person.rme/id=b40844ac-f35a-4124-8a20-107d492bd37b
-        - https://stashdb.org/scenes/23d2bbfc-4c81-4172-af6c-61c64f5c77f0
     - column: J
       id: null
       name: Rico (2006, 8th Street Latinas)
