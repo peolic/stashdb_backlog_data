@@ -1,0 +1,19 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - https://www.imdb.com/title/tt9494534/
+performers:
+  remove:
+    - id: 0a7e0611-b60b-4f77-9524-14e8a456d45d
+      name: Donnie
+      appearance: null
+  append:
+    - id: null
+      name: Donnie
+      appearance: null
+      disambiguation: In the VIP, 2010
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10351250/
+        - 'Third party matched via Aylo ID: https://realitysitesnetwork.com/pornstars/1859/donnie'

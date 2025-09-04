@@ -1,0 +1,28 @@
+c_studio:
+  - Twistys
+  - null
+comments:
+  - Redistribution of Scene 3 from White Dicks Black Chicks 2
+  - https://www.iafd.com/title.rme/id=10a2c57e-2ed6-458f-8403-260c2b5373d7
+  - https://www.indexxx.com/set/217771/twistys-diamond-b/
+performers:
+  remove:
+    - id: bc69f300-cc44-445a-9215-03b1c7fea692
+      name: Diamond B
+      appearance: null
+    - id: 34fa6c5a-4556-4826-b9e4-f4cffc92f153
+      name: Joe Schmoe
+      appearance: null
+  append:
+    - id: null
+      name: Diamond
+      appearance: Diamond B
+      disambiguation: Twistys
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ed7f7e0e-fd93-4bb7-b99b-dc7bb5a338a4
+      notes:
+        - https://www.indexxx.com/m/diamond-b
+        - https://www.imdb.com/name/nm11266851/
+    - id: 045d6c8a-66ac-4724-aa54-6964798de9f3
+      name: Mr. Pete
+      appearance: null

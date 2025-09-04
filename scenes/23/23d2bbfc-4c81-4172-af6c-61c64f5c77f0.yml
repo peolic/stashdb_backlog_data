@@ -14,22 +14,18 @@ performers:
       name: Rico
       appearance: null
   append:
-    - id: null
+    - id: e91ab7eb-db9e-42eb-b9c7-38f13f29e44b
       name: Daniella
       appearance: null
       disambiguation: 2002, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/c6799c5f-7263-4319-89c6-9b2543503700
       notes:
         - https://www.iafd.com/person.rme/id=809e0819-93e8-42d2-8b47-920ea2d9821c
         - https://www.indexxx.com/m/daniella-1
         - IMDb claims as Daniela Ognibene?
         - https://www.imdb.com/name/nm1655943/
-    - id: null
+    - id: 508e3e4f-4b93-49c2-b4d6-f523dbaea9af
       name: Rico
       appearance: null
       disambiguation: 2002, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/881b1acd-fbfb-4d70-9003-5afc830b7cbf
       notes:
         - https://www.iafd.com/person.rme/id=b40844ac-f35a-4124-8a20-107d492bd37b

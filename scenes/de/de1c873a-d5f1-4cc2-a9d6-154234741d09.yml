@@ -1,0 +1,15 @@
+c_studio:
+  - Young Throats
+  - null
+performers:
+  remove:
+    - id: 2d9ece28-058f-4227-a46d-bd7376276aea
+      name: Diamond
+      appearance: null
+  append:
+    - id: null
+      name: Diamond
+      appearance: null
+      disambiguation: Teen Core Club
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6da1cc37-c3a6-4b8a-9a2f-accd356735d0
