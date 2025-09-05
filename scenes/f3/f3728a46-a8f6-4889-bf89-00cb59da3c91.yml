@@ -11,5 +11,7 @@ performers:
       name: Desire
       appearance: null
       disambiguation: Gentlemen's Video, 2005
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=30e2563f-9d74-4742-aaa9-c7a1d3b482c2
+      status: c
+      status_url: https://stashdb.org/edits/4cba20f2-1c86-43c5-bc15-ebb1786459d7
+      notes:
+        - https://www.iafd.com/person.rme/id=30e2563f-9d74-4742-aaa9-c7a1d3b482c2
