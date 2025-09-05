@@ -7,11 +7,9 @@ performers:
       name: Dave
       appearance: null
   append:
-    - id: null
+    - id: 2c421c4b-a974-493e-96ab-3ab4beae0fe6
       name: Dave
       appearance: null
       disambiguation: 2009, Gonzo
-      status: c
-      status_url: https://stashdb.org/edits/fc548ac9-a1b4-4acb-b280-fb3f1be9f99d
       notes:
         - https://www.iafd.com/person.rme/id=2e671b3b-59c0-4acc-bc35-2f0ab354e427

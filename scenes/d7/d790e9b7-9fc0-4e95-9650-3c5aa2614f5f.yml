@@ -31,52 +31,38 @@ performers:
       name: Lj
       appearance: null
   append:
-    - id: null
+    - id: 90866efe-467b-41ef-a6d0-3543c14b98af
       name: Bobby
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/608bd55d-64a1-4a80-8717-fcfe15f20764
-    - id: null
+    - id: 90d836ee-708b-472e-83b8-7397f0108c78
       name: Benjamin
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/9305b9f1-64fa-46e8-a17f-a9cb86dfb152
     - id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
       name: David
       appearance: null
       disambiguation: Papi, 2007
-    - id: null
+    - id: d92da8fd-ece0-414f-836b-98f132b71cc1
       name: Jean
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/56562a0e-65e1-456f-97f1-75bfdc28d945
-    - id: null
+    - id: 97a05af8-ca9f-4ff1-8473-097232801d60
       name: Ian
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/dc935978-c26e-4856-9e84-71eb70ec6c4c
-    - id: null
+    - id: 90ea0fc0-0094-4039-8a18-02cd646fe29b
       name: Lee
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/6a99ab46-b899-48c7-b9b5-101bcbc9e0c1
-    - id: null
+    - id: c5533d25-9d72-422a-a018-10459576b499
       name: Jake
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/68327757-d0f2-4703-8b40-c940b208b8fd
-    - id: null
+    - id: 261b8252-27db-41e1-93b9-c7f4f003dbff
       name: Luke
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/44e10388-6712-4684-a493-38e7f4e093e9
     - id: e2ee9e04-1067-466f-8ad7-86968894ae94
       name: Lj
       appearance: null

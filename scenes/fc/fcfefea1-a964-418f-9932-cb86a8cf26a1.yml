@@ -7,11 +7,9 @@ performers:
       name: Dave
       appearance: null
   append:
-    - id: null
+    - id: f7f6b787-a5b9-43e9-a496-ba7aeb8c5667
       name: Dave
       appearance: null
       disambiguation: 2003, Men In Pain
-      status: c
-      status_url: https://stashdb.org/edits/29970436-3621-4092-bb5f-9ccbed754c1e
       notes:
         - https://www.iafd.com/person.rme/id=07d0aca8-c3bc-48f3-a83d-da1b3557972b
