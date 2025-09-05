@@ -1,5 +1,11 @@
 split:
   name: Zachary
-  fragments: []
+  fragments:
+    - column: K
+      id: 335d954b-aa06-4023-a248-176469ab8028
+      name: Zachary (Dick Dorm, 2011-11)
+      text: Dick Dorm "Glow Dicks"
+      links:
+        - https://stashdb.org/scenes/63ed6e5e-2979-468f-bdc8-add91e026272
   notes:
     - Mix of multiple performers

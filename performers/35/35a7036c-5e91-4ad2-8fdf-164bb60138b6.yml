@@ -47,7 +47,7 @@ split:
         - https://www.iafd.com/person.rme/id=4d9c596d-a98c-4d3a-806c-cb45404f1de2
         - https://stashdb.org/scenes/a8771e21-c462-447a-837b-e6ae1855140b
     - column: W
-      id: null
+      id: 2bae0a58-2882-4784-bc46-4df224e7158a
       name: David (2010, Dare Dorm)
       text: Dare Dorm "Foolish Things"
       links:
@@ -148,8 +148,8 @@ split:
       links:
         - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
     - column: AN
-      id: null
-      name: '[todo]'
+      id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
+      name: David (Papi, 2007)
       text: Papi "Banana In Tailpipe"
       links:
         - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
