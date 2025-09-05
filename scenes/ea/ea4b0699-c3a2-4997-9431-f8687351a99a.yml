@@ -11,11 +11,15 @@ performers:
       name: David
       appearance: null
       disambiguation: 2006, Sinemale
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=63a7e2e1-b827-483a-a212-beb5ab0a4d17
+      status: c
+      status_url: https://stashdb.org/edits/8e51b753-25d8-4f20-ad0b-4870cd91d23e
+      notes:
+        - https://www.iafd.com/person.rme/id=63a7e2e1-b827-483a-a212-beb5ab0a4d17
     - id: null
       name: Taleon
       appearance: null
       disambiguation: Sinemale, 2006
-      status: new
-      status_url: https://www.iafd.com/title.rme/id=3cd8a870-6f8e-446b-bf55-33c4137cea62
+      status: c
+      status_url: https://stashdb.org/edits/86669045-ef01-43c3-9f03-a11a42f85b48
+      notes:
+        - https://www.iafd.com/person.rme/id=36c23ebd-f4d5-4b81-a750-0fdc0813b83b

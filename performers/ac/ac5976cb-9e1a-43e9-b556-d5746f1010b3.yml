@@ -1,21 +1,6 @@
 split:
   name: Daniel
   fragments:
-    - column: K
-      id: 2e4d787c-90a8-4380-b79c-19e45a715e9f
-      name: Daniel (Tranny Surprise, 2006)
-      text: Tranny Surprise "Sexy Lil Thing"
-      links:
-        - https://www.iafd.com/person.rme/id=e86ff7ca-3514-4592-aacb-616a158c4ee0
-        - https://stashdb.org/scenes/e9bdcfc3-eb76-49bb-9723-d516fa6d5ead
-        - https://www.imdb.com/name/nm9502913/
-    - column: M
-      id: 8d824378-2432-45dc-af11-6def6124822e
-      name: Daniel (Dare Dorm, 2010)
-      text: Dare Dorm "Foolish Things"
-      links:
-        - https://www.iafd.com/person.rme/id=6975ba40-c42d-4607-a0d2-d1833de4eae0
-        - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
     - column: P
       id: null
       name: Daniel (Dick Dorm, 2013)

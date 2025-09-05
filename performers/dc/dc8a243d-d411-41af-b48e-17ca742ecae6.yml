@@ -10,13 +10,6 @@ split:
       links:
         - https://stashdb.org/scenes/009bf9b6-54be-48bc-a46f-8960e8cc4cf8
         - https://stashdb.org/scenes/d7e3584e-2083-4621-9eff-b455e5555999
-    - column: X
-      id: 3a11d492-a0bc-4a18-a073-59530d11a0c3
-      name: Charlie (2011, Dick Dorm)
-      text: Dick Dorm "Glow Dicks"
-      links:
-        - https://stashdb.org/scenes/63ed6e5e-2979-468f-bdc8-add91e026272
-        - https://www.iafd.com/title.rme/id=931cbfc6-cc04-4ff0-912d-8f0018d98be9
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

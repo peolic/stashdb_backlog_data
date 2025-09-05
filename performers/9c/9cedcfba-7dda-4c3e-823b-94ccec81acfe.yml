@@ -1,14 +1,7 @@
 split:
   name: Dima
-  fragments:
-    - column: L
-      id: ce9d90f3-4c6f-449f-9c04-c0ccc5c2ccbb
-      name: Dima (2011, Nasty Angels)
-      text: Nasty Angels
-      links:
-        - https://stashdb.org/scenes/f239a09f-c5b1-42dd-a579-d88d1ab524dc
-        - https://stashdb.org/scenes/56fb4321-a420-4a33-80ea-571b35572091
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-04)
     - Best to move scenes and delete performer, rather than merging or renaming.

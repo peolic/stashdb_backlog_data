@@ -1,13 +1,6 @@
 split:
   name: Elizabeth
   fragments:
-    - column: I
-      id: 6b010795-1436-4a8f-af59-91b82b39f053
-      name: Elizabeth (2010, Dare Dorm)
-      text: Dare Dorm "Foolish Things"
-      links:
-        - https://www.iafd.com/person.rme/id=48b6942e-1853-419e-a584-42a4a7eb4c05
-        - https://stashdb.org/scenes/bbd3c4d5-996b-4aa6-a022-c2ee262f1567
     - column: L
       id: null
       name: WildKatrin

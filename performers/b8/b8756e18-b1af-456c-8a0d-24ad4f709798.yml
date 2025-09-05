@@ -15,10 +15,9 @@ split:
       name: Luke (Papi, 2007)
       notes:
         - '- Papi "Double Dick"'
-        - '- Papi "Banana In Tailpipe"'
+        - "- \x02Papi \"Banana In Tailpipe\" \x03"
       links:
         - https://stashdb.org/scenes/3e409ce1-6796-4818-bad8-f3bc98749e0c
-        - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
     - column: N
       id: null
       name: Luke (Boys First Time, 2007)

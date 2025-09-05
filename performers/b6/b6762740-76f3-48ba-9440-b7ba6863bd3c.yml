@@ -75,12 +75,6 @@ split:
         - '- Dick Dorm "Man Up"'
       links:
         - https://stashdb.org/scenes/95cfe052-3e4c-4eb5-9b70-85861f142a5f
-    - column: W
-      id: c5533d25-9d72-422a-a018-10459576b499
-      name: Jake (Papi, 2007)
-      text: Papi "Banana In Tailpipe"
-      links:
-        - https://stashdb.org/scenes/d790e9b7-9fc0-4e95-9650-3c5aa2614f5f
     - column: X
       id: null
       name: Jake (Boys First Time, 2004)

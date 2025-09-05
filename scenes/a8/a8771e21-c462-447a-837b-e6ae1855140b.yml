@@ -24,32 +24,35 @@ performers:
       name: David
       appearance: null
       disambiguation: 2011-07-01, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4d9c596d-a98c-4d3a-806c-cb45404f1de2
+      status: c
+      status_url: https://stashdb.org/edits/12a1184b-127f-432f-a940-643d10de7701
       notes:
-        - https://wtfpass.com/models/dmitriy-cfst10/
+        - https://www.iafd.com/person.rme/id=4d9c596d-a98c-4d3a-806c-cb45404f1de2
     - id: null
       name: Kenny
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=7b0cc4eb-d08a-4458-b8d1-e4a4ab04d5ed
+      status: c
+      status_url: https://stashdb.org/edits/f43ff24c-18c5-4b7b-9552-be9e9970f35c
       notes:
+        - https://www.iafd.com/person.rme/id=7b0cc4eb-d08a-4458-b8d1-e4a4ab04d5ed
         - https://www.realitykings.com/model/25275/kenny
     - id: null
       name: Jacob
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=75cf40fe-3cde-4b7d-b77a-15dc00418e43
+      status: c
+      status_url: https://stashdb.org/edits/ce198b67-59e8-4b83-8ef4-dd35d562323f
       notes:
-        - https://www.realitykings.com/model/24814/jacob
+        - https://www.iafd.com/person.rme/id=75cf40fe-3cde-4b7d-b77a-15dc00418e43
+        - https://www.realitykings.com/model/25271/jacob
         - https://www.imdb.com/name/nm10929439/
     - id: null
       name: Kendall
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=9e04d2b8-34e5-4fa0-a306-41c4a57e44f8
+      status: c
+      status_url: https://stashdb.org/edits/002665ee-ae37-4d43-bc24-7aeb464ed269
       notes:
+        - https://www.iafd.com/person.rme/id=9e04d2b8-34e5-4fa0-a306-41c4a57e44f8
         - https://www.realitykings.com/model/25277/kendall

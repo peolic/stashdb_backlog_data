@@ -1,29 +1,7 @@
 split:
   name: Donnie
-  fragments:
-    - column: K
-      id: 7c247da2-f8bd-46d1-a48f-5c7175887f82
-      name: Murat (2009-2010, Russian)
-      text: Out of the Family
-      notes:
-        - He appears to be the only male Kaylie makes scenes with.
-        - 'More of his scenes, missing performer (x7):'
-      links:
-        - https://www.iafd.com/person.rme/id=4fb7c917-6e27-44e8-947a-ba574adc2518
-        - https://stashdb.org/scenes/08d73916-8b26-4493-a0d9-b405966d0378
-        - https://stashdb.org/scenes/ff8183c4-c432-41eb-b7a4-d279e719f283
-        - https://stashdb.org/scenes/88fdd65b-b753-438b-b93f-a1c306e3fe7c
-        - https://stashdb.org/scenes/d226d6e1-6a8b-4704-9e19-367d729fa171
-        - https://stashdb.org/scenes/0eb8edea-429e-4187-96c9-eb84e7a40f10
-        - https://stashdb.org/scenes/2115b71e-e4b2-4acc-8b3a-2a1a14bafb72
-        - https://stashdb.org/scenes/68333d5c-45c9-4103-b264-9887d463cab6
-        - https://stashdb.org/scenes/9fec6044-aac6-4d4c-b03f-ee597178ae43
-    - column: L
-      id: 0e72f8d6-06f8-4f5d-ab19-aa693d558204
-      name: Donnie (In the VIP, 2010)
-      text: In the VIP "Late Night Snack"
-      links:
-        - https://stashdb.org/scenes/08570e00-12d4-485b-884f-bdd86861d86a
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-09-04)
     - Best to move scenes and delete performer, rather than merging or renaming.

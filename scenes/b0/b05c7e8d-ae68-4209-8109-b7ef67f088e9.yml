@@ -15,5 +15,7 @@ performers:
       name: David
       appearance: null
       disambiguation: 2008, Mike's Apartment
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b86a040c-0995-4776-b553-df62c94bdcee
+      status: c
+      status_url: https://stashdb.org/edits/5f897bb6-a59a-4846-bde8-1cc3ccc7905d
+      notes:
+        - https://www.iafd.com/person.rme/id=b86a040c-0995-4776-b553-df62c94bdcee
