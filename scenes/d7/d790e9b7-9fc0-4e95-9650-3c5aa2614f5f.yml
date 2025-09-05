@@ -43,12 +43,10 @@ performers:
       disambiguation: Papi, 2007
       status: c
       status_url: https://stashdb.org/edits/9305b9f1-64fa-46e8-a17f-a9cb86dfb152
-    - id: null
+    - id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
       name: David
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/13637273-1161-4311-a9b6-720971e32c29
     - id: null
       name: Jean
       appearance: null
@@ -79,9 +77,7 @@ performers:
       disambiguation: Papi, 2007
       status: c
       status_url: https://stashdb.org/edits/44e10388-6712-4684-a493-38e7f4e093e9
-    - id: null
+    - id: e2ee9e04-1067-466f-8ad7-86968894ae94
       name: Lj
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/92d6c5f4-74f6-4ce8-b45e-97a1295191e4

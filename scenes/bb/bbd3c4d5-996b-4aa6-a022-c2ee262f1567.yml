@@ -21,28 +21,22 @@ performers:
       name: Mary
       appearance: null
   append:
-    - id: null
+    - id: 8d824378-2432-45dc-af11-6def6124822e
       name: Daniel
       appearance: null
       disambiguation: Dare Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/765e3e3d-d9ce-43ec-9efd-0075f6d1f402
       notes:
         - https://www.iafd.com/person.rme/id=6975ba40-c42d-4607-a0d2-d1833de4eae0
-    - id: null
+    - id: 2bae0a58-2882-4784-bc46-4df224e7158a
       name: David
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/00eb9fdf-b2ee-4daa-ac63-5a76f21156c8
       notes:
         - https://www.iafd.com/person.rme/id=31a0196b-6033-4c22-bd16-95f7add61d74
-    - id: null
+    - id: 6b010795-1436-4a8f-af59-91b82b39f053
       name: Elizabeth
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/ca904753-b2e4-43dd-b36a-7c000f31bff5
       notes:
         - https://www.iafd.com/person.rme/id=48b6942e-1853-419e-a584-42a4a7eb4c05
         - https://www.imdb.com/name/nm10912755/

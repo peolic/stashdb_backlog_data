@@ -7,12 +7,10 @@ performers:
       name: Danielle
       appearance: null
   append:
-    - id: null
+    - id: 58d42ab1-1e86-47e6-8a88-03e844a1d01c
       name: Petra
       appearance: Danielle
       disambiguation: ATKingdom, pet038
-      status: c
-      status_url: https://stashdb.org/edits/159f1914-ca3b-420a-94ff-f3c653573c11
       notes:
         - https://www.iafd.com/person.rme/id=36719d21-9214-4ff0-b945-2378cd4f411f
         - https://www.indexxx.com/m/petra-2

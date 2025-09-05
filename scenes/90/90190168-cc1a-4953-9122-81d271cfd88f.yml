@@ -7,11 +7,9 @@ performers:
       name: Dave
       appearance: null
   append:
-    - id: null
+    - id: 59393bf7-6eb0-4bb9-b187-c46c90f42464
       name: Dave
       appearance: null
       disambiguation: 2015, Male Reality
-      status: c
-      status_url: https://stashdb.org/edits/292249b8-272a-41b4-928f-d80c281443df
       notes:
         - https://www.iafd.com/person.rme/id=712f106a-b259-496f-a48e-71f71eac73a2
