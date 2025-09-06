@@ -1,20 +1,13 @@
 split:
   name: Denise
   fragments:
-    - column: J
-      id: ae9471cd-e724-4c86-9f2c-cffc63b42f93
-      name: Denise (2005, Dangerous Dongs)
-      text: Dangerous Dongs "Vanilla Creme"
-      links:
-        - https://www.iafd.com/person.rme/id=5243e164-ee01-4565-88b7-d4cef5261152
-        - https://www.indexxx.com/m/denise-19
-        - https://stashdb.org/scenes/cc4150e5-0e9e-4321-8be8-c23ef975e566
     - column: K
-      id: null
+      id: 021986e0-fbcf-4221-9624-96589acc9fb0
       name: Denise (Buttman Goes To Rio)
       text: Evil Angel "Buttman Goes To Rio - Scene 5"
       links:
         - https://www.iafd.com/person.rme/id=b783c7c9-7816-4edf-8aaa-c906f434cf63
         - https://stashdb.org/scenes/ca83d0db-e545-4bb7-a912-66be3f45d504
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-11-26)
