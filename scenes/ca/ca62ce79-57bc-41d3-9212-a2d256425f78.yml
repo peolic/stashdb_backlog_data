@@ -3,6 +3,7 @@ c_studio:
   - null
 comments:
   - https://www.iafd.com/title.rme/id=81db9bc2-2666-4eb7-8eec-24817eed0dd7
+  - The performer was originally credited as Dominic Osso but the scene alias was not set when the scene was created.
 performers:
   remove:
     - id: 49bb480c-5632-45b7-acff-0381f08f7508
@@ -12,7 +13,8 @@ performers:
     - id: null
       name: Dominic Osso
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5588dfd8-224c-4e83-bb04-0a4246fb513f
+      status: c
+      status_url: https://stashdb.org/edits/f5e16f4b-11e0-4e0c-8d85-2b48dec5318d
       notes:
+        - https://www.iafd.com/person.rme/id=5588dfd8-224c-4e83-bb04-0a4246fb513f
         - https://www.realitykings.com/model/73971/dominic-osso

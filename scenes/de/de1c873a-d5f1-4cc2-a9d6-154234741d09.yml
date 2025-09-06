@@ -11,5 +11,7 @@ performers:
       name: Diamond
       appearance: null
       disambiguation: Teen Core Club
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6da1cc37-c3a6-4b8a-9a2f-accd356735d0
+      status: c
+      status_url: https://stashdb.org/edits/dbe7f524-1388-4fff-9954-6ac39cbf6ad2
+      notes:
+        - https://www.iafd.com/person.rme/id=6da1cc37-c3a6-4b8a-9a2f-accd356735d0

@@ -18,9 +18,10 @@ performers:
       name: Diamond
       appearance: Diamond B
       disambiguation: Twistys
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ed7f7e0e-fd93-4bb7-b99b-dc7bb5a338a4
+      status: c
+      status_url: https://stashdb.org/edits/4a2ab6ff-f8c8-4c82-aa4c-b0aff7b56fa1
       notes:
+        - https://www.iafd.com/person.rme/id=ed7f7e0e-fd93-4bb7-b99b-dc7bb5a338a4
         - https://www.indexxx.com/m/diamond-b
         - https://www.imdb.com/name/nm11266851/
     - id: 045d6c8a-66ac-4724-aa54-6964798de9f3
