@@ -1,0 +1,17 @@
+c_studio:
+  - Bang Bus
+  - null
+performers:
+  remove:
+    - id: a5667b49-dd41-43e0-82d0-de7c405b8925
+      name: Eric
+      appearance: null
+  append:
+    - id: null
+      name: Eric
+      appearance: null
+      disambiguation: 2020, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5f260c3e-f83e-4d9c-a357-7a1e5f04a84e
+      notes:
+        - https://bangbros.com/model/370811/eric

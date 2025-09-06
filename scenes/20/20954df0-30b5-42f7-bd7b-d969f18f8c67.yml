@@ -1,0 +1,17 @@
+c_studio:
+  - Doctor Adventures
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a26682dd-296f-4636-9635-69a2d0346f3f
+performers:
+  remove:
+    - id: 9e81750d-7343-4763-9768-4b63387dcbb7
+      name: Enrique
+      appearance: null
+  append:
+    - id: null
+      name: Enrique
+      appearance: null
+      disambiguation: 2005, Doctor Adventures
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d8121f52-601d-4e17-ab6d-ee8863a22a0a

@@ -1,0 +1,17 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677563/woodmancastingx-emilia/
+performers:
+  remove:
+    - id: ad5a522a-ec35-4e4c-82c7-13ceed1e071f
+      name: Emilia
+      appearance: null
+  append:
+    - id: null
+      name: Emilia
+      appearance: null
+      disambiguation: 1993, Woodman
+      status: new
+      status_url: https://www.indexxx.com/m/emilia-7

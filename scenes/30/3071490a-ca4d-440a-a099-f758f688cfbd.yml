@@ -1,0 +1,23 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677336/woodmancastingx-elie-erika/
+performers:
+  remove:
+    - id: 38d44273-4546-44f4-adc6-18fadc77e3da
+      name: Erika And Elie
+      appearance: null
+  append:
+    - id: null
+      name: Erika
+      appearance: null
+      disambiguation: Woodman Casting X, 1992
+      status: new
+      status_url: https://www.indexxx.com/m/erika-31
+    - id: null
+      name: Elie
+      appearance: null
+      disambiguation: Woodman Casting X, 1992
+      status: new
+      status_url: https://www.indexxx.com/m/elie
