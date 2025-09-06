@@ -1,13 +1,6 @@
 split:
   name: Denise
-  fragments:
-    - column: K
-      id: 021986e0-fbcf-4221-9624-96589acc9fb0
-      name: Denise (Buttman Goes To Rio)
-      text: Evil Angel "Buttman Goes To Rio - Scene 5"
-      links:
-        - https://www.iafd.com/person.rme/id=b783c7c9-7816-4edf-8aaa-c906f434cf63
-        - https://stashdb.org/scenes/ca83d0db-e545-4bb7-a912-66be3f45d504
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2023-11-26)
