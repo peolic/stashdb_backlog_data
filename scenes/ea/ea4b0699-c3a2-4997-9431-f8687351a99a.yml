@@ -7,19 +7,15 @@ performers:
       name: David
       appearance: null
   append:
-    - id: null
+    - id: dac1456e-f089-4ffd-b454-8ea5c0276960
       name: David
       appearance: null
       disambiguation: 2006, Sinemale
-      status: c
-      status_url: https://stashdb.org/edits/8e51b753-25d8-4f20-ad0b-4870cd91d23e
       notes:
         - https://www.iafd.com/person.rme/id=63a7e2e1-b827-483a-a212-beb5ab0a4d17
-    - id: null
+    - id: 3db51be0-1ea4-4cf9-927d-afde854b924e
       name: Taleon
       appearance: null
       disambiguation: Sinemale, 2006
-      status: c
-      status_url: https://stashdb.org/edits/86669045-ef01-43c3-9f03-a11a42f85b48
       notes:
         - https://www.iafd.com/person.rme/id=36c23ebd-f4d5-4b81-a750-0fdc0813b83b

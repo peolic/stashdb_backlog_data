@@ -10,11 +10,9 @@ performers:
       name: David
       appearance: null
   append:
-    - id: null
+    - id: 2e5f8676-9d4e-4b0b-ba52-246255a063af
       name: David
       appearance: null
       disambiguation: 2002, Butt Machine Boys
-      status: c
-      status_url: https://stashdb.org/edits/8bf4ba12-0054-4028-82d1-5c275e376cd0
       notes:
         - https://www.iafd.com/person.rme/id=c5ca50d6-081e-4539-9f2f-72d2c039d5c1

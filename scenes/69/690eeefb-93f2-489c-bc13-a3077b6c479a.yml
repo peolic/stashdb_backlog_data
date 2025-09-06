@@ -7,11 +7,9 @@ performers:
       name: David
       appearance: null
   append:
-    - id: null
+    - id: 54d607ba-e506-4834-b42c-3a0dbe7916e8
       name: Richard Moulton
       appearance: David
-      status: c
-      status_url: https://stashdb.org/edits/8003bb95-07da-41ec-8d12-af993a8abd25
       notes:
         - https://www.iafd.com/person.rme/id=34bed6e9-b7c8-4d34-9d48-e679407c5a66
         - https://www.adultfilmdatabase.com/director/1306/richard-moulton/

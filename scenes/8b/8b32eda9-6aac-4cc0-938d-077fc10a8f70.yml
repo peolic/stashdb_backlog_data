@@ -11,12 +11,10 @@ performers:
       name: Dennis
       appearance: null
   append:
-    - id: null
+    - id: d2a86564-1163-4895-bafa-c61e27785230
       name: Dennis
       appearance: null
       disambiguation: 2002, Cum Fiesta
-      status: c
-      status_url: https://stashdb.org/edits/1d64f15d-28ce-49b2-9e1f-9c6b1617b573
       notes:
         - https://www.iafd.com/person.rme/id=f8b33b37-4fab-473a-adbb-2c70b06a8b5e
         - https://www.imdb.com/name/nm9614782/

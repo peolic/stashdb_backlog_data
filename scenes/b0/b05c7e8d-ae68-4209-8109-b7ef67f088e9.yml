@@ -11,11 +11,9 @@ performers:
       name: David
       appearance: null
   append:
-    - id: null
+    - id: a39879b6-7d21-4282-af29-a63352fe161d
       name: David
       appearance: null
       disambiguation: 2008, Mike's Apartment
-      status: c
-      status_url: https://stashdb.org/edits/5f897bb6-a59a-4846-bde8-1cc3ccc7905d
       notes:
         - https://www.iafd.com/person.rme/id=b86a040c-0995-4776-b553-df62c94bdcee
