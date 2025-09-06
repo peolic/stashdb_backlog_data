@@ -1,13 +1,6 @@
 split:
   name: Dennis
   fragments:
-    - column: L
-      id: d2a86564-1163-4895-bafa-c61e27785230
-      name: Dennis (2002, Cum Fiesta)
-      text: Cum Fiesta "Dick By The Pound"
-      links:
-        - https://www.iafd.com/person.rme/id=f8b33b37-4fab-473a-adbb-2c70b06a8b5e
-        - https://stashdb.org/scenes/8b32eda9-6aac-4cc0-938d-077fc10a8f70
     - column: N
       id: null
       name: Dennis (Boys First Time, 2013)
@@ -15,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/9750fe61-f4ab-43b2-8659-ea79c12fcb81
         - https://www.themoviedb.org/person/4995818-dennis
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

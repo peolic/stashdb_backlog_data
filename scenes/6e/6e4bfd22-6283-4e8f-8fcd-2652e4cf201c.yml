@@ -24,10 +24,11 @@ performers:
       disambiguation: Dick Dorm, 2012
       status: new
     - id: null
-      name: Brittany
-      appearance: null
-      disambiguation: Dick Dorm, 2012
+      name: Maria
+      appearance: Brittany
+      disambiguation: Reality Kings, 2012
       status: new
+      status_url: https://www.iafd.com/person.rme/id=53131bbd-7ef0-466f-b69c-156d794cdeb1
     - id: null
       name: Nicole
       appearance: null

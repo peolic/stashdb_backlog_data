@@ -1,0 +1,13 @@
+c_studio:
+  - Casual Teen Sex
+  - null
+performers:
+  remove:
+    - id: b38d24d8-ad8e-44aa-9277-b228e3039545
+      name: Phillip
+      appearance: null
+  append:
+    - id: b38d24d8-ad8e-44aa-9277-b228e3039545
+      name: Ilia
+      appearance: Phillip
+      disambiguation: TeenMegaWorld, 2008
