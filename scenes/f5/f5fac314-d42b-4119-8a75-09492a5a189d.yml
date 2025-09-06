@@ -11,12 +11,10 @@ performers:
       name: Desire
       appearance: null
   append:
-    - id: null
+    - id: ecdbec63-fee3-4047-b014-12698fce716e
       name: Desire
       appearance: null
       disambiguation: 2011, No Faces
-      status: c
-      status_url: https://stashdb.org/edits/9a1c1874-895e-482b-8bc8-f51d554a9067
       notes:
         - https://www.iafd.com/person.rme/id=4a7031d4-b4c6-4e6c-98f2-c971e7986f74
         - https://www.indexxx.com/m/desire-7

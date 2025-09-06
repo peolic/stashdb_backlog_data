@@ -11,12 +11,10 @@ performers:
       name: Devin
       appearance: null
   append:
-    - id: null
+    - id: 06da02d3-b58e-484b-9fd4-d6d899e74e07
       name: Devin
       appearance: null
       disambiguation: 2007, Pure 18
-      status: c
-      status_url: https://stashdb.org/edits/c47e9cf0-eb53-42b5-aae0-cae4481f8b8c
       notes:
         - https://www.iafd.com/person.rme/id=bce89af9-053a-46a6-b7af-9b7e4a53e388
         - https://www.indexxx.com/m/devin-1
