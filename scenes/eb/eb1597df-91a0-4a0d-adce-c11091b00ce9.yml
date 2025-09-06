@@ -14,12 +14,10 @@ performers:
       name: Joe Schmoe
       appearance: null
   append:
-    - id: null
+    - id: acea29a5-b203-474c-8593-c9b46a3d9f2f
       name: Diamond
       appearance: Diamond B
       disambiguation: Twistys
-      status: c
-      status_url: https://stashdb.org/edits/4a2ab6ff-f8c8-4c82-aa4c-b0aff7b56fa1
       notes:
         - https://www.iafd.com/person.rme/id=ed7f7e0e-fd93-4bb7-b99b-dc7bb5a338a4
         - https://www.indexxx.com/m/diamond-b

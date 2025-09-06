@@ -10,11 +10,9 @@ performers:
       name: Dominic
       appearance: null
   append:
-    - id: null
+    - id: d14aa2da-7908-409f-980b-d0e16e17a2c3
       name: Dominic Osso
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/f5e16f4b-11e0-4e0c-8d85-2b48dec5318d
       notes:
         - https://www.iafd.com/person.rme/id=5588dfd8-224c-4e83-bb04-0a4246fb513f
         - https://www.realitykings.com/model/73971/dominic-osso

@@ -10,12 +10,10 @@ performers:
       name: Diamond
       appearance: null
   append:
-    - id: null
+    - id: 53dab99b-a7c4-4f50-ba43-f5aea86f5ca2
       name: Diamond
       appearance: null
       disambiguation: Hungary, 2003-2009
-      status: c
-      status_url: https://stashdb.org/edits/8459b816-e4e5-4ddc-a86e-a73a9fd8db14
       notes:
         - https://www.iafd.com/person.rme/id=12b17b92-ad5b-4c62-81e8-2812451aa280
         - https://www.indexxx.com/m/diamond
