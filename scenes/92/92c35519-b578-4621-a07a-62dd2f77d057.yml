@@ -9,11 +9,9 @@ performers:
       name: Dylan
       appearance: null
   append:
-    - id: null
+    - id: 351b3a1d-4edc-4e86-be8d-3a18fe3a5d7a
       name: Dylan
       appearance: null
       disambiguation: 2011-09, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/47dddd5c-5f6d-4ee1-8f6c-9280d44dde84
       notes:
         - https://www.iafd.com/person.rme/id=f2490c76-bcd3-4cef-b134-51fb6410c201
