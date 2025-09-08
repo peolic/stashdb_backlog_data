@@ -13,5 +13,7 @@ performers:
       name: Emilia
       appearance: null
       disambiguation: 1993, Woodman
-      status: new
-      status_url: https://www.indexxx.com/m/emilia-7
+      status: c
+      status_url: https://stashdb.org/edits/ca1c18ec-d8a5-458e-875a-876264bfd9b1
+      notes:
+        - https://www.indexxx.com/m/emilia-7

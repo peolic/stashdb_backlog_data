@@ -14,5 +14,7 @@ performers:
       name: Elizabeth
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a96285f0-2145-40ac-98e8-f6da608dc08a
+      status: c
+      status_url: https://stashdb.org/edits/d4e85344-aa54-43f6-9a02-4a5c39db01e4
+      notes:
+        - https://www.iafd.com/person.rme/id=a96285f0-2145-40ac-98e8-f6da608dc08a

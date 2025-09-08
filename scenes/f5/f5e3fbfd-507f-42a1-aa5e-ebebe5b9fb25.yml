@@ -13,5 +13,7 @@ performers:
       name: Ella
       appearance: null
       disambiguation: 1994, Woodman
-      status: new
-      status_url: https://www.indexxx.com/m/ella-4
+      status: c
+      status_url: https://stashdb.org/edits/4c426b2b-f0e4-43a6-b9fb-df94edc1f876
+      notes:
+        - https://www.indexxx.com/m/ella-4
