@@ -1,0 +1,22 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=9f30b9c4-7d15-4179-be9d-c79d04e75627
+  - https://www.indexxx.com/set/33226/8th-street-latinas-nocera/
+  - https://www.imdb.com/title/tt6638044/
+performers:
+  remove:
+    - id: f0f7c7fb-8f4e-4aa0-ac6e-2eddc37540d7
+      name: Felix
+      appearance: null
+  append:
+    - id: null
+      name: Felix
+      appearance: null
+      disambiguation: 2002, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=035ab9f2-6766-49cb-bb7d-fcb6d64b68b7
+      notes:
+        - https://www.imdb.com/name/nm8841874/
+        - 'Affiliate profile: https://realitysitesnetwork.com/pornstars/16647/felix'
