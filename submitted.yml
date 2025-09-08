@@ -1,23 +1,4 @@
-scenes:
-  - f3728a46-a8f6-4889-bf89-00cb59da3c91
-  - de1c873a-d5f1-4cc2-a9d6-154234741d09
-  - c3675dad-4d10-40b2-8b2e-4f8df3566af2
-  - 75151992-16ba-444c-bb2c-39a63f04e02e
-  - 5531443b-a0a7-4dcd-9378-7135ff256a58
-  - 9b86409b-fd6c-47fb-b343-25aad5b4e5fa
-  - 93999d7d-57fb-4f33-a731-90347311fffd
-  - 209aa5c1-4b42-4495-9cb1-e5f83bec5a2f
-  - ce257b04-0c50-4c80-ab7a-15be9be05fc2
-  - e4dccb92-cfae-4f68-87d6-c00733eb7962
-  - 189434e3-6804-41cc-b1ab-ccff71aaad9d
-  - 4488f459-9b69-468d-b8e3-6a5ac10f88bf
-  - 3485bff4-37e1-4d3f-809b-2666d824d0fb
-  - 817c976c-f306-4cb2-9c3a-32716a6ad07a
-  - 2d3fde9d-0c20-48fe-ad91-7410db69bfa1
-  - fd976349-2e69-42d1-9de0-d6c61acd06fb
-  - 7ab5876a-b1d8-4700-b398-0e8198c85e5c
-  - a2e875f7-b14f-4bc5-8fa6-47dc101a1ced
-  - 56e91af1-adce-47f6-91f5-ab1000b534a2
+scenes: []
 performers:
   - 52b8b946-f423-4b2e-b9fd-12660c3573a0
   - dc411202-4c6b-4a83-9ac9-d494eddda686
