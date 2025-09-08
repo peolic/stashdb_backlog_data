@@ -11,12 +11,10 @@ performers:
       name: Elizabeth
       appearance: null
   append:
-    - id: null
+    - id: c96ed980-9f41-461e-83a8-7011159d6212
       name: Elizabeth
       appearance: null
       disambiguation: 2009, Shady PI
-      status: c
-      status_url: https://stashdb.org/edits/902078ff-af4e-4b2f-941f-f7f3ec95c3bb
       notes:
         - https://www.iafd.com/person.rme/id=14abdab2-b7a9-4b4a-a4ab-3110918d951b
         - https://www.indexxx.com/m/elizabeth-11

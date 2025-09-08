@@ -9,11 +9,9 @@ performers:
       name: Enrique
       appearance: null
   append:
-    - id: null
+    - id: 49c50053-8a40-413f-a4c4-0580ac749482
       name: Enrique
       appearance: null
       disambiguation: 2005, Doctor Adventures
-      status: c
-      status_url: https://stashdb.org/edits/cfe56ffe-6a0e-416d-820b-8016dbd20d8f
       notes:
         - https://www.iafd.com/person.rme/id=d8121f52-601d-4e17-ab6d-ee8863a22a0a

@@ -1,0 +1,21 @@
+c_studio:
+  - Pegas Productions
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=e9e29a4b-0f0b-4c09-90c7-843db2817000
+performers:
+  remove:
+    - id: 3dfda311-a8ed-4d08-b105-645720597333
+      name: Gabriella
+      appearance: null
+  append:
+    - id: null
+      name: Gabriella Moore
+      appearance: Gabriella
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ea010f49-a979-486d-8d96-8ced767519c8
+  update:
+    - id: 766f5d8b-0daf-4c0a-8484-dd2015037be3
+      name: Shelby Belle
+      appearance: Shelby Bell
+      old_appearance: null

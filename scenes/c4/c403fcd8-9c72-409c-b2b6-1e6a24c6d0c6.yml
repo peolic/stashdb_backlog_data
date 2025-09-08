@@ -9,11 +9,9 @@ performers:
       name: Ella
       appearance: null
   append:
-    - id: null
+    - id: bcb64ace-3135-4d16-a0f1-2462ac6adf1d
       name: Ella
       appearance: null
       disambiguation: 1992, Woodman
-      status: c
-      status_url: https://stashdb.org/edits/327e0e0b-4e51-4d29-bc95-27a831936f13
       notes:
         - https://www.indexxx.com/m/ella-2

@@ -1,0 +1,22 @@
+c_studio:
+  - Men In Pain
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=5c605287-3763-4334-87e4-88b5dcf5c91f
+  - https://www.indexxx.com/set/705930/men-in-pain-gabrielle/
+  - https://www.clips4sale.com/studio/214833/27496179/gabrielle-and-brandon
+  - https://www.data18.com/scenes/156677
+performers:
+  remove:
+    - id: d1e5ad30-8697-4299-9ffc-4c4a3a5584e3
+      name: Gabrielle
+      appearance: null
+  append:
+    - id: null
+      name: Gabrielle
+      appearance: null
+      disambiguation: 2006, Men In Pain
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d10dfb39-22e8-4f3e-b4ab-79c855f8d2bc
+      notes:
+        - https://www.indexxx.com/m/gabrielle-8

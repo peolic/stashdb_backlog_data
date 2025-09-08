@@ -7,11 +7,9 @@ performers:
       name: Erika
       appearance: null
   append:
-    - id: null
+    - id: 246517ea-b904-4034-8bcc-0e5b47f7592d
       name: Erica
       appearance: Erika
       disambiguation: 2004, V9
-      status: c
-      status_url: https://stashdb.org/edits/d962b367-59fc-4deb-bfab-678f48d0239c
       notes:
         - https://www.iafd.com/person.rme/id=5618c810-97a7-43da-9c9d-cfe6bd28797d

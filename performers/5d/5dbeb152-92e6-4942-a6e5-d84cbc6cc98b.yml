@@ -1,13 +1,5 @@
 split:
   name: Kenny
-  fragments:
-    - column: I
-      id: ee940538-0fa7-455f-be31-7cb2e0c184aa
-      name: Kenny (Dare Dorm, 2011)
-      text: Dare Dorm "Get A Head"
-      links:
-        - https://www.iafd.com/person.rme/id=7b0cc4eb-d08a-4458-b8d1-e4a4ab04d5ed
-        - https://www.realitykings.com/model/25275/kenny
-        - https://stashdb.org/scenes/a8771e21-c462-447a-837b-e6ae1855140b
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)

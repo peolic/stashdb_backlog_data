@@ -9,12 +9,10 @@ performers:
       name: Ella
       appearance: null
   append:
-    - id: null
+    - id: b4b5a461-a5f6-4eef-b61d-ad1054a7e13e
       name: Ella
       appearance: null
       disambiguation: 2008, Money Talks
-      status: c
-      status_url: https://stashdb.org/edits/ca2305e2-9870-4eeb-a033-3c8c486e03ac
       notes:
         - https://www.iafd.com/person.rme/id=7050782c-af01-4b37-95ed-6d165614b441
         - https://www.indexxx.com/m/ella-3

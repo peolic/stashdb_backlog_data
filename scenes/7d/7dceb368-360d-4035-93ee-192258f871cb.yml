@@ -1,0 +1,20 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0f4969aa-e369-44cd-a09f-cd5f284089d8
+  - https://www.data18.com/scenes/1184906
+performers:
+  remove:
+    - id: 3dfda311-a8ed-4d08-b105-645720597333
+      name: Gabriella
+      appearance: null
+  append:
+    - id: null
+      name: Gabriella
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fa4e18cb-3988-4885-be82-e37fd24e2a37
+      notes:
+        - https://www.realitykings.com/model/25916/gabriella

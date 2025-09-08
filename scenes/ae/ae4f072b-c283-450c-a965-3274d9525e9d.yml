@@ -7,12 +7,10 @@ performers:
       name: Eric
       appearance: null
   append:
-    - id: null
+    - id: 8d7d7cff-b691-480a-98aa-0975f98e32d6
       name: Eric
       appearance: null
       disambiguation: Paragon Men, 2018
-      status: c
-      status_url: https://stashdb.org/edits/0f308760-2886-4438-978c-c78b980e6e25
       notes:
         - https://www.iafd.com/person.rme/id=5f260c3e-f83e-4d9c-a357-7a1e5f04a84e
         - https://bangbros.com/model/370811/eric

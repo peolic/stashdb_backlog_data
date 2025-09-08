@@ -1,21 +1,6 @@
 split:
   name: Dusty
-  fragments:
-    - column: M
-      id: f9545c1f-6e5c-4952-b432-394bdfa249d5
-      name: Dusty Rose
-      text: Peter North
-      links:
-        - https://www.iafd.com/person.rme/id=b8fc60d4-350b-46db-8168-a79913604bb4
-        - https://stashdb.org/scenes/ce257b04-0c50-4c80-ab7a-15be9be05fc2
-    - column: N
-      id: 8cc5ba06-7179-4f61-9d2d-7113698beeeb
-      name: Dusty (Burning Angel)
-      text: at least 2009 scene, probably the 2008 scene as well
-      links:
-        - https://www.iafd.com/person.rme/id=b1257e9e-19ba-4107-8e4c-bb4c30146973
-        - https://stashdb.org/scenes/0f393e6c-1de8-44e4-a7ac-c3b891d3ec22
-        - https://stashdb.org/scenes/03cc97ff-76cc-413b-b659-9c13987f11bb
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-13)

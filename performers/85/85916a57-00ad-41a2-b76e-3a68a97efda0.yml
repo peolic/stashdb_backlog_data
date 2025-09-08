@@ -17,14 +17,6 @@ split:
         - https://www.iafd.com/person.rme/id=71a4a6aa-0d68-4953-8eb2-b15f57bc30a9
         - https://stashdb.org/scenes/ee4b7259-490c-47d5-b4af-fbf2374104be
         - https://www.realitykings.com/model/24814/jacob
-    - column: O
-      id: 5022fd82-d61d-41a3-8955-b3d954a2e922
-      name: Jacob (2011, Dare Dorm)
-      text: Dare Dorm "Get A Head"
-      links:
-        - https://www.iafd.com/person.rme/id=75cf40fe-3cde-4b7d-b77a-15dc00418e43
-        - https://stashdb.org/scenes/a8771e21-c462-447a-837b-e6ae1855140b
-        - https://www.realitykings.com/model/24814/jacob
     - column: P
       id: null
       name: Chad
