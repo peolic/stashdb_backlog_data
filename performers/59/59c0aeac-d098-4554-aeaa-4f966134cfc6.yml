@@ -1,28 +1,7 @@
 split:
   name: Ella
-  fragments:
-    - column: K
-      id: b4b5a461-a5f6-4eef-b61d-ad1054a7e13e
-      name: Ella (2008, Money Talks)
-      text: Money Talks
-      links:
-        - https://www.iafd.com/person.rme/id=7050782c-af01-4b37-95ed-6d165614b441
-        - https://www.indexxx.com/m/ella-3
-        - https://stashdb.org/scenes/80398c09-abcc-496e-9019-d645b6832f90
-    - column: L
-      id: bcb64ace-3135-4d16-a0f1-2462ac6adf1d
-      name: Ella (1992, Woodman)
-      text: Woodman Casting X (2011)
-      links:
-        - https://www.indexxx.com/m/ella-2
-        - https://stashdb.org/scenes/c403fcd8-9c72-409c-b2b6-1e6a24c6d0c6
-    - column: M
-      id: ccf91d5b-74bd-4bb0-8de4-700ba8b83606
-      name: Ella (1994, Woodman)
-      text: Woodman Casting X (2009)
-      links:
-        - https://www.indexxx.com/m/ella-4
-        - https://stashdb.org/scenes/f5e3fbfd-507f-42a1-aa5e-ebebe5b9fb25
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-06-27)
     - Best to move scenes and delete performer, rather than merging or renaming.

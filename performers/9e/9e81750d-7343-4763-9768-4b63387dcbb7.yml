@@ -1,13 +1,6 @@
 split:
   name: Enrique
   fragments:
-    - column: K
-      id: 49c50053-8a40-413f-a4c4-0580ac749482
-      name: Enrique (2005, Doctor Adventures)
-      text: Doctor Adventures
-      links:
-        - https://www.iafd.com/person.rme/id=d8121f52-601d-4e17-ab6d-ee8863a22a0a
-        - https://stashdb.org/scenes/20954df0-30b5-42f7-bd7b-d969f18f8c67
     - column: L
       id: null
       name: Enrique (Boys First Time, 2002)

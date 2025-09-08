@@ -1,0 +1,9 @@
+c_studio:
+  - Bushy Bushy
+  - null
+performers:
+  remove:
+    - id: 58c29432-3d2e-4181-9680-4089b3368df7
+      name: Hana
+      appearance: null
+  append: []

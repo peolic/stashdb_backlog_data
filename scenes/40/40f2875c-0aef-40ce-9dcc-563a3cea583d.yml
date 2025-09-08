@@ -1,0 +1,17 @@
+c_studio:
+  - Jacquie & Michel TV
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=6b8cd873-09ab-4dc4-9ab6-b112401cd63c
+performers:
+  remove:
+    - id: bec6612f-7f7f-4dd4-a928-67c339acb6a0
+      name: Giovanni
+      appearance: null
+  append:
+    - id: null
+      name: Giovanni
+      appearance: null
+      disambiguation: jacquieetmicheltv.net, 2019
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ec0a62c-500e-48b1-9293-93bbc1758374

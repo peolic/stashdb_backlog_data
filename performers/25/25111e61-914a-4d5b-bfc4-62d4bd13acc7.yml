@@ -1,17 +1,7 @@
 split:
   name: Emily
-  fragments:
-    - column: S
-      id: a99d046e-9e88-4934-80d8-4652b0e327ed
-      name: Emily / Beatrice ?
-      text: Teen Mega World
-      links:
-        - https://www.iafd.com/person.rme/id=2304c8b2-93e0-49a3-a6e1-086f5a37fee4
-        - https://www.indexxx.com/m/emily-24
-        - https://stashdb.org/scenes/334ad7a8-2cda-4bfe-9ad0-0a68f2c2b2e6
-        - https://stashdb.org/scenes/e0b4e127-d9a4-49bc-b8fc-99ae602f391a
-        - https://teenmegaworld.net/models/emily.html
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-16)
     - Best to move scenes and delete performer, rather than merging or renaming.
