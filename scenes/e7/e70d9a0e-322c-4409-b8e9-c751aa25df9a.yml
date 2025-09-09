@@ -1,0 +1,16 @@
+c_studio:
+  - Submissed
+  - null
+performers:
+  remove:
+    - id: 00f00023-9b0b-45f7-ac2a-14f39e3c9959
+      name: Madison
+      appearance: null
+  append:
+    - id: null
+      name: Madison
+      appearance: null
+      disambiguation: 2012, Wasteland Studios
+      status: new
+      notes:
+        - http://www.bdsm-list.net/gallery/wasteland/0011-np/
