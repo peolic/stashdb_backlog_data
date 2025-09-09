@@ -9,11 +9,9 @@ performers:
       name: Gabriella
       appearance: null
   append:
-    - id: null
+    - id: a91854c3-1e2d-43a5-9a39-c4d5cf46a2f6
       name: Gabriella Moore
       appearance: Gabriella
-      status: c
-      status_url: https://stashdb.org/edits/983d3aec-1028-4853-a3c3-ea6344c0cd38
       notes:
         - https://www.iafd.com/person.rme/id=ea010f49-a979-486d-8d96-8ced767519c8
   update:

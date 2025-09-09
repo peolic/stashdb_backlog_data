@@ -10,12 +10,10 @@ performers:
       name: Gabriella
       appearance: null
   append:
-    - id: null
+    - id: 5d59a49c-6e20-45b0-9123-417b941bd41b
       name: Gabriella
       appearance: null
       disambiguation: 2010, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/208a32f2-e4ac-4afe-b229-bddf056ddadd
       notes:
         - https://www.iafd.com/person.rme/id=fa4e18cb-3988-4885-be82-e37fd24e2a37
         - https://www.realitykings.com/model/25916/gabriella
