@@ -1,0 +1,42 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a9897b48-c3ed-4daf-a6bb-f43b4ca24380
+  - https://www.imdb.com/title/tt6263500/
+performers:
+  remove:
+    - id: d74f0ccc-d79f-4617-85da-879b72776765
+      name: Harley
+      appearance: null
+    - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
+      name: Jason
+      appearance: null
+    - id: fc0a38c7-b1ad-426e-b01a-141f9c7dedd0
+      name: Lacey
+      appearance: null
+  append:
+    - id: null
+      name: Harley
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=77dd4d4e-d043-41e0-ae5d-d1490bd77a3b
+      notes:
+        - https://www.imdb.com/name/nm9242385/
+    - id: null
+      name: Jason
+      appearance: null
+      disambiguation: Dare Dorm, 2010-09-24
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8f84caa8-99d2-474f-9903-b7075dc8d0a1
+      notes:
+        - https://www.realitykings.com/model/24889/jason
+    - id: null
+      name: Lacey
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      notes:
+        - https://www.realitykings.com/model/24891/lacey
+        - https://www.imdb.com/name/nm9242387/

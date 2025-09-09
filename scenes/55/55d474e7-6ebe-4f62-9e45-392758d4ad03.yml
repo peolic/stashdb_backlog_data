@@ -1,0 +1,22 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=715552d0-0eff-4152-a93f-cce1850c968d
+  - https://www.data18.com/scenes/13500
+  - https://www.imdb.com/title/tt6638054/
+performers:
+  remove:
+    - id: 76bffae2-df55-4f4c-8b99-bb377c679d65
+      name: Hector
+      appearance: null
+  append:
+    - id: null
+      name: Hector
+      appearance: null
+      disambiguation: 2003, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=05595e5e-385a-4bed-ae2e-e6f5d6479d40
+      notes:
+        - https://www.imdb.com/name/nm8841949/
+        - 'Affiliate profile: https://realitysitesnetwork.com/pornstars/11099/hector'
