@@ -9,19 +9,15 @@ performers:
       name: Erika And Elie
       appearance: null
   append:
-    - id: null
+    - id: c04d16a3-7bcf-4a7a-84dd-350fd87aedff
       name: Erika
       appearance: null
       disambiguation: Woodman Casting X, 1992
-      status: c
-      status_url: https://stashdb.org/edits/024f107f-4743-4de9-9ed3-f6bcf4dfeb49
       notes:
         - https://www.indexxx.com/m/erika-31
-    - id: null
+    - id: f7b28258-7c20-47a8-9a73-6a71c263e188
       name: Elie
       appearance: null
       disambiguation: Woodman Casting X, 1992
-      status: c
-      status_url: https://stashdb.org/edits/645f47f6-455f-46ad-969b-f5290547e160
       notes:
         - https://www.indexxx.com/m/elie
