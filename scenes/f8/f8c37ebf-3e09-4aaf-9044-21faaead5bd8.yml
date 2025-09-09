@@ -11,12 +11,10 @@ performers:
       name: Felix
       appearance: null
   append:
-    - id: null
+    - id: b8fb3a48-4709-4608-9a09-bee940f00c3f
       name: Felix
       appearance: null
       disambiguation: 2002, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/5a435a66-b886-4079-929e-75bac04c2e79
       notes:
         - https://www.iafd.com/person.rme/id=035ab9f2-6766-49cb-bb7d-fcb6d64b68b7
         - https://www.imdb.com/name/nm8841874/
