@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=c71556a9-9a6f-4a12-a5b3-12f2ecd4b476
+performers:
+  remove:
+    - id: 85916a57-00ad-41a2-b76e-3a68a97efda0
+      name: Jacob
+      appearance: null
+  append:
+    - id: null
+      name: Jacob
+      appearance: null
+      disambiguation: 2012, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d68db959-bbb9-49a1-b30c-5c51939a2c85
+      notes:
+        - https://www.realitykings.com/model/24814/jacob

@@ -1,0 +1,18 @@
+c_studio:
+  - Teen Sex Movs
+  - null
+performers:
+  remove:
+    - id: bd029a9c-238d-4819-8094-503afffb1f9f
+      name: Izabella
+      appearance: null
+  append:
+    - id: null
+      name: Izabella
+      appearance: null
+      disambiguation: 2007, Teen Mega World
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=49407d07-9011-4e1c-bd0b-10514cf6d05c
+      notes:
+        - https://www.indexxx.com/m/izabella-2
+        - https://teenmegaworld.net/models/izabella.html

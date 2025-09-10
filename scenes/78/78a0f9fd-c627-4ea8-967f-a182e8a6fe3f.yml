@@ -1,0 +1,20 @@
+c_studio:
+  - My Naughty Latin Maid
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=4b8581ea-9fd9-43b3-9407-16427ff80f75
+  - https://www.indexxx.com/set/39456/my-naughty-latin-maid-isabella/
+performers:
+  remove:
+    - id: 180acde9-3d16-4632-a872-b757d4f05a78
+      name: Isabella
+      appearance: null
+  append:
+    - id: null
+      name: Isabella
+      appearance: null
+      disambiguation: 2004, My Naughty Latin Maid
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=74590f02-5190-4957-9c26-3bf2f37e7c0a
+      notes:
+        - https://www.indexxx.com/m/isabella-41
