@@ -1,13 +1,6 @@
 split:
   name: Felix
   fragments:
-    - column: M
-      id: b8fb3a48-4709-4608-9a09-bee940f00c3f
-      name: Felix (2002, 8th Street Latinas)
-      text: 8th Street Latinas "Hotel Buns"
-      links:
-        - https://www.iafd.com/person.rme/id=035ab9f2-6766-49cb-bb7d-fcb6d64b68b7
-        - https://stashdb.org/scenes/f8c37ebf-3e09-4aaf-9044-21faaead5bd8
     - column: N
       id: null
       name: Felix (2013, Sell Your GF)

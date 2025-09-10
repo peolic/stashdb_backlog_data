@@ -1,16 +1,5 @@
 split:
   name: Gabriel
-  fragments:
-    - column: K
-      id: 44e4eb21-5efa-421b-95c3-08105b33fcaa
-      name: Gabriel (2002-2003, Butt Machine Boys)
-      text: Butt Machine Boys
-      links:
-        - https://www.iafd.com/person.rme/id=64d132e8-670c-47b5-8076-da1d99426dca
-        - https://stashdb.org/scenes/2228e5b0-4ec6-44a9-a3c1-8861ccfec805
-        - https://stashdb.org/scenes/3ccca749-7122-464d-87ca-99dde47ace3e
-        - https://stashdb.org/scenes/2494349f-9303-46f0-b0e9-fadcf1456176
-        - https://stashdb.org/scenes/307c9a7c-ea5a-4cd3-b6eb-b7955d1893df
-        - https://stashdb.org/scenes/fc6bba5c-c051-4548-966e-2ca4cc1a3cd8
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
