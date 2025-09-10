@@ -9,12 +9,10 @@ performers:
       name: Flower
       appearance: null
   append:
-    - id: null
-      name: Yvette
+    - id: f163f3f6-7377-4e77-a964-00850701fe08
+      name: Ivetta
       appearance: Flower
-      disambiguation: All Over 30, 2013
-      status: c
-      status_url: https://stashdb.org/edits/e898e0ed-9c31-4fe5-a125-6d92e8d24e4a
+      disambiguation: Mature.nl
       notes:
         - https://www.iafd.com/person.rme/id=4e62228c-1888-4ab6-81b6-7b599d6c7790
         - https://www.indexxx.com/m/yvette-8
