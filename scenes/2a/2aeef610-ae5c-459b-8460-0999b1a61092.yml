@@ -1,0 +1,23 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/678135/woodmancastingx-beata-ildico/
+performers:
+  remove:
+    - id: f551c8d9-1d02-4431-8ee3-b66140f27baa
+      name: Ildico & Beata
+      appearance: null
+  append:
+    - id: null
+      name: Ildico
+      appearance: null
+      disambiguation: Woodman Casting X, 1999
+      status: new
+      status_url: https://www.indexxx.com/m/ildico-2
+    - id: null
+      name: Beata
+      appearance: null
+      disambiguation: Woodman Casting X, 1999
+      status: new
+      status_url: https://www.indexxx.com/m/beata-14
