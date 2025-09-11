@@ -1,0 +1,15 @@
+c_studio:
+  - My Teen Oasis
+  - null
+performers:
+  remove:
+    - id: d0648f5f-63f7-4f76-b79a-c8ec72380ce8
+      name: Joe
+      appearance: null
+  append:
+    - id: null
+      name: Joe
+      appearance: null
+      disambiguation: My Teen Oasis
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1317d582-3c42-4968-b9d5-209506209bbf

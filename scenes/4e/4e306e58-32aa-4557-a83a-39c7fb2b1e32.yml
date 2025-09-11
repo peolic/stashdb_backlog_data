@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=066daded-23a1-4459-b8f6-0e47817b2f2d
+performers:
+  remove:
+    - id: eebbb363-276f-4f52-b0a8-03d1632aea25
+      name: Jill
+      appearance: null
+  append:
+    - id: null
+      name: Jill
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ffea4840-1d7d-47be-a6e5-0447698f542c
+      notes:
+        - https://www.realitykings.com/model/25259/jill

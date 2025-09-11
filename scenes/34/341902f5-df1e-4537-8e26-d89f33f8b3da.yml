@@ -1,0 +1,14 @@
+c_studio:
+  - Twistys
+  - null
+performers:
+  remove:
+    - id: 34fa6c5a-4556-4826-b9e4-f4cffc92f153
+      name: Joe Schmoe
+      appearance: null
+  append:
+    - id: null
+      name: Simon Synister
+      appearance: Joe Schmoe
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fb3b56b0-9fe4-4c3c-bff4-4f2076737805

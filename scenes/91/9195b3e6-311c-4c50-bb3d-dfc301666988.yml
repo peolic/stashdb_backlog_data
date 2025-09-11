@@ -1,0 +1,19 @@
+c_studio:
+  - Sex Mex
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a3254543-930b-41c1-a074-1f8c9e670bb0
+performers:
+  remove:
+    - id: 89e74a45-8d83-43db-a043-7752d9a6160c
+      name: Joana
+      appearance: null
+  append:
+    - id: null
+      name: Joana
+      appearance: null
+      disambiguation: 2006, SexMex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9914a0eb-939d-4cee-ab76-11dcf8103203
+      notes:
+        - https://sexmex.xxx/tour/models/joana-sexmex.html

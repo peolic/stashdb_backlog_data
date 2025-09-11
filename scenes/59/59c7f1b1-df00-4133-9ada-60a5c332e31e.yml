@@ -1,0 +1,15 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: d0648f5f-63f7-4f76-b79a-c8ec72380ce8
+      name: Joe
+      appearance: null
+  append:
+    - id: null
+      name: Joe
+      appearance: null
+      disambiguation: Boys First Time, 2013
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=cf55477a-80ab-4cfb-997a-a6faaa1ad567

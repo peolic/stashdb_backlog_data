@@ -1,0 +1,20 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=5e3c507e-858c-457b-acb7-9c3a3a923685
+performers:
+  remove:
+    - id: de5644af-e500-4719-983b-c517baa62b7e
+      name: Joey
+      appearance: null
+      disambiguation: Reality King
+  append:
+    - id: null
+      name: Joey
+      appearance: null
+      disambiguation: Reality Kings 26343
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2efa3ecf-7e3b-41e9-8061-599eae226540
+      notes:
+        - https://www.realitykings.com/model/26243/joey

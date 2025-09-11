@@ -1,21 +1,12 @@
 c_studio:
-  - Home Porno Tapes
+  - Girls Next Door Abused
   - null
 performers:
   remove:
-    - id: b079f264-16c1-48b5-9049-ad089488d607
-      name: Dallas
-      appearance: null
-      disambiguation: 2006-2018
     - id: 89e74a45-8d83-43db-a043-7752d9a6160c
       name: Joana
       appearance: null
   append:
-    - id: null
-      name: Dallas
-      appearance: null
-      disambiguation: Home Porno Tapes
-      status: new
     - id: null
       name: Jenny
       appearance: Joana

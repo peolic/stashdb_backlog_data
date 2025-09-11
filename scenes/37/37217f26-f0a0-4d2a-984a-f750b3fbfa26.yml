@@ -1,0 +1,22 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=6f9c6ad4-6dde-47bd-8176-2773590a10f1
+  - https://www.imdb.com/title/tt6227214/
+performers:
+  remove:
+    - id: d0648f5f-63f7-4f76-b79a-c8ec72380ce8
+      name: Joe
+      appearance: null
+  append:
+    - id: null
+      name: Carlos
+      appearance: Joe
+      disambiguation: Reality Kings, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=76ab76b8-957b-46a0-8fd8-7de832c680f9
+      notes:
+        - https://www.iafd.com/person.rme/id=a5e265ac-1557-4564-a581-3fbd8d64bb33
+        - https://www.realitykings.com/model/25430/joe
+        - https://www.imdb.com/name/nm9494576/

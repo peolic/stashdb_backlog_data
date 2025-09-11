@@ -1,0 +1,11 @@
+c_studio:
+  - Peter North
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: J.R. Nelson
+      appearance: Joe Schmoe
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=78dbf04f-f282-485c-83cc-e6799228f246
