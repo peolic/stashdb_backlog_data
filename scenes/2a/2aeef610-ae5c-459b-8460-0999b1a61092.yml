@@ -9,19 +9,15 @@ performers:
       name: Ildico & Beata
       appearance: null
   append:
-    - id: null
+    - id: 7c745cff-a5e5-4739-a4e1-a50b0584ade4
       name: Ildico
       appearance: null
       disambiguation: Woodman Casting X, 1999
-      status: c
-      status_url: https://stashdb.org/edits/1d4018e0-d31e-420e-90ea-6f7c411fa220
       notes:
         - https://www.indexxx.com/m/ildico-2
-    - id: null
+    - id: 3ee1033c-4449-4312-85f5-e02704d333aa
       name: Beata
       appearance: null
       disambiguation: Woodman Casting X, 1999
-      status: c
-      status_url: https://stashdb.org/edits/2e29cd19-869b-4c60-b8e9-0e332b5c5f78
       notes:
         - https://www.indexxx.com/m/beata-14

@@ -7,12 +7,10 @@ performers:
       name: Jackie
       appearance: null
   append:
-    - id: null
+    - id: 80160d4d-3adf-4351-9216-b26ef1d99938
       name: Jackie
       appearance: null
       disambiguation: Silverstone, 1998-2001
-      status: c
-      status_url: https://stashdb.org/edits/461dbe32-d5ba-41b5-99bc-590624dd9b9d
       notes:
         - https://www.iafd.com/person.rme/id=7bbc0bc5-621d-4c94-aadf-7bae380fca4b
         - https://www.indexxx.com/m/jackie-7

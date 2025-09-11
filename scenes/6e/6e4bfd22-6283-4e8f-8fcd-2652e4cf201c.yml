@@ -23,12 +23,10 @@ performers:
       appearance: null
       disambiguation: Dick Dorm, 2012
       status: new
-    - id: null
+    - id: 86382e89-35e7-409d-94e8-e07a4ba32dc3
       name: Maria
       appearance: null
       disambiguation: Reality Kings, 2012
-      status: c
-      status_url: https://stashdb.org/edits/01cbd842-ee8e-4943-839a-cd73f7759c14
       notes:
         - https://www.iafd.com/person.rme/id=53131bbd-7ef0-466f-b69c-156d794cdeb1
     - id: null
