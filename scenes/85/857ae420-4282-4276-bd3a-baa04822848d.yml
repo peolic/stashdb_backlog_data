@@ -1,0 +1,25 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=5222fd2f-3b69-47e8-b614-437885eda935
+  - https://www.indexxx.com/set/105210/bang-bus-jewelz/
+  - https://bangbros.com/video/9130011/in-the-nick-of-time
+performers:
+  remove:
+    - id: 5351a716-a50f-49a0-9148-d1c1676a229a
+      name: Jewelz
+      appearance: null
+  append:
+    - id: null
+      name: Jewelz
+      appearance: null
+      disambiguation: 2010, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3c3195e5-506b-42ac-ac3f-88c2bf06cbcf
+      notes:
+        - https://www.indexxx.com/m/jewelz
+        - https://bangbros.com/model/393921/jewelz
+    - id: b3c5e7b2-d877-41f4-a330-bcd4d90cd841
+      name: Tony Rubino
+      appearance: null

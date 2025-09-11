@@ -1,0 +1,21 @@
+c_studio:
+  - Teen Sex Mania
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=8be0365d-d3bc-47a9-9db7-6eb6a0dc6ba9
+  - https://www.indexxx.com/set/431589/teen-sex-mania-janice/
+performers:
+  remove:
+    - id: 317eaec8-5909-4969-a24c-2d0f9e050d34
+      name: Janice
+      appearance: null
+  append:
+    - id: null
+      name: Janice
+      appearance: null
+      disambiguation: 2010, Teen Mega World
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=05181d15-579a-4f97-a69e-5ab3addc07b0
+      notes:
+        - https://www.indexxx.com/m/janice-4
+        - https://teenmegaworld.net/models/janice.html

@@ -1,0 +1,30 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=aadd2ed0-ff2f-4773-9d17-fbeb90c1ecb6
+performers:
+  remove:
+    - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
+      name: Jason
+      appearance: null
+    - id: e57e5f77-b6a6-4c7a-a7aa-56917cd99511
+      name: Ryan
+      appearance: null
+  append:
+    - id: null
+      name: Jason
+      appearance: null
+      disambiguation: Dare Dorm, 2010-09-24
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b9e17f9b-60b1-4e12-b993-04e71a2acebd
+      notes:
+        - https://www.realitykings.com/model/24728/jason
+    - id: null
+      name: Ryan
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5ff91677-3863-4cf0-84c9-fd562b240cfc
+      notes:
+        - https://www.realitykings.com/model/24734/ryan

@@ -1,0 +1,30 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=31a0c075-6e58-48d2-a693-01b7ba92adcb
+performers:
+  remove:
+    - id: 150ef0f3-1cff-4a7c-b8b0-0729300c2608
+      name: Jessica
+      appearance: null
+    - id: 14090f4c-94d3-4bac-9ceb-cf403b5f14d8
+      name: Jr
+      appearance: null
+  append:
+    - id: null
+      name: Jessica
+      appearance: null
+      disambiguation: Dare Dorm, 2009-10
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b8728d72-1160-410d-9c4b-c13a726ec1fa
+      notes:
+        - https://www.realitykings.com/model/26002/jessica
+    - id: null
+      name: JR
+      appearance: Jr
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d3d982dc-10cc-40a0-86ab-04b22f4d2738
+      notes:
+        - https://www.realitykings.com/model/26004/jr

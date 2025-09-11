@@ -1,0 +1,18 @@
+c_studio:
+  - Butt Machine Boys
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=dd926a51-9f10-4e8e-acd9-06a224baa29b
+  - https://www.kinkmen.com/shoot/971
+performers:
+  remove:
+    - id: a0e61619-4281-408d-b449-14af5b638d9e
+      name: Jeremy
+      appearance: null
+  append:
+    - id: null
+      name: Jeremy
+      appearance: null
+      disambiguation: 2003, Butt Machine Boys
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2a3a708a-e256-4e4f-97a5-49eaac5fb426

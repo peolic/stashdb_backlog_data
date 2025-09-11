@@ -1,0 +1,28 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 4d2baf0a-2791-42a6-a5f0-b135b75a8844
+      name: Jennifer
+      appearance: null
+    - id: f88d2135-7e03-4595-a9a9-819c6243e7a4
+      name: Nicolas
+      appearance: null
+  append:
+    - id: null
+      name: Jennifer
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e56fadc8-238a-4be2-a843-f30c8fa01e70
+      notes:
+        - https://www.imdb.com/name/nm10936850/
+    - id: null
+      name: Nicolas
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b2a57f56-3831-48b1-8b87-b9cc41a60f62
+      notes:
+        - https://www.realitykings.com/model/24518/nicolas

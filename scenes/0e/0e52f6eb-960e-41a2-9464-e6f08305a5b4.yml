@@ -1,0 +1,25 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #27, Scene #3'
+performers:
+  remove:
+    - id: 86da656e-d1ee-44e1-aea5-b455dbbbcf07
+      name: Jean
+      appearance: null
+    - id: c2ca1493-4c81-4241-a9c7-c47c7c05c971
+      name: Jay
+      appearance: null
+  append:
+    - id: null
+      name: Amber
+      appearance: Jean
+      disambiguation: 2005, V9
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=51b8d960-98c9-4d1c-b42d-3965f32ace5b
+    - id: null
+      name: Jay
+      appearance: null
+      disambiguation: 2005, V9
+      status: new

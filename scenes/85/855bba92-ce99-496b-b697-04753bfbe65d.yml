@@ -1,0 +1,15 @@
+c_studio:
+  - Tranny Surprise
+  - null
+performers:
+  remove:
+    - id: 193e84e7-7637-4944-86bb-ad12827596e8
+      name: Jasmin
+      appearance: null
+  append:
+    - id: null
+      name: Jasmin
+      appearance: null
+      disambiguation: 2003, Tranny Surprise
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fdd798bc-0578-4c7e-aa67-cd2b8104692d

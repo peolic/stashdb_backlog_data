@@ -1,0 +1,20 @@
+c_studio:
+  - Big Naturals
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=dd49428d-9609-451a-8aed-30962de38b1f
+  - https://www.indexxx.com/set/32006/big-naturals-iris-jelena/
+performers:
+  remove:
+    - id: 22b552c1-88d9-4596-b7bb-90fb3c1158c4
+      name: Jelena
+      appearance: null
+  append:
+    - id: null
+      name: Jelena
+      appearance: null
+      disambiguation: 2006, Big Naturals
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=10d6768a-e5ab-47fa-a206-35bc6da238c4
+      notes:
+        - https://www.indexxx.com/m/jelena-1

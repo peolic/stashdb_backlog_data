@@ -1,0 +1,21 @@
+c_studio:
+  - Wired Pussy
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=3c1ae5dc-705b-4d6f-bee0-1c146cceef0d
+  - https://www.indexxx.com/set/704646/wired-pussy-jessie/
+performers:
+  remove:
+    - id: a7669e73-ab8c-41ec-9e06-38f83791628b
+      name: Jessie
+      appearance: null
+  append:
+    - id: null
+      name: Jessie
+      appearance: null
+      disambiguation: Kink, 2006
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9425faad-6ed3-4160-a56e-ffbb7b411ebd
+      notes:
+        - https://www.indexxx.com/m/jessie-6
+        - https://www.kink.com/model/11645/Jessie

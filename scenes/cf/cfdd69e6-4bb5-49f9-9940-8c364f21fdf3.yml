@@ -1,0 +1,31 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 98b4cb43-bc98-4c25-b5a0-8933474dac96
+      name: Javier
+      appearance: null
+    - id: 5d8b86ba-051c-4e68-b8ff-227085387056
+      name: Mallory
+      appearance: null
+  append:
+    - id: null
+      name: Javier Copolla
+      appearance: Javier
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5265cb9a-7e84-4211-94e1-bd91c9824ca1
+      notes:
+        - https://www.imdb.com/name/nm10673259/
+        - https://www.realitykings.com/model/24862/javier
+        - https://www.pornbox.com/application/model/92468
+        - https://ibb.co/9mfNxQMt
+    - id: null
+      name: Mallory
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0a1cef43-f4a8-4ef3-8f5c-b36ecda1ba3c
+      notes:
+        - https://www.realitykings.com/model/20214/mallory
+        - Mallory is the brunette
