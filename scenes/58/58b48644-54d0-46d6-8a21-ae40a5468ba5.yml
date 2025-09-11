@@ -1,0 +1,19 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=32760606-be18-4910-a8c4-284ab5d132a0
+performers:
+  remove:
+    - id: 0c660c26-fc2f-4e69-bffa-acf787e49c6c
+      name: Jamie
+      appearance: null
+  append:
+    - id: null
+      name: Jamie
+      appearance: null
+      disambiguation: 2004, In the VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b8068e89-1ddd-4786-9a06-b4d29c89ff8b
+      notes:
+        - https://www.indexxx.com/m/jamie-5

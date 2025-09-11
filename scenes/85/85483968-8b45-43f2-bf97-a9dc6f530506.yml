@@ -1,0 +1,19 @@
+c_studio:
+  - Horny Birds
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=211e9f20-8e5e-43ab-bc81-589e34ac6897
+performers:
+  remove:
+    - id: b4063992-ce54-4285-ae5f-3cedbd7fcd8f
+      name: James
+      appearance: null
+  append:
+    - id: null
+      name: James
+      appearance: null
+      disambiguation: Horny Birds, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3524da32-2a36-4c20-b73a-29058eff743b
+      notes:
+        - https://www.realitykings.com/model/25596/james

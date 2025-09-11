@@ -1,16 +1,6 @@
 split:
   name: Izabella
   fragments:
-    - column: I
-      id: null
-      name: Izabella (2007, Teen Mega World)
-      text: Teen Mega World
-      links:
-        - https://www.iafd.com/person.rme/id=49407d07-9011-4e1c-bd0b-10514cf6d05c
-        - https://www.indexxx.com/m/izabella-2
-        - https://stashdb.org/scenes/dfcc1761-1f69-4890-b300-8f1299be62dd
-        - https://stashdb.org/scenes/211d44fe-c650-4125-bdf9-2d743daefed4
-        - https://stashdb.org/scenes/99d198eb-021e-4fed-bd69-eddaf2279981
     - column: N
       id: null
       name: Izabella (2011, Woodman)
@@ -18,6 +8,7 @@ split:
       links:
         - https://www.indexxx.com/m/izabella-7
         - https://stashdb.org/scenes/6568f8d1-05b2-4a5a-ab86-cffa75b7c098
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-01-02)
     - Best to move scenes and delete performer, rather than merging or renaming.

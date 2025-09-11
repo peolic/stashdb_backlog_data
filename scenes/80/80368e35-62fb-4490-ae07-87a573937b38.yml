@@ -1,0 +1,27 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=aea749db-a467-4911-9601-26305a44711c
+performers:
+  remove:
+    - id: 71b05c7c-84c3-4746-a7f9-7885102e0e91
+      name: Michelleextra
+      appearance: null
+  append:
+    - id: null
+      name: Jamie
+      appearance: null
+      disambiguation: 2004, In the VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b8068e89-1ddd-4786-9a06-b4d29c89ff8b
+      notes:
+        - https://www.indexxx.com/m/jamie-5
+    - id: null
+      name: Michelle
+      appearance: Michelleextra
+      disambiguation: In the VIP, 2004
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b6149634-71ec-4610-9c7c-a3bce04245af
+      notes:
+        - https://www.indexxx.com/m/michelleextra-1

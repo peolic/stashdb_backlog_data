@@ -8,34 +8,7 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=9be91601-e57f-45f6-af21-19e4827d52ed
         - https://stashdb.org/scenes/64c1ef33-dff1-4f27-bab3-2ee1ed276aa0
-    - column: N
-      id: null
-      name: Irina
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/irina-12
-        - https://stashdb.org/scenes/43e02a2c-87a6-4af9-895f-730f44de89aa
-    - column: O
-      id: null
-      name: Irina
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/irina-22
-        - https://stashdb.org/scenes/2fc5b887-db61-4e79-87c0-8a8d327152dc
-    - column: P
-      id: null
-      name: Irina
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/irina-4
-        - https://stashdb.org/scenes/4f1cdb8c-2f7b-4496-9d3e-a54829973722
-    - column: Q
-      id: null
-      name: Irina
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/irina-5
-        - https://stashdb.org/scenes/34c6c664-4c74-41db-8474-49a1d959b12e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-02-17)
     - Best to move scenes and delete performer, rather than merging or renaming.

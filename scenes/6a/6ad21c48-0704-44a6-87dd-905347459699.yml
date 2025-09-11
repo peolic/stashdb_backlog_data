@@ -1,0 +1,19 @@
+c_studio:
+  - Men In Pain
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=ccb77ac2-3688-479d-9f71-92f388a55e20
+performers:
+  remove:
+    - id: b4063992-ce54-4285-ae5f-3cedbd7fcd8f
+      name: James
+      appearance: null
+  append:
+    - id: null
+      name: James
+      appearance: null
+      disambiguation: 2005-2006, Men In Pain
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d824b3a8-0ec5-4d54-b087-3299a1b5ba22
+      notes:
+        - https://www.kink.com/model/10539/James

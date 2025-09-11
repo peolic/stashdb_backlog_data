@@ -1,33 +1,7 @@
 split:
   name: Gabriella
-  fragments:
-    - column: S
-      id: null
-      name: Gabriella (Woodman Casting X, 2012)
-      notes:
-        - '- Woodman Casting X "Gabriella" 2012-04-07'
-      links:
-        - https://www.indexxx.com/m/gabriella-13
-        - https://www.indexxx.com/set/675424/woodmancastingx-gabriella/
-        - https://stashdb.org/scenes/6387f720-bb93-486e-979c-be3d0af35bf6
-    - column: T
-      id: null
-      name: Gabriella (Woodman Casting X, 2009)
-      notes:
-        - '- Woodman Casting X "Gabriella" 2010-09-01'
-      links:
-        - https://www.indexxx.com/m/gabriella-18
-        - https://www.indexxx.com/set/676385/woodmancastingx-gabriella/
-        - https://stashdb.org/scenes/9d312262-8faa-4012-a59c-f6f892fa2c11
-    - column: U
-      id: null
-      name: Gabriella (Woodman Casting X, 2002)
-      notes:
-        - '- Woodman Casting X "Gabriella" 2009-05-09'
-      links:
-        - https://www.indexxx.com/m/gabriella-19
-        - https://www.indexxx.com/set/677568/woodmancastingx-gabriella/
-        - https://stashdb.org/scenes/8754972f-04ce-4b3f-bf12-6b6bb331c53d
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
