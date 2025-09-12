@@ -1,0 +1,30 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - 'awesomeness: which one of the performers in Kayla''s picture is actually Kayla?'
+performers:
+  remove:
+    - id: 7c82803f-d0b5-4b8b-9233-13dd75e7f65c
+      name: Jonathan
+      appearance: null
+    - id: eb377fa4-b733-4edb-bcde-df025764c930
+      name: Kayla
+      appearance: null
+  append:
+    - id: null
+      name: Jonathan
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b1d05baa-5260-4e4a-8cd7-81db5b2fd456
+      notes:
+        - https://www.realitykings.com/model/26560/jonathan
+    - id: null
+      name: Kayla
+      appearance: null
+      disambiguation: 2010-12, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d10247af-a65c-485a-8a0e-ff9c0c676a4d
+      notes:
+        - https://www.realitykings.com/model/26554/kayla

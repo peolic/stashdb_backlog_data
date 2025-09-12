@@ -1,0 +1,17 @@
+c_studio:
+  - Black GFs
+  - null
+performers:
+  remove:
+    - id: ef6976c0-bf2f-4d9d-a072-49b9dedf9369
+      name: Jose
+      appearance: null
+  append:
+    - id: null
+      name: Jose
+      appearance: null
+      disambiguation: 2013-2014, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6b332846-aa77-4816-87b9-b22106c32a17
+      notes:
+        - https://www.realitykings.com/model/25736/jose

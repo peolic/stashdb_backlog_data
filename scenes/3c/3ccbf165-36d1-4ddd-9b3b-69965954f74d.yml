@@ -1,0 +1,19 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=22546e5a-c4b2-4a6b-bec2-91c3ebba2800
+performers:
+  remove:
+    - id: 88ee2661-3efc-4dcc-a182-28e6e1af2c85
+      name: Jorge
+      appearance: null
+  append:
+    - id: null
+      name: Jorge
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=690cbb20-b5a6-46b7-8e51-0bdf0d6562b3
+      notes:
+        - https://www.realitykings.com/model/25762/jorge
