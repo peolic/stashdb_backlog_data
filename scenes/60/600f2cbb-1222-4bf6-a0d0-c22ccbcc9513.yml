@@ -1,0 +1,29 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/676573/woodmancastingx-judith-szuza/
+performers:
+  remove:
+    - id: 6beb00d3-5080-4d73-b728-c4f538c273e9
+      name: Judith And Szuza
+      appearance: null
+  append:
+    - id: null
+      name: Judith
+      appearance: null
+      disambiguation: Woodman Casting X, 1999
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=656ebe3c-bb7f-47dc-8c15-bfc00b478c87
+      notes:
+        - https://www.egafd.com/actresses/details.php/id/J00459
+        - https://www.indexxx.com/m/judith-17
+    - id: null
+      name: Szuza
+      appearance: null
+      disambiguation: Woodman Casting X, 1999
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=48434f7a-0ab6-44da-8120-2e921e0283d6
+      notes:
+        - https://www.egafd.com/actresses/details.php/id/S00879
+        - https://www.indexxx.com/m/szuza

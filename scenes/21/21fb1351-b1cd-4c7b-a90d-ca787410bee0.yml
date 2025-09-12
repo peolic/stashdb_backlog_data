@@ -1,0 +1,20 @@
+c_studio:
+  - Monster Curves
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=2db4e82e-70de-41f1-95cc-7d9c447439a7
+  - https://www.indexxx.com/set/35350/monster-curves-katarina/
+performers:
+  remove:
+    - id: 29ef258c-4748-4e41-bd6b-ce2efe0ec8ec
+      name: Katarina
+      appearance: null
+  append:
+    - id: null
+      name: Katarina
+      appearance: null
+      disambiguation: 2008, Monster Curves
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0b097990-2b43-457d-b3c7-49be4af6ae8a
+      notes:
+        - https://www.indexxx.com/m/katarina-3

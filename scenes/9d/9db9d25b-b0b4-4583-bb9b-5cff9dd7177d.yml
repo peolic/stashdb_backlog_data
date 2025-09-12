@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=d65dcb9e-6998-4c0b-aacd-b5e6a9998e6e
+performers:
+  remove:
+    - id: e141a74f-cb3b-4886-a99d-48d4cd2e2537
+      name: Julia
+      appearance: null
+  append:
+    - id: null
+      name: Julia
+      appearance: null
+      disambiguation: 2011, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a7b4cfce-3b67-42f7-b5b2-815e6b7d27d2
+      notes:
+        - https://www.realitykings.com/model/24918/julia
