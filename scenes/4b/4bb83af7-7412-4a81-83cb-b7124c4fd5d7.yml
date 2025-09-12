@@ -1,0 +1,16 @@
+c_studio:
+  - ALS Scan
+  - null
+performers:
+  remove:
+    - id: a5c7e58a-0324-4a62-a57a-0eb0ee4313ed
+      name: Josh
+      appearance: null
+  append:
+    - id: null
+      name: Josh
+      appearance: null
+      disambiguation: ALS Scan, 2010
+      status: new
+      notes:
+        - https://www.alsscan.com/model/josh/movies/latest

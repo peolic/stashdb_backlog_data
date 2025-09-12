@@ -12,6 +12,7 @@ comments:
   - https://ibb.co/5hJyVW3y
   - https://ibb.co/LzPVX97p
   - Assuming Brittany and Maria are not the same, that suggests that Brittany is not in this scene.
+  - Joseph is a non-sex performer
 performers:
   remove:
     - id: 3f069653-0ecd-4f2e-9124-ab1b02aff387
@@ -34,3 +35,11 @@ performers:
       appearance: null
       disambiguation: Dick Dorm, 2012
       status: new
+    - id: null
+      name: Joseph
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=25f96152-01b6-4988-81d4-212e512d1370
+      notes:
+        - https://www.realitykings.com/model/24582/joseph

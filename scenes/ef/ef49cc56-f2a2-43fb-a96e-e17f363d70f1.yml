@@ -1,0 +1,19 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=917f8acd-603f-4115-848a-58e6270b4547
+performers:
+  remove:
+    - id: 8d9f5e14-8f7c-4e8a-a631-237c7968f292
+      name: Joseph
+      appearance: null
+  append:
+    - id: null
+      name: Joseph
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=25f96152-01b6-4988-81d4-212e512d1370
+      notes:
+        - https://www.realitykings.com/model/24582/joseph
