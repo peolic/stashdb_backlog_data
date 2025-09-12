@@ -1,0 +1,16 @@
+c_studio:
+  - Playboy Plus
+  - null
+performers:
+  remove:
+    - id: 469c3ccf-14c1-455c-812a-e21b010efb5f
+      name: Kelly Lu
+      appearance: null
+  append:
+    - id: null
+      name: Kelly Lu
+      appearance: null
+      disambiguation: 2022, Playboy
+      status: new
+      notes:
+        - https://www.playboyplus.com/en/model/view/Kelly-Lu/122560

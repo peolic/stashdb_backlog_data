@@ -1,0 +1,15 @@
+c_studio:
+  - Male Reality
+  - null
+performers:
+  remove:
+    - id: 0b6f029d-f459-400f-9252-cd0ca184fee3
+      name: Kevin
+      appearance: null
+  append:
+    - id: null
+      name: Kevin
+      appearance: null
+      disambiguation: 2011, Male Reality
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1244bace-e084-4164-972e-1f29b17022ce

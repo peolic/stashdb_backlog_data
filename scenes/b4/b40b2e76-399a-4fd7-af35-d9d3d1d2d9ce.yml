@@ -1,0 +1,19 @@
+c_studio:
+  - Black GFs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=46e839db-d215-478d-a3ae-54e363cfaf89
+performers:
+  remove:
+    - id: c35c3e16-9065-4db7-8fab-98daeeb571dc
+      name: Ken
+      appearance: null
+  append:
+    - id: null
+      name: Ken
+      appearance: null
+      disambiguation: Black GFs, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=086c6acd-5a31-4e66-a34d-f60c0296c0ad
+      notes:
+        - https://www.realitykings.com/model/26546/ken

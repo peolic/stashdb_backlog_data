@@ -1,0 +1,19 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=afcd06ff-fbb4-4fc0-a206-3e979f53e500
+performers:
+  remove:
+    - id: 3aef1d06-478c-4fff-9c23-adfa99038d2f
+      name: Kennedy
+      appearance: null
+  append:
+    - id: null
+      name: Kennedy
+      appearance: null
+      disambiguation: 2010, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9810d6dd-b83b-45a2-81e1-4a3d938b6847
+      notes:
+        - https://www.realitykings.com/model/26259/kennedy

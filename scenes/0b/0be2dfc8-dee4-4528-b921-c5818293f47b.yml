@@ -1,0 +1,15 @@
+c_studio:
+  - White Ghetto
+  - null
+performers:
+  remove:
+    - id: c35c3e16-9065-4db7-8fab-98daeeb571dc
+      name: Ken
+      appearance: null
+  append:
+    - id: null
+      name: Mr. Ken
+      appearance: Ken
+      disambiguation: 2007-2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=77a65130-1ddd-428d-a08d-42f191e3ca2b

@@ -1,0 +1,17 @@
+c_studio:
+  - GF Revenge
+  - null
+performers:
+  remove:
+    - id: 8cbb7b9e-cddc-469c-bc01-89472e422c82
+      name: Kristy
+      appearance: null
+  append:
+    - id: null
+      name: Kristy
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=af3093e4-4e75-4be2-978a-0be172769740
+      notes:
+        - https://www.realitykings.com/model/25295/kristy

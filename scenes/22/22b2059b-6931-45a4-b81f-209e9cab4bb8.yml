@@ -1,0 +1,56 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 72fe40bc-4607-4d32-96aa-d22414c96c5f
+      name: Kristina
+      appearance: null
+    - id: 050d72a6-d0ba-45dc-9fd7-cfec9c8a8df3
+      name: Chelsea
+      appearance: null
+    - id: 44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b
+      name: Michelle
+      appearance: null
+    - id: 57c5a9e9-fcc2-422a-bff0-448efe1e65e3
+      name: Elizabeth
+      appearance: null
+    - id: 1a8529e2-56a9-4c13-8006-1b7329f36388
+      name: Roxi
+      appearance: null
+  append:
+    - id: null
+      name: Kristina
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10929453/
+    - id: null
+      name: Chelsea
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10929451/
+    - id: null
+      name: Michelle
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10929454/
+    - id: null
+      name: Elizabeth
+      appearance: null
+      disambiguation: 2011-07, Dare Dorm
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10929452/
+    - id: null
+      name: Roxi
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      notes:
+        - https://www.imdb.com/name/nm10929455/

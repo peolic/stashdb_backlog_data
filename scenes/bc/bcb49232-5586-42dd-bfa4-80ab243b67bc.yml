@@ -1,0 +1,20 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=89219d91-4cc0-4d4b-81e1-7b24679177d1
+  - https://www.imdb.com/title/tt7647768/
+performers:
+  remove:
+    - id: 1ddcaca6-535f-43f5-a26f-b1c45f2a75d9
+      name: Kate
+      appearance: null
+  append:
+    - id: null
+      name: Kate
+      appearance: null
+      disambiguation: Tranny Surprise, 2003
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3c5fdb2d-c292-446b-a665-856b7ef20afd
+      notes:
+        - https://www.imdb.com/name/nm9429251/

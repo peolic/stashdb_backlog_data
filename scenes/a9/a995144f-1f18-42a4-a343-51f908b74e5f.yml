@@ -1,0 +1,20 @@
+c_studio:
+  - Twistys
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=d1c4776b-2c32-432b-ac71-e2a17d31e6ce
+  - https://www.indexxx.com/set/217216/twistys-kayla-leann/
+performers:
+  remove:
+    - id: eb377fa4-b733-4edb-bcde-df025764c930
+      name: Kayla
+      appearance: null
+  append:
+    - id: null
+      name: Kayla
+      appearance: null
+      disambiguation: 2002, Twistys
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=421f76a0-e152-4262-97fb-96c70492ef8d
+      notes:
+        - https://www.indexxx.com/m/kayla-6
