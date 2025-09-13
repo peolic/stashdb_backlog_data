@@ -1,0 +1,17 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677935/woodmancastingx-luna/
+performers:
+  remove:
+    - id: 105b69ef-b1c0-42ce-ba0c-e0dce5eaad46
+      name: Luna
+      appearance: null
+  append:
+    - id: null
+      name: Luna
+      appearance: null
+      disambiguation: Woodman Casting X, 1995
+      status: new
+      status_url: https://www.indexxx.com/m/luna-17

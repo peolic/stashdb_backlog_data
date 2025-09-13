@@ -1,0 +1,20 @@
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=eb529e00-b3a9-4acb-aebf-6bbf763be1ac
+  - https://www.indexxx.com/set/34543/street-blowjobs-lydia/
+performers:
+  remove:
+    - id: 3b9b5d22-4e5a-4386-abc1-29f299cade63
+      name: Lydia
+      appearance: null
+  append:
+    - id: null
+      name: Lydia
+      appearance: null
+      disambiguation: 2003, Street Blowjobs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d0d9724c-d314-4450-8c20-0f026ffa452f
+      notes:
+        - https://www.indexxx.com/m/lydia-1

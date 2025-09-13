@@ -1,0 +1,26 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=1f079285-b3bd-45f6-90bd-0f1f2ce96b5e
+performers:
+  remove:
+    - id: 07c06a88-c528-41a7-a26d-ff8ca5e2e201
+      name: Luis
+      appearance: null
+    - id: c6c058a1-4176-4768-8b0a-b7eb7e1961ec
+      name: Tanya
+      appearance: null
+  append:
+    - id: null
+      name: Luis
+      appearance: null
+      disambiguation: 2002, Tranny Surprise
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7681c89c-3e81-42ad-9d5a-7c2825a7b0d3
+    - id: null
+      name: Tanya
+      appearance: null
+      disambiguation: 2002, Tranny Surprise
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ca453844-1873-46c1-b97e-2f32fcf2e5f8

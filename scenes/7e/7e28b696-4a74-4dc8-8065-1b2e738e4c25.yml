@@ -1,0 +1,20 @@
+c_studio:
+  - We Live Together
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=5c795242-7ad9-4f90-8b7f-620607173f56
+  - https://www.indexxx.com/set/32890/we-live-together-angelina-kasey-lisa/
+performers:
+  remove:
+    - id: 212efa0e-185a-4fcd-a3e8-ebc98136a86a
+      name: Lisa
+      appearance: null
+  append:
+    - id: null
+      name: Lisa
+      appearance: null
+      disambiguation: 2003, We Live Together
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0d0f60dd-66fd-464a-b86f-c6dfda419f08
+      notes:
+        - https://www.indexxx.com/m/lisa-6

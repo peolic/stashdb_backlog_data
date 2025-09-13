@@ -1,0 +1,28 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+performers:
+  remove:
+    - id: 3f128be2-83fd-415a-8964-661a0bf6b1bf
+      name: Mandy
+      appearance: null
+    - id: 6187fc92-83c0-482b-a464-aee0bfc576f7
+      name: Adam
+      appearance: null
+  append:
+    - id: null
+      name: Mandy
+      appearance: null
+      disambiguation: 2004, V9
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5a862da3-e11f-4a61-aec5-293adb72c596
+      notes:
+        - https://cdn.stashdb.org/images/9c/44/9c44a3a6-a385-4fa4-a976-c502094272f0
+    - id: null
+      name: Adam
+      appearance: null
+      disambiguation: 2004, V9
+      status: new
+      notes:
+        - https://stashdb.org/images/d57a15ef-e9ba-4179-aed9-211a9776e37f
+        - Possible back of the neck tattoo

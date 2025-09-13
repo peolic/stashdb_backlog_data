@@ -2,10 +2,7 @@ c_studio:
   - Granny Ghetto
   - null
 performers:
-  remove:
-    - id: 50a4f60e-0509-4de7-8416-88706573fb43
-      name: Leila
-      appearance: null
+  remove: []
   append:
     - id: null
       name: Leila

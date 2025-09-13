@@ -1,0 +1,20 @@
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0669866b-12a5-4a54-9d76-ed7999064667
+  - https://www.indexxx.com/set/34553/street-blowjobs-lisa/
+performers:
+  remove:
+    - id: 212efa0e-185a-4fcd-a3e8-ebc98136a86a
+      name: Lisa
+      appearance: null
+  append:
+    - id: null
+      name: Lisa
+      appearance: null
+      disambiguation: 2002, Street Blowjobs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=cfeafe4b-fb2d-4ec7-a999-e88009ebe604
+      notes:
+        - https://www.indexxx.com/m/lisa-10

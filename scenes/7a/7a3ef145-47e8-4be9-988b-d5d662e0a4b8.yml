@@ -1,0 +1,17 @@
+c_studio:
+  - Doghouse Digital
+  - null
+performers:
+  remove:
+    - id: a64bfa5b-161f-4749-95b8-9c35e8f23b58
+      name: Lida
+      appearance: null
+  append:
+    - id: null
+      name: Lida
+      appearance: null
+      disambiguation: 2011, Doghouse Digital
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=48e833d4-b56e-4bb9-a4c2-5f3b77343e0c
+      notes:
+        - https://www.doghousedigital.com/model/64250/lida

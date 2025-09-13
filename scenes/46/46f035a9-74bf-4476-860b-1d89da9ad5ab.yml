@@ -1,0 +1,17 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=6e52bf6b-7b16-4ffb-92c4-7e1f4084487a
+performers:
+  remove:
+    - id: 07c06a88-c528-41a7-a26d-ff8ca5e2e201
+      name: Luis
+      appearance: null
+  append:
+    - id: null
+      name: Luis
+      appearance: null
+      disambiguation: 2018, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=bd5889d7-009b-4bfe-9816-c7ef56261602

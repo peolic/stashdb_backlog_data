@@ -1,0 +1,16 @@
+c_studio:
+  - GF Revenge
+  - null
+performers:
+  remove:
+    - id: b55e1825-baef-48d5-8ed7-3245ff2029a0
+      name: Logan Pierce
+      appearance: null
+  append:
+    - id: null
+      name: Abu
+      appearance: null
+      disambiguation: 2016, GF Revenge
+      status: new
+      notes:
+        - https://www.realitykings.com/model/25618/abu
