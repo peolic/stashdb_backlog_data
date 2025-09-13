@@ -1,0 +1,20 @@
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=c41105d5-94f1-4a8b-a7a7-aa6246c34891
+  - https://www.indexxx.com/set/34351/street-blowjobs-lexie/
+performers:
+  remove:
+    - id: a7c5b465-8220-49c6-a4bc-54dfd37f64b0
+      name: Lexie
+      appearance: null
+  append:
+    - id: null
+      name: Lexie
+      appearance: null
+      disambiguation: 2006, Street Blowjobs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c69d0b76-611f-4536-98f4-e3338934ba39
+      notes:
+        - https://www.indexxx.com/m/lexie-2

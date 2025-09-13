@@ -1,0 +1,23 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677634/woodmancastingx-lena-natasha/
+performers:
+  remove:
+    - id: fe5dc41e-15c8-4124-bef2-e59aa35d981d
+      name: Lena And Natasha
+      appearance: null
+  append:
+    - id: null
+      name: Lena
+      appearance: null
+      disambiguation: 1994, Russian, Woodman
+      status: new
+      status_url: https://www.indexxx.com/m/lena-14
+    - id: null
+      name: Natasha
+      appearance: null
+      disambiguation: 1994, Russian, Woodman
+      status: new
+      status_url: https://www.indexxx.com/m/natasha-77

@@ -1,0 +1,21 @@
+c_studio:
+  - Teen Sex Movs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=318f9ad2-6c9e-4c56-b862-397d20338fb7
+  - https://www.indexxx.com/set/431904/teen-sex-movs-lena/
+performers:
+  remove:
+    - id: f8f6b564-1435-47ab-993b-77de5c347c6c
+      name: Lena
+      appearance: null
+  append:
+    - id: null
+      name: Lena
+      appearance: null
+      disambiguation: 2008, Teen Sex Movs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d4f8125a-228c-4f0e-852f-5d466581e546
+      notes:
+        - https://www.indexxx.com/m/lena-16
+        - https://teenmegaworld.net/models/lena.html

@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=f9287f47-cc7b-4ce1-8728-9064b9b58233
+performers:
+  remove:
+    - id: 96b341af-935d-44d2-ad0b-35dd598a902a
+      name: Leo
+      appearance: null
+  append:
+    - id: null
+      name: Leo
+      appearance: null
+      disambiguation: 2014, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ad9caff3-026c-410a-b075-f67d49689d73
+      notes:
+        - https://www.realitykings.com/model/25841/leo

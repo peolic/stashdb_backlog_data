@@ -1,0 +1,22 @@
+c_studio:
+  - Boob Squad
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a22aeb62-8944-405f-a481-4bdd34b327df
+  - https://www.indexxx.com/set/423945/boob-squad-larissa/
+  - https://www.imdb.com/title/tt8712556/
+performers:
+  remove:
+    - id: a552fef4-8a23-4305-8be6-10c017b785ed
+      name: Larissa
+      appearance: null
+  append:
+    - id: null
+      name: Larissa
+      appearance: null
+      disambiguation: Boob Squad, 2002
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b74e4e54-43fe-46b6-9625-3af79b69cba4
+      notes:
+        - https://www.indexxx.com/m/larissa-7
+        - https://www.imdb.com/name/nm9979060/
