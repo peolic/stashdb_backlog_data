@@ -1,0 +1,28 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=ce7af4a6-495d-4f3a-9dd8-c37ced5b6930
+performers:
+  remove:
+    - id: 7214152e-13e3-488f-8cc3-ac4aa2d89f52
+      name: Kyle
+      appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+    - id: e57e5f77-b6a6-4c7a-a7aa-56917cd99511
+      name: Ryan
+      appearance: null
+  append:
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2012-06-29
+      status: new
+    - id: null
+      name: Ryan
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=4f6ac4a5-3ac5-4cb7-97b5-b5cd10c8102e

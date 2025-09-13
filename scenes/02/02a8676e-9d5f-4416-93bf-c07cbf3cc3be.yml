@@ -1,0 +1,15 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove:
+    - id: 7214152e-13e3-488f-8cc3-ac4aa2d89f52
+      name: Kyle
+      appearance: null
+  append:
+    - id: null
+      name: Kyle
+      appearance: null
+      disambiguation: 2012, Sell Your GF
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=cdebb1f0-3862-4be4-bd05-6e3c8245eb73

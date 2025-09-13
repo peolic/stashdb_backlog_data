@@ -1,0 +1,20 @@
+c_studio:
+  - Cum Fiesta
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=380b480b-ab5e-4ebd-92ca-1687c301e804
+  - https://www.indexxx.com/set/32460/cum-fiesta-lacy/
+performers:
+  remove:
+    - id: 086ea3b4-bf0e-4c1f-a0a2-2a65cfbb9f88
+      name: Lacy
+      appearance: null
+  append:
+    - id: null
+      name: Lacy
+      appearance: null
+      disambiguation: 2005, Cum Fiesta
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=79535b2d-e6b2-4784-832f-8015d584c2e5
+      notes:
+        - https://www.indexxx.com/m/lacy-1
