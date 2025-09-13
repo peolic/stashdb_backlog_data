@@ -1,0 +1,17 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677769/woodmancastingx-marie/
+performers:
+  remove:
+    - id: 29abd354-101c-4a5f-9efa-7f1359aba38b
+      name: Marie
+      appearance: null
+  append:
+    - id: null
+      name: Marie
+      appearance: null
+      disambiguation: French, 1997, Woodman
+      status: new
+      status_url: https://www.indexxx.com/m/marie-45
