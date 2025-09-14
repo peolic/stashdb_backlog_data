@@ -1,0 +1,14 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+performers:
+  remove:
+    - id: 57c8f27b-95dc-4473-ac24-a5b6c4cc147b
+      name: Matt
+      appearance: null
+  append:
+    - id: null
+      name: John
+      appearance: Matt
+      disambiguation: 2006, V9
+      status: new

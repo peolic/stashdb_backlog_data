@@ -1,0 +1,42 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0261740d-e2c7-4aae-b1ac-2a3d3d2f1b4f
+  - https://www.imdb.com/title/tt6258032/
+performers:
+  remove:
+    - id: 2ba7b1c2-4178-4aee-ab6b-9131b29c52a5
+      name: Matthew
+      appearance: null
+    - id: 80429e44-6286-4730-bffd-e918abe7340c
+      name: Miguel
+      appearance: null
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+  append:
+    - id: null
+      name: Matthew
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=17edecff-4108-40d0-86b8-f030f791a0fb
+      notes:
+        - https://www.realitykings.com/model/26104/matthew
+    - id: null
+      name: Miguel
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6116cb66-656f-40fe-9ad7-92d90bb73286
+      notes:
+        - https://www.realitykings.com/model/26106/miguel
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0b3339d2-cde1-4aaa-b9a7-6227464d18e8
+      notes:
+        - https://www.realitykings.com/model/26108/nicholas

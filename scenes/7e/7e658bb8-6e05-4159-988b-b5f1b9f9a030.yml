@@ -1,0 +1,23 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 05b2d0dd-7677-49b5-b59d-a25377bf395f
+      name: Maxwell
+      appearance: null
+  append:
+    - id: 67e8ee36-edb5-4ed7-843c-727c5bc95d61
+      name: Maxwell
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+    - id: null
+      name: Jerry
+      appearance: null
+      disambiguation: 2011, Dick Dorm
+      status: new
+    - id: null
+      name: Anthony
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new

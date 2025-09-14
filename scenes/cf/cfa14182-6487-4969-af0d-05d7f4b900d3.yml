@@ -1,0 +1,15 @@
+c_studio:
+  - Young Libertines
+  - null
+performers:
+  remove:
+    - id: bc2bfadb-e6c0-411f-85ae-e2fb1631463e
+      name: Markus
+      appearance: null
+  append:
+    - id: null
+      name: Jaroslav
+      appearance: Markus
+      disambiguation: Pink Visual, 2008
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=bc3f5bbb-b7fe-427f-a84c-4705ea9f83b4

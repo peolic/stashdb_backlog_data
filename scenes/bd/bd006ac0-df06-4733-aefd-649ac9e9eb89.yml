@@ -1,0 +1,17 @@
+c_studio:
+  - Sex Mex
+  - null
+performers:
+  remove:
+    - id: 9461ea65-efa2-46ca-be3d-645c6c4f4f54
+      name: Marlene
+      appearance: null
+  append:
+    - id: null
+      name: Marlene
+      appearance: null
+      disambiguation: Sex Mex, 2014
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5c06dfc7-b536-48c9-b914-b0113ccab86c
+      notes:
+        - https://sexmex.xxx/tour/models/marlene-sexmex.html

@@ -1,0 +1,15 @@
+c_studio:
+  - Naughty Bookworms
+  - null
+performers:
+  remove:
+    - id: e51e2869-c855-4fee-8201-083606c92e0c
+      name: Maverick
+      appearance: null
+  append:
+    - id: null
+      name: Maverick
+      appearance: null
+      disambiguation: Naughty Bookworms, 2005
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2fa84369-42a0-4e2f-b734-a238b6358c15

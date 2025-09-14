@@ -1,0 +1,17 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=002e7dde-f9b8-4070-a8de-cd43c3bf8763
+performers:
+  remove:
+    - id: dd2c6f6e-26c5-4aed-97c7-3a558113459c
+      name: Max
+      appearance: null
+  append:
+    - id: null
+      name: Max
+      appearance: null
+      disambiguation: 2005, Tranny Surprise
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e9f5e3dc-5a84-4f07-87f1-664bf61ab3bf
