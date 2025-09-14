@@ -1,0 +1,16 @@
+c_studio:
+  - Peter North
+  - null
+performers:
+  remove:
+    - id: 610d3548-134e-4a63-a186-2515e2c2b559
+      name: Rafaela
+      appearance: null
+      disambiguation: Reality Kings 10493
+  append:
+    - id: null
+      name: Vanessa
+      appearance: Rafaela
+      disambiguation: 2004, "No Limits 8"
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=56a1241c-d61b-4b41-8c03-0de38d65a47e

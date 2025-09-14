@@ -1,0 +1,15 @@
+c_studio:
+  - Young Throats
+  - null
+performers:
+  remove:
+    - id: 9c4a07d1-b1f4-43cc-a252-a5ca7cdf1272
+      name: Pink
+      appearance: null
+  append:
+    - id: null
+      name: Pink
+      appearance: null
+      disambiguation: Teen Core Club
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=05c95857-54b0-4696-a880-bf094d767535

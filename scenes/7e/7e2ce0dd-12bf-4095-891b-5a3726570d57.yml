@@ -1,0 +1,17 @@
+c_studio:
+  - Sex Mex
+  - null
+performers:
+  remove:
+    - id: 56d753d4-0e59-4953-a2a6-e9c91bbfd2eb
+      name: Raquel
+      appearance: null
+  append:
+    - id: null
+      name: Raquel
+      appearance: null
+      disambiguation: 2014, Sex Mex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e558f0da-c91a-409c-9b02-366e38c9a364
+      notes:
+        - https://sexmex.xxx/tour/models/raquel-sexmex.html

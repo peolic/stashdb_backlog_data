@@ -1,0 +1,15 @@
+c_studio:
+  - Japornxxx
+  - null
+performers:
+  remove:
+    - id: 13f3c0ea-873e-4263-842f-e97266d96919
+      name: Rambo
+      appearance: null
+  append:
+    - id: null
+      name: Baby Rambo
+      appearance: null
+      disambiguation: Japornxxx
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c1ce927e-e36e-4f5b-9e09-184ca2b6a0bd

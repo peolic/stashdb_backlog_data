@@ -1,0 +1,18 @@
+c_studio:
+  - Silverstone DVD
+  - null
+performers:
+  remove:
+    - id: 259ea30e-89d1-4098-8568-49aca08aa976
+      name: Princess D
+      appearance: null
+      disambiguation: 2000-2004, Odyssey
+  append:
+    - id: null
+      name: Princess D
+      appearance: null
+      disambiguation: Odyssey, 2000-2001
+      status: new
+      status_url: https://www.famedigital.com/en/pornstar/view/Princess-D/57913
+      notes:
+        - https://www.iafd.com/person.rme/id=8a8fb2e8-9599-41c7-9927-b4a52822776d

@@ -1,0 +1,21 @@
+c_studio:
+  - 1000 Facials
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=ab91d73d-28ab-4307-b8ca-6ee504a9925a
+  - https://www.indexxx.com/set/160842/1000-facials-rachel/
+performers:
+  remove:
+    - id: a990373b-94fc-479b-aa1b-167640aa03b0
+      name: Rachel
+      appearance: null
+  append:
+    - id: null
+      name: Lauren
+      appearance: Rachel
+      disambiguation: Big Naturals, 2003
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1a88b069-24a2-4801-9420-b5d8bd408b91
+      notes:
+        - https://www.indexxx.com/m/lauren-2
+        - https://www.blowpass.com/en/pornstar/view/Rachel/25475

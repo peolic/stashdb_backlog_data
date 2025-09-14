@@ -1,0 +1,22 @@
+c_studio:
+  - Mike in Brazil
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=ba86f5ed-8074-47c9-916b-6c8d3b0d251e
+  - https://www.indexxx.com/set/168131/mike-in-brazil-rafaela/
+performers:
+  remove:
+    - id: 610d3548-134e-4a63-a186-2515e2c2b559
+      name: Rafaela
+      appearance: null
+      disambiguation: Reality Kings 10493
+  append:
+    - id: null
+      name: Rafaela
+      appearance: null
+      disambiguation: 2011, Mike In Brazil
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=cb4b2e17-4946-4eb4-b24d-9c3a9a4439b1
+      notes:
+        - https://www.indexxx.com/m/rafaela-1
+        - https://www.realitykings.com/model/10493/rafaela
