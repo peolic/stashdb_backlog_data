@@ -1,0 +1,20 @@
+c_studio:
+  - Bound in Public
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=b0b83d63-8b58-452f-99c1-9ed26f9786d0
+  - https://www.kinkmen.com/shoot/13686
+performers:
+  remove:
+    - id: 7e406057-c4ac-4199-a87b-4e257c530469
+      name: Nico
+      appearance: null
+  append:
+    - id: null
+      name: Nico
+      appearance: null
+      disambiguation: 2011, Bound in Public
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5021c480-5aa6-4d93-9ebe-038b2ef5fca0
+      notes:
+        - https://www.kinkmen.com/model/32371/Nico

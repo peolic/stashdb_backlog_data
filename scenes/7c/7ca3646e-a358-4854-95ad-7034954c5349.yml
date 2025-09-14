@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=db853ede-bbcd-4584-a6c9-ce4a534226ab
+performers:
+  remove:
+    - id: c30ef2a8-65cf-4416-aba1-cac09f6baaec
+      name: Nicole
+      appearance: null
+  append:
+    - id: null
+      name: Nicole
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=72f65f9c-b112-44b7-9c41-f6451d46fc05
+      notes:
+        - https://www.realitykings.com/model/25455/nicole

@@ -1,0 +1,17 @@
+c_studio:
+  - Trans Angels Premium
+  - null
+performers:
+  remove:
+    - id: 300016d7-2f71-40ca-96a9-f03c02603505
+      name: Nelson
+      appearance: null
+  append:
+    - id: null
+      name: Nelson
+      appearance: null
+      disambiguation: 2014, Trans500
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=624f5bef-a2dd-49d1-b483-05bdd84acf95
+      notes:
+        - https://stashdb.org/images/0ba42ba0-54fc-496b-86c2-65429a1cd48f

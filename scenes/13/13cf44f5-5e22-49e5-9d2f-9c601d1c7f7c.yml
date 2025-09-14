@@ -1,0 +1,42 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=532abe88-c0b8-4116-8839-5ce68f6cb79f
+  - https://www.imdb.com/title/tt6395284/
+  - Should Crystalynn be replaced by Paris Rayne based on the comment on Elizabeth being marked incorrectly by IAFD?
+performers:
+  remove:
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+    - id: 57c5a9e9-fcc2-422a-bff0-448efe1e65e3
+      name: Elizabeth
+      appearance: null
+    - id: 3348f0ef-5279-42d1-bf0f-161a7eb76b92
+      name: Ricky
+      appearance: null
+  append:
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dare Dorm, 2012-08
+      status: new
+      notes:
+        - https://www.realitykings.com/model/25317/nicholas
+    - id: null
+      name: Elizabeth
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      notes:
+        - https://www.realitykings.com/model/25313/elizabeth
+        - https://www.imdb.com/name/nm10936900/
+    - id: null
+      name: Ricky
+      appearance: null
+      disambiguation: 2012, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=721eacb0-a7d1-413a-8093-9012ac3ad0bb
+      notes:
+        - https://www.realitykings.com/model/25319/ricky

@@ -1,0 +1,20 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/678105/woodmancastingx-nathalie/
+performers:
+  remove:
+    - id: a5672ffd-972f-472f-8df9-7970bd79ab3f
+      name: Nathalie
+      appearance: null
+  append:
+    - id: null
+      name: Nathalie
+      appearance: null
+      disambiguation: French, 1993, Private
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=848674ec-c1d5-4075-b477-515a63913a39
+      notes:
+        - https://www.indexxx.com/m/nathalie-6
+        - https://www.egafd.com/actresses/details.php/id/N00553

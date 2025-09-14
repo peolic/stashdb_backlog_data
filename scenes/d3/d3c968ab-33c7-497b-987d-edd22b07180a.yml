@@ -1,0 +1,20 @@
+c_studio:
+  - Cum Fiesta
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=9b8bf870-1bb2-4b17-b45c-7fab4bf40853
+  - https://www.indexxx.com/set/32630/cum-fiesta-nancy/
+performers:
+  remove:
+    - id: 1f381cd5-b911-4874-8796-42d2584de822
+      name: Nancy
+      appearance: null
+  append:
+    - id: null
+      name: Nancy
+      appearance: null
+      disambiguation: 2001, Cum Fiesta
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e935dd79-8077-498f-a481-cd3146bda829
+      notes:
+        - https://www.indexxx.com/m/nancy-2

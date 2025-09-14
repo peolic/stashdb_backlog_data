@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=c704c68c-cd68-4ce8-a49c-c98cea3cc29f
+performers:
+  remove:
+    - id: cafbb8a1-c383-4c68-983f-d35c6dafd8f2
+      name: Natalie
+      appearance: null
+  append:
+    - id: null
+      name: Natalie
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d876f87d-a391-42f8-8136-81329215e9ad
+      notes:
+        - https://www.realitykings.com/model/24760/natalie
