@@ -1,0 +1,18 @@
+c_studio:
+  - ALS Scan
+  - null
+performers:
+  remove:
+    - id: f94af64c-8366-4b98-9e90-5b7b59ac3d9b
+      name: Phoenix
+      appearance: null
+  append:
+    - id: null
+      name: Phoenix
+      appearance: null
+      disambiguation: ALS Scan
+      status: new
+      status_url: https://www.indexxx.com/m/phoenix-8
+      notes:
+        - https://www.alsscan.com/model/phoenix
+        - 'Left performer in: https://images.sexynude.pics/pics/nadiaparis02/nadiaparis278.jpg'
