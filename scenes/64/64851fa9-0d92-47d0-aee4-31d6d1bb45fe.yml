@@ -1,0 +1,17 @@
+c_studio:
+  - Sex Mex
+  - null
+performers:
+  remove:
+    - id: e9ce01c1-19d1-4b4e-83c9-ac4411eb2285
+      name: Paloma
+      appearance: null
+  append:
+    - id: null
+      name: Paloma
+      appearance: null
+      disambiguation: 2007-2011, Sex Mex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c0b8844e-3646-483f-9a65-dbfdb7d98299
+      notes:
+        - https://sexmex.xxx/tour/models/paloma-sexmex.html

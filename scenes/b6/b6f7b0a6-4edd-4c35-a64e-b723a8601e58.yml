@@ -1,0 +1,17 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=86a0dafe-53c0-45e9-86a4-435f41b6d480
+performers:
+  remove:
+    - id: d7eb4754-15f3-4c65-9685-032e2694a61d
+      name: Oscar
+      appearance: null
+  append:
+    - id: null
+      name: Oscar
+      appearance: null
+      disambiguation: 2003, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ca54af3-feee-4862-bda4-ef12a1e9afd6

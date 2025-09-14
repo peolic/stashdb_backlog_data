@@ -1,0 +1,23 @@
+c_studio:
+  - Devil's Gangbangs
+  - null
+performers:
+  remove:
+    - id: b571b9c7-e096-4206-a56f-3fef47152140
+      name: Passion
+      appearance: null
+  append:
+    - id: null
+      name: Lila Passion
+      appearance: Passion
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7013e54a-3e8e-42b3-97c6-d0ab529a1f93
+    - id: 00448815-8980-4a51-8691-1790750c2412
+      name: Byron Long
+      appearance: null
+    - id: a4fba68e-94c2-4b83-a43d-6aee30563210
+      name: Cuba
+      appearance: null
+    - id: 45e3faa5-aba3-41d6-b7e8-82f4e0a8b19b
+      name: Mark Anthony
+      appearance: null

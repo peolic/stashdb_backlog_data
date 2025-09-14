@@ -1,0 +1,20 @@
+c_studio:
+  - Round and Brown
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=af8f1ee6-1920-4b79-8222-fe566eabea2a
+  - https://www.indexxx.com/set/33383/round-and-brown-pamela/
+performers:
+  remove:
+    - id: 1022e42a-1288-4d3b-89e7-3881ee2c5def
+      name: Pamela
+      appearance: null
+  append:
+    - id: null
+      name: Pamela
+      appearance: null
+      disambiguation: 2006, Round and Brown
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1aa64cdd-9476-4c21-8b81-40b7872e5283
+      notes:
+        - https://www.indexxx.com/m/pamela-3

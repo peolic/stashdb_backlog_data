@@ -1,0 +1,19 @@
+c_studio:
+  - Mike's Apartment
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0d550aa9-755f-48aa-96c5-dc84a89df589
+performers:
+  remove:
+    - id: 4d5e06d5-fbf8-452e-b7ba-813f20a7f1a0
+      name: Pablo
+      appearance: null
+  append:
+    - id: null
+      name: Pablo
+      appearance: null
+      disambiguation: 2008, Mike's Apartment
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=32eb1de5-d0cf-441d-83ce-31e0b6310f92
+      notes:
+        - https://www.realitykings.com/model/9629/pablo
