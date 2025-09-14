@@ -1,0 +1,17 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+performers:
+  remove:
+    - id: 1f381cd5-b911-4874-8796-42d2584de822
+      name: Nancy
+      appearance: null
+  append:
+    - id: null
+      name: Nancy
+      appearance: null
+      disambiguation: 2005, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c2e5653a-6aa4-46e7-9f03-6d063f5e40ef
+      notes:
+        - https://www.indexxx.com/m/nancy-3

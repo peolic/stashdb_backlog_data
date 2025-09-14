@@ -1,0 +1,15 @@
+c_studio:
+  - Mile High Media
+  - null
+performers:
+  remove:
+    - id: 65651329-399e-4d4b-955a-1608695888a8
+      name: Mo
+      appearance: null
+  append:
+    - id: null
+      name: Mo
+      appearance: null
+      disambiguation: Mile High Media, 2015
+      status: new
+      status_url: https://www.imdb.com/name/nm6525724/

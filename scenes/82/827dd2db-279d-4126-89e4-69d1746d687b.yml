@@ -1,0 +1,14 @@
+c_studio:
+  - MaxineX
+  - null
+performers:
+  remove:
+    - id: 201261ff-397d-4633-83c5-aa3fdb01f70b
+      name: Mimi
+      appearance: null
+  append:
+    - id: null
+      name: Fuk Mi
+      appearance: Mimi
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=706d0241-39ca-4de4-90fd-ce51dcb23331

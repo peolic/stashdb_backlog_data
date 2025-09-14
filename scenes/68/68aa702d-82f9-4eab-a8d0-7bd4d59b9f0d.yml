@@ -1,0 +1,17 @@
+c_studio:
+  - True Amateurs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=eb61448b-6baf-4722-a925-c68d26ddd524
+performers:
+  remove:
+    - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
+      name: Michael
+      appearance: null
+  append:
+    - id: null
+      name: Michael
+      appearance: null
+      disambiguation: 2019, True Amateurs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5ff09b6a-c3d9-41d6-ad07-9f587e302e43

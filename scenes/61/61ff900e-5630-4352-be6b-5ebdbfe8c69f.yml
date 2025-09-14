@@ -1,0 +1,16 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 80429e44-6286-4730-bffd-e918abe7340c
+      name: Miguel
+      appearance: null
+  append:
+    - id: null
+      name: Miguel
+      appearance: null
+      disambiguation: Dare Dorm, 2009
+      status: new
+      notes:
+        - https://www.realitykings.com/model/24632/miguel

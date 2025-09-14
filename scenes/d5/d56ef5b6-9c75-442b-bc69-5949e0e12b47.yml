@@ -1,0 +1,21 @@
+c_studio:
+  - Boob Squad
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a6b39a72-c90e-4c73-97c2-6fb2650a2264
+  - https://www.indexxx.com/set/423947/boob-squad-michelle/
+performers:
+  remove:
+    - id: 44cd6e15-1d2a-4791-aa6a-9dfe967f9c2b
+      name: Michelle
+      appearance: null
+  append:
+    - id: null
+      name: Michelle
+      appearance: null
+      disambiguation: 2002, Boob Squad
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=e7743712-a7d6-4add-903b-36482fcc7d02
+      notes:
+        - https://www.indexxx.com/m/michelle-38
+        - https://bangbros.com/model/397041/michelle

@@ -1,0 +1,30 @@
+c_studio:
+  - Horny Birds
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0276e9f3-884f-4ac7-a444-d26857567d43
+performers:
+  remove:
+    - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
+      name: Michael
+      appearance: null
+    - id: null
+      name: Amir
+      appearance: null
+  append:
+    - id: null
+      name: Michael
+      appearance: null
+      disambiguation: 2011, Horny Birds
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2d974ec3-53e1-4de7-a433-ae9dfd576a99
+      notes:
+        - https://www.realitykings.com/model/25586/michael
+    - id: null
+      name: Amir
+      appearance: null
+      disambiguation: Horny Birds, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=24f8f6df-c80a-40dd-90f1-c530552fcef9
+      notes:
+        - https://www.realitykings.com/model/25582/amir

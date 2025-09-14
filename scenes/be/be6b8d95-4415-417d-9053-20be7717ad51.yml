@@ -1,0 +1,21 @@
+c_studio:
+  - Mile High Media
+  - null
+comments:
+  - Same as Scene 5 of Checkin Tranny Fluids
+performers:
+  remove:
+    - id: 17dd9858-07f7-458c-b1a1-e9a7bdb1c5f2
+      name: Melanie
+      appearance: null
+  append:
+    - id: null
+      name: Maylen Lacov
+      appearance: Melanie
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=eb447975-8a8b-435c-b247-082c8207aa54
+      notes:
+        - https://shemalestardb.com/stars/M/Maylen/
+    - id: 1c8a2e39-933f-4239-8eb4-cbd1cc39c6aa
+      name: Axel Ray
+      appearance: null

@@ -1,0 +1,19 @@
+c_studio:
+  - Men In Pain
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=423206e5-e84b-414a-ab67-a0f1d70864d1
+performers:
+  remove:
+    - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
+      name: Michael
+      appearance: null
+  append:
+    - id: null
+      name: Michael
+      appearance: null
+      disambiguation: 2003, Men In Pain
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2ea990c5-3f3e-49e0-a288-ef0cae54b4b8
+      notes:
+        - https://www.kink.com/model/2889/Michael
