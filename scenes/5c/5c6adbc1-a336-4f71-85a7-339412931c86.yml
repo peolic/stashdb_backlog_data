@@ -1,0 +1,33 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: beac8169-8c4a-4f78-91cf-56ad84f1d0da
+      name: Ronald
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 7065e5e7-0c06-4b37-9618-5be06393fb82
+      name: Christian
+      appearance: null
+  append:
+    - id: null
+      name: Ronald
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=efeec5fe-2ee6-4d28-a6bb-b4ff2e79bcc3
+      notes:
+        - https://www.realitykings.com/model/20091/ronald
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+    - id: null
+      name: Christian
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new

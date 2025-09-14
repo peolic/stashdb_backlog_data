@@ -1,0 +1,17 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=8b879eab-3385-4434-8227-95650226a311
+performers:
+  remove:
+    - id: 2d02df96-6fb0-4318-b47c-bb6381cf44cd
+      name: Rico
+      appearance: null
+  append:
+    - id: null
+      name: Rico
+      appearance: null
+      disambiguation: 2006, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f9e2a222-a1de-4692-9af5-1717a10586c4

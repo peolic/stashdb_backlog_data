@@ -1,0 +1,20 @@
+c_studio:
+  - Blowpass
+  - Blowpass
+comments:
+  - https://www.iafd.com/title.rme/id=dd2f70dd-2fda-44c8-a258-cd0b39f786f7
+  - https://www.indexxx.com/m/rose-20
+performers:
+  remove:
+    - id: a005b1da-bd20-46db-a43a-ec03542b46ec
+      name: Rose
+      appearance: null
+  append:
+    - id: null
+      name: Rose
+      appearance: null
+      disambiguation: Blowpass, 2006
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2331ea14-f0b0-4879-9e40-bb4681f9ad26
+      notes:
+        - https://www.indexxx.com/m/rose-20

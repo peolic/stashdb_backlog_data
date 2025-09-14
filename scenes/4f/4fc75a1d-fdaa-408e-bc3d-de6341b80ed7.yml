@@ -1,0 +1,17 @@
+c_studio:
+  - Twistys
+  - null
+performers:
+  remove:
+    - id: 50723b4b-0158-40b0-b59c-60093841ba40
+      name: Riley
+      appearance: null
+  append:
+    - id: null
+      name: Riley
+      appearance: null
+      disambiguation: 2003, Twistys
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=603a3c98-ed18-4c1c-a965-b2d6f72e1492
+      notes:
+        - https://www.indexxx.com/m/riley-1

@@ -1,0 +1,17 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=35457bc4-0788-4718-b381-24ded847596d
+performers:
+  remove:
+    - id: a005b1da-bd20-46db-a43a-ec03542b46ec
+      name: Rose
+      appearance: null
+  append:
+    - id: null
+      name: Rose
+      appearance: null
+      disambiguation: 2009, In the VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9cec3260-8e5f-45f0-9089-104b76e87b97

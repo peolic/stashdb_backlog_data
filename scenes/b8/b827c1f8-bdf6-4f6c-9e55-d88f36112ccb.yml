@@ -1,0 +1,17 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0d46a48a-cfaf-4566-a674-6dafbe8a4929
+performers:
+  remove:
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+  append:
+    - id: null
+      name: Richard
+      appearance: null
+      disambiguation: 2005, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=03c04b20-a422-462c-a318-9bb4028f5fe1

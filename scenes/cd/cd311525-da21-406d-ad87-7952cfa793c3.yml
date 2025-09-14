@@ -1,0 +1,16 @@
+c_studio:
+  - VIP Crew
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=60335c20-045a-43f0-a9da-bf7e47c1611e
+performers:
+  remove:
+    - id: 157ee102-6178-4f87-aed7-5e4c2c615ead
+      name: Ross
+      appearance: null
+  append:
+    - id: null
+      name: Ross Sevrance
+      appearance: Ross
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2fa8541b-ff21-4a98-8b4a-d58c67997537

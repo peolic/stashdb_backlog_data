@@ -1,0 +1,17 @@
+c_studio:
+  - Peter North
+  - null
+performers:
+  remove:
+    - id: b8633cd3-6066-43f6-a806-d5b94374a14d
+      name: Rebecca
+      appearance: null
+  append:
+    - id: null
+      name: Cassidy
+      appearance: Rebecca
+      disambiguation: 1991-1996
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9937ba62-7343-4055-968f-1e89cf9622c6
+      notes:
+        - https://www.famedigital.com/en/pornstar/view/Rebecca/1068

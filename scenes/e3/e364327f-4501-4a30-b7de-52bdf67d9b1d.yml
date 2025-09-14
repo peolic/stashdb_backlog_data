@@ -1,0 +1,16 @@
+c_studio:
+  - Mike's Apartment
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=669971ad-e48a-4fd4-9dec-6afec4231efc
+performers:
+  remove:
+    - id: 3348f0ef-5279-42d1-bf0f-161a7eb76b92
+      name: Ricky
+      appearance: null
+  append:
+    - id: null
+      name: Ricky Valentino
+      appearance: Ricky
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f78cf2e2-6004-4a28-b6a1-fd793447353c

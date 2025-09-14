@@ -1,0 +1,15 @@
+c_studio:
+  - See My Wife
+  - null
+performers:
+  remove:
+    - id: 8b64136d-9516-40a0-a74a-20c5afb4b811
+      name: Rocco
+      appearance: null
+  append:
+    - id: null
+      name: Rocco
+      appearance: null
+      disambiguation: 2008, See My Wife
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c3fff1ca-388d-417c-a530-a9cf09a9bdc7
