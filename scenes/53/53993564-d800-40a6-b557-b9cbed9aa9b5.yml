@@ -1,0 +1,17 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0bc0c37d-919c-486f-aab6-11fa546a9bcf
+performers:
+  remove:
+    - id: fd6cfae2-5143-4ff7-918d-b4a5caacbbae
+      name: Shawn Rees
+      appearance: Hunter
+  append:
+    - id: null
+      name: Hunter
+      appearance: null
+      disambiguation: 2015, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=af4824fe-87f7-422c-b050-d80950d8e8d9

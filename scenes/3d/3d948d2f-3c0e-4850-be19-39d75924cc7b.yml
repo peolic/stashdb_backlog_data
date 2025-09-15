@@ -1,0 +1,28 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: b8c9c225-b5da-4686-b219-95d912b28d52
+      name: Steven
+      appearance: null
+    - id: 19a83c61-e897-4117-b219-211cacbd0210
+      name: Pierre
+      appearance: null
+  append:
+    - id: null
+      name: Steven
+      appearance: null
+      disambiguation: 2011, Dare Dorm
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=504d0848-67aa-4248-99bb-217e376bf915
+      notes:
+        - https://www.realitykings.com/model/25087/steven
+    - id: null
+      name: Pierre
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=03590f35-9835-4e71-8985-b495addd2eaa
+      notes:
+        - https://www.realitykings.com/model/25089/pierre

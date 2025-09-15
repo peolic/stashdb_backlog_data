@@ -1,0 +1,17 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677298/woodmancastingx-svetlana/
+performers:
+  remove:
+    - id: efb9724e-b55b-429c-aa1a-837dad16786c
+      name: Svetlana
+      appearance: null
+  append:
+    - id: null
+      name: Svetlana
+      appearance: null
+      disambiguation: Woodman Casting X, 1993
+      status: new
+      status_url: https://www.indexxx.com/m/svetlana-24

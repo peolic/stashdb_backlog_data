@@ -1,0 +1,20 @@
+c_studio:
+  - Street BlowJobs
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=0c1b4e8f-089d-418f-a9ef-833846ad1d09
+  - https://www.indexxx.com/set/34329/street-blowjobs-candis-shannon/
+performers:
+  remove:
+    - id: 66a8abca-1b4f-42d8-a87b-c039361ad11b
+      name: Shannon
+      appearance: null
+  append:
+    - id: null
+      name: Shannon
+      appearance: null
+      disambiguation: 2007, Street Blowjobs
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7b56f9a9-3f18-44bf-bfda-fa09b80dcf08
+      notes:
+        - https://www.indexxx.com/m/shannon-2

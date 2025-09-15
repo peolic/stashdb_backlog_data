@@ -1,0 +1,15 @@
+c_studio:
+  - My Naughty Latin Maid
+  - null
+performers:
+  remove:
+    - id: b697c894-73f4-498e-a73a-59906c5ca7be
+      name: Slim
+      appearance: null
+  append:
+    - id: null
+      name: Slim
+      appearance: null
+      disambiguation: Naughty America, 2003-2006
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6b8163c5-866f-40a9-81af-758a01e574c0

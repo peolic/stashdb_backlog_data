@@ -1,0 +1,15 @@
+c_studio:
+  - Sex Mex
+  - null
+performers:
+  remove:
+    - id: 2fcb87fc-941a-4e7a-b855-ed01e66e154c
+      name: Susana
+      appearance: null
+  append:
+    - id: null
+      name: Susana
+      appearance: null
+      disambiguation: SexMex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=be8cce8d-45f8-4543-852e-242f97745641

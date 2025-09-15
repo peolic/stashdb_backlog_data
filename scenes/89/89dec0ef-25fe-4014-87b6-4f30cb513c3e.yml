@@ -1,0 +1,16 @@
+c_studio:
+  - Transsexual Roadtrip
+  - null
+performers:
+  remove:
+    - id: 5c6c6c85-614b-445a-8e72-ac4c9b5ada35
+      name: Shawna
+      appearance: null
+  append:
+    - id: null
+      name: Shawna Vegas
+      appearance: Shawna
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=85661f37-d038-494e-bcb2-d17c36811a34
+      notes:
+        - https://shemalestardb.com/stars/S/Shawna_Vegas/
