@@ -1,0 +1,22 @@
+c_studio:
+  - Girls Got Cream
+  - null
+comments:
+  - Estimated from IAFD
+  - https://www.iafd.com/title.rme/id=4f99715b-7ba9-4ef9-9f46-5368837bf542
+date: '2008'
+performers:
+  remove:
+    - id: 8a26620a-b76b-409d-984e-de58d375546b
+      name: Teagan
+      appearance: null
+  append:
+    - id: null
+      name: Teagan
+      appearance: null
+      disambiguation: Girls Got Cream, 2008
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f6a276ff-0cd1-4b75-a710-7575d42ce492
+    - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c
+      name: Mr. Henderson
+      appearance: null

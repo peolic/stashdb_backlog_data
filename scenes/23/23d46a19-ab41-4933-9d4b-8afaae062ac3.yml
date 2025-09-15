@@ -1,0 +1,20 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=92ceab79-605a-42a3-9925-3e7978561d4f
+performers:
+  remove:
+    - id: 446c72c4-90c8-44c3-82b4-d0ec9ce02479
+      name: Tessa
+      appearance: null
+  append:
+    - id: null
+      name: Tessa
+      appearance: null
+      disambiguation: 2013, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=31f2534e-0eef-446a-b75f-0839fa87057e
+      notes:
+        - https://www.indexxx.com/m/tessa-6
+        - https://www.realitykings.com/model/5159/tessa

@@ -1,0 +1,20 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=d717c92c-2f92-41a3-bae2-b3ac0b82b5e5
+  - https://www.indexxx.com/set/32978/8th-street-latinas-tanya/
+performers:
+  remove:
+    - id: c6c058a1-4176-4768-8b0a-b7eb7e1961ec
+      name: Tanya
+      appearance: null
+  append:
+    - id: null
+      name: Tanya
+      appearance: null
+      disambiguation: 2007, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2f2e023d-c917-4cd7-a2f8-e3885ced7e6f
+      notes:
+        - https://www.indexxx.com/m/tanya-2

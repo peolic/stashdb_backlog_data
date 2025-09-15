@@ -1,0 +1,20 @@
+c_studio:
+  - 8th Street Latinas
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=bf193150-6643-4da4-b141-86f47961153a
+  - https://www.indexxx.com/set/33228/8th-street-latinas-teresa/
+performers:
+  remove:
+    - id: 7f34a37c-3bf1-4a3e-99a6-9c48e6b6ff8c
+      name: Teresa
+      appearance: null
+  append:
+    - id: null
+      name: Teresa
+      appearance: null
+      disambiguation: 2002, 8th Street Latinas
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=372fb3d0-5ba8-407b-b06a-c5886cb0ceb1
+      notes:
+        - https://www.indexxx.com/m/teresa

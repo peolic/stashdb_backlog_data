@@ -1,0 +1,15 @@
+c_studio:
+  - Rocco Siffredi
+  - Adult Time
+performers:
+  remove:
+    - id: c6c058a1-4176-4768-8b0a-b7eb7e1961ec
+      name: Tanya
+      appearance: null
+  append:
+    - id: null
+      name: Tanya
+      appearance: null
+      disambiguation: 1998, Rocci Siffredi
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=77441c1c-7a74-4462-9009-50446c812696
