@@ -13,7 +13,8 @@ performers:
     - id: null
       name: Lisa Foxx
       appearance: Liza
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4b5e453d-4600-4769-966d-c1fee3edcf7c
+      status: c
+      status_url: https://stashdb.org/edits/e2e7b892-1b08-40aa-abb9-e5501fba4eb2
       notes:
+        - https://www.iafd.com/person.rme/id=4b5e453d-4600-4769-966d-c1fee3edcf7c
         - https://www.indexxx.com/m/lisa-foxx

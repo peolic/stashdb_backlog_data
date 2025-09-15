@@ -13,9 +13,10 @@ performers:
     - id: null
       name: Sasha Cream
       appearance: Sasha
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=87fac50d-2217-4465-9672-12c7e019ec79
+      status: c
+      status_url: https://stashdb.org/edits/bdabe0ab-d125-4f35-93fa-5653cc0c264a
       notes:
+        - https://www.iafd.com/person.rme/id=87fac50d-2217-4465-9672-12c7e019ec79
         - https://www.indexxx.com/m/sasha-cream
     - id: 6c5bf794-f478-41da-afac-9b74486a2040
       name: Chili Pepper

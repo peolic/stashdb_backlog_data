@@ -14,9 +14,10 @@ performers:
       name: Carlos
       appearance: Joe
       disambiguation: Reality Kings, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=76ab76b8-957b-46a0-8fd8-7de832c680f9
+      status: c
+      status_url: https://stashdb.org/edits/8b695cce-404b-4bfe-9125-c2f5abb7b9fe
       notes:
+        - https://www.iafd.com/person.rme/id=76ab76b8-957b-46a0-8fd8-7de832c680f9
         - https://www.iafd.com/person.rme/id=a5e265ac-1557-4564-a581-3fbd8d64bb33
         - https://www.realitykings.com/model/25430/joe
         - https://www.imdb.com/name/nm9494576/
