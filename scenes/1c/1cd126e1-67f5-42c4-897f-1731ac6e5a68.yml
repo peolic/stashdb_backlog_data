@@ -12,7 +12,8 @@ performers:
     - id: null
       name: James Snow
       appearance: James
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=180d6f54-2c85-4572-a1dd-9af6f461bc95
+      status: c
+      status_url: https://stashdb.org/edits/51fb696d-cdf5-4503-b206-f515f2109bba
       notes:
+        - https://www.iafd.com/person.rme/id=180d6f54-2c85-4572-a1dd-9af6f461bc95
         - https://www.realitykings.com/model/25866/james

@@ -1,0 +1,27 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: f44e4535-2c04-4527-9cc9-7d2a1cecc1f4
+      name: Trevor
+      appearance: null
+    - id: 1a160615-c925-40a9-8f40-110a34f86969
+      name: Austin
+      appearance: null
+  append:
+    - id: null
+      name: Trevor
+      appearance: null
+      disambiguation: Reality Kings, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=85d391be-3ffa-4f23-9c81-34f1eb92a916
+      notes:
+        - https://www.realitykings.com/model/21619/trevor
+    - id: null
+      name: Austin
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - Aylo ID is 21623

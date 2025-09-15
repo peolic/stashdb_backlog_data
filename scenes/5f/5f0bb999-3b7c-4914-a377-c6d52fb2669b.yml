@@ -1,0 +1,18 @@
+c_studio:
+  - Black GFs
+  - null
+performers:
+  remove:
+    - id: d8463235-9388-4f5d-9bda-959636490162
+      name: Vincent Vega
+      appearance: null
+      disambiguation: US
+  append:
+    - id: null
+      name: Vince Vega
+      appearance: null
+      disambiguation: Reality Kings, 2013
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3565905c-3670-41aa-b428-bcc3088526f5
+      notes:
+        - https://www.realitykings.com/model/25176/vince-vega

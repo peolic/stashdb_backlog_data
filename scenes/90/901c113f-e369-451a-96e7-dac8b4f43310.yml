@@ -1,0 +1,19 @@
+c_studio:
+  - Men In Pain
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=7ed9e6cc-190a-4b9e-89d8-9e4e473c7de5
+performers:
+  remove:
+    - id: 46d63047-99fd-4de0-af83-e74ae0fbe60c
+      name: Vince
+      appearance: null
+  append:
+    - id: null
+      name: Vince
+      appearance: null
+      disambiguation: Men In Pain, 2005
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fa42c7f1-4348-4a79-9472-bf2655df311f
+      notes:
+        - https://www.kink.com/model/7471/Vince

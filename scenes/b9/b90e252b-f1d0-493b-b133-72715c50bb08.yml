@@ -1,0 +1,20 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=d6a74c02-0a93-4cf9-b5a6-03f172e66516
+performers:
+  remove:
+    - id: d8463235-9388-4f5d-9bda-959636490162
+      name: Vincent Vega
+      appearance: null
+      disambiguation: US
+  append:
+    - id: null
+      name: Vince Vega
+      appearance: null
+      disambiguation: Reality Kings, 2013
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3565905c-3670-41aa-b428-bcc3088526f5
+      notes:
+        - https://www.realitykings.com/model/25176/vince-vega

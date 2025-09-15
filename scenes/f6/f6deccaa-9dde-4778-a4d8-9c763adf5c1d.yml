@@ -1,0 +1,20 @@
+c_studio:
+  - Kink University
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=abf15377-f16a-412a-ae89-a7ce27af3a40
+performers:
+  remove:
+    - id: 82aa569b-0e48-4a02-8b4a-5644e45387f7
+      name: Wes
+      appearance: null
+  append:
+    - id: null
+      name: Wes
+      appearance: null
+      disambiguation: 2014, Kink University
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8a6959c9-1aa2-44c1-9ec7-29e1a7d19c09
+      notes:
+        - https://www.kink.com/model/55719/Wes
+        - https://stashdb.org/images/81ae09d8-746d-48eb-b975-a94b7db333f0

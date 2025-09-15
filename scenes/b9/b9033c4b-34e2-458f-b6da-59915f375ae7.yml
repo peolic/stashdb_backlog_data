@@ -1,0 +1,17 @@
+c_studio:
+  - Young Libertines
+  - null
+performers:
+  remove:
+    - id: 204a8125-c4f2-4aaf-a2f7-ad8af5c19b21
+      name: Vitya
+      appearance: null
+  append:
+    - id: null
+      name: Balkon
+      appearance: Vitya
+      disambiguation: Teen Mega World, 2008
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ea11e54-9ad3-417f-9082-dc1c91769850
+      notes:
+        - https://stashdb.org/images/f0231b8e-29cd-448c-9a77-c83b8153c291

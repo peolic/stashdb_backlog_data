@@ -13,5 +13,7 @@ performers:
     - id: null
       name: David Wolfe
       appearance: Job
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=7879750a-f820-4388-a1cb-fe8ffd713615
+      status: c
+      status_url: https://stashdb.org/edits/1ff3837e-b739-4f75-b0ce-7b48d465bbd2
+      notes:
+        - https://www.iafd.com/person.rme/id=7879750a-f820-4388-a1cb-fe8ffd713615

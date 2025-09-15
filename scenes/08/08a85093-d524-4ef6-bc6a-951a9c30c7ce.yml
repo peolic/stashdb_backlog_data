@@ -10,5 +10,7 @@ performers:
     - id: null
       name: Leah Santiago
       appearance: Leah
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=54a4ba7f-370f-4002-8524-8e3143c5eade
+      status: c
+      status_url: http://stashdb.org/edits/fdb84dc4-8d14-4bde-b0b1-6f01b791fcef
+      notes:
+        - https://www.iafd.com/person.rme/id=54a4ba7f-370f-4002-8524-8e3143c5eade

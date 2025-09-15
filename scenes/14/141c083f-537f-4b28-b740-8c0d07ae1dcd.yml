@@ -1,0 +1,19 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=593dca94-e53b-434f-b1b4-42511cb3d801
+performers:
+  remove:
+    - id: 505e490d-9ee6-4d3f-90da-c21981b54884
+      name: Tony
+      appearance: null
+  append:
+    - id: null
+      name: Tony
+      appearance: null
+      disambiguation: 2011, GF Revenge
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b7b592ab-1ec0-4364-9f36-264bf5f4e34d
+      notes:
+        - https://www.realitykings.com/model/25827/tony

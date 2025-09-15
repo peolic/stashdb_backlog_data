@@ -1,0 +1,29 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 65dcfb16-1e87-46ca-b287-64f5c658c499
+      name: Tristan
+      appearance: null
+    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
+      name: Alex
+      appearance: null
+  append:
+    - id: null
+      name: Tristan Everhard
+      appearance: Tristan
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6d46abfe-efe4-4cd4-be0a-2d10bd0175d4
+      notes:
+        - https://gayeroticvideoindex.com/performer/45643
+        - https://www.themoviedb.org/person/3796117-tristan-everhard
+        - https://www.wikiporno.org/wiki/Tristan_Everhard
+    - id: null
+      name: Remi Steele
+      appearance: Alex
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=65956774-58a8-4b94-a542-b8b0da978607
+      notes:
+        - https://www.themoviedb.org/person/3796114-remi-steele
+        - https://gayeroticvideoindex.com/performer/72422
