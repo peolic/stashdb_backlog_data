@@ -12,5 +12,7 @@ performers:
     - id: null
       name: Paloma Bratio
       appearance: Paloma
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a71cc8a4-af2b-48be-8498-c559e74b0c0a
+      status: c
+      status_url: https://stashdb.org/edits/0b768475-644b-4f21-bee2-29701e4ff41e
+      notes:
+        - https://www.iafd.com/person.rme/id=a71cc8a4-af2b-48be-8498-c559e74b0c0a

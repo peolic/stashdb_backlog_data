@@ -12,5 +12,7 @@ performers:
     - id: null
       name: Ricky Valentino
       appearance: Ricky
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f78cf2e2-6004-4a28-b6a1-fd793447353c
+      status: c
+      status_url: https://stashdb.org/edits/dc5aab21-b360-436c-881c-76ed5c0fa542
+      notes:
+        - https://www.iafd.com/person.rme/id=f78cf2e2-6004-4a28-b6a1-fd793447353c

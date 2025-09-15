@@ -7,5 +7,7 @@ performers:
     - id: null
       name: J.R. Nelson
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=78dbf04f-f282-485c-83cc-e6799228f246
+      status: c
+      status_url: https://stashdb.org/edits/bccf6689-ce17-45f1-8b84-19a424b19ead
+      notes:
+        - https://www.iafd.com/person.rme/id=78dbf04f-f282-485c-83cc-e6799228f246

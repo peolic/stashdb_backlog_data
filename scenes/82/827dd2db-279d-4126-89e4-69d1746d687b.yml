@@ -10,5 +10,7 @@ performers:
     - id: null
       name: Fuk Mi
       appearance: Mimi
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=706d0241-39ca-4de4-90fd-ce51dcb23331
+      status: c
+      status_url: https://stashdb.org/edits/84bef010-2bd2-49a1-89bc-6cae93bcf6ce
+      notes:
+        - https://www.iafd.com/person.rme/id=706d0241-39ca-4de4-90fd-ce51dcb23331

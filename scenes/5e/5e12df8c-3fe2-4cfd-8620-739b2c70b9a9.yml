@@ -12,5 +12,7 @@ performers:
     - id: null
       name: Nina Russell
       appearance: Kelly
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4a8c3fd5-fb39-4e9e-b880-da49943f194e
+      status: c
+      status_url: https://stashdb.org/edits/59e162cb-4a02-4b37-a906-fefd5767c039
+      notes:
+        - https://www.iafd.com/person.rme/id=4a8c3fd5-fb39-4e9e-b880-da49943f194e
