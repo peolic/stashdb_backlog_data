@@ -1,0 +1,22 @@
+c_studio:
+  - Try Teens
+  - null
+comments:
+  - Estimated from IAFD
+  - https://www.iafd.com/title.rme/id=75eb9c37-02b7-43b8-a296-2193f0eda6f3
+date: '2008'
+performers:
+  remove:
+    - id: 0c19eb78-3894-42dc-a7ab-c18e4995ea1e
+      name: Tianna
+      appearance: null
+  append:
+    - id: null
+      name: Tianna
+      appearance: null
+      disambiguation: 2008, Teen Core Club
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9431af1c-08ff-4382-84db-32d78fe62c70
+    - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c
+      name: Mr. Henderson
+      appearance: null

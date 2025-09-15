@@ -1,0 +1,25 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 7c29e862-b164-4411-9a2f-b8b8fd30ca45
+      name: Tommy
+      appearance: null
+    - id: 26bad730-2e79-47ec-bcd3-a4e5f21253b7
+      name: Sam
+      appearance: null
+  append:
+    - id: null
+      name: Tommy
+      appearance: null
+      disambiguation: Reality Dudes, 2009
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=71ebe857-ca83-4ff4-a0e3-158afc0b9e99
+      notes:
+        - https://gayeroticvideoindex.com/performer/82185
+    - id: null
+      name: Sam
+      appearance: null
+      disambiguation: Boys First Time, 2009
+      status: new

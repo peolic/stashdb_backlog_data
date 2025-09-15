@@ -1,0 +1,19 @@
+c_studio:
+  - Twistys
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=075b5576-41a2-4bab-8c36-a9613f019413
+  - https://www.indexxx.com/set/217746/twistys-tianna/
+performers:
+  remove:
+    - id: 0c19eb78-3894-42dc-a7ab-c18e4995ea1e
+      name: Tianna
+      appearance: null
+  append:
+    - id: null
+      name: Leslie Thick
+      appearance: Tianna
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b0f1674c-5898-44cc-940a-a0b84d1f79f1
+      notes:
+        - https://www.indexxx.com/m/tianna-4

@@ -1,0 +1,19 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=294d5c1a-19e6-46b6-acf1-b16aa0c9c394
+performers:
+  remove:
+    - id: 7c29e862-b164-4411-9a2f-b8b8fd30ca45
+      name: Tommy
+      appearance: null
+  append:
+    - id: null
+      name: Tommy
+      appearance: null
+      disambiguation: 2018, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=beb251c4-6aa2-48d3-b5b3-de8bc1a64317
+      notes:
+        - https://bangbros.com/model/404951/tommy
