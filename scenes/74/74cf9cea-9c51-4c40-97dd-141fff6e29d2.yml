@@ -1,0 +1,17 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #4, Scene #2'
+performers:
+  remove:
+    - id: 3dcaaef7-3c4b-4dc7-873a-3e8c936a753b
+      name: Sasha
+      appearance: null
+  append:
+    - id: null
+      name: Sasha
+      appearance: null
+      disambiguation: 2005, V9
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=246f882c-6982-45fd-8761-5fa63d777989

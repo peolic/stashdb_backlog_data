@@ -1,0 +1,17 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677603/woodmancastingx-sandrine/
+performers:
+  remove:
+    - id: 8e3ad71a-6ce1-46d7-a3c8-228113e83406
+      name: Sandrine
+      appearance: null
+  append:
+    - id: null
+      name: Sandrine
+      appearance: null
+      disambiguation: Woodman Casting X, 1993
+      status: new
+      status_url: https://www.indexxx.com/m/sandrine-4

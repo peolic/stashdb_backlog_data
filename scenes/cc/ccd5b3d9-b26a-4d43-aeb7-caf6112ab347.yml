@@ -1,0 +1,17 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=8d13b8a9-638e-48a1-a502-ba1c2210e2ec
+performers:
+  remove:
+    - id: 4d344713-91f1-48d7-9f2c-806f5a56c0af
+      name: Scott
+      appearance: null
+  append:
+    - id: null
+      name: Scott
+      appearance: null
+      disambiguation: 2004, In the VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=99379b2c-386b-471f-95f1-9f094b01ccbf

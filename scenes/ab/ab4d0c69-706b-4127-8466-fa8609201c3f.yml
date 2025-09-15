@@ -1,0 +1,26 @@
+c_studio:
+  - BangBros Remastered
+  - null
+comments:
+  - https://www.indexxx.com/set/503090/bangbros-remastered-sasha/
+performers:
+  remove:
+    - id: 3dcaaef7-3c4b-4dc7-873a-3e8c936a753b
+      name: Sasha
+      appearance: null
+  append:
+    - id: null
+      name: Sasha
+      appearance: null
+      disambiguation: 2001, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d6129733-2af2-4deb-85f3-6cd097ca5248
+      notes:
+        - https://www.indexxx.com/m/sasha-21
+        - https://bangbros.com/model/402831/sasha
+    - id: null
+      name: Daimon
+      appearance: null
+      disambiguation: Bang Bus, 2001
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0ae45b19-9f73-488b-af7e-0fa7e46460d2

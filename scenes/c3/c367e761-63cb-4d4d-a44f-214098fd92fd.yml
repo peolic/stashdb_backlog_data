@@ -1,0 +1,23 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=91c1afab-c9e5-43eb-88ec-176826f1db28
+  - https://www.indexxx.com/set/19515/bang-bus-sandra-stefanie-renee/
+performers:
+  remove:
+    - id: 6172e360-640b-4013-a872-8ab95b7bc819
+      name: Sandra
+      appearance: null
+  append:
+    - id: null
+      name: Sandra
+      appearance: null
+      disambiguation: 2005, Bang Bus
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b27a3871-e835-4d65-9f44-94896302b47d
+      notes:
+        - https://www.indexxx.com/m/sandra-3
+        - https://www.thenude.com/_33843.htm
+        - https://www.babepedia.com/babe/Sandra_(Bang_Bus)
+        - https://www.karups.com/model/camille-190.html

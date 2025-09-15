@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 80186909-2de5-4b36-8994-74bf7252fc73
+      name: Samuel
+      appearance: null
+    - id: a8243e8f-b0a5-4c7c-b7ac-904ebfd1ae69
+      name: Hunter
+      appearance: null
+  append:
+    - id: null
+      name: Latin Rex
+      appearance: Samuel
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2fc3dc46-cf10-4cb2-bf0d-4b7fe6342375
+      notes:
+        - https://gayeroticvideoindex.com/performer/37437
+    - id: null
+      name: Hunter
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new

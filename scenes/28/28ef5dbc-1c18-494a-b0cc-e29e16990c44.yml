@@ -1,0 +1,19 @@
+c_studio:
+  - Reality Dudes
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=649054fe-33d7-41cf-b8e3-dc119a60c6b6
+performers:
+  remove:
+    - id: f8282c6b-d9ad-486d-b9b5-8ee6c74b165d
+      name: Santiago
+      appearance: null
+  append:
+    - id: null
+      name: Santiago
+      appearance: null
+      disambiguation: 2018, Reality Dudes
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=52d8a2cd-b0dd-4dde-80fe-6900274d06b5
+      notes:
+        - https://www.realitydudes.com/model/23810/santiago
