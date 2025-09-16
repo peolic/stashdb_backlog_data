@@ -11,5 +11,7 @@ performers:
       name: Jessica
       appearance: null
       disambiguation: 2005, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1615df56-e070-4635-a00a-94f2c451f8f0
+      status: c
+      status_url: https://stashdb.org/edits/f1a3033f-893a-4e38-9e68-ee6de3e4fe2c
+      notes:
+        - https://www.iafd.com/person.rme/id=1615df56-e070-4635-a00a-94f2c451f8f0
