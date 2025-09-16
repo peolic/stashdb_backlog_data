@@ -7,10 +7,8 @@ performers:
       name: Joe Schmoe
       appearance: null
   append:
-    - id: null
+    - id: ba9f448b-cc1f-4500-984d-eddd5ad6bee6
       name: Simon Synister
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/969589db-ca3f-46d9-8ee3-087695b3c221
       notes:
         - https://www.iafd.com/person.rme/id=fb3b56b0-9fe4-4c3c-bff4-4f2076737805

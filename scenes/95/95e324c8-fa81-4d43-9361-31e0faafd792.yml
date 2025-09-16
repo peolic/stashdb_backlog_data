@@ -9,10 +9,8 @@ performers:
       name: Paloma
       appearance: null
   append:
-    - id: null
+    - id: b4fc8e67-6bd8-4670-9c3c-fcb3afe5c6e2
       name: Paloma Bratio
       appearance: Paloma
-      status: c
-      status_url: https://stashdb.org/edits/0b768475-644b-4f21-bee2-29701e4ff41e
       notes:
         - https://www.iafd.com/person.rme/id=a71cc8a4-af2b-48be-8498-c559e74b0c0a

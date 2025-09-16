@@ -7,10 +7,8 @@ performers:
       name: Mimi
       appearance: null
   append:
-    - id: null
+    - id: 8b2b347a-04c2-44b6-956b-3941992d5409
       name: Fuk Mi
       appearance: Mimi
-      status: c
-      status_url: https://stashdb.org/edits/84bef010-2bd2-49a1-89bc-6cae93bcf6ce
       notes:
         - https://www.iafd.com/person.rme/id=706d0241-39ca-4de4-90fd-ce51dcb23331

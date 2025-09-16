@@ -7,11 +7,9 @@ performers:
       name: Passion
       appearance: null
   append:
-    - id: null
+    - id: c64bc488-3daa-4dae-9d35-c8b13b2f3df5
       name: Lila Passion
       appearance: Passion
-      status: c
-      status_url: https://stashdb.org/edits/141c582d-ff28-4b74-a1c4-7ed7cc6865db
       notes:
         - https://www.iafd.com/person.rme/id=7013e54a-3e8e-42b3-97c6-d0ab529a1f93
     - id: 00448815-8980-4a51-8691-1790750c2412

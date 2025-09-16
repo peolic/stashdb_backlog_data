@@ -9,10 +9,8 @@ performers:
       name: Mario
       appearance: null
   append:
-    - id: null
+    - id: f43eaded-20b7-4f86-8249-7239a9cd7496
       name: Mario Peeples
       appearance: Mario
-      status: c
-      status_url: https://stashdb.org/edits/8980ef1e-095a-4ad9-9011-0a3cfb35febc
       notes:
         - https://www.iafd.com/person.rme/id=96af7abe-df09-4ff6-a778-abd96a98d518

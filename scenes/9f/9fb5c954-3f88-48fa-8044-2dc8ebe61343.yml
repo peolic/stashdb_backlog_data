@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 9efa21d3-f3a5-472e-a061-3de1c927a1d9
       name: J.R. Nelson
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/bccf6689-ce17-45f1-8b84-19a424b19ead
       notes:
         - https://www.iafd.com/person.rme/id=78dbf04f-f282-485c-83cc-e6799228f246

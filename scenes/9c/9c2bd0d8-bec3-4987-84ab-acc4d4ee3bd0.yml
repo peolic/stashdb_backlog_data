@@ -11,11 +11,9 @@ performers:
       name: Maggie
       appearance: null
   append:
-    - id: null
+    - id: d9814fc1-7344-41cc-8fd3-f42e3e50c3fa
       name: Cara Faucet
       appearance: Maggie
-      status: c
-      status_url: https://stashdb.org/edits/cdd17666-8570-46e5-94f4-ed5330f8cb10
       notes:
         - https://www.iafd.com/person.rme/id=73617101-46cd-4e85-badb-733917a0acf9
         - https://www.indexxx.com/m/maggie-2

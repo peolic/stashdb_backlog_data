@@ -10,11 +10,9 @@ performers:
       name: Molly
       appearance: null
   append:
-    - id: null
+    - id: 480e513a-3747-4891-87e6-bb3ab26a0d80
       name: Molly Malone
       appearance: Molly
-      status: c
-      status_url: https://stashdb.org/edits/ca7aa165-ddc5-4e7a-a30a-99cd5065de37
       notes:
         - https://www.iafd.com/person.rme/id=0c462037-c8c9-4c93-b9bf-ddef4af0b730
         - https://www.indexxx.com/m/molly-4
