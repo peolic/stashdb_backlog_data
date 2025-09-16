@@ -10,10 +10,8 @@ performers:
       appearance: null
       disambiguation: 18videoz
   append:
-    - id: null
+    - id: 821d4ccd-7e94-4e25-b4d9-8f36d4d76452
       name: David Wolfe
       appearance: Job
-      status: c
-      status_url: https://stashdb.org/edits/1ff3837e-b739-4f75-b0ce-7b48d465bbd2
       notes:
         - https://www.iafd.com/person.rme/id=7879750a-f820-4388-a1cb-fe8ffd713615

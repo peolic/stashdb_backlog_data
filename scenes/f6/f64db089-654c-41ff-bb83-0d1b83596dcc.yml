@@ -11,5 +11,7 @@ performers:
       name: Susana
       appearance: null
       disambiguation: SexMex
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=be8cce8d-45f8-4543-852e-242f97745641
+      status: c
+      status_url: https://stashdb.org/edits/714b2b4a-49da-44dc-b9c7-e5b843184532
+      notes:
+        - https://www.iafd.com/person.rme/id=be8cce8d-45f8-4543-852e-242f97745641

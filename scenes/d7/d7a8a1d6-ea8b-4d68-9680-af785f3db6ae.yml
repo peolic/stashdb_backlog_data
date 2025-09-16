@@ -1,11 +1,17 @@
 c_studio:
   - My Naughty Latin Maid
   - null
-comments:
-  - Slim is not in this scene.
 performers:
   remove:
     - id: b697c894-73f4-498e-a73a-59906c5ca7be
       name: Slim
       appearance: null
-  append: []
+  append:
+    - id: null
+      name: Slim
+      appearance: null
+      disambiguation: Naughty America, 2003-2006
+      status: c
+      status_url: https://stashdb.org/edits/58f61b9a-2c49-45d2-b32f-c013e432cf5f
+      notes:
+        - https://www.iafd.com/person.rme/id=6b8163c5-866f-40a9-81af-758a01e574c0
