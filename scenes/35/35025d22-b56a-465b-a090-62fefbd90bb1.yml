@@ -9,12 +9,10 @@ performers:
       name: Kate
       appearance: null
   append:
-    - id: null
+    - id: b79034d2-c33e-4e81-bdd2-d6feadb567f7
       name: Kate
       appearance: null
       disambiguation: 2010, 21 Sextreme
-      status: c
-      status_url: https://stashdb.org/edits/7a1fca9f-3c4c-45a1-8692-3cbe32f0d601
       notes:
         - https://www.iafd.com/person.rme/id=43a0704b-6374-4817-ac90-4a318720dd53
         - https://www.indexxx.com/m/kate-19

@@ -9,12 +9,10 @@ performers:
       name: Michelleextra
       appearance: null
   append:
-    - id: null
+    - id: e7e86c4b-15ca-45d0-b638-61cd143420d2
       name: Jamie
       appearance: null
       disambiguation: 2004, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/06ce63c8-a73d-4237-8dec-1ee58d12cec9
       notes:
         - https://www.iafd.com/person.rme/id=b8068e89-1ddd-4786-9a06-b4d29c89ff8b
         - https://www.indexxx.com/m/jamie-5

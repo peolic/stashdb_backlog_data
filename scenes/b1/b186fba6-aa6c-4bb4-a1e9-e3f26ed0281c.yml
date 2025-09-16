@@ -7,12 +7,10 @@ performers:
       name: Joe
       appearance: null
   append:
-    - id: null
+    - id: 0424c3e7-56c3-40c2-b467-675c6ac8f9de
       name: Carlos
       appearance: Joe
       disambiguation: Reality Kings, 2012
-      status: c
-      status_url: https://stashdb.org/edits/8b695cce-404b-4bfe-9125-c2f5abb7b9fe
       notes:
         - https://www.iafd.com/person.rme/id=76ab76b8-957b-46a0-8fd8-7de832c680f9
         - https://www.iafd.com/person.rme/id=a5e265ac-1557-4564-a581-3fbd8d64bb33

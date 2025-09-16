@@ -7,12 +7,10 @@ performers:
       name: Vitya
       appearance: null
   append:
-    - id: null
+    - id: 3144edc6-ddd1-4950-ab76-d8d60654cf8a
       name: Balkon
       appearance: Vitya
       disambiguation: Teen Mega World, 2008
-      status: c
-      status_url: https://stashdb.org/edits/0710c2ef-8cf4-40a9-9f26-ef1c8bd0d26f
       notes:
         - https://www.iafd.com/person.rme/id=0ea11e54-9ad3-417f-9082-dc1c91769850
         - https://stashdb.org/images/f0231b8e-29cd-448c-9a77-c83b8153c291

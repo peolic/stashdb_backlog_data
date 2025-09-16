@@ -9,10 +9,8 @@ performers:
       name: Ross
       appearance: null
   append:
-    - id: null
+    - id: e5531d06-21f3-491b-ad7f-6a60d2f7059f
       name: Ross Sevrance
       appearance: Ross
-      status: c
-      status_url: https://stashdb.org/edits/0d550ebf-2511-406c-afc4-81e3fafd7cba
       notes:
         - https://www.iafd.com/person.rme/id=2fa8541b-ff21-4a98-8b4a-d58c67997537

@@ -10,11 +10,9 @@ performers:
       name: Sasha
       appearance: null
   append:
-    - id: null
+    - id: 14d336b3-9a5f-40f8-b6ba-dd8da2b113c7
       name: Sasha Cream
       appearance: Sasha
-      status: c
-      status_url: https://stashdb.org/edits/bdabe0ab-d125-4f35-93fa-5653cc0c264a
       notes:
         - https://www.iafd.com/person.rme/id=87fac50d-2217-4465-9672-12c7e019ec79
         - https://www.indexxx.com/m/sasha-cream

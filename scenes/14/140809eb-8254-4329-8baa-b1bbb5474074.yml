@@ -10,12 +10,10 @@ performers:
       name: Janice
       appearance: null
   append:
-    - id: null
+    - id: b2972238-40ff-409f-ad77-8bf473960324
       name: Janice
       appearance: null
       disambiguation: 2010, Teen Mega World
-      status: c
-      status_url: https://stashdb.org/edits/dfe96982-f832-44ee-9225-2199dcd7ef25
       notes:
         - https://www.iafd.com/person.rme/id=05181d15-579a-4f97-a69e-5ab3addc07b0
         - https://www.indexxx.com/m/janice-4

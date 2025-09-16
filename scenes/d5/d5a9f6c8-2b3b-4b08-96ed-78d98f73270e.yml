@@ -7,11 +7,9 @@ performers:
       name: Markus
       appearance: null
   append:
-    - id: null
+    - id: 9727201e-2ca1-4a31-bbb8-6fe8a2914d9f
       name: Jaroslav
       appearance: Markus
       disambiguation: Pink Visual, 2008
-      status: c
-      status_url: https://stashdb.org/edits/faf9cb99-f761-4aac-a52f-dc2eb6c70f13
       notes:
         - https://www.iafd.com/person.rme/id=bc3f5bbb-b7fe-427f-a84c-4705ea9f83b4

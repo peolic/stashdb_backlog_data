@@ -10,11 +10,9 @@ performers:
       name: Tianna
       appearance: null
   append:
-    - id: null
+    - id: 9489228a-32dd-428c-b166-eae6c0ac7c89
       name: Leslie Thick
       appearance: Tianna
-      status: c
-      status_url: https://stashdb.org/edits/737db4d6-6537-42ef-9863-24502c9fb2dc
       notes:
         - https://www.iafd.com/person.rme/id=b0f1674c-5898-44cc-940a-a0b84d1f79f1
         - https://www.indexxx.com/m/tianna-4

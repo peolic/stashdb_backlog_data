@@ -7,12 +7,10 @@ performers:
       name: Tommy
       appearance: null
   append:
-    - id: null
+    - id: e0d0b881-fca3-4240-b88c-43d7c62a0372
       name: Tommy
       appearance: null
       disambiguation: 2011-2012, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/9780c519-2c0f-4835-9b9c-3c2fd63174cc
       notes:
         - https://www.iafd.com/person.rme/id=7257db81-3507-4b68-89c3-2f9aebcb7889
         - https://www.realitykings.com/model/10367/tommy

@@ -9,12 +9,10 @@ performers:
       name: James
       appearance: null
   append:
-    - id: null
+    - id: 8fa52608-c842-41a0-b80c-bd22d7ef2df6
       name: James
       appearance: null
       disambiguation: 2005-2006, Men In Pain
-      status: c
-      status_url: https://stashdb.org/edits/9915280c-ab94-4897-91e3-49128c75c0fc
       notes:
         - https://www.iafd.com/person.rme/id=d824b3a8-0ec5-4d54-b087-3299a1b5ba22
         - https://www.kink.com/model/10539/James
