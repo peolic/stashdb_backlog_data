@@ -9,11 +9,9 @@ performers:
       name: Michael
       appearance: null
   append:
-    - id: null
+    - id: 24a60099-0105-4c42-b482-3d6614aabf21
       name: Michael
       appearance: null
       disambiguation: 2008, See My Wife
-      status: c
-      status_url: https://stashdb.org/edits/68d49efd-695c-407f-8d9c-7d54390658a2
       notes:
         - https://www.iafd.com/person.rme/id=a1a754bf-527e-4f0c-845e-cdab942a0bd2

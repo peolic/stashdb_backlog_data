@@ -7,12 +7,10 @@ performers:
       name: Phoenix
       appearance: null
   append:
-    - id: null
+    - id: 05435d9d-2d03-4837-89a3-4534c370da0e
       name: Phoenix
       appearance: null
       disambiguation: ALS Scan
-      status: c
-      status_url: https://stashdb.org/edits/1c5b8f67-55f1-4aa6-add5-072b9721b2e3
       notes:
         - https://www.indexxx.com/m/phoenix-8
         - https://www.alsscan.com/model/phoenix
