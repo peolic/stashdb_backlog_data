@@ -11,11 +11,9 @@ performers:
       name: Mariana
       appearance: null
   append:
-    - id: null
+    - id: c147a10a-be0b-4e35-8b20-64eceacacedf
       name: "Marianna Ferr\xE9"
       appearance: Mariana
-      status: c
-      status_url: https://stashdb.org/edits/2a447ee1-6912-4fe2-b825-4cf05bafe965
       notes:
         - https://www.iafd.com/person.rme/id=4d5a39b4-87da-456a-946a-944e93ac74f6
         - https://www.indexxx.com/m/mariana-15

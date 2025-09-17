@@ -7,12 +7,10 @@ performers:
       name: Lida
       appearance: null
   append:
-    - id: null
+    - id: d6eaebf1-e421-48e8-a2d9-d5f8877ab0e1
       name: Lida
       appearance: null
       disambiguation: 2011, Doghouse Digital
-      status: c
-      status_url: https://stashdb.org/edits/04c2691b-66e9-4e65-8935-0604fa1f0cfc
       notes:
         - https://www.iafd.com/person.rme/id=48e833d4-b56e-4bb9-a4c2-5f3b77343e0c
         - https://www.doghousedigital.com/model/64250/lida

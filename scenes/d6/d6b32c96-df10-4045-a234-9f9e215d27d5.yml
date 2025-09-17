@@ -7,12 +7,10 @@ performers:
       name: Nelson
       appearance: null
   append:
-    - id: null
+    - id: e2100503-6b76-43a1-b137-af57361d3e48
       name: Nelson
       appearance: null
       disambiguation: 2014, Trans500
-      status: c
-      status_url: https://stashdb.org/edits/65e7c636-23b2-4116-820c-35df27345579
       notes:
         - https://www.iafd.com/person.rme/id=624f5bef-a2dd-49d1-b483-05bdd84acf95
         - https://stashdb.org/images/0ba42ba0-54fc-496b-86c2-65429a1cd48f

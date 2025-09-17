@@ -7,11 +7,9 @@ performers:
       name: Joe
       appearance: null
   append:
-    - id: null
+    - id: a467ab20-3674-47a3-ae92-910dda5c35b7
       name: Joe
       appearance: null
       disambiguation: My Teen Oasis
-      status: c
-      status_url: https://stashdb.org/edits/a8eba505-6671-4c54-b364-4bcdf8b0b496
       notes:
         - https://www.iafd.com/person.rme/id=1317d582-3c42-4968-b9d5-209506209bbf

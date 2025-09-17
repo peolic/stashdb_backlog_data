@@ -10,12 +10,10 @@ performers:
       name: Jessica
       appearance: null
   append:
-    - id: null
+    - id: 5dccc6f5-c055-4513-bc80-fe18de117298
       name: Jessica
       appearance: null
       disambiguation: 2005, DDF
-      status: c
-      status_url: https://stashdb.org/edits/c64e36c5-ae08-4a4b-ba58-b19da6d7fd83
       notes:
         - https://www.iafd.com/person.rme/id=b70036d1-1a7e-4685-905c-1d59fde368a1
         - https://www.indexxx.com/m/jessica
