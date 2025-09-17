@@ -2,7 +2,7 @@ split:
   name: Ricky
   fragments:
     - column: M
-      id: null
+      id: 569b8844-48d0-435c-b503-0682148a6984
       name: Ricky (Monsters of Cock)
       text: Monsters of Cock
       links:
@@ -17,7 +17,7 @@ split:
         - https://stashdb.org/scenes/6f6b53ee-3a7f-42d4-86db-379ed29a658e
         - https://stashdb.org/scenes/c9ee75b7-3c22-43d9-b77b-b5d9fa10b710
     - column: N
-      id: null
+      id: 8bf56082-c63e-423e-a4ae-93cce5d71916
       name: Ricky Valentino
       text: Mike's Apartment
       links:

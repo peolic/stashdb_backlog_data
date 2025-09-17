@@ -6,7 +6,7 @@ split:
       name: '[multiple performers]'
       text: 707 scenes (as of 2024-06-03)
     - column: J
-      id: null
+      id: 9efa21d3-f3a5-472e-a061-3de1c927a1d9
       name: J.R. Nelson
       text: (at least) 1 scene (+2 related)
       notes:
@@ -20,7 +20,7 @@ split:
         - https://stashdb.org/scenes/172f9e04-9aa8-4115-b080-ddaaef0135af
         - https://stashdb.org/scenes/9fb5c954-3f88-48fa-8044-2dc8ebe61343
     - column: O
-      id: null
+      id: ba9f448b-cc1f-4500-984d-eddd5ad6bee6
       name: Simon Synister
       text: (at least) 1 scene
       notes:
