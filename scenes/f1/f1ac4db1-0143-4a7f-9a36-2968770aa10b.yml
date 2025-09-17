@@ -9,12 +9,10 @@ performers:
       name: Jeremy
       appearance: null
   append:
-    - id: null
+    - id: cd0d1272-8857-42e2-9bd1-7b52d2fa746f
       name: Jeremy
       appearance: null
       disambiguation: 2012, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/b52b58f6-4c6f-4860-93a8-6d4a19c0558d
       notes:
         - https://www.iafd.com/person.rme/id=415a5fc7-23e8-4742-a6d1-9b11fafc2c7e
         - https://www.realitykings.com/model/26051/jeremy

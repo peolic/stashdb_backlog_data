@@ -9,12 +9,10 @@ performers:
       name: Sasha
       appearance: null
   append:
-    - id: null
+    - id: 6b808ea4-718e-4692-bc59-fe4e4fc3acd0
       name: Sasha
       appearance: null
       disambiguation: 2001, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/ab0b8330-861e-421d-8947-c4581eb49ece
       notes:
         - https://www.iafd.com/person.rme/id=d6129733-2af2-4deb-85f3-6cd097ca5248
         - https://www.indexxx.com/m/sasha-21

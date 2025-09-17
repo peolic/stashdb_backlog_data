@@ -10,12 +10,10 @@ performers:
       name: Sabrina
       appearance: null
   append:
-    - id: null
+    - id: e25a5be5-4ceb-40b6-9efc-2c130cec90e6
       name: Sabrina
       appearance: null
       disambiguation: 2007, BangBros
-      status: c
-      status_url: https://stashdb.org/edits/5f9e3499-c0df-496c-8559-2d32850717e9
       notes:
         - https://www.iafd.com/person.rme/id=724def3c-db4c-4c7d-a874-43b6c7a22b1b
         - https://www.indexxx.com/m/sabrina
