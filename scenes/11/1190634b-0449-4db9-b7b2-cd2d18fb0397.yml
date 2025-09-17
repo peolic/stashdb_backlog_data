@@ -9,11 +9,9 @@ performers:
       name: Anna
       appearance: null
   append:
-    - id: null
+    - id: be0447bb-8f9c-40d9-82d2-455f0380b64a
       name: Millie
       appearance: Anna
       disambiguation: 2006, V9
-      status: c
-      status_url: https://stashdb.org/edits/2bf0bf39-9a6b-461f-9cc1-c8fd7907d911
       notes:
         - https://www.iafd.com/person.rme/id=7442956f-98fd-463e-abfd-90f01ae06a92

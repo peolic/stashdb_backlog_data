@@ -7,12 +7,10 @@ performers:
       name: Shannon
       appearance: null
   append:
-    - id: null
+    - id: 7ca3f953-8522-40d3-bc34-b1d84d63c200
       name: Shannon
       appearance: null
       disambiguation: 2004, Twistys
-      status: c
-      status_url: https://stashdb.org/edits/6e55f1d2-1abd-4d1b-bba7-73ce72a99d0f
       notes:
         - https://www.iafd.com/person.rme/id=20aa2e1b-8c9e-427c-b07c-1ccdf704b4c4
         - https://www.indexxx.com/m/shannon-4

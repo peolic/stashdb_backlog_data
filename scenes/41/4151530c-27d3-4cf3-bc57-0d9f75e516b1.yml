@@ -9,11 +9,9 @@ performers:
       name: Rudy
       appearance: null
   append:
-    - id: null
+    - id: 7792e284-3a0b-406a-a40c-d95100c97577
       name: Rodboy
       appearance: Rudy
       disambiguation: Adult Prime
-      status: c
-      status_url: https://stashdb.org/edits/98358ccd-df93-4a8c-88be-7f751cd0bb73
       notes:
         - https://www.iafd.com/person.rme/id=4f81ee12-84cb-4859-82f9-ec7dafbbbde0
