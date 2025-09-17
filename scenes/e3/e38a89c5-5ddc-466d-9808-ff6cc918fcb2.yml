@@ -14,14 +14,17 @@ performers:
       name: Sasha
       appearance: null
       disambiguation: 2001, Bang Bus
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d6129733-2af2-4deb-85f3-6cd097ca5248
+      status: c
+      status_url: https://stashdb.org/edits/ab0b8330-861e-421d-8947-c4581eb49ece
       notes:
+        - https://www.iafd.com/person.rme/id=d6129733-2af2-4deb-85f3-6cd097ca5248
         - https://www.indexxx.com/m/sasha-21
         - https://bangbros.com/model/402831/sasha
     - id: null
       name: Daimon
       appearance: null
       disambiguation: Bang Bus, 2001
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0ae45b19-9f73-488b-af7e-0fa7e46460d2
+      status: c
+      status_url: https://stashdb.org/edits/03265660-af2d-4266-80c8-af0e913e59d2
+      notes:
+        - https://www.iafd.com/person.rme/id=0ae45b19-9f73-488b-af7e-0fa7e46460d2

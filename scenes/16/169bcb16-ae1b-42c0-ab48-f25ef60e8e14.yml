@@ -13,5 +13,7 @@ performers:
       name: Rodboy
       appearance: Rudy
       disambiguation: Adult Prime
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4f81ee12-84cb-4859-82f9-ec7dafbbbde0
+      status: c
+      status_url: https://stashdb.org/edits/98358ccd-df93-4a8c-88be-7f751cd0bb73
+      notes:
+        - https://www.iafd.com/person.rme/id=4f81ee12-84cb-4859-82f9-ec7dafbbbde0
