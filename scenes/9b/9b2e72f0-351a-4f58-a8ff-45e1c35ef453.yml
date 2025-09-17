@@ -14,9 +14,10 @@ performers:
       name: Jessica
       appearance: null
       disambiguation: 2005, DDF
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b70036d1-1a7e-4685-905c-1d59fde368a1
+      status: c
+      status_url: https://stashdb.org/edits/c64e36c5-ae08-4a4b-ba58-b19da6d7fd83
       notes:
+        - https://www.iafd.com/person.rme/id=b70036d1-1a7e-4685-905c-1d59fde368a1
         - https://www.indexxx.com/m/jessica
         - https://www.thenude.com/_7142.htm
         - https://www.atkarchives.com/tour/model/bia001

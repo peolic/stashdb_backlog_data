@@ -14,15 +14,17 @@ performers:
       name: Mandy
       appearance: null
       disambiguation: 2004, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=5a862da3-e11f-4a61-aec5-293adb72c596
+      status: c
+      status_url: https://stashdb.org/edits/ec69de67-7f48-43a3-bd2a-ba92d4659219
       notes:
+        - https://www.iafd.com/person.rme/id=5a862da3-e11f-4a61-aec5-293adb72c596
         - https://cdn.stashdb.org/images/9c/44/9c44a3a6-a385-4fa4-a976-c502094272f0
     - id: null
       name: Adam
       appearance: null
       disambiguation: 2004, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/c940cb2a-9d84-454e-9ab6-593dd24a8b96
       notes:
         - https://stashdb.org/images/d57a15ef-e9ba-4179-aed9-211a9776e37f
         - Possible back of the neck tattoo

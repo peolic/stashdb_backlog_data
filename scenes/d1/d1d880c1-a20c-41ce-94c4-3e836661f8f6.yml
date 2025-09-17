@@ -11,6 +11,7 @@ performers:
       name: Josh
       appearance: null
       disambiguation: ALS Scan, 2010
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/45bfda6d-68ff-49e6-b831-a5925fcf2da7
       notes:
         - https://www.alsscan.com/model/josh/movies/latest
