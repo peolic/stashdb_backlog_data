@@ -7,10 +7,8 @@ performers:
       name: Leah
       appearance: null
   append:
-    - id: null
+    - id: 947abc83-e8e9-4d24-91ae-b9ef2b30c18b
       name: Leah Santiago
       appearance: Leah
-      status: c
-      status_url: http://stashdb.org/edits/fdb84dc4-8d14-4bde-b0b1-6f01b791fcef
       notes:
         - https://www.iafd.com/person.rme/id=54a4ba7f-370f-4002-8524-8e3143c5eade
