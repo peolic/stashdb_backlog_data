@@ -1,19 +1,7 @@
 split:
   name: Paloma
-  fragments:
-    - column: I
-      id: a0215e07-6bb3-4051-818c-dbae7edad518
-      name: Paloma (2007-2011, Sex Mex)
-      text: Sex Mex (9 scenes)
-      links:
-        - https://www.iafd.com/person.rme/id=c0b8844e-3646-483f-9a65-dbfdb7d98299
-    - column: J
-      id: b4fc8e67-6bd8-4670-9c3c-fcb3afe5c6e2
-      name: Paloma Bratio
-      text: Tranny Surprise "Coconut Milk"
-      links:
-        - https://www.iafd.com/person.rme/id=a71cc8a4-af2b-48be-8498-c559e74b0c0a
-        - https://stashdb.org/scenes/95e324c8-fa81-4d43-9361-31e0faafd792
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,15 +1,7 @@
 split:
   name: Shawna
-  fragments:
-    - column: K
-      id: afcc7c24-0a1d-4cd1-bbf3-16f17c9084eb
-      name: Shawna Vegas
-      text: 'Transsexual Roadtrip "T-Girl Fuck Hotel #08"'
-      links:
-        - https://www.iafd.com/person.rme/id=85661f37-d038-494e-bcb2-d17c36811a34
-        - https://stashdb.org/scenes/89dec0ef-25fe-4014-87b6-4f30cb513c3e
-        - https://shemalestardb.com/stars/S/Shawna_Vegas/
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-30)
     - Best to move scenes and delete performer, rather than merging or renaming.
