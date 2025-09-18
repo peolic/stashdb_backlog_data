@@ -1,16 +1,7 @@
 split:
   name: Jocelyn
-  fragments:
-    - column: I
-      id: e0917b6d-6f16-4c9c-aef7-293a6efda0fc
-      name: Jocelyn (Devil's Film)
-      text: Devil's Film
-      links:
-        - https://www.iafd.com/person.rme/id=29743dbb-73c5-413e-88b8-ffbf3ff576dc
-        - https://stashdb.org/scenes/56c6e58e-d3f5-4a1b-b8e9-f2bcb8759c5c
-        - https://stashdb.org/scenes/236be424-9411-4f7e-9821-975b645568a7
-        - https://stashdb.org/scenes/0d507bbf-8f6e-41f5-8fdd-1419f5339f6a
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-31)
     - Ignore/remove birthdate and main image (Jocelyn Jayden's).

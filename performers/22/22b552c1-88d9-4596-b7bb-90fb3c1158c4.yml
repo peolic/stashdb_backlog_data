@@ -1,17 +1,6 @@
 split:
   name: Jelena
-  fragments:
-    - column: J
-      id: b11dbe64-4c10-423e-b35d-7a11b9f1174f
-      name: Jelena (2006, Big Naturals)
-      notes:
-        - '- Big Naturals "I Rise 4 Iris"'
-        - '- Extreme Naturals "Tons Of Fun"'
-      links:
-        - https://www.iafd.com/person.rme/id=10d6768a-e5ab-47fa-a206-35bc6da238c4
-        - https://www.indexxx.com/m/jelena-1
-        - https://stashdb.org/scenes/c6c4d87f-7c7c-4856-86dd-b7ff0371f185
-        - https://stashdb.org/scenes/58c3dc21-6595-4385-aaec-e64def807449
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-06)

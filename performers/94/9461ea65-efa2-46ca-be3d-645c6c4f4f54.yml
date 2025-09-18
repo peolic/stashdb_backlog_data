@@ -1,27 +1,7 @@
 split:
   name: Marlene
-  fragments:
-    - column: K
-      id: 5fc0a9a6-6cfa-4027-8294-24bd6c09b73a
-      name: Marlene (SexMex)
-      links:
-        - https://www.iafd.com/person.rme/id=5c06dfc7-b536-48c9-b914-b0113ccab86c
-        - https://sexmex.xxx/tour/models/marlene-sexmex.html
-        - https://stashdb.org/scenes/bd006ac0-df06-4733-aefd-649ac9e9eb89
-        - https://stashdb.org/scenes/bbff9ad0-ef3e-4556-9ea7-5a9ca1f82200
-        - https://stashdb.org/scenes/f6b1ebd5-4055-4033-9ceb-71ae13fa19fa
-        - https://stashdb.org/scenes/a16f4d48-fbc5-4d78-89b6-687810a7a7da
-        - https://stashdb.org/scenes/ee3376ec-a0fd-4fae-bf63-b1b1bce3ec3b
-        - https://stashdb.org/scenes/d9fea7c1-e52c-47cd-bc81-5217d297b837
-        - https://stashdb.org/scenes/d37a2880-bff9-4ec8-9662-48d70a9db323
-    - column: L
-      id: 095166f8-516e-4950-b443-0534e2e45e5a
-      name: Marlene (2006, Devil's Film)
-      text: Devil's Film
-      links:
-        - https://www.iafd.com/person.rme/id=e256dba5-a669-4675-b4b3-b93895413b79
-        - https://stashdb.org/scenes/69326567-3db5-4343-a4de-e849d66848c8
-        - https://stashdb.org/scenes/eb359c96-7555-439b-bae7-fef27f96ae0e
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-08-22)
     - Best to move scenes and delete performer, rather than merging or renaming.
