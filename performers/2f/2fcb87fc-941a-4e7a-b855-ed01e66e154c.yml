@@ -1,18 +1,7 @@
 split:
   name: Susana
-  fragments:
-    - column: I
-      id: 971dd189-a95c-4c6a-8179-d57cd19dc8f6
-      name: Susana (SexMex)
-      links:
-        - https://www.iafd.com/person.rme/id=be8cce8d-45f8-4543-852e-242f97745641
-        - https://stashdb.org/scenes/fd14e34e-5b72-4ce0-934a-f8bb16567738
-        - https://stashdb.org/scenes/e94c613d-41c6-417f-8dfa-c426e8c492dd
-        - https://stashdb.org/scenes/ef8727ee-a7c3-4c5c-8666-189ceff8d407
-        - https://stashdb.org/scenes/f64db089-654c-41ff-bb83-0d1b83596dcc
-        - https://stashdb.org/scenes/81b6073b-6382-4933-9090-bc0d167ab556
-        - https://stashdb.org/scenes/fcea1c4d-26fa-49bd-8eb9-5c8b1d6a399d
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-09-03)
     - Best to move scenes and delete performer, rather than merging or renaming.

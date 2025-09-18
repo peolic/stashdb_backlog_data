@@ -16,6 +16,12 @@ performers:
       appearance: null
   append:
     - id: null
+      name: Kyle
+      appearance: null
+      disambiguation: Dare Dorm, 2012
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=eee29997-0d14-47aa-903b-5dc86cc36caf
+    - id: null
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-06-29
