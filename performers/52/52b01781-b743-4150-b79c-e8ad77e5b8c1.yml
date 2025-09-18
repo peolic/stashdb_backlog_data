@@ -2,8 +2,8 @@ split:
   name: Mili
   fragments:
     - column: I
-      id: null
-      name: Mili
+      id: b76e5ffe-52a3-4b44-b14c-dd650022dad9
+      name: Mili (DDF Network)
       notes:
         - '- 1By-Day (1, 2)'
         - '- Hot Legs and Feet'

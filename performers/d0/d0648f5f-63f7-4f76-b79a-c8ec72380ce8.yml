@@ -51,7 +51,7 @@ split:
         - https://stashdb.org/scenes/25ee6ad2-8ade-4033-b1b8-c34c7f6f3cb8
         - https://stashdb.org/scenes/60172ca5-8939-4f59-a78d-ef67c82562d4
     - column: P
-      id: null
+      id: 4c6c730f-9c00-4198-8bef-7565d838fb28
       name: Joe (2008, See My Wife)
       notes:
         - '- See My Wife "Happy Couple"'
@@ -68,8 +68,8 @@ split:
         - https://www.iafd.com/person.rme/id=cf55477a-80ab-4cfb-997a-a6faaa1ad567
         - https://stashdb.org/scenes/59c7f1b1-df00-4133-9ada-60a5c332e31e
     - column: U
-      id: null
-      name: Joe
+      id: a467ab20-3674-47a3-ae92-910dda5c35b7
+      name: Joe (My Teen Oasis)
       notes:
         - '- My Teen Oasis "Pick-up lines #33"'
         - '- My Teen Oasis "Pick-up lines #83"'
