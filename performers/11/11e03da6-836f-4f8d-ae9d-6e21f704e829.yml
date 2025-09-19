@@ -1,13 +1,6 @@
 split:
   name: Kelly
   fragments:
-    - column: Z
-      id: afa2c3f0-bc27-4785-b6d8-aba5d298cf4d
-      name: Nina Russell
-      text: Tranny Surprise
-      links:
-        - https://www.iafd.com/person.rme/id=4a8c3fd5-fb39-4e9e-b880-da49943f194e
-        - https://stashdb.org/scenes/5e12df8c-3fe2-4cfd-8620-739b2c70b9a9
     - column: AA
       id: null
       name: Kelly (Boys First Time, 2003)
@@ -16,6 +9,7 @@ split:
         - Blonde guy on the left in the scene cover
       links:
         - https://stashdb.org/scenes/ea54bf2f-ab31-4061-85af-239b829b55f3
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
