@@ -1,17 +1,6 @@
 split:
   name: Markus
   fragments:
-    - column: I
-      id: 9727201e-2ca1-4a31-bbb8-6fe8a2914d9f
-      name: Jaroslav
-      notes:
-        - '- My Dirty GF (25 scenes)'
-        - '- Young Libertines (4 scenes)'
-      links:
-        - https://www.iafd.com/person.rme/id=bc3f5bbb-b7fe-427f-a84c-4705ea9f83b4
-        - https://stashdb.org/performers/bc2bfadb-e6c0-411f-85ae-e2fb1631463e?studios=63db43d0-d416-4aea-a070-549cfe8ce05b
-        - https://stashdb.org/performers/bc2bfadb-e6c0-411f-85ae-e2fb1631463e?studios=9f110f61-5de3-4a64-ba89-c2bfbc29c1a7
-        - https://cdn.stashdb.org/images/8e/62/8e620daa-fedc-4cf1-853e-d369d9e370f0
     - column: K
       id: null
       name: '[todo]'
@@ -19,5 +8,6 @@ split:
       links:
         - https://stashdb.org/scenes/a7c1acb2-51fd-42c7-94d7-4122b3efd44e
         - https://stashdb.org/scenes/eec41dc1-7f8a-47d4-b90c-cf9ad1d767cd
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-02-19)

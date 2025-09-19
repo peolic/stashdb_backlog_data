@@ -16,15 +16,8 @@ split:
         - https://www.iafd.com/person.rme/id=f2f236a6-f3cc-4102-95e7-82b7f662c463
         - https://www.indexxx.com/m/jay
         - https://stashdb.org/scenes/10be55c8-2428-403f-9312-839a66b37f75
-    - column: S
-      id: dd4efeff-24bc-4c35-bece-05fbd4e44bcb
-      name: 'Jay (2012-2013, GF Revenge, #25624)'
-      text: 2x GF Revenge
-      links:
-        - https://stashdb.org/scenes/8849fd76-5784-4ff2-b1c1-1208a6f36c55
-        - https://stashdb.org/scenes/ddfdd828-0d1a-4b07-8316-d5460f262cc9
     - column: T
-      id: null
+      id: 2888e18c-9bb1-41de-a7f9-43f4e1fa0616
       name: Jay [1]
       text: name may not match original
       notes:

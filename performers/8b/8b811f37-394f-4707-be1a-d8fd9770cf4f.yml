@@ -1,15 +1,7 @@
 split:
   name: Katy
-  fragments:
-    - column: M
-      id: null
-      name: Katy (2007, Teen Sex Movs)
-      text: Teen Sex Movs
-      links:
-        - https://www.iafd.com/person.rme/id=f4827c03-fa42-4edf-ac66-eb3037336523
-        - https://www.indexxx.com/m/katy-12
-        - https://stashdb.org/scenes/3f2f19e5-cb73-4088-85ad-f3b55b726986
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-14)
     - Best to move scenes and delete performer, rather than merging or renaming.

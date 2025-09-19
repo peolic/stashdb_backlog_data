@@ -8,15 +8,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=b513f165-5fbd-4a6e-a51e-f18d96c151b1
         - https://stashdb.org/scenes/b360df25-193f-4464-96ef-5bce10db1a71
-    - column: K
-      id: 8f008d8c-ccc1-4673-ba6d-702808cd3581
-      name: Miguel (Dare Dorm, 2009)
-      text: Dare Dorm "Our Secrets"
-      links:
-        - https://stashdb.org/scenes/61ff900e-5630-4352-be6b-5ebdbfe8c69f
-        - https://www.iafd.com/title.rme/id=c06b69ed-9f25-4fa5-872d-b5ed16f04c3c
-        - https://www.realitykings.com/model/24632/miguel
-        - https://www.imdb.com/title/tt6148066/
     - column: L
       id: null
       name: Miguel (Dare Dorm, 2010)

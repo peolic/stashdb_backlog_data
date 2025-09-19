@@ -1,18 +1,6 @@
 split:
   name: Sasha
   fragments:
-    - column: M
-      id: 6b808ea4-718e-4692-bc59-fe4e4fc3acd0
-      name: Sasha (2001, Bang Bus)
-      notes:
-        - '- Bang Bus (2001)'
-        - '- BangBros Remastered'
-      links:
-        - https://www.iafd.com/person.rme/id=d6129733-2af2-4deb-85f3-6cd097ca5248
-        - https://www.indexxx.com/m/sasha-21
-        - https://stashdb.org/scenes/e38a89c5-5ddc-466d-9808-ff6cc918fcb2
-        - https://stashdb.org/scenes/ab4d0c69-706b-4127-8466-fa8609201c3f
-        - https://bangbros.com/model415/sasha
     - column: S
       id: null
       name: Divina
@@ -21,15 +9,6 @@ split:
         - https://www.iafd.com/person.rme/id=441c4153-6128-4888-83cd-1c3bbdaabf8e
         - https://www.indexxx.com/m/sasha-12
         - https://stashdb.org/scenes/538fa483-e682-4d14-a486-a3ffce0deaf6
-    - column: U
-      id: null
-      name: Sasha Cream
-      text: Pimp Parade
-      links:
-        - https://www.iafd.com/person.rme/id=87fac50d-2217-4465-9672-12c7e019ec79
-        - https://www.indexxx.com/m/sasha-25
-        - https://stashdb.org/scenes/72846de7-aeb0-40b7-b7b0-e859bfe4274c
-        - https://pimpparade.com/galleries/pb01/pb01_sasha/index.html
     - column: V
       id: null
       name: Sasha (2005, V9)

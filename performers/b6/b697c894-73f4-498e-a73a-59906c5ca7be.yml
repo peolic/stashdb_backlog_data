@@ -1,12 +1,6 @@
 split:
   name: Slim
   fragments:
-    - column: I
-      id: 99093c11-a6c1-410e-a747-a913e8dbc7fe
-      name: Slim (Naughty America)
-      text: all (x16) Naughty America (network) scenes
-      links:
-        - https://www.iafd.com/person.rme/id=6b8163c5-866f-40a9-81af-758a01e574c0
     - column: J
       id: null
       name: Slim (2002, Tranny Surprise)
@@ -14,5 +8,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=59d9c444-c952-48b9-ac45-8e61422ec634
         - https://stashdb.org/scenes/dfbd4c07-81dd-47b8-b28b-b046f10f0768
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-05-06)

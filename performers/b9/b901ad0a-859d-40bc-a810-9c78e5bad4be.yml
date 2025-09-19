@@ -1,14 +1,6 @@
 split:
   name: John
   fragments:
-    - column: O
-      id: 2c9b8a74-5706-4111-a98c-2d39aed210df
-      name: John (2003-2004, Kink)
-      text: Men in Pain
-      links:
-        - https://www.iafd.com/person.rme/id=84eb6f77-2e3d-4650-b156-2340184612ba
-        - https://stashdb.org/scenes/8480476a-ee9c-4cb1-8432-f3f10c91a375
-        - https://stashdb.org/scenes/c35d01be-7994-48ff-9f9b-4a43a638072b
     - column: Q
       id: null
       name: John (2013, Dare Dorm)

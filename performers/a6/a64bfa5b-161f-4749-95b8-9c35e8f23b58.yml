@@ -1,15 +1,6 @@
 split:
   name: Lida
   fragments:
-    - column: J
-      id: d6eaebf1-e421-48e8-a2d9-d5f8877ab0e1
-      name: Lida (2011, Doghouse Digital)
-      text: Doghouse Digital
-      links:
-        - https://www.iafd.com/person.rme/id=48e833d4-b56e-4bb9-a4c2-5f3b77343e0c
-        - https://stashdb.org/scenes/f9b545b7-78cf-4d95-bd31-7cf9fed5f2a9
-        - https://stashdb.org/scenes/7a3ef145-47e8-4be9-988b-d5d662e0a4b8
-        - https://stashdb.org/scenes/639e890f-9e6d-4804-9f2d-5ea1b6b460bf
     - column: K
       id: null
       name: Lida
@@ -17,5 +8,6 @@ split:
       links:
         - https://www.indexxx.com/m/lida-4
         - https://stashdb.org/scenes/8329ff61-f5cc-41f0-906c-d9c7fc443d0c
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-01-18)

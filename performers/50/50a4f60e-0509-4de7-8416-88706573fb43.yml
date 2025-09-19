@@ -1,18 +1,6 @@
 split:
   name: Leila
   fragments:
-    - column: R
-      id: a730ac04-ddce-4f08-ac9b-a00328b2be42
-      name: Leila (Lusty Grandmas)
-      text: Lusty Grandmas
-      notes:
-        - Additional scene missing performer, as Edith
-      links:
-        - https://www.iafd.com/person.rme/id=73cefea3-d6d9-4ec8-88ae-86aa2dfecf2f
-        - https://stashdb.org/scenes/78f8a6b2-4f64-458b-b36d-e894891b632e
-        - https://stashdb.org/scenes/2382306a-dadd-43ed-af65-26fe3768126d
-        - https://stashdb.org/scenes/e4b04ca5-0784-445e-bbe2-4efaa30fb943
-        - https://stashdb.org/scenes/ac831232-2f6b-4aa4-a04d-6a8d3e0e0605
     - column: T
       id: null
       name: '[todo]'

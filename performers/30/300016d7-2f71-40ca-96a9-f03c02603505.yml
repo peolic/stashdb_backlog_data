@@ -1,13 +1,6 @@
 split:
   name: Nelson
-  fragments:
-    - column: M
-      id: null
-      name: Nelson (2006, Boys First Time)
-      text: Boys First Time "Grab My Shaft"
-      links:
-        - https://www.iafd.com/person.rme/id=d6bcd07f-20f3-4976-9cd2-10d67b7c7aa0
-        - https://stashdb.org/scenes/0a12c7e9-264c-4ea0-a71a-60a8ac8f552f
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-10)

@@ -1,13 +1,6 @@
 split:
   name: Ross
   fragments:
-    - column: K
-      id: e5531d06-21f3-491b-ad7f-6a60d2f7059f
-      name: Ross Sevrance
-      text: VIP Crew
-      links:
-        - https://www.iafd.com/person.rme/id=2fa8541b-ff21-4a98-8b4a-d58c67997537
-        - https://stashdb.org/scenes/cd311525-da21-406d-ad87-7952cfa793c3
     - column: L
       id: null
       name: Ross (Home Porno Tapes)
@@ -20,6 +13,7 @@ split:
         - https://www.adultdvdempire.com/1321782/snatchd-stolen-home-videos-22-porn-videos.html#scene_758323
         - https://www.iafd.com/title.rme/id=9a6e0b5a-b6fa-4b0b-9f71-bc9c653b1c98
         - https://stashdb.org/images/f77b601f-f95b-4b73-a27f-c36e00296eba
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
