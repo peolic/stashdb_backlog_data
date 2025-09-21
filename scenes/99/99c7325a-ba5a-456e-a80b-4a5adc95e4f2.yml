@@ -13,5 +13,7 @@ performers:
       name: Luna
       appearance: null
       disambiguation: Sexmex, 2014
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=dedeb052-de77-4c63-8e76-c6c021f54561
+      status: c
+      status_url: https://stashdb.org/edits/bbe38a74-cf7f-43bf-a5ef-d9a792006bcc
+      notes:
+        - https://www.iafd.com/person.rme/id=dedeb052-de77-4c63-8e76-c6c021f54561

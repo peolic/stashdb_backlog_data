@@ -13,5 +13,7 @@ performers:
       name: Zahrita
       appearance: null
       disambiguation: Sexmex, 2014
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=386837e5-ffd9-418c-b829-a5ebd6a6d72a
+      status: c
+      status_url: https://stashdb.org/edits/ed574ea5-ac93-4a3b-814d-a2665b38fb8d
+      notes:
+        - https://www.iafd.com/person.rme/id=386837e5-ffd9-418c-b829-a5ebd6a6d72a

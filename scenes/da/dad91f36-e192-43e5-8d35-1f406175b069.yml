@@ -11,5 +11,7 @@ performers:
       name: Honey
       appearance: null
       disambiguation: 2006, Teach My Ass
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=9f6ca18f-3a8c-45a4-b4b2-def5b790625a
+      status: c
+      status_url: https://stashdb.org/edits/ac117a6e-06a9-4424-94f4-9ffa322846d1
+      notes:
+        - https://www.iafd.com/person.rme/id=9f6ca18f-3a8c-45a4-b4b2-def5b790625a

@@ -13,5 +13,7 @@ performers:
       name: Alicia
       appearance: null
       disambiguation: Sexmex, 2014
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d413b1f6-c0b4-4f30-b5b2-9a4142d62303
+      status: c
+      status_url: https://stashdb.org/edits/bb20d2ca-46c9-495c-8d38-eb27ac7d2cd7
+      notes:
+        - https://www.iafd.com/person.rme/id=d413b1f6-c0b4-4f30-b5b2-9a4142d62303
