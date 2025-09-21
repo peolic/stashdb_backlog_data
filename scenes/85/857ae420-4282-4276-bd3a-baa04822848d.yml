@@ -15,9 +15,10 @@ performers:
       name: Jewelz
       appearance: null
       disambiguation: 2010, Bang Bus
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=3c3195e5-506b-42ac-ac3f-88c2bf06cbcf
+      status: c
+      status_url: https://stashdb.org/edits/10b32f49-0c3e-4e64-997c-4909e5f88905
       notes:
+        - https://www.iafd.com/person.rme/id=3c3195e5-506b-42ac-ac3f-88c2bf06cbcf
         - https://www.indexxx.com/m/jewelz
         - https://bangbros.com/model/393921/jewelz
     - id: b3c5e7b2-d877-41f4-a330-bcd4d90cd841
