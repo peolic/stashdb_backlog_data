@@ -14,5 +14,7 @@ performers:
       name: Kyle
       appearance: null
       disambiguation: 2009, Boys First Time
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=25d7b1a7-f186-40ed-bcb7-e419fa7e1505
+      status: c
+      status_url: https://stashdb.org/edits/41e4d2bb-3cfb-492a-a398-c57da138b698
+      notes:
+        - https://www.iafd.com/person.rme/id=25d7b1a7-f186-40ed-bcb7-e419fa7e1505
