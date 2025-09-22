@@ -11,12 +11,10 @@ performers:
       name: Hector
       appearance: null
   append:
-    - id: null
+    - id: 1b8cea36-a217-4e25-ac93-dae01a897463
       name: Hector
       appearance: null
       disambiguation: 2003, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/78d1e8ca-4169-4356-b632-936a0b5c98d9
       notes:
         - https://www.iafd.com/person.rme/id=05595e5e-385a-4bed-ae2e-e6f5d6479d40
         - https://www.imdb.com/name/nm8841949/

@@ -10,11 +10,9 @@ performers:
       appearance: null
       disambiguation: 2010, Boys First Time
   append:
-    - id: null
+    - id: 484581d3-0fde-4b20-af33-9983134eafd0
       name: Kyle
       appearance: null
       disambiguation: 2009, Boys First Time
-      status: c
-      status_url: https://stashdb.org/edits/41e4d2bb-3cfb-492a-a398-c57da138b698
       notes:
         - https://www.iafd.com/person.rme/id=25d7b1a7-f186-40ed-bcb7-e419fa7e1505

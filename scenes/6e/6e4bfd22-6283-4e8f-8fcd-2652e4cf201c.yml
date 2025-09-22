@@ -35,12 +35,10 @@ performers:
       appearance: null
       disambiguation: Dick Dorm, 2012
       status: new
-    - id: null
+    - id: f2a6cb1c-b61b-4dea-b1c3-243a07b729a2
       name: Joseph
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: c
-      status_url: https://stashdb.org/edits/87e34e8d-fdd0-4935-ba42-eaf2a525482b
       notes:
         - https://www.iafd.com/person.rme/id=25f96152-01b6-4988-81d4-212e512d1370
         - https://www.realitykings.com/model/24582/joseph

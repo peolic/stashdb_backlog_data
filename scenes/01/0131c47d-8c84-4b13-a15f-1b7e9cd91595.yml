@@ -12,12 +12,10 @@ performers:
       name: Gabrielle
       appearance: null
   append:
-    - id: null
+    - id: 1eed8df1-632c-4732-b477-0f01f434f7f2
       name: Gabrielle
       appearance: null
       disambiguation: 2006, Men In Pain
-      status: c
-      status_url: https://stashdb.org/edits/5a1a6d4f-6323-4fac-b32a-2d01acfd90f4
       notes:
         - https://www.iafd.com/person.rme/id=d10dfb39-22e8-4f3e-b4ab-79c855f8d2bc
         - https://www.indexxx.com/m/gabrielle-8

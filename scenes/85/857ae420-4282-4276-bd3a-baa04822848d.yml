@@ -11,12 +11,10 @@ performers:
       name: Jewelz
       appearance: null
   append:
-    - id: null
+    - id: b73bb9e7-2d87-4af0-9f10-c2a0ee9f7200
       name: Jewelz
       appearance: null
       disambiguation: 2010, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/10b32f49-0c3e-4e64-997c-4909e5f88905
       notes:
         - https://www.iafd.com/person.rme/id=3c3195e5-506b-42ac-ac3f-88c2bf06cbcf
         - https://www.indexxx.com/m/jewelz

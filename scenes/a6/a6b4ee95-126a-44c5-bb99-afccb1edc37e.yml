@@ -10,12 +10,10 @@ performers:
       name: Jessie
       appearance: null
   append:
-    - id: null
+    - id: 422ed85e-268d-440e-9240-61cf3110d970
       name: Jessie
       appearance: null
       disambiguation: Kink, 2006
-      status: c
-      status_url: https://stashdb.org/edits/2012c9f5-95f9-42c9-b942-e7b0d144c4e1
       notes:
         - https://www.iafd.com/person.rme/id=9425faad-6ed3-4160-a56e-ffbb7b411ebd
         - https://www.indexxx.com/m/jessie-6

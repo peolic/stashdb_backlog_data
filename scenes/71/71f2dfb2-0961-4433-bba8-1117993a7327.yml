@@ -11,12 +11,10 @@ performers:
       name: Isabella
       appearance: null
   append:
-    - id: null
+    - id: af9b2913-8127-49e9-a547-1d5182bd0c0e
       name: Isabella
       appearance: null
       disambiguation: 2004, We Live Together
-      status: c
-      status_url: https://stashdb.org/edits/01f83984-7bcc-4f07-a8bc-808de2d0fb02
       notes:
         - https://www.iafd.com/person.rme/id=3dd64d06-6ba9-431d-8e1f-bef5db305b35
         - https://www.indexxx.com/m/isabella-9

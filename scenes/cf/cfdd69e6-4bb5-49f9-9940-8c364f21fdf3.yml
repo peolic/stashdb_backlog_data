@@ -10,11 +10,9 @@ performers:
       name: Mallory
       appearance: null
   append:
-    - id: null
+    - id: 1b4b5213-f86b-4a9e-a5a3-dd5b1f8436f0
       name: Javier Copolla
       appearance: Javier
-      status: c
-      status_url: https://stashdb.org/edits/15f3d7d7-8a60-40c1-82b1-45fa7ab1b3f5
       notes:
         - https://www.iafd.com/person.rme/id=5265cb9a-7e84-4211-94e1-bd91c9824ca1
         - https://www.imdb.com/name/nm10673259/
