@@ -10,12 +10,10 @@ performers:
       name: Austin
       appearance: null
   append:
-    - id: null
+    - id: c1dc52e3-089f-4a0d-98bb-4fcc3929cec5
       name: Trevor
       appearance: null
       disambiguation: Reality Kings, 2012
-      status: c
-      status_url: https://stashdb.org/edits/5f45e08b-6d8d-4295-9a1a-229e845bf48f
       notes:
         - https://www.iafd.com/person.rme/id=85d391be-3ffa-4f23-9c81-34f1eb92a916
         - https://www.realitykings.com/model/21619/trevor
