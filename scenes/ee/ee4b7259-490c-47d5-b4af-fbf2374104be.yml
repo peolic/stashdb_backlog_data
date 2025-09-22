@@ -16,12 +16,10 @@ performers:
       name: Trevor
       appearance: null
   append:
-    - id: null
+    - id: af33ad13-5ed9-4dde-8b5a-236c4b87c1c7
       name: Jacob
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/463c04f9-2543-4dbc-b674-c862d5a20e54
       notes:
         - https://www.iafd.com/person.rme/id=71a4a6aa-0d68-4953-8eb2-b15f57bc30a9
         - https://www.realitykings.com/model/25287/jacob
