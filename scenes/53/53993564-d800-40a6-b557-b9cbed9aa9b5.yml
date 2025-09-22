@@ -9,11 +9,9 @@ performers:
       name: Shawn Rees
       appearance: Hunter
   append:
-    - id: null
+    - id: 52478fe8-bd7e-4096-bece-42385c9cedf4
       name: Hunter
       appearance: null
       disambiguation: 2015, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/9f0e1270-3532-4c71-a47c-37691f2ef337
       notes:
         - https://www.iafd.com/person.rme/id=af4824fe-87f7-422c-b050-d80950d8e8d9

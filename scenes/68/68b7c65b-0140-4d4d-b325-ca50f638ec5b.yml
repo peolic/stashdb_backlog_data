@@ -11,12 +11,10 @@ performers:
       name: Jada
       appearance: null
   append:
-    - id: null
+    - id: 57d38780-23cd-489f-be3d-f5a9e05d5a37
       name: Jada
       appearance: null
       disambiguation: 2006, Ball Honeys
-      status: c
-      status_url: https://stashdb.org/edits/c66b550d-e2d2-46da-b986-9926fb0f876c
       notes:
         - https://www.iafd.com/person.rme/id=acfc4463-d550-4665-920a-98bbd8366900
         - https://www.indexxx.com/m/jada
