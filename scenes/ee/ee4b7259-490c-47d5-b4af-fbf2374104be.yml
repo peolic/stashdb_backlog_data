@@ -20,23 +20,26 @@ performers:
       name: Jacob
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=71a4a6aa-0d68-4953-8eb2-b15f57bc30a9
+      status: c
+      status_url: https://stashdb.org/edits/463c04f9-2543-4dbc-b674-c862d5a20e54
       notes:
+        - https://www.iafd.com/person.rme/id=71a4a6aa-0d68-4953-8eb2-b15f57bc30a9
         - https://www.realitykings.com/model/25287/jacob
     - id: null
       name: Scott
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4ee52f4f-89b9-4ef2-b483-548e16535c03
+      status: c
+      status_url: https://stashdb.org/edits/95562c4e-afc9-46f7-8504-b2e179932233
       notes:
+        - https://www.iafd.com/person.rme/id=4ee52f4f-89b9-4ef2-b483-548e16535c03
         - https://www.realitykings.com/model/25289/scott
     - id: null
       name: Trevor
       appearance: null
       disambiguation: Reality Kings, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=85d391be-3ffa-4f23-9c81-34f1eb92a916
+      status: c
+      status_url: https://stashdb.org/edits/5f45e08b-6d8d-4295-9a1a-229e845bf48f
       notes:
+        - https://www.iafd.com/person.rme/id=85d391be-3ffa-4f23-9c81-34f1eb92a916
         - https://www.realitykings.com/model/21619/trevor
