@@ -13,5 +13,7 @@ performers:
       name: Nicole
       appearance: Jasmin
       disambiguation: Blind Date Bangers, 2004
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a5976d04-06c9-4a53-8d58-3dad688bc13b
+      status: c
+      status_url: https://stashdb.org/edits/8f812177-e0c4-4705-81a0-7e5cc412827f
+      notes:
+        - https://www.iafd.com/person.rme/id=a5976d04-06c9-4a53-8d58-3dad688bc13b

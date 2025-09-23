@@ -14,9 +14,10 @@ performers:
       name: Sabrina
       appearance: null
       disambiguation: 2004, In the VIP
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1bfb38fb-b777-43fc-972d-bfda29fbe081
+      status: c
+      status_url: https://stashdb.org/edits/b8345065-1f88-4637-a4eb-717eedea6f21
       notes:
+        - https://www.iafd.com/person.rme/id=1bfb38fb-b777-43fc-972d-bfda29fbe081
         - https://www.indexxx.com/m/sabrina-7
     - id: 7866598e-8e7c-48ef-bc98-1eefc42fcdbd
       name: West Michaels

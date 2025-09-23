@@ -14,9 +14,10 @@ performers:
       name: Milla
       appearance: null
       disambiguation: 2006, Twistys
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=bbcd4679-138f-4555-af31-11008745fca3
+      status: c
+      status_url: https://stashdb.org/edits/1b758a60-4cd7-4ca9-8ef8-fda579a9dd82
       notes:
+        - https://www.iafd.com/person.rme/id=bbcd4679-138f-4555-af31-11008745fca3
         - https://www.indexxx.com/m/milla-1
     - id: 65130145-e2e7-4e69-8783-ac2e166e7ce6
       name: Peter Rain

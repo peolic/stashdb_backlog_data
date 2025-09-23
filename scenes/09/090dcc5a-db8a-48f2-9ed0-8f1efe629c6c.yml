@@ -14,15 +14,17 @@ performers:
       name: Jennifer
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e56fadc8-238a-4be2-a843-f30c8fa01e70
+      status: c
+      status_url: https://stashdb.org/edits/23a8c8d5-cd93-46ac-beb6-68787981d447
       notes:
+        - https://www.iafd.com/person.rme/id=e56fadc8-238a-4be2-a843-f30c8fa01e70
         - https://www.imdb.com/name/nm10936850/
     - id: null
       name: Nicolas
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b2a57f56-3831-48b1-8b87-b9cc41a60f62
+      status: c
+      status_url: https://stashdb.org/edits/4d1fd01e-ebf8-47a9-93c9-e602f68039f5
       notes:
+        - https://www.iafd.com/person.rme/id=b2a57f56-3831-48b1-8b87-b9cc41a60f62
         - https://www.realitykings.com/model/24518/nicolas

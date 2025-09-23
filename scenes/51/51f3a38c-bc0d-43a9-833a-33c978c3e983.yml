@@ -14,5 +14,7 @@ performers:
       name: Jeremy
       appearance: null
       disambiguation: 2003, Butt Machine Boys
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2a3a708a-e256-4e4f-97a5-49eaac5fb426
+      status: c
+      status_url: https://stashdb.org/edits/7ee23508-5c0e-4895-8f4b-c7d294cd6371
+      notes:
+        - https://www.iafd.com/person.rme/id=2a3a708a-e256-4e4f-97a5-49eaac5fb426

@@ -16,9 +16,10 @@ performers:
       name: Melissa
       appearance: null
       disambiguation: 2010-05, GF Revenge
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f657db37-32ef-4a88-926d-6fca011cb6fa
+      status: c
+      status_url: https://stashdb.org/edits/5b29c5f0-fe95-4a00-98b8-f2263274d5d5
       notes:
+        - https://www.iafd.com/person.rme/id=f657db37-32ef-4a88-926d-6fca011cb6fa
         - https://www.realitykings.com/model/26524/melissa
     - id: 01dfcff1-fc47-4617-94be-fbb06c01504e
       name: Brit
