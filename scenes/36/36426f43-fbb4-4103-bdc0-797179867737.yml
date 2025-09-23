@@ -9,12 +9,10 @@ performers:
       name: John
       appearance: null
   append:
-    - id: null
+    - id: d99b516c-13cc-4f27-8d48-a944752c5112
       name: John
       appearance: null
       disambiguation: 2013, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/352412be-aa42-436b-80a6-1d055b4dee6f
       notes:
         - https://www.iafd.com/person.rme/id=0194c805-72b5-462e-9cef-b3c0b73b7e18
         - https://www.realitykings.com/model/24628/john

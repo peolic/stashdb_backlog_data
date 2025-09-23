@@ -9,12 +9,10 @@ performers:
       name: Michelleextra
       appearance: null
   append:
-    - id: null
+    - id: f1380238-2291-42fb-8ab9-8cd9a6d9f385
       name: Michelle
       appearance: Michelleextra
       disambiguation: Captain Stabbin, 2002
-      status: c
-      status_url: https://stashdb.org/edits/4d2c53d8-4957-4a26-8846-4183be0f2568
       notes:
         - https://www.iafd.com/person.rme/id=9bce401b-4e56-4c40-b2fc-9d54a6c3caa5
         - https://www.indexxx.com/m/michelleextra

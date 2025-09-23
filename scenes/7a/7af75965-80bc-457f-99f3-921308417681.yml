@@ -10,12 +10,10 @@ performers:
       name: Milla
       appearance: null
   append:
-    - id: null
+    - id: a8c38467-9cfe-4e91-a993-0287fe028a80
       name: Milla
       appearance: null
       disambiguation: 2006, Twistys
-      status: c
-      status_url: https://stashdb.org/edits/1b758a60-4cd7-4ca9-8ef8-fda579a9dd82
       notes:
         - https://www.iafd.com/person.rme/id=bbcd4679-138f-4555-af31-11008745fca3
         - https://www.indexxx.com/m/milla-1

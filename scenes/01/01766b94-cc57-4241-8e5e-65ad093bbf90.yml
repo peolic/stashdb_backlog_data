@@ -9,12 +9,10 @@ performers:
       name: Jane
       appearance: null
   append:
-    - id: null
+    - id: b1fbf116-4a8d-4485-8e91-7c51261cab77
       name: Tiffany
       appearance: Jane
       disambiguation: Karups HA, 2004
-      status: c
-      status_url: https://stashdb.org/edits/adbe7444-c7e3-4e81-a8b7-b135f3f3567e
       notes:
         - https://www.iafd.com/person.rme/id=4b722703-5d67-48ab-a5b8-3d8322e7073f
         - https://www.indexxx.com/m/tiffany-26

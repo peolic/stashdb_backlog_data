@@ -9,12 +9,10 @@ performers:
       name: Jorge
       appearance: null
   append:
-    - id: null
+    - id: 45d39d51-7d59-41a8-a075-8cdd055500f9
       name: Jorge
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/185e6ecb-49f0-4f72-99cf-b12fa60dd671
       notes:
         - https://www.iafd.com/person.rme/id=690cbb20-b5a6-46b7-8e51-0bdf0d6562b3
         - https://www.realitykings.com/model/25762/jorge

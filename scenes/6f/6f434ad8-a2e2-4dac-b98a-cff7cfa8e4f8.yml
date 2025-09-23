@@ -12,12 +12,10 @@ performers:
       name: Tami
       appearance: null
   append:
-    - id: null
+    - id: dfec1af8-7af0-42a8-90c6-867af618f9a2
       name: Melissa
       appearance: null
       disambiguation: 2010-05, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/5b29c5f0-fe95-4a00-98b8-f2263274d5d5
       notes:
         - https://www.iafd.com/person.rme/id=f657db37-32ef-4a88-926d-6fca011cb6fa
         - https://www.realitykings.com/model/26524/melissa

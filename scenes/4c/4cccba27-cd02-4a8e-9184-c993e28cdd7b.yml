@@ -11,12 +11,10 @@ performers:
       name: Tianna
       appearance: null
   append:
-    - id: null
+    - id: 2fefc3d6-c518-442a-af44-edadfde85a0d
       name: Tianna
       appearance: null
       disambiguation: 2008, Teen Core Club
-      status: c
-      status_url: https://stashdb.org/edits/943b71b7-05f8-4088-9c24-36d3f0e7a2aa
       notes:
         - https://www.iafd.com/person.rme/id=9431af1c-08ff-4382-84db-32d78fe62c70
     - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c

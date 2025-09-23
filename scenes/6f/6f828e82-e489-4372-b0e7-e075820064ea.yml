@@ -9,12 +9,10 @@ performers:
       name: Apple
       appearance: null
   append:
-    - id: null
+    - id: cbdb436d-a7ea-4999-bf5d-65e607df24fc
       name: Apple
       appearance: null
       disambiguation: 2007, Dirty Orientals
-      status: c
-      status_url: https://stashdb.org/edits/5dcf2928-b280-41d2-9a6d-d0eb608b7a7c
       notes:
         - https://www.iafd.com/person.rme/id=93fb4b21-831f-4efa-ab94-25e27a8f0027
         - https://www.indexxx.com/m/apple-1

@@ -12,21 +12,17 @@ performers:
       name: Ryan
       appearance: null
   append:
-    - id: null
+    - id: c1eef33b-b3ca-4bda-a67f-9bcbfc61db4e
       name: Jason
       appearance: null
       disambiguation: Dare Dorm, 2010-09-24
-      status: c
-      status_url: https://stashdb.org/edits/419a55e4-ad59-46b0-a219-8fb99b254ba6
       notes:
         - https://www.iafd.com/person.rme/id=b9e17f9b-60b1-4e12-b993-04e71a2acebd
         - https://www.realitykings.com/model/24728/jason
-    - id: null
+    - id: 56ee70ee-e876-4b27-aade-68a46cbb8617
       name: Ryan
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/61407986-2a56-4a3b-bfaf-db8b676b7e08
       notes:
         - https://www.iafd.com/person.rme/id=5ff91677-3863-4cf0-84c9-fd562b240cfc
         - https://www.realitykings.com/model/24734/ryan

@@ -11,12 +11,10 @@ performers:
       name: Teagan
       appearance: null
   append:
-    - id: null
+    - id: 3bcc30bc-922a-4469-bcf1-0016fef09558
       name: Teagan
       appearance: null
       disambiguation: Girls Got Cream, 2008
-      status: c
-      status_url: https://stashdb.org/edits/66f4b043-d46d-4d00-b4ed-cb8507679ea8
       notes:
         - https://www.iafd.com/person.rme/id=f6a276ff-0cd1-4b75-a710-7575d42ce492
     - id: a74bf192-2072-48d4-ae73-06d1b6cd2c3c
