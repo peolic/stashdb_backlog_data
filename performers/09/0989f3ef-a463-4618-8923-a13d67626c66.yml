@@ -1,14 +1,7 @@
 split:
   name: Irina
-  fragments:
-    - column: L
-      id: null
-      name: Irina (2012, Horny Birds)
-      text: Horny Birds
-      links:
-        - https://www.iafd.com/person.rme/id=9be91601-e57f-45f6-af21-19e4827d52ed
-        - https://stashdb.org/scenes/64c1ef33-dff1-4f27-bab3-2ee1ed276aa0
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-17)
     - Best to move scenes and delete performer, rather than merging or renaming.

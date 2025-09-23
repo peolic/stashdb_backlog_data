@@ -1,14 +1,7 @@
 split:
   name: Luba
-  fragments:
-    - column: I
-      id: a5c633ae-2003-492f-a210-ce17bef3b57d
-      name: Luba
-      text: Woodman Casting X (2009)
-      links:
-        - https://www.indexxx.com/m/luba-3
-        - https://stashdb.org/scenes/6c69316a-c1e0-4e11-8bb5-1d854128ee80
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-01-18)
     - Best to move scenes and delete performer, rather than merging or renaming.

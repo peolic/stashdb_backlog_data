@@ -1,19 +1,7 @@
 split:
   name: Tami
-  fragments:
-    - column: I
-      id: null
-      name: Tami (2010, GF Revenge)
-      text: GF Revenge "City Walk"
-      notes:
-        - 'The photo matches: Brit (2007, bangbros.com)'
-        - unconfirmed if she's in this scene
-      links:
-        - https://www.iafd.com/person.rme/id=2919e6fc-9aa2-4650-b59b-d2cf80915cf2
-        - https://stashdb.org/scenes/6f434ad8-a2e2-4dac-b98a-cff7cfa8e4f8
-        - https://www.realitykings.com/model/26522/tami
-        - https://stashdb.org/performers/01dfcff1-fc47-4617-94be-fbb06c01504e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

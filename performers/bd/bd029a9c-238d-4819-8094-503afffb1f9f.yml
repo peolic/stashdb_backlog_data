@@ -1,14 +1,7 @@
 split:
   name: Izabella
-  fragments:
-    - column: N
-      id: null
-      name: Izabella (2011, Woodman)
-      text: Woodman Casting X (2011)
-      links:
-        - https://www.indexxx.com/m/izabella-7
-        - https://stashdb.org/scenes/6568f8d1-05b2-4a5a-ab86-cffa75b7c098
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-02)
     - Best to move scenes and delete performer, rather than merging or renaming.

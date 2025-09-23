@@ -1,14 +1,7 @@
 split:
   name: Tianna
-  fragments:
-    - column: M
-      id: 2fefc3d6-c518-442a-af44-edadfde85a0d
-      name: Tianna (2008, Teen Core Club)
-      text: Try Teens
-      links:
-        - https://www.iafd.com/person.rme/id=9431af1c-08ff-4382-84db-32d78fe62c70
-        - https://stashdb.org/scenes/4cccba27-cd02-4a8e-9184-c993e28cdd7b
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-12-26)
     - Best to move scenes and delete performer, rather than merging or renaming.

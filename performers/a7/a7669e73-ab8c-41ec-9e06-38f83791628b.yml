@@ -1,15 +1,7 @@
 split:
   name: Jessie
-  fragments:
-    - column: M
-      id: null
-      name: Jessie (Kink 2006)
-      text: Wired Pussy "Jessie"
-      links:
-        - https://www.iafd.com/person.rme/id=9425faad-6ed3-4160-a56e-ffbb7b411ebd
-        - https://www.indexxx.com/m/jessie-6
-        - https://stashdb.org/scenes/a6b4ee95-126a-44c5-bb99-afccb1edc37e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

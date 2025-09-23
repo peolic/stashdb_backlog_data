@@ -11,5 +11,7 @@ performers:
       name: Jim
       appearance: null
       disambiguation: 2002, Tranny Surprise
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=84319217-1238-4b54-8e43-2b2e43d5b3fd
+      status: c
+      status_url: https://stashdb.org/edits/3a7385f2-32c6-4d87-8901-eaec07ac1801
+      notes:
+        - https://www.iafd.com/person.rme/id=84319217-1238-4b54-8e43-2b2e43d5b3fd

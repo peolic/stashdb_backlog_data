@@ -26,17 +26,19 @@ performers:
       name: Jessica
       appearance: null
       disambiguation: Dare Dorm, 2011-12
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=dd4e3900-7ef6-4bda-a23f-98e0d37a21f4
+      status: c
+      status_url: https://stashdb.org/edits/291f6a9e-d14e-4966-b86d-5877bc15775a
       notes:
+        - https://www.iafd.com/person.rme/id=dd4e3900-7ef6-4bda-a23f-98e0d37a21f4
         - https://www.imdb.com/name/nm10929661/
     - id: null
       name: Dani
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=cdccd795-3ad0-4a5a-b0b4-bbe7bb8809fb
+      status: c
+      status_url: https://stashdb.org/edits/f34b008e-9244-437f-9b19-4124fb0b5d38
       notes:
+        - https://www.iafd.com/person.rme/id=cdccd795-3ad0-4a5a-b0b4-bbe7bb8809fb
         - https://www.imdb.com/name/nm10929662/
         - https://www.realitykings.com/model/26540/dani
         - RK image is NOT correct
@@ -49,19 +51,22 @@ performers:
       notes:
         - https://www.imdb.com/name/nm10929660/
         - https://www.realitykings.com/model/26536/jordan
+        - Aylo API is kicking back an alias for Jordan which needs to be investigated.
     - id: null
       name: Justin
       appearance: null
       disambiguation: Dare Dorm, 2011-12
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=006d73c3-f71f-40a4-b5c5-d5a8abb4797e
+      status: c
+      status_url: https://stashdb.org/edits/834bd9af-9135-4964-9e1f-1ddfc71cc25f
       notes:
+        - https://www.iafd.com/person.rme/id=006d73c3-f71f-40a4-b5c5-d5a8abb4797e
         - https://www.realitykings.com/model/26530/justin
     - id: null
       name: Paul
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c5661c58-8044-4adc-868f-c0ea01271f94
+      status: c
+      status_url: https://stashdb.org/edits/c74c1103-46de-4778-a7cf-110487398a1f
       notes:
+        - https://www.iafd.com/person.rme/id=c5661c58-8044-4adc-868f-c0ea01271f94
         - https://www.realitykings.com/model/26534/paul

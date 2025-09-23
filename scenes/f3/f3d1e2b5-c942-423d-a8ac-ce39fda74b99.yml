@@ -16,15 +16,17 @@ performers:
       name: Jessica
       appearance: null
       disambiguation: Dare Dorm, 2009-10
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b8728d72-1160-410d-9c4b-c13a726ec1fa
+      status: c
+      status_url: https://stashdb.org/edits/3974f639-dc21-4348-b7ab-d7e7827abd2e
       notes:
+        - https://www.iafd.com/person.rme/id=b8728d72-1160-410d-9c4b-c13a726ec1fa
         - https://www.realitykings.com/model/26002/jessica
     - id: null
       name: JR
       appearance: Jr
       disambiguation: Dare Dorm, 2009
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d3d982dc-10cc-40a0-86ab-04b22f4d2738
+      status: c
+      status_url: https://stashdb.org/edits/4048aac4-5c2f-47df-91ec-4247bd818912
       notes:
+        - https://www.iafd.com/person.rme/id=d3d982dc-10cc-40a0-86ab-04b22f4d2738
         - https://www.realitykings.com/model/26004/jr

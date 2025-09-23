@@ -1,14 +1,7 @@
 split:
   name: Jana
-  fragments:
-    - column: O
-      id: 0c46a2c4-c80c-4039-8d5d-786699743b3d
-      name: Jana (Wooman Casting X, 2014)
-      text: Woodman Casting X (2015-05-15)
-      links:
-        - https://www.indexxx.com/m/jana-25
-        - https://stashdb.org/scenes/23989e9f-6c79-4a89-a27f-da2448c0c27f
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

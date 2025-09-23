@@ -13,5 +13,7 @@ performers:
       name: Phil
       appearance: null
       disambiguation: 2004-2006, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=71d980a7-cce9-4e0e-897d-1aece1779364
+      status: c
+      status_url: https://stashdb.org/edits/d5dc8b8c-fd3f-4604-9245-7f60fd89d177
+      notes:
+        - https://www.iafd.com/person.rme/id=71d980a7-cce9-4e0e-897d-1aece1779364

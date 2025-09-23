@@ -16,15 +16,17 @@ performers:
       name: Joselyn
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=6f837378-7955-4268-b9e8-8e9bfce6f267
+      status: c
+      status_url: https://stashdb.org/edits/354df931-486a-40f2-805f-ad45aefb1a60
       notes:
+        - https://www.iafd.com/person.rme/id=6f837378-7955-4268-b9e8-8e9bfce6f267
         - https://www.realitykings.com/model/26392/joselyn
     - id: null
       name: Natalie
       appearance: null
       disambiguation: Dare Dorm, 2010-08-27
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=300eb8e0-41b6-463a-b2e8-851784624fd5
+      status: c
+      status_url: https://stashdb.org/edits/433bfe0d-38c8-4ba5-bd6c-8fb8ebcdad8c
       notes:
+        - https://www.iafd.com/person.rme/id=300eb8e0-41b6-463a-b2e8-851784624fd5
         - https://www.realitykings.com/model/26394/natalie

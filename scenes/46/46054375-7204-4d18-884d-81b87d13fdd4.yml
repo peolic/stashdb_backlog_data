@@ -11,5 +11,7 @@ performers:
       name: Johnny
       appearance: null
       disambiguation: Evil Angel, 2001
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8bd0ffa8-2c5a-45c0-aa60-24ccaa988e2c
+      status: c
+      status_url: https://stashdb.org/edits/1da29f08-7e18-40ea-bb9b-8dd09d904541
+      notes:
+        - https://www.iafd.com/person.rme/id=8bd0ffa8-2c5a-45c0-aa60-24ccaa988e2c
