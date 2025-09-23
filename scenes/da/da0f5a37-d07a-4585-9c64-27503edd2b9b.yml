@@ -22,12 +22,10 @@ performers:
       name: Paul
       appearance: null
   append:
-    - id: null
+    - id: d4534200-20f5-4fbc-af87-3b62660fdf9b
       name: Jessica
       appearance: null
       disambiguation: Dare Dorm, 2011-12
-      status: c
-      status_url: https://stashdb.org/edits/291f6a9e-d14e-4966-b86d-5877bc15775a
       notes:
         - https://www.iafd.com/person.rme/id=dd4e3900-7ef6-4bda-a23f-98e0d37a21f4
         - https://www.imdb.com/name/nm10929661/

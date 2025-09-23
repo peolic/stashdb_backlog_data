@@ -10,11 +10,9 @@ performers:
       appearance: null
       disambiguation: 18videoz
   append:
-    - id: null
+    - id: 6d580f7c-2597-4165-9e1d-3422b72ce8b9
       name: Phil
       appearance: Job
       disambiguation: 2004-2006, V9
-      status: c
-      status_url: https://stashdb.org/edits/d5dc8b8c-fd3f-4604-9245-7f60fd89d177
       notes:
         - https://www.iafd.com/person.rme/id=71d980a7-cce9-4e0e-897d-1aece1779364

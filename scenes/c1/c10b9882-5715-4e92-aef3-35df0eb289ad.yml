@@ -12,12 +12,10 @@ performers:
       name: Alex
       appearance: null
   append:
-    - id: null
+    - id: b90c1f62-47ed-4ed9-af87-db7fc2d34e51
       name: Ashley
       appearance: Jessica
       disambiguation: 2008, V9
-      status: c
-      status_url: https://stashdb.org/edits/15ef67e9-b69a-4383-9d03-b61ac9abf5b6
       notes:
         - https://www.iafd.com/person.rme/id=a58aa576-ee84-4c95-bec2-c466100898ed
     - id: null

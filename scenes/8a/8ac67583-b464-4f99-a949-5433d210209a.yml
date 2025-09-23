@@ -7,12 +7,10 @@ performers:
       name: Jody
       appearance: null
   append:
-    - id: null
+    - id: 28b18cdc-d1dc-48a2-abac-c0e6370bae65
       name: Jody
       appearance: null
       disambiguation: 2003, Naughty Bookworms
-      status: c
-      status_url: https://stashdb.org/edits/97b430aa-77bc-484a-970d-57e4409bee5d
       notes:
         - https://www.iafd.com/person.rme/id=32687bcc-9de5-4d34-95ed-0d76b72f5455
         - https://www.indexxx.com/m/jen-5

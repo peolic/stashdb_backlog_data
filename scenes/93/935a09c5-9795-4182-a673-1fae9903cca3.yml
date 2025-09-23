@@ -10,12 +10,10 @@ performers:
       name: Jessica
       appearance: null
   append:
-    - id: null
+    - id: 146086e3-e7f2-4513-aa58-f8873fd7fb93
       name: Jessica
       appearance: null
       disambiguation: 2008, Shady PI
-      status: c
-      status_url: https://stashdb.org/edits/a9f86825-0a58-4494-aac8-3a8fa2f2579f
       notes:
         - https://www.iafd.com/person.rme/id=f41906d6-a1c5-4a7c-a9aa-8741b666d687
         - https://www.indexxx.com/m/jessica-62

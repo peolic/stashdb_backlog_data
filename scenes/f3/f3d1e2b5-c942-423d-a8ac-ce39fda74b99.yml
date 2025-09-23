@@ -12,12 +12,10 @@ performers:
       name: Jr
       appearance: null
   append:
-    - id: null
+    - id: 946d42f9-32ab-4e33-a26c-a21a2ce046ea
       name: Jessica
       appearance: null
       disambiguation: Dare Dorm, 2009-10
-      status: c
-      status_url: https://stashdb.org/edits/3974f639-dc21-4348-b7ab-d7e7827abd2e
       notes:
         - https://www.iafd.com/person.rme/id=b8728d72-1160-410d-9c4b-c13a726ec1fa
         - https://www.realitykings.com/model/26002/jessica
