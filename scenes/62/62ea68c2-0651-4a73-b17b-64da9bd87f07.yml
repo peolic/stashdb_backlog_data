@@ -9,11 +9,9 @@ performers:
       name: Samantha
       appearance: null
   append:
-    - id: null
+    - id: cb75b7e5-08bd-45a1-84e0-85e1480215a9
       name: Samantha
       appearance: null
       disambiguation: 2010, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/30c9a3dc-f658-46c6-bb18-7a32f0695a17
       notes:
         - https://www.iafd.com/person.rme/id=3ab81606-ed6a-454a-854d-9716ccf00110
