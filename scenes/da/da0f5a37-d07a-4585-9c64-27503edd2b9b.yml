@@ -42,9 +42,10 @@ performers:
       name: Jordan
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=21a70483-99c7-41bc-8bac-c0ce5832ee30
+      status: c
+      status_url: https://stashdb.org/edits/2117f903-8f06-488e-b18b-ab5a9cdfb8e2
       notes:
+        - https://www.iafd.com/person.rme/id=21a70483-99c7-41bc-8bac-c0ce5832ee30
         - https://www.imdb.com/name/nm10929660/
         - https://www.realitykings.com/model/26536/jordan
         - Aylo API is kicking back an alias for Jordan which needs to be investigated.
