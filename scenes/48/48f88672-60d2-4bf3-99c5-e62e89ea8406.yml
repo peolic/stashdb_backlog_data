@@ -12,5 +12,7 @@ performers:
       name: Vanessa
       appearance: Rafaela
       disambiguation: 2004, "No Limits 8"
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=56a1241c-d61b-4b41-8c03-0de38d65a47e
+      status: c
+      status_url: https://stashdb.org/edits/6317910b-b976-4b71-9637-71d76aee9d94
+      notes:
+        - https://www.iafd.com/person.rme/id=56a1241c-d61b-4b41-8c03-0de38d65a47e

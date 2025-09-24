@@ -1,8 +1,6 @@
 c_studio:
   - Dare Dorm
   - null
-comments:
-  - 'awesomeness: which one of the performers in Kayla''s picture is actually Kayla?'
 performers:
   remove:
     - id: 7c82803f-d0b5-4b8b-9233-13dd75e7f65c

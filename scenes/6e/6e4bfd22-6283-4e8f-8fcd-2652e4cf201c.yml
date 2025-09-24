@@ -23,7 +23,8 @@ performers:
       name: Douglas
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/c94dbf8e-3a69-4e1b-9e67-0b7a326e015f
     - id: 86382e89-35e7-409d-94e8-e07a4ba32dc3
       name: Maria
       appearance: null
@@ -34,7 +35,8 @@ performers:
       name: Nicole
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/46550cf5-60b2-44b9-9135-c9154cfaf99e
     - id: f2a6cb1c-b61b-4dea-b1c3-243a07b729a2
       name: Joseph
       appearance: null

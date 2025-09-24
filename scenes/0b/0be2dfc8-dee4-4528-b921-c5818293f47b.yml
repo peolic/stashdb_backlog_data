@@ -11,5 +11,7 @@ performers:
       name: Mr. Ken
       appearance: Ken
       disambiguation: 2007-2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=77a65130-1ddd-428d-a08d-42f191e3ca2b
+      status: c
+      status_url: https://stashdb.org/edits/a8a9f3c1-dfd5-49be-8dcf-8c76542f5f89
+      notes:
+        - https://www.iafd.com/person.rme/id=77a65130-1ddd-428d-a08d-42f191e3ca2b
