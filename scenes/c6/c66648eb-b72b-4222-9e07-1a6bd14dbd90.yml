@@ -11,12 +11,10 @@ performers:
       appearance: null
       disambiguation: Reality Kings 10493
   append:
-    - id: null
+    - id: bd8e3e97-c462-4633-ae52-cd368d684d73
       name: Rafaela
       appearance: null
       disambiguation: 2011, Mike In Brazil
-      status: c
-      status_url: https://stashdb.org/edits/38b5844c-ac43-442f-9213-025453c80d6e
       notes:
         - https://www.iafd.com/person.rme/id=cb4b2e17-4946-4eb4-b24d-9c3a9a4439b1
         - https://www.indexxx.com/m/rafaela-1
