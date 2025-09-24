@@ -12,12 +12,10 @@ performers:
       name: Natalie
       appearance: null
   append:
-    - id: null
+    - id: 67c3da28-1b13-4386-b630-48d693de2d92
       name: Joselyn
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/354df931-486a-40f2-805f-ad45aefb1a60
       notes:
         - https://www.iafd.com/person.rme/id=6f837378-7955-4268-b9e8-8e9bfce6f267
         - https://www.realitykings.com/model/26392/joselyn

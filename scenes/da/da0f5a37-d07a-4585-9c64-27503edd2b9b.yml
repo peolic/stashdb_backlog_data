@@ -29,12 +29,10 @@ performers:
       notes:
         - https://www.iafd.com/person.rme/id=dd4e3900-7ef6-4bda-a23f-98e0d37a21f4
         - https://www.imdb.com/name/nm10929661/
-    - id: null
+    - id: 30bed593-349e-4407-b2d8-c27caabd56a3
       name: Dani
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/f34b008e-9244-437f-9b19-4124fb0b5d38
       notes:
         - https://www.iafd.com/person.rme/id=cdccd795-3ad0-4a5a-b0b4-bbe7bb8809fb
         - https://www.imdb.com/name/nm10929662/
@@ -50,21 +48,17 @@ performers:
         - https://www.imdb.com/name/nm10929660/
         - https://www.realitykings.com/model/26536/jordan
         - Aylo API is kicking back an alias for Jordan which needs to be investigated.
-    - id: null
+    - id: e9b52360-5766-4337-86f7-e80faa93b1ff
       name: Justin
       appearance: null
       disambiguation: Dare Dorm, 2011-12
-      status: c
-      status_url: https://stashdb.org/edits/834bd9af-9135-4964-9e1f-1ddfc71cc25f
       notes:
         - https://www.iafd.com/person.rme/id=006d73c3-f71f-40a4-b5c5-d5a8abb4797e
         - https://www.realitykings.com/model/26530/justin
-    - id: null
+    - id: 46f2f01a-544f-4807-9e81-eafdbd9ce7a0
       name: Paul
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/c74c1103-46de-4778-a7cf-110487398a1f
       notes:
         - https://www.iafd.com/person.rme/id=c5661c58-8044-4adc-868f-c0ea01271f94
         - https://www.realitykings.com/model/26534/paul

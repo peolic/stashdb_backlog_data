@@ -2,7 +2,7 @@ split:
   name: Josy
   fragments:
     - column: J
-      id: null
+      id: 4341612e-595c-4962-a475-ad0ce372af5a
       name: Josy (2011, Mike in Brazil)
       text: Mike In Brazil
       links:
@@ -10,7 +10,7 @@ split:
         - https://www.indexxx.com/m/josy-1
         - https://stashdb.org/scenes/52a9c8c6-b6aa-460e-93b0-c9a576e6ba19
     - column: K
-      id: null
+      id: 44e6f911-3cc0-4516-9f7e-3c07ad56353c
       name: Josy (2007, Woodman)
       text: Woodman Casting X
       links:

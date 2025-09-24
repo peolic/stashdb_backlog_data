@@ -11,5 +11,7 @@ performers:
       name: Neveah
       appearance: null
       disambiguation: Evil Angel, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=e027e620-b2c0-49ec-a492-1bcf96cb0184
+      status: c
+      status_url: https://stashdb.org/edits/8887a3ca-4cb4-435c-bd5f-528c5be78c0f
+      notes:
+        - https://www.iafd.com/person.rme/id=e027e620-b2c0-49ec-a492-1bcf96cb0184

@@ -12,21 +12,17 @@ performers:
       name: Kayla
       appearance: null
   append:
-    - id: null
+    - id: c98e48e1-99b9-48ca-a711-ccb572b206c4
       name: Jonathan
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/5cb0e52e-a000-413b-8b60-ab3eb567c344
       notes:
         - https://www.iafd.com/person.rme/id=b1d05baa-5260-4e4a-8cd7-81db5b2fd456
         - https://www.realitykings.com/model/26560/jonathan
-    - id: null
+    - id: 61028f88-faf8-4181-8817-9cc9249450dc
       name: Kayla
       appearance: null
       disambiguation: 2010-12, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/bed42088-5042-4df1-86a3-e25fe5d98271
       notes:
         - https://www.iafd.com/person.rme/id=d10247af-a65c-485a-8a0e-ff9c0c676a4d
         - https://www.realitykings.com/model/26554/kayla

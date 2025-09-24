@@ -12,12 +12,10 @@ performers:
       name: Sabrina
       appearance: null
   append:
-    - id: null
+    - id: 4b0fec19-78de-4cda-9f4e-a7d4d5207c4f
       name: Johnny
       appearance: null
       disambiguation: 2003, Tranny Surprise
-      status: c
-      status_url: https://stashdb.org/edits/a578f4d3-1e7f-40c3-be0f-8710b6699478
       notes:
         - https://www.iafd.com/person.rme/id=9071a319-8873-45b7-bb4f-0069e1e9e1f4
     - id: 40aaaad1-f6fa-4071-be09-b98a53790e5c

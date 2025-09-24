@@ -10,9 +10,9 @@ performers:
       name: Olga
       appearance: null
   append:
-    - id: null
+    - id: 0b6b11b3-1a3a-4708-946a-098fc0053d91
       name: Olga
       appearance: null
       disambiguation: Woodman Casting X, 1995
-      status: new
-      status_url: https://www.indexxx.com/m/olga-35
+      notes:
+        - https://www.indexxx.com/m/olga-35
