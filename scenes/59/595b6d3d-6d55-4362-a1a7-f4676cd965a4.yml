@@ -3,5 +3,5 @@ duplicates:
 fingerprints:
   - algorithm: phash
     hash: 94c2ead1364749cf
-    correct_scene_id: null
+    correct_scene_id: 538210b3-ee78-40d4-ba55-0d9aa96a524a
     duration: 3675
