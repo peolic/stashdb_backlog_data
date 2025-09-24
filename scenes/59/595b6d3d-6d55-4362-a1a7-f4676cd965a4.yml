@@ -1,2 +1,7 @@
 duplicates:
   - f176ad10-9b3e-498c-ab90-b74a0f2bce0a
+fingerprints:
+  - algorithm: phash
+    hash: 94c2ead1364749cf
+    correct_scene_id: null
+    duration: 3675
