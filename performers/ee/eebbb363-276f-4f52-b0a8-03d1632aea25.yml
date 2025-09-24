@@ -1,13 +1,6 @@
 split:
   name: Jill
   fragments:
-    - column: M
-      id: ff9ee82f-6981-47f1-bcb3-4b8cb547ff7f
-      name: Jill (2010, GF Revenge)
-      text: GF Revenge
-      links:
-        - https://www.iafd.com/person.rme/id=ffea4840-1d7d-47be-a6e5-0447698f542c
-        - https://stashdb.org/scenes/4e306e58-32aa-4557-a83a-39c7fb2b1e32
     - column: O
       id: null
       name: Sasha
@@ -25,6 +18,7 @@ split:
         - https://www.adultdvdempire.com/3000427/snatchd-14-stolen-home-videos-porn-videos.html
         - https://www.iafd.com/title.rme/id=cd430da3-d9ba-4e16-9d23-a3729b3efe37
         - https://cdn.stashdb.org/images/1b/d5/1bd545da-fa41-480a-ae0d-27e1a556e462
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-03-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

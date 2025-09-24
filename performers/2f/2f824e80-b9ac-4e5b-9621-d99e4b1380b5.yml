@@ -1,20 +1,6 @@
 split:
   name: Joselyn
-  fragments:
-    - column: J
-      id: 67c3da28-1b13-4386-b630-48d693de2d92
-      name: Joselyn (2010, Dare Dorm)
-      text: Dare Dorm "Thats So"
-      links:
-        - https://www.iafd.com/person.rme/id=6f837378-7955-4268-b9e8-8e9bfce6f267
-        - https://stashdb.org/scenes/1b2bf2e9-773e-4838-8ba6-0da61839f0b1
-    - column: K
-      id: 66587730-ad66-4712-b121-f550a82db17c
-      name: Joselyn (2006, In the VIP)
-      text: In the VIP "Automatic Slims"
-      links:
-        - https://www.iafd.com/person.rme/id=35b806d5-db68-45a8-b8e4-16c32e0a1a3e
-        - https://www.indexxx.com/m/joselyn-1
-        - https://stashdb.org/scenes/3040a0ff-6897-413d-aa57-ec11800cc179
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of two performers (complete list as of 2022-06-17)
