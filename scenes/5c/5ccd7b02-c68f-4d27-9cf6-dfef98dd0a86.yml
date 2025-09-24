@@ -10,12 +10,10 @@ performers:
       name: Sammie
       appearance: null
   append:
-    - id: null
+    - id: 6b8a6e9e-58ae-47a8-8f32-2ed20c770a3b
       name: Sammie
       appearance: null
       disambiguation: 2004, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/64841707-35ec-40db-ad87-048ad207ced8
       notes:
         - https://www.iafd.com/person.rme/id=1d19c9d9-d29a-4052-8849-7bdd706ad43e
         - https://www.indexxx.com/m/sammie-1

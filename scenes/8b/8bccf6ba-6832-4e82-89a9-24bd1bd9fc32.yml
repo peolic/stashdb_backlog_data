@@ -10,12 +10,10 @@ performers:
       name: Kyla
       appearance: null
   append:
-    - id: null
+    - id: 29a44076-9a8c-45fc-9290-d205f725c9de
       name: Kyla
       appearance: null
       disambiguation: 2004, We Live Together
-      status: c
-      status_url: https://stashdb.org/edits/31157feb-e8c3-4067-ad43-41671db8fd70
       notes:
         - https://www.iafd.com/person.rme/id=921be699-bfc6-4822-b235-a451378481c3
         - https://www.indexxx.com/m/kyla

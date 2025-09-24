@@ -7,12 +7,10 @@ performers:
       name: Kristy
       appearance: null
   append:
-    - id: null
+    - id: 1fd0bb32-35cc-4f77-914e-285a38b47389
       name: Kristy
       appearance: null
       disambiguation: 2010, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/44af2b2a-9057-47d3-9e7e-8da888c69912
       notes:
         - https://www.iafd.com/person.rme/id=af3093e4-4e75-4be2-978a-0be172769740
         - https://www.realitykings.com/model/25295/kristy

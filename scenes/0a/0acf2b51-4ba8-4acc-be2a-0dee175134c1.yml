@@ -10,12 +10,10 @@ performers:
       name: Kelley
       appearance: null
   append:
-    - id: null
+    - id: e6582c33-62d5-46d7-908e-aac4ed80d597
       name: Kelly Rose
       appearance: Kelley
       disambiguation: 2006-2011
-      status: c
-      status_url: https://stashdb.org/edits/52a93c3c-7bf8-44d4-8031-f58102c2353a
       notes:
         - https://www.iafd.com/person.rme/id=67734e7f-6672-4268-a4f5-df5b70ce7ce1
         - https://www.indexxx.com/m/kelley-1

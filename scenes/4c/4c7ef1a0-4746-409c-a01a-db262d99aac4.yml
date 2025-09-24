@@ -9,11 +9,9 @@ performers:
       name: Kay
       appearance: null
   append:
-    - id: null
+    - id: 77a5b9ab-9d51-4b95-8a4e-605c691ceb71
       name: Kay
       appearance: null
       disambiguation: 2010, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/c95d0811-01a6-4715-92be-88c6763e5668
       notes:
         - https://www.iafd.com/person.rme/id=e8a528df-07b4-4a3f-9a92-43a25219b58d

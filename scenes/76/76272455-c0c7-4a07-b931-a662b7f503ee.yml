@@ -10,12 +10,10 @@ performers:
       name: Mariana
       appearance: null
   append:
-    - id: null
+    - id: 07af58ef-778c-4b83-ae21-04cb5ee7f707
       name: Mariana
       appearance: null
       disambiguation: 2008, Mike In Brazil
-      status: c
-      status_url: https://stashdb.org/edits/095e132e-15a3-42f3-9b76-59276dfc9620
       notes:
         - https://www.iafd.com/person.rme/id=45711bbf-c707-4f78-8956-3138967bac38
         - https://www.indexxx.com/m/mariana-1
