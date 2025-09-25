@@ -9,12 +9,10 @@ performers:
       name: Leo
       appearance: null
   append:
-    - id: null
+    - id: 2c20a337-3726-4432-85b1-2dba0ecfa2cf
       name: Leo
       appearance: null
       disambiguation: 2014, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/09279136-6741-4763-a9cc-d2e4af7ece3d
       notes:
         - https://www.iafd.com/person.rme/id=ad9caff3-026c-410a-b075-f67d49689d73
         - https://www.realitykings.com/model/25841/leo

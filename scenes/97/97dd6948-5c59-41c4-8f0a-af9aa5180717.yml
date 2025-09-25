@@ -10,12 +10,10 @@ performers:
       name: Keyla
       appearance: null
   append:
-    - id: null
+    - id: 4f3c4c8f-c7da-477d-bcc3-e82a8cba76b9
       name: Keyla
       appearance: null
       disambiguation: 2005, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/d17963f8-9b72-419a-bd7b-6fb6c8b8ee7a
       notes:
         - https://www.iafd.com/person.rme/id=1d286180-1b84-43be-ab34-295da09a48e5
         - https://www.indexxx.com/m/keyla

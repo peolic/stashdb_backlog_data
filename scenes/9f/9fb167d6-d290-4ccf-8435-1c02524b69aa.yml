@@ -13,12 +13,10 @@ performers:
       name: Sheila
       appearance: null
   append:
-    - id: null
+    - id: a25e656f-e16a-4e66-8d51-f7eb9238798b
       name: Oscar
       appearance: null
       disambiguation: 2002, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/5e4418d3-95aa-4bb5-a336-9517cc95723c
       notes:
         - https://www.iafd.com/person.rme/id=c6d1a78c-65b9-4c10-8cbb-4f60a1967bf9
     - id: 95d9522f-c30d-4c84-b83d-717ca05ef375

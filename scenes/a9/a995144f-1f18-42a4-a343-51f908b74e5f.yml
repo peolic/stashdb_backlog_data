@@ -10,12 +10,10 @@ performers:
       name: Kayla
       appearance: null
   append:
-    - id: null
+    - id: 4c040204-0b1f-4bc4-a4fd-fce13213509f
       name: Kayla
       appearance: null
       disambiguation: 2002, Twistys
-      status: c
-      status_url: https://stashdb.org/edits/c832313c-de91-4ba9-a18e-4e5fbbeb291b
       notes:
         - https://www.iafd.com/person.rme/id=421f76a0-e152-4262-97fb-96c70492ef8d
         - https://www.indexxx.com/m/kayla-6
