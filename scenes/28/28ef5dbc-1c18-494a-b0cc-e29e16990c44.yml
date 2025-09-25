@@ -9,12 +9,10 @@ performers:
       name: Santiago
       appearance: null
   append:
-    - id: null
+    - id: 7d4ddf3f-bbb1-491d-9edd-27cec1fae608
       name: Santiago
       appearance: null
       disambiguation: 2018, Reality Dudes
-      status: c
-      status_url: https://stashdb.org/edits/d39e3569-27c6-403d-a86b-0fff1f8bb244
       notes:
         - https://www.iafd.com/person.rme/id=52d8a2cd-b0dd-4dde-80fe-6900274d06b5
         - https://www.realitydudes.com/model/23810/santiago
