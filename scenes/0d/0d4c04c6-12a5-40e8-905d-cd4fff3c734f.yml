@@ -7,11 +7,9 @@ performers:
       name: Maverick
       appearance: null
   append:
-    - id: null
+    - id: 53b03752-4946-42cd-a069-17bd82b89f09
       name: Maverick
       appearance: null
       disambiguation: Naughty Bookworms, 2005
-      status: c
-      status_url: https://stashdb.org/edits/d2f9990a-1b2c-44f8-ba51-187ad09d6db9
       notes:
         - https://www.iafd.com/person.rme/id=2fa84369-42a0-4e2f-b734-a238b6358c15

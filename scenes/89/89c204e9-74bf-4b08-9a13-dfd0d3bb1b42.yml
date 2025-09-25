@@ -7,11 +7,9 @@ performers:
       name: Matt
       appearance: null
   append:
-    - id: null
+    - id: 41e8ec0d-ca33-48dd-8a06-52c18ef986ce
       name: John
       appearance: Matt
       disambiguation: 2006, V9
-      status: c
-      status_url: https://stashdb.org/edits/8b03be2d-fc3e-4a3d-8519-bd1fd99ae206
       notes:
         - https://www.iafd.com/person.rme/id=1a5b3bcd-a5cf-4858-b8b4-0c7bf4474542

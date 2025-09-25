@@ -16,30 +16,24 @@ performers:
       name: Nicholas
       appearance: null
   append:
-    - id: null
+    - id: eb972118-a7e5-4c90-aef5-3bc8dd3a081d
       name: Matthew
       appearance: null
       disambiguation: Dare Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/982599c8-22a1-43bf-8bff-4f02f00110be
       notes:
         - https://www.iafd.com/person.rme/id=17edecff-4108-40d0-86b8-f030f791a0fb
         - https://www.realitykings.com/model/26104/matthew
-    - id: null
+    - id: acfcba37-d36f-4389-bd2f-1f58e51fe3ff
       name: Miguel
       appearance: null
       disambiguation: Dare Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/c83ddbb9-df84-464d-a96c-b7e590f94abf
       notes:
         - https://www.iafd.com/person.rme/id=6116cb66-656f-40fe-9ad7-92d90bb73286
         - https://www.realitykings.com/model/26106/miguel
-    - id: null
+    - id: 836f3c8e-0632-43d4-8053-4c9e7fc12f43
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/b6f7eb39-7685-4b71-ac6f-b25de0954e2e
       notes:
         - https://www.iafd.com/person.rme/id=0b3339d2-cde1-4aaa-b9a7-6227464d18e8
         - https://www.realitykings.com/model/26108/nicholas

@@ -10,12 +10,10 @@ performers:
       name: Lisa
       appearance: null
   append:
-    - id: null
+    - id: 3f6d08e1-5713-4022-9209-f4fa45a9bd6f
       name: Lisa
       appearance: null
       disambiguation: 2005, Round and Brown
-      status: c
-      status_url: https://stashdb.org/edits/d7ef1488-1a2b-4416-840a-4668f99ab65a
       notes:
         - https://www.iafd.com/person.rme/id=2864e73b-c43d-4dd8-95ec-d9816d888b84
         - https://www.indexxx.com/m/lisa-7

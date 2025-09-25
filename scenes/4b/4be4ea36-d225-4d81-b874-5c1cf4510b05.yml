@@ -7,12 +7,10 @@ performers:
       name: Lisa
       appearance: null
   append:
-    - id: null
+    - id: 3397d0fe-da51-400f-812a-9a1f2d438b6f
       name: Lisa
       appearance: null
       disambiguation: Canadian, 2006, Doghouse Digital
-      status: c
-      status_url: https://stashdb.org/edits/d7ce33a0-edbc-4e58-82fd-f9cff0ef48f2
       notes:
         - https://www.iafd.com/person.rme/id=38d59df4-38bf-4ea2-bd18-1a01dd17b7fe
         - https://www.doghousedigital.com/model/60394/lisa

@@ -10,12 +10,10 @@ performers:
       name: Lisa
       appearance: null
   append:
-    - id: null
+    - id: 67bb38d1-9947-49ca-bc14-d132b51d0fde
       name: Lisa
       appearance: null
       disambiguation: 2006, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/333b669e-6722-4175-a332-68327e46ede6
       notes:
         - https://www.iafd.com/person.rme/id=a4e7522a-6ced-4755-8788-5ad4ec157a6e
         - https://www.indexxx.com/m/lisa-3
