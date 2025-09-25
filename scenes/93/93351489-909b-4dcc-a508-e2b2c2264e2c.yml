@@ -11,5 +11,7 @@ performers:
       name: Margaret
       appearance: null
       disambiguation: 2008, Burning Angel
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=18737ad6-8665-4301-8030-3b360adc19f6
+      status: c
+      status_url: https://stashdb.org/edits/a1fbe0c7-dcba-4647-ab67-3cc737cd4cc6
+      notes:
+        - https://www.iafd.com/person.rme/id=18737ad6-8665-4301-8030-3b360adc19f6

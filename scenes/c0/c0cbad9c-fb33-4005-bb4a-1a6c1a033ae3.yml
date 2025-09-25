@@ -20,23 +20,26 @@ performers:
       name: Harley
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=77dd4d4e-d043-41e0-ae5d-d1490bd77a3b
+      status: c
+      status_url: https://stashdb.org/edits/88fad1bd-b2f2-43c3-87d8-84e7b31c2b19
       notes:
+        - https://www.iafd.com/person.rme/id=77dd4d4e-d043-41e0-ae5d-d1490bd77a3b
         - https://www.imdb.com/name/nm9242385/
     - id: null
       name: Jason
       appearance: null
       disambiguation: Dare Dorm, 2010-09-24
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8f84caa8-99d2-474f-9903-b7075dc8d0a1
+      status: c
+      status_url: https://stashdb.org/edits/45130a47-859d-4e91-b3d4-f0c4a1850bed
       notes:
+        - https://www.iafd.com/person.rme/id=8f84caa8-99d2-474f-9903-b7075dc8d0a1
         - https://www.realitykings.com/model/24889/jason
     - id: null
       name: Lacey
       appearance: null
       disambiguation: 2010, Dare Dorm
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/c4ef2862-2844-4545-a65a-66e95858f272
       notes:
         - https://www.realitykings.com/model/24891/lacey
         - https://www.imdb.com/name/nm9242387/

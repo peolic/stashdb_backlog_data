@@ -13,5 +13,7 @@ performers:
       name: Matt
       appearance: null
       disambiguation: 2007, Mike's Apartment
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1591c1ce-39d8-4b63-8536-ad8ca9978992
+      status: c
+      status_url: https://stashdb.org/edits/f93e0e0d-4948-45ab-896e-c245edbd854a
+      notes:
+        - https://www.iafd.com/person.rme/id=1591c1ce-39d8-4b63-8536-ad8ca9978992
