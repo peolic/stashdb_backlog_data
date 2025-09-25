@@ -10,12 +10,10 @@ performers:
       name: Mary
       appearance: null
   append:
-    - id: null
+    - id: 97aca4ea-1040-4266-9637-7ac8919307f9
       name: Mary
       appearance: null
       disambiguation: Dare Dorm, 2010-11
-      status: c
-      status_url: https://stashdb.org/edits/21fea994-56e0-4106-b99b-bd497dc614dc
       notes:
         - https://www.iafd.com/person.rme/id=9460a727-057e-4237-8f89-2401b4d81f9c
         - https://www.realitykings.com/model/25948/mary
