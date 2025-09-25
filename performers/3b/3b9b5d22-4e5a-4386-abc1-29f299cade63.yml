@@ -1,15 +1,7 @@
 split:
   name: Lydia
-  fragments:
-    - column: I
-      id: null
-      name: Lydia (2003, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=d0d9724c-d314-4450-8c20-0f026ffa452f
-        - https://www.indexxx.com/m/lydia-1
-        - https://stashdb.org/scenes/2c862b16-3fbe-41b2-bc02-b57f89d2d999
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

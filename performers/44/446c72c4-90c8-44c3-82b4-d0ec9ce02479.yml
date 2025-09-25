@@ -1,15 +1,7 @@
 split:
   name: Tessa
-  fragments:
-    - column: N
-      id: null
-      name: Tessa (2007, MILF Hunter)
-      text: MILF Hunter "Cooler Cooter"
-      links:
-        - https://www.iafd.com/person.rme/id=d49ab02a-8392-4000-b8a8-a61535dce115
-        - https://www.indexxx.com/m/tessa
-        - https://stashdb.org/scenes/687b2fb2-e431-48fd-8658-6b84df120bae
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-27)
     - Best to move scenes and delete performer, rather than merging or renaming.

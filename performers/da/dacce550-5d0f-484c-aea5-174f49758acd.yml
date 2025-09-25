@@ -1,15 +1,7 @@
 split:
   name: Sammie
-  fragments:
-    - column: K
-      id: null
-      name: Sammie (2004, 8th Street Latinas)
-      text: 8th Street Latinas "Jambalaya Snatch"
-      links:
-        - https://www.iafd.com/person.rme/id=1d19c9d9-d29a-4052-8849-7bdd706ad43e
-        - https://www.indexxx.com/m/sammie-1
-        - https://stashdb.org/scenes/5ccd7b02-c68f-4d27-9cf6-dfef98dd0a86
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-06-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

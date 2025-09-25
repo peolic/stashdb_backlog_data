@@ -1,14 +1,7 @@
 split:
   name: Neveah
-  fragments:
-    - column: K
-      id: null
-      name: Neveah
-      text: Shemale Idol
-      links:
-        - https://www.iafd.com/person.rme/id=e027e620-b2c0-49ec-a492-1bcf96cb0184
-        - https://stashdb.org/scenes/dc99ef01-2b61-42c8-9f60-4ceba213d741
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-11-25)
     - Best to move scenes and delete performer, rather than merging or renaming.

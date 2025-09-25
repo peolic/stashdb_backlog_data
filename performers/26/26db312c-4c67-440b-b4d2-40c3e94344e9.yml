@@ -1,20 +1,7 @@
 split:
   name: Monika
-  fragments:
-    - column: K
-      id: null
-      name: Monika (Girls Next Door Abused)
-      text: Girls Next Door Abused "That's how U use Spring Break"
-      notes:
-        - 'Same as Use ''Em Abuse ''Em and Lose ''Em #1, Scene #1'
-        - name 'Monika' may not match original
-      links:
-        - https://www.iafd.com/person.rme/id=c3ef1451-9461-4d18-96c5-f02126dda2d6
-        - https://stashdb.org/scenes/15a44d1f-9a45-47e4-867c-4382b321a0f9
-        - https://www.adultdvdempire.com/2994149/use-em-abuse-em-and-lose-em-1-porn-videos.html#scene_863441
-        - https://www.iafd.com/title.rme/id=043bc7b9-348b-481f-bf10-fb0a97cd7704
-        - https://stashdb.org/images/6fc7735e-5ae0-40fe-bc3f-2c853f43ed2a
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-01-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

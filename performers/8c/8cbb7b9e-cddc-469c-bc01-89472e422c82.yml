@@ -1,14 +1,7 @@
 split:
   name: Kristy
-  fragments:
-    - column: L
-      id: null
-      name: Kristy (2010, GF Revenge)
-      text: GF Revenge
-      links:
-        - https://www.iafd.com/person.rme/id=af3093e4-4e75-4be2-978a-0be172769740
-        - https://stashdb.org/scenes/3d67d72b-7d6e-4473-b74c-79e6cf403a07
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

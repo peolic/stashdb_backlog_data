@@ -13,5 +13,7 @@ performers:
       name: Oscar
       appearance: null
       disambiguation: 2003, 8th Street Latinas
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8ca54af3-feee-4862-bda4-ef12a1e9afd6
+      status: c
+      status_url: https://stashdb.org/edits/45fe4eed-a7ff-4ede-a5b7-921e5c8ed7c2
+      notes:
+        - https://www.iafd.com/person.rme/id=8ca54af3-feee-4862-bda4-ef12a1e9afd6

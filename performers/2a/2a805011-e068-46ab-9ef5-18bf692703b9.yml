@@ -1,14 +1,6 @@
 split:
   name: Zia
-  fragments:
-    - column: J
-      id: null
-      name: Zia (2006, Hot Legs and Feet)
-      text: Hot Legs and Feet
-      links:
-        - https://www.iafd.com/person.rme/id=9acf6bbb-0ff3-47a6-9221-bb73460f7c76
-        - https://www.indexxx.com/m/zia
-        - https://stashdb.org/scenes/168850fb-771a-4ced-bb64-da18ff1c940d
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of two performers (complete list as of 2025-01-18)

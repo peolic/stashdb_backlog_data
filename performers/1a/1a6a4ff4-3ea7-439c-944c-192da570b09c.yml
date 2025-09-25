@@ -1,15 +1,7 @@
 split:
   name: Theresa
-  fragments:
-    - column: J
-      id: null
-      name: Theresa (2003, Big Naturals)
-      text: Big Naturals
-      links:
-        - https://www.iafd.com/person.rme/id=9c6e1b70-f94c-4061-a684-35315f7ab893
-        - https://www.indexxx.com/m/theresa-1
-        - https://stashdb.org/scenes/0639f555-ba64-4439-bf33-035ddb8f9382
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-05-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

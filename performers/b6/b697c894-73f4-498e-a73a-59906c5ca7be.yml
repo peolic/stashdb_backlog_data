@@ -1,13 +1,6 @@
 split:
   name: Slim
-  fragments:
-    - column: J
-      id: null
-      name: Slim (2002, Tranny Surprise)
-      text: Tranny Surprise "Egg Roll"
-      links:
-        - https://www.iafd.com/person.rme/id=59d9c444-c952-48b9-ac45-8e61422ec634
-        - https://stashdb.org/scenes/dfbd4c07-81dd-47b8-b28b-b046f10f0768
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-05-06)

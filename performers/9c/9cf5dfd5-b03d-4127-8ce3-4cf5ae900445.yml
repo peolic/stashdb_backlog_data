@@ -1,14 +1,7 @@
 split:
   name: Samantha
-  fragments:
-    - column: V
-      id: null
-      name: Samantha (2010, In the VIP)
-      text: In the VIP
-      links:
-        - https://www.iafd.com/person.rme/id=3ab81606-ed6a-454a-854d-9716ccf00110
-        - https://stashdb.org/scenes/62ea68c2-0651-4a73-b17b-64da9bd87f07
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-08-28)
     - Best to move scenes and delete performer, rather than merging or renaming.

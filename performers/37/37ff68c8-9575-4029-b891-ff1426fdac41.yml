@@ -1,15 +1,7 @@
 split:
   name: Savanah
-  fragments:
-    - column: J
-      id: null
-      name: Savanah (2005, We Live Together)
-      text: We Live Together
-      links:
-        - https://www.iafd.com/person.rme/id=eb29f27a-b109-4568-8a15-a194b34f72ef
-        - https://www.indexxx.com/m/savanah
-        - https://stashdb.org/scenes/6306e8b1-42eb-42ca-80b0-dec28eff3d3a
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

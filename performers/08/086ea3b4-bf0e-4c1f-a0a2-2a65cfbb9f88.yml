@@ -1,15 +1,7 @@
 split:
   name: Lacy
-  fragments:
-    - column: J
-      id: null
-      name: Lacy (2005, Cum Fiesta)
-      text: Cum Fiesta
-      links:
-        - https://www.iafd.com/person.rme/id=79535b2d-e6b2-4784-832f-8015d584c2e5
-        - https://www.indexxx.com/m/lacy-1
-        - https://stashdb.org/scenes/16eb5257-d2dc-42b7-afe4-0d1140315741
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-12-04)
     - Best to move scenes and delete performer, rather than merging or renaming.

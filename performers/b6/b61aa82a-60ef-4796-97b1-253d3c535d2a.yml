@@ -1,15 +1,7 @@
 split:
   name: Sabina
-  fragments:
-    - column: M
-      id: null
-      name: Sabina (2002, Big Naturals)
-      text: Wives in Pantyhose
-      links:
-        - https://www.iafd.com/person.rme/id=80ece048-f935-428b-9b21-08cd6cb0380e
-        - https://www.indexxx.com/m/sabina-2
-        - https://stashdb.org/scenes/642c456d-9472-42ca-aa24-d72b7dc10095
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-12-28)
     - Best to move scenes and delete performer, rather than merging or renaming.

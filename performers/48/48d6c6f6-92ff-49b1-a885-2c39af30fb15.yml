@@ -1,14 +1,6 @@
 split:
   name: Kyla
-  fragments:
-    - column: I
-      id: null
-      name: Kyla (2004, We Live Together)
-      text: We Live Together
-      links:
-        - https://www.iafd.com/person.rme/id=921be699-bfc6-4822-b235-a451378481c3
-        - https://www.indexxx.com/m/kyla
-        - https://stashdb.org/scenes/8bccf6ba-6832-4e82-89a9-24bd1bd9fc32
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-29)

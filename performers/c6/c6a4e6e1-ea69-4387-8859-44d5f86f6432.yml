@@ -1,14 +1,6 @@
 split:
   name: Millie
-  fragments:
-    - column: J
-      id: null
-      name: Millie (2006, Throated)
-      text: Throated
-      links:
-        - https://www.iafd.com/person.rme/id=027b82f8-afbb-42c3-aece-60b233cb4140
-        - https://www.indexxx.com/m/millie
-        - https://stashdb.org/scenes/cc926292-4f2e-4cb0-adb5-97e4f4b7a0fa
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-24)

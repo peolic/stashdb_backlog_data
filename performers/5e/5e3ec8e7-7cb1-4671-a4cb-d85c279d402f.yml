@@ -1,15 +1,7 @@
 split:
   name: Misty
-  fragments:
-    - column: O
-      id: null
-      name: Misty (2005, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=3539d5bf-5be0-4da8-bd2b-4bd449e93ad1
-        - https://www.indexxx.com/m/misty-7
-        - https://stashdb.org/scenes/4a74de00-1ed0-45bd-b716-fc6ad8ef28a6
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

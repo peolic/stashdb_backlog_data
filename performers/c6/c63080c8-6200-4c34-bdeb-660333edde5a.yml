@@ -1,13 +1,6 @@
 split:
   name: Safire
-  fragments:
-    - column: J
-      id: null
-      name: Safire
-      text: Motherfucker XXX
-      links:
-        - https://www.iafd.com/person.rme/id=52bfad4f-dd1c-4c02-8ed5-8a6c16ea9fb3
-        - https://stashdb.org/scenes/64846a6c-7209-4d25-a0ce-a8b6d831a816
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-08)

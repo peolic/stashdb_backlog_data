@@ -1,17 +1,7 @@
 split:
   name: Julia
-  fragments:
-    - column: N
-      id: null
-      name: Julia (2011, GF Revenge)
-      text: GF Revenge "Hidden Hopes"
-      notes:
-        - (in pink)
-      links:
-        - https://www.iafd.com/person.rme/id=a7b4cfce-3b67-42f7-b5b2-815e6b7d27d2
-        - https://stashdb.org/scenes/9db9d25b-b0b4-4583-bb9b-5cff9dd7177d
-        - https://pics-x.com/gallery/183741/hidden-hopes-gf-revenge
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,21 +1,7 @@
 split:
   name: Rafaela (Reality Kings 10493)
-  fragments:
-    - column: I
-      id: null
-      name: Rafaela (2011, Mike In Brazil)
-      text: Mike In Brazil "Wanna Bang"
-      links:
-        - https://www.iafd.com/person.rme/id=cb4b2e17-4946-4eb4-b24d-9c3a9a4439b1
-        - https://www.indexxx.com/m/rafaela-1
-        - https://stashdb.org/scenes/c66648eb-b72b-4222-9e07-1a6bd14dbd90
-    - column: K
-      id: null
-      name: Rafaela (2005, Northstar) AKA Vanessa (2004, "No Limits 8")
-      text: 'Peter North "Latina Fever #13"'
-      links:
-        - https://www.iafd.com/person.rme/id=56a1241c-d61b-4b41-8c03-0de38d65a47e
-        - https://stashdb.org/scenes/48f88672-60d2-4bf3-99c5-e62e89ea8406
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-08-02)
     - Renamed before all other performers were moved.

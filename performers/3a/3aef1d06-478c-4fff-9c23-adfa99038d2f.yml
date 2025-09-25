@@ -1,14 +1,7 @@
 split:
   name: Kennedy
-  fragments:
-    - column: N
-      id: null
-      name: Kennedy (2010, Dare Dorm)
-      text: Dare Dorm "Dessert Anyone"
-      links:
-        - https://www.iafd.com/person.rme/id=9810d6dd-b83b-45a2-81e1-4a3d938b6847
-        - https://stashdb.org/scenes/423351b3-3662-40d4-a56c-006ae4fbf37c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-08-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

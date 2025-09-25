@@ -1,14 +1,7 @@
 split:
   name: Kay
-  fragments:
-    - column: I
-      id: null
-      name: Kay (2010, GF Revenge)
-      text: GF Revenge
-      links:
-        - https://www.iafd.com/person.rme/id=e8a528df-07b4-4a3f-9a92-43a25219b58d
-        - https://stashdb.org/scenes/4c7ef1a0-4746-409c-a01a-db262d99aac4
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-10-23)
     - Best to move scenes and delete performer, rather than merging or renaming.

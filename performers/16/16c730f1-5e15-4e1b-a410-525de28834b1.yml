@@ -1,15 +1,7 @@
 split:
   name: Mariana
-  fragments:
-    - column: J
-      id: null
-      name: Mariana (2008, Mike in Brazil)
-      text: Mike in Brazil
-      links:
-        - https://www.iafd.com/person.rme/id=45711bbf-c707-4f78-8956-3138967bac38
-        - https://www.indexxx.com/m/mariana-1
-        - https://stashdb.org/scenes/76272455-c0c7-4a07-b931-a662b7f503ee
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-05-03)
     - Best to move scenes and delete performer, rather than merging or renaming.
