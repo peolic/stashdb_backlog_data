@@ -1,13 +1,6 @@
 split:
   name: Hector
-  fragments:
-    - column: J
-      id: null
-      name: Hector (2003, 8th Street Latinas)
-      text: 8th Street Latinas
-      links:
-        - https://www.iafd.com/person.rme/id=05595e5e-385a-4bed-ae2e-e6f5d6479d40
-        - https://stashdb.org/scenes/55d474e7-6ebe-4f62-9e45-392758d4ad03
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-19)
