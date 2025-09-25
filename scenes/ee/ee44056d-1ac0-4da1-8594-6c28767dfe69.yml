@@ -11,5 +11,7 @@ performers:
       name: Kevin
       appearance: null
       disambiguation: 2011, Male Reality
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=1244bace-e084-4164-972e-1f29b17022ce
+      status: c
+      status_url: https://stashdb.org/edits/e36b5bcb-f6b2-4ae4-b1a7-9f586d0a18e3
+      notes:
+        - https://www.iafd.com/person.rme/id=1244bace-e084-4164-972e-1f29b17022ce

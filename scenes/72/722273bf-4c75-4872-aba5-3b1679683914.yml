@@ -11,5 +11,7 @@ performers:
       name: Brooke Lynn
       appearance: Kim
       disambiguation: Homegrown Video
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=69e0dd7d-0954-4e36-84f9-e30b286e5cc6
+      status: c
+      status_url: https://stashdb.org/edits/9f89a40d-1097-4e2a-ba7b-f4dfef82737a
+      notes:
+        - https://www.iafd.com/person.rme/id=69e0dd7d-0954-4e36-84f9-e30b286e5cc6
