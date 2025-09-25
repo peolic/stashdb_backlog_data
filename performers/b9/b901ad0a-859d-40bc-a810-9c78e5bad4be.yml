@@ -1,13 +1,6 @@
 split:
   name: John
   fragments:
-    - column: Q
-      id: d99b516c-13cc-4f27-8d48-a944752c5112
-      name: John (2013, Dare Dorm)
-      text: Dare Dorm "Hot Mess"
-      links:
-        - https://www.iafd.com/person.rme/id=0194c805-72b5-462e-9cef-b3c0b73b7e18
-        - https://stashdb.org/scenes/36426f43-fbb4-4103-bdc0-797179867737
     - column: S
       id: 61d699ea-f383-4b90-8529-700490c0417b
       name: Gene Neeley(*) / Brian

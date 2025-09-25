@@ -1,16 +1,11 @@
 split:
   name: Santiago
   fragments:
-    - column: I
-      id: 7d4ddf3f-bbb1-491d-9edd-27cec1fae608
-      name: Santiago (2018, Reality Dudes)
-      links:
-        - https://www.iafd.com/person.rme/id=52d8a2cd-b0dd-4dde-80fe-6900274d06b5
-        - https://stashdb.org/scenes/28ef5dbc-1c18-494a-b0cc-e29e16990c44
     - column: J
       id: null
       name: Santiago (2013, Dick Dorm)
       links:
         - https://stashdb.org/scenes/f1de2ce7-a83a-4f5a-8372-c3f91a5dad77
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-12)

@@ -21,14 +21,6 @@ split:
       links:
         - https://stashdb.org/scenes/2939e981-9216-4758-bf2b-49d01492f479
         - https://www.iafd.com/title.rme/id=0449c8a6-167b-419b-ab38-7cb78df8f292
-    - column: AJ
-      id: d4534200-20f5-4fbc-af87-3b62660fdf9b
-      name: Jessica (Dare Dorm, 2011-12)
-      text: Dare Dorm "Bathroom Vandals"
-      links:
-        - https://www.iafd.com/person.rme/id=dd4e3900-7ef6-4bda-a23f-98e0d37a21f4
-        - https://stashdb.org/scenes/da0f5a37-d07a-4585-9c64-27503edd2b9b
-        - https://www.iafd.com/title.rme/id=09ef6a64-de3b-457e-9d4f-a08cc589a387
     - column: AM
       id: null
       name: Jessica (3)

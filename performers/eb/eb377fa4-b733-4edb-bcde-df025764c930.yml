@@ -1,21 +1,7 @@
 split:
   name: Kayla
-  fragments:
-    - column: Q
-      id: 4c040204-0b1f-4bc4-a4fd-fce13213509f
-      name: Kayla (2002, Twistys)
-      text: Twistys
-      links:
-        - https://www.iafd.com/person.rme/id=421f76a0-e152-4262-97fb-96c70492ef8d
-        - https://www.indexxx.com/m/kayla-6
-        - https://stashdb.org/scenes/a995144f-1f18-42a4-a343-51f908b74e5f
-    - column: U
-      id: 02a6f58e-1f4a-4eca-88e5-bde8e0e94934
-      name: Kayla (2010, Dare Dorm)
-      text: Dare Dorm "Ice Ice Ladies"
-      links:
-        - https://www.iafd.com/person.rme/id=0bb9c195-c96c-4f08-950e-6ad8a707f667
-        - https://stashdb.org/scenes/49633020-66eb-44f1-b96e-411437454d60
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-16)
     - Best to move scenes and delete performer, rather than merging or renaming.

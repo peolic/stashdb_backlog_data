@@ -1,14 +1,6 @@
 split:
   name: Katarina
   fragments:
-    - column: I
-      id: 9d6f50e6-3110-4e19-846a-7535ffdc3bd7
-      name: Katarina (2008, Monster Curves)
-      text: Monster Curves
-      links:
-        - https://www.iafd.com/person.rme/id=0b097990-2b43-457d-b3c7-49be4af6ae8a
-        - https://www.indexxx.com/m/katarina-3
-        - https://stashdb.org/scenes/21fb1351-b1cd-4c7b-a90d-ca787410bee0
     - column: L
       id: null
       name: Katarina

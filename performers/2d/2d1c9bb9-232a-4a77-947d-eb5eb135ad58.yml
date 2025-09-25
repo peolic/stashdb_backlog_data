@@ -1,15 +1,7 @@
 split:
   name: Sabrina
-  fragments:
-    - column: W
-      id: 56620007-90f0-4399-8be5-f90a6da8dad9
-      name: Sabrina (2004, In the VIP)
-      text: In the VIP (2004)
-      links:
-        - https://www.iafd.com/person.rme/id=1bfb38fb-b777-43fc-972d-bfda29fbe081
-        - https://www.indexxx.com/m/sabrina-7
-        - https://stashdb.org/scenes/30ee126b-c510-439d-88e8-8ef0bf78a8c0
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-08-13)
     - Best to move scenes and delete performer, rather than merging or renaming.

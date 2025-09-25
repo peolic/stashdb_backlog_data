@@ -1,17 +1,6 @@
 split:
   name: Tony
   fragments:
-    - column: M
-      id: 3d579051-78c3-4286-87f8-ad5bef92cedd
-      name: Tony (2014 GF Revenge)
-      notes:
-        - '- GF Revenge "More Amore"'
-        - '- GF Revenge "Flash Drive"'
-      links:
-        - https://www.iafd.com/person.rme/id=64951900-8e58-4344-8297-7f1d531e7ce9
-        - https://stashdb.org/scenes/2f9b72f8-1e47-4615-bc82-fd88d595e067
-        - https://stashdb.org/scenes/2bc63c2c-4ea7-45d0-80e7-7a2a4d991bd9
-        - https://www.realitykings.com/model/26039/tony
     - column: N
       id: null
       name: Tony (2011 GF Revenge)

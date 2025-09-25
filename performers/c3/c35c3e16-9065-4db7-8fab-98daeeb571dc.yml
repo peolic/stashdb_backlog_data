@@ -1,21 +1,7 @@
 split:
   name: Ken
-  fragments:
-    - column: M
-      id: 38e99171-8a79-404f-905d-c8da15ca34a9
-      name: Ken / Mr. Ken
-      text: 'White Ghetto "Cuckhold Diairies #20, Scene 1"'
-      links:
-        - https://www.iafd.com/person.rme/id=77a65130-1ddd-428d-a08d-42f191e3ca2b
-        - https://stashdb.org/scenes/0be2dfc8-dee4-4528-b921-c5818293f47b
-    - column: O
-      id: 627e9933-9fb0-4f36-9fe7-84690ff9b708
-      name: 'Ken #26546'
-      text: Black GFs
-      links:
-        - https://www.iafd.com/person.rme/id=086c6acd-5a31-4e66-a34d-f60c0296c0ad
-        - https://stashdb.org/scenes/b40b2e76-399a-4fd7-af35-d9d3d1d2d9ce
-        - https://www.realitykings.com/model/26546/ken
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-20)
     - Best to move scenes and delete performer, rather than merging or renaming.

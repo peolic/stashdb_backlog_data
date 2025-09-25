@@ -7,14 +7,7 @@ split:
       text: GF Revenge "Beach Time"
       links:
         - https://stashdb.org/scenes/8339a39a-8af6-4238-8cee-8b9f49898e7c
-    - column: AF
-      id: dfec1af8-7af0-42a8-90c6-867af618f9a2
-      name: Melissa (2010-05, GF Revenge)
-      text: GF Revenge "City Walk"
-      links:
-        - https://www.iafd.com/person.rme/id=f657db37-32ef-4a88-926d-6fca011cb6fa
-        - https://stashdb.org/scenes/6f434ad8-a2e2-4dac-b98a-cff7cfa8e4f8
-        - https://www.realitykings.com/model/26524/melissa
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

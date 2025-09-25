@@ -1,13 +1,6 @@
 split:
   name: Xavier
   fragments:
-    - column: J
-      id: 1212b5b6-7982-45e7-b34a-3a44c029233c
-      name: Xavier (2007, Cum Fiesta)
-      text: Cum Fiesta
-      links:
-        - https://www.iafd.com/person.rme/id=0929e736-df66-44bd-891b-710da8c68147
-        - https://stashdb.org/scenes/d69a8696-f891-47dd-a65d-e45596e7fcc9
     - column: K
       id: null
       name: Xavier (Papi, 2006)

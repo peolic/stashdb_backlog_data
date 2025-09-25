@@ -1,17 +1,7 @@
 split:
   name: Mallory
-  fragments:
-    - column: M
-      id: 1c682525-ab99-4b1f-8449-354892454fc2
-      name: Mallory (2012, Dare Dorm)
-      text: Dare Dorm "Flamingo"
-      notes:
-        - Mallory is the brunette in the photo from Reality Kings.
-      links:
-        - https://www.iafd.com/person.rme/id=0a1cef43-f4a8-4ef3-8f5c-b36ecda1ba3c
-        - https://stashdb.org/scenes/cfdd69e6-4bb5-49f9-9940-8c364f21fdf3
-        - https://www.realitykings.com/model/20214/mallory
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-08-28)
     - Best to move scenes and delete performer, rather than merging or renaming.

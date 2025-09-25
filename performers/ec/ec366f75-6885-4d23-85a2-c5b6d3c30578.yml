@@ -22,13 +22,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=2ea990c5-3f3e-49e0-a288-ef0cae54b4b8
         - https://stashdb.org/scenes/d27eea40-a5ec-4b81-b4a9-b039cd8c7a04
-    - column: R
-      id: 24a60099-0105-4c42-b482-3d6614aabf21
-      name: Michael (2008, See My Wife)
-      text: See My Wife
-      links:
-        - https://www.iafd.com/person.rme/id=a1a754bf-527e-4f0c-845e-cdab942a0bd2
-        - https://stashdb.org/scenes/df13f582-0802-471e-aae4-18ade0afa3ad
     - column: S
       id: null
       name: Michael (2019, True Amateurs)

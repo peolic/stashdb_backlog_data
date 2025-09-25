@@ -1,13 +1,6 @@
 split:
   name: Vitya
   fragments:
-    - column: I
-      id: 3144edc6-ddd1-4950-ab76-d8d60654cf8a
-      name: Balkon / Anton
-      text: Young Libertines (10 scenes)
-      links:
-        - https://www.iafd.com/person.rme/id=0ea11e54-9ad3-417f-9082-dc1c91769850
-        - https://stashdb.org/images/f0231b8e-29cd-448c-9a77-c83b8153c291
     - column: J
       id: null
       name: Vitya (2011, Sell Your GF)
@@ -16,5 +9,6 @@ split:
         - https://stashdb.org/scenes/f3966b47-b820-47e8-9526-7cde4a1d3de4
         - https://stashdb.org/scenes/9f2faf5f-6832-48b7-a88a-563e66a9db7e
         - https://stashdb.org/scenes/6bd73eb9-385a-4969-a312-8ffc4199d388
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)

@@ -1,13 +1,6 @@
 split:
   name: Jamie
   fragments:
-    - column: N
-      id: f29ef4b2-0b8d-4137-a3e7-1840d9e8fa1a
-      name: Jamie (2004, Men In Pain)
-      text: Men In Pain
-      links:
-        - https://www.iafd.com/person.rme/id=5b360d9f-c4c5-42c4-b1bd-f6084ff17f79
-        - https://stashdb.org/scenes/b9124a0e-9f2a-4c15-a2bd-0262e319b0d6
     - column: AD
       id: null
       name: Jamie (Boys First Time, 2004)
