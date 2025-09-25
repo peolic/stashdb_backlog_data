@@ -14,21 +14,15 @@ performers:
       name: Maverick
       appearance: null
   append:
-    - id: null
+    - id: a8353753-da78-41b8-b1a8-9df7e1330b14
       name: Brian
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/d1c644cd-639e-4955-bab7-f271aa9131b5
-    - id: null
+    - id: 98e99301-189e-4de9-964d-95fc1a87d4ad
       name: Charles
       appearance: null
       disambiguation: 2011, Dick Dorm
-      status: c
-      status_url: https://stashdb.org/edits/2e1edfa3-2ec7-498a-a491-cc76b277e1d9
-    - id: null
+    - id: 6ad5a340-3765-4403-a50f-5ea0a95eba62
       name: Maverick
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/da249cff-68d1-4bfe-b206-40cba5d753b5

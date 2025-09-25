@@ -19,12 +19,10 @@ performers:
       name: Douglas
       appearance: null
   append:
-    - id: null
+    - id: d91a10ca-e299-4e6a-92c8-bdbf7a387f33
       name: Douglas
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: c
-      status_url: https://stashdb.org/edits/c94dbf8e-3a69-4e1b-9e67-0b7a326e015f
     - id: 86382e89-35e7-409d-94e8-e07a4ba32dc3
       name: Maria
       appearance: null
