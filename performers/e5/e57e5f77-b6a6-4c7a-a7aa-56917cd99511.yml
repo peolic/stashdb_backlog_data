@@ -10,13 +10,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=4f77d602-4680-431d-b001-96cedfda3310
         - https://stashdb.org/scenes/e71b1d9b-89b9-45b1-b18a-62f7da6a0444
-    - column: T
-      id: 61c50b3b-6cd7-4cd2-b32e-c16167f3718d
-      name: Ryan (2012, Dare Dorm)
-      text: Dare Dorm "Return Of The Foam"
-      links:
-        - https://www.iafd.com/person.rme/id=4f6ac4a5-3ac5-4cb7-97b5-b5cd10c8102e
-        - https://stashdb.org/scenes/3a51b8b7-61a5-48a1-a942-f787585eba7a
     - column: W
       id: null
       name: '[todo] Ryan (2012, Gay Revenge)'

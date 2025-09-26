@@ -8,17 +8,8 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=b513f165-5fbd-4a6e-a51e-f18d96c151b1
         - https://stashdb.org/scenes/b360df25-193f-4464-96ef-5bce10db1a71
-    - column: L
-      id: null
-      name: Miguel (Dare Dorm, 2010)
-      text: Dare Dorm "Art Fun"
-      links:
-        - https://www.iafd.com/person.rme/id=6116cb66-656f-40fe-9ad7-92d90bb73286
-        - https://stashdb.org/scenes/33eb0469-f0a7-4284-9fe4-cdf21fb47e58
-        - https://www.realitykings.com/model/26106/miguel
-        - https://www.imdb.com/title/tt6258032/
     - column: M
-      id: acfcba37-d36f-4389-bd2f-1f58e51fe3ff
+      id: null
       name: Miguel (Dick Dorm, 2010)
       text: Dick Dorm "All In"
       links:

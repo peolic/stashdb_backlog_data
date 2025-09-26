@@ -13,14 +13,6 @@ split:
       text: Boys First Time "For Fucks Sake"
       links:
         - https://stashdb.org/scenes/15c63636-9804-48e1-8258-5698a32f4546
-    - column: L
-      id: null
-      name: JR (Dare Dorm, 2012)
-      text: Dare Dorm "Double Dipper"
-      links:
-        - https://www.iafd.com/person.rme/id=5fe56385-0b0e-4b1c-86c4-e060c9dd030a
-        - https://stashdb.org/scenes/3ed809e9-a985-42df-8f6a-6a9675c21192
-        - https://www.iafd.com/title.rme/id=09e1159b-f4ce-4e02-b0d6-6352234d4e24
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

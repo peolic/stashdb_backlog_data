@@ -16,15 +16,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=cf370aab-6947-43bb-8f1c-5ad0944b2d0d
         - https://stashdb.org/scenes/f67b6163-3f98-40cd-a85d-0c0aaf35a355
-    - column: T
-      id: 4aa4895a-c167-446c-b6d3-5eb56f17763c
-      name: Lucia (Dare Dorm, 2009)
-      text: Dare Dorm "Are Good Times"
-      links:
-        - https://www.iafd.com/person.rme/id=e40ee8cd-a183-4ca8-9fc6-069c32989db8
-        - https://stashdb.org/scenes/a3055594-7b6b-4cb1-87bd-4b89c6d62046
-        - https://www.iafd.com/title.rme/title=are+good+times/year=2009/are-good-times.htm
-        - https://www.realitykings.com/model/25695/lucia
   notes:
     - Mix of multiple performers (complete list as of 2024-02-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

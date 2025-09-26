@@ -16,13 +16,6 @@ split:
       links:
         - https://www.iafd.com/title.rme/id=5716ffb1-ad45-4d6b-ad0d-b30a7e1b743c
         - https://stashdb.org/scenes/fae51682-2dba-47e9-a333-fe126d0021f6
-    - column: P
-      id: 40eddd4b-8b23-469a-84f9-cb876f93f802
-      name: Harley (2010, Dare Dorm)
-      text: Dare Dorm "So Fresh"
-      links:
-        - https://www.iafd.com/person.rme/id=77dd4d4e-d043-41e0-ae5d-d1490bd77a3b
-        - https://stashdb.org/scenes/c0cbad9c-fb33-4005-bb4a-1a6c1a033ae3
   notes:
     - Mix of multiple performers (complete list as of 2024-02-17)
     - Best to move scenes and delete performer, rather than merging or renaming.
