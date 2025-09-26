@@ -9,22 +9,18 @@ performers:
       name: Judith And Szuza
       appearance: null
   append:
-    - id: null
+    - id: a28b9ae3-7e30-49e9-b2f5-850d32bc9227
       name: Judith
       appearance: null
       disambiguation: Woodman Casting X, 1999-01
-      status: c
-      status_url: https://stashdb.org/edits/5839b618-5c18-42f7-9d78-138620cbaf60
       notes:
         - https://www.iafd.com/person.rme/id=656ebe3c-bb7f-47dc-8c15-bfc00b478c87
         - https://www.egafd.com/actresses/details.php/id/J00459
         - https://www.indexxx.com/m/judith-17
-    - id: null
+    - id: 4d09e92a-a4d7-4d7c-a89c-fd762844303d
       name: Szuza
       appearance: null
       disambiguation: Woodman Casting X, 1999
-      status: c
-      status_url: https://stashdb.org/edits/3f2b045e-8c02-4329-9af5-3ef111b5e23d
       notes:
         - https://www.iafd.com/person.rme/id=48434f7a-0ab6-44da-8120-2e921e0283d6
         - https://www.egafd.com/actresses/details.php/id/S00879

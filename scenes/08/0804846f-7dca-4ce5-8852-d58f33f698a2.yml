@@ -10,12 +10,10 @@ performers:
       name: Megan
       appearance: null
   append:
-    - id: null
+    - id: 58e51faf-b8fd-4b70-9c8d-921e00e74f08
       name: Megan
       appearance: null
       disambiguation: 2005, First Time Auditions
-      status: c
-      status_url: https://stashdb.org/edits/d2cdde76-1a28-4b0e-875f-7496dd0f4922
       notes:
         - https://www.iafd.com/person.rme/id=8293ccab-c2a6-4637-8c53-6ea1947ea94b
         - https://www.indexxx.com/m/megan-6
