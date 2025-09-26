@@ -12,11 +12,9 @@ performers:
       name: Maverick
       appearance: null
   append:
-    - id: null
+    - id: 8bef16b4-db12-4afa-837d-bec39eeba2b8
       name: Maverick
       appearance: null
       disambiguation: DDF Network, 2012
-      status: c
-      status_url: https://stashdb.org/edits/4202dc41-24a2-4487-a7ab-84f632762675
       notes:
         - https://www.iafd.com/person.rme/id=0ff1f3eb-831a-4ac7-ab56-fae1f75bb3a7

@@ -9,11 +9,9 @@ performers:
       name: Max
       appearance: null
   append:
-    - id: null
+    - id: 2dfbc276-ca7e-4424-bfc1-dd35b3af508b
       name: Max
       appearance: null
       disambiguation: 2007, Mike's Apartment
-      status: c
-      status_url: https://stashdb.org/edits/3abf5cdd-4437-42db-814c-4177ec1932c4
       notes:
         - https://www.iafd.com/person.rme/id=e88e1207-db64-4e8e-bad4-0452b38a3747

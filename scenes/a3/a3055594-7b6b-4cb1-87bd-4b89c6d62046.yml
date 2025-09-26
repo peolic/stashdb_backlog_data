@@ -9,20 +9,16 @@ performers:
       name: Lucia
       appearance: null
   append:
-    - id: null
+    - id: 4aa4895a-c167-446c-b6d3-5eb56f17763c
       name: Lucia
       appearance: null
       disambiguation: Dare Dorm, 2009
-      status: c
-      status_url: https://stashdb.org/edits/34cb426e-1281-4872-b9a2-b6374d45bdef
       notes:
         - https://www.iafd.com/person.rme/id=e40ee8cd-a183-4ca8-9fc6-069c32989db8
         - https://www.realitykings.com/model/25695/lucia
-    - id: null
+    - id: af57b3da-2aef-46ec-9333-8e1852f3dce3
       name: Joey Jacobs
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/3df7f44f-eca1-4b80-887a-e7b3161a77a9
       notes:
         - https://www.iafd.com/person.rme/id=a92c53b6-d677-46ac-befd-c8c83c6a8852
         - https://www.badpuppy.com/model/mike-honcho

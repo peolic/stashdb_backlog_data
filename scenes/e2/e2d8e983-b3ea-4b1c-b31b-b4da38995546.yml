@@ -10,12 +10,10 @@ performers:
       name: Lexie
       appearance: null
   append:
-    - id: null
+    - id: 1093913a-61e8-4217-bd78-1b75c9040dbc
       name: Lexie
       appearance: null
       disambiguation: 2008, We Live Together
-      status: c
-      status_url: https://stashdb.org/edits/91809c8a-70aa-41b0-945f-cfe3a672d28e
       notes:
         - https://www.iafd.com/person.rme/id=3bf7cede-5973-428a-ba58-400cf9e7d72e
         - https://www.indexxx.com/m/lexie-1
