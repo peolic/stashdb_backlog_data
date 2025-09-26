@@ -1,14 +1,6 @@
 split:
   name: Izzy
-  fragments:
-    - column: J
-      id: null
-      name: Izzy (2012, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=0fa9a374-54da-4798-8f77-bbd55fbe5b6c
-        - https://www.indexxx.com/m/izzy-3
-        - https://stashdb.org/scenes/c6d2105e-7ccd-4842-975e-22cfa371c97f
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)

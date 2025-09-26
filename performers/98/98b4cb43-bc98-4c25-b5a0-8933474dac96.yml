@@ -1,23 +1,12 @@
 split:
   name: Javier
   fragments:
-    - column: I
-      id: null
-      name: Javier Copolla
-      text: Dare Dorm "Flamingo"
-      links:
-        - https://www.iafd.com/person.rme/id=5265cb9a-7e84-4211-94e1-bd91c9824ca1
-        - https://stashdb.org/scenes/cfdd69e6-4bb5-49f9-9940-8c364f21fdf3
-        - https://ibb.co/9mfNxQMt
-        - https://www.imdb.com/name/nm10673259/
-        - https://www.realitykings.com/model/24862/javier
-        - https://www.imdb.com/title/tt6346216/
-        - https://www.pornbox.com/application/model/92468
     - column: J
       id: null
       name: Javier (Papi, 2006)
       text: Papi "Pool Party"
       links:
         - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
+  status: single fragment remains
   notes:
     - Mix of multiple performer (complete list as of 2025-08-01)
