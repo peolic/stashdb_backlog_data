@@ -15,20 +15,16 @@ performers:
       name: Ryan
       appearance: null
   append:
-    - id: null
+    - id: f39ebe8e-55f9-4bda-8706-5e464ad686aa
       name: Kyle
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: c
-      status_url: https://stashdb.org/edits/7ab958a5-29d6-42d2-8d26-fe0b2d4c4615
       notes:
         - https://www.iafd.com/person.rme/id=eee29997-0d14-47aa-903b-5dc86cc36caf
-    - id: null
+    - id: 1ae1fc7b-4564-45c6-8235-e45ba06eb652
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-06-29
-      status: c
-      status_url: https://stashdb.org/edits/ff5cede7-73c9-4e66-b43a-9a3b7c60b9d9
     - id: 61c50b3b-6cd7-4cd2-b32e-c16167f3718d
       name: Ryan
       appearance: null
