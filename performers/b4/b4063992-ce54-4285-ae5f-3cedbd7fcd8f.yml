@@ -1,13 +1,6 @@
 split:
   name: James
   fragments:
-    - column: I
-      id: null
-      name: James (2004, My First Sex Teacher)
-      text: My First Sex Teacher
-      links:
-        - https://www.iafd.com/person.rme/id=2ef1b208-23a3-4a4e-b01a-6c2338b28ae6
-        - https://stashdb.org/scenes/4ca8ca75-480e-487e-a163-b55d2efa82e0
     - column: S
       id: null
       name: James (2007, V9)
@@ -47,14 +40,6 @@ split:
       text: Dick Dorm "Its Not Gay"
       links:
         - https://stashdb.org/scenes/5e8dedf2-4949-4e4d-85cd-e0a19669e880
-    - column: X
-      id: null
-      name: James (Horny Birds, 2011)
-      text: Horny Birds "Sex Toy Party"
-      links:
-        - https://www.iafd.com/person.rme/id=3524da32-2a36-4c20-b73a-29058eff743b
-        - https://stashdb.org/scenes/85483968-8b45-43f2-bf97-a9dc6f530506
-        - https://www.realitykings.com/model/25596/james
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

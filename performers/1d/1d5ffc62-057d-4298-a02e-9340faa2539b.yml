@@ -1,13 +1,6 @@
 split:
   name: Ian
   fragments:
-    - column: K
-      id: null
-      name: Ian (2011, Dare Dorm)
-      text: Dare Dorm "Rub It"
-      links:
-        - https://www.iafd.com/person.rme/id=f40f298d-fc8d-44b9-b875-bf9bd1c56576
-        - https://stashdb.org/scenes/13cfc98e-6dd5-49c6-abb1-ac751e5bf05a
     - column: M
       id: null
       name: Ian (Boys First Time, 2007)
@@ -20,6 +13,18 @@ split:
       text: Boys First Time "A Fuck In The Park"
       links:
         - https://stashdb.org/scenes/19f08eab-6fd8-4a13-9240-c7e5b24d623c
+    - column: O
+      id: null
+      name: '[todo]'
+      text: Papi "Sword Fight"
+      links:
+        - https://stashdb.org/scenes/39cfc1e3-89ce-43f7-b06b-27c4d363719c
+    - column: P
+      id: null
+      name: '[todo]'
+      text: Papi "Double Dick"
+      links:
+        - https://stashdb.org/scenes/3e409ce1-6796-4818-bad8-f3bc98749e0c
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
