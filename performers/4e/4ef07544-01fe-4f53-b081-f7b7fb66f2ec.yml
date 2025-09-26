@@ -1,11 +1,6 @@
 split:
   name: Jody
-  fragments:
-    - column: N
-      id: null
-      name: Jody (Nasty Angels)
-      links:
-        - https://stashdb.org/scenes/4e4ea3b7-72ea-493b-806e-3aaf3a273e19
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-08-20)
