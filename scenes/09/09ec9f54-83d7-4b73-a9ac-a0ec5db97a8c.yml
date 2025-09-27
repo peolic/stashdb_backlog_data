@@ -7,11 +7,9 @@ performers:
       name: Mo
       appearance: null
   append:
-    - id: null
+    - id: 7e8387c6-556b-4871-b301-c4771f68ab0e
       name: Mo
       appearance: null
       disambiguation: Mile High Media, 2015
-      status: c
-      status_url: https://stashdb.org/edits/00a2a76a-5f37-46fc-a4f3-5851c87f57b5
       notes:
         - https://www.imdb.com/name/nm6525724/
