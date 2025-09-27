@@ -2,6 +2,7 @@ c_studio:
   - 8th Street Latinas
   - null
 comments:
+  - Nancy was credited as Giselle, confirmed by Indexxx
   - https://www.iafd.com/title.rme/id=a9776aba-562c-4473-a471-12bfccd09bec
   - https://www.indexxx.com/set/33110/8th-street-latinas-gisselle-natalie/
 performers:
@@ -12,15 +13,18 @@ performers:
   append:
     - id: null
       name: Nancy
-      appearance: null
+      appearance: Gisselle
       disambiguation: 2005, 8th Street Latinas
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c2e5653a-6aa4-46e7-9f03-6d063f5e40ef
+      status: c
+      status_url: https://stashdb.org/edits/257c564d-b646-4697-b7ab-805d4beb94e3
       notes:
+        - https://www.iafd.com/person.rme/id=c2e5653a-6aa4-46e7-9f03-6d063f5e40ef
         - https://www.indexxx.com/m/nancy-3
     - id: null
       name: Natalie
       appearance: null
       disambiguation: 8th Street Latinas, 2005
-      status: new
-      status_url: https://www.indexxx.com/m/natalie-7
+      status: c
+      status_url: https://stashdb.org/edits/252e09d8-08be-4fe2-ba77-6d13d42cdd78
+      notes:
+        - https://www.indexxx.com/m/natalie-7

@@ -24,6 +24,7 @@ performers:
       status: new
       notes:
         - https://www.realitykings.com/model/25317/nicholas
+        - Note that IAFD for this performer is a combined performer for all Nicholas in 2012.
     - id: null
       name: Elizabeth
       appearance: null
@@ -32,11 +33,13 @@ performers:
       notes:
         - https://www.realitykings.com/model/25313/elizabeth
         - https://www.imdb.com/name/nm10936900/
+        - IAFD has the wrong performer for this one.
     - id: null
       name: Ricky
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=721eacb0-a7d1-413a-8093-9012ac3ad0bb
+      status: c
+      status_url: https://stashdb.org/edits/d17e171f-bed6-45be-a21f-b26781ee300d
       notes:
+        - https://www.iafd.com/person.rme/id=721eacb0-a7d1-413a-8093-9012ac3ad0bb
         - https://www.realitykings.com/model/25319/ricky

@@ -13,8 +13,9 @@ performers:
       name: Nathalie
       appearance: null
       disambiguation: French, 1995, Private
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=d0d76b4e-f05d-4123-a0f0-5cbd8e23d6b8
+      status: c
+      status_url: https://stashdb.org/edits/ef76a788-ed84-4329-ba17-14155e932496
       notes:
+        - https://www.iafd.com/person.rme/id=d0d76b4e-f05d-4123-a0f0-5cbd8e23d6b8
         - https://www.indexxx.com/m/nathalie-5
         - https://www.egafd.com/actresses/details.php/id/N00574

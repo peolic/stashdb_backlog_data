@@ -11,5 +11,7 @@ performers:
       name: Nancy
       appearance: null
       disambiguation: Evil Angel, 2002
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ffe2dcce-0311-4ae0-b7a5-54a587bdf3b2
+      status: c
+      status_url: https://stashdb.org/edits/b282e914-07e3-470d-a77f-d928608e802b
+      notes:
+        - https://www.iafd.com/person.rme/id=ffe2dcce-0311-4ae0-b7a5-54a587bdf3b2
