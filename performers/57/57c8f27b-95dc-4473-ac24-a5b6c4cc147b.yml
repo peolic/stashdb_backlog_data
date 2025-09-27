@@ -1,31 +1,6 @@
 split:
   name: Matt
-  fragments:
-    - column: P
-      id: e1129204-a049-4787-a64e-5c2aa92ec863
-      name: Matt (2007, Mike's Apartment)
-      text: Mike's Apartment
-      links:
-        - https://www.iafd.com/person.rme/id=1591c1ce-39d8-4b63-8536-ad8ca9978992
-        - https://stashdb.org/scenes/094c4a50-3cf9-4ddb-80b2-133206a5b494
-    - column: Q
-      id: null
-      name: Matt (ALS Scan)
-      text: maybe useless?
-      links:
-        - https://www.alsscan.com/model/matt
-    - column: S
-      id: 41e8ec0d-ca33-48dd-8a06-52c18ef986ce
-      name: John (2006, V9)
-      text: Home Porno Tapes "Always say YES to hot sex"
-      notes:
-        - 'same as Porno Home Movies #4, Scene #3'
-      links:
-        - https://www.iafd.com/person.rme/id=1a5b3bcd-a5cf-4858-b8b4-0c7bf4474542
-        - https://stashdb.org/scenes/89c204e9-74bf-4b08-9a13-dfd0d3bb1b42
-        - https://cdn.stashdb.org/images/02/0b/020bafe6-264d-4347-a2b2-b7268780f2d3
-        - https://www.adultdvdempire.com/3816967/porno-home-movies-vol-4-porn-videos.html#scene_1072219
-        - https://www.iafd.com/title.rme/id=7b0199db-3fa2-4ae3-b712-a6897c5ffc07
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

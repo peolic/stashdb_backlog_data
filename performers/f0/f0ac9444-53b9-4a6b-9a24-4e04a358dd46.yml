@@ -1,19 +1,13 @@
 split:
   name: Maggie
   fragments:
-    - column: K
-      id: 09a02466-ebe9-40fd-bf64-6d22a7ca7942
-      name: Maggie (Teen Core Club)
-      text: Try Teens
-      links:
-        - https://www.iafd.com/person.rme/id=b5b8313c-215a-41d7-ab37-98e8e95a40f7
-        - https://stashdb.org/scenes/669d2543-7dea-4f44-a915-555382dccfaf
     - column: R
       id: null
       name: Maggie (GF Revenge, 2010)
       text: GF Revenge "Home Porn"
       links:
         - https://stashdb.org/scenes/03721002-4f01-4322-bc42-62b1059134e6
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

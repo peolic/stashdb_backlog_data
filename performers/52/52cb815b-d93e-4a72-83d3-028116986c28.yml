@@ -1,20 +1,13 @@
 split:
   name: Megan
   fragments:
-    - column: S
-      id: 58e51faf-b8fd-4b70-9c8d-921e00e74f08
-      name: Megan (2005, First Time Auditions)
-      text: First Time Auditions
-      links:
-        - https://www.iafd.com/person.rme/id=8293ccab-c2a6-4637-8c53-6ea1947ea94b
-        - https://www.indexxx.com/m/megan-6
-        - https://stashdb.org/scenes/0804846f-7dca-4ce5-8852-d58f33f698a2
     - column: T
       id: null
       name: Megan (1996, Woodman Casting X)
       links:
         - https://www.indexxx.com/m/megan-27
         - https://stashdb.org/scenes/5b3da83b-c422-4db8-aa5d-d9b2a3dcb49f
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2023-12-16)
     - Best to move scenes and delete performer, rather than merging or renaming.

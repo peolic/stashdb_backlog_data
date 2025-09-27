@@ -1,28 +1,7 @@
 split:
   name: Mary
-  fragments:
-    - column: N
-      id: cf27aa48-dfb4-46e0-a549-076d56393f45
-      name: Mary (Shady PI, 2008)
-      text: Shady PI "Fucking Gold Diggin Cunt"
-      links:
-        - https://www.iafd.com/person.rme/id=06e7f020-83d6-4373-9da9-e51a8acd5968
-        - https://stashdb.org/scenes/dcccdbcf-8b91-4a75-a178-4b5d71a52416
-        - https://www.iafd.com/title.rme/id=131bd4d6-e56a-4253-bba3-45d02eff3374
-        - https://pornpros.com/models/mary
-        - https://www.imdb.com/name/nm12987712/
-        - https://www.imdb.com/title/tt15532890/
-    - column: P
-      id: 97aca4ea-1040-4266-9637-7ac8919307f9
-      name: Mary (Dare Dorm, 2010-11)
-      text: Dare Dorm "Just You"
-      links:
-        - https://www.iafd.com/person.rme/id=9460a727-057e-4237-8f89-2401b4d81f9c
-        - https://stashdb.org/scenes/693f3282-7a39-4321-a3c4-b687525e86b3
-        - https://www.iafd.com/title.rme/id=541f6a53-db77-42a1-bf6d-39a221a75635
-        - https://www.realitykings.com/model/25948/mary
-        - https://www.imdb.com/name/nm10912811/
-        - https://www.imdb.com/title/tt6263504/
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
