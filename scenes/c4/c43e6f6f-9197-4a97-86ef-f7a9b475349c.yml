@@ -14,7 +14,8 @@ performers:
       name: Rachel
       appearance: null
       disambiguation: 2003, We Live Together
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=c05add58-d5fc-49f7-a392-9d25a181c33d
+      status: c
+      status_url: https://stashdb.org/edits/5f09bd28-59d4-49c0-ad8b-09eb7e233e75
       notes:
+        - https://www.iafd.com/person.rme/id=c05add58-d5fc-49f7-a392-9d25a181c33d
         - https://www.indexxx.com/m/rachel-6

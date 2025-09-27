@@ -13,5 +13,7 @@ performers:
       name: Richard
       appearance: null
       disambiguation: 2005, Bang Bus
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=03c04b20-a422-462c-a318-9bb4028f5fe1
+      status: c
+      status_url: https://stashdb.org/edits/1102bb57-7cfa-4d6b-8a3a-555159cffcaf
+      notes:
+        - https://www.iafd.com/person.rme/id=03c04b20-a422-462c-a318-9bb4028f5fe1

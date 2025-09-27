@@ -13,5 +13,7 @@ performers:
       name: Sam
       appearance: null
       disambiguation: 2013, GF Revenge
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2212fc2c-f4a9-4ae9-a6bf-66d3d80a46c1
+      status: c
+      status_url: https://stashdb.org/edits/e0bf3191-c3c1-4408-a5ae-8549e6a2b5c7
+      notes:
+        - https://www.iafd.com/person.rme/id=2212fc2c-f4a9-4ae9-a6bf-66d3d80a46c1

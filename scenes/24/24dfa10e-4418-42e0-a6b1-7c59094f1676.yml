@@ -13,5 +13,7 @@ performers:
       name: Rico
       appearance: null
       disambiguation: 2006, 8th Street Latinas
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f9e2a222-a1de-4692-9af5-1717a10586c4
+      status: c
+      status_url: https://stashdb.org/edits/f01766ec-970d-4a02-96e4-420fa6077831
+      notes:
+        - https://www.iafd.com/person.rme/id=f9e2a222-a1de-4692-9af5-1717a10586c4

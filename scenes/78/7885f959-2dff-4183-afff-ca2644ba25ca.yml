@@ -13,5 +13,7 @@ performers:
       name: Tommy
       appearance: null
       disambiguation: 2004, In the VIP
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=a1ae10b0-992c-43c6-9ba3-4aede30f3e40
+      status: c
+      status_url: https://stashdb.org/edits/61ca3c3b-8630-4891-903a-0062c0d51476
+      notes:
+        - https://www.iafd.com/person.rme/id=a1ae10b0-992c-43c6-9ba3-4aede30f3e40

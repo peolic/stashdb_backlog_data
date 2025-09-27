@@ -17,9 +17,10 @@ performers:
       name: Ronald
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=efeec5fe-2ee6-4d28-a6bb-b4ff2e79bcc3
+      status: c
+      status_url: https://stashdb.org/edits/9b9fcc79-5c1e-445a-a85b-cac687f0dd8e
       notes:
+        - https://www.iafd.com/person.rme/id=efeec5fe-2ee6-4d28-a6bb-b4ff2e79bcc3
         - https://www.realitykings.com/model/20091/ronald
     - id: null
       name: David

@@ -14,5 +14,7 @@ performers:
       name: Sam
       appearance: null
       disambiguation: 2004, 8th Street Latinas
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4bbce527-c027-4349-8f34-6e0e7c0c72d6
+      status: c
+      status_url: https://stashdb.org/edits/2b58fff3-db07-4a47-a1f5-46efe1547c95
+      notes:
+        - https://www.iafd.com/person.rme/id=4bbce527-c027-4349-8f34-6e0e7c0c72d6

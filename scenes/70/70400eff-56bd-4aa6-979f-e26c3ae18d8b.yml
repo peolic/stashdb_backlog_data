@@ -11,5 +11,7 @@ performers:
       name: Tanya
       appearance: null
       disambiguation: 1998, Rocci Siffredi
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=77441c1c-7a74-4462-9009-50446c812696
+      status: c
+      status_url: https://stashdb.org/edits/d89e4d3b-81b7-41f8-b9e6-303c8eb7ffd0
+      notes:
+        - https://www.iafd.com/person.rme/id=77441c1c-7a74-4462-9009-50446c812696
