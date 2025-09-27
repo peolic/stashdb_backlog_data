@@ -10,12 +10,10 @@ performers:
       name: Nancy
       appearance: null
   append:
-    - id: null
+    - id: 898c3561-55af-4212-b62c-58d0e1b80766
       name: Nancy
       appearance: null
       disambiguation: 2001, Cum Fiesta
-      status: c
-      status_url: https://stashdb.org/edits/d8fd4376-6ea8-4d32-8263-23acc16f1524
       notes:
         - https://www.iafd.com/person.rme/id=e935dd79-8077-498f-a481-cd3146bda829
         - https://www.indexxx.com/m/nancy-2

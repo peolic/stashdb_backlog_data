@@ -11,20 +11,16 @@ performers:
       name: Nancy
       appearance: null
   append:
-    - id: null
+    - id: b4e08f7b-343d-4e6d-91cc-5a7c86a9c2a1
       name: Nancy
       appearance: Gisselle
       disambiguation: 2005, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/257c564d-b646-4697-b7ab-805d4beb94e3
       notes:
         - https://www.iafd.com/person.rme/id=c2e5653a-6aa4-46e7-9f03-6d063f5e40ef
         - https://www.indexxx.com/m/nancy-3
-    - id: null
+    - id: b486776e-1f01-4789-a333-dc34634bc073
       name: Natalie
       appearance: null
       disambiguation: 8th Street Latinas, 2005
-      status: c
-      status_url: https://stashdb.org/edits/252e09d8-08be-4fe2-ba77-6d13d42cdd78
       notes:
         - https://www.indexxx.com/m/natalie-7

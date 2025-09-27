@@ -7,11 +7,9 @@ performers:
       name: Miguel
       appearance: null
   append:
-    - id: null
+    - id: e99abc39-4fc7-4a09-9a3e-1c546d4f318b
       name: Miguel
       appearance: null
       disambiguation: 2006, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/3cced0af-ff2f-4777-8bc1-a1f712de53b8
       notes:
         - https://www.iafd.com/person.rme/id=b513f165-5fbd-4a6e-a51e-f18d96c151b1

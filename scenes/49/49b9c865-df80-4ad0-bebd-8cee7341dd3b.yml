@@ -9,12 +9,10 @@ performers:
       name: Nika
       appearance: null
   append:
-    - id: null
+    - id: ff55c504-78ae-43a9-8316-bf51944218a9
       name: Chichi
       appearance: Nika
       disambiguation: 2006, V9
-      status: c
-      status_url: https://stashdb.org/edits/86a17faa-b8e7-46f0-8841-3ef09b663ce8
       notes:
         - https://www.iafd.com/person.rme/id=48adb138-ae15-4651-ac14-81d0fb1b70c8
         - https://stashdb.org/images/72303fe5-6904-468b-8280-75812fe0c0a0

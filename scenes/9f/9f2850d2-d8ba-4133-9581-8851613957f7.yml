@@ -10,12 +10,10 @@ performers:
       name: Monique
       appearance: null
   append:
-    - id: null
+    - id: 102488b3-4243-460b-bc5b-9addddc6bdb5
       name: Monique
       appearance: null
       disambiguation: 2010, DDF Network
-      status: c
-      status_url: https://stashdb.org/edits/46dedad0-b9c9-4f7b-9d84-647f8632fd06
       notes:
         - https://www.iafd.com/person.rme/id=fd565300-988e-4afc-a8e9-b3bba2ce8d5b
         - https://www.indexxx.com/m/monique-19

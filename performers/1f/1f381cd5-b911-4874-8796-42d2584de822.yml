@@ -2,7 +2,7 @@ split:
   name: Nancy
   fragments:
     - column: Q
-      id: null
+      id: b4e08f7b-343d-4e6d-91cc-5a7c86a9c2a1
       name: Nancy (2005, 8th Street Latinas)
       text: 8th Street Latinas "Sister Act Too"
       links:
@@ -10,7 +10,7 @@ split:
         - https://www.indexxx.com/m/nancy-3
         - https://stashdb.org/scenes/7ba72349-dc45-4ab4-820e-a6f6a029e656
     - column: S
-      id: null
+      id: 898c3561-55af-4212-b62c-58d0e1b80766
       name: Nancy (2001, Cum Fiesta)
       text: Cum Fiesta "Suckoff"
       links:
@@ -18,7 +18,7 @@ split:
         - https://www.indexxx.com/m/nancy-2
         - https://stashdb.org/scenes/d3c968ab-33c7-497b-987d-edd22b07180a
     - column: X
-      id: null
+      id: dcc75185-5516-4ef6-8403-ba0b02c93c14
       name: Nancy
       text: '"Reverse Gang Bang #02"'
       links:

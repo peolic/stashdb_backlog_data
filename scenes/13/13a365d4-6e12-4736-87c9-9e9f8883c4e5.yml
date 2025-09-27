@@ -12,21 +12,17 @@ performers:
       name: Amir
       appearance: null
   append:
-    - id: null
+    - id: 40e86a26-8060-4341-a260-832ce321944e
       name: Michael
       appearance: null
       disambiguation: 2011, Horny Birds
-      status: c
-      status_url: https://stashdb.org/edits/07f78f78-0b71-48eb-8198-33548d388126
       notes:
         - https://www.iafd.com/person.rme/id=2d974ec3-53e1-4de7-a433-ae9dfd576a99
         - https://www.realitykings.com/model/25586/michael
-    - id: null
+    - id: d20c01a8-b55b-417c-88f0-9c7158af96f2
       name: Amir
       appearance: null
       disambiguation: Horny Birds, 2011
-      status: c
-      status_url: https://stashdb.org/edits/545b5235-9d6c-4bff-a749-2cb2cb0fa4df
       notes:
         - https://www.iafd.com/person.rme/id=24f8f6df-c80a-40dd-90f1-c530552fcef9
         - https://www.realitykings.com/model/25582/amir

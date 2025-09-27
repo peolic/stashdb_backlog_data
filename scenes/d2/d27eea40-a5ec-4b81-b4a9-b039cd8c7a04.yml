@@ -9,12 +9,10 @@ performers:
       name: Michael
       appearance: null
   append:
-    - id: null
+    - id: 651e5900-8684-4081-aaca-1fe06e1b3804
       name: Michael
       appearance: null
       disambiguation: 2003, Men In Pain
-      status: c
-      status_url: https://stashdb.org/edits/9786f6a9-9d9d-4272-be72-2eaacb0e6089
       notes:
         - https://www.iafd.com/person.rme/id=2ea990c5-3f3e-49e0-a288-ef0cae54b4b8
         - https://www.kink.com/model/2889/Michael

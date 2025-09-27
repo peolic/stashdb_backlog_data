@@ -11,12 +11,10 @@ performers:
       appearance: null
       disambiguation: Sineplex, 2009
   append:
-    - id: null
+    - id: a0b34b36-8d9c-4788-9a52-9ff58f9b385b
       name: Oksy
       appearance: null
       disambiguation: Teen Mega World, 2008
-      status: c
-      status_url: https://stashdb.org/edits/6acd7d26-5acf-4de1-aea0-f38e5a13a9d2
       notes:
         - https://www.iafd.com/person.rme/id=a6a422d1-87b9-40fc-9f2e-02a7b9675aaf
         - https://www.indexxx.com/m/oksy

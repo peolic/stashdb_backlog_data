@@ -9,12 +9,10 @@ performers:
       name: Nathalie
       appearance: null
   append:
-    - id: null
+    - id: 3f1fbc37-319c-4d48-9fbb-12b4dbebacdc
       name: Nathalie
       appearance: null
       disambiguation: French, 1999, Private
-      status: c
-      status_url: https://stashdb.org/edits/3d4738f4-9754-4821-b418-ad76ecde840a
       notes:
         - https://www.iafd.com/person.rme/id=09091e47-28fd-47c2-98a3-2d14aad996ba
         - https://www.indexxx.com/m/nathalie-1

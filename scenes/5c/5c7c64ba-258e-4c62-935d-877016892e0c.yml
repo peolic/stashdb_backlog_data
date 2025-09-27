@@ -10,12 +10,10 @@ performers:
       name: Molly
       appearance: null
   append:
-    - id: null
+    - id: 5c0ef862-6860-4b23-ba36-6b3ac3c7d46d
       name: Molly
       appearance: null
       disambiguation: 2005, Ball Honeys
-      status: c
-      status_url: https://stashdb.org/edits/293a48bd-7385-4b3a-81d9-670900de3ed1
       notes:
         - https://www.iafd.com/person.rme/id=fe268418-11c6-4b3e-8116-4ec507fcff8d
         - https://www.indexxx.com/m/molly-1
