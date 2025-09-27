@@ -18,6 +18,15 @@ performers:
     - id: 1a8529e2-56a9-4c13-8006-1b7329f36388
       name: Roxi
       appearance: null
+    - id: 2ba7b1c2-4178-4aee-ab6b-9131b29c52a5
+      name: Matthew
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: a0432b43-d526-484e-93be-77b4a88e03ba
+      name: Danny
+      appearance: null
   append:
     - id: null
       name: Kristina
@@ -54,3 +63,18 @@ performers:
       status: new
       notes:
         - https://www.imdb.com/name/nm10929455/
+    - id: null
+      name: Matthew
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+    - id: null
+      name: Danny
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new

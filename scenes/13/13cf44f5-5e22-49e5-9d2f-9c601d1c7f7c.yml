@@ -4,7 +4,6 @@ c_studio:
 comments:
   - https://www.iafd.com/title.rme/id=532abe88-c0b8-4116-8839-5ce68f6cb79f
   - https://www.imdb.com/title/tt6395284/
-  - Should Crystalynn be replaced by Paris Rayne based on the comment on Elizabeth being marked incorrectly by IAFD?
 performers:
   remove:
     - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
@@ -21,7 +20,8 @@ performers:
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-08
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/8157d117-d663-443a-9b21-ba4727e2ecdc
       notes:
         - https://www.realitykings.com/model/25317/nicholas
         - Note that IAFD for this performer is a combined performer for all Nicholas in 2012.
@@ -29,7 +29,8 @@ performers:
       name: Elizabeth
       appearance: null
       disambiguation: 2012, Dare Dorm
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/7dfcdfa3-51c6-488c-b4fb-ba37bc1b6614
       notes:
         - https://www.realitykings.com/model/25313/elizabeth
         - https://www.imdb.com/name/nm10936900/

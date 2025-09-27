@@ -1,14 +1,6 @@
 split:
   name: Nancy
   fragments:
-    - column: Q
-      id: b4e08f7b-343d-4e6d-91cc-5a7c86a9c2a1
-      name: Nancy (2005, 8th Street Latinas)
-      text: 8th Street Latinas "Sister Act Too"
-      links:
-        - https://www.iafd.com/person.rme/id=c2e5653a-6aa4-46e7-9f03-6d063f5e40ef
-        - https://www.indexxx.com/m/nancy-3
-        - https://stashdb.org/scenes/7ba72349-dc45-4ab4-820e-a6f6a029e656
     - column: S
       id: 898c3561-55af-4212-b62c-58d0e1b80766
       name: Nancy (2001, Cum Fiesta)

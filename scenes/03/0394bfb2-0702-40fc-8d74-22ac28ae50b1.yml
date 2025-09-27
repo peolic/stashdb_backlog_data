@@ -1,6 +1,8 @@
 c_studio:
   - Dick Dorm
   - null
+comments:
+  - https://www.realitydudes.com/scene/2835811/pump-it
 performers:
   remove:
     - id: e5b532d6-c592-482c-9bd3-86504e9e5972
@@ -21,18 +23,30 @@ performers:
       appearance: null
       disambiguation: Dick Dorm, 2011
       status: new
+      status_url: https://stashdb.org/edits/5ed92409-6b58-4385-a0b4-6ad29f1123d4
+      notes:
+        - https://www.realitydudes.com/model/22369/clint
     - id: null
       name: David
       appearance: null
       disambiguation: Dick Dorm, 2011-03
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/6e34e124-97d7-4bcd-bf47-519ac1e7f6f5
+      notes:
+        - https://www.realitydudes.com/model/22373/david
     - id: null
       name: Jason
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/22009c42-b69d-4c1b-93c9-b44e9733f902
+      notes:
+        - https://www.realitydudes.com/model/22375/jason
     - id: null
       name: Jeremiah
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/e17c183a-bee1-4ed7-ae21-5c0bcc095477
+      notes:
+        - https://www.realitydudes.com/model/22371/jeremiah

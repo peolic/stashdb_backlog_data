@@ -1,0 +1,12 @@
+c_studio:
+  - Private
+  - null
+performers:
+  remove:
+    - id: 8c3fd546-6736-47f0-9d17-2dcad27b258c
+      name: Amir
+      appearance: null
+  append:
+    - id: 371593de-68fa-439a-bb28-1590e2143906
+      name: Antonio Ross
+      appearance: Amir
