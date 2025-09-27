@@ -10,12 +10,10 @@ performers:
       name: Monica
       appearance: null
   append:
-    - id: null
+    - id: 6297956d-b1b7-4011-8fdd-4b748f834c3e
       name: Monica
       appearance: null
       disambiguation: DDF Network, 2002
-      status: c
-      status_url: https://stashdb.org/edits/d370c8bd-0ef8-4827-93bf-494f08277fe0
       notes:
         - https://www.iafd.com/person.rme/id=e541ace9-6b83-46d4-ad47-fe69c0d3604b
         - https://www.indexxx.com/m/monica
