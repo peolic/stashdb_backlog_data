@@ -1,14 +1,7 @@
 split:
   name: Nico
-  fragments:
-    - column: L
-      id: e94bce46-74a3-4e41-8fe8-b2dd244cf3fd
-      name: Nico (2011, Blowpass)
-      text: Throated
-      links:
-        - https://www.iafd.com/person.rme/id=8c7b9308-7a33-4664-90f0-e17e593ccceb
-        - https://stashdb.org/scenes/d7990968-3a7f-4f11-9b9a-b559860f6afa
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

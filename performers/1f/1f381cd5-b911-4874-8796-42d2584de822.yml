@@ -1,22 +1,7 @@
 split:
   name: Nancy
-  fragments:
-    - column: S
-      id: 898c3561-55af-4212-b62c-58d0e1b80766
-      name: Nancy (2001, Cum Fiesta)
-      text: Cum Fiesta "Suckoff"
-      links:
-        - https://www.iafd.com/person.rme/id=e935dd79-8077-498f-a481-cd3146bda829
-        - https://www.indexxx.com/m/nancy-2
-        - https://stashdb.org/scenes/d3c968ab-33c7-497b-987d-edd22b07180a
-    - column: X
-      id: dcc75185-5516-4ef6-8403-ba0b02c93c14
-      name: Nancy
-      text: '"Reverse Gang Bang #02"'
-      links:
-        - https://www.iafd.com/person.rme/id=ffe2dcce-0311-4ae0-b7a5-54a587bdf3b2
-        - https://stashdb.org/scenes/87d27b30-d8bc-490f-a9a8-9b1c2f32f7bf
-        - https://stashdb.org/scenes/59d42504-e008-49bd-9842-db70ec9f89c6
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-25)
     - Best to move scenes and delete performer, rather than merging or renaming.

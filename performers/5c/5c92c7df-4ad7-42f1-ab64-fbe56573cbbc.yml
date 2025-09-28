@@ -1,10 +1,13 @@
 split:
   name: Jeremiah
   fragments:
-    - column: I
-      id: 21458263-b29e-4d8d-8f5c-8a86fd594be8
-      name: Jeremiah (Dick Dorm, 2011)
+    - column: J
+      id: null
+      name: Jeremiah (Dick Dorm, 2013)
+      text: Dick Dorm "I Will If You Will"
       links:
-        - https://www.realitydudes.com/model/22371/jeremiah
+        - https://www.realitydudes.com/model/21263/jeremiah
+        - https://stashdb.org/scenes/e8ed026f-c45e-4117-8b41-8864a0ce065d
+  status: single fragment remains
   notes:
-    - Mix of multiple performers (partial list)
+    - Mix of multiple performers (complete list as of 2025-09-27)

@@ -1,22 +1,7 @@
 split:
   name: Monique
-  fragments:
-    - column: N
-      id: 102488b3-4243-460b-bc5b-9addddc6bdb5
-      name: Monique (2010, DDF)
-      text: House of Taboo
-      links:
-        - https://www.iafd.com/person.rme/id=fd565300-988e-4afc-a8e9-b3bba2ce8d5b
-        - https://www.indexxx.com/m/monique-19
-        - https://stashdb.org/scenes/9f2850d2-d8ba-4133-9581-8851613957f7
-    - column: O
-      id: 05b94790-3330-455c-972d-b2c2e30ee722
-      name: Monique (2003, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=7e891653-c42a-4890-9f26-082ca9aa7408
-        - https://www.indexxx.com/m/monique-7
-        - https://stashdb.org/scenes/d38962c2-3084-4202-b79e-a61bfad272f2
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-12-28)
     - Best to move scenes and delete performer, rather than merging or renaming.

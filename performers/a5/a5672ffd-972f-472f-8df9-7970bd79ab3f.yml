@@ -1,32 +1,6 @@
 split:
   name: Nathalie
-  fragments:
-    - column: I
-      id: 558da8a9-6f68-47ee-8e64-6c96adbf1344
-      name: Nathalie (French, 1993, Private)
-      text: Woodman Casting X (2009-01-09)
-      links:
-        - https://www.iafd.com/person.rme/id=848674ec-c1d5-4075-b477-515a63913a39
-        - https://www.indexxx.com/m/nathalie-6
-        - https://www.egafd.com/actresses/details.php/id/N00553
-        - https://stashdb.org/scenes/0d04f963-670f-4c17-a750-8e8a6505c35c
-    - column: J
-      id: c2543c7f-4ccc-4942-8ae3-0ef55d55de1b
-      name: Nathalie (French, 1995, Private)
-      text: Woodman Casting X (2009-03-01)
-      links:
-        - https://www.iafd.com/person.rme/id=d0d76b4e-f05d-4123-a0f0-5cbd8e23d6b8
-        - https://www.indexxx.com/m/nathalie-5
-        - https://www.egafd.com/actresses/details.php/id/N00574
-        - https://stashdb.org/scenes/b112c3c3-009a-40c7-8865-f8cf00bd5102
-    - column: K
-      id: 3f1fbc37-319c-4d48-9fbb-12b4dbebacdc
-      name: Nathalie (French, 1999, Private)
-      text: Woodman Casting X (2009-05-05)
-      links:
-        - https://www.iafd.com/person.rme/id=09091e47-28fd-47c2-98a3-2d14aad996ba
-        - https://www.indexxx.com/m/nathalie-1
-        - https://www.egafd.com/actresses/details.php/id/N00924
-        - https://stashdb.org/scenes/1c5f5ab6-c418-49f2-ad47-8fb0d1b815e2
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-04-26)

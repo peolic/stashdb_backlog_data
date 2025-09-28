@@ -1,15 +1,7 @@
 split:
   name: Clint
-  fragments:
-    - column: M
-      id: 35b63b41-2144-4641-b121-5405c12fb5a4
-      name: Clint (Dick Dorm, 2011)
-      notes:
-        - Scene 4 from Dick Dorm 3
-        - '- Dick Dorm "Pump It"'
-      links:
-        - https://stashdb.org/scenes/0394bfb2-0702-40fc-8d74-22ac28ae50b1
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

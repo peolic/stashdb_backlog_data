@@ -1,22 +1,7 @@
 split:
   name: Molly
-  fragments:
-    - column: N
-      id: 9cffb7c4-9603-4082-b4e6-e99fa812304a
-      name: Molly (2004, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=1fabc306-d5f4-4e19-a15e-04cde317a9ab
-        - https://www.indexxx.com/m/molly-8
-        - https://stashdb.org/scenes/9ca01c6f-b28b-486a-8b26-0a55dcc63dfb
-    - column: Q
-      id: 5c0ef862-6860-4b23-ba36-6b3ac3c7d46d
-      name: Molly (2005, Ball Honeys)
-      text: Ball Honeys
-      links:
-        - https://www.iafd.com/person.rme/id=fe268418-11c6-4b3e-8116-4ec507fcff8d
-        - https://www.indexxx.com/m/molly-1
-        - https://stashdb.org/scenes/5c7c64ba-258e-4c62-935d-877016892e0c
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-14)
     - Best to move scenes and delete performer, rather than merging or renaming.

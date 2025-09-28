@@ -1,15 +1,7 @@
 split:
   name: Passion
-  fragments:
-    - column: J
-      id: edc6973c-5a54-4132-8e1c-2b3753cdea52
-      name: Passion (2004, Round and Brown)
-      text: Round and Brown
-      links:
-        - https://www.iafd.com/person.rme/id=5705b92c-1784-490e-a5f7-d42a110b4dfa
-        - https://www.indexxx.com/m/passion-2
-        - https://stashdb.org/scenes/33ee89ee-3cae-4c2d-9693-cca215b31bf6
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-13)
     - Best to move scenes and delete performer, rather than merging or renaming.
