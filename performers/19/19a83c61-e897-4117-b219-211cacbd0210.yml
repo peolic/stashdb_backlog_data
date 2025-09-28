@@ -1,12 +1,6 @@
 split:
   name: Pierre
   fragments:
-    - column: I
-      id: 36fc68a1-dc66-4f8f-a1fa-c7902cbeec54
-      name: Pierre (Dare Dorm, 2011)
-      links:
-        - https://www.iafd.com/person.rme/id=03590f35-9835-4e71-8985-b495addd2eaa
-        - https://www.realitykings.com/model/25089/pierre
     - column: J
       id: null
       name: Pierre (Doghouse Digital, 2011)

@@ -1,20 +1,7 @@
 split:
   name: Riley
-  fragments:
-    - column: L
-      id: da88b0c3-0879-46ff-9e9e-961515b94ab3
-      name: Riley (2003, Twistys)
-      links:
-        - https://www.iafd.com/person.rme/id=603a3c98-ed18-4c1c-a965-b2d6f72e1492
-        - https://www.indexxx.com/m/riley-1
-        - https://stashdb.org/scenes/4fc75a1d-fdaa-408e-bc3d-de6341b80ed7
-    - column: Q
-      id: 69415f73-24a5-438e-a241-1b79757c665c
-      name: Riley (Teen Core Club)
-      text: Girls Got Cream
-      links:
-        - https://www.iafd.com/person.rme/id=77f4643c-9812-495d-8616-8ba0442bd182
-        - https://stashdb.org/scenes/d947aaf2-ffc9-4744-accd-8bba76345473
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-08-10)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,14 +1,6 @@
 split:
   name: Natalie
   fragments:
-    - column: AB
-      id: dcf3fb5f-7a64-41e2-929d-66f0d7cfb6e7
-      name: Natalie (2003, Street Blowjobs)
-      text: Street Blowjobs
-      links:
-        - https://www.iafd.com/person.rme/id=818884e2-eb7a-428e-a922-b7caa9baff0f
-        - https://www.indexxx.com/m/natalie-9
-        - https://stashdb.org/scenes/75f5dcf7-0944-41c0-9383-f866bb8ba2a3
     - column: AD
       id: null
       name: Natalie (Dare Dorm 2010-10-22)
@@ -16,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/fae51682-2dba-47e9-a333-fe126d0021f6
         - https://www.iafd.com/title.rme/title=fooling+around/year=2010/fooling-around.htm
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-07-28)
     - Best to move scenes and delete performer, rather than merging or renaming.

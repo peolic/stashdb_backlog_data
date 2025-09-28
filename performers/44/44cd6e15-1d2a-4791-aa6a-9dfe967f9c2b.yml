@@ -1,14 +1,6 @@
 split:
   name: Michelle
   fragments:
-    - column: V
-      id: 741cf117-9beb-43ec-b851-439d788c67a3
-      name: Michelle (2002, Boob Squad)
-      text: Boob Squad
-      links:
-        - https://www.iafd.com/person.rme/id=e7743712-a7d6-4add-903b-36482fcc7d02
-        - https://www.indexxx.com/m/michelle-38
-        - https://stashdb.org/scenes/d56ef5b6-9c75-442b-bc69-5949e0e12b47
     - column: AG
       id: null
       name: Michelle (Dare Dorm, 2011)
@@ -16,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/22b2059b-6931-45a4-b81f-209e9cab4bb8
         - https://www.imdb.com/name/nm10929454/
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

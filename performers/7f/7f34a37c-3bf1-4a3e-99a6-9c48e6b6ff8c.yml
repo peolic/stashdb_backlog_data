@@ -1,14 +1,6 @@
 split:
   name: Teresa
   fragments:
-    - column: L
-      id: 33e15beb-6071-4333-a21e-f429907e1a48
-      name: Teresa (2002, 8th Street Latinas)
-      text: 8th Street Latinas
-      links:
-        - https://www.iafd.com/person.rme/id=372fb3d0-5ba8-407b-b06a-c5886cb0ceb1
-        - https://www.indexxx.com/m/teresa
-        - https://stashdb.org/scenes/b69a7be7-74be-44b1-abe1-793aba2559a0
     - column: M
       id: null
       name: Teresa
@@ -20,6 +12,7 @@ split:
         - https://stashdb.org/scenes/190fe408-7b08-4e1f-a3d0-5cffeaf23293
         - https://vod.aebn.com/straight/movies/74765/snatch-d-26#scene-969999
         - https://www.iafd.com/title.rme/id=68c74673-a87d-4713-ac60-adbc5d077bd0
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-17)
     - Best to move scenes and delete performer, rather than merging or renaming.

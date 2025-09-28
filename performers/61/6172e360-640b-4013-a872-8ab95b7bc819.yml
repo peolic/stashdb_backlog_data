@@ -1,30 +1,7 @@
 split:
   name: Sandra
-  fragments:
-    - column: Z
-      id: cc267b9c-5e4d-4161-8332-b53e8e797f5b
-      name: Sandra (2005, Bang Bus)
-      text: Bang Bus (2005)
-      links:
-        - https://www.iafd.com/person.rme/id=b27a3871-e835-4d65-9f44-94896302b47d
-        - https://www.indexxx.com/m/sandra-3
-        - https://stashdb.org/scenes/c367e761-63cb-4d4d-a44f-214098fd92fd
-    - column: AB
-      id: 14a3328b-810a-417a-a608-f282c64cecb4
-      name: Sandra (2005, Dangerous Dongs)
-      text: Dangerous Dongs
-      links:
-        - https://www.iafd.com/person.rme/id=1c50061e-acb9-44fe-a8b4-8027f38cc097
-        - https://www.indexxx.com/m/sandra-51
-        - https://stashdb.org/scenes/64663768-1182-4471-91e4-0523f218e2c8
-    - column: AE
-      id: d7cb0e4b-ba71-4c3d-b405-9c99232677bb
-      name: Sandra (2006, 8th Street Latinas)
-      text: 8th Street Latinas
-      links:
-        - https://www.iafd.com/person.rme/id=38613d46-d0cd-4a24-8772-07ae2b903026
-        - https://www.indexxx.com/m/sandra-8
-        - https://stashdb.org/scenes/2737b43b-6cd6-4b89-a163-04a9a23c6275
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.

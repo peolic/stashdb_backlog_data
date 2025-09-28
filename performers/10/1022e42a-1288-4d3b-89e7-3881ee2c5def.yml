@@ -1,32 +1,13 @@
 split:
   name: Pamela
   fragments:
-    - column: P
-      id: a03f0f5d-2303-4023-8a5d-7d4dfb49ab8f
-      name: Pamela (2006, Round and Brown)
-      links:
-        - https://www.iafd.com/person.rme/id=1aa64cdd-9476-4c21-8b81-40b7872e5283
-        - https://www.indexxx.com/m/pamela-3
-        - https://stashdb.org/scenes/37231b68-1c97-474f-954a-143db99fa944
     - column: S
       id: d82b005f-ed73-4d9d-aa5c-930fab3c70f7
       name: Pamela (2003, Tranny Surprise)
       links:
         - https://www.iafd.com/person.rme/id=c7b736a4-31d4-4dcc-934b-40128a517168
         - https://stashdb.org/scenes/6b970b0b-49cb-4dea-8c44-3ef863f09e93
-    - column: V
-      id: ff55c504-78ae-43a9-8316-bf51944218a9
-      name: Chichi (2006, V9)
-      text: Home Porno Tapes "Best sex with my hot wife"
-      notes:
-        - name 'Pamela' may not match original
-        - 'Same as Snatch''d: Stolen Home Videos #21, Scene #3'
-      links:
-        - https://www.iafd.com/person.rme/id=48adb138-ae15-4651-ac14-81d0fb1b70c8
-        - https://stashdb.org/scenes/77d9aafd-478d-42d3-bd42-572b8478c2c5
-        - https://www.adultdvdempire.com/3724101/snatchd-21-porn-videos.html#scene_1137372
-        - https://www.iafd.com/title.rme/id=efb0c491-9173-4831-a721-e7ba1115e8e3
-        - https://stashdb.org/images/72303fe5-6904-468b-8280-75812fe0c0a0
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-01-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

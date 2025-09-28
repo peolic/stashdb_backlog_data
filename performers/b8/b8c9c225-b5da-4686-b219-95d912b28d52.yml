@@ -1,20 +1,7 @@
 split:
   name: Steven
-  fragments:
-    - column: N
-      id: 698f30ba-0c71-4755-8203-d298d5edc5da
-      name: Steven (2010, GF Revenge)
-      text: '[NonSex] GF Revenge'
-      links:
-        - https://www.iafd.com/person.rme/id=70c593ea-b3bd-4b6b-8789-2b0e73b773ad
-        - https://stashdb.org/scenes/fd28824a-1963-4903-bb57-0de4ab7ca343
-    - column: O
-      id: 5f3cf7b9-3769-4508-95e4-89513decb89c
-      name: Steven (2011, Dare Dorm)
-      text: Dare Dorm "Getting Loose"
-      links:
-        - https://www.iafd.com/person.rme/id=504d0848-67aa-4248-99bb-217e376bf915
-        - https://stashdb.org/scenes/3d948d2f-3c0e-4850-be19-39d75924cc7b
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-01-14)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,13 +1,6 @@
 split:
   name: Pablo
   fragments:
-    - column: I
-      id: 69ba8c11-25ee-42dd-90a7-4e946b2fb08d
-      name: Pablo (2008, Mike's Apartment)
-      text: Mike's Apartment
-      links:
-        - https://www.iafd.com/person.rme/id=32eb1de5-d0cf-441d-83ce-31e0b6310f92
-        - https://stashdb.org/scenes/a1cdd4d2-1258-4b7c-887e-872237e2e3f8
     - column: J
       id: null
       name: Pablo (Papi, 2007)

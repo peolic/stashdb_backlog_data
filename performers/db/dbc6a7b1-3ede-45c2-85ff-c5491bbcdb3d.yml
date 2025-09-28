@@ -1,14 +1,6 @@
 split:
   name: Monica
   fragments:
-    - column: V
-      id: 6297956d-b1b7-4011-8fdd-4b748f834c3e
-      name: Simona AKA Monica (DDF)
-      text: 1By-Day
-      links:
-        - https://www.iafd.com/person.rme/id=e541ace9-6b83-46d4-ad47-fe69c0d3604b
-        - https://www.indexxx.com/m/monica
-        - https://stashdb.org/scenes/6a0bd4c1-e657-4c38-8c70-819c906c3993
     - column: Y
       id: null
       name: Monica

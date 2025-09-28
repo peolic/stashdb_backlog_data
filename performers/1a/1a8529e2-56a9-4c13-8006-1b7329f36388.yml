@@ -1,14 +1,6 @@
 split:
   name: Roxi
   fragments:
-    - column: L
-      id: 0199dc74-b32d-442b-b611-1d727fda58c6
-      name: Roxi (2008, MILF Hunter)
-      text: MILF Hunter
-      links:
-        - https://www.iafd.com/person.rme/id=30197fc4-f250-4a19-a3dd-fac8eaff31b4
-        - https://www.indexxx.com/m/roxi-1
-        - https://stashdb.org/scenes/16d571b2-83ba-498f-800f-3595cb5d4b60
     - column: M
       id: null
       name: Roxi (2011, Dare Dorm)
@@ -16,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/22b2059b-6931-45a4-b81f-209e9cab4bb8
         - https://www.iafd.com/title.rme/id=5be42fb9-588c-4bcb-8d96-12be3c76e3c2
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-02-18)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,23 +1,7 @@
 split:
   name: Vince
-  fragments:
-    - column: L
-      id: 6e739c2b-dfaa-42de-aeae-5cef6c8f5924
-      name: Vince (Housewife 1 on 1)
-      text: 'Housewife 1 on 1 #933'
-      links:
-        - https://www.iafd.com/person.rme/id=8066b40a-0441-4b44-8074-2d23a80e9fbc
-        - https://stashdb.org/scenes/694b158a-cae5-45eb-ac01-3114616e710e
-        - https://www.iafd.com/title.rme/id=d7f4b4d6-0628-41a9-8ed5-b4142f11b1b6
-    - column: M
-      id: 20e7f4a3-3ee4-42d7-99ed-bd8b70d208cf
-      name: Vince (Men In Pain, 2005)
-      text: Men In Pain "Vince and Jasmine Byrne"
-      links:
-        - https://www.iafd.com/person.rme/id=fa42c7f1-4348-4a79-9472-bf2655df311f
-        - https://stashdb.org/scenes/901c113f-e369-451a-96e7-dac8b4f43310
-        - https://www.iafd.com/title.rme/id=7ed9e6cc-190a-4b9e-89d8-9e4e473c7de5
-        - https://www.kink.com/model/7471/Vince
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.

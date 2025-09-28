@@ -1,13 +1,6 @@
 split:
   name: Miguel
   fragments:
-    - column: J
-      id: e99abc39-4fc7-4a09-9a3e-1c546d4f318b
-      name: Miguel (2006, Bang Bus)
-      text: Bang Bus
-      links:
-        - https://www.iafd.com/person.rme/id=b513f165-5fbd-4a6e-a51e-f18d96c151b1
-        - https://stashdb.org/scenes/b360df25-193f-4464-96ef-5bce10db1a71
     - column: M
       id: null
       name: Miguel (Dick Dorm, 2010)

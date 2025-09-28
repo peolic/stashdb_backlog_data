@@ -1,27 +1,13 @@
 split:
   name: Tommy
   fragments:
-    - column: J
-      id: f1c6a0a9-bcf6-40e3-ac3a-df90f61f8f80
-      name: Tommy (2018, Bang Bus)
-      text: Bang Bus
-      links:
-        - https://www.iafd.com/person.rme/id=beb251c4-6aa2-48d3-b5b3-de8bc1a64317
-        - https://bangbros.com/model60599/tommy
-        - https://stashdb.org/scenes/b979ab55-4574-478f-9517-3410aec1c469
-    - column: R
-      id: 61ad910a-5d05-4e4d-8cc8-90f046ca3d68
-      name: Tommy (2004, In the VIP)
-      text: In the VIP (2004)
-      links:
-        - https://www.iafd.com/person.rme/id=a1ae10b0-992c-43c6-9ba3-4aede30f3e40
-        - https://stashdb.org/scenes/7885f959-2dff-4183-afff-ca2644ba25ca
     - column: T
       id: null
       name: Tommy (Boys First Time, 2006)
       text: Boys First Time "Face Down Ass Up"
       links:
         - https://stashdb.org/scenes/dc64868c-008c-4cb8-ab0e-8cb7594291a7
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,24 +1,7 @@
 split:
   name: Oscar
-  fragments:
-    - column: N
-      id: 0f7b1b80-b4dd-4d8d-a26b-a7943b258127
-      name: Oscar (Street Blowjobs, 2002)
-      text: Street Blowjobs "Quick Buck Suck"
-      links:
-        - https://stashdb.org/scenes/33a4a300-3d9d-45bd-82a9-5208209730c8
-        - https://www.imdb.com/name/nm8841708/
-        - https://www.imdb.com/title/tt5496928/
-    - column: O
-      id: d9ba29c3-436e-4235-8208-4fc16adff066
-      name: Oscar (In the VIP, 2004)
-      text: In The VIP "Fort Lickerdale"
-      links:
-        - https://stashdb.org/scenes/93cdb819-574e-439e-b5fe-f42be77c6e17
-        - https://www.iafd.com/title.rme/id=56eb7878-41ca-4387-8726-b39df787124b
-        - https://www.realitykings.com/model/10047/oscar
-        - https://www.imdb.com/name/nm9823880/
-        - https://www.imdb.com/title/tt8385896/
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.

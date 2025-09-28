@@ -1,13 +1,6 @@
 split:
   name: Patrick
   fragments:
-    - column: I
-      id: 28f970d1-ab85-461d-a473-88c89dd295a8
-      name: Patrick (2004, Men In Pain)
-      text: Men In Pain
-      links:
-        - https://www.iafd.com/person.rme/id=2b28bd5c-7083-4864-a305-a1bbac8186f6
-        - https://stashdb.org/scenes/9117090c-8b0a-4e84-9541-59abb20f63ea
     - column: J
       id: null
       name: Patrick (TugPass)
