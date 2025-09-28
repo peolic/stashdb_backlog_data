@@ -12,12 +12,16 @@ performers:
     - id: null
       name: Lena
       appearance: null
-      disambiguation: 1994, Russian, Woodman
-      status: new
-      status_url: https://www.indexxx.com/m/lena-14
+      disambiguation: Woodman Casting X, 1994
+      status: c
+      status_url: https://stashdb.org/edits/fc163f63-3238-41d3-9ac0-6e68377330b4
+      notes:
+        - https://www.indexxx.com/m/lena-14
     - id: null
       name: Natasha
       appearance: null
-      disambiguation: 1994, Russian, Woodman
-      status: new
-      status_url: https://www.indexxx.com/m/natasha-77
+      disambiguation: Woodman Casting X, 1994
+      status: c
+      status_url: https://stashdb.org/edits/d6296dcc-2c22-47a9-a267-5a04dbaf1de5
+      notes:
+        - https://www.indexxx.com/m/natasha-77
