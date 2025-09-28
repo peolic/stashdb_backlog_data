@@ -1,0 +1,56 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: dae7d096-105b-4a8e-8cf7-0b684d7dd1e4
+      name: Allen
+      appearance: null
+    - id: 55d494b3-166c-4847-acac-84593cc28050
+      name: Andrew
+      appearance: null
+    - id: daff3ebb-807c-4a6d-b532-04b3862c56c8
+      name: Cody
+      appearance: null
+    - id: b6762740-76f3-48ba-9440-b7ba6863bd3c
+      name: Jake
+      appearance: null
+    - id: b4063992-ce54-4285-ae5f-3cedbd7fcd8f
+      name: James
+      appearance: null
+  append:
+    - id: null
+      name: Allen
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20959/allen
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20961/andrew
+    - id: null
+      name: Cody
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20963/cody
+    - id: null
+      name: Jake
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20967/jake
+    - id: null
+      name: James
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20969/james
