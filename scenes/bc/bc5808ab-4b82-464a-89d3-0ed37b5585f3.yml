@@ -12,6 +12,8 @@ performers:
     - id: null
       name: Katalyn
       appearance: null
-      disambiguation: Woodman, 1997
-      status: new
-      status_url: https://www.indexxx.com/m/katalyn-5
+      disambiguation: Woodman Casting X, 1997
+      status: c
+      status_url: https://stashdb.org/edits/7baa2b33-51e5-4e7b-a05c-bffe2276eaff
+      notes:
+        - https://www.indexxx.com/m/katalyn-5

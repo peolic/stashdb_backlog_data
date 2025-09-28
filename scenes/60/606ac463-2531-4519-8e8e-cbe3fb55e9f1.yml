@@ -12,6 +12,8 @@ performers:
     - id: null
       name: Katarina
       appearance: null
-      disambiguation: Woodman, 2003
-      status: new
-      status_url: https://www.indexxx.com/m/katarina-10
+      disambiguation: Woodman Casting X, 2001
+      status: c
+      status_url: https://stashdb.org/edits/e073f7dd-4c30-4a18-9c84-051727ed24ab
+      notes:
+        - https://www.indexxx.com/m/katarina-10
