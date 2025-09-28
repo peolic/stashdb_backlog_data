@@ -1,0 +1,36 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
+      name: Albert Long
+      appearance: null
+    - id: 5d900dc2-fde3-4f44-843a-0e02c85eb768
+      name: Timothy
+      appearance: null
+    - id: 517ff2e8-0792-4d1e-a1c0-c8c8a6bc1705
+      name: Zachary
+      appearance: null
+  append:
+    - id: null
+      name: Robert
+      appearance: null
+      disambiguation: Dick Dorm, 2011-04
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21048/robert
+    - id: null
+      name: Timothy
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21046/timothy
+    - id: null
+      name: Zachary
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21044/zachary

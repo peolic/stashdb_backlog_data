@@ -1,0 +1,53 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: be44e7c4-a2ff-4249-8b12-b875cff4c293
+      name: Alexander
+      appearance: null
+    - id: 1c8e83ee-fc37-4e66-855a-5481b3ce401e
+      name: Corey
+      appearance: null
+    - id: 60df9006-0beb-4eb5-a5e1-fa7e92d5c4fd
+      name: Carter
+      appearance: null
+      disambiguation: Boys First Time
+    - id: 0718191d-cfb2-4a55-90f1-6f5a6d0d45ba
+      name: Xander
+      appearance: null
+  append:
+    - id: null
+      name: Alexander
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22106/alexander
+    - id: a3d3a256-23d1-462e-81cd-1e44c7a80525
+      name: Wilmar
+      appearance: null
+      disambiguation: Papi, 2006
+      notes:
+        - https://www.realitydudes.com/model/22100/wilmar
+    - id: null
+      name: Corey
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20919/corey
+    - id: null
+      name: Carter
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22102/carter
+    - id: null
+      name: Xander
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22108/xander
