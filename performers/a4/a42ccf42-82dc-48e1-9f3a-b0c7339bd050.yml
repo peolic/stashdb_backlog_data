@@ -14,7 +14,7 @@ split:
       name: Tom (Dick Dorm)
       text: Dick Dorm "Apples And Balls"
       notes:
-        - '*no info*'
+        - no info
       links:
         - https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097
         - https://www.iafd.com/title.rme/id=d9d09d40-a495-4c8d-8049-c3d4838aa80e

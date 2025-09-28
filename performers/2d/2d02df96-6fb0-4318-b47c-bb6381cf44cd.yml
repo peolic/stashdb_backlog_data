@@ -2,14 +2,14 @@ split:
   name: Rico
   fragments:
     - column: J
-      id: null
+      id: 4076cb00-d75f-48ec-8a25-d1a2573c9f9d
       name: Rico (2006, 8th Street Latinas)
       text: 8th Street Latinas "Pelli Rojo"
       links:
         - https://www.iafd.com/person.rme/id=f9e2a222-a1de-4692-9af5-1717a10586c4
         - https://stashdb.org/scenes/24dfa10e-4418-42e0-a6b1-7c59094f1676
     - column: K
-      id: null
+      id: 2fb79aed-9a75-453c-8ef5-c41d9b9a3011
       name: Rico (2006, In the VIP)
       text: In the VIP "Fantastic Foursome"
       notes:

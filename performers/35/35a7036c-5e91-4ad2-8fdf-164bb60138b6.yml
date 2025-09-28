@@ -52,14 +52,14 @@ split:
       links:
         - https://stashdb.org/scenes/9fb37a28-22b2-4271-a260-c45a27d1d339
     - column: AI
-      id: null
-      name: '[todo]'
+      id: ce17f384-09ee-4420-b6df-c30b30d35447
+      name: David (Dick Dorm, 2012)
       text: Dick Dorm "Get Gazed"
       links:
         - https://stashdb.org/scenes/5c6adbc1-a336-4f71-85a7-339412931c86
     - column: AJ
-      id: null
-      name: '[todo]'
+      id: af54d596-77dd-4eb7-bb15-45cca59c7e41
+      name: David (Dick Dorm, 2011-03)
       text: Dick Dorm "Pump It"
       links:
         - https://stashdb.org/scenes/0394bfb2-0702-40fc-8d74-22ac28ae50b1

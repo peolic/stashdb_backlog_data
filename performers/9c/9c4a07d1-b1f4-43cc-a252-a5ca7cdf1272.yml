@@ -2,7 +2,7 @@ split:
   name: Pink
   fragments:
     - column: K
-      id: null
+      id: d4b37524-156c-4698-9965-56cfe13efe88
       name: Pink (2007-2008, Reality Kings)
       text: '[NonSex] We Live Together'
       links:
@@ -10,7 +10,7 @@ split:
         - https://www.indexxx.com/m/pink
         - https://stashdb.org/scenes/2efc15ee-9807-4ec1-ac90-97faa7257364
     - column: M
-      id: null
+      id: f21e0ee4-7725-4430-9c01-ef544de7c668
       name: Pink (Teen Core Club)
       text: Young Throats
       notes:

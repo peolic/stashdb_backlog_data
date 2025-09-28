@@ -2,7 +2,7 @@ split:
   name: Tanya
   fragments:
     - column: N
-      id: null
+      id: 43b2b872-57f5-4051-88ef-1f6805aadf74
       name: Tayna (2007, 8th Street Latinas)
       text: 8th Street Latinas
       links:
@@ -10,7 +10,7 @@ split:
         - https://www.indexxx.com/m/tanya-2
         - https://stashdb.org/scenes/96474d36-c0e4-45ea-ae5d-ef735961475d
     - column: P
-      id: null
+      id: dd987ff4-ef50-4dba-8ef8-53384c19c847
       name: Tanya (1998, Rocco Siffredi)
       text: Rocco Siffredi
       links:

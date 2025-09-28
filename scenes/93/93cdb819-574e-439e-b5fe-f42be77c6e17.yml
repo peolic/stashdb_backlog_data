@@ -9,12 +9,10 @@ performers:
       name: Oscar
       appearance: null
   append:
-    - id: null
+    - id: d9ba29c3-436e-4235-8208-4fc16adff066
       name: Oscar
       appearance: null
       disambiguation: In the VIP, 2004
-      status: c
-      status_url: https://stashdb.org/edits/1825a174-92af-4b55-9451-df8c1b4feee1
       notes:
         - https://www.imdb.com/name/nm9823880/
         - https://www.realitykings.com/model/10047/oscar

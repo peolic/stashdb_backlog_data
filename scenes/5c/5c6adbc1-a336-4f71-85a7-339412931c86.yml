@@ -13,12 +13,10 @@ performers:
       name: Christian
       appearance: null
   append:
-    - id: null
+    - id: 8a190321-7f83-4eea-832a-d76bb11bdb6b
       name: Ronald
       appearance: null
       disambiguation: Dare Dorm, 2012
-      status: c
-      status_url: https://stashdb.org/edits/9b9fcc79-5c1e-445a-a85b-cac687f0dd8e
       notes:
         - https://www.iafd.com/person.rme/id=efeec5fe-2ee6-4d28-a6bb-b4ff2e79bcc3
         - https://www.realitykings.com/model/20091/ronald
