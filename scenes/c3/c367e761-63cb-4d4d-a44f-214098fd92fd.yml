@@ -10,12 +10,10 @@ performers:
       name: Sandra
       appearance: null
   append:
-    - id: null
+    - id: cc267b9c-5e4d-4161-8332-b53e8e797f5b
       name: Sandra
       appearance: null
       disambiguation: 2005, Bang Bus
-      status: c
-      status_url: https://stashdb.org/edits/c646538e-7c1e-4b67-ad40-4bbb0e35d608
       notes:
         - https://www.iafd.com/person.rme/id=b27a3871-e835-4d65-9f44-94896302b47d
         - https://www.indexxx.com/m/sandra-3

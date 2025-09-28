@@ -10,12 +10,10 @@ performers:
       name: Rachel
       appearance: null
   append:
-    - id: null
+    - id: 130f0698-e7d7-40ff-9273-2e95c642a5ce
       name: Rachel
       appearance: null
       disambiguation: 2003, We Live Together
-      status: c
-      status_url: https://stashdb.org/edits/5f09bd28-59d4-49c0-ad8b-09eb7e233e75
       notes:
         - https://www.iafd.com/person.rme/id=c05add58-d5fc-49f7-a392-9d25a181c33d
         - https://www.indexxx.com/m/rachel-6

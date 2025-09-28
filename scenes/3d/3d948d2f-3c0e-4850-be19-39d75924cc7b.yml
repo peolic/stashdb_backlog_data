@@ -10,21 +10,17 @@ performers:
       name: Pierre
       appearance: null
   append:
-    - id: null
+    - id: 5f3cf7b9-3769-4508-95e4-89513decb89c
       name: Steven
       appearance: null
       disambiguation: 2011, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/0516d89b-6e2c-450f-85eb-da2ea75406d6
       notes:
         - https://www.iafd.com/person.rme/id=504d0848-67aa-4248-99bb-217e376bf915
         - https://www.realitykings.com/model/25087/steven
-    - id: null
+    - id: 36fc68a1-dc66-4f8f-a1fa-c7902cbeec54
       name: Pierre
       appearance: null
       disambiguation: Dare Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/5c2d1b59-3f85-456f-a69c-f4ca8b16acb7
       notes:
         - https://www.iafd.com/person.rme/id=03590f35-9835-4e71-8985-b495addd2eaa
         - https://www.realitykings.com/model/25089/pierre

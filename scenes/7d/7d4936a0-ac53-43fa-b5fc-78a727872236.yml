@@ -10,12 +10,10 @@ performers:
       name: Rose
       appearance: null
   append:
-    - id: null
+    - id: 9f13817b-4014-46d6-b5e2-5e7129e2a4e4
       name: Rose
       appearance: null
       disambiguation: Blowpass, 2006
-      status: c
-      status_url: https://stashdb.org/edits/3a05e6a3-e980-415d-a5ba-a6580da9b70b
       notes:
         - https://www.iafd.com/person.rme/id=2331ea14-f0b0-4879-9e40-bb4681f9ad26
         - https://www.indexxx.com/m/rose-20

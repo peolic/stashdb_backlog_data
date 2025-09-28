@@ -9,11 +9,9 @@ performers:
       name: Scott
       appearance: null
   append:
-    - id: null
+    - id: b15f3c0d-0cd5-47f0-87c1-a38135be8192
       name: Scott
       appearance: null
       disambiguation: 2004, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/a7061c07-0161-4c94-b3d2-eb84dc00f55b
       notes:
         - https://www.iafd.com/person.rme/id=99379b2c-386b-471f-95f1-9f094b01ccbf

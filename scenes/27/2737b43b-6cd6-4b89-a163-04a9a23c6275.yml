@@ -10,12 +10,10 @@ performers:
       name: Sandra
       appearance: null
   append:
-    - id: null
+    - id: d7cb0e4b-ba71-4c3d-b405-9c99232677bb
       name: Sandra
       appearance: null
       disambiguation: 2006, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/a729df55-804d-4ea2-9f57-d05590b1efd3
       notes:
         - https://www.iafd.com/person.rme/id=38613d46-d0cd-4a24-8772-07ae2b903026
         - https://www.indexxx.com/m/sandra-8

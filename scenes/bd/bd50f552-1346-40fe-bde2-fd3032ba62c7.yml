@@ -9,11 +9,9 @@ performers:
       name: Tony
       appearance: null
   append:
-    - id: null
+    - id: b8cdfe43-31ee-4e1f-8bfd-5ed77e9364d9
       name: Toni
       appearance: Tony
       disambiguation: 2014, Boys First Time
-      status: c
-      status_url: https://stashdb.org/edits/e52c8745-bdd2-4169-b2c9-e171be29c4ae
       notes:
         - https://www.iafd.com/person.rme/id=5ddc21c9-5ceb-49c2-bfb7-1d3b85c840b7

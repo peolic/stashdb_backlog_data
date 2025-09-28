@@ -9,12 +9,10 @@ performers:
       name: Pablo
       appearance: null
   append:
-    - id: null
+    - id: 69ba8c11-25ee-42dd-90a7-4e946b2fb08d
       name: Pablo
       appearance: null
       disambiguation: 2008, Mike's Apartment
-      status: c
-      status_url: https://stashdb.org/edits/8b79d0d8-0a51-4bb8-8c4f-e010b3d6f0bd
       notes:
         - https://www.iafd.com/person.rme/id=32eb1de5-d0cf-441d-83ce-31e0b6310f92
         - https://www.realitykings.com/model/9629/pablo

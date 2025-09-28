@@ -9,12 +9,10 @@ performers:
       name: Tony
       appearance: null
   append:
-    - id: null
+    - id: d7276154-db4a-43b6-a39e-d3e17f371d0b
       name: Tony
       appearance: null
       disambiguation: 2011, GF Revenge
-      status: c
-      status_url: https://stashdb.org/edits/7991ac2d-daac-4750-84c4-463e2e288eaa
       notes:
         - https://www.iafd.com/person.rme/id=b7b592ab-1ec0-4364-9f36-264bf5f4e34d
         - https://www.realitykings.com/model/25827/tony

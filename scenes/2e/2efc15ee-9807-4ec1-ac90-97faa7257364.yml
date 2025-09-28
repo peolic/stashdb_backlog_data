@@ -7,12 +7,10 @@ performers:
       name: Pink
       appearance: null
   append:
-    - id: null
+    - id: d4b37524-156c-4698-9965-56cfe13efe88
       name: Pink
       appearance: null
       disambiguation: 2005-2008, Reality Kings
-      status: c
-      status_url: https://stashdb.org/edits/bc8dded1-bcb8-4abb-9d9e-da3f2e6672ed
       notes:
         - https://www.iafd.com/person.rme/id=3c48aab0-e428-4e93-91c7-8922624fcbfa
         - https://www.indexxx.com/m/pink

@@ -9,11 +9,9 @@ performers:
       name: Rose
       appearance: null
   append:
-    - id: null
+    - id: f4d7b1eb-5521-474b-a4e5-3e72d985256b
       name: Rose
       appearance: null
       disambiguation: 2009, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/13ea7275-553d-4495-bdee-ecd5139dd395
       notes:
         - https://www.iafd.com/person.rme/id=9cec3260-8e5f-45f0-9089-104b76e87b97

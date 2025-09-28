@@ -7,12 +7,10 @@ performers:
       name: Sasha
       appearance: null
   append:
-    - id: null
+    - id: 9221982d-70f3-414f-b2f9-c5b7f6c7c3d4
       name: Divina
       appearance: Sasha
       disambiguation: New Sensations, 2002
-      status: c
-      status_url: https://stashdb.org/edits/e5523f8a-eb8a-47a0-b6b3-d5501388ba89
       notes:
         - https://www.iafd.com/person.rme/id=441c4153-6128-4888-83cd-1c3bbdaabf8e
         - https://www.indexxx.com/m/sasha-12

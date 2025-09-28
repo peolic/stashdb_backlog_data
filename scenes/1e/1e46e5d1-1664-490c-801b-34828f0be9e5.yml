@@ -9,12 +9,10 @@ performers:
       name: Rico
       appearance: null
   append:
-    - id: null
+    - id: 2fb79aed-9a75-453c-8ef5-c41d9b9a3011
       name: Rico
       appearance: null
       disambiguation: 2006, In the VIP
-      status: c
-      status_url: https://stashdb.org/edits/32814960-a123-495c-b9a2-0d519add464a
       notes:
         - https://www.iafd.com/person.rme/id=e7ce7a83-20c0-48ea-a101-62a8a4e86656
         - https://www.realitykings.com/model/12037/rico

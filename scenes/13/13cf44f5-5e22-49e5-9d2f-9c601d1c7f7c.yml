@@ -16,12 +16,10 @@ performers:
       name: Ricky
       appearance: null
   append:
-    - id: null
+    - id: aa8e8a4d-be4a-4609-b5fd-27306016e902
       name: Nicholas
       appearance: null
       disambiguation: Dare Dorm, 2012-08
-      status: c
-      status_url: https://stashdb.org/edits/8157d117-d663-443a-9b21-ba4727e2ecdc
       notes:
         - https://www.realitykings.com/model/25317/nicholas
         - Note that IAFD for this performer is a combined performer for all Nicholas in 2012.

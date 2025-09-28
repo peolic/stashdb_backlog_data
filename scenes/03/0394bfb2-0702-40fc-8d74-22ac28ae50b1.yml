@@ -18,35 +18,27 @@ performers:
       name: Jeremiah
       appearance: null
   append:
-    - id: null
+    - id: 35b63b41-2144-4641-b121-5405c12fb5a4
       name: Clint
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
-      status_url: https://stashdb.org/edits/5ed92409-6b58-4385-a0b4-6ad29f1123d4
       notes:
         - https://www.realitydudes.com/model/22369/clint
-    - id: null
+    - id: af54d596-77dd-4eb7-bb15-45cca59c7e41
       name: David
       appearance: null
       disambiguation: Dick Dorm, 2011-03
-      status: c
-      status_url: https://stashdb.org/edits/6e34e124-97d7-4bcd-bf47-519ac1e7f6f5
       notes:
         - https://www.realitydudes.com/model/22373/david
-    - id: null
+    - id: 465f3f45-0be3-4765-b3dc-a25ad18ae6ad
       name: Jason
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/22009c42-b69d-4c1b-93c9-b44e9733f902
       notes:
         - https://www.realitydudes.com/model/22375/jason
-    - id: null
+    - id: 21458263-b29e-4d8d-8f5c-8a86fd594be8
       name: Jeremiah
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/e17c183a-bee1-4ed7-ae21-5c0bcc095477
       notes:
         - https://www.realitydudes.com/model/22371/jeremiah

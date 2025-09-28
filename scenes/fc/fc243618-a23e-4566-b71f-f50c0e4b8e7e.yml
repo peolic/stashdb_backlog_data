@@ -9,12 +9,10 @@ performers:
       name: Shawn
       appearance: null
   append:
-    - id: null
+    - id: ac19c0a7-955c-43f4-999a-773c681cf698
       name: Shawn
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/996f0b29-e5ea-465a-b239-1992e134f721
       notes:
         - https://www.iafd.com/person.rme/id=cd555a41-bc5f-4670-9ec7-5f61b7c66db1
         - https://cdn.stashdb.org/images/fd/31/fd311964-4968-41ba-9e89-45a8931a58b1

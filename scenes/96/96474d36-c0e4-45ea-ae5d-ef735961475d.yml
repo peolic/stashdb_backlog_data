@@ -10,12 +10,10 @@ performers:
       name: Tanya
       appearance: null
   append:
-    - id: null
+    - id: 43b2b872-57f5-4051-88ef-1f6805aadf74
       name: Tanya
       appearance: null
       disambiguation: 2007, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/933d941f-8d52-405e-ad7c-86d92ef427a3
       notes:
         - https://www.iafd.com/person.rme/id=2f2e023d-c917-4cd7-a2f8-e3885ced7e6f
         - https://www.indexxx.com/m/tanya-2

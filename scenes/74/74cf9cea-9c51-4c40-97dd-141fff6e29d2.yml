@@ -9,11 +9,9 @@ performers:
       name: Sasha
       appearance: null
   append:
-    - id: null
+    - id: 1f91b5a5-213a-4a32-ab6c-0eb088450dca
       name: Sasha
       appearance: null
       disambiguation: 2005, V9
-      status: c
-      status_url: https://stashdb.org/edits/c544aed7-5f1a-4f60-85f1-89a51afd2e4f
       notes:
         - https://www.iafd.com/person.rme/id=246f882c-6982-45fd-8761-5fa63d777989

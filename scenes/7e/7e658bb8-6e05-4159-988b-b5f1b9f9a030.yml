@@ -17,12 +17,10 @@ performers:
       name: Maxwell
       appearance: null
       disambiguation: Dare Dorm, 2011
-    - id: null
+    - id: a6af1c8f-5aea-469e-8f34-f31a05fec2b7
       name: Jerry
       appearance: null
       disambiguation: 2011, Dick Dorm
-      status: c
-      status_url: https://stashdb.org/edits/8ddb5a58-4881-43c4-95c7-2e9c0f36ded1
       notes:
         - https://www.realitydudes.com/model/21222/jerry
     - id: null
@@ -33,11 +31,9 @@ performers:
       status_url: https://stashdb.org/edits/a4eac74b-a01e-42ad-b0ac-de0c8890a965
       notes:
         - https://www.realitydudes.com/model/21224/anthony
-    - id: null
+    - id: 29317258-6edb-4397-8230-76a806ea5dab
       name: Rene
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/4e1cc76f-9284-4633-bbcf-514eb392f368
       notes:
         - https://www.realitydudes.com/model/21220/rene

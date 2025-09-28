@@ -7,11 +7,9 @@ performers:
       name: Pink
       appearance: null
   append:
-    - id: null
+    - id: f21e0ee4-7725-4430-9c01-ef544de7c668
       name: Pink
       appearance: null
       disambiguation: Teen Core Club
-      status: c
-      status_url: https://stashdb.org/edits/e2d19dfe-fa5a-4fd6-b8a1-6719180bd869
       notes:
         - https://www.iafd.com/person.rme/id=05c95857-54b0-4696-a880-bf094d767535

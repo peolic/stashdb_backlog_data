@@ -10,12 +10,10 @@ performers:
       name: Teresa
       appearance: null
   append:
-    - id: null
+    - id: 33e15beb-6071-4333-a21e-f429907e1a48
       name: Teresa
       appearance: null
       disambiguation: 2002, 8th Street Latinas
-      status: c
-      status_url: https://stashdb.org/edits/47d3adcf-fd52-4ed7-9827-e20cc014e273
       notes:
         - https://www.iafd.com/person.rme/id=372fb3d0-5ba8-407b-b06a-c5886cb0ceb1
         - https://www.indexxx.com/m/teresa
