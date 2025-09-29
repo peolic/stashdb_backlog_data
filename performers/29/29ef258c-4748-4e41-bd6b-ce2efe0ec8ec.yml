@@ -1,14 +1,7 @@
 split:
   name: Katarina
-  fragments:
-    - column: L
-      id: null
-      name: Katarina
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/katarina-10
-        - https://stashdb.org/scenes/606ac463-2531-4519-8e8e-cbe3fb55e9f1
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

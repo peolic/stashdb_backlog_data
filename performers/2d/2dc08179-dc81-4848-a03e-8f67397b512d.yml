@@ -1,17 +1,6 @@
 split:
   name: Katalyn
-  fragments:
-    - column: I
-      id: null
-      name: Katalyn
-      links:
-        - https://www.indexxx.com/m/katalyn
-        - https://stashdb.org/scenes/a2c87d59-5775-4c61-8d1b-34a55a276781
-    - column: K
-      id: null
-      name: Katalyn
-      links:
-        - https://www.indexxx.com/m/katalyn-5
-        - https://stashdb.org/scenes/bc5808ab-4b82-464a-89d3-0ed37b5585f3
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-15)
