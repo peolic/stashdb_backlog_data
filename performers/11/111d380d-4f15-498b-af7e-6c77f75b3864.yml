@@ -1,14 +1,7 @@
 split:
   name: Katrin
-  fragments:
-    - column: Q
-      id: 85a2a30d-e88f-4e87-a63a-952836fa6a19
-      name: Katrin (1994, Woodman)
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/katrin-8
-        - https://stashdb.org/scenes/0e248c05-6b34-493f-a47c-3bed11666c78
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-05-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

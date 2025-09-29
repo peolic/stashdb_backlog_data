@@ -1,18 +1,7 @@
 split:
   name: Kinga
-  fragments:
-    - column: L
-      id: d3e6e158-64d9-41f5-968a-1b634a5c482f
-      name: Kinga
-      links:
-        - https://www.indexxx.com/m/kinga-5
-        - https://stashdb.org/scenes/3064c899-9f28-4c39-9c8b-470a0cf1d4fd
-    - column: M
-      id: 04fb0adf-44e5-4ac3-8893-e781d8107b06
-      name: Kinga
-      links:
-        - https://www.indexxx.com/m/kinga-6
-        - https://stashdb.org/scenes/690bad74-e1a3-4004-b172-6a9813cafdf1
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-02)
     - Best to move scenes and delete performer, rather than merging or renaming.
