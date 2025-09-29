@@ -15,6 +15,15 @@ performers:
     - id: 7cc845d3-03c5-4278-bddf-665ae4969d11
       name: Doug
       appearance: null
+    - id: 1d5ffc62-057d-4298-a02e-9340faa2539b
+      name: Ian
+      appearance: null
+    - id: null
+      name: Ronald
+      appearance: null
+    - id: null
+      name: Giovanni
+      appearance: null
   append:
     - id: 261b8252-27db-41e1-93b9-c7f4f003dbff
       name: Luke
@@ -35,3 +44,7 @@ performers:
       status: new
       notes:
         - https://www.realitydudes.com/model/21771/doug
+    - id: 97a05af8-ca9f-4ff1-8473-097232801d60
+      name: Ian
+      appearance: null
+      disambiguation: Papi, 2007
