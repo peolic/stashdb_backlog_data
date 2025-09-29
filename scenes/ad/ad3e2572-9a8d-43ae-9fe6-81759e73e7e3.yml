@@ -9,11 +9,9 @@ performers:
       name: Victoria
       appearance: null
   append:
-    - id: null
+    - id: 50ccd243-2403-46d4-9a87-5c90373396a4
       name: Victoria
       appearance: null
       disambiguation: Woodman Casting X, 2000-07
-      status: c
-      status_url: https://stashdb.org/edits/0fd0a155-d00d-4c74-bf51-6a2029c92f4e
       notes:
         - https://www.indexxx.com/m/victoria-48
