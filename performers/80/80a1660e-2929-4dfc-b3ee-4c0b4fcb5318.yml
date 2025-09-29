@@ -1,13 +1,6 @@
 split:
   name: July
-  fragments:
-    - column: Q
-      id: a0eee44c-3782-4228-934a-b593d20ff156
-      name: July (1995, Woodman)
-      text: Woodman Casting X (2010)
-      links:
-        - https://www.indexxx.com/m/july-12
-        - https://stashdb.org/scenes/b83350cc-e3d9-457e-867b-9e9e1609f683
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-28)
