@@ -9,12 +9,10 @@ performers:
       name: Lena And Natasha
       appearance: null
   append:
-    - id: null
+    - id: 0e57dbb1-59e3-4ec8-9f46-520e332d2047
       name: Lena
       appearance: null
       disambiguation: Woodman Casting X, 1994
-      status: c
-      status_url: https://stashdb.org/edits/fc163f63-3238-41d3-9ac0-6e68377330b4
       notes:
         - https://www.indexxx.com/m/lena-14
     - id: d3281e93-15ab-4a31-b8d7-570e9f69ceaa
