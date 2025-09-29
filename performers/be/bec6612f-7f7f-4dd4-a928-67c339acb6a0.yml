@@ -12,9 +12,9 @@ split:
     - column: L
       id: null
       name: Giovanni (Papi, 2007)
-      notes:
-        - Papi "Double Dick"
+      text: Papi "Double Dick"
       links:
+        - https://www.realitydudes.com/model/21767/giovanni
         - https://stashdb.org/scenes/3e409ce1-6796-4818-bad8-f3bc98749e0c
     - column: M
       id: null

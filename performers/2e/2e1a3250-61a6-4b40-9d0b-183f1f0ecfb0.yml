@@ -44,6 +44,12 @@ split:
     - column: Q
       id: null
       name: George (Papi, 2006)
+      notes:
+        - '- Papi "Latino Lust"'
+        - '- Papi "The Papi Dance"'
+        - '- Papi "Papi Palace"'
+        - '- Papi "Penis Patrol"'
+        - Aylo ID is 20272
       links:
         - https://stashdb.org/scenes/59e9c665-b60f-4aa7-86af-e337ce0c9bc3
         - https://stashdb.org/scenes/d72b1052-b5ee-447f-857c-665f2b98cffd

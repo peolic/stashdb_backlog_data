@@ -1,13 +1,6 @@
 split:
   name: Margaret
-  fragments:
-    - column: K
-      id: c2f892ae-d47d-419b-b06d-a53db519feb8
-      name: Margaret
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/margaret-9
-        - https://stashdb.org/scenes/7b993067-53a7-4d12-a817-bd5fd3eff87f
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-17)

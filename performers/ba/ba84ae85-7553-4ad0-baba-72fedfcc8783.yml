@@ -3,12 +3,14 @@ split:
   fragments:
     - column: I
       id: ba84ae85-7553-4ad0-baba-72fedfcc8783
-      name: Geo (Sean Cody)
+      name: Gene (Sean Cody)
       text: Sean Cody
     - column: J
       id: null
-      name: Geo (Papi, 2007)
+      name: Gene (Papi, 2007)
       text: Papi "Sword Fight"
+      notes:
+        - Aylo ID is 21727
       links:
         - https://stashdb.org/scenes/39cfc1e3-89ce-43f7-b06b-27c4d363719c
   notes:

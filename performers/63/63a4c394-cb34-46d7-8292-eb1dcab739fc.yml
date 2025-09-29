@@ -13,8 +13,9 @@ split:
     - column: M
       id: null
       name: Christopher (Papi, 2008)
+      text: Papi "Sword Fight"
       notes:
-        - '- Papi "Sword Fight"'
+        - Aylo ID is 21729
       links:
         - https://stashdb.org/scenes/39cfc1e3-89ce-43f7-b06b-27c4d363719c
     - column: N
