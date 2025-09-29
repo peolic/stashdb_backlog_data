@@ -24,7 +24,7 @@ split:
     - column: R
       id: null
       name: Robert (Papi, 2006-12-04)
-      text: Papi "Love Triangle"
+      text: Papi "Love Triangle" - missing performer
       notes:
         - Aylo ID is 20935
       links:
