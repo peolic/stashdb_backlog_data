@@ -1,17 +1,6 @@
 split:
   name: Lena And Natasha
-  fragments:
-    - column: I
-      id: 0e57dbb1-59e3-4ec8-9f46-520e332d2047
-      name: Lena (1994, Russian, Woodman)
-      links:
-        - https://www.indexxx.com/m/lena-14
-        - https://stashdb.org/scenes/6c4e6907-a6d5-4bf9-8217-68f7cf7e7df1
-    - column: J
-      id: d3281e93-15ab-4a31-b8d7-570e9f69ceaa
-      name: Natasha (1994, Russian, Woodman)
-      links:
-        - https://www.indexxx.com/m/natasha-77
-        - https://stashdb.org/scenes/6c4e6907-a6d5-4bf9-8217-68f7cf7e7df1
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Amalgamated performer

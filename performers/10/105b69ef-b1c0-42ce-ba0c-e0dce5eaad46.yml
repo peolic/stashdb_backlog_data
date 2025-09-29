@@ -1,14 +1,7 @@
 split:
   name: Luna
-  fragments:
-    - column: O
-      id: bdedda71-2ae9-43dc-9228-bb14b8852291
-      name: Luna
-      text: Woodman Casting X (2009)
-      links:
-        - https://www.indexxx.com/m/luna-17
-        - https://stashdb.org/scenes/571d83f4-4c9e-4989-a6f1-684b637a343a
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-05-15)
     - Best to move scenes and delete performer, rather than merging or renaming.

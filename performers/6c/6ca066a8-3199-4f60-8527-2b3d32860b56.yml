@@ -1,14 +1,7 @@
 split:
   name: Tia
-  fragments:
-    - column: I
-      id: 2e4c861f-8ef2-44f3-9b4c-e7989e3ffca6
-      name: Tia (2009, Woodman, Thai)
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/tia-18
-        - https://stashdb.org/scenes/dd2dc7b9-0f6f-4786-b914-65468dc60eec
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

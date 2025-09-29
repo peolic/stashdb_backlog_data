@@ -1,13 +1,7 @@
 split:
   name: Megan
-  fragments:
-    - column: T
-      id: cd7f3d9c-359c-4b32-9162-690a895e3d72
-      name: Megan (1996, Woodman Casting X)
-      links:
-        - https://www.indexxx.com/m/megan-27
-        - https://stashdb.org/scenes/5b3da83b-c422-4db8-aa5d-d9b2a3dcb49f
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2023-12-16)
     - Best to move scenes and delete performer, rather than merging or renaming.

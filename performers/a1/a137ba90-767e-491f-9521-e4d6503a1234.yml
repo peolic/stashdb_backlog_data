@@ -1,14 +1,7 @@
 split:
   name: Marcella
-  fragments:
-    - column: L
-      id: 254ec138-1a19-4d79-841f-f57464d9ba0c
-      name: Marcella
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/marcella-4
-        - https://stashdb.org/scenes/fa1a71c6-7842-4614-9668-a8cb8437f8af
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-18)
     - Best to move scenes and delete performer, rather than merging or renaming.

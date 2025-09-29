@@ -1,13 +1,6 @@
 split:
   name: Marija
-  fragments:
-    - column: K
-      id: 255b689f-3a7f-493e-8e7b-6d456e8f30f8
-      name: Marija (2011, Woodman)
-      text: Woodman Casting X (2011)
-      links:
-        - https://www.indexxx.com/m/marija-2
-        - https://stashdb.org/scenes/a96c0a49-d56e-439c-b0f8-fd68c55a70e1
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-03)

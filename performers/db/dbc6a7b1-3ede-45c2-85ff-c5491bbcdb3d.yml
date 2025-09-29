@@ -1,13 +1,6 @@
 split:
   name: Monica
   fragments:
-    - column: Y
-      id: b0f5a3f8-0011-4145-ad65-d9e5b3bd62a3
-      name: Monica
-      text: Woodman Casting X
-      links:
-        - https://www.indexxx.com/m/monica-64
-        - https://stashdb.org/scenes/80c9dba0-1ae0-438e-9792-612cd2500713
     - column: Z
       id: null
       name: Monica (2012, Home Porno Tapes)
@@ -22,6 +15,7 @@ split:
         - https://www.iafd.com/title.rme/id=c2c4a9d1-76ac-4304-ab49-2d3028501930
         - https://www.adultdvdmarketplace.com/dvd_view_66392.html
         - https://cdn.stashdb.org/images/be/2c/be2c33d7-ce41-4058-b0c4-abb8c86527c7
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-02-18)
     - Best to move scenes and delete performer, rather than merging or renaming.

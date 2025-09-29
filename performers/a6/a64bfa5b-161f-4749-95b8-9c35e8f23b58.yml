@@ -1,13 +1,6 @@
 split:
   name: Lida
-  fragments:
-    - column: K
-      id: 71625f4d-760a-45e8-93b0-51d45726c711
-      name: Lida
-      text: Woodman Casting X (2011)
-      links:
-        - https://www.indexxx.com/m/lida-4
-        - https://stashdb.org/scenes/8329ff61-f5cc-41f0-906c-d9c7fc443d0c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-01-18)

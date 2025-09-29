@@ -1,20 +1,6 @@
 split:
   name: Marina
   fragments:
-    - column: O
-      id: 13a46121-69b7-48a8-b0c4-b941675f974e
-      name: Marina (2010, Woodman)
-      text: Woodman Casting X (2010-01-17)
-      links:
-        - https://www.indexxx.com/m/marina-47
-        - https://stashdb.org/scenes/a6b3505b-f5d0-4188-ab51-b724d7cc58e1
-    - column: P
-      id: c81021ef-715f-4711-92f5-ec823ca749d4
-      name: Marina (2012, Woodman, Belarus)
-      text: Woodman Casting X (2012-03-11)
-      links:
-        - https://www.indexxx.com/m/marina-21
-        - https://stashdb.org/scenes/56e5fed4-f286-4b33-8368-880911890b2f
     - column: R
       id: null
       name: Marina (2011, Nasty-Angels)

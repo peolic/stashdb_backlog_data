@@ -1,27 +1,7 @@
 split:
   name: Sylvia
-  fragments:
-    - column: Q
-      id: 992c3ad9-6df4-4296-bb7d-b259e2ae66c0
-      name: Sylvia (2009, Woodman, Hungary)
-      text: Woodman Casting X (2009-01-22)
-      links:
-        - https://www.indexxx.com/m/sylvia-22
-        - https://stashdb.org/scenes/2a14cd32-b06f-4c0f-9eed-e0cf3b11e3ad
-    - column: R
-      id: 4948d1c5-3d0c-4f65-9aa2-08025db65051
-      name: Sylvia (2009, Woodman, Romania)
-      text: Woodman Casting X (2009-05-19)
-      links:
-        - https://www.indexxx.com/m/sylvia-18
-        - https://stashdb.org/scenes/5dbfc004-79bf-41be-8ca1-2a1431c573a5
-    - column: S
-      id: 2749c42c-9e2b-4f01-b724-3b5b0295bff0
-      name: Sylvia (2010, Woodman, Hungary)
-      text: Woodman Casting X (2010-07-17)
-      links:
-        - https://www.indexxx.com/m/sylvia-10
-        - https://stashdb.org/scenes/35ee1e4b-bb94-48c2-9d24-bbdaaea0871f
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.
