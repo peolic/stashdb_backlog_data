@@ -3,13 +3,16 @@ split:
   fragments:
     - column: W
       id: null
-      name: Tony (2007-2008, Papi)
-      text: iafd has scenes but Tony is not listed
+      name: Tony (Papi, 2007)
+      notes:
+        - '- Papi "Well Hung"'
+        - '- Papi "Juicy Jacuzzi"'
+        - Aylo ID is 21150
       links:
         - https://stashdb.org/scenes/9eee29bf-ece0-4bc1-ab12-c36c840c0c6f
-        - https://www.iafd.com/title.rme/title=well+hung/year=2008/well-hung.htm
+        - https://www.iafd.com/title.rme/id=887bdcfb-4757-4f05-aaa9-ed9ed6b902af
         - https://stashdb.org/scenes/e92298fa-9177-41f1-9c84-afa88dcbc508
-        - https://www.iafd.com/title.rme/title=juicy+jacuzzi/year=2007/juicy-jacuzzi.htm
+        - https://www.iafd.com/title.rme/id=3ea529be-8a6a-45a3-b811-19b81e86e1e3
     - column: Y
       id: null
       name: Tony (18videoz)

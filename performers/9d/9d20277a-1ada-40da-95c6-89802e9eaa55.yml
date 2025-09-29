@@ -21,8 +21,9 @@ split:
       name: Benjamin (Papi, 2007)
       notes:
         - '- Papi "House Party Humpers"'
-        - "- \x02Papi \"Banana In Tailpipe\"\x03"
+        - "\x02- \x03\x02Papi \"Banana In Tailpipe\"\x03"
       links:
+        - https://www.realitydudes.com/model/20440/benjamin
         - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
   notes:
     - Mix of multiple performers (partial list)
