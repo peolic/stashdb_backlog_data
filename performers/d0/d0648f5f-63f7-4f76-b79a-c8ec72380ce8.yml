@@ -21,31 +21,25 @@ split:
     - column: V
       id: null
       name: Joe (Dick Dorm, 2010)
-      notes:
-        - Dick Dorm "Happy Day"
+      text: Dick Dorm "Happy Day"
       links:
         - https://stashdb.org/scenes/55a270b9-c6c5-4bcc-86e8-0a5e50949765
     - column: W
-      id: null
-      name: Joe (Papi, 2008)
-      notes:
-        - Papi "Well Hung"
-      links:
-        - https://stashdb.org/scenes/9eee29bf-ece0-4bc1-ab12-c36c840c0c6f
-    - column: X
       id: null
       name: Joe (Papi, 2006)
       notes:
         - '- Papi "Papi Palace"'
         - '- Papi "Pool Party"'
+        - '- Papi "Well Hung"'
+        - Aylo ID is 20274
       links:
         - https://stashdb.org/scenes/68679538-265b-4288-842c-84e3a8fca62f
         - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
-    - column: Y
+        - https://stashdb.org/scenes/9eee29bf-ece0-4bc1-ab12-c36c840c0c6f
+    - column: X
       id: null
       name: Joe (Boys First Time, 2008)
-      notes:
-        - Boys First Time "Good Catch"
+      text: Boys First Time "Good Catch"
       links:
         - https://stashdb.org/scenes/e6d6c86e-af2c-4818-a114-16683f6f3d23
   notes:

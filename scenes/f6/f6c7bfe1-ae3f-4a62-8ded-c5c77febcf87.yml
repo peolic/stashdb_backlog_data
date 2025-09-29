@@ -1,0 +1,23 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: e51e2869-c855-4fee-8201-083606c92e0c
+      name: Maverick
+      appearance: null
+  append:
+    - id: null
+      name: Lexi
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21367/lexi
+    - id: null
+      name: Maverick
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21373/maverick

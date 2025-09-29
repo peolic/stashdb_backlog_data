@@ -1,0 +1,37 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: b8756e18-b1af-456c-8a0d-24ad4f709798
+      name: Luke
+      appearance: null
+    - id: 01a695d8-aef4-46b5-8acf-d1206061b8c1
+      name: Lee
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 7cc845d3-03c5-4278-bddf-665ae4969d11
+      name: Doug
+      appearance: null
+  append:
+    - id: 261b8252-27db-41e1-93b9-c7f4f003dbff
+      name: Luke
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: 90ea0fc0-0094-4039-8a18-02cd646fe29b
+      name: Lee
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
+      name: David
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: null
+      name: Doug
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21771/doug

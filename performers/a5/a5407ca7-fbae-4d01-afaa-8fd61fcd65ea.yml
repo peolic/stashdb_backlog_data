@@ -29,6 +29,8 @@ split:
       id: null
       name: Paul (Papi, 2005)
       text: Papi "Backdoor Bambi"
+      notes:
+        - Aylo ID is 20131
       links:
         - https://stashdb.org/scenes/e2ba527a-dfd9-46b7-afaf-4c4dbcc01100
     - column: V

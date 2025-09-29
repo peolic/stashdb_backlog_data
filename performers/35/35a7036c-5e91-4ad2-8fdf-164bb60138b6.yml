@@ -62,7 +62,7 @@ split:
       id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
       name: David (Papi, 2007)
       notes:
-        - "\x02- \x03\x02Papi \"Banana In Tailpipe\"\x03"
+        - "- \x02Papi \"Banana In Tailpipe\"\x03"
         - '- Papi "House Party Humpers"'
         - '- Papi "Santas Snake"'
         - '- Papi "Double Dick"'

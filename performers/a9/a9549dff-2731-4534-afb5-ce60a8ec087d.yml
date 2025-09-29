@@ -14,6 +14,9 @@ split:
     - column: P
       id: null
       name: Joshua (Papi, 2006)
+      text: Papi "Cock Shots"
+      notes:
+        - Aylo ID is 21713
       links:
         - https://stashdb.org/scenes/fda6fa34-b9c4-4b9c-bd4d-4b5d39ed3737
   notes:
