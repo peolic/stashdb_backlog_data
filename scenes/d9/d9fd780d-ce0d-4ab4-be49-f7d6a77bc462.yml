@@ -9,6 +9,9 @@ performers:
     - id: 1c099692-b081-40f5-8f13-78d638e8c14a
       name: Julio
       appearance: null
+    - id: 99487691-0304-4140-a97b-ce261fbf0f47
+      name: Antonio
+      appearance: null
   append:
     - id: c0598fd2-22fb-4bd2-8ffd-0dead5039bd1
       name: Marc Williams
@@ -20,3 +23,10 @@ performers:
       status: new
       notes:
         - https://www.realitydudes.com/model/20168/julio
+    - id: null
+      name: Antonio
+      appearance: null
+      disambiguation: Papi, 2008
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20166/antonio

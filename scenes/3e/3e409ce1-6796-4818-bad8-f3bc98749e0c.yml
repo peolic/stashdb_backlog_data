@@ -18,10 +18,10 @@ performers:
     - id: 1d5ffc62-057d-4298-a02e-9340faa2539b
       name: Ian
       appearance: null
-    - id: null
+    - id: beac8169-8c4a-4f78-91cf-56ad84f1d0da
       name: Ronald
       appearance: null
-    - id: null
+    - id: bec6612f-7f7f-4dd4-a928-67c339acb6a0
       name: Giovanni
       appearance: null
   append:
@@ -48,3 +48,17 @@ performers:
       name: Ian
       appearance: null
       disambiguation: Papi, 2007
+    - id: null
+      name: Ronald
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21769/ronald
+    - id: null
+      name: Giovanni
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21767/giovanni
