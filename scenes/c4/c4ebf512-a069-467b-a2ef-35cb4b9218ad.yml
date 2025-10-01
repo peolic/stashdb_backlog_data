@@ -13,12 +13,10 @@ performers:
       name: Zachary
       appearance: null
   append:
-    - id: null
+    - id: 8e810401-0f91-4d08-94e0-4bf667c5064f
       name: Robert
       appearance: null
       disambiguation: Dick Dorm, 2011-04
-      status: c
-      status_url: https://stashdb.org/edits/62e60553-516b-41e7-8360-84aaea7076d5
       notes:
         - https://www.realitydudes.com/model/21048/robert
     - id: null
