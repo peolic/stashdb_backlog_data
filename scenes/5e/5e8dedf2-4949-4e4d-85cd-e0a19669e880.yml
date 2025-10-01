@@ -23,7 +23,8 @@ performers:
       name: Allen
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/060638dd-e2ba-48cc-aabf-1b22ee78502f
       notes:
         - https://www.realitydudes.com/model/20959/allen
     - id: c96fc8f9-b24b-4f8b-b53e-789494b27583
@@ -37,14 +38,16 @@ performers:
       name: Cody
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/236c5edc-f514-4663-b173-d7cde7b8084c
       notes:
         - https://www.realitydudes.com/model/20963/cody
     - id: null
       name: Jake
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/703ab871-96e3-4e86-a19d-a2989a59eaee
       notes:
         - https://www.realitydudes.com/model/20967/jake
     - id: 70e5868a-ab57-4b15-a818-8a1cf41478aa
