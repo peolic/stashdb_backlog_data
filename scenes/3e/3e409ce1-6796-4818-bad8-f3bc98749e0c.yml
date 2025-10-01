@@ -41,7 +41,8 @@ performers:
       name: Doug
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/1139a342-bb7f-4614-8afb-5ef6fa46f178
       notes:
         - https://www.realitydudes.com/model/21771/doug
     - id: 97a05af8-ca9f-4ff1-8473-097232801d60
@@ -52,13 +53,15 @@ performers:
       name: Ronald
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/dae42083-969b-45cf-b01e-005134cefce4
       notes:
         - https://www.realitydudes.com/model/21769/ronald
     - id: null
       name: Giovanni
       appearance: null
       disambiguation: Papi, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/17fd9b66-3c91-4000-aa23-ce451042a17f
       notes:
         - https://www.realitydudes.com/model/21767/giovanni
