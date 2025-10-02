@@ -1,0 +1,42 @@
+c_studio:
+  - Dare Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=5716ffb1-ad45-4d6b-ad0d-b30a7e1b743c
+performers:
+  remove:
+    - id: a756da0b-18b9-4747-83d1-233d0eabf9c8
+      name: Alisha
+      appearance: null
+    - id: d74f0ccc-d79f-4617-85da-879b72776765
+      name: Harley
+      appearance: null
+    - id: db3a04b9-a429-4268-9e74-5aaf8ef949c6
+      name: Lindsay
+      appearance: null
+    - id: cafbb8a1-c383-4c68-983f-d35c6dafd8f2
+      name: Natalie
+      appearance: null
+  append:
+    - id: null
+      name: Alisha
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+      notes:
+        - 'Reality Kings affiliate profile: https://realitysitesnetwork.com/pornstars/25150/alisha'
+    - id: null
+      name: Harley
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+    - id: null
+      name: Lindsay
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      status: new
+    - id: null
+      name: Natalie
+      appearance: null
+      disambiguation: Dare Dorm, 2010-10-22
+      status: new

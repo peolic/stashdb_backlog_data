@@ -1,7 +1,7 @@
 split:
   name: Fiona
   fragments: []
-  status: empty - delete performer
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-15)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,0 +1,56 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
+      name: Albert Long
+      appearance: Robert
+    - id: 3348f0ef-5279-42d1-bf0f-161a7eb76b92
+      name: Ricky
+      appearance: null
+    - id: 80429e44-6286-4730-bffd-e918abe7340c
+      name: Miguel
+      appearance: null
+    - id: 98b4cb43-bc98-4c25-b5a0-8933474dac96
+      name: Javier
+      appearance: null
+    - id: d0648f5f-63f7-4f76-b79a-c8ec72380ce8
+      name: Joe
+      appearance: null
+  append:
+    - id: null
+      name: Robert
+      appearance: null
+      disambiguation: Papi, 2006-03-13 & 2007-01-01
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21173/robert
+    - id: null
+      name: Ricky
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21175
+    - id: null
+      name: Miguel
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21171
+    - id: null
+      name: Javier
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21179
+    - id: null
+      name: Joe
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20274
