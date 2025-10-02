@@ -16,35 +16,27 @@ performers:
       name: Paul
       appearance: null
   append:
-    - id: null
+    - id: 5090745b-f982-471f-91d1-368afb2ad5eb
       name: Robert
       appearance: null
       disambiguation: Dick Dorm, 2011-05
-      status: c
-      status_url: https://stashdb.org/edits/224a5f88-7edf-4378-a066-0fc83af921d1
       notes:
         - https://www.realitydudes.com/model/20206/robert
-    - id: null
+    - id: 96ebfeac-1730-4c8b-ac9b-34e07ebf852e
       name: Bruce
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/7f838669-4c65-4ea5-964c-fdc7f5b009d7
       notes:
         - https://www.realitydudes.com/model/20204/bruce
-    - id: null
+    - id: 8e9d947a-e908-4905-8948-dae1f6459255
       name: Jordan
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/10c50341-8a6a-496e-aec3-bf172a74c0e2
       notes:
         - https://www.realitydudes.com/model/20210/jordan
-    - id: null
+    - id: a7733b5a-3c05-4ae5-85c3-4c300673c6a7
       name: Paul
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/5c9b65ae-4845-4cac-968e-7ad8379797f6
       notes:
         - https://www.realitydudes.com/model/20208/paul

@@ -10,19 +10,15 @@ performers:
       name: Greg
       appearance: null
   append:
-    - id: null
+    - id: c7009cae-bc17-4bdd-9d59-46286876fab7
       name: Travis
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/09822788-a382-4e6f-9391-a69cfa01bbbe
       notes:
         - https://www.realitydudes.com/model/21841/travis
-    - id: null
+    - id: f6b1f5bd-c512-433c-9781-0a4ccbeea75a
       name: Greg
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/7420f751-96f3-41fa-b8da-4c1d08a15b83
       notes:
         - https://www.realitydudes.com/model/21835/greg
