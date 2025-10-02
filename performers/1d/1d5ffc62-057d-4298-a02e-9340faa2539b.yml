@@ -6,12 +6,11 @@ split:
       name: Ian (Papi, 2007)
       notes:
         - '- Papi "Sword Fight"'
-        - '- Papi "Double Dick"'
+        - "- \x02Papi \"Double Dick\"\x03"
         - "- \x02Papi \"Banana In Tailpipe\"\x03"
       links:
         - https://www.realitydudes.com/model/21723/ian
         - https://stashdb.org/scenes/39cfc1e3-89ce-43f7-b06b-27c4d363719c
-        - https://stashdb.org/scenes/3e409ce1-6796-4818-bad8-f3bc98749e0c
     - column: M
       id: null
       name: Ian (Boys First Time, 2007)

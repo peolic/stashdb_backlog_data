@@ -3,12 +3,19 @@ c_studio:
   - null
 comments:
   - https://www.iafd.com/title.rme/id=02b5e7c2-c405-48ed-8b92-a8b3bd20ebcd
+  - https://www.realitydudes.com/scene/2837391/game-of-dicks
 performers:
   remove:
     - id: 23d310ac-ff5e-4ebc-b97c-8aa5e41eb7f5
       name: Van
       appearance: null
       disambiguation: TugPass
+    - id: 6187fc92-83c0-482b-a464-aee0bfc576f7
+      name: Adam
+      appearance: null
+    - id: f8282c6b-d9ad-486d-b9b5-8ee6c74b165d
+      name: Santiago
+      appearance: null
   append:
     - id: null
       name: Van
@@ -17,3 +24,17 @@ performers:
       status: new
       notes:
         - https://www.realitydudes.com/model/20318/van
+    - id: null
+      name: Adam
+      appearance: null
+      disambiguation: Dick Dorm, 2013
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20775/adam
+    - id: null
+      name: Santiago
+      appearance: null
+      disambiguation: Dick Dorm, 2013
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20777/santiago

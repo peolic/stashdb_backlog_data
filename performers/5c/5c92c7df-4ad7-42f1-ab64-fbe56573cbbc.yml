@@ -1,13 +1,6 @@
 split:
   name: Jeremiah
-  fragments:
-    - column: J
-      id: c7ab3ce6-0719-4107-86cd-6f6695a83e39
-      name: Elijah Essex aka Jeremiah (Dick Dorm, 2013)
-      text: Dick Dorm "I Will If You Will"
-      links:
-        - https://www.realitydudes.com/model/21263/jeremiah
-        - https://stashdb.org/scenes/e8ed026f-c45e-4117-8b41-8864a0ce065d
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-09-27)

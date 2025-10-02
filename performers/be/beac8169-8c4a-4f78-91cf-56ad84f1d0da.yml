@@ -1,13 +1,6 @@
 split:
   name: Ronald
-  fragments:
-    - column: J
-      id: 9cbfaaf6-9ab6-4262-9c2a-90fb76d0a90a
-      name: Ronald (Papi, 2007)
-      text: Papi "Double Dick"
-      links:
-        - https://www.realitydudes.com/model/21769/ronald
-        - https://stashdb.org/scenes/3e409ce1-6796-4818-bad8-f3bc98749e0c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)

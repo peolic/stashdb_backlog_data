@@ -4,22 +4,13 @@ split:
     - column: L
       id: null
       name: Cody (Boys First Time, 2015)
-      notes:
-        - '- Boys First Time "Tasting Cody"'
+      text: Boys First Time "Tasting Cody"
       links:
         - https://stashdb.org/scenes/d088a306-a39b-4be5-9dc6-f92035a7833e
-    - column: M
-      id: e73e1aec-754d-4293-a8e5-c3ceef7bdaa4
-      name: Cody (Dick Dorm, 2012)
-      notes:
-        - '- Dick Dorm "Its Not Gay"'
-      links:
-        - https://stashdb.org/scenes/5e8dedf2-4949-4e4d-85cd-e0a19669e880
     - column: N
       id: null
       name: Cody (Dick Dorm, 2011)
-      notes:
-        - '- Dick Dorm "Haze And Confused"'
+      text: Dick Dorm "Haze And Confused"
       links:
         - https://stashdb.org/scenes/7f6751ce-7f80-49e6-9da0-3c63ae895ee0
   notes:

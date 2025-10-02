@@ -33,12 +33,6 @@ split:
         - Aylo ID is 20131
       links:
         - https://stashdb.org/scenes/e2ba527a-dfd9-46b7-afaf-4c4dbcc01100
-    - column: V
-      id: a7733b5a-3c05-4ae5-85c3-4c300673c6a7
-      name: Paul (Dick Dorm, 2011)
-      text: Dick Dorm "Feel Me"
-      links:
-        - https://stashdb.org/scenes/b26eaee1-8573-43e1-970f-5a9039bb031d
     - column: W
       id: null
       name: Paul (2013, Sell Your GF)

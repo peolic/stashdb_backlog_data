@@ -1,19 +1,13 @@
 split:
   name: Maverick
   fragments:
-    - column: K
-      id: 661bc4d6-2c3a-40d7-995c-26863f224670
-      name: Maverick (Papi, 2007)
-      text: Papi "Pepe Dulce"
-      links:
-        - https://www.realitydudes.com/model/21373/maverick
-        - https://stashdb.org/scenes/f6c7bfe1-ae3f-4a62-8ded-c5c77febcf87
     - column: M
       id: null
       name: Maverick (Boys First Time, 2015)
       text: Boys First Time "Long And Hard"
       links:
         - https://stashdb.org/scenes/29750f60-1ea6-4fa6-873d-99a4aa165b2e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,16 +1,7 @@
 split:
   name: Will
-  fragments:
-    - column: Q
-      id: 49784ae3-c8ff-4bd4-96c2-42b02f95ab76
-      name: Will (Dick Dorm, 2013)
-      text: Dick Dorm "I Will If You Will"
-      notes:
-        - Dick Dorm 9, Scene 4
-      links:
-        - https://stashdb.org/scenes/e8ed026f-c45e-4117-8b41-8864a0ce065d
-        - https://www.iafd.com/title.rme/id=9d6e68d2-82c0-426f-8ad4-a57862ab9b8d
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

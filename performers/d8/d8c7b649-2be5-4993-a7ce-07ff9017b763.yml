@@ -1,13 +1,7 @@
 split:
   name: Marc
-  fragments:
-    - column: L
-      id: c0598fd2-22fb-4bd2-8ffd-0dead5039bd1
-      name: Marc Williams AKA Marc (Papi, 2008)
-      text: Papi "Testicle Seduction"
-      links:
-        - https://stashdb.org/scenes/d9fd780d-ce0d-4ab4-be49-f7d6a77bc462
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

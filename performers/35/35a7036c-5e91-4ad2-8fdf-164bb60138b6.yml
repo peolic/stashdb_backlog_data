@@ -65,12 +65,11 @@ split:
         - "- \x02Papi \"Banana In Tailpipe\"\x03"
         - '- Papi "House Party Humpers"'
         - '- Papi "Santas Snake"'
-        - '- Papi "Double Dick"'
+        - "- \x02Papi \"Double Dick\"\x03"
       links:
         - https://www.realitydudes.com/model/20438/david
         - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
         - https://stashdb.org/scenes/d03c8ce7-bf96-420a-b8cf-596f55e3a0a9
-        - https://stashdb.org/scenes/3e409ce1-6796-4818-bad8-f3bc98749e0c
   notes:
     - Mix of multiple performers (complete list as of 2025-03-30)
     - Best to move scenes and delete performer, rather than merging or renaming.
