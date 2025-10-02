@@ -17,13 +17,15 @@ split:
         - https://www.iafd.com/title.rme/id=8926d78d-fb6a-47b5-8929-4a73d7c5fbeb
     - column: M
       id: null
-      name: '- Dick Dorm "Take It"'
+      name: Timothy (Dick Dorm, 2011-08)
+      text: Dick Dorm "Take It"
       links:
         - https://stashdb.org/scenes/819fc052-77c0-4595-92df-78bdb4cb9701
         - https://www.iafd.com/title.rme/id=97a79dd3-04d7-48cf-b533-66418fd4be1f
     - column: N
-      id: null
-      name: '- Dick Dorm "Head Games"'
+      id: d27ee85f-106e-4f24-b5cc-6460b3b2c2b8
+      name: Timothy (Dick Dorm, 2011-04)
+      text: Dick Dorm "Head Games"
       links:
         - https://stashdb.org/scenes/c4ebf512-a069-467b-a2ef-35cb4b9218ad
         - https://www.iafd.com/title.rme/id=aa3df809-1c1a-468e-b31d-130a0b229d0e
