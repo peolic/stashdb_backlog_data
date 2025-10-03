@@ -26,12 +26,6 @@ split:
       text: Dick Dorm "Lets Hear It"
       links:
         - https://stashdb.org/scenes/029e1aaa-48d0-4a94-980b-076fdc381030
-    - column: R
-      id: null
-      name: Martin (2006, Boys First Time)
-      text: Boys First Time "Slithering Swords"
-      links:
-        - https://stashdb.org/scenes/bb299ce3-8754-4f46-abdb-f98cbf6acf64
   notes:
     - Mix of multiple performers (complete list as of 2025-08-21)
     - Best to move scenes and delete performer, rather than merging or renaming.
