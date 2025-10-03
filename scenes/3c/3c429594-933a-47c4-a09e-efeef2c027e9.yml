@@ -1,0 +1,23 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 84a302b2-91b8-45b6-92a5-ad26cea44f50
+      name: Hayden
+      appearance: null
+    - id: cdf0da7d-b02f-42a8-8090-6065a35b8267
+      name: Robbie
+      appearance: null
+      disambiguation: Sean Cody, 2015
+  append:
+    - id: null
+      name: Hayden
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+    - id: null
+      name: Robbie
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new

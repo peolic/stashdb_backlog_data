@@ -1,0 +1,14 @@
+c_studio:
+  - Gay Revenge
+  - null
+performers:
+  remove:
+    - id: 49bb480c-5632-45b7-acff-0381f08f7508
+      name: Dominic
+      appearance: null
+  append:
+    - id: null
+      name: Dominic
+      appearance: null
+      disambiguation: Gay Revenge, 2012
+      status: new

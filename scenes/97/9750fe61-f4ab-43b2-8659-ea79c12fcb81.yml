@@ -6,7 +6,7 @@ performers:
     - id: 1b507881-8521-4897-a754-3d3a48113de6
       name: Dennis
       appearance: null
-    - id: null
+    - id: b6762740-76f3-48ba-9440-b7ba6863bd3c
       name: Jake
       appearance: null
   append:
@@ -17,3 +17,10 @@ performers:
       status: new
       notes:
         - https://www.themoviedb.org/person/4995818-dennis
+    - id: null
+      name: Jake
+      appearance: null
+      disambiguation: Boys First Time, 2013
+      status: new
+      notes:
+        - https://www.themoviedb.org/person/4995821-jake
