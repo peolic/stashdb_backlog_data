@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 5a44d68a-6feb-4788-80e9-3101d5410cee
+      name: Casey
+      appearance: null
+    - id: 6545429d-2bff-4d8a-8979-a47916bf7875
+      name: Dani
+      appearance: null
+  append:
+    - id: null
+      name: Casey
+      appearance: null
+      disambiguation: Boys First Time, 2005
+      status: new
+    - id: null
+      name: Dani
+      appearance: null
+      disambiguation: Boys First Time, 2005
+      status: new

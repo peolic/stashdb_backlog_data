@@ -1,0 +1,16 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.data18.com/scenes/1184787
+performers:
+  remove:
+    - id: dc8a243d-d411-41af-b48e-17ca742ecae6
+      name: Charlie
+      appearance: null
+  append:
+    - id: null
+      name: Charlie
+      appearance: null
+      disambiguation: GF Revenge, 2010
+      status: new

@@ -1,0 +1,56 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: f35ed6a2-8113-4639-9e5a-9b952051b78b
+      name: Angel
+      appearance: null
+    - id: 2e1a3250-61a6-4b40-9d0b-183f1f0ecfb0
+      name: George
+      appearance: null
+    - id: 7c82803f-d0b5-4b8b-9233-13dd75e7f65c
+      name: Jonathan
+      appearance: null
+    - id: f67cc677-30b2-4446-b358-2b5f18c17517
+      name: Juan
+      appearance: null
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+  append:
+    - id: null
+      name: Angel
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21185/angel
+    - id: null
+      name: George
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20272
+    - id: null
+      name: Jonathan
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21499
+    - id: null
+      name: Juan
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21491
+    - id: null
+      name: Richard
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21183/richard

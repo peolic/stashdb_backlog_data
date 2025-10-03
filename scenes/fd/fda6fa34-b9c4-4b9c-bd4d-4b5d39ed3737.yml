@@ -1,0 +1,73 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: f35ed6a2-8113-4639-9e5a-9b952051b78b
+      name: Angel
+      appearance: null
+    - id: 1ed9467c-80ea-4dff-bd2d-a048bce65e7b
+      name: Charles
+      appearance: null
+    - id: 1c8e83ee-fc37-4e66-855a-5481b3ce401e
+      name: Corey
+      appearance: null
+    - id: a9549dff-2731-4534-afb5-ce60a8ec087d
+      name: Joshua
+      appearance: null
+    - id: e81305cc-24bd-401e-b2fe-4c3c994f87a5
+      name: Justin
+      appearance: null
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+    - id: 4c42ddf9-90cf-4628-933d-a8d3991fb951
+      name: Albert Long
+      appearance: Robert
+  append:
+    - id: null
+      name: Angel
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21185/angel
+    - id: null
+      name: Charles
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21711
+    - id: ae7f7e12-7e27-4690-b471-071db576b699
+      name: Corey
+      appearance: null
+      disambiguation: Papi, 2006
+    - id: null
+      name: Joshua
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21713
+    - id: null
+      name: Justin
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21715
+    - id: null
+      name: Richard
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21183/richard
+    - id: null
+      name: Robert
+      appearance: null
+      disambiguation: Papi, 2006-08-14
+      status: new
+      notes:
+        - Aylo ID is 21717

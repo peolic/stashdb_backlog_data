@@ -1,0 +1,67 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: f35ed6a2-8113-4639-9e5a-9b952051b78b
+      name: Angel
+      appearance: null
+    - id: fb9fdaec-92a4-426c-b2c8-5647b3e7ac24
+      name: Dante
+      appearance: null
+    - id: 17dd9858-07f7-458c-b1a1-e9a7bdb1c5f2
+      name: Melanie
+      appearance: null
+    - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
+      name: Michael
+      appearance: null
+    - id: 0c292395-7bcc-4187-b433-706418a4a851
+      name: Phillip
+      appearance: null
+    - id: 3dcaaef7-3c4b-4dc7-873a-3e8c936a753b
+      name: Sasha
+      appearance: null
+  append:
+    - id: null
+      name: Angel
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20885/angel
+    - id: null
+      name: Dante
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20889/dante
+    - id: null
+      name: Melanie
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20891/melanie
+    - id: null
+      name: Michael
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20899/michael
+    - id: null
+      name: Phillip
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20893/phillip
+    - id: null
+      name: Sasha
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20895/sasha
+        - 'Possibly: https://realitysitesnetwork.com/pornstars/20895/sasha'
