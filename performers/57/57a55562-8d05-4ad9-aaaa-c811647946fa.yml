@@ -1,13 +1,7 @@
 split:
   name: Kendall
-  fragments:
-    - column: Q
-      id: null
-      name: Kendall (2008, Boys First Time)
-      text: Boys First Time "Dick Flick"
-      links:
-        - https://stashdb.org/scenes/dc12a9b3-3c6f-4494-85ab-f0a5907a51cd
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

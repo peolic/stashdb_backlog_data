@@ -2,11 +2,9 @@ split:
   name: Hayden
   fragments:
     - column: K
-      id: null
-      name: Hayden (Boys First Time, 2004)
-      notes:
-        - Boys First Time "Butter Balls"
-        - Other performer "Robie" is also incorrect, needs to be split
+      id: e83b6f52-a36f-406d-bea0-88683c6c1d58
+      name: Hayden James (2004 - 2009) AKA Hayden (Boys First Time, 2004)
+      text: Boys First Time "Butter Balls"
       links:
         - https://stashdb.org/scenes/3c429594-933a-47c4-a09e-efeef2c027e9
   status: single fragment remains

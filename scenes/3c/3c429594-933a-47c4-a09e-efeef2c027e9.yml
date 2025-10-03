@@ -1,6 +1,8 @@
 c_studio:
   - Boys First Time
   - null
+comments:
+  - 'Same as Gay Blind Date Sex: Hayden and Robbie'
 performers:
   remove:
     - id: 84a302b2-91b8-45b6-92a5-ad26cea44f50
@@ -11,13 +13,11 @@ performers:
       appearance: null
       disambiguation: Sean Cody, 2015
   append:
+    - id: e83b6f52-a36f-406d-bea0-88683c6c1d58
+      name: Hayden James
+      appearance: Hayden
     - id: null
-      name: Hayden
-      appearance: null
-      disambiguation: Boys First Time, 2004
+      name: Robbie Owens
+      appearance: Robbie
       status: new
-    - id: null
-      name: Robbie
-      appearance: null
-      disambiguation: Boys First Time, 2004
-      status: new
+      status_url: https://www.iafd.com/person.rme/id=20ac28b8-4d2b-4f1e-9e44-63151b6eab88
