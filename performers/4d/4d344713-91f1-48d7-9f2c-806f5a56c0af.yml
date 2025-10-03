@@ -1,13 +1,7 @@
 split:
   name: Scott
-  fragments:
-    - column: P
-      id: null
-      name: Scott (Boys First Time, 2008)
-      text: Boys First Time "All By Myself"
-      links:
-        - https://stashdb.org/scenes/16863718-6f92-4fe9-9fa2-dc0748d1616d
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.
