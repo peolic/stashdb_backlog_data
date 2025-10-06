@@ -1,20 +1,13 @@
 split:
   name: Giovanni
   fragments:
-    - column: K
-      id: null
-      name: Giovanni (Boys First Time, 2013)
-      text: Boys First Time "Wood Work"
-      notes:
-        - Top with the tattoos
-      links:
-        - https://stashdb.org/scenes/25c628ae-7f15-4488-b659-e06e006967d5
     - column: M
       id: null
       name: Giovanni (Boys First Time, 2003)
       text: Boys First Time "Pole Pulling"
       links:
         - https://stashdb.org/scenes/3bf9cf7f-5286-4bce-a93d-f0c7ed6c1c7e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
