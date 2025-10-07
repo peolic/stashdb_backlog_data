@@ -1,0 +1,15 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: 1a160615-c925-40a9-8f40-110a34f86969
+      name: Austin
+      appearance: null
+  append:
+    - id: null
+      name: Jeff
+      appearance: Austin
+      disambiguation: Platinum Media, 2007
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2a03f29a-a2b5-400f-8dba-257e3af424ca

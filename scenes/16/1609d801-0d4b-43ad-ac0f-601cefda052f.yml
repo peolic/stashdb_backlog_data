@@ -1,0 +1,16 @@
+c_studio:
+  - Casual Teen Sex
+  - null
+performers:
+  remove:
+    - id: b4e6e18c-5516-44d2-a5a3-35b8fd797eb2
+      name: Artur
+      appearance: null
+  append:
+    - id: null
+      name: Artur
+      appearance: null
+      disambiguation: 2015, Young Liberties/Casual Teen Sex
+      status: new
+      notes:
+        - https://stashdb.org/images/3b12d5a1-8886-476c-b0e0-1a7af68f4577

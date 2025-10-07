@@ -1,0 +1,26 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #34, Scene #3'
+performers:
+  remove:
+    - id: c1642f14-4b17-4e4b-84af-372195a65d1c
+      name: Betty
+      appearance: null
+    - id: 065cd9c0-76c4-402b-8b93-b7fc7a3bffc4
+      name: Steve
+      appearance: null
+  append:
+    - id: null
+      name: Betty
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
+      notes:
+        - https://cdn.stashdb.org/images/e4/7e/e47eb50f-d5b4-4c17-aa15-7b259fe22e53
+    - id: null
+      name: Steve
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
