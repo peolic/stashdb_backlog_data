@@ -1,0 +1,18 @@
+c_studio:
+  - VIP Crew
+  - null
+performers:
+  remove:
+    - id: 831a46c2-3d2e-445b-ad91-ca8e8e5aa44a
+      name: Alyssa
+      appearance: null
+  append:
+    - id: null
+      name: Alyssa
+      appearance: null
+      disambiguation: VIP Crew, 2006
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=45da811a-d11e-4e77-88af-f8c6f29ad184
+      notes:
+        - https://www.indexxx.com/m/alyssa-4
+        - Picture at IAFD is not correct, do not use it
