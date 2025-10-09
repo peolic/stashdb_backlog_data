@@ -8,7 +8,7 @@ performers:
     - id: 079d02af-1fe2-4895-a9a4-bf69204cffef
       name: Dick
       appearance: null
-    - id: null
+    - id: c30ef2a8-65cf-4416-aba1-cac09f6baaec
       name: Nicole
       appearance: null
   append:
@@ -24,3 +24,5 @@ performers:
       appearance: null
       disambiguation: 2007, V9
       status: new
+      notes:
+        - Girl on the scene cover

@@ -1,0 +1,26 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #2, Scene #1'
+performers:
+  remove:
+    - id: 0b2a9433-b680-4ddc-ba96-cec61920c64f
+      name: Dina
+      appearance: null
+    - id: 065cd9c0-76c4-402b-8b93-b7fc7a3bffc4
+      name: Steve
+      appearance: null
+  append:
+    - id: null
+      name: Dina
+      appearance: null
+      disambiguation: 2004, V9
+      status: new
+      notes:
+        - https://cdn.stashdb.org/images/8f/e3/8fe3be52-f89f-4058-9258-f7c0271add65
+    - id: null
+      name: Steve
+      appearance: null
+      disambiguation: 2004, V9
+      status: new
