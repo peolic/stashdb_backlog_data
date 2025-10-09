@@ -1,0 +1,16 @@
+c_studio:
+  - Trick Your GF
+  - null
+performers:
+  remove:
+    - id: 7e48b772-655e-405d-b269-d80e38b1aa54
+      name: Frank
+      appearance: null
+  append:
+    - id: null
+      name: Frank
+      appearance: null
+      disambiguation: 2014, Trick Your GF
+      status: new
+      notes:
+        - https://stashdb.org/images/d53fc70e-5c9d-44d1-84a0-53cc62cfe57a

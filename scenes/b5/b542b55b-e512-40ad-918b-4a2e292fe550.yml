@@ -1,0 +1,16 @@
+c_studio:
+  - Trick Your GF
+  - null
+performers:
+  remove:
+    - id: 45fa809d-9b15-4928-b495-c064487bc955
+      name: Egor
+      appearance: null
+  append:
+    - id: null
+      name: Egor
+      appearance: null
+      disambiguation: 2014, Trick Your GF
+      status: new
+      notes:
+        - https://stashdb.org/images/943d89a2-92db-43a6-8a9e-68d5f1c46ff5

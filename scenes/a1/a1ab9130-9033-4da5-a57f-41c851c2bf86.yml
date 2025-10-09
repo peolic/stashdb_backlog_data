@@ -1,0 +1,16 @@
+c_studio:
+  - Trick Your GF
+  - null
+performers:
+  remove:
+    - id: d1efd156-4241-451f-8201-789ac01607e4
+      name: Hugo
+      appearance: null
+  append:
+    - id: null
+      name: Hugo
+      appearance: null
+      disambiguation: 2015, Trick Your GF
+      status: new
+      notes:
+        - https://stashdb.org/images/4c4004ec-56ab-4597-9e8e-96041acfdd9a
