@@ -1,0 +1,67 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: dae7d096-105b-4a8e-8cf7-0b684d7dd1e4
+      name: Allen
+      appearance: null
+    - id: 88785ec1-b17f-4c7b-b3a0-0f4747319882
+      name: Bruce
+      appearance: null
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 7e48b772-655e-405d-b269-d80e38b1aa54
+      name: Frank
+      appearance: null
+    - id: 9d20277a-1ada-40da-95c6-89802e9eaa55
+      name: Benjamin
+      appearance: null
+    - id: 01a695d8-aef4-46b5-8acf-d1206061b8c1
+      name: Lee
+      appearance: null
+    - id: 8d9f5e14-8f7c-4e8a-a631-237c7968f292
+      name: Joseph
+      appearance: null
+  append:
+    - id: null
+      name: Allen
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20450/allen
+    - id: null
+      name: Bruce
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20458/bruce
+    - id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
+      name: David
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: null
+      name: Frank
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20446/frank
+    - id: 90d836ee-708b-472e-83b8-7397f0108c78
+      name: Benjamin
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: 90ea0fc0-0094-4039-8a18-02cd646fe29b
+      name: Lee
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: null
+      name: Joseph
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20460/joseph

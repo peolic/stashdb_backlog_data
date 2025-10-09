@@ -1,0 +1,34 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: 63a4c394-cb34-46d7-8292-eb1dcab739fc
+      name: Christopher
+      appearance: null
+    - id: ba84ae85-7553-4ad0-baba-72fedfcc8783
+      name: Gene
+      appearance: null
+      disambiguation: Sean Cody
+    - id: 1d5ffc62-057d-4298-a02e-9340faa2539b
+      name: Ian
+      appearance: null
+  append:
+    - id: null
+      name: Christopher
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - Aylo ID is 21729
+    - id: null
+      name: Gene
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - Aylo ID is 21727
+    - id: 97a05af8-ca9f-4ff1-8473-097232801d60
+      name: Ian
+      appearance: null
+      disambiguation: Papi, 2007

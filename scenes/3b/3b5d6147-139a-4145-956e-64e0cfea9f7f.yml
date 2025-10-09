@@ -1,0 +1,26 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove:
+    - id: 1c3b23ff-9ad7-491f-a665-c8574c871539
+      name: Den
+      appearance: null
+    - id: e2e86448-2b9a-4948-bb31-fac5db60fd08
+      name: Curtis
+      appearance: null
+  append:
+    - id: null
+      name: Den
+      appearance: null
+      disambiguation: 2012, 18videoz
+      status: new
+      notes:
+        - https://cdn.stashdb.org/images/f8/57/f85787ef-7cad-4683-8eb3-6f228e17651d
+    - id: null
+      name: Curtis
+      appearance: null
+      disambiguation: 18videoz, 2012
+      status: new
+      notes:
+        - https://stashdb.org/images/809709ea-51e4-4264-9c66-333c762cbd48

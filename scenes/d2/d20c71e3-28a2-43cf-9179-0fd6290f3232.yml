@@ -1,0 +1,26 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #16, Scene #2'
+performers:
+  remove:
+    - id: 079d02af-1fe2-4895-a9a4-bf69204cffef
+      name: Dick
+      appearance: null
+    - id: null
+      name: Nicole
+      appearance: null
+  append:
+    - id: null
+      name: Dick
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
+      notes:
+        - https://stashdb.org/images/07e5be2c-35a9-43a1-ab70-2dd22634995c
+    - id: null
+      name: Nicole
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
