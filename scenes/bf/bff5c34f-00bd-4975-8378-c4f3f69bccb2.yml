@@ -1,0 +1,17 @@
+c_studio:
+  - Insex (1997-2005)
+  - null
+comments:
+  - Seems like the incorrect performer was tagged in this scene.
+  - Sage from insex and Aliana Cox appear to have the same tattoo on right calf.
+  - http://www.insexarchives.com/blog/wp-content/uploads/2013/01/sage_06_12.jpg
+performers:
+  remove:
+    - id: f0c5d915-deb1-4b0e-95c0-05f0b477e6b8
+      name: '322'
+      appearance: null
+      disambiguation: Insex
+  append:
+    - id: 37d609cc-7076-482d-b52a-5b5ee14b8d8d
+      name: Aliana Cox
+      appearance: Sage
