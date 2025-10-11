@@ -4,7 +4,9 @@ split:
     - column: I
       id: 12cb7013-d5ed-49ad-b2d7-fbed11670594
       name: Calvin (Sean Cody 2010)
-      text: Sean Cody
+      text: 'most scenes:'
+      notes:
+        - '- Sean Cody'
     - column: J
       id: null
       name: Calvin Lyne AKA Calvin (Boys First Time, 2008)
