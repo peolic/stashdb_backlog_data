@@ -3,3 +3,15 @@ fingerprints:
     hash: 878778f8f8b88383
     correct_scene_id: c7d64674-4f36-4f2f-80db-5ba82ddcb03a
     duration: 3193
+  - algorithm: oshash
+    hash: 3298da0a2aa789ab
+    correct_scene_id: c7d64674-4f36-4f2f-80db-5ba82ddcb03a
+    duration: 3193
+  - algorithm: phash
+    hash: add60756f88307a9
+    correct_scene_id: null
+    duration: 57
+  - algorithm: oshash
+    hash: f85b2d36bc60cd43
+    correct_scene_id: null
+    duration: 57
