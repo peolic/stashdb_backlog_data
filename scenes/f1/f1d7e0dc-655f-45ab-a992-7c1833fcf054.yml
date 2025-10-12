@@ -11,5 +11,7 @@ performers:
       name: Jeff
       appearance: Austin
       disambiguation: Platinum Media, 2007
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2a03f29a-a2b5-400f-8dba-257e3af424ca
+      status: c
+      status_url: https://stashdb.org/edits/dde5e9a5-5eea-41c7-b484-fd5fb4b3f18f
+      notes:
+        - https://www.iafd.com/person.rme/id=2a03f29a-a2b5-400f-8dba-257e3af424ca

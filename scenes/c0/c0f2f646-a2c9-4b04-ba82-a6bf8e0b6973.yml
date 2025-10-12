@@ -16,11 +16,13 @@ performers:
       name: Betty
       appearance: null
       disambiguation: 2007, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/2545e299-4b8c-4cd3-a358-a244672602c4
       notes:
         - https://cdn.stashdb.org/images/e4/7e/e47eb50f-d5b4-4c17-aa15-7b259fe22e53
     - id: null
       name: Steve
       appearance: null
       disambiguation: 2007, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/6f9db106-b00e-44e7-818f-5460e987555b

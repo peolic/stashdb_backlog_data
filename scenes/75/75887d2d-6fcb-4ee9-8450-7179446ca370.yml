@@ -13,5 +13,7 @@ performers:
       name: Christie
       appearance: Christy
       disambiguation: 2005, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=0dcd023b-615f-4220-bc77-1ca6411476ed
+      status: c
+      status_url: https://stashdb.org/edits/85d148a4-f963-4e98-9c0e-c4e793563382
+      notes:
+        - https://www.iafd.com/person.rme/id=0dcd023b-615f-4220-bc77-1ca6411476ed

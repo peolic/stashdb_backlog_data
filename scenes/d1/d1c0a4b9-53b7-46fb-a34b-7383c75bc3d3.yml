@@ -16,10 +16,13 @@ performers:
       name: Janelle
       appearance: Deb
       disambiguation: 2007, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=eae469eb-ace4-41b5-92ec-ec95c65bf191
+      status: c
+      status_url: https://stashdb.org/edits/1f7c8395-e1cc-4d20-8c4c-fecea0349283
+      notes:
+        - https://www.iafd.com/person.rme/id=eae469eb-ace4-41b5-92ec-ec95c65bf191
     - id: null
       name: Martin
       appearance: null
       disambiguation: 2007, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/3078fd33-8ca2-4125-b12f-22c167d8897a
