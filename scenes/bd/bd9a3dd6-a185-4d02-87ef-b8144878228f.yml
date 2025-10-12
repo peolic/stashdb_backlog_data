@@ -8,11 +8,21 @@ performers:
     - id: ad5a522a-ec35-4e4c-82c7-13ceed1e071f
       name: Emilia
       appearance: null
+    - id: 2f27a445-47af-4865-b221-4012d578eb9a
+      name: Jena
+      appearance: null
   append:
     - id: null
       name: Dorothy
       appearance: Emilia
       disambiguation: 2007, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/8b56cf26-337f-4390-b66d-1578803cd2a1
       notes:
         - https://cdn.stashdb.org/images/c2/7f/c27f49f5-b833-49d8-8c4f-041e8e0ec648
+    - id: null
+      name: Jena
+      appearance: null
+      disambiguation: 2007, V9
+      status: c
+      status_url: https://stashdb.org/edits/b6170b5e-40b0-4702-90f6-9284c46e351f

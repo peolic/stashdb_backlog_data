@@ -17,9 +17,11 @@ performers:
       name: Autumn
       appearance: Elvira
       disambiguation: Dirty D Production
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/7b1000df-d886-4a0a-8169-dff7e1d91c81
     - id: null
       name: Eddie
       appearance: null
       disambiguation: 2004, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/cc4fbd69-ae6f-4f2f-ad6f-17086f99c797

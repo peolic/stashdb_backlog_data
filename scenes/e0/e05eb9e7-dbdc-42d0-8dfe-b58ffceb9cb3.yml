@@ -13,5 +13,7 @@ performers:
       name: Chad
       appearance: Jacob
       disambiguation: 2004, V9
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=fe489760-53f4-4e25-882f-d2bf7bb4efb6
+      status: c
+      status_url: https://stashdb.org/edits/21b64c33-3338-4cc8-89f4-333449c32198
+      notes:
+        - https://www.iafd.com/person.rme/id=fe489760-53f4-4e25-882f-d2bf7bb4efb6

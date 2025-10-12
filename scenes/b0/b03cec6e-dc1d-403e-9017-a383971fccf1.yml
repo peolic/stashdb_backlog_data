@@ -16,13 +16,15 @@ performers:
       name: Belle
       appearance: Helen
       disambiguation: ATKingdom, bel019
-      status: new
-      status_url: https://www.indexxx.com/m/belle-4
+      status: c
+      status_url: https://stashdb.org/edits/0349669f-cbcc-4db8-af03-4d1fd2f4ce35
       notes:
+        - https://www.indexxx.com/m/belle-4
         - https://www.thenude.com/_34938.htm
         - https://www.atkarchives.com/tour/model/bel019
     - id: null
       name: Victor
       appearance: null
       disambiguation: 2007, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/b689216c-29b9-43e5-bb22-a69f7ef65648

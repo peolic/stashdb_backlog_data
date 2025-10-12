@@ -16,11 +16,13 @@ performers:
       name: Dina
       appearance: null
       disambiguation: 2004, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/ff03f700-3914-4930-984c-c9aa725baae0
       notes:
         - https://cdn.stashdb.org/images/8f/e3/8fe3be52-f89f-4058-9258-f7c0271add65
     - id: null
       name: Steve
       appearance: null
       disambiguation: 2004, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/scenes/48216c26-b7d2-4c67-968c-15a133d9531a
