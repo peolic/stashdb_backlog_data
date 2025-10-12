@@ -1,6 +1,8 @@
 c_studio:
   - Girls Next Door Abused
   - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #3, Scene #1'
 performers:
   remove:
     - id: 150ef0f3-1cff-4a7c-b8b0-0729300c2608
@@ -20,4 +22,5 @@ performers:
       name: Ben
       appearance: null
       disambiguation: 2005, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/cd02d996-6007-42ee-a93a-b45f07aae035

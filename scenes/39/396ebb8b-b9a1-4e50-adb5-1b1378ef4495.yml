@@ -23,7 +23,8 @@ performers:
       name: Robert
       appearance: null
       disambiguation: Papi, 2006-03-13 & 2007-01-01
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/d8c92b1f-9300-4b38-b98d-f871e0dc31df
       notes:
         - https://www.realitydudes.com/model/21173/robert
     - id: null

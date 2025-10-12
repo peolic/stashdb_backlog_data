@@ -26,14 +26,16 @@ performers:
       name: Angel
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/fc930e75-3d90-4a46-9c08-a118e9d7d0c0
       notes:
         - https://www.realitydudes.com/model/20885/angel
     - id: null
       name: Dante
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/55f900a0-6743-4789-b802-425db9f6a441
       notes:
         - https://www.realitydudes.com/model/20889/dante
     - id: null

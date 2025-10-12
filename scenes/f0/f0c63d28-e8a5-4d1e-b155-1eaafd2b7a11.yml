@@ -1,0 +1,28 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #13, Scene #1'
+performers:
+  remove:
+    - id: 79f7049c-493b-4389-b3b3-b90e856cedc6
+      name: Jane
+      appearance: null
+    - id: c2ca1493-4c81-4241-a9c7-c47c7c05c971
+      name: Jay
+      appearance: null
+  append:
+    - id: null
+      name: Jen
+      appearance: Jane
+      disambiguation: 2007, V9
+      status: new
+      notes:
+        - Female performer on scene covers
+    - id: null
+      name: Jay
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
+      notes:
+        - Male performer on the scene cover
