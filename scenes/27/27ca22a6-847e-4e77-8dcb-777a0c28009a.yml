@@ -13,12 +13,10 @@ performers:
       name: Joana
       appearance: null
   append:
-    - id: null
+    - id: 232861ed-428a-463d-aedf-bfe2fd88b4bc
       name: Dallas
       appearance: null
       disambiguation: 2004, V9
-      status: c
-      status_url: https://stashdb.org/edits/2955ac1d-8742-41d3-9771-406d74e6d61c
     - id: ad1afad1-2cfe-4487-85db-41714d1296bb
       name: Jenny
       appearance: Joana
