@@ -12,12 +12,10 @@ performers:
       name: Steve
       appearance: null
   append:
-    - id: null
+    - id: dedc5701-bdc6-4317-baff-e5048d99e48e
       name: Dina
       appearance: null
       disambiguation: 2004, V9
-      status: c
-      status_url: https://stashdb.org/edits/ff03f700-3914-4930-984c-c9aa725baae0
       notes:
         - https://cdn.stashdb.org/images/8f/e3/8fe3be52-f89f-4058-9258-f7c0271add65
     - id: null

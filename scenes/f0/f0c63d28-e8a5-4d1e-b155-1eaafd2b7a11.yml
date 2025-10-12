@@ -12,12 +12,10 @@ performers:
       name: Jay
       appearance: null
   append:
-    - id: null
+    - id: fd330949-eb35-4323-8cbb-bbac7aa66e42
       name: Jen
       appearance: Jane
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/bd874528-e162-4af2-bd8a-e14c317dd724
       notes:
         - Female performer on scene covers
     - id: null

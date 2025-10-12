@@ -12,19 +12,15 @@ performers:
       name: Nicole
       appearance: null
   append:
-    - id: null
+    - id: 79e32df8-a99a-49e3-87c9-ab60220a3c04
       name: Dick
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/a581c8d8-1b5c-4321-8c85-b223f2fd6325
       notes:
         - https://stashdb.org/images/07e5be2c-35a9-43a1-ab70-2dd22634995c
-    - id: null
+    - id: 6625ab4f-a0dc-45b5-b4bb-f6de000dcd84
       name: Nicole
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/ac57c21d-1f10-4ed1-9953-f37ac2aafe29
       notes:
         - Girl on the scene cover

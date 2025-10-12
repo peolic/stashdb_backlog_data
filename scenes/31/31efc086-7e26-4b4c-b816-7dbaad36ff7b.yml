@@ -1,0 +1,33 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: b7830cda-5213-4e97-adc8-5986c5b46706
+      name: Marina
+      appearance: null
+    - id: 7af51c02-db69-46c1-8b41-718b97e6d4e0
+      name: Katya
+      appearance: null
+    - id: 509d1209-3d16-4010-8f67-65da03406f2d
+      name: Nika
+      appearance: null
+  append:
+    - id: null
+      name: Marina
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: c
+      status_url: https://stashdb.org/edits/a81b0501-4d7e-45db-b2cf-9a51d4ce5ced
+    - id: null
+      name: Katya
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: c
+      status_url: https://stashdb.org/edits/25e7fede-0ac6-4121-ac64-a8ded3cc2c56
+    - id: null
+      name: Nika
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: c
+      status_url: https://stashdb.org/edits/1a7eabc1-eb2e-4452-8eba-70482c8a0717

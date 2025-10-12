@@ -12,12 +12,10 @@ performers:
       name: Steve
       appearance: null
   append:
-    - id: null
+    - id: d7fcffcb-7380-4389-8442-671ef71af2b8
       name: Betty
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/2545e299-4b8c-4cd3-a358-a244672602c4
       notes:
         - https://cdn.stashdb.org/images/e4/7e/e47eb50f-d5b4-4c17-aa15-7b259fe22e53
     - id: null

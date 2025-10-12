@@ -1,0 +1,15 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: 7af51c02-db69-46c1-8b41-718b97e6d4e0
+      name: Katya
+      appearance: null
+  append:
+    - id: null
+      name: Katya
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: c
+      status_url: https://stashdb.org/edits/25e7fede-0ac6-4121-ac64-a8ded3cc2c56

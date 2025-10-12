@@ -9,9 +9,7 @@ performers:
       name: Diana
       appearance: null
   append:
-    - id: null
+    - id: 9edf7e89-721f-4454-b692-2dfdbe8c5ddd
       name: Autumn
       appearance: Diana
       disambiguation: Dirty D Production
-      status: c
-      status_url: https://stashdb.org/edits/7b1000df-d886-4a0a-8169-dff7e1d91c81

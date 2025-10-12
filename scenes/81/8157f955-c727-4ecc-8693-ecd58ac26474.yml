@@ -1,0 +1,18 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #15, Scene #1'
+performers:
+  remove:
+    - id: db3a04b9-a429-4268-9e74-5aaf8ef949c6
+      name: Lindsay
+      appearance: null
+  append:
+    - id: null
+      name: Lindsay
+      appearance: null
+      disambiguation: 2007, V9
+      status: new
+      notes:
+        - Visible on scene cover

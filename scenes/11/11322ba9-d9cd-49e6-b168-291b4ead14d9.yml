@@ -12,12 +12,10 @@ performers:
       name: Rocco
       appearance: null
   append:
-    - id: null
+    - id: 8234b6f5-78e2-40ad-81d6-2fb350176cf8
       name: Jenna
       appearance: Jena
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/6206e562-fb37-4cac-a9cb-d055f34f64de
       notes:
         - https://cdn.stashdb.org/images/b8/0d/b80dec33-24b2-46f6-9dff-5261ebc57232
     - id: null

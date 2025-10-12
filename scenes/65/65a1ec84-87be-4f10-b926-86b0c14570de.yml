@@ -1,0 +1,15 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: b7830cda-5213-4e97-adc8-5986c5b46706
+      name: Marina
+      appearance: null
+  append:
+    - id: null
+      name: Marina
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: c
+      status_url: https://stashdb.org/edits/a81b0501-4d7e-45db-b2cf-9a51d4ce5ced

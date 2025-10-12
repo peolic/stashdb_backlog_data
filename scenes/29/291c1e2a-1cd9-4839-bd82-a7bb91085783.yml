@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 96b341af-935d-44d2-ad0b-35dd598a902a
+      name: Leo
+      appearance: null
+  append:
+    - id: null
+      name: Leo
+      appearance: null
+      disambiguation: Boys First Time, 2005
+      status: new
+      notes:
+        - Visible on the scene cover

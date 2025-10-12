@@ -9,11 +9,9 @@ performers:
       name: Celina
       appearance: null
   append:
-    - id: null
+    - id: 9965df47-2f59-4cc9-b467-7e6e16fd37e1
       name: Renee
       appearance: Celina
       disambiguation: 2008, V9
-      status: c
-      status_url: https://stashdb.org/edits/fd9fbd18-039b-4550-9135-6a4e858fe148
       notes:
         - https://cdn.stashdb.org/images/9d/0a/9d0a3ce6-a1eb-44fb-bd8d-e640ccb5579a

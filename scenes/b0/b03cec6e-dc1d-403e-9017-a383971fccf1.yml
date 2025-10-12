@@ -12,12 +12,10 @@ performers:
       name: Victor
       appearance: null
   append:
-    - id: null
+    - id: c92f8b03-fd5c-4694-a507-35d5e1955f71
       name: Belle
       appearance: Helen
       disambiguation: ATKingdom, bel019
-      status: c
-      status_url: https://stashdb.org/edits/0349669f-cbcc-4db8-af03-4d1fd2f4ce35
       notes:
         - https://www.indexxx.com/m/belle-4
         - https://www.thenude.com/_34938.htm

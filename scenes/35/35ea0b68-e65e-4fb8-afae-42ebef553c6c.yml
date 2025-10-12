@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 01a695d8-aef4-46b5-8acf-d1206061b8c1
+      name: Lee
+      appearance: null
+  append:
+    - id: null
+      name: Lee
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
+      notes:
+        - On the cover of their only scene

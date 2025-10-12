@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 11e03da6-836f-4f8d-ae9d-6e21f704e829
+      name: Kelly
+      appearance: null
+  append:
+    - id: null
+      name: Kelly
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      status: new
+      notes:
+        - Blonde guy on the scene cover

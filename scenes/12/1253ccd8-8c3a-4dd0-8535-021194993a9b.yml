@@ -12,12 +12,10 @@ performers:
       name: Jeff
       appearance: null
   append:
-    - id: null
+    - id: 8c879e56-db28-496b-9a78-1b5be327bd94
       name: Janelle
       appearance: Deb
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/1f7c8395-e1cc-4d20-8c4c-fecea0349283
       notes:
         - https://www.iafd.com/person.rme/id=eae469eb-ace4-41b5-92ec-ec95c65bf191
     - id: null
