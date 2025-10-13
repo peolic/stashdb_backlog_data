@@ -1,0 +1,17 @@
+c_studio:
+  - Doghouse Digital
+  - null
+performers:
+  remove:
+    - id: 19a83c61-e897-4117-b219-211cacbd0210
+      name: Pierre
+      appearance: null
+  append:
+    - id: null
+      name: Pierre
+      appearance: null
+      disambiguation: Doghouse Digital, 2011
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=17e196f1-a7b0-458c-9684-3be4a4274665
+      notes:
+        - https://www.doghousedigital.com/model/62200/pierre

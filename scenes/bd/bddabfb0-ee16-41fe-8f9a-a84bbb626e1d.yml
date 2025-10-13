@@ -1,0 +1,16 @@
+c_studio:
+  - Teeny Lovers
+  - null
+performers:
+  remove:
+    - id: 72d78048-3320-4754-95f1-67ad6c8ff145
+      name: Rado Zuska
+      appearance: Marek
+  append:
+    - id: null
+      name: Marek
+      appearance: null
+      disambiguation: 18videoz
+      status: new
+      notes:
+        - https://stashdb.org/images/f11a2ac4-d961-43aa-984e-ba9320422e1b

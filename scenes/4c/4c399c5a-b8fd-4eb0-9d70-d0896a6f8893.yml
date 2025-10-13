@@ -1,0 +1,16 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove:
+    - id: 03be4203-011c-4448-9b04-4e3d67561444
+      name: Phil
+      appearance: null
+  append:
+    - id: null
+      name: Phil
+      appearance: null
+      disambiguation: Sell Your GF, 2015
+      status: new
+      notes:
+        - https://stashdb.org/images/c04528d5-908a-45f3-bfa4-c2ab111ccff1
