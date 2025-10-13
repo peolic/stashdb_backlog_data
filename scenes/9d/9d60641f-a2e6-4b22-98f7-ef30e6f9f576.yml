@@ -12,19 +12,15 @@ performers:
       name: Nick
       appearance: null
   append:
-    - id: null
+    - id: 11d1a353-0310-45fd-b500-ac226def0b9c
       name: Lilly
       appearance: null
       disambiguation: 2004, V9
-      status: c
-      status_url: https://stashdb.org/edits/5749d78d-3014-4105-8a55-b30086a4d05b
       notes:
         - https://cdn.stashdb.org/images/cd/1f/cd1f02ca-c119-42e3-88d3-d1a634219e59
-    - id: null
+    - id: c3f37bd4-9730-46de-85f3-b7bcfd2a3fb4
       name: Nick
       appearance: null
       disambiguation: 2004, V9, SHV 1
-      status: c
-      status_url: https://stashdb.org/edits/3bec202f-b016-481b-bbc0-23d2c2f5698b
       notes:
         - Visible on scene cover

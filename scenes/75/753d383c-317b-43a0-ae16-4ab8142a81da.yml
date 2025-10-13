@@ -9,19 +9,15 @@ performers:
       name: Keiko and Midori
       appearance: null
   append:
-    - id: null
+    - id: 96abd130-d800-4772-afe4-df1d90ced314
       name: Almond Tease
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/324b4dce-0636-40d1-aa3f-339a1f49d453
       notes:
         - https://www.iafd.com/person.rme/id=945def07-e97e-457e-b70a-603207fce7ba
         - https://web.archive.org/web/20061205101959/http://www.almondtease.com/tour1/
-    - id: null
+    - id: 22b2e13f-a54d-4423-ab1a-669cf4e985af
       name: Annabella
       appearance: null
       disambiguation: FlowerPanties.com
-      status: c
-      status_url: https://stashdb.org/edits/aa1fcfbe-52cb-4e65-8bc2-b84f5577f46a
       notes:
         - https://www.iafd.com/person.rme/id=60efca6d-9255-40dc-9f13-725c0afdb676

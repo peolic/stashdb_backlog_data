@@ -8,10 +8,8 @@ performers:
       appearance: null
       disambiguation: Transsexual
   append:
-    - id: null
+    - id: 76feabdc-859c-406b-91da-da2581351564
       name: Trashy Treasures
       appearance: Kwang
-      status: c
-      status_url: https://stashdb.org/edits/16b80e90-3a80-4659-a956-eb8c0dd3694e
       notes:
         - https://www.iafd.com/person.rme/id=b26c4dc1-87db-4ec0-80c8-babafbd5f99d
