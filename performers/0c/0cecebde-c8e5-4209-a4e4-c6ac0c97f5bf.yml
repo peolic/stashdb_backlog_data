@@ -1,19 +1,7 @@
 split:
   name: Liza
-  fragments:
-    - column: T
-      id: d6a64be3-4750-41e9-8577-80e64ec249f9
-      name: Liza (2011, Nasty Angels)
-      notes:
-        - gallery
-      links:
-        - http://newlineporn.com/pictures/teen/plaid-skirt-and/140230/#4
-        - https://stashdb.org/scenes/c2106221-56d2-4c46-975f-6d49c8a5858f
-        - https://stashdb.org/scenes/f6754e6c-7df6-4e74-b155-7349e1d2bbae
-        - https://stashdb.org/scenes/e201d10a-57bb-465e-8d53-7f978266f5d1
-        - https://stashdb.org/scenes/d307875b-2b83-4246-a78c-e3793e12b26f
-        - https://stashdb.org/scenes/00dd51e1-c541-4f3f-8d2b-ab569dfda2b4
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

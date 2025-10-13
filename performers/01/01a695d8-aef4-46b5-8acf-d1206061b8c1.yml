@@ -1,13 +1,7 @@
 split:
   name: Lee
-  fragments:
-    - column: O
-      id: 14ea0aec-d39a-4a70-899c-7d2c044c73c0
-      name: Lee (Boys First Time, 2006)
-      text: Boys First Time "Ass Like That"
-      links:
-        - https://stashdb.org/scenes/35ea0b68-e65e-4fb8-afae-42ebef553c6c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

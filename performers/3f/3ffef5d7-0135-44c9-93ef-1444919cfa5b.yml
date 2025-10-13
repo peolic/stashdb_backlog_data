@@ -1,14 +1,6 @@
 split:
   name: Kassie
-  fragments:
-    - column: J
-      id: dba779bc-2921-4f87-a6dc-918a0390cc90
-      name: Kassie (2004, Wives in Pantyhose)
-      text: Wives in Pantyhose "The Good Way"
-      links:
-        - https://www.iafd.com/person.rme/id=8bb0297d-6a70-45c1-8a74-9c93737b2281
-        - https://www.indexxx.com/m/kassie
-        - https://stashdb.org/scenes/741281fc-0e05-42a0-be8c-92bb49952618
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-10-10)

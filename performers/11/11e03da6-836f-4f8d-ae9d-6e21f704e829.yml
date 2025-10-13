@@ -1,15 +1,7 @@
 split:
   name: Kelly
-  fragments:
-    - column: AA
-      id: dac7a886-4aa4-41b2-92e9-5553f27e7dbb
-      name: Kelly (Boys First Time, 2003)
-      text: Boys First Time "New In Town"
-      notes:
-        - Blonde guy on the left in the scene cover
-      links:
-        - https://stashdb.org/scenes/ea54bf2f-ab31-4061-85af-239b829b55f3
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

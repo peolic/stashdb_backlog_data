@@ -1,19 +1,7 @@
 split:
   name: Lilly
-  fragments:
-    - column: O
-      id: 11d1a353-0310-45fd-b500-ac226def0b9c
-      name: Lilly
-      text: Home Porno Tapes "Big cock and tight pussy combo"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #1, Scene #1'
-        - name 'Lilly' may not match original
-      links:
-        - https://stashdb.org/scenes/9d60641f-a2e6-4b22-98f7-ef30e6f9f576
-        - https://www.adultdvdempire.com/769691/snatchd-stolen-home-videos-porn-videos.html#scene_1507200
-        - https://www.iafd.com/title.rme/id=cf224691-b60a-4dbf-b671-39395d718bda
-        - https://cdn.stashdb.org/images/cd/1f/cd1f02ca-c119-42e3-88d3-d1a634219e59
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-02-11)
     - Best to move scenes and delete performer, rather than merging or renaming.

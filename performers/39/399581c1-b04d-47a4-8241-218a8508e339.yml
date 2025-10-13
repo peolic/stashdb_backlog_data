@@ -1,19 +1,13 @@
 split:
   name: Lukas
   fragments:
-    - column: K
-      id: fd4cf53b-a390-47fb-a953-9cdf3857a400
-      name: Lukas (2013, Sell Your GF)
-      text: Sell Your GF "New job for a slut"
-      links:
-        - https://stashdb.org/scenes/c5865c8e-c7f1-4cf7-9ebc-3c8c8863293d
-        - https://stashdb.org/images/fcd56fcf-c54a-4f0e-b9bf-7c5e9a7ade10
     - column: M
       id: null
       name: Lukas (2005, Boys First Time)
       text: Boys First Time "Good Times"
       links:
         - https://stashdb.org/scenes/d3d28e59-6d1a-4d57-ad4b-3870755157da
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

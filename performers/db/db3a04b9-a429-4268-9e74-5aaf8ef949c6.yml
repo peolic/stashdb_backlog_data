@@ -1,18 +1,7 @@
 split:
   name: Lindsay
-  fragments:
-    - column: L
-      id: d3e1f9e6-dbcd-41aa-b226-b958fec6bab8
-      name: Lindsay
-      text: Girls Next Door Abused "Fucking experiment"
-      notes:
-        - 'Same as Use ''Em Abuse ''Em and Lose ''Em #15, Scene #1'
-        - name 'Linda' may not match original
-      links:
-        - https://stashdb.org/scenes/8157f955-c727-4ecc-8693-ecd58ac26474
-        - https://www.adultdvdempire.com/1368564/use-em-abuse-em-lose-em-vol-15-porn-videos.html#scene_1490400
-        - https://www.iafd.com/title.rme/id=f82ca2a3-944b-47ed-a05e-7489427f044d
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-01-17)
     - Best to move scenes and delete performer, rather than merging or renaming.

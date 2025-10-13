@@ -1,13 +1,7 @@
 split:
   name: Leo
-  fragments:
-    - column: M
-      id: 01f426e0-4d93-4027-9fce-41ae966d918e
-      name: Leo (Boys First Time, 2005)
-      text: Boys First Time "Wanker Yanker"
-      links:
-        - https://stashdb.org/scenes/291c1e2a-1cd9-4839-bd82-a7bb91085783
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

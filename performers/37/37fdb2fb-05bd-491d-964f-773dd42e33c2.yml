@@ -1,19 +1,7 @@
 split:
   name: Lucy
-  fragments:
-    - column: S
-      id: 80135415-c64d-4b1e-8c32-fa353820cbf4
-      name: Lucy (Home Porno Tapes, 2012)
-      text: Home Porno Tapes "We are lesbians!"
-      notes:
-        - name 'Lucy' may not match original
-        - 'Same as Porno Home Movies #1, Scene #1'
-      links:
-        - https://stashdb.org/scenes/b4c050bb-995f-4679-95b7-e6b56b95b0a7
-        - https://straight.aebn.com/straight/movies/83184/porno-home-movies#scene-335785
-        - https://www.iafd.com/title.rme/id=5f5781ed-7acd-4561-a108-07d185e9379a
-        - http://www.nextpicturez.com/gallery/homemade-video-pass/amanda-and-her-girlfriend-get-it-on-and-film-it-for-all/
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-05-02)
     - Best to move scenes and delete performer, rather than merging or renaming.

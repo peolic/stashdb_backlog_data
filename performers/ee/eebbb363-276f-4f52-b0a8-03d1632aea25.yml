@@ -1,24 +1,7 @@
 split:
   name: Jill
-  fragments:
-    - column: O
-      id: 49b4f674-ce30-433e-a3d1-fce4590bde67
-      name: Sasha
-      text: Home Porno Tapes "Our pussy-licking video"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #14, Scene #2 [~39:50 | 02240 -> 04630]'
-        - name 'Jill' may not match original
-        - 'Sasha in a few other scenes with the same co-star (Jane = Michelle):'
-        - '- One N'' Done Amateurs #2, Scene #4 - Blazed Studios'
-        - '- Amateur Angels #4, Scenes #2, #5 - Juicy Plum'
-        - '- Special Collector''s Edition #34 - Sasha & Michelle, All 3 Scenes - Magic Moments'
-        - IAFD profile doesn't exist or not found, will update when created/found
-      links:
-        - https://stashdb.org/scenes/01766b94-cc57-4241-8e5e-65ad093bbf90
-        - https://www.adultdvdempire.com/3000427/snatchd-14-stolen-home-videos-porn-videos.html
-        - https://www.iafd.com/title.rme/id=cd430da3-d9ba-4e16-9d23-a3729b3efe37
-        - https://cdn.stashdb.org/images/1b/d5/1bd545da-fa41-480a-ae0d-27e1a556e462
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
