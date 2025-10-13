@@ -13,9 +13,11 @@ performers:
       name: Lana
       appearance: null
       disambiguation: 2004, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/fd9cd3d4-5bd1-4b85-8169-ce4b689d73d0
     - id: null
       name: Denis
       appearance: null
       disambiguation: 2004, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/ffb6f62c-249c-4b75-88b7-7fa1a45dce49

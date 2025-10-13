@@ -1,0 +1,16 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: 0cecebde-c8e5-4209-a4e4-c6ac0c97f5bf
+      name: Liza
+      appearance: null
+  append:
+    - id: null
+      name: Liza
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: new
+      notes:
+        - http://newlineporn.com/pictures/teen/plaid-skirt-and/140230/#4

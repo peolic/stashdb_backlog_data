@@ -16,11 +16,13 @@ performers:
       name: Lenny
       appearance: null
       disambiguation: 2005, V9, SHV 20
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/eae0c818-9ac2-44ac-8601-46788cb4d1f0
       notes:
         - https://stashdb.org/images/a54a2ca3-a87c-4dc0-907a-7948744c7d6e
     - id: null
       name: Lana
       appearance: null
       disambiguation: 2005, V9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/a599cb94-15d0-4c31-aa57-bc5da7a2b7cf
