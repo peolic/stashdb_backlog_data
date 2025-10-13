@@ -1,19 +1,7 @@
 split:
   name: Betty
-  fragments:
-    - column: S
-      id: d7fcffcb-7380-4389-8442-671ef71af2b8
-      name: Betty (2007, V9)
-      text: Home Porno Tapes "Sex on cam with long-time gf"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #34, Scene #3'
-        - name 'Betty' may not match original
-      links:
-        - https://stashdb.org/scenes/c0f2f646-a2c9-4b04-ba82-a6bf8e0b6973
-        - https://cdn.stashdb.org/images/e4/7e/e47eb50f-d5b4-4c17-aa15-7b259fe22e53
-        - https://www.adultdvdempire.com/1386073/snatchd-stolen-home-videos-34-porn-videos.html#scene_1425318
-        - https://www.iafd.com/title.rme/id=d5112233-0cde-4f0e-b285-0fb464e38fe2
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-04-03)
     - Best to move scenes and delete performer, rather than merging or renaming.

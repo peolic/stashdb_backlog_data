@@ -1,18 +1,13 @@
 split:
   name: Phillip
   fragments:
-    - column: K
-      id: 2032bd82-fb21-44ef-b25b-ba26e59974fa
-      name: Phillip (2011, Dick Dorm)
-      text: Dick Dorm "Tie It Up"
-      links:
-        - https://stashdb.org/scenes/238bde67-c011-445d-b653-ff55bbe907e1
     - column: L
       id: null
       name: Phillip (2010, Dick Dorm)
       text: Dick Dorm "Go Nuts"
       links:
         - https://stashdb.org/scenes/26181a8e-5e10-40b7-9d89-01b64066b4b7
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-09-05)
     - Best to move scenes and delete performer, rather than merging or renaming.

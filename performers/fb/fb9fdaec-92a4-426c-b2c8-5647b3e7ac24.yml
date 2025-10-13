@@ -1,13 +1,7 @@
 split:
   name: Dante
-  fragments:
-    - column: L
-      id: d83af48f-a701-48d3-af9d-93e4709b54e5
-      name: Dante (2011, Dick Dorm)
-      text: Dick Dorm "Tie It Up"
-      links:
-        - https://stashdb.org/scenes/238bde67-c011-445d-b653-ff55bbe907e1
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-04-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

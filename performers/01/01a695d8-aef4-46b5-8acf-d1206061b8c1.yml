@@ -1,22 +1,13 @@
 split:
   name: Lee
   fragments:
-    - column: N
-      id: 90ea0fc0-0094-4039-8a18-02cd646fe29b
-      name: Lee (Papi, 2007)
-      notes:
-        - "- \x02Papi \"Double Dick\"\x03"
-        - '- Papi "House Party Humpers"'
-        - "- \x02Papi \"Banana In Tailpipe\"\x03"
-      links:
-        - https://www.realitydudes.com/model/20442/lee
-        - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
     - column: O
       id: null
       name: Lee (Boys First Time, 2006)
       text: Boys First Time "Ass Like That"
       links:
         - https://stashdb.org/scenes/35ea0b68-e65e-4fb8-afae-42ebef553c6c
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

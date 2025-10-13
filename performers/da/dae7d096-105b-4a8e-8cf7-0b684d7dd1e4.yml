@@ -1,14 +1,7 @@
 split:
   name: Allen
-  fragments:
-    - column: L
-      id: 6941c05f-fe48-4449-935b-cacbd89a31ab
-      name: Allen (Papi, 2007)
-      text: Papi "House Party Humpers"
-      links:
-        - https://www.realitydudes.com/model/20450/allen
-        - https://stashdb.org/scenes/19c99d58-4a0a-4a6f-857b-51e4c19a38d0
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-04-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

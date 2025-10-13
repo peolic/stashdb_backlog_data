@@ -1,15 +1,7 @@
 split:
   name: Jesse
-  fragments:
-    - column: S
-      id: 04d74881-307f-4951-ba0e-ba92a56db87c
-      name: Jesse (Boys First Time, 2009)
-      text: Boys First Time "Double Dongs"
-      notes:
-        - scene is in Boys First Time 14
-      links:
-        - https://stashdb.org/scenes/ab77fa88-e349-4c93-a23b-4510e23e5872
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,18 +1,12 @@
 split:
   name: Pablo
   fragments:
-    - column: J
-      id: 267999ea-715f-45ab-9494-4b5236bb4629
-      name: Pablo (Papi, 2007)
-      text: Papi "Santas Snake"
-      links:
-        - https://www.realitydudes.com/model/21199/pablo
-        - https://stashdb.org/scenes/d03c8ce7-bf96-420a-b8cf-596f55e3a0a9
     - column: K
       id: null
       name: Pablo (Dick Dorm, 2011)
       text: Dick Dorm "Blast Off"
       links:
         - https://stashdb.org/scenes/f2d9b90c-d1ad-4472-b796-d1b6bce0c0ac
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)

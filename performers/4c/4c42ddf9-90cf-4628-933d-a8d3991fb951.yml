@@ -15,11 +15,10 @@ split:
       id: 4851ccdd-0f6f-4837-816f-339148246ec0
       name: Robert (Papi, 2006-03-13 & 2007-01-01)
       notes:
-        - '- Papi "Santas Snake"'
+        - "\x02- \x03\x02Papi \"Santas Snake\"\x03"
         - '- Papi "Pool Party"'
       links:
         - https://www.realitydudes.com/model/21173/robert
-        - https://stashdb.org/scenes/d03c8ce7-bf96-420a-b8cf-596f55e3a0a9
         - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
     - column: R
       id: null

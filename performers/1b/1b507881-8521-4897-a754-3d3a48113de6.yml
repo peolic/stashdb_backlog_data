@@ -1,14 +1,7 @@
 split:
   name: Dennis
-  fragments:
-    - column: N
-      id: 024db0af-63e6-41cf-bfe5-1b04675b1178
-      name: Dennis (Boys First Time, 2013)
-      text: Boys First Time "Riding Jake"
-      links:
-        - https://stashdb.org/scenes/9750fe61-f4ab-43b2-8659-ea79c12fcb81
-        - https://www.themoviedb.org/person/4995818-dennis
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.
