@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: f88d2135-7e03-4595-a9a9-819c6243e7a4
+      name: Nicolas
+      appearance: null
+    - id: e87390d7-eee2-4a43-afbe-aef522cf766b
+      name: Hoss Kado
+      appearance: Jared
+  append:
+    - id: null
+      name: Nicolas
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/24518/nicolas
+    - id: null
+      name: Jared
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new

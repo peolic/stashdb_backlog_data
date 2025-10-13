@@ -1,0 +1,16 @@
+c_studio:
+  - Finish Him
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=3204bdec-9aae-4c3f-8c93-114841c8369b
+performers:
+  remove:
+    - id: 6270ed32-a916-4239-8dcf-bd496f2db56d
+      name: Patrick
+      appearance: null
+  append:
+    - id: null
+      name: Patrick
+      appearance: null
+      disambiguation: TugPass
+      status: new

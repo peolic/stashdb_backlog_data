@@ -1,0 +1,16 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove:
+    - id: 6270ed32-a916-4239-8dcf-bd496f2db56d
+      name: Patrick
+      appearance: null
+  append:
+    - id: null
+      name: Patrick
+      appearance: null
+      disambiguation: Sell Your GF, 2012
+      status: new
+      notes:
+        - https://stashdb.org/images/e83328b3-1145-4230-83af-be6c3c2c2e35

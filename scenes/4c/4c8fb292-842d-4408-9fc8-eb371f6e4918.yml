@@ -1,0 +1,19 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/678206/woodmancastingx-mame-ouan/
+performers:
+  remove:
+    - id: e631007b-999e-4880-a4ac-1bb60c11c3c8
+      name: Ouan And Mame
+      appearance: null
+  append:
+    - id: null
+      name: Quan
+      appearance: Ouan
+      disambiguation: Woodman Casting X, 1993
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=101eed38-5665-4a5e-b5dc-ae8d762cc0f5
+      notes:
+        - https://www.indexxx.com/m/ouan
