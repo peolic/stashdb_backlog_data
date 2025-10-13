@@ -25,32 +25,26 @@ performers:
       name: Joseph
       appearance: null
   append:
-    - id: null
+    - id: 6941c05f-fe48-4449-935b-cacbd89a31ab
       name: Allen
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/2663c5b7-c17e-494a-931a-6a5569e9f88a
       notes:
         - https://www.realitydudes.com/model/20450/allen
-    - id: null
+    - id: 3b1818d4-5ad0-4b0e-9499-1a0f4654b8f7
       name: Bruce
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/48b27782-7db8-4699-9e41-98397be25176
       notes:
         - https://www.realitydudes.com/model/20458/bruce
     - id: 8bb67ff8-042b-4b6a-9bc0-a02211c21a41
       name: David
       appearance: null
       disambiguation: Papi, 2007
-    - id: null
+    - id: 2b8a5bf1-203e-42c4-9fcc-7abbdd992f50
       name: Frank
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/6b7b5d77-2eb7-4b8c-bdf1-a66b488d9dcb
       notes:
         - https://www.realitydudes.com/model/20446/frank
     - id: 90d836ee-708b-472e-83b8-7397f0108c78
@@ -61,11 +55,9 @@ performers:
       name: Lee
       appearance: null
       disambiguation: Papi, 2007
-    - id: null
+    - id: 158aacbd-e530-4f79-9848-6c996b654c8a
       name: Joseph
       appearance: null
       disambiguation: Papi, 2007
-      status: c
-      status_url: https://stashdb.org/edits/723c3331-932c-4c13-857c-25fc834f35c5
       notes:
         - https://www.realitydudes.com/model/20460/joseph

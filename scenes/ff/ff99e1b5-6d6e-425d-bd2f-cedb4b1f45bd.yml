@@ -7,11 +7,9 @@ performers:
       name: Frank
       appearance: null
   append:
-    - id: null
+    - id: cfe57e28-eaea-485d-b804-4bffdf2a832e
       name: Frank
       appearance: null
       disambiguation: 2014, Trick Your GF
-      status: c
-      status_url: https://stashdb.org/edits/f1901b46-3740-4c28-bde1-989ee0e8e82b
       notes:
         - https://stashdb.org/images/d53fc70e-5c9d-44d1-84a0-53cc62cfe57a

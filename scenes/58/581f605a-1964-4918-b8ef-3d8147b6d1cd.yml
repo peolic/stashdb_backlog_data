@@ -1,0 +1,33 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove:
+    - id: 3dcaaef7-3c4b-4dc7-873a-3e8c936a753b
+      name: Sasha
+      appearance: null
+    - id: 5d900dc2-fde3-4f44-843a-0e02c85eb768
+      name: Timothy
+      appearance: null
+    - id: 517ff2e8-0792-4d1e-a1c0-c8c8a6bc1705
+      name: Zachary
+      appearance: null
+  append:
+    - id: 9d60d4f5-a639-4a75-a748-b2eff100f6a3
+      name: Sasha
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+    - id: null
+      name: Timothy
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      notes:
+        - 'RK Affiliate Profile: https://realitysitesnetwork.com/pornstars/21046/timothy'
+    - id: null
+      name: Zachary
+      appearance: null
+      disambiguation: Dare Dorm, 2011
+      status: new
+      notes:
+        - 'RK Affiliate Profile: https://realitysitesnetwork.com/pornstars/24992/zachary'

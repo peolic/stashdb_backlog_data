@@ -4,12 +4,10 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 83fabee5-0bc3-4bf6-8171-5a0988996033
       name: Charles
       appearance: null
       disambiguation: 2015, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/f4cef091-18a6-4653-a5ca-06dedccecb12
       notes:
         - https://www.iafd.com/person.rme/id=0b6dc257-4466-438b-bf8d-c9a41ebce97b
         - https://www.imdb.com/name/nm9242559/

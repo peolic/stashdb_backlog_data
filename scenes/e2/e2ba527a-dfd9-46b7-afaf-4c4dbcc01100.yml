@@ -10,12 +10,10 @@ performers:
       name: Paul
       appearance: null
   append:
-    - id: null
+    - id: 067b76e2-1376-4cc6-9086-af4e47814ba7
       name: Carlos
       appearance: null
       disambiguation: Papi, 2005
-      status: c
-      status_url: https://stashdb.org/edits/d30e17a1-d420-47c8-a1dd-3790c967f262
       notes:
         - https://www.realitydudes.com/model/20129/carlos
     - id: null

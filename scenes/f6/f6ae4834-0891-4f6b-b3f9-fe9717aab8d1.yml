@@ -12,12 +12,10 @@ performers:
       name: Monica
       appearance: null
   append:
-    - id: null
+    - id: d0d4ddf5-e287-4ed4-bfe5-0a2cd58d9abd
       name: Jason
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/4c92872e-88fe-4974-bbb6-b8cf6c5ce596
       notes:
         - https://cdn.stashdb.org/images/06/ed/06edba3a-936b-4227-a428-cdcb49372ffe
     - id: 58a180cb-00e0-4a77-90eb-1f1e02d564a6

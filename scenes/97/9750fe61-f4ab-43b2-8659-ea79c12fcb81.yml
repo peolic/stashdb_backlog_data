@@ -10,19 +10,15 @@ performers:
       name: Jake
       appearance: null
   append:
-    - id: null
+    - id: 024db0af-63e6-41cf-bfe5-1b04675b1178
       name: Dennis
       appearance: null
       disambiguation: Boys First Time, 2013
-      status: c
-      status_url: https://stashdb.org/edits/35385123-04d4-48b4-b5bb-a392eaa3af20
       notes:
         - https://www.themoviedb.org/person/4995818-dennis
-    - id: null
+    - id: 8602302b-8a34-4109-a83b-5940f18f6ac2
       name: Jake
       appearance: null
       disambiguation: Boys First Time, 2013
-      status: c
-      status_url: https://stashdb.org/edits/5075377c-58d4-4ccb-bb84-4cf6ffebabe4
       notes:
         - https://www.themoviedb.org/person/4995821-jake

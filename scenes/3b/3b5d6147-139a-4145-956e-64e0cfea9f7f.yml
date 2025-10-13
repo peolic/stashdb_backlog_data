@@ -10,19 +10,15 @@ performers:
       name: Curtis
       appearance: null
   append:
-    - id: null
+    - id: 8aab4af2-c1fa-474d-923d-f0b0b90ca7cb
       name: Den
       appearance: null
       disambiguation: 2012, 18videoz
-      status: c
-      status_url: https://stashdb.org/edits/1d562d23-dab8-4881-939b-18463c59f955
       notes:
         - https://cdn.stashdb.org/images/f8/57/f85787ef-7cad-4683-8eb3-6f228e17651d
-    - id: null
+    - id: 351cea25-096c-458b-b959-5763709f3eec
       name: Curtis
       appearance: null
       disambiguation: 18videoz, 2012
-      status: c
-      status_url: https://stashdb.org/edits/8f25391d-cc7a-4a9e-b854-65f242f548a1
       notes:
         - https://stashdb.org/images/809709ea-51e4-4264-9c66-333c762cbd48

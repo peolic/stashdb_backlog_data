@@ -1,14 +1,7 @@
 split:
   name: Hugo
-  fragments:
-    - column: L
-      id: 47f3415d-9d2a-4fe5-80e9-f13cb1b8b284
-      name: Hugo (2015, Trick Your GF)
-      text: Trick Your GF "Fuck-punished for cheating"
-      links:
-        - https://stashdb.org/scenes/a1ab9130-9033-4da5-a57f-41c851c2bf86
-        - https://stashdb.org/images/4c4004ec-56ab-4597-9e8e-96041acfdd9a
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-04)
     - Best to move scenes and delete performer, rather than merging or renaming.

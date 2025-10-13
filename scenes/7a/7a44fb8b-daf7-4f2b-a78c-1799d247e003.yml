@@ -9,11 +9,9 @@ performers:
       name: Doug
       appearance: null
   append:
-    - id: null
+    - id: 9a45050f-c45e-466b-a4c1-e2a176db9445
       name: Doug
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/745f10e8-e33d-4425-8d4c-a7065a14ec0c
       notes:
         - https://stashdb.org/images/f014bd59-dd1e-4891-aa9b-24cf4f25233a

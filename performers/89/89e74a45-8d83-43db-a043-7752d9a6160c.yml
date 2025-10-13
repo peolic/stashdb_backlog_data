@@ -1,18 +1,7 @@
 split:
   name: Joana
-  fragments:
-    - column: L
-      id: ad1afad1-2cfe-4487-85db-41714d1296bb
-      name: Jenny (2004, V9) AKA Joana
-      notes:
-        - "- \x02Girls Next Door Abused: same as Use 'Em Abuse 'Em and Lose 'Em #2, Scene #1\x03"
-        - '- Home Porno Tapes: same as Snatch''d: Stolen Home Videos #16, Scene #2'
-      links:
-        - https://www.iafd.com/person.rme/id=d847a05d-206d-4b52-8d7e-92b4d18e9329
-        - https://stashdb.org/scenes/27ca22a6-847e-4e77-8dcb-777a0c28009a
-        - https://www.adultdvdempire.com/3735387/snatchd-16-stolen-home-videos-porn-videos.html#scene_1051459
-        - https://www.iafd.com/title.rme/id=ad7786fe-3769-46bd-8d5a-f193317025b3
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-05-23)
     - Best to move scenes and delete performer, rather than merging or renaming.

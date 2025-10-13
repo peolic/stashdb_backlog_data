@@ -22,44 +22,34 @@ performers:
       name: Sasha
       appearance: null
   append:
-    - id: null
+    - id: 2e58de3e-251a-41a4-bd68-8dacf027eb87
       name: Angel
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/fc930e75-3d90-4a46-9c08-a118e9d7d0c0
       notes:
         - https://www.realitydudes.com/model/20885/angel
-    - id: null
+    - id: d83af48f-a701-48d3-af9d-93e4709b54e5
       name: Dante
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/55f900a0-6743-4789-b802-425db9f6a441
       notes:
         - https://www.realitydudes.com/model/20889/dante
-    - id: null
+    - id: a2adb19e-1882-4311-bcc1-05155854708e
       name: Melanie
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/b5d9fbfd-41b7-442e-9689-8d9e1ba5f14b
       notes:
         - https://www.realitydudes.com/model/20891/melanie
-    - id: null
+    - id: ba42a59a-c843-453a-81dd-72a4bb97e645
       name: Michael
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/7da40719-0b87-457a-96af-74b7bd78c6ff
       notes:
         - https://www.realitydudes.com/model/20899/michael
-    - id: null
+    - id: 2032bd82-fb21-44ef-b25b-ba26e59974fa
       name: Phillip
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/6d6a5d51-1277-4bb2-893d-b4f6069bbe4e
       notes:
         - https://www.realitydudes.com/model/20893/phillip
     - id: 9d60d4f5-a639-4a75-a748-b2eff100f6a3

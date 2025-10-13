@@ -17,27 +17,21 @@ performers:
       name: Santiago
       appearance: null
   append:
-    - id: null
+    - id: 2be74a95-be99-4975-923f-d0e66314a7f4
       name: Van
       appearance: null
       disambiguation: Dick Dorm, 2013
-      status: c
-      status_url: https://stashdb.org/edits/7c4a0059-bc02-43ed-9b0a-57da43faf3ac
       notes:
         - https://www.realitydudes.com/model/20318/van
-    - id: null
+    - id: c28512a6-fac6-4759-a3a8-0c7946d1a3ad
       name: Adam
       appearance: null
       disambiguation: Dick Dorm, 2013
-      status: c
-      status_url: https://stashdb.org/edits/88771b6a-4c00-4db7-93de-4e5309df326d
       notes:
         - https://www.realitydudes.com/model/20775/adam
-    - id: null
+    - id: 36ff5a33-b1dc-4157-bfaf-65b82df1d04b
       name: Santiago
       appearance: null
       disambiguation: Dick Dorm, 2013
-      status: c
-      status_url: https://stashdb.org/edits/15dfc29a-6194-465c-bff1-af981e5f3b66
       notes:
         - https://www.realitydudes.com/model/20777/santiago

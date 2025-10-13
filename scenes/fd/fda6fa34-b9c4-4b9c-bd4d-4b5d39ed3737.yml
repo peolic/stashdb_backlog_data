@@ -25,12 +25,10 @@ performers:
       name: Albert Long
       appearance: Robert
   append:
-    - id: null
+    - id: e4654cf2-9230-4fea-8a4e-9dbee84bae9e
       name: Angel
       appearance: null
       disambiguation: Papi, 2006
-      status: c
-      status_url: https://stashdb.org/edits/9561bb29-148b-4099-a0a9-69fa57fdc30a
       notes:
         - https://www.realitydudes.com/model/21185/angel
     - id: null
@@ -58,12 +56,10 @@ performers:
       status: new
       notes:
         - Aylo ID is 21715
-    - id: null
+    - id: b6d342a1-a965-4b0e-a47a-0b1439436c68
       name: Richard
       appearance: null
       disambiguation: Papi, 2006
-      status: c
-      status_url: https://stashdb.org/edits/11e4043f-e7f1-4556-904d-11911bbbd26a
       notes:
         - https://www.realitydudes.com/model/21183/richard
     - id: null

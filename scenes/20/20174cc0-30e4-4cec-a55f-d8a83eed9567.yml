@@ -12,12 +12,10 @@ performers:
       name: Melanie
       appearance: null
   append:
-    - id: null
+    - id: 0e985ef8-3a1c-46c8-83d2-2f0c0b2f5a52
       name: James
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/b4b79986-73ae-4cb2-8116-d795881f9d27
       notes:
         - https://cdn.stashdb.org/images/ea/ed/eaedd668-2e03-4e22-a372-07eda923126a
     - id: d4237794-f698-4e6a-9560-520684865617

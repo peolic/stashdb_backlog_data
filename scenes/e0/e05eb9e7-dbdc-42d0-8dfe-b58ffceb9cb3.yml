@@ -9,11 +9,9 @@ performers:
       name: Jacob
       appearance: null
   append:
-    - id: null
+    - id: 4cee3a14-13f0-44e4-818a-bdfa026293ee
       name: Chad
       appearance: Jacob
       disambiguation: 2004, V9
-      status: c
-      status_url: https://stashdb.org/edits/21b64c33-3338-4cc8-89f4-333449c32198
       notes:
         - https://www.iafd.com/person.rme/id=fe489760-53f4-4e25-882f-d2bf7bb4efb6

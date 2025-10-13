@@ -1,11 +1,6 @@
 split:
   name: Cindy and Miko
-  fragments:
-    - column: I
-      id: f16e2023-2a08-4fd2-bd3e-1054590cab72
-      name: Cindy
-    - column: J
-      id: 6091d1ef-8ec4-457b-9d43-3f0c49928e65
-      name: Miko
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Amalgamated performer
