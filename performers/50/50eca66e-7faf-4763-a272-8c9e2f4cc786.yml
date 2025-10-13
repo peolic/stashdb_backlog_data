@@ -2,14 +2,13 @@ split:
   name: Gabriel
   fragments:
     - column: L
-      id: null
+      id: b8f6d128-3597-4e14-849b-4aeae436357e
       name: Gabriel (Papi, 2006)
       notes:
-        - '- Papi "O Town Orgy"'
+        - "\x02- \x03\x02Papi \"O Town Orgy\"\x03"
         - '- Papi "Juicy Jacuzzi"'
       links:
         - https://www.realitydudes.com/model/21088/gabriel
-        - https://stashdb.org/scenes/08ea86fb-0baa-43e5-87d9-d4ac5b2be070
         - https://stashdb.org/scenes/e92298fa-9177-41f1-9c84-afa88dcbc508
     - column: M
       id: null

@@ -1,20 +1,7 @@
 split:
   name: Jacob
-  fragments:
-    - column: P
-      id: 4cee3a14-13f0-44e4-818a-bdfa026293ee
-      name: Chad
-      text: Home Porno Tapes "Friday night shenanigans"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #8, Scene #2'
-        - name 'Jacob' may not match original
-      links:
-        - https://www.iafd.com/person.rme/id=fe489760-53f4-4e25-882f-d2bf7bb4efb6
-        - https://stashdb.org/scenes/e05eb9e7-dbdc-42d0-8dfe-b58ffceb9cb3
-        - https://www.adultdvdempire.com/3000619/snatchd-8-stolen-home-videos-porn-videos.html#scene_845413
-        - https://www.iafd.com/title.rme/id=e17566b8-01c7-4ed4-a838-bbef3ee1fcfb
-        - http://newlineporn.com/pictures/homemade/her-saturday-fuck/204842/
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-04-15)
     - Best to move scenes and delete performer, rather than merging or renaming.

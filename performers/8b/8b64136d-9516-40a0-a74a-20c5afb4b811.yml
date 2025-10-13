@@ -1,22 +1,7 @@
 split:
   name: Rocco
-  fragments:
-    - column: K
-      id: d7fe8a22-302f-48e1-838b-8d77dda7c009
-      name: Rocco
-      text: name 'Rocco' may not match originals
-      notes:
-        - '- Girls Next Door Abused "Strip Foosball": Same as Use ''Em Abuse ''Em and Lose ''Em #16, Scene #1'
-        - '- Home Porno Tapes "hms127": Same as Porno Home Movies #11, Scene #1'
-      links:
-        - https://cdn.stashdb.org/images/1a/03/1a03f180-38fd-445f-95c3-9dcc21b3548f
-        - https://stashdb.org/scenes/11322ba9-d9cd-49e6-b168-291b4ead14d9
-        - https://vod.aebn.com/straight/movies/101572/use-em-abuse-em-and-lose-em-16#scene-462503
-        - https://www.iafd.com/title.rme/id=9a06aaba-acc1-4377-8745-14232d37d907
-        - https://stashdb.org/scenes/e9becd0f-7c2f-4af3-9fab-e8457f435862
-        - https://www.adultdvdempire.com/1388968/porno-home-movies-vol-11-porn-videos.html#scene_430039
-        - https://www.iafd.com/title.rme/id=b32707fb-e2c9-419e-ae96-a955ff176ac1
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-05-06)
     - Best to move scenes and delete performer, rather than merging or renaming.

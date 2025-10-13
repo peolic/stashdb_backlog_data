@@ -1,14 +1,7 @@
 split:
   name: Julio
-  fragments:
-    - column: L
-      id: null
-      name: Julio (Papi, 2006)
-      text: Papi "O Town Orgy"
-      links:
-        - https://www.realitydudes.com/model/21090/julio
-        - https://stashdb.org/scenes/08ea86fb-0baa-43e5-87d9-d4ac5b2be070
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

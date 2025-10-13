@@ -1,21 +1,7 @@
 split:
   name: Jena
-  fragments:
-    - column: K
-      id: 8234b6f5-78e2-40ad-81d6-2fb350176cf8
-      name: Jenna (2007, V9)
-      notes:
-        - '- Girls Next Door Abused "Strip Foosball": Same as Use ''Em Abuse ''Em and Lose ''Em #16, Scene #1'
-        - '- Home Porno Tapes "hms127": Same as Porno Home Movies #11, Scene #1'
-      links:
-        - https://cdn.stashdb.org/images/b8/0d/b80dec33-24b2-46f6-9dff-5261ebc57232
-        - https://stashdb.org/scenes/11322ba9-d9cd-49e6-b168-291b4ead14d9
-        - https://vod.aebn.com/straight/movies/101572/use-em-abuse-em-and-lose-em-16#scene-462503
-        - https://www.iafd.com/title.rme/id=9a06aaba-acc1-4377-8745-14232d37d907
-        - https://stashdb.org/scenes/e9becd0f-7c2f-4af3-9fab-e8457f435862
-        - https://www.adultdvdempire.com/1388968/porno-home-movies-vol-11-porn-videos.html#scene_430039
-        - https://www.iafd.com/title.rme/id=b32707fb-e2c9-419e-ae96-a955ff176ac1
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-04-01)
     - Best to move scenes and delete performer, rather than merging or renaming.
