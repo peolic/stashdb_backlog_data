@@ -16,14 +16,16 @@ performers:
       name: Jess
       appearance: Andrea
       disambiguation: 2007, V9, PHV 7
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=ef6137f1-f7cf-484f-9b5a-6429e0a37f26
+      status: c
+      status_url: https://stashdb.org/edits/2e1fc6ee-33f8-4654-a624-d2f36762aba3
       notes:
+        - https://www.iafd.com/person.rme/id=ef6137f1-f7cf-484f-9b5a-6429e0a37f26
         - https://stashdb.org/images/b7bb0874-e7ee-400e-8037-cc21311ece5f
     - id: null
       name: Mike
       appearance: null
       disambiguation: 2007, V9, PHV 7
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/e1bcd22b-6369-444d-bbb0-cc3ffca9237d
       notes:
         - Visible in scene cover

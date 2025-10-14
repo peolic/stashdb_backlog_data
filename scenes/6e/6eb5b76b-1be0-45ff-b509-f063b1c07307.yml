@@ -13,4 +13,5 @@ performers:
       name: Patrick
       appearance: null
       disambiguation: TugPass
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/42a9bb0c-c9ea-46f1-9487-aed64bc98297
