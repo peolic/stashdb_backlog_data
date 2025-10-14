@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 517ff2e8-0792-4d1e-a1c0-c8c8a6bc1705
+      name: Zachary
+      appearance: null
+  append:
+    - id: null
+      name: Zachary
+      appearance: null
+      disambiguation: Boys First Time, 2010
+      status: new
+      notes:
+        - Guy on the top/left in the scene cover
