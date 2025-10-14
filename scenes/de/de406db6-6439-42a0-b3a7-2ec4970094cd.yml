@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 060f0425-1a1c-4389-8efc-3142f84069d3
+      name: Mauricio
+      appearance: null
+  append:
+    - id: null
+      name: Mauricio
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      status: new
+      notes:
+        - Rear person in the scene cover

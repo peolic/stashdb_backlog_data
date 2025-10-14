@@ -1,0 +1,16 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove:
+    - id: dd4a8e33-5132-48e3-bac3-011baff41dd8
+      name: William
+      appearance: null
+  append:
+    - id: null
+      name: William
+      appearance: null
+      disambiguation: Sell Your GF, 2012
+      status: new
+      notes:
+        - https://stashdb.org/images/58df81bd-0af0-48ee-b3b8-152cf4c471d1
