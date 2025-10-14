@@ -1,0 +1,24 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #10, Scene #2'
+performers:
+  remove:
+    - id: eb9bbdcf-beb4-4ef5-8d11-995c327cab0f
+      name: Ashley
+      appearance: null
+    - id: 2e1a3250-61a6-4b40-9d0b-183f1f0ecfb0
+      name: George
+      appearance: null
+  append:
+    - id: null
+      name: Ashley
+      appearance: null
+      disambiguation: 2007, V9, SHV 23
+      status: new
+    - id: null
+      name: George
+      appearance: null
+      disambiguation: 2007, V9, SHV 23
+      status: new

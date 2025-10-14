@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 8f18d959-d39c-4ede-9391-b5799795eb12
+      name: Brent
+      appearance: null
+  append:
+    - id: null
+      name: Brent
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Solo male on scene cover

@@ -1,0 +1,14 @@
+c_studio:
+  - Old Dicks Young Chix
+  - null
+performers:
+  remove:
+    - id: fba9a787-cbfc-4036-9a7f-446865f3406c
+      name: Bryan
+      appearance: null
+  append:
+    - id: null
+      name: Bryan
+      appearance: null
+      disambiguation: Old Dicks Young Chix, 2011
+      status: new

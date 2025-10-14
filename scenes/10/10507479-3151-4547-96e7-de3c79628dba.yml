@@ -1,0 +1,11 @@
+c_studio:
+  - Seductive 18
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: Seductive 18
+      status: new

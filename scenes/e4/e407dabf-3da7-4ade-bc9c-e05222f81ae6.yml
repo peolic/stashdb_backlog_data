@@ -1,0 +1,16 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #11, Scene #3'
+performers:
+  remove:
+    - id: eb9bbdcf-beb4-4ef5-8d11-995c327cab0f
+      name: Ashley
+      appearance: null
+  append:
+    - id: null
+      name: Ashley
+      appearance: null
+      disambiguation: 2007, V9, SHV 29
+      status: new

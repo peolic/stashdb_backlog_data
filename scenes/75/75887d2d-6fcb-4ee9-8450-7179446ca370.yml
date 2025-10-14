@@ -1,0 +1,16 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #3, Scene #3'
+performers:
+  remove:
+    - id: c319019b-822d-4704-8cfd-88e37c33b8ad
+      name: Bob
+      appearance: null
+  append:
+    - id: null
+      name: Bob
+      appearance: null
+      disambiguation: 2005, V9, SHV 13
+      status: new

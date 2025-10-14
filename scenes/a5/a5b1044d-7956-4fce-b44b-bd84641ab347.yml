@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 99487691-0304-4140-a97b-ce261fbf0f47
+      name: Antonio
+      appearance: null
+  append:
+    - id: null
+      name: Antonio
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo male on the scene cover

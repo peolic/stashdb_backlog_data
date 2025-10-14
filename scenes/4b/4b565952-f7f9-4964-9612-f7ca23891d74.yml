@@ -1,0 +1,14 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: 55d494b3-166c-4847-acac-84593cc28050
+      name: Andrew
+      appearance: null
+  append:
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: Seductive 18
+      status: new
