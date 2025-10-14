@@ -1,0 +1,16 @@
+c_studio:
+  - ALS Scan
+  - null
+performers:
+  remove:
+    - id: a6168361-4d80-4302-a00e-58d57b936df5
+      name: Tibor
+      appearance: null
+  append:
+    - id: null
+      name: Tibor
+      appearance: null
+      disambiguation: ALS Scan, 2014
+      status: new
+      notes:
+        - Male on scene cover

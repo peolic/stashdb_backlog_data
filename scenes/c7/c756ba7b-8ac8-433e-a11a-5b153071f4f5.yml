@@ -1,0 +1,16 @@
+c_studio:
+  - Casual Teen Sex
+  - null
+performers:
+  remove:
+    - id: 505e490d-9ee6-4d3f-90da-c21981b54884
+      name: Tony
+      appearance: null
+  append:
+    - id: null
+      name: Tony
+      appearance: null
+      disambiguation: 18videoz, 2011
+      status: new
+      notes:
+        - https://cdn.stashdb.org/images/f5/6e/f56eb73e-85c7-4ba2-a5f9-f35da3439ade

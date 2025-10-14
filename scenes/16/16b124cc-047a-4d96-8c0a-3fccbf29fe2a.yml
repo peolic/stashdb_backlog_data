@@ -1,0 +1,15 @@
+c_studio:
+  - Teeny Lovers
+  - null
+performers:
+  remove:
+    - id: 5d900dc2-fde3-4f44-843a-0e02c85eb768
+      name: Timothy
+      appearance: null
+  append:
+    - id: null
+      name: Zane
+      appearance: Timothy
+      disambiguation: Teen Mega World, 2009
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a86ff191-284c-4221-8b26-02ebf05da4fb

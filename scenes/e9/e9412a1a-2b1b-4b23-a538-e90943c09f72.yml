@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 1c87b70d-ccc7-4a19-879d-101fd38940a5
+      name: Theo
+      appearance: null
+  append:
+    - id: null
+      name: Theo
+      appearance: null
+      disambiguation: Boys First Time, 2011
+      status: new
+      notes:
+        - On the right on scene cover

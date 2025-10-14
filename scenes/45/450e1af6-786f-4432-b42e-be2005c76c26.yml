@@ -1,0 +1,16 @@
+c_studio:
+  - Sell Your GF
+  - null
+performers:
+  remove:
+    - id: a42ccf42-82dc-48e1-9f3a-b0c7339bd050
+      name: Tom
+      appearance: null
+  append:
+    - id: null
+      name: Tom
+      appearance: null
+      disambiguation: 18videoz, 2015
+      status: new
+      notes:
+        - https://stashdb.org/images/53b3fac5-9d47-4cf0-bb43-f619cf7d5154

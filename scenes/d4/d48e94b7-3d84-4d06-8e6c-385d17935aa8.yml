@@ -1,0 +1,25 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 04a07efd-e63f-4c73-885f-8673a478a725
+      name: Tj
+      appearance: null
+    - id: 60df9006-0beb-4eb5-a5e1-fa7e92d5c4fd
+      name: Carter
+      appearance: null
+      disambiguation: Boys First Time
+  append:
+    - id: null
+      name: TJ
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+    - id: null
+      name: Carter
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Bottom on the scene cover
