@@ -1,0 +1,16 @@
+c_studio:
+  - Casual Teen Sex
+  - null
+performers:
+  remove:
+    - id: 3348f0ef-5279-42d1-bf0f-161a7eb76b92
+      name: Ricky
+      appearance: null
+  append:
+    - id: null
+      name: Ricky
+      appearance: null
+      disambiguation: 2004, V9
+      status: new
+      notes:
+        - https://cdn.stashdb.org/images/a2/d5/a2d593dc-5aad-45d5-952f-664673db63ea
