@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 42170014-5752-4f27-9b74-6f982a373f0f
+      name: Shane
+      appearance: null
+  append:
+    - id: null
+      name: Shane
+      appearance: null
+      disambiguation: Boys First Time, 2013
+      status: new
+      notes:
+        - Bottom on the scene cover

@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: b7b7ad65-d6be-4c6b-bce9-4e594c5afea0
+      name: Shine
+      appearance: null
+  append:
+    - id: null
+      name: Shine
+      appearance: null
+      disambiguation: Boys First Time, 2009
+      status: new
+      notes:
+        - Top right of scene cover

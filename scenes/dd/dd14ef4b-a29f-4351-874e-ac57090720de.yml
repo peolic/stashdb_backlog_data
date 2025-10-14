@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 57c8f27b-95dc-4473-ac24-a5b6c4cc147b
+      name: Matt
+      appearance: null
+    - id: b7b7ad65-d6be-4c6b-bce9-4e594c5afea0
+      name: Shine
+      appearance: null
+  append:
+    - id: null
+      name: Matt
+      appearance: null
+      disambiguation: Boys First Time, 2009
+      status: new
+      notes:
+        - Bottom on the scene cover
+    - id: null
+      name: Shine
+      appearance: null
+      disambiguation: Boys First Time, 2009
+      status: new

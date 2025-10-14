@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: e3d1dfd7-cb3d-49c7-a9b5-4baf2ab17e51
+      name: Shawn
+      appearance: null
+  append:
+    - id: null
+      name: Shawn
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Bottom on the scene cover

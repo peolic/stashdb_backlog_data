@@ -1,0 +1,26 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Porno Home Movies #11, Scene #2'
+performers:
+  remove:
+    - id: 3dcaaef7-3c4b-4dc7-873a-3e8c936a753b
+      name: Sasha
+      appearance: null
+    - id: b4e6e18c-5516-44d2-a5a3-35b8fd797eb2
+      name: Artur
+      appearance: null
+  append:
+    - id: null
+      name: Sasha
+      appearance: null
+      disambiguation: 2008, V9, PHV 11
+      status: new
+      notes:
+        - Visible on scene cover
+    - id: null
+      name: Artur
+      appearance: null
+      disambiguation: 2008, V9, PHV 11
+      status: new
