@@ -10,7 +10,8 @@ performers:
     - id: null
       name: Marek
       appearance: null
-      disambiguation: 18videoz
-      status: new
+      disambiguation: 18videoz, 2011
+      status: c
+      status_url: https://stashdb.org/edits/0d0e058b-d350-42e7-8f37-32bb0dcf086a
       notes:
         - https://stashdb.org/images/f11a2ac4-d961-43aa-984e-ba9320422e1b

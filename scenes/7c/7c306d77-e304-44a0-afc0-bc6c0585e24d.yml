@@ -13,6 +13,7 @@ performers:
       name: Ray
       appearance: null
       disambiguation: 2004, V9, SHV9
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/c0492a04-c938-41f7-b5ea-0ad35b8967c9
       notes:
         - https://stashdb.org/images/b6232149-1c9c-4274-a2d7-1b5fc4e4fc7c
