@@ -7,11 +7,9 @@ performers:
       name: Tom
       appearance: null
   append:
-    - id: null
+    - id: 84fe7de0-c685-4203-91fa-e573e726e75e
       name: Tom
       appearance: null
       disambiguation: 18videoz, 2015
-      status: c
-      status_url: https://stashdb.org/edits/f4150c6e-edfa-4ce7-9989-d60c028db083
       notes:
         - https://stashdb.org/images/53b3fac5-9d47-4cf0-bb43-f619cf7d5154

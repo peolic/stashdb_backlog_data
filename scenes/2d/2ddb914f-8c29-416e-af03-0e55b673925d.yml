@@ -10,12 +10,10 @@ performers:
       name: Kevin
       appearance: null
   append:
-    - id: null
+    - id: 1de55bf5-ee63-47d5-bd7b-e581504b3e3c
       name: TJ
       appearance: null
       disambiguation: Boys First Time, 2004
-      status: c
-      status_url: https://stashdb.org/edits/92e00629-85c7-413a-a8a1-bd157a6ddbfe
       notes:
         - Top on the scene cover
     - id: null

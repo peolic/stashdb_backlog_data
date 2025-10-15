@@ -12,12 +12,10 @@ performers:
       name: Artur
       appearance: null
   append:
-    - id: null
+    - id: 5c4b65eb-1b45-455f-966e-956a1e360918
       name: Sasha
       appearance: null
       disambiguation: 2008, V9, PHV 11
-      status: c
-      status_url: https://stashdb.org/edits/9e140da0-c9ef-432f-a3e4-9916c5bd8beb
       notes:
         - Visible on scene cover
     - id: null

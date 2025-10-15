@@ -7,12 +7,10 @@ performers:
       name: Pierre
       appearance: null
   append:
-    - id: null
+    - id: edbbbe20-7651-40b5-b76e-845e71b9641d
       name: Pierre
       appearance: null
       disambiguation: Doghouse Digital, 2011
-      status: c
-      status_url: https://stashdb.org/edits/fe9cbb47-b75c-479e-b5bb-9bf3b3920b20
       notes:
         - https://www.iafd.com/person.rme/id=17e196f1-a7b0-458c-9684-3be4a4274665
         - https://www.doghousedigital.com/model/62200/pierre

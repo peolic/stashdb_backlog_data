@@ -9,11 +9,9 @@ performers:
       name: Nate
       appearance: null
   append:
-    - id: null
+    - id: 6014b4e1-096e-4582-be06-3d1e31309652
       name: Nate
       appearance: null
       disambiguation: 2004, V9
-      status: c
-      status_url: https://stashdb.org/edits/5ecbafce-3bcf-44b0-9c27-fdedf73fdbb1
       notes:
         - https://cdn.stashdb.org/images/c7/a4/c7a4facc-8097-4617-bde2-fb6ce74caa29
