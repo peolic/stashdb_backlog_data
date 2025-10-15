@@ -7,11 +7,9 @@ performers:
       name: Rado Zuska
       appearance: Marek
   append:
-    - id: null
+    - id: de5bbd9c-6a69-4fcc-84d4-1c9f6f2efcae
       name: Marek
       appearance: null
       disambiguation: 18videoz, 2011
-      status: c
-      status_url: https://stashdb.org/edits/0d0e058b-d350-42e7-8f37-32bb0dcf086a
       notes:
         - https://stashdb.org/images/f11a2ac4-d961-43aa-984e-ba9320422e1b

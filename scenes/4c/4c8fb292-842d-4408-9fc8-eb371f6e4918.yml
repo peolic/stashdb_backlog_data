@@ -9,12 +9,10 @@ performers:
       name: Ouan And Mame
       appearance: null
   append:
-    - id: null
+    - id: ba603d3e-9c54-4475-a73c-ed487b28a9c5
       name: Quan
       appearance: Ouan
       disambiguation: Woodman Casting X, 1993
-      status: c
-      status_url: https://stashdb.org/edits/cb8cca39-4545-44de-a3c4-0008cba34e3e
       notes:
         - https://www.iafd.com/person.rme/id=101eed38-5665-4a5e-b5dc-ae8d762cc0f5
         - https://www.indexxx.com/m/ouan
