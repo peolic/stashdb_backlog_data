@@ -12,12 +12,10 @@ performers:
       name: Mike
       appearance: null
   append:
-    - id: null
+    - id: 9713bfae-1525-498a-b648-71462522f8f0
       name: Jess
       appearance: Andrea
       disambiguation: 2007, V9, PHV 7
-      status: c
-      status_url: https://stashdb.org/edits/2e1fc6ee-33f8-4654-a624-d2f36762aba3
       notes:
         - https://www.iafd.com/person.rme/id=ef6137f1-f7cf-484f-9b5a-6429e0a37f26
         - https://stashdb.org/images/b7bb0874-e7ee-400e-8037-cc21311ece5f
