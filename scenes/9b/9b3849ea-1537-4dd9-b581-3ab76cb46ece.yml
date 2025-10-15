@@ -1,0 +1,12 @@
+c_studio:
+  - Bang Bus
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=27c68cd1-7615-45ac-a87c-ed6a70bbc42d
+performers:
+  remove: []
+  append:
+    - id: 038a883c-1c74-42ec-b3d9-2a5bd8dce79b
+      name: Mike
+      appearance: null
+      disambiguation: 2002, bangbus.com

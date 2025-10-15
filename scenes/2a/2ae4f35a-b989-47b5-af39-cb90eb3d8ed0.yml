@@ -12,12 +12,10 @@ performers:
       name: Lisa
       appearance: null
   append:
-    - id: null
+    - id: 43b0bb02-2ebf-4d71-98a5-234d664f64bb
       name: Parker
       appearance: null
       disambiguation: 2006, V9, SHV29
-      status: c
-      status_url: https://stashdb.org/edits/e4dbc903-37bc-4012-9af2-c33708dea25c
       notes:
         - https://pic.aebn.net/dis/t/84140/84140_00000142.jpg
     - id: 44ac611b-1d6a-4745-b859-4fc52fd2515a
