@@ -1,13 +1,4 @@
 scenes:
   - 9b3849ea-1537-4dd9-b581-3ab76cb46ece
   - a95ad63b-ed53-40e0-92d0-a5e49f2dc17f
-performers:
-  - bad206de-d6e4-4b9f-b71d-a45cb4b8e6a0
-  - 96b341af-935d-44d2-ad0b-35dd598a902a
-  - f0c5997e-5d11-4b40-b34f-c9db23bae1b4
-  - db3a04b9-a429-4268-9e74-5aaf8ef949c6
-  - 0cecebde-c8e5-4209-a4e4-c6ac0c97f5bf
-  - 37fdb2fb-05bd-491d-964f-773dd42e33c2
-  - e804b28a-a17c-4176-bc09-48b4399ef012
-  - 6ef1d880-1a26-4b94-9709-12f161c88340
-  - 65912c4f-49cb-457f-ab1e-8e45eda1c5d0
+performers: []
