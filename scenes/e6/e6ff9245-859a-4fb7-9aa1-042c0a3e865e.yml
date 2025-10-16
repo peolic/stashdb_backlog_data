@@ -8,6 +8,9 @@ performers:
     - id: bb94c466-d53f-43b9-ae18-f590bffd491a
       name: Rita
       appearance: null
+    - id: 804edb7e-48b5-46b4-ab8c-e6b1bb32ba98
+      name: Oliver
+      appearance: null
   append:
     - id: 06d4b98e-a455-4886-95bd-15b69d87cbb1
       name: Rita
@@ -16,3 +19,8 @@ performers:
       notes:
         - https://caps1cdn.adultempire.com/n/1617/640/3561617_03970_640.jpg
         - https://caps1cdn.adultempire.com/o/2800/720/1622800_03690_720b.jpg
+    - id: null
+      name: Oliver
+      appearance: null
+      disambiguation: 2005, V9, SHV 17
+      status: new

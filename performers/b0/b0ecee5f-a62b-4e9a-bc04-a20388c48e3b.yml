@@ -1,17 +1,7 @@
 split:
   name: Philip
-  fragments:
-    - column: J
-      id: 2a6e6e54-66c2-4f2b-9083-48351369f622
-      name: Philip (2016, Sell Your GF)
-      notes:
-        - '- Sell Your GF "Secretly paid for sex"'
-        - '- Sell Your GF "Blackmailed into kinky sex"'
-      links:
-        - https://stashdb.org/images/cda79aec-ef75-4a29-af3b-e5bb4634d5be
-        - https://stashdb.org/scenes/9c59ef21-969f-4de9-b48a-a3800034b5a2
-        - https://stashdb.org/scenes/53003625-02bf-4a7d-be99-42707d238845
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-09-05)
     - Best to move scenes and delete performer, rather than merging or renaming.

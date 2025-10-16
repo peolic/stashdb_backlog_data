@@ -8,6 +8,9 @@ performers:
     - id: 679974d9-d386-4b62-a929-10e207241fcf
       name: Nate
       appearance: null
+    - id: 0d216d2c-f738-45e4-a834-0a8c51849b90
+      name: Carmen
+      appearance: null
   append:
     - id: 6014b4e1-096e-4582-be06-3d1e31309652
       name: Nate
@@ -15,3 +18,10 @@ performers:
       disambiguation: 2004, V9
       notes:
         - https://cdn.stashdb.org/images/c7/a4/c7a4facc-8097-4617-bde2-fb6ce74caa29
+    - id: null
+      name: Carmen
+      appearance: null
+      disambiguation: 2004, V9, SHV 1
+      status: new
+      notes:
+        - Visible on scene cover

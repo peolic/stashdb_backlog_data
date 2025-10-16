@@ -1,20 +1,7 @@
 split:
   name: Parker
-  fragments:
-    - column: O
-      id: 43b0bb02-2ebf-4d71-98a5-234d664f64bb
-      name: Parker
-      text: Home Porno Tapes "Hotel cleaning staff"
-      notes:
-        - 'same as Snatch''d: Stolen Home Videos #29, Scene #1'
-        - 'also released as Filthy Frank''s Amateurs #24, Scene #1'
-        - name 'Parker' may not match original
-      links:
-        - https://stashdb.org/scenes/2ae4f35a-b989-47b5-af39-cb90eb3d8ed0
-        - https://vod.aebn.com/straight/movies/84140/snatch-d-29#scene-338948
-        - https://pic.aebn.net/dis/t/84140/84140_00000142.jpg?s=720h
-        - https://www.iafd.com/title.rme/id=367206b6-9930-4408-80db-ac708b4a6ba2
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-08-24)
     - Best to move scenes and delete performer, rather than merging or renaming.
