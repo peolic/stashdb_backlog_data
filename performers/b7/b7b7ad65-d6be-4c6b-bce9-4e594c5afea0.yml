@@ -5,10 +5,9 @@ split:
       id: 51cd8779-3022-47db-885b-6bbe53a05918
       name: Shine (2009, Boys First Time)
       notes:
-        - '- Boys First Time "Adicktion"'
+        - "- \x02Boys First Time \"Adicktion\"\x03"
         - '- Boys First Time "Bare Booty"'
       links:
-        - https://stashdb.org/scenes/adec9666-1c46-4dca-a872-1f8802d9836c
         - https://stashdb.org/scenes/dd14ef4b-a29f-4351-874e-ac57090720de
   status: single fragment remains
   notes:

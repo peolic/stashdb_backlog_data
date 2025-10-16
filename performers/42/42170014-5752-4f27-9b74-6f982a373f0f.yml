@@ -1,15 +1,7 @@
 split:
   name: Shane
-  fragments:
-    - column: P
-      id: b199d083-ed44-4785-bad9-2669c073a79a
-      name: Shane (Boys First Time, 2013)
-      text: Boys First Time "All For Pleasure"
-      notes:
-        - Bottom in the scene
-      links:
-        - https://stashdb.org/scenes/8a50e482-3be0-49f6-a65c-2cacae730d41
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)
     - Best to move scenes and delete performer, rather than merging or renaming.

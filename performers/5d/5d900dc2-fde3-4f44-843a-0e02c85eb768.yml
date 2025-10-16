@@ -1,13 +1,6 @@
 split:
   name: Timothy
   fragments:
-    - column: K
-      id: 5a667cf2-c537-4493-88fa-a31cff028dd7
-      name: Zane ?
-      text: Teeny Lovers (same tattoos, ear piercing)
-      links:
-        - https://www.iafd.com/person.rme/id=a86ff191-284c-4221-8b26-02ebf05da4fb
-        - https://stashdb.org/scenes/16b124cc-047a-4d96-8c0a-3fccbf29fe2a
     - column: M
       id: null
       name: Timothy (Dick Dorm, 2011-08)
@@ -15,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/819fc052-77c0-4595-92df-78bdb4cb9701
         - https://www.iafd.com/title.rme/id=97a79dd3-04d7-48cf-b533-66418fd4be1f
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

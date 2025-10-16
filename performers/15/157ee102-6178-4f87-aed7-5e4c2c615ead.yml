@@ -1,19 +1,7 @@
 split:
   name: Ross
-  fragments:
-    - column: L
-      id: 938db02d-43b9-42ee-b667-275efe91c086
-      name: Ross (Home Porno Tapes)
-      text: Home Porno Tapes "Fucking my Asian gf"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #22, Scene #3'
-        - name 'Ross' may not match original
-      links:
-        - https://stashdb.org/scenes/011ed2d5-297d-4d11-99a3-30b25758da24
-        - https://www.adultdvdempire.com/1321782/snatchd-stolen-home-videos-22-porn-videos.html#scene_758323
-        - https://www.iafd.com/title.rme/id=9a6e0b5a-b6fa-4b0b-9f71-bc9c653b1c98
-        - https://stashdb.org/images/f77b601f-f95b-4b73-a27f-c36e00296eba
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
