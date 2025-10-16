@@ -8,13 +8,6 @@ split:
       links:
         - https://www.iafd.com/person.rme/id=a86ff191-284c-4221-8b26-02ebf05da4fb
         - https://stashdb.org/scenes/16b124cc-047a-4d96-8c0a-3fccbf29fe2a
-    - column: L
-      id: 21bd2685-d986-4194-b0d9-6006dfaf3301
-      name: Timothy (2011, Dare Dorm)
-      text: Dare Dorm "Guess Who"
-      links:
-        - https://stashdb.org/scenes/581f605a-1964-4918-b8ef-3d8147b6d1cd
-        - https://www.iafd.com/title.rme/id=8926d78d-fb6a-47b5-8929-4a73d7c5fbeb
     - column: M
       id: null
       name: Timothy (Dick Dorm, 2011-08)
