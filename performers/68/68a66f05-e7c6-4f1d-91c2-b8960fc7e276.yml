@@ -1,16 +1,7 @@
 split:
   name: Ethan
-  fragments:
-    - column: K
-      id: null
-      name: Ethan (Dick Dorm, 2014)
-      notes:
-        - Possibly Ethan Blue, unconfirmed
-        - '- Dick Dorm "Kiss This"'
-        - Guy in the red shirt, top right in scene cover
-      links:
-        - https://stashdb.org/scenes/8cd8920b-abab-422a-bfa7-5ff97ff76436
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,0 +1,16 @@
+c_studio:
+  - Nasty Angels
+  - null
+performers:
+  remove:
+    - id: d033fae2-e749-4068-945b-df3064ae017e
+      name: Heather
+      appearance: null
+  append:
+    - id: null
+      name: Heather
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: new
+      notes:
+        - Visible on scene cover

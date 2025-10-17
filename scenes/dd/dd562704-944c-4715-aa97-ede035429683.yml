@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 4fa86a8f-67c5-4d78-a565-91768d9ca960
+      name: Gator
+      appearance: null
+  append:
+    - id: null
+      name: Gator
+      appearance: null
+      disambiguation: Boys First Time, 2014
+      status: new
+      notes:
+        - Bottom on the scene cover

@@ -1,0 +1,26 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #8, Scene #3'
+performers:
+  remove:
+    - id: c2ca1493-4c81-4241-a9c7-c47c7c05c971
+      name: Jay
+      appearance: null
+    - id: 150ef0f3-1cff-4a7c-b8b0-0729300c2608
+      name: Jessica
+      appearance: null
+  append:
+    - id: null
+      name: Jay
+      appearance: null
+      disambiguation: 2005, V9, SHV 8
+      status: new
+    - id: null
+      name: Jessica
+      appearance: null
+      disambiguation: 2005, V9, SHV 8
+      status: new
+      notes:
+        - Visible on scene cover

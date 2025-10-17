@@ -1,0 +1,18 @@
+c_studio:
+  - Devil's Film
+  - Devil's Film
+comments:
+  - 'Same as Guide To Dirty Dancing, Scene #3'
+performers:
+  remove:
+    - id: 5a1af8bf-466e-4121-9957-673ca571e726
+      name: Christine
+      appearance: null
+  append:
+    - id: null
+      name: Christine
+      appearance: null
+      disambiguation: Devil's Film, 2006
+      status: new
+      notes:
+        - Performer is solo on scene cover

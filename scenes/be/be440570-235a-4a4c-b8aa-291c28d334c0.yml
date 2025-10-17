@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 7784173b-683b-4550-90e6-b0df98af5621
+      name: Lance
+      appearance: null
+  append:
+    - id: null
+      name: Lance
+      appearance: null
+      disambiguation: Reality Dudes, 2007
+      status: new
+      notes:
+        - Bottom on scene cover

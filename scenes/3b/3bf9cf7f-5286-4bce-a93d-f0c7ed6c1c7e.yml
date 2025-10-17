@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: bec6612f-7f7f-4dd4-a928-67c339acb6a0
+      name: Giovanni
+      appearance: null
+  append:
+    - id: null
+      name: Giovanni
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      status: new
+      notes:
+        - Solo male on the scene cover

@@ -1,0 +1,14 @@
+c_studio:
+  - Big Naturals
+  - null
+performers:
+  remove:
+    - id: b385c301-bf12-4aa3-ae5c-1fbb231b93ec
+      name: Jim
+      appearance: null
+  append:
+    - id: null
+      name: Jim
+      appearance: null
+      disambiguation: Big Naturals, 2002
+      status: new

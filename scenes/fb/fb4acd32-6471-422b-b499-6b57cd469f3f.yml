@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 0417dcb7-d016-475a-b323-872096ad3112
+      name: Joel
+      appearance: null
+  append:
+    - id: null
+      name: Joel
+      appearance: null
+      disambiguation: Boys First Time, 2011
+      status: new
+      notes:
+        - Bottom on scene cover

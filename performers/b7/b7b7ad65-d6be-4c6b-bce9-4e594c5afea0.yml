@@ -1,14 +1,6 @@
 split:
   name: Shine
-  fragments:
-    - column: J
-      id: 51cd8779-3022-47db-885b-6bbe53a05918
-      name: Shine (2009, Boys First Time)
-      notes:
-        - "- \x02Boys First Time \"Adicktion\"\x03"
-        - '- Boys First Time "Bare Booty"'
-      links:
-        - https://stashdb.org/scenes/dd14ef4b-a29f-4351-874e-ac57090720de
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-16)
