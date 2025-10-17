@@ -9,11 +9,9 @@ performers:
       name: Stanley
       appearance: null
   append:
-    - id: null
+    - id: 9aba70fc-ff84-41a2-95b3-c54b5f93836c
       name: Stanley
       appearance: null
       disambiguation: 2004, V9, SHV 1
-      status: c
-      status_url: https://stashdb.org/edits/600a0429-622d-4d2e-aa45-39f2ae483538
       notes:
         - https://cdn.stashdb.org/images/d2/63/d2635d3d-f622-48c5-9518-2446e4635db5

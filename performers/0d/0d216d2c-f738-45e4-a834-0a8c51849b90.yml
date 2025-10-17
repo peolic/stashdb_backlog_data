@@ -1,17 +1,6 @@
 split:
   name: Carmen
   fragments:
-    - column: O
-      id: null
-      name: Carmen [1]
-      text: Home Porno Tapes "New kind of fucking my wife"
-      notes:
-        - name 'Carmen' may not match original
-        - 'Same as Snatch''d: Stolen Home Videos #1, Scene #2'
-      links:
-        - https://stashdb.org/scenes/e40c1db4-6159-4f81-9a3a-3e5e55552d98
-        - https://www.adultdvdempire.com/769691/snatchd-stolen-home-videos-porn-videos.html#scene_1499584
-        - https://www.iafd.com/title.rme/id=cf224691-b60a-4dbf-b671-39395d718bda
     - column: P
       id: null
       name: Carmen [2]
@@ -24,6 +13,7 @@ split:
         - https://stashdb.org/scenes/4e540451-b031-4820-99f2-643cfec32c0a
         - https://www.adultdvdempire.com/3735483/snatchd-17-stolen-home-videos-porn-videos.html
         - https://www.iafd.com/title.rme/id=a04b1774-1e38-4bb8-9bb0-99c1b96ed946
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-17)
     - Best to move scenes and delete performer, rather than merging or renaming.
