@@ -1,12 +1,6 @@
 split:
   name: Vinnie
-  fragments:
-    - column: J
-      id: null
-      name: Vinnie (Boys First Time, 2004)
-      text: Boys First Time "Undercover Lover"
-      links:
-        - https://stashdb.org/scenes/2e7a7e63-3024-4233-b4ee-8daa7773249a
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - One of two performers listed (complete list)

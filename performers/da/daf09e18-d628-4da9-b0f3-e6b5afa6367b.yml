@@ -31,12 +31,6 @@ split:
       links:
         - https://stashdb.org/scenes/2a6127ac-427b-4223-8d90-2a48c470adea
         - https://stashdb.org/scenes/14ac1f82-37c1-4095-a27e-68404ba81655
-    - column: V
-      id: null
-      name: Tyler (Boys First Time, 2009)
-      text: Boys First Time "Alone At Last"
-      links:
-        - https://stashdb.org/scenes/e1bdf3d5-c7c2-418e-a428-b53ffa850e95
   notes:
     - Mix of multiple performers (complete list as of 2025-07-10)
     - Best to move scenes and delete performer, rather than merging or renaming.

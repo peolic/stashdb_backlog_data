@@ -1,0 +1,26 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #7, Scene #1'
+performers:
+  remove:
+    - id: a5c7e58a-0324-4a62-a57a-0eb0ee4313ed
+      name: Josh
+      appearance: null
+    - id: 83edc34c-655b-4d7e-b9b0-1b6264f8aab1
+      name: Linda
+      appearance: null
+  append:
+    - id: null
+      name: Josh
+      appearance: null
+      disambiguation: 2004, V9, SHV 7
+      status: new
+    - id: null
+      name: Linda
+      appearance: null
+      disambiguation: 2004, V9, SHV 7
+      status: new
+      notes:
+        - Visible on scene cover

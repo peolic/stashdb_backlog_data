@@ -2,12 +2,12 @@ split:
   name: Antonio
   fragments:
     - column: M
-      id: null
+      id: b364fac3-5854-4ced-bb0e-6d6d1fba1b2e
       name: Antonio (Boys First Time, 2004)
       text: Boys First Time "Surfer Crush"
       links:
         - https://stashdb.org/scenes/a5b1044d-7956-4fce-b44b-bd84641ab347
-  status: single fragment remains
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

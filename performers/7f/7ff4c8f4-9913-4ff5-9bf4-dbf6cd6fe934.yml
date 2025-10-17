@@ -1,12 +1,6 @@
 split:
   name: Timmy
-  fragments:
-    - column: K
-      id: null
-      name: Timmy (Boys First Time, 2010)
-      text: Boys First Time "Nobodys Looking"
-      links:
-        - https://stashdb.org/scenes/afa50208-79e7-4b77-ad88-d810a6bfd47c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)

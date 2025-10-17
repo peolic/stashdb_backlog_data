@@ -1,18 +1,13 @@
 split:
   name: Zachary
   fragments:
-    - column: N
-      id: null
-      name: Zachary (Boys First Time, 2010)
-      text: Boys First Time "Hot Cock"
-      links:
-        - https://stashdb.org/scenes/6e6cb098-dccf-464f-94b2-65828adf3d10
     - column: O
       id: null
       name: Zachary (Gay Revenge, 2011)
       text: Gay Revenge "Covered Up"
       links:
         - https://stashdb.org/scenes/7e91a347-32ea-498b-999d-a28dc8f87a7f
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-10-03)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,12 +1,6 @@
 split:
   name: Tibor
   fragments:
-    - column: I
-      id: null
-      name: Tibor (ALS Scan)
-      links:
-        - https://www.alsscan.com/model/tibor
-        - https://stashdb.org/scenes/95f40ab3-c654-4b60-b577-9c5436178b28
     - column: J
       id: null
       name: Tibor
@@ -19,5 +13,6 @@ split:
         - https://www.adultdvdempire.com/3735105/snatchd-19-porn-videos.html#scene_1018435
         - https://www.iafd.com/title.rme/id=0e7a11a4-d16f-40bd-b9e7-40c5b16b2bae
         - https://cdn.stashdb.org/images/af/6c/af6ceade-2841-4d2e-bfa6-20a5cfe8c680
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-17)
