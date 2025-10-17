@@ -13,6 +13,7 @@ performers:
       name: Adam
       appearance: null
       disambiguation: 2005, V9, SHV 16
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/45f82947-9ce8-4a6c-b9c0-c424b98c417d
       notes:
         - Visible on the scene cover

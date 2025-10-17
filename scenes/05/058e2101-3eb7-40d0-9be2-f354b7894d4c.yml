@@ -16,9 +16,11 @@ performers:
       name: Tanya
       appearance: null
       disambiguation: 2004, V9, SHV 4
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/1533ed3d-1a91-4b7c-8b86-1ae794883a51
     - id: null
       name: Frank
       appearance: null
       disambiguation: 2004, V9, SHV 4
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/19091b37-07f6-4076-94b0-4e4fbaed6f58

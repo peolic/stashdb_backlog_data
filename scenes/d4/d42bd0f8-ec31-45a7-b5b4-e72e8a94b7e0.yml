@@ -16,11 +16,13 @@ performers:
       name: Daniel
       appearance: null
       disambiguation: 2004, V9, SHV 4
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/ab354664-4a69-4df3-9b14-c0bff9ad7e04
     - id: null
       name: Suzy
       appearance: null
       disambiguation: 2004, V9, SHV 4
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/b73aa87c-4355-4aa2-b304-8253c61cce40
       notes:
         - Visible on scene cover
