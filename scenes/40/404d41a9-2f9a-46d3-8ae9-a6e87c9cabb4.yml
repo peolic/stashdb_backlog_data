@@ -1,0 +1,18 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+comments:
+  - 'Same as Use ''Em Abuse ''Em and Lose ''Em #15, Scene #2'
+performers:
+  remove:
+    - id: f62a5041-8a15-49b9-a725-8e6a4f6623ce
+      name: Mikey
+      appearance: null
+  append:
+    - id: null
+      name: Mikey
+      appearance: null
+      disambiguation: 2007, V9, UAL 15
+      status: new
+      notes:
+        - Visible on the scene cover

@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: e51e2869-c855-4fee-8201-083606c92e0c
+      name: Maverick
+      appearance: null
+  append:
+    - id: null
+      name: Maverick
+      appearance: null
+      disambiguation: Boys First Time, 2015
+      status: new
+      notes:
+        - Guy on the right on the scene cover

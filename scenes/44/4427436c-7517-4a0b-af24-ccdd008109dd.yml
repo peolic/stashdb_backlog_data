@@ -1,0 +1,24 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #6, Scene #2'
+performers:
+  remove:
+    - id: e7d085f6-1aff-48dc-80aa-fb9adcff4301
+      name: Nicky
+      appearance: null
+    - id: 804edb7e-48b5-46b4-ab8c-e6b1bb32ba98
+      name: Oliver
+      appearance: null
+  append:
+    - id: null
+      name: Nicky
+      appearance: null
+      disambiguation: 2004, V9, SHV 6
+      status: new
+    - id: null
+      name: Oliver
+      appearance: null
+      disambiguation: 2004, V9, SHV 6
+      status: new
