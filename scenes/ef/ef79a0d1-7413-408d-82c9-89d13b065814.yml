@@ -12,12 +12,10 @@ performers:
       name: Mark
       appearance: null
   append:
-    - id: null
+    - id: fc21dbbf-e570-4323-aa93-fb8e61da3b6a
       name: Amy
       appearance: null
       disambiguation: 2007, V9, SHV 31
-      status: c
-      status_url: https://stashdb.org/edits/f0aae8bc-cef4-414a-8718-e81fe3d90a19
       notes:
         - https://stashdb.org/images/20c50eb2-2293-4669-acf4-043e9b16e3b4
     - id: null
