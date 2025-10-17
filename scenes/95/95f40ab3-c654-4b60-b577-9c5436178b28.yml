@@ -11,6 +11,7 @@ performers:
       name: Tibor
       appearance: null
       disambiguation: ALS Scan, 2014
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/a7a52d21-06ee-4bc8-bcd9-e689a34235ec
       notes:
         - Male on scene cover

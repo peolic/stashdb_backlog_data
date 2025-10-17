@@ -1,14 +1,6 @@
 split:
   name: Ouan And Mame
-  fragments:
-    - column: I
-      id: ba603d3e-9c54-4475-a73c-ed487b28a9c5
-      name: Quan
-      text: 'note: ''Q'', not ''O'''
-      links:
-        - https://www.iafd.com/person.rme/id=101eed38-5665-4a5e-b5dc-ae8d762cc0f5
-        - https://www.indexxx.com/m/ouan
-        - https://stashdb.org/scenes/4c8fb292-842d-4408-9fc8-eb371f6e4918
+  fragments: []
   status: queued to be marked as done
   notes:
     - Amalgamated performer (complete list) - last scene of Private Castings X 5

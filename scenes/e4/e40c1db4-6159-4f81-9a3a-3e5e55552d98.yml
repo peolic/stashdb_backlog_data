@@ -22,6 +22,7 @@ performers:
       name: Carmen
       appearance: null
       disambiguation: 2004, V9, SHV 1
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/d710a2e2-61d6-4731-b027-04ac37600b53
       notes:
         - Visible on scene cover
