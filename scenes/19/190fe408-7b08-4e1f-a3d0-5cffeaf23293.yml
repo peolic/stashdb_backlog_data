@@ -12,17 +12,13 @@ performers:
       name: Tyler
       appearance: null
   append:
-    - id: null
+    - id: 059d076d-0488-4e4b-a4d1-48628f768463
       name: Teresa
       appearance: null
       disambiguation: 2005, V9, SHV 26
-      status: c
-      status_url: https://stashdb.org/edits/85e2180d-af3e-4a9b-935e-f6d07c2f3645
       notes:
         - Visible on scene cover
-    - id: null
+    - id: a8b58e4e-8c5e-4471-bcf3-1877de473c13
       name: Tyler
       appearance: null
       disambiguation: 2005, V9, SHV 26
-      status: c
-      status_url: https://stashdb.org/edits/de423293-298f-4e61-b732-0152a1a4a15d

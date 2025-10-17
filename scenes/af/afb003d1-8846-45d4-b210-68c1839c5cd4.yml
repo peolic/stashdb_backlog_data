@@ -9,11 +9,9 @@ performers:
       name: Adam
       appearance: null
   append:
-    - id: null
+    - id: 58a76d67-e30b-49f9-b0f0-ae41317e0238
       name: Adam
       appearance: null
       disambiguation: 2005, V9, SHV 16
-      status: c
-      status_url: https://stashdb.org/edits/45f82947-9ce8-4a6c-b9c0-c424b98c417d
       notes:
         - Visible on the scene cover

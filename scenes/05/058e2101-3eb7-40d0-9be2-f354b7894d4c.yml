@@ -12,15 +12,11 @@ performers:
       name: Frank
       appearance: null
   append:
-    - id: null
+    - id: 61ebd608-98c5-4ed7-8538-ac8678fbd76f
       name: Tanya
       appearance: null
       disambiguation: 2004, V9, SHV 4
-      status: c
-      status_url: https://stashdb.org/edits/1533ed3d-1a91-4b7c-8b86-1ae794883a51
-    - id: null
+    - id: a163e51c-5427-409b-824d-4dde67faf9ab
       name: Frank
       appearance: null
       disambiguation: 2004, V9, SHV 4
-      status: c
-      status_url: https://stashdb.org/edits/19091b37-07f6-4076-94b0-4e4fbaed6f58

@@ -12,17 +12,13 @@ performers:
       name: Thomas Crown
       appearance: Thomas
   append:
-    - id: null
+    - id: a751bc53-7ce9-4791-9e10-a6b40e4ffc69
       name: Tamara
       appearance: null
       disambiguation: 2005, V9, SHV 26
-      status: c
-      status_url: https://stashdb.org/edits/e1399a60-d330-4d7d-baa8-107d34e04453
       notes:
         - Visible on scene cover
-    - id: null
+    - id: 7a115ebf-80f0-47e6-8565-22a76a08736a
       name: Thomas
       appearance: null
       disambiguation: 2005, V9, SHV 26
-      status: c
-      status_url: https://stashdb.org/edits/07080f00-3abf-478c-a567-a07974f3ec2f
