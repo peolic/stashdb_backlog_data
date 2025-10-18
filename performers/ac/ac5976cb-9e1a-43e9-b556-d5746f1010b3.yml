@@ -1,17 +1,6 @@
 split:
   name: Daniel
   fragments:
-    - column: Q
-      id: null
-      name: Daniel
-      text: Home Porno Tapes "Hot sex on vacation"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #4, Scene #2'
-        - name 'Daniel' may not match original
-      links:
-        - https://stashdb.org/scenes/d42bd0f8-ec31-45a7-b5b4-e72e8a94b7e0
-        - https://www.adultdvdempire.com/3767046/snatchd-4-stolen-home-videos-porn-videos.html
-        - https://www.iafd.com/title.rme/id=7c6228c9-e030-4d1a-8334-3749adc41c02
     - column: R
       id: null
       name: '[todo]'
@@ -21,6 +10,7 @@ split:
       links:
         - https://stashdb.org/scenes/751710d9-4f6c-41ed-b345-be276c8281d0
         - https://stashdb.org/scenes/ca93de03-2bce-4f12-8e66-86f3ade9b88b
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-08-05)
     - Best to move scenes and delete performer, rather than merging or renaming.

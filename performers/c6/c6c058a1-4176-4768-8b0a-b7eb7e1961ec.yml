@@ -1,20 +1,7 @@
 split:
   name: Tanya
-  fragments:
-    - column: S
-      id: null
-      name: Tanya
-      text: Home Porno Tapes "Our home video debut"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #4, Scene #3'
-        - 'also in: The Lost Honeymooners Tapes #4, Scene #3'
-        - name 'Tanya' may not match original
-      links:
-        - https://stashdb.org/scenes/058e2101-3eb7-40d0-9be2-f354b7894d4c
-        - https://www.adultdvdempire.com/3767046/snatchd-4-stolen-home-videos-porn-videos.html
-        - https://www.iafd.com/title.rme/id=7c6228c9-e030-4d1a-8334-3749adc41c02
-        - https://www.adultdvdempire.com/1525317/lost-honeymooners-tapes-vol-4-the-porn-videos.html#scene_260617
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,19 +1,6 @@
 split:
   name: Frank
   fragments:
-    - column: M
-      id: null
-      name: Frank[1]
-      text: Home Porno Tapes "Our home video debut"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #4, Scene #3'
-        - 'also in: The Lost Honeymooners Tapes #4, Scene #3'
-        - name 'Frank' may not match original
-      links:
-        - https://stashdb.org/scenes/058e2101-3eb7-40d0-9be2-f354b7894d4c
-        - https://www.adultdvdempire.com/3767046/snatchd-4-stolen-home-videos-porn-videos.html
-        - https://www.iafd.com/title.rme/id=7c6228c9-e030-4d1a-8334-3749adc41c02
-        - https://www.adultdvdempire.com/1525317/lost-honeymooners-tapes-vol-4-the-porn-videos.html#scene_260617
     - column: N
       id: null
       name: Frank[2]
@@ -26,6 +13,7 @@ split:
         - https://stashdb.org/images/60cba97b-e779-49d9-bb3e-cc5142ca1f96
         - https://www.adultdvdempire.com/2955587/snatchd-9-stolen-home-videos-porn-videos.html#scene_866378
         - https://www.iafd.com/title.rme/id=f19e6691-5861-471d-82be-c8f0db52de3e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.
