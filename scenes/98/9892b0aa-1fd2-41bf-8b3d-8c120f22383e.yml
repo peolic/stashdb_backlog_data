@@ -8,6 +8,9 @@ performers:
     - id: ccb54c4e-119a-472d-8852-5963132d1ba7
       name: Nick
       appearance: null
+    - id: b8633cd3-6066-43f6-a806-d5b94374a14d
+      name: Rebecca
+      appearance: null
   append:
     - id: null
       name: Nick
@@ -16,3 +19,8 @@ performers:
       status: new
       notes:
         - Visible on scene cover
+    - id: null
+      name: Rebecca
+      appearance: null
+      disambiguation: 2007, V9, SHV 31
+      status: new

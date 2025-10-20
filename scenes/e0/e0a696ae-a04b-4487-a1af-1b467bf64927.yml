@@ -1,0 +1,21 @@
+c_studio:
+  - Woodman Casting X
+  - null
+comments:
+  - https://www.indexxx.com/set/677819/woodmancastingx-tatjana-et-natasha/
+performers:
+  remove:
+    - id: 04d4e46d-034f-40a1-b179-a82664c7df55
+      name: Tatjana Et Natasha
+      appearance: null
+  append:
+    - id: null
+      name: Tatjana
+      appearance: null
+      disambiguation: Woodman Casting X, 1993
+      status: new
+    - id: null
+      name: Natasha
+      appearance: null
+      disambiguation: Woodman Casting X, 1993
+      status: new

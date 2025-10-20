@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 2d02df96-6fb0-4318-b47c-bb6381cf44cd
+      name: Rico
+      appearance: null
+  append:
+    - id: null
+      name: Rico
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Bottom on scene cover

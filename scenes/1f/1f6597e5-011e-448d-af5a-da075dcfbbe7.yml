@@ -1,0 +1,28 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'Same as Boys First Time #6, Scene #1'
+performers:
+  remove:
+    - id: 36bdeffc-5c73-44b8-a2f2-4ca1190960b8
+      name: Dylan
+      appearance: null
+    - id: a00f8a4d-9a1f-4ec8-97dc-85a0326f31fd
+      name: Ricardo
+      appearance: null
+  append:
+    - id: null
+      name: Dylan
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Top on the scene cover
+    - id: null
+      name: Ricardo
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Bottom on the scene cover

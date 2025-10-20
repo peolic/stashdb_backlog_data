@@ -1,0 +1,16 @@
+c_studio:
+  - GF Revenge
+  - null
+performers:
+  remove:
+    - id: 74981522-7910-48e5-8d18-42bbe199ac1a
+      name: Peter Stallion
+      appearance: null
+  append:
+    - id: null
+      name: Peter
+      appearance: null
+      disambiguation: 2015, GF Revenge
+      status: new
+      notes:
+        - https://www.realitykings.com/model/24555/peter
