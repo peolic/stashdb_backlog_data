@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: aee0d338-9ab8-4b5b-9e44-12f546fc2aed
+      name: Xavier
+      appearance: null
+  append:
+    - id: null
+      name: Xavier
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Bottom on scene cover

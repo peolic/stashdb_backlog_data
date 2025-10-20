@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 6187fc92-83c0-482b-a464-aee0bfc576f7
+      name: Adam
+      appearance: null
+    - id: f5270553-d175-4620-9832-9ee1725592a6
+      name: Robby
+      appearance: null
+  append:
+    - id: null
+      name: Adam
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      status: new
+      notes:
+        - Performer on the right on the scene cover
+    - id: null
+      name: Robby
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      status: new
+      notes:
+        - Guy on the left on the scene cover

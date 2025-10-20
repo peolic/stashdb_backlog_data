@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 6187fc92-83c0-482b-a464-aee0bfc576f7
+      name: Adam
+      appearance: null
+    - id: 60fb524a-14ef-408f-981d-f6928ea23e6e
+      name: Kaleb
+      appearance: null
+  append:
+    - id: null
+      name: Adam
+      appearance: null
+      disambiguation: Boys First Time, 2011
+      status: new
+      notes:
+        - Top on the scene cover
+    - id: null
+      name: Kaleb
+      appearance: null
+      disambiguation: Boys First Time, 2011
+      status: new
+      notes:
+        - Bottom on the scene cover

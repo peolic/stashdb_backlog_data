@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 414014ca-3324-4a3d-8d5f-1cd017e791a9
+      name: Jason
+      appearance: null
+  append:
+    - id: null
+      name: Jason
+      appearance: null
+      disambiguation: Boys First Time, 2003-03-31
+      status: new
+      notes:
+        - Solo male on the scene cover

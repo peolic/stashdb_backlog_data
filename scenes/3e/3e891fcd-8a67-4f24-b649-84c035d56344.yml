@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 6187fc92-83c0-482b-a464-aee0bfc576f7
+      name: Adam
+      appearance: null
+    - id: ceb4d710-9a52-4827-b063-1c3d01183575
+      name: Jaco
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Adam
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      status: new
+      notes:
+        - Bottom on the scene cover
+    - id: ceb4d710-9a52-4827-b063-1c3d01183575
+      name: Jaco
+      appearance: null
+      disambiguation: Boys First Time, 2003
+      notes:
+        - Top on the scene cover
