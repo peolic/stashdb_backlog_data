@@ -1,0 +1,18 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'Same as Boys First Time #28, Scene #2'
+performers:
+  remove:
+    - id: f86141d4-d2d7-4d21-aefa-6e42d670e097
+      name: Chase
+      appearance: null
+  append:
+    - id: null
+      name: Chase
+      appearance: null
+      disambiguation: Boys First Time, 2013
+      status: new
+      notes:
+        - Performer is partially visible
