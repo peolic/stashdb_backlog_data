@@ -1,0 +1,28 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Scene is in Snatch''d: Stolen Home Videos #5'
+performers:
+  remove:
+    - id: b18650fc-c42b-4361-9831-4f3ce0ea075d
+      name: Masha
+      appearance: null
+    - id: 2e1a3250-61a6-4b40-9d0b-183f1f0ecfb0
+      name: George
+      appearance: null
+  append:
+    - id: null
+      name: Masha
+      appearance: null
+      disambiguation: 2004, V9, SHV 5
+      status: new
+      notes:
+        - Visible on scene cover
+    - id: null
+      name: George
+      appearance: null
+      disambiguation: 2004, V9, SHV 5
+      status: new
+      notes:
+        - Partially visible on scene cover

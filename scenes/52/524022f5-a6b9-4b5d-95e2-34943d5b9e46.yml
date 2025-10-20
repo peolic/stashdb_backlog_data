@@ -1,0 +1,29 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'Same as Boys First Time #2, Scene #3'
+performers:
+  remove:
+    - id: 1f56851e-7f1c-495e-9a2d-8875b0d3d9f4
+      name: Aaron
+      appearance: null
+      disambiguation: Boys First Time
+    - id: ab6da433-cce4-4690-a34c-2b6bb3e31e1c
+      name: Mitch
+      appearance: null
+  append:
+    - id: null
+      name: Aaron
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Bottom on the scene cover
+    - id: null
+      name: Mitch
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Top on the scene cover
