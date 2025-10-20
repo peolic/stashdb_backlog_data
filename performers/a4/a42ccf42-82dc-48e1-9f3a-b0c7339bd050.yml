@@ -1,14 +1,6 @@
 split:
   name: Tom
   fragments:
-    - column: P
-      id: 84fe7de0-c685-4203-91fa-e573e726e75e
-      name: Tom (2015, 18videoz)
-      text: Sell Your GF
-      links:
-        - https://stashdb.org/images/53b3fac5-9d47-4cf0-bb43-f619cf7d5154
-        - https://stashdb.org/scenes/81254515-7d44-47a5-955a-09846ad33e2a
-        - https://stashdb.org/scenes/450e1af6-786f-4432-b42e-be2005c76c26
     - column: R
       id: null
       name: Tom (Dick Dorm)
@@ -18,6 +10,7 @@ split:
       links:
         - https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097
         - https://www.iafd.com/title.rme/id=d9d09d40-a495-4c8d-8049-c3d4838aa80e
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2022-07-27)
     - Best to move scenes and delete performer, rather than merging or renaming.

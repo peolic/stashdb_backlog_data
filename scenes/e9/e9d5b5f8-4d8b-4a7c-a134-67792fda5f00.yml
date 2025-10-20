@@ -1,0 +1,14 @@
+c_studio:
+  - Gay Revenge
+  - null
+performers:
+  remove:
+    - id: 65dcfb16-1e87-46ca-b287-64f5c658c499
+      name: Tristan
+      appearance: null
+  append:
+    - id: null
+      name: Tristan
+      appearance: null
+      disambiguation: Gay Revenge, 2011
+      status: new

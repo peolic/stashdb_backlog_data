@@ -9,13 +9,11 @@ performers:
       name: Tatjana Et Natasha
       appearance: null
   append:
-    - id: null
+    - id: 5ecd243d-9f61-421e-bd63-1cc24dddeb3a
       name: Tatjana
       appearance: null
       disambiguation: Woodman Casting X, 1993
-      status: new
-    - id: null
+    - id: c1310a7e-87ab-4a1c-9b2b-16870a54ca5c
       name: Natasha
       appearance: null
       disambiguation: Woodman Casting X, 1993
-      status: new

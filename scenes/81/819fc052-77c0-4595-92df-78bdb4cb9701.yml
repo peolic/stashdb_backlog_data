@@ -1,0 +1,40 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 2ba7b1c2-4178-4aee-ab6b-9131b29c52a5
+      name: Matthew
+      appearance: null
+    - id: 5d900dc2-fde3-4f44-843a-0e02c85eb768
+      name: Timothy
+      appearance: null
+  append:
+    - id: null
+      name: Angel
+      appearance: null
+      disambiguation: Dick Dorm, 2011-08-03
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21653/angel
+    - id: null
+      name: Jessie
+      appearance: null
+      disambiguation: Dick Dorm, 2011-08-03
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21647/jessie
+    - id: null
+      name: Matthew
+      appearance: null
+      disambiguation: Dick Dorm, 2011-08-03
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21649/matthew
+    - id: null
+      name: Timothy
+      appearance: null
+      disambiguation: Dick Dorm, 2011-08-03
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21651/timothy
