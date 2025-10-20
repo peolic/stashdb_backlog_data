@@ -1,0 +1,16 @@
+c_studio:
+  - Girls Next Door Abused
+  - null
+performers:
+  remove:
+    - id: 415368f0-98d3-48f0-a290-65a7d283afa2
+      name: Mike
+      appearance: null
+  append:
+    - id: null
+      name: Alex
+      appearance: Mike
+      disambiguation: 2007, V9, PHV 5
+      status: new
+      notes:
+        - Partially visible on the scene cover

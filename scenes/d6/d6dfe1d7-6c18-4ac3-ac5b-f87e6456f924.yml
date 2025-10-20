@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 5f380b48-6fc9-4102-83b9-8d355f7082ff
+      name: Anthony
+      appearance: null
+    - id: c67a492b-ba7c-41c9-bac8-d17fccdb4ae8
+      name: Gunnar
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Anthony
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Performer is the bottom on the scene cover
+    - id: c67a492b-ba7c-41c9-bac8-d17fccdb4ae8
+      name: Gunnar
+      appearance: null
+      disambiguation: Boys First Time, 2006

@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
+      name: Alex
+      appearance: null
+    - id: 61077aa9-f934-4fc8-9810-46847697211b
+      name: Davy
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Alex
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Bottom on scene cover
+    - id: 61077aa9-f934-4fc8-9810-46847697211b
+      name: Davy
+      appearance: null
+      disambiguation: Boys First Time, 2007

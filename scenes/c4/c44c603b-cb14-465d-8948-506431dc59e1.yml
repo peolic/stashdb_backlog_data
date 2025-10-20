@@ -1,0 +1,24 @@
+c_studio:
+  - Nasty Angels
+  - null
+comments:
+  - 'Same as Florida''s Amateurs #4, Scene #2'
+performers:
+  remove:
+    - id: d4092195-4585-4c6f-bf24-4b40a2e1b175
+      name: Amber
+      appearance: null
+    - id: 2ba7b1c2-4178-4aee-ab6b-9131b29c52a5
+      name: Matthew
+      appearance: null
+  append:
+    - id: null
+      name: Amber
+      appearance: null
+      disambiguation: Major Video Concepts, 2007, FA 2
+      status: new
+    - id: null
+      name: Matthew
+      appearance: null
+      disambiguation: Major Video Concepts, 2007, FA 2
+      status: new

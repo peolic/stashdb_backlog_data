@@ -1,0 +1,28 @@
+c_studio:
+  - Home Porno Tapes
+  - null
+comments:
+  - 'Same as Snatch''d: Stolen Home Videos #33, Scene #2'
+performers:
+  remove:
+    - id: eb9bbdcf-beb4-4ef5-8d11-995c327cab0f
+      name: Ashley
+      appearance: null
+    - id: b6762740-76f3-48ba-9440-b7ba6863bd3c
+      name: Jake
+      appearance: null
+  append:
+    - id: null
+      name: Ashley
+      appearance: null
+      disambiguation: 2007, V9, SHV 33
+      status: new
+      notes:
+        - Performer is visible on scene cover
+    - id: null
+      name: Jake
+      appearance: null
+      disambiguation: 2007, V9, SHV 33
+      status: new
+      notes:
+        - Partially visible on scene cover with tattoos

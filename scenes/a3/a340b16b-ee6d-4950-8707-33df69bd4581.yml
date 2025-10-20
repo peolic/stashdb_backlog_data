@@ -1,0 +1,12 @@
+c_studio:
+  - Young Libertines
+  - null
+performers:
+  remove:
+    - id: f6d0b2fa-821e-4b93-b2e5-97d0963ecee9
+      name: Anton
+      appearance: null
+  append:
+    - id: f1d0865e-6bf6-4222-8018-893e02ed6121
+      name: Kristof Cale
+      appearance: Anton

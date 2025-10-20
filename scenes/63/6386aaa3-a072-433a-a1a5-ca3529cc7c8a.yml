@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
+      name: Alex
+      appearance: null
+  append:
+    - id: null
+      name: Alex
+      appearance: null
+      disambiguation: Boys First Time, 2010
+      status: new
+      notes:
+        - Bottom on the scene cover

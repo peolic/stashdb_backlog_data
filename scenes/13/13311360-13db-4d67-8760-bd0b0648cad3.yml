@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: dd9512ca-3332-4330-be6e-89eaff72f2fa
+      name: Brad
+      appearance: null
+  append:
+    - id: null
+      name: Brad
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo performer on the scene cover

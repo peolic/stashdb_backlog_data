@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 63a4c394-cb34-46d7-8292-eb1dcab739fc
+      name: Christopher
+      appearance: null
+    - id: 3498013c-5c5b-44f7-8807-f4e9b33977b3
+      name: Kb
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Christopher
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
+      notes:
+        - Bottom on scene cover
+    - id: 3498013c-5c5b-44f7-8807-f4e9b33977b3
+      name: Kb
+      appearance: null
+      disambiguation: Boys First Time, 2007

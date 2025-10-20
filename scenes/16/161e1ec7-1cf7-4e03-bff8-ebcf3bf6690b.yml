@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 55d494b3-166c-4847-acac-84593cc28050
+      name: Andrew
+      appearance: null
+    - id: 9e81750d-7343-4763-9768-4b63387dcbb7
+      name: Enrique
+      appearance: null
+  append:
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
+      notes:
+        - Performer getting dick sucked on scene cover
+    - id: null
+      name: Enrique
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
+      notes:
+        - Performer sucking dick on scene cover
