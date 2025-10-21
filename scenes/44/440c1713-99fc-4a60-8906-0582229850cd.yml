@@ -7,11 +7,9 @@ performers:
       name: Dino
       appearance: null
   append:
-    - id: null
+    - id: c790ae57-5065-403e-95f4-499420c72cd8
       name: Dino
       appearance: null
       disambiguation: Boy First Time, 2006
-      status: c
-      status_url: https://stashdb.org/edits/4cf87985-a6c4-4353-ade5-4d6b620d963d
       notes:
         - Solo male on scene cover

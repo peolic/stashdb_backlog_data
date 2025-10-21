@@ -7,11 +7,9 @@ performers:
       name: Chris
       appearance: null
   append:
-    - id: null
+    - id: 3d915bf0-a30b-400a-af89-5c9c9ec7f9ca
       name: Chris
       appearance: null
       disambiguation: 2012, Sell Your GF
-      status: c
-      status_url: https://stashdb.org/edits/01cc15d4-fc5d-4825-9c82-09f82379121f
       notes:
         - https://stashdb.org/images/6f564434-f0c5-4fab-9c3a-e91318f8634a
