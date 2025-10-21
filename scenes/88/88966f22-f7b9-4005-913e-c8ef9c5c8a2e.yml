@@ -6,10 +6,6 @@ performers:
     - id: 14090f4c-94d3-4bac-9ceb-cf403b5f14d8
       name: Jr
       appearance: null
-    - id: 6bc9fd4e-a81f-4ded-aa28-c1e2e8181d53
-      name: Leei
-      appearance: null
-      status: edit
   append:
     - id: 09f7962e-fb63-465b-a014-43536a5fa3aa
       name: JR
@@ -17,7 +13,3 @@ performers:
       disambiguation: Boys First Time, 2011-05
       notes:
         - Performer on the right on the scene cover
-    - id: 6bc9fd4e-a81f-4ded-aa28-c1e2e8181d53
-      name: Leei
-      appearance: null
-      disambiguation: Boys First Time, 2011
