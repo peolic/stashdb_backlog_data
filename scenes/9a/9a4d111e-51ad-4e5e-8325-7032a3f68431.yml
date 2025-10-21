@@ -3,14 +3,14 @@ c_studio:
   - null
 performers:
   remove:
-    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
-      name: Alex
+    - id: 0c660c26-fc2f-4e69-bffa-acf787e49c6c
+      name: Jamie
       appearance: null
   append:
     - id: null
-      name: Alex
+      name: Jamie
       appearance: null
-      disambiguation: Boys First Time, 2007
+      disambiguation: Boys First Time, 2004
       status: new
       notes:
-        - Bottom on scene cover
+        - Solo male on scene cover

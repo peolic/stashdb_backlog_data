@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 4c83158b-970e-4c1c-bcdd-5d5d828de303
+      name: Isaac
+      appearance: null
+    - id: f6bd16cf-e6e6-467e-b728-af2580057910
+      name: Khriztian
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Isaac
+      appearance: null
+      disambiguation: Boys First Time, 2012
+      status: new
+      notes:
+        - Partially visible on left of scene cover
+    - id: f6bd16cf-e6e6-467e-b728-af2580057910
+      name: Khriztian
+      appearance: null
+      disambiguation: Boys First Time, 2012

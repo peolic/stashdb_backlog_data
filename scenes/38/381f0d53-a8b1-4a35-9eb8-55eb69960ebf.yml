@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 26bad730-2e79-47ec-bcd3-a4e5f21253b7
+      name: Sam
+      appearance: null
+  append:
+    - id: null
+      name: Sam
+      appearance: null
+      disambiguation: Boys First Time, 2008-10-31
+      status: new
+      notes:
+        - Solo male visible on the scene cover

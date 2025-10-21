@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 0c660c26-fc2f-4e69-bffa-acf787e49c6c
+      name: Jamie
+      appearance: null
+  append:
+    - id: null
+      name: Jamie
+      appearance: null
+      disambiguation: Boys First Time, 2012
+      status: new
+      notes:
+        - Face visible on scene cover

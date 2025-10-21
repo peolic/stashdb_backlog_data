@@ -3,14 +3,14 @@ c_studio:
   - null
 performers:
   remove:
-    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
-      name: Alex
+    - id: d66532b5-a426-4188-ae1e-15886e75fdaa
+      name: Johnny
       appearance: null
   append:
     - id: null
-      name: Alex
+      name: Johnny
       appearance: null
-      disambiguation: Boys First Time, 2007
+      disambiguation: Boys First Time, 2014
       status: new
       notes:
-        - Bottom on scene cover
+        - Top on the scene cover

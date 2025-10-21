@@ -3,18 +3,10 @@ c_studio:
   - null
 performers:
   remove:
-    - id: 3498013c-5c5b-44f7-8807-f4e9b33977b3
-      name: Kb
-      appearance: null
-      status: edit
     - id: 5dbeb152-92e6-4942-a6e5-d84cbc6cc98b
       name: Kenny
       appearance: null
   append:
-    - id: 3498013c-5c5b-44f7-8807-f4e9b33977b3
-      name: Kb
-      appearance: null
-      disambiguation: Boys First Time, 2007
     - id: null
       name: Kenny
       appearance: null

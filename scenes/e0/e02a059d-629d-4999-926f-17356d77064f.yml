@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: b4063992-ce54-4285-ae5f-3cedbd7fcd8f
+      name: James
+      appearance: null
+    - id: ccc7a458-6a52-49d4-a02e-d8202da25270
+      name: Willie
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: James
+      appearance: null
+      disambiguation: Boys First Time, 2007
+      status: new
+      notes:
+        - Bottom on the scene cover
+    - id: ccc7a458-6a52-49d4-a02e-d8202da25270
+      name: Willie
+      appearance: null
+      disambiguation: Boys First Time, 2007

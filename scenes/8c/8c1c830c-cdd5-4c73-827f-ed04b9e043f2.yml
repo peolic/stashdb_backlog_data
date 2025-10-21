@@ -1,0 +1,17 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: b6762740-76f3-48ba-9440-b7ba6863bd3c
+      name: Jake
+      appearance: null
+  append:
+    - id: null
+      name: Jake
+      appearance: null
+      disambiguation: Boys First Time, 2012
+      status: new
+      notes:
+        - https://www.themoviedb.org/person/4468929-jake
+        - 'Bottom on the scene cover. Possibly the same as Jake (Dick Dorm, 2012): https://stashdb.org/performers/c721e9a7-3487-40b6-811c-711d6bc81916'

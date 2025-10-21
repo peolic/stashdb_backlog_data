@@ -3,20 +3,10 @@ c_studio:
   - null
 performers:
   remove:
-    - id: cbec510d-af7d-4a2c-9307-e374c7ace470
-      name: Myth
-      appearance: null
-      status: edit
     - id: 83c7e27b-b48b-453b-a48a-1c28d3d64b33
       name: Sage
       appearance: null
   append:
-    - id: cbec510d-af7d-4a2c-9307-e374c7ace470
-      name: Myth
-      appearance: null
-      disambiguation: Boys First Time, 2008
-      notes:
-        - Partially visible on the right on the scene cover
     - id: null
       name: Sage
       appearance: null
