@@ -9,11 +9,9 @@ performers:
       name: Christy
       appearance: null
   append:
-    - id: null
+    - id: 326cffb7-b802-48aa-8c5c-cc99ee7fd25c
       name: Zarina
       appearance: Christy
       disambiguation: 2007, V9, PHV 9
-      status: c
-      status_url: https://stashdb.org/edits/dee72780-51a4-438e-868c-e60ca46afd47
       notes:
         - https://www.iafd.com/person.rme/id=67024fe0-62c6-4fbb-9d46-b82112b52c3f

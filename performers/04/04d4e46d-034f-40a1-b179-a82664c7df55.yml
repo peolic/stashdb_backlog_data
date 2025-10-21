@@ -1,16 +1,7 @@
 split:
   name: Tatjana Et Natasha
-  fragments:
-    - column: I
-      id: null
-      name: Tatjana (Woodman Casting X, 1993)
-      links:
-        - https://stashdb.org/scenes/e0a696ae-a04b-4487-a1af-1b467bf64927
-    - column: J
-      id: null
-      name: Natasha (Woodman Casting X, 1993)
-      links:
-        - https://stashdb.org/scenes/e0a696ae-a04b-4487-a1af-1b467bf64927
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Amalgamated performer - indexxx
   links:

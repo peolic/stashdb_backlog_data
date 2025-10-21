@@ -9,11 +9,9 @@ performers:
       name: Lexie
       appearance: null
   append:
-    - id: null
+    - id: e00db007-31b5-4a48-8e24-33243267bf6f
       name: Lexie
       appearance: null
       disambiguation: 2004, V9, SHV 5
-      status: c
-      status_url: https://stashdb.org/edits/9dc4755d-6d8d-4a88-8c45-4cd05a9d7994
       notes:
         - Visible on the scene cover
