@@ -14,14 +14,16 @@ performers:
       name: Lance
       appearance: null
       disambiguation: Reality Dudes, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/a49955fc-d35c-4e9c-b05e-b8e076ffca71
       notes:
-        - Top on scene cover
+        - Bottom on scene cover
     - id: null
       name: Tyler
       appearance: null
       disambiguation: Boys First Time, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/32908b86-e499-4460-b371-3f0d77e09a78
       notes:
         - Bottom on scene cover
         - Possibly Michael Rocan (via Stashface)

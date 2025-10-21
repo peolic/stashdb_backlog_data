@@ -6,13 +6,14 @@ comments:
 performers:
   remove:
     - id: 5a1af8bf-466e-4121-9957-673ca571e726
-      name: Christine
+      name: Christie
       appearance: null
   append:
     - id: null
-      name: Christine
+      name: Christie
       appearance: null
       disambiguation: Devil's Film, 2006
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/90f74401-d9d6-4a52-8a97-598e18f02c93
       notes:
         - Performer is solo on scene cover
