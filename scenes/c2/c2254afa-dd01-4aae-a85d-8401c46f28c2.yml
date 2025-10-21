@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: a5c7e58a-0324-4a62-a57a-0eb0ee4313ed
+      name: Josh
+      appearance: null
+  append:
+    - id: null
+      name: Josh
+      appearance: null
+      disambiguation: Boys First Time, 2002
+      status: new
+      notes:
+        - Solo male on scene cover

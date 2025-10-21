@@ -1,0 +1,18 @@
+c_studio:
+  - Boys First Time
+  - null
+comments:
+  - 'Same as Boys First Time #24, Scene #1'
+performers:
+  remove:
+    - id: 0c6d1503-b56c-4c21-9d14-859377470025
+      name: Chris
+      appearance: null
+  append:
+    - id: null
+      name: Chris
+      appearance: null
+      disambiguation: Boys First Time, 2011
+      status: new
+      notes:
+        - Bottom on the scene cover

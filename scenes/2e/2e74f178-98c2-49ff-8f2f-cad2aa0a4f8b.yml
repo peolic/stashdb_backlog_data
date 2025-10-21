@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 9812ebde-7c0f-42a7-914c-97efaf5c806e
+      name: Dustin
+      appearance: null
+  append:
+    - id: null
+      name: Dustin
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo male performer on scene cover

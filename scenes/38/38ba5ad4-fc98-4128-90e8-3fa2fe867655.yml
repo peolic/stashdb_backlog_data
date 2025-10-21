@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: a5667b49-dd41-43e0-82d0-de7c405b8925
+      name: Eric
+      appearance: null
+  append:
+    - id: null
+      name: Eric
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo male on scene cover

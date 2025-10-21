@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: b8cde34c-1cf4-48ab-8688-09cfac7430d9
+      name: Dino
+      appearance: null
+  append:
+    - id: null
+      name: Dino
+      appearance: null
+      disambiguation: Boy First Time, 2006
+      status: new
+      notes:
+        - Solo male on scene cover

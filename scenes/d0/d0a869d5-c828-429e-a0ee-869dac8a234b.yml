@@ -1,5 +1,31 @@
+c_studio:
+  - Boys First Time
+  - null
 fingerprints:
   - algorithm: phash
     hash: 80a26a8856fcfddc
     correct_scene_id: 62b1ba55-14eb-420c-9166-935ea12cdaad
     duration: 1278
+performers:
+  remove:
+    - id: 435fa3bc-6979-4b3a-9e31-9b78e5b78212
+      name: Dana
+      appearance: null
+    - id: 746ac675-cf48-4d26-81bb-4a74e99df88c
+      name: Steveo
+      appearance: null
+  append:
+    - id: null
+      name: Dana
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Bottom in the scene cover
+    - id: null
+      name: Steveo
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Top in the scene cover

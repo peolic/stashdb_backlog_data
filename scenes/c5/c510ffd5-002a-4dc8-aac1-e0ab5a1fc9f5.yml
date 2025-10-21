@@ -1,0 +1,19 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 9e81750d-7343-4763-9768-4b63387dcbb7
+      name: Enrique
+      appearance: null
+  append:
+    - id: null
+      name: Enrique
+      appearance: null
+      disambiguation: Boys First Time, 2002
+      status: new
+    - id: null
+      name: Thomas
+      appearance: null
+      disambiguation: Boys First Time, 2002
+      status: new
