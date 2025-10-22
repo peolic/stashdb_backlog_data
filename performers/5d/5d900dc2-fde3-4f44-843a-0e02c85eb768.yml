@@ -1,14 +1,7 @@
 split:
   name: Timothy
-  fragments:
-    - column: M
-      id: null
-      name: Timothy (Dick Dorm, 2011-08)
-      text: Dick Dorm "Take It"
-      links:
-        - https://stashdb.org/scenes/819fc052-77c0-4595-92df-78bdb4cb9701
-        - https://www.iafd.com/title.rme/id=97a79dd3-04d7-48cf-b533-66418fd4be1f
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.
