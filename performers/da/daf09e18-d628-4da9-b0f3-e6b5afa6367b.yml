@@ -1,16 +1,6 @@
 split:
   name: Tyler
   fragments:
-    - column: T
-      id: caefa171-1a5b-4623-8d73-ae8985d30297
-      name: Tyler (Boys First Time, 2007)
-      notes:
-        - '- Boys First Time "Cum On In"'
-        - '- Boys First Time "Nature Nuts"'
-        - Possibly Michael Rocan (via Stashface)
-      links:
-        - https://stashdb.org/scenes/d6b718db-f83c-4f23-8685-3f7884fc7650
-        - https://stashdb.org/scenes/6b573451-ceb4-4fdd-b12e-e8d102b60fb4
     - column: U
       id: null
       name: Tyler (Boys First Time, 2011)
@@ -20,6 +10,7 @@ split:
       links:
         - https://stashdb.org/scenes/2a6127ac-427b-4223-8d90-2a48c470adea
         - https://stashdb.org/scenes/14ac1f82-37c1-4095-a27e-68404ba81655
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-10)
     - Best to move scenes and delete performer, rather than merging or renaming.

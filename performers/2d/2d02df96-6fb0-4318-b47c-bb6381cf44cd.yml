@@ -1,15 +1,6 @@
 split:
   name: Rico
-  fragments:
-    - column: N
-      id: 83b7b946-6246-4db2-a19e-e73882e9f50b
-      name: Rico (Boys First Time, 2006)
-      notes:
-        - '- Boys First Time "Sauve"'
-        - '- Boys First Time "Ay Que Rico"'
-      links:
-        - https://stashdb.org/scenes/0136ab20-b56d-429e-ba88-be97ba09611a
-        - https://stashdb.org/scenes/774678ad-8042-41b4-8f67-7cce17faa94d
+  fragments: []
   status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)

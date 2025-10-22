@@ -4,22 +4,19 @@ split:
     - column: P
       id: null
       name: Austin (Dick Dorm, 2011)
-      notes:
-        - '- Dick Dorm "Blast Off"'
+      text: Dick Dorm "Blast Off"
       links:
         - https://stashdb.org/scenes/f2d9b90c-d1ad-4472-b796-d1b6bce0c0ac
     - column: Q
       id: null
       name: Austin (Boys First Time, 2010)
-      notes:
-        - '- Boys First Time "Man Hole"'
+      text: Boys First Time "Man Hole"
       links:
         - https://stashdb.org/scenes/61fd161b-f9f7-4b9b-9928-2a302866e9a8
     - column: R
       id: null
       name: Austin (Boys First Time, 2005)
-      notes:
-        - '- Boys First Time "Bananna Hammock"'
+      text: Boys First Time "Bananna Hammock"
       links:
         - https://stashdb.org/scenes/7f638b12-fbcf-44f0-b1de-fb851a3ad981
   notes:

@@ -4,8 +4,7 @@ split:
     - column: O
       id: null
       name: Dani (Boys First Time, 2005)
-      notes:
-        - '- Boys First Time "Ass Jockey"'
+      text: Boys First Time "Ass Jockey"
       links:
         - https://stashdb.org/scenes/eb9074e6-72fb-412a-936d-db9b72045322
   status: single fragment remains

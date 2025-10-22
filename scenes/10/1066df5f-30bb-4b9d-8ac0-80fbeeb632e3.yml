@@ -5,20 +5,20 @@ comments:
   - 'Same as Porno Home Movies #2, Scene #1'
 performers:
   remove:
-    - id: 0b2a9433-b680-4ddc-ba96-cec61920c64f
-      name: Dina
-      appearance: null
     - id: 435fa3bc-6979-4b3a-9e31-9b78e5b78212
       name: Dana
       appearance: null
+    - id: 0b2a9433-b680-4ddc-ba96-cec61920c64f
+      name: Dina
+      appearance: null
   append:
     - id: null
-      name: Dina
+      name: Dana
       appearance: null
       disambiguation: 2007, V9, PHV 2
       status: new
     - id: null
-      name: Dana
+      name: Dina
       appearance: null
       disambiguation: 2007, V9, PHV 2
       status: new
