@@ -4,9 +4,7 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 7c487e81-a128-4695-a293-f93888eb97e2
       name: Andrew
       appearance: null
       disambiguation: Seductive 18
-      status: c
-      status_url: https://stashdb.org/edits/75c40e25-808c-4ac8-9b74-273c595b99b4
