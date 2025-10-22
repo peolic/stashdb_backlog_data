@@ -1,13 +1,7 @@
 split:
   name: Heather
-  fragments:
-    - column: O
-      id: null
-      name: Heather (Nasty Angels)
-      text: Nasty Angels "In bed with sexy neighbor"
-      links:
-        - https://stashdb.org/scenes/963e5137-5a2e-4065-be79-1bb8d65ab129
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-08-29)
     - Best to move scenes and delete performer, rather than merging or renaming.

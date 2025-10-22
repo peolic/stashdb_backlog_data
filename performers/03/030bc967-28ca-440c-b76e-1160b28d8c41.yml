@@ -1,16 +1,7 @@
 split:
   name: Greg
-  fragments:
-    - column: N
-      id: null
-      name: Greg (Sell Your GF, 2014)
-      notes:
-        - '- Sell Your GF "Fuck for vacation money"'
-        - '- Sell Your GF "Sex dessert on a kitchen table"'
-      links:
-        - https://stashdb.org/scenes/b1c20d5c-cfaa-47d1-895f-2f42067c6db7
-        - https://stashdb.org/scenes/d51e024a-6a09-40b6-a9b7-a6c59e834d70
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

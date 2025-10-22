@@ -1,13 +1,7 @@
 split:
   name: Giovanni
-  fragments:
-    - column: M
-      id: null
-      name: Giovanni (Boys First Time, 2003)
-      text: Boys First Time "Pole Pulling"
-      links:
-        - https://stashdb.org/scenes/3bf9cf7f-5286-4bce-a93d-f0c7ed6c1c7e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,16 +1,7 @@
 split:
   name: Joel
-  fragments:
-    - column: M
-      id: null
-      name: Joel (Boys First Time, 2011)
-      notes:
-        - '- Boys First Time "Rock Hard Ricky"'
-        - '- Gay Revenge "On The Pole"'
-      links:
-        - https://stashdb.org/scenes/fb4acd32-6471-422b-b499-6b57cd469f3f
-        - https://stashdb.org/scenes/73eb4c6b-9bf1-4e5c-a4f5-cce4e2d60d96
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,17 +1,6 @@
 split:
   name: Lance
-  fragments:
-    - column: J
-      id: null
-      name: Lance (Reality Dudes, 2007)
-      notes:
-        - '- Gay Revenge "The Meat Massage"'
-        - '- Boys First Time "The Reach Around"'
-        - '- Boys First Time "Cum On In"'
-      links:
-        - https://stashdb.org/scenes/737ade15-8834-46d5-81c1-1865649c81c5
-        - https://stashdb.org/scenes/be440570-235a-4a4c-b8aa-291c28d334c0
-        - https://stashdb.org/scenes/d6b718db-f83c-4f23-8685-3f7884fc7650
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)

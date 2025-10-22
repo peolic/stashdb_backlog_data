@@ -7,12 +7,7 @@ split:
       links:
         - https://stashdb.org/scenes/e4cfe9bd-d757-4b0b-b400-afec60be0218
         - https://stashdb.org/scenes/d71e5480-8abe-40e0-ac17-2d782eedc996
-    - column: O
-      id: null
-      name: Brad (2004, Boys First Time)
-      text: Boys First Time "Main Attraction"
-      links:
-        - https://stashdb.org/scenes/13311360-13db-4d67-8760-bd0b0648cad3
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

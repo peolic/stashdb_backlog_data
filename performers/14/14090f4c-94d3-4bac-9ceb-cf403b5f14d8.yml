@@ -1,22 +1,7 @@
 split:
   name: Jr
-  fragments:
-    - column: J
-      id: null
-      name: JR (Boys First Time, 2011-05)
-      notes:
-        - '- Boys First Time "Ready For Action"'
-        - '- Boys First Time "For Fucks Sake"'
-        - '- Boys First Time "Up In Blaze"'
-        - '- Boys First Time "Sword Fight"'
-        - '- Gay Revenge "Loving Cock"'
-      links:
-        - https://stashdb.org/scenes/698b3dce-7840-4169-a541-2f2b99a73dac
-        - https://stashdb.org/scenes/15c63636-9804-48e1-8258-5698a32f4546
-        - https://stashdb.org/scenes/99f3bc7e-7ab4-4982-918b-77a6ee20ccb4
-        - https://stashdb.org/scenes/88966f22-f7b9-4005-913e-c8ef9c5c8a2e
-        - https://stashdb.org/scenes/fca2a2aa-ee2b-445b-a406-a83ddef702ee
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-10-21)
     - Best to move scenes and delete performer, rather than merging or renaming.

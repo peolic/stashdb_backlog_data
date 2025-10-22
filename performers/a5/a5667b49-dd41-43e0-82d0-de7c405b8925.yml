@@ -1,11 +1,6 @@
 split:
   name: Eric
-  fragments:
-    - column: N
-      id: null
-      name: Eric (Boys First Time, 2004)
-      links:
-        - https://stashdb.org/scenes/38ba5ad4-fc98-4128-90e8-3fa2fe867655
+  fragments: []
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.

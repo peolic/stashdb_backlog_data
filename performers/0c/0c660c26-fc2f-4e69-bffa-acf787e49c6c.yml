@@ -1,16 +1,12 @@
 split:
   name: Jamie
   fragments:
-    - column: AD
-      id: null
-      name: Jamie (Boys First Time, 2004)
-      links:
-        - https://stashdb.org/scenes/9a4d111e-51ad-4e5e-8325-7032a3f68431
     - column: AE
       id: null
       name: Jamie (Boys First Time, 2012)
       links:
         - https://stashdb.org/scenes/eda421c9-2d7e-4c73-9b5e-a0c6340b72b8
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.

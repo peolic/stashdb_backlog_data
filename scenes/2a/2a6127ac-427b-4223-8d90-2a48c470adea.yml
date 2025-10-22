@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: daf09e18-d628-4da9-b0f3-e6b5afa6367b
+      name: Tyler
+      appearance: null
+    - id: 4b103aac-1186-4135-8144-8f400040c0c7
+      name: Herald
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Tyler
+      appearance: null
+      disambiguation: Boys First Time, 2010
+      status: new
+      notes:
+        - Top on the scene cover
+    - id: 4b103aac-1186-4135-8144-8f400040c0c7
+      name: Herald
+      appearance: null
+      disambiguation: Boys First Time, 2011
+      notes:
+        - Bottom on the scene cover

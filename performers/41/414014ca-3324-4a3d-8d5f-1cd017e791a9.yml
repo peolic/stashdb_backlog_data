@@ -1,18 +1,6 @@
 split:
   name: Jason
   fragments:
-    - column: Q
-      id: null
-      name: Jason (Boys First Time, 2007-09-07)
-      text: Boys First Time "Nature Nuts"
-      links:
-        - https://stashdb.org/scenes/6b573451-ceb4-4fdd-b12e-e8d102b60fb4
-    - column: S
-      id: null
-      name: Jason (Boys First Time, 2003)
-      text: Boys First Time "Jerk It"
-      links:
-        - https://stashdb.org/scenes/960d4b75-2bc1-41b8-b0f3-8c3c82cb6462
     - column: T
       id: null
       name: Jason (GF Revenge, 2010-01-01)

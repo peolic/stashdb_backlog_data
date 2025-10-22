@@ -1,17 +1,6 @@
 split:
   name: Lexie
-  fragments:
-    - column: K
-      id: null
-      name: Lexie (Home Porno Tapes, 2012)
-      text: Home Porno Tapes "Striptease, sex and shower"
-      notes:
-        - 'same as Snatch''d: Stolen Home Videos #5, Scene #?'
-        - 'same as The Lost Honeymooners Tapes #5, Scene #?'
-        - neither are available to confirm a scene number
-      links:
-        - https://stashdb.org/scenes/e1ee1f4e-b634-4eb1-8dba-83fe04140991
-        - https://www.adultdvdmarketplace.com/dvd_view_66392.html
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)

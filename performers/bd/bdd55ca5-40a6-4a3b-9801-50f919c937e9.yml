@@ -1,14 +1,7 @@
 split:
   name: Dan
-  fragments:
-    - column: L
-      id: null
-      name: '? Dan (Trick Your GF)'
-      text: '[cuckold]'
-      links:
-        - https://stashdb.org/scenes/603d7bbd-4086-4a53-811f-b8d44c888081
-        - https://stashdb.org/scenes/f706e70e-ae6e-4665-8d27-76c79cb6d582
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-03-03)
     - Best to move scenes and delete performer, rather than merging or renaming.
