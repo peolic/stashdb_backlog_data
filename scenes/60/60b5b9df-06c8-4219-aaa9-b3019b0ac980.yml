@@ -1,0 +1,11 @@
+c_studio:
+  - Nasty Angels
+  - null
+comments:
+  - Richy Silverado is the blonde guy. Might be called Petr or Karl or unnamed
+performers:
+  remove: []
+  append:
+    - id: 3ee4a3e5-ea2c-4062-9972-cbf89cd94fbc
+      name: Richy Silverado
+      appearance: null
