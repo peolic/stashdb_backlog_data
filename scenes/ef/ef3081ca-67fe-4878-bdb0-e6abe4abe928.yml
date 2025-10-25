@@ -1,0 +1,17 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 1444f8ae-b7ab-48d7-bf89-b7246ce1147f
+      name: Cade
+      appearance: null
+      disambiguation: Sean Cody
+  append:
+    - id: null
+      name: Cade
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo male on scene cover, has a distinctive mole not present on the other Cade

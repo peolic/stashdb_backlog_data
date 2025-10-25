@@ -1,0 +1,17 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 3da80281-f380-4a3d-976b-5ff1a871cc4d
+      name: Kent
+      appearance: null
+      disambiguation: Sean Cody 2013
+  append:
+    - id: null
+      name: Kent
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo male on scene cover

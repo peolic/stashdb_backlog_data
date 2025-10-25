@@ -1,0 +1,25 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 76e5e3bd-aa66-48da-a072-1e35daef0b30
+      name: Tristen
+      appearance: null
+      disambiguation: 2010, ExploitedX
+    - id: 54b8cff2-c86f-4861-9406-38050816b4c5
+      name: Tialer
+      appearance: null
+      status: edit
+  append:
+    - id: null
+      name: Tristen
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - DOB is 1980-11-09, black perfromer on scene cover
+    - id: 54b8cff2-c86f-4861-9406-38050816b4c5
+      name: Tialer
+      appearance: null
+      disambiguation: Boys First Time, 2004

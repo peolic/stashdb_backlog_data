@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 0d334f7d-bb75-4cfe-9946-7c7b20a0c734
+      name: Chester
+      appearance: null
+  append:
+    - id: null
+      name: Chester
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Solo male on scene cover

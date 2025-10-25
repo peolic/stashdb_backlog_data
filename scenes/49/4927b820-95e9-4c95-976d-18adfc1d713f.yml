@@ -1,0 +1,16 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: f79f8ed7-a7f6-4a7b-93c7-5f88fb449ca4
+      name: Michel
+      appearance: null
+  append:
+    - id: null
+      name: Michel
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Solo male on scene cover
