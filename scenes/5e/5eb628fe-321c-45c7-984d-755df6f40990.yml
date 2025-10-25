@@ -1,0 +1,17 @@
+c_studio:
+  - Tranny Surprise
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=a1d94ea5-958f-43e6-9081-edffb59b7fbe
+performers:
+  remove:
+    - id: b5598f3d-fd64-4398-b0f1-84c4e826cc78
+      name: Edu
+      appearance: null
+  append:
+    - id: null
+      name: Edu
+      appearance: null
+      disambiguation: Tranny Surprise, 2004
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0b0f63e1-2170-4574-a74f-0d57f87c50d0

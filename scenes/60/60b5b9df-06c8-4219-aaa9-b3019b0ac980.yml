@@ -9,7 +9,28 @@ performers:
       name: Petr
       appearance: null
       disambiguation: 18videoz
+    - id: 9bfc37f6-e919-421d-84ea-8776ecddc146
+      name: Karl
+      appearance: null
+    - id: c7add0da-01c0-4f23-b71f-67dc34220f42
+      name: Eva
+      appearance: null
   append:
     - id: 3ee4a3e5-ea2c-4062-9972-cbf89cd94fbc
       name: Richy Silverado
       appearance: Petr
+    - id: null
+      name: Karl
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: new
+    - id: null
+      name: Eva
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: new
+    - id: null
+      name: Denis
+      appearance: null
+      disambiguation: Nasty Angels, 2011
+      status: new

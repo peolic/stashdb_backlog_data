@@ -1,0 +1,11 @@
+split:
+  name: Guy
+  fragments:
+    - column: I
+      id: null
+      name: Guy (Boys First Time, 2004)
+      text: Boys First Time "Man Marbles"
+  status: single fragment remains
+  notes:
+    - Mix of multiple performers (partial list)
+    - Best to move scenes and delete performer, rather than merging or renaming.

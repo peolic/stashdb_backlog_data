@@ -1,0 +1,24 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: f72cc419-9483-4d33-a724-4891bf18fa75
+      name: Addam
+      appearance: null
+      status: edit
+    - id: 65651329-399e-4d4b-955a-1608695888a8
+      name: Mo
+      appearance: null
+  append:
+    - id: f72cc419-9483-4d33-a724-4891bf18fa75
+      name: Addam
+      appearance: null
+      disambiguation: Boys First Time, 2004
+    - id: null
+      name: Mo
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+      notes:
+        - Performer on the left on the scene cover
