@@ -19,6 +19,8 @@ split:
       id: null
       name: Eli (Boys First Time, 2003)
       text: Boys First Time "Hard Day"
+      links:
+        - https://stashdb.org/scenes/4184f923-4a57-47c8-bf30-819f4af4c991
   notes:
     - Mix of multiple performers (complete list as of 2025-10-25)
     - Best to move scenes and delete performer, rather than merging or renaming.
