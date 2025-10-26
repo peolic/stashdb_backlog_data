@@ -14,13 +14,15 @@ performers:
       name: Adam
       appearance: null
       disambiguation: Boys First Time, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/f4fe44fc-5def-4e4a-bfe4-09585019672c
       notes:
         - Top on the scene cover
     - id: null
       name: Kaleb
       appearance: null
       disambiguation: Boys First Time, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/076670ba-64bf-4258-8137-dc4df00b8716
       notes:
         - Bottom on the scene cover

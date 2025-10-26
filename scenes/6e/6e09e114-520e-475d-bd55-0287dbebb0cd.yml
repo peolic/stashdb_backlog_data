@@ -14,13 +14,15 @@ performers:
       name: Adam
       appearance: null
       disambiguation: Boys First Time, 2003
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/71b2c65c-6278-42c4-905b-b21283d297c8
       notes:
         - Performer on the right on the scene cover
     - id: null
       name: Robby
       appearance: null
       disambiguation: Boys First Time, 2003
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/d9cda20e-3b68-4f44-82c3-5e49db3856d1
       notes:
         - Guy on the left on the scene cover
