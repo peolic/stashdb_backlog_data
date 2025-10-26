@@ -29,27 +29,31 @@ performers:
       name: Ricky
       appearance: null
       disambiguation: Papi, 2006
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/6c5547af-4160-4807-991c-473f4cf897ff
       notes:
         - Aylo ID is 21175
     - id: null
       name: Miguel
       appearance: null
       disambiguation: Papi, 2006
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/c52e5b63-fbfe-44ff-8417-dda91de55001
       notes:
         - Aylo ID is 21171
     - id: null
       name: Javier
       appearance: null
       disambiguation: Papi, 2006
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/cfc8396c-c5d4-41a9-ad8f-de13e43d7c88
       notes:
         - Aylo ID is 21179
     - id: null
       name: Joe
       appearance: null
       disambiguation: Papi, 2006
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/f0ea85f5-a793-4c82-b02f-eb4e68875550
       notes:
         - Aylo ID is 20274

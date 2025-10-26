@@ -20,6 +20,7 @@ performers:
       name: Paul
       appearance: null
       disambiguation: Papi, 2005
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/f9b09031-f7bc-49b3-8f08-f9f318eed968
       notes:
         - Aylo ID is 20131
