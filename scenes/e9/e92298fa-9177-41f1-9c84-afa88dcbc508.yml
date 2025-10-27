@@ -1,0 +1,52 @@
+c_studio:
+  - Papi
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=3ea529be-8a6a-45a3-b811-19b81e86e1e3
+performers:
+  remove:
+    - id: be44e7c4-a2ff-4249-8b12-b875cff4c293
+      name: Alexander
+      appearance: null
+    - id: 50eca66e-7faf-4763-a272-8c9e2f4cc786
+      name: Gabriel
+      appearance: null
+    - id: 3688baf4-b115-4c68-82d1-118dd2530b10
+      name: Julius
+      appearance: null
+      status: edit
+    - id: af990126-1209-472d-b6b3-94245626197b
+      name: Sin
+      appearance: null
+    - id: 505e490d-9ee6-4d3f-90da-c21981b54884
+      name: Tony
+      appearance: null
+  append:
+    - id: null
+      name: Alexander
+      appearance: null
+      disambiguation: Papi, 2007-10-22
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a5c30211-7fd2-434b-acc4-ca4b4a582efb
+      notes:
+        - Aylo ID is 21919
+    - id: b8f6d128-3597-4e14-849b-4aeae436357e
+      name: Gabriel
+      appearance: null
+      disambiguation: Papi, 2006
+    - id: 3688baf4-b115-4c68-82d1-118dd2530b10
+      name: Julius
+      appearance: null
+      disambiguation: Papi, 2007
+    - id: null
+      name: Sin
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+    - id: null
+      name: Tony
+      appearance: null
+      disambiguation: Papi, 2007
+      status: new
+      notes:
+        - Aylo ID is 21150

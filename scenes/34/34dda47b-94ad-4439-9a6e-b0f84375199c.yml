@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 5f380b48-6fc9-4102-83b9-8d355f7082ff
+      name: Anthony
+      appearance: null
+  append:
+    - id: null
+      name: Anthony
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new

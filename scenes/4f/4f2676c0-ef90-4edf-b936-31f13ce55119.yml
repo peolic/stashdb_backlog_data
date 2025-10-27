@@ -1,0 +1,41 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: 9f1171da-5edd-408a-8f62-a277db2cbfb2
+      name: Alejandro
+      appearance: null
+    - id: f67cc677-30b2-4446-b358-2b5f18c17517
+      name: Juan
+      appearance: null
+    - id: 3348f0ef-5279-42d1-bf0f-161a7eb76b92
+      name: Ricky
+      appearance: null
+    - id: aee0d338-9ab8-4b5b-9e44-12f546fc2aed
+      name: Xavier
+      appearance: null
+  append:
+    - id: null
+      name: Alejandro
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20278
+    - id: null
+      name: Juan
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 21491
+    - id: 7cb73e2e-22cf-4eab-87e0-be92fa779021
+      name: Ricky
+      appearance: null
+      disambiguation: Papi, 2006
+    - id: null
+      name: Xavier
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
