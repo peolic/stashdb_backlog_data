@@ -1,13 +1,7 @@
 split:
   name: Sage
-  fragments:
-    - column: J
-      id: a3f55ba0-4c33-4fcb-a563-c19b9485a165
-      name: Sage (2008, Boys First Time)
-      text: Boys First Time "Solid As A Rock"
-      links:
-        - https://stashdb.org/scenes/43865281-578c-426e-a77a-2e442a6cca56
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-10-10)
     - Best to move scenes and delete performer, rather than merging or renaming.

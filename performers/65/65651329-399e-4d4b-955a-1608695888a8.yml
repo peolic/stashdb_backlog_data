@@ -1,12 +1,6 @@
 split:
   name: Mo
-  fragments:
-    - column: J
-      id: 5340d3f3-603b-433f-b0e9-f4096b09a4d9
-      name: Mo (Boys First Time, 2004)
-      text: Boys First Time "Sack To Sack"
-      links:
-        - https://stashdb.org/scenes/22913626-19f9-421a-a5f1-427d63dd46ad
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
