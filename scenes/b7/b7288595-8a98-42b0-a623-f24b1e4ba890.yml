@@ -1,27 +1,5 @@
-c_studio:
-  - Home Porno Tapes
-  - null
-comments:
-  - 'Same as Porno Home Movies #8, Scene #3'
 fingerprints:
   - algorithm: phash
     hash: dd741c19f8ba00e7
     correct_scene_id: bdbc1aba-d0c8-40c2-bbb8-6b9100638374
     duration: 2353
-performers:
-  remove:
-    - id: f35ed6a2-8113-4639-9e5a-9b952051b78b
-      name: Angel
-      appearance: null
-    - id: ab6da433-cce4-4690-a34c-2b6bb3e31e1c
-      name: Mitch
-      appearance: null
-  append:
-    - id: c253fccb-bfe1-4965-b18e-cffc80ed1d73
-      name: Angel
-      appearance: null
-      disambiguation: 2007, V9
-    - id: f633514e-86f5-4ab5-b1fb-19b9a76086fe
-      name: Mitch
-      appearance: null
-      disambiguation: 2007, V9
