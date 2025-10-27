@@ -1,24 +1,6 @@
 split:
   name: Adam
   fragments:
-    - column: Q
-      id: null
-      name: Adam (Boys First Time, 2011)
-      text: Boys First Time "Cock In Kalib"
-      notes:
-        - scene in Boys First Time 25
-      links:
-        - https://stashdb.org/scenes/53385435-33b8-4ce5-806f-e0652752abc0
-    - column: S
-      id: null
-      name: Adam (Boys First Time, 2003)
-      notes:
-        - '- Boys First Time "Ass Curious"'
-        - '- Boys First Time "Clean Cut Butt"'
-        - Name is probably not accurate, has a noticeable tattoo on left bicep in both scene covers
-      links:
-        - https://stashdb.org/scenes/3e891fcd-8a67-4f24-b649-84c035d56344
-        - https://stashdb.org/scenes/6e09e114-520e-475d-bd55-0287dbebb0cd
     - column: V
       id: null
       name: Adam (Nasty Angels, 2011)
@@ -26,6 +8,7 @@ split:
       links:
         - https://stashdb.org/scenes/174306a7-7599-4b06-a612-1291973eea97
         - https://www.indexxx.com/set/582797/club-seventeen-josi-kathy-a/
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

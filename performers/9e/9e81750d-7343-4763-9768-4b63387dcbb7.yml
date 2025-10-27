@@ -4,13 +4,9 @@ split:
     - column: L
       id: null
       name: Enrique (Boys First Time, 2002)
+      text: Boys First Time "K Y Special"
       links:
         - https://stashdb.org/scenes/c510ffd5-002a-4dc8-aac1-e0ab5a1fc9f5
-    - column: M
-      id: null
-      name: Enrique (Boys First Time, 2008)
-      links:
-        - https://stashdb.org/scenes/161e1ec7-1cf7-4e03-bff8-ebcf3bf6690b
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list)

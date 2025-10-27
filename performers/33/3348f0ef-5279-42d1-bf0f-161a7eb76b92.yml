@@ -2,15 +2,14 @@ split:
   name: Ricky
   fragments:
     - column: V
-      id: null
+      id: 7cb73e2e-22cf-4eab-87e0-be92fa779021
       name: Ricky (Papi, 2006)
       notes:
         - '- Papi "Hot House Party"'
-        - '- Papi "Pool Party"'
+        - "- \x02Papi \"Pool Party\"\x03"
         - Aylo ID is 21175
       links:
         - https://stashdb.org/scenes/4f2676c0-ef90-4edf-b936-31f13ce55119
-        - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-03-31)

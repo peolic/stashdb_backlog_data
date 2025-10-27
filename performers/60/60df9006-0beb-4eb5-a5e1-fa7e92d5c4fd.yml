@@ -1,18 +1,13 @@
 split:
   name: Carter (Boys First Time)
   fragments:
-    - column: J
-      id: 18051859-04bc-4696-904f-a53b46bb825b
-      name: Carter (2004, Boys First Time)
-      text: Boys First Time "Lollypop Slurp"
-      links:
-        - https://stashdb.org/scenes/d48e94b7-3d84-4d06-8e6c-385d17935aa8
     - column: K
       id: null
       name: Carter (2006, Boys First Time)
       text: Boys First Time "Butta Butt"
       links:
         - https://stashdb.org/scenes/55647318-2f78-43a6-ae3d-da8605446429
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-03-04)
     - Best to move scenes and delete performer, rather than merging or renaming.

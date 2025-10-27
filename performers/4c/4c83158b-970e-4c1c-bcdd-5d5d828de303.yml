@@ -1,16 +1,12 @@
 split:
   name: Isaac
   fragments:
-    - column: L
-      id: null
-      name: Isaac (Boys First Time, 2012)
-      links:
-        - https://stashdb.org/scenes/c261da49-cb07-47b6-b8ce-e094155fef2e
     - column: M
       id: null
       name: Isaac (Boys First Time, 2008)
       links:
         - https://stashdb.org/scenes/ac507390-c7c9-45e2-888e-b668c3fbfae4
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2024-04-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

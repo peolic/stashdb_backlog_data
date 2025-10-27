@@ -2,14 +2,13 @@ split:
   name: Christopher
   fragments:
     - column: L
-      id: null
+      id: 0ece3e85-6444-4043-a2c6-0f9e23251fc0
       name: Christopher (Boys First Time, 2008)
       notes:
         - '- Boys First Time "Meat Packer"'
-        - '- Boys First Time "Ass Contact"'
+        - "- \x02Boys First Time \"Ass Contact\"\x03"
       links:
         - https://stashdb.org/scenes/2eff7d43-9746-4868-81b9-01d6164b85b4
-        - https://stashdb.org/scenes/fe927253-e1a0-4287-bb73-1b0267f740f9
     - column: M
       id: null
       name: Christopher (Papi, 2008)

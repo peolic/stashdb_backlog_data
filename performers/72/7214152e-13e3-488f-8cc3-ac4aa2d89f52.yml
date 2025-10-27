@@ -1,12 +1,6 @@
 split:
   name: Kyle
   fragments:
-    - column: R
-      id: null
-      name: '[todo] Kyle'
-      text: Boys First Time "A Bone To Lick"
-      links:
-        - https://stashdb.org/scenes/14ac1f82-37c1-4095-a27e-68404ba81655
     - column: S
       id: null
       name: '[todo] Kyle (2006, Boys First Time)'

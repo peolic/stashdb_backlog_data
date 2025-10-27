@@ -1,26 +1,13 @@
 split:
   name: Edu
   fragments:
-    - column: I
-      id: null
-      name: Edu (Tranny Surprise, 2004)
-      notes:
-        - '- Tranny Surprise "Pooper Trooper"'
-        - '- Tranny Surprise "Bottom Butter"'
-        - '- Tranny Surprise "Dick Reacher"'
-        - '- Tranny Surprise "Zebra Ambush"'
-      links:
-        - https://www.iafd.com/person.rme/id=0b0f63e1-2170-4574-a74f-0d57f87c50d0
-        - https://stashdb.org/scenes/b07f5c62-c16b-4836-af28-b83b1e510951
-        - https://stashdb.org/scenes/4e390bcf-ffdc-40ae-8450-e66b1e084b83
-        - https://stashdb.org/scenes/5eb628fe-321c-45c7-984d-755df6f40990
-        - https://stashdb.org/scenes/1347f91e-d0e5-4549-8c62-2cd29312daf5
     - column: J
       id: null
       name: Eli (Boys First Time, 2003)
       text: Boys First Time "Hard Day"
       links:
         - https://stashdb.org/scenes/4184f923-4a57-47c8-bf30-819f4af4c991
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-10-25)
     - Best to move scenes and delete performer, rather than merging or renaming.

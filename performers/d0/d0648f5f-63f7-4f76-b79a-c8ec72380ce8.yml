@@ -25,16 +25,15 @@ split:
       links:
         - https://stashdb.org/scenes/55a270b9-c6c5-4bcc-86e8-0a5e50949765
     - column: W
-      id: null
+      id: 2096f5c8-ab03-49d6-a285-42c241ebcd5a
       name: Joe (Papi, 2006)
       notes:
         - '- Papi "Papi Palace"'
-        - '- Papi "Pool Party"'
+        - "- \x02Papi \"Pool Party\"\x03"
         - '- Papi "Well Hung"'
         - Aylo ID is 20274
       links:
         - https://stashdb.org/scenes/68679538-265b-4288-842c-84e3a8fca62f
-        - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
         - https://stashdb.org/scenes/9eee29bf-ece0-4bc1-ab12-c36c840c0c6f
     - column: X
       id: null

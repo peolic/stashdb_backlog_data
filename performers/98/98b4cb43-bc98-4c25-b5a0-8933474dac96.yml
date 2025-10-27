@@ -1,14 +1,6 @@
 split:
   name: Javier
-  fragments:
-    - column: J
-      id: null
-      name: Javier (Papi, 2006)
-      text: Papi "Pool Party"
-      notes:
-        - Aylo ID is 21179
-      links:
-        - https://stashdb.org/scenes/396ebb8b-b9a1-4e50-adb5-1b1378ef4495
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performer (complete list as of 2025-08-01)

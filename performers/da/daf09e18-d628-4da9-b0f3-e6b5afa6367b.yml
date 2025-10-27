@@ -1,16 +1,7 @@
 split:
   name: Tyler
-  fragments:
-    - column: U
-      id: null
-      name: Tyler (Boys First Time, 2011)
-      notes:
-        - '- Boys First Time "Mr Cock"'
-        - '- Boys First Time "A Bone To Lick"'
-      links:
-        - https://stashdb.org/scenes/2a6127ac-427b-4223-8d90-2a48c470adea
-        - https://stashdb.org/scenes/14ac1f82-37c1-4095-a27e-68404ba81655
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-10)
     - Best to move scenes and delete performer, rather than merging or renaming.

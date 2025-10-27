@@ -1,17 +1,7 @@
 split:
   name: Carlos
-  fragments:
-    - column: V
-      id: 067b76e2-1376-4cc6-9086-af4e47814ba7
-      name: Carlos (Papi, 2005)
-      notes:
-        - "\x02- \x03\x02Papi \"Santas Snake\"\x03\x02 [\x03\x02iafd\x03\x02]\x03"
-        - '- Papi "Backdoor Bambi"'
-      links:
-        - https://www.realitydudes.com/model/20129/carlos
-        - https://stashdb.org/scenes/e2ba527a-dfd9-46b7-afaf-4c4dbcc01100
-        - https://www.iafd.com/title.rme/id=0d400cae-ca45-4d91-9494-4379b1da6c90
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.

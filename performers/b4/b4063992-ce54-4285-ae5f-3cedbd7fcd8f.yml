@@ -1,14 +1,6 @@
 split:
   name: James
   fragments:
-    - column: T
-      id: null
-      name: James (Boys First Time, 2007)
-      text: Boys First Time "Willie Wanker"
-      notes:
-        - scene is present in Boys First Time 3 DVD
-      links:
-        - https://stashdb.org/scenes/e02a059d-629d-4999-926f-17356d77064f
     - column: U
       id: null
       name: James (Dick Dorm, 2010)

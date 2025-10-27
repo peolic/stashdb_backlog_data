@@ -25,14 +25,6 @@ split:
         - https://stashdb.org/scenes/e3a60223-4fb1-4bcd-b4e4-161bef36e6e8
         - https://vod.aebn.com/straight/movies/31875/snatch-d--7#scene-87876
         - https://www.iafd.com/title.rme/id=29144d72-fa48-488f-bdb0-2d62f99b44ab
-    - column: U
-      id: null
-      name: Paul (Papi, 2005)
-      text: Papi "Backdoor Bambi"
-      notes:
-        - Aylo ID is 20131
-      links:
-        - https://stashdb.org/scenes/e2ba527a-dfd9-46b7-afaf-4c4dbcc01100
   notes:
     - Mix of multiple performers (complete list as of 2025-09-05)
     - Best to move scenes and delete performer, rather than merging or renaming.
