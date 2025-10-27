@@ -1,0 +1,20 @@
+split:
+  name: Gaston
+  fragments:
+    - column: I
+      id: null
+      name: Gaston (Boys First Time, 2006)
+      text: Boys First Time "Spring Fling"
+      links:
+        - https://stashdb.org/scenes/018fcb21-35b8-4fc8-822d-3caafe553487
+    - column: J
+      id: null
+      name: Gaston (White Ghetto, 2010)
+      text: Transsexual Roadtrip
+      notes:
+        - 'StashDB image: https://stashdb.org/images/a48b052a-1415-41de-97f7-588090f93e5f'
+      links:
+        - https://www.iafd.com/person.rme/id=e1742661-7547-42ec-a86a-adf3e5a4038f
+  notes:
+    - Mix of multiple performers (complete list)
+    - Best to move scenes and delete performer, rather than merging or renaming.

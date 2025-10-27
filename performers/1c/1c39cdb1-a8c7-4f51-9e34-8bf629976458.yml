@@ -1,0 +1,12 @@
+split:
+  name: Kriss
+  fragments:
+    - column: I
+      id: null
+      name: Kriss (Boys First Time, 2006)
+      text: Boys First Time "Playing Catch"
+      links:
+        - https://stashdb.org/scenes/3e60aef8-8803-4f28-a043-0405b1268e70
+  notes:
+    - Mix of multiple performers (complete list)
+    - Best to move scenes and delete performer, rather than merging or renaming.
