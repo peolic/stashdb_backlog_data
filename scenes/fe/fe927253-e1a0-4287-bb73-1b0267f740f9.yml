@@ -10,19 +10,15 @@ performers:
       name: Christopher
       appearance: null
   append:
-    - id: null
+    - id: 2f357c6f-6a1c-4fe0-b4d6-af0d9886704f
       name: Andrew
       appearance: null
       disambiguation: Boys First Time, 2008
-      status: c
-      status_url: https://stashdb.org/edits/648442c0-9a42-4679-a17b-7b174737f56e
       notes:
         - Top on scene cover
-    - id: null
+    - id: 0ece3e85-6444-4043-a2c6-0f9e23251fc0
       name: Christopher
       appearance: null
       disambiguation: Boys First Time, 2008
-      status: c
-      status_url: https://stashdb.org/edits/b4763c7a-25e8-47d1-a68c-a83d6a4f96ec
       notes:
         - Bottom on scene cover

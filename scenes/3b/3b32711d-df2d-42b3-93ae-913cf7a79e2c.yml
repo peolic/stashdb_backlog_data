@@ -9,11 +9,9 @@ performers:
       name: Alex
       appearance: null
   append:
-    - id: null
+    - id: 31fe3711-9e05-4223-9089-d2176d1b8848
       name: Alex
       appearance: null
       disambiguation: 2007, V9, PHV 5
-      status: c
-      status_url: https://stashdb.org/edits/0b497f12-9904-43b3-92dc-0e34a1e90ba3
       notes:
         - Visible on the scene cover

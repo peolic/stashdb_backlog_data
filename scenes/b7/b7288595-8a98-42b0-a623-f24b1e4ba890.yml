@@ -17,15 +17,11 @@ performers:
       name: Mitch
       appearance: null
   append:
-    - id: null
+    - id: c253fccb-bfe1-4965-b18e-cffc80ed1d73
       name: Angel
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/a04cae2e-c355-4224-b7cf-c7fceb74a704
-    - id: null
+    - id: f633514e-86f5-4ab5-b1fb-19b9a76086fe
       name: Mitch
       appearance: null
       disambiguation: 2007, V9
-      status: c
-      status_url: https://stashdb.org/edits/6b9720f9-2276-4ab3-922c-6a3d8ca39863
