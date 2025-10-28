@@ -11,10 +11,6 @@ performers:
     - id: 50eca66e-7faf-4763-a272-8c9e2f4cc786
       name: Gabriel
       appearance: null
-    - id: 3688baf4-b115-4c68-82d1-118dd2530b10
-      name: Julius
-      appearance: null
-      status: edit
     - id: af990126-1209-472d-b6b3-94245626197b
       name: Sin
       appearance: null
@@ -34,10 +30,6 @@ performers:
       name: Gabriel
       appearance: null
       disambiguation: Papi, 2006
-    - id: 3688baf4-b115-4c68-82d1-118dd2530b10
-      name: Julius
-      appearance: null
-      disambiguation: Papi, 2007
     - id: null
       name: Sin
       appearance: null
