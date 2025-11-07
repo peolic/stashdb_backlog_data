@@ -12,9 +12,15 @@ split:
       name: Gaston (White Ghetto, 2010)
       text: Transsexual Roadtrip
       notes:
-        - 'StashDB image: https://stashdb.org/images/a48b052a-1415-41de-97f7-588090f93e5f'
+        - 'StashDB image:'
       links:
         - https://www.iafd.com/person.rme/id=e1742661-7547-42ec-a86a-adf3e5a4038f
+        - https://stashdb.org/images/a48b052a-1415-41de-97f7-588090f93e5f
+        - https://stashdb.org/scenes/b68f5311-08eb-466e-a2fd-7c62bdc230dc
+        - https://stashdb.org/scenes/004568a1-b593-4caf-8aff-e544a7274422
+        - https://stashdb.org/scenes/2989590b-99a0-4f6f-bae3-0ef0986fca63
+        - https://stashdb.org/scenes/e3ab7015-8d06-4f52-9c1a-a62f2483e45d
+        - https://stashdb.org/scenes/2d959ac6-1acf-44b2-a933-a031b98145b9
   notes:
     - Mix of multiple performers (complete list as of 2025-10-27)
     - Best to move scenes and delete performer, rather than merging or renaming.

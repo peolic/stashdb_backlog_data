@@ -1,6 +1,13 @@
 split:
   name: Christian
   fragments:
+    - column: I
+      id: 4deb20a3-6e12-40fc-8f00-323e8e180631
+      name: Christian XXX
+      text: "\x02(images removed, there might still be some scenes left)\x03"
+      links:
+        - https://www.iafd.com/person.rme/id=1439495b-76e8-4958-ad28-7bc6d051d5f5
+        - https://stashdb.org/scenes/45f5b4e0-39a4-45b4-9662-d42480224882
     - column: O
       id: null
       name: Kristian (Boys First Time, 2009)
@@ -14,5 +21,5 @@ split:
       links:
         - https://stashdb.org/scenes/58f52410-7617-42fe-8030-b3485812b9d1
   notes:
-    - Mix of multiple performers (complete list)
+    - Mix of multiple performers (complete list as of 2025-07-02)
     - Best to move scenes and delete performer, rather than merging or renaming.
