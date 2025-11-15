@@ -8,8 +8,7 @@ performers:
   append:
     - id: null
       name: Natasha Arad
-      appearance: null
-      disambiguation: as Cara
+      appearance: Cara
       status: new
       status_url: https://www.iafd.com/person.rme/id=ecd8b1ed-6910-4e7d-8671-119b4b3cd5f1
       notes:
