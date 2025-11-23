@@ -1,0 +1,11 @@
+c_studio:
+  - Alicenw0ndrland
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Raina Terra
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=583b4d20-49ea-469e-babb-72bfea4b93af
