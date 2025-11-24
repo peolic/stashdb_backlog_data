@@ -4,10 +4,22 @@ c_studio:
 comments:
   - https://www.iafd.com/title.rme/id=e2656d82-0e85-4704-8c12-a24aaf24aa13
 performers:
-  remove: []
+  remove:
+    - id: ccae2d29-1235-4095-b633-f41f1d7e8330
+      name: Dynasty
+      appearance: null
   append:
     - id: null
       name: Mikey Mike
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=14c5913f-04bb-488e-a103-123eca5ec9c8
+      status: c
+      status_url: https://stashdb.org/edits/019ab5e2-93c9-7135-a100-e1e4c12e1f94
+    - id: b3c5e7b2-d877-41f4-a330-bcd4d90cd841
+      name: Tony Rubino
+      appearance: null
+    - id: 69ae9291-797d-4382-8159-6371d2ad9eac
+      name: Juan Largo
+      appearance: null
+    - id: 4c95c160-b57a-46b7-81a5-c39d12c7d0fe
+      name: Bella Saint
+      appearance: Dynasty

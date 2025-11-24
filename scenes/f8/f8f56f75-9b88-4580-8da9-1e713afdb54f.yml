@@ -1,0 +1,17 @@
+c_studio:
+  - Mofos B Sides
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=daad7d0f-1039-45bd-a27c-bda1ab1ed981
+performers:
+  remove:
+    - id: ccae2d29-1235-4095-b633-f41f1d7e8330
+      name: Dynasty
+      appearance: null
+  append:
+    - id: 4c95c160-b57a-46b7-81a5-c39d12c7d0fe
+      name: Bella Saint
+      appearance: Dynasty
+    - id: b3c5e7b2-d877-41f4-a330-bcd4d90cd841
+      name: Tony Rubino
+      appearance: null

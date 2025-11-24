@@ -1,0 +1,17 @@
+c_studio:
+  - Round and Brown
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=ecdcc6e0-dba5-495b-8b10-4997ade9f10a
+performers:
+  remove:
+    - id: ccae2d29-1235-4095-b633-f41f1d7e8330
+      name: Dynasty
+      appearance: null
+  append:
+    - id: null
+      name: Dynasty
+      appearance: null
+      disambiguation: Round and Brown, 2008
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=eb735c28-64ca-422e-91d3-d36ba586eb6c
