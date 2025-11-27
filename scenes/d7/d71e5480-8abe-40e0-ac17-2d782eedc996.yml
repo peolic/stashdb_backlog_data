@@ -1,0 +1,16 @@
+c_studio:
+  - Trick Your GF
+  - null
+performers:
+  remove:
+    - id: dd9512ca-3332-4330-be6e-89eaff72f2fa
+      name: Brad
+      appearance: null
+  append:
+    - id: null
+      name: Brad
+      appearance: null
+      disambiguation: Trick Your GF, 2014
+      status: new
+      notes:
+        - Face is visible on scene cover
