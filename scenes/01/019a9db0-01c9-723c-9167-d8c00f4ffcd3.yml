@@ -1,0 +1,11 @@
+c_studio:
+  - Pantyhose Line
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Jacyln A
+      appearance: Jaclyn
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=51dda565-c2fd-46b7-97d9-135f911dc6c0

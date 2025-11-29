@@ -1,0 +1,11 @@
+c_studio:
+  - Pantyhose Tales
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Marina
+      appearance: Marina A
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=71cab1e5-06d3-4a1f-a21c-44f555cc3037
