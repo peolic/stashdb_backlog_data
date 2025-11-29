@@ -1,0 +1,12 @@
+c_studio:
+  - Pantyhose Tales
+  - null
+performers:
+  remove:
+    - id: 2ff4e8da-cca7-4c61-b514-3945e5c71356
+      name: Beatrice
+      appearance: null
+  append:
+    - id: 7dc2b144-4daf-4168-a088-020324d96bc4
+      name: Tanata
+      appearance: Beatrice
