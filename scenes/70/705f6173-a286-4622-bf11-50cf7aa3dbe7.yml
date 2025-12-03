@@ -1,9 +1,0 @@
-c_studio:
-  - Enslaved Gals
-  - null
-performers:
-  remove: []
-  append:
-    - id: 8c735da4-1d8f-44da-a164-bd88baab9f4a
-      name: Monica Unco
-      appearance: Liana
