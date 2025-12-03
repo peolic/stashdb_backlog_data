@@ -1,0 +1,26 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: ccb54c4e-119a-472d-8852-5963132d1ba7
+      name: Nick
+      appearance: null
+    - id: dd4a8e33-5132-48e3-bac3-011baff41dd8
+      name: William
+      appearance: null
+  append:
+    - id: null
+      name: Nick
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20984/nick
+    - id: null
+      name: William
+      appearance: null
+      disambiguation: Dick Dorm, 2012
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20976/william

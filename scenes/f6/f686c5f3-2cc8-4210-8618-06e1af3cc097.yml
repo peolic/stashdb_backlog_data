@@ -1,0 +1,36 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: b4063992-ce54-4285-ae5f-3cedbd7fcd8f
+      name: James
+      appearance: null
+    - id: 13f3c0ea-873e-4263-842f-e97266d96919
+      name: Rambo
+      appearance: null
+    - id: a42ccf42-82dc-48e1-9f3a-b0c7339bd050
+      name: Tom
+      appearance: null
+  append:
+    - id: null
+      name: James
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20379/james
+    - id: null
+      name: Rambo
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20382/rambo
+    - id: null
+      name: Tom
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20386/tom
