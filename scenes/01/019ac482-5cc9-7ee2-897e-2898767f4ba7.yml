@@ -1,0 +1,11 @@
+c_studio:
+  - Sapphic Secrets
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Eva Ryder
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=4ee4d754-0138-4728-800c-813722a9c1c5
