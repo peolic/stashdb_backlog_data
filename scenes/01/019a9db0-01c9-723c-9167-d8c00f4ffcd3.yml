@@ -4,8 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019ae0b3-4be3-7098-8de1-2b3d7d073971
       name: Jacyln A
       appearance: Jaclyn
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=51dda565-c2fd-46b7-97d9-135f911dc6c0
+      disambiguation: FerroNetwork
+      notes:
+        - https://www.iafd.com/person.rme/id=51dda565-c2fd-46b7-97d9-135f911dc6c0

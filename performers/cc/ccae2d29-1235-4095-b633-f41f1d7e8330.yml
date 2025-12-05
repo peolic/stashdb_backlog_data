@@ -4,6 +4,11 @@ split:
     - column: I
       id: null
       name: Dynasty (Round and Brown, 2008)
+      text: Round and Brown "A Day For Riding"
+      links:
+        - https://www.iafd.com/person.rme/id=eb735c28-64ca-422e-91d3-d36ba586eb6c
+        - https://www.indexxx.com/m/dynasty
+        - https://stashdb.org/scenes/26e13e28-5caa-4c91-bb70-9de355daf634
   status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-11-24)
