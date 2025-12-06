@@ -7,12 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019aef8e-b2fc-771b-9fd4-d1b0ce189087
       name: Kayla
       appearance: null
       disambiguation: 2017, ExploitedX
-      status: c
-      status_url: https://stashdb.org/edits/019aef8f-ba4b-746b-ae62-731f61ed5ce3
       notes:
         - https://www.iafd.com/person.rme/id=82b8f186-0aa5-426b-90b4-188df1ef726c
         - https://www.indexxx.com/m/kayla-8

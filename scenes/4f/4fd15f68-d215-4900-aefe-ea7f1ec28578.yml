@@ -7,12 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019aef84-ae1a-7b99-8248-ff14a2060a1a
       name: Amber
       appearance: null
       disambiguation: 2016, ExploitedX (2)
-      status: c
-      status_url: https://stashdb.org/edits/019aef86-05ea-731c-b6ba-8af27128062d
       notes:
         - https://www.iafd.com/person.rme/id=36f6c554-f08b-4e75-aa64-72d75bfba5fc
         - https://www.indexxx.com/m/amber-59

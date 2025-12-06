@@ -7,12 +7,10 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019aef96-cb00-7f20-9fde-0eb048a1b84c
       name: Lynn
       appearance: null
       disambiguation: 2016, ExploitedX
-      status: c
-      status_url: https://stashdb.org/edits/019aef99-2630-7db2-bde3-938faa1b206c
       notes:
         - https://www.iafd.com/person.rme/id=364ceb7c-5b0e-4e82-b883-9475deace05c
         - https://www.indexxx.com/m/lynn
