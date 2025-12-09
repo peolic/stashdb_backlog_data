@@ -1,0 +1,9 @@
+c_studio:
+  - Sapphic Secrets
+  - null
+performers:
+  remove: []
+  append:
+    - id: 15971bab-fe47-4d47-9aa6-732e1003a177
+      name: Mayla Karma
+      appearance: null

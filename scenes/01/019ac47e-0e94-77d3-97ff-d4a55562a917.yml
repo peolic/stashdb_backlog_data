@@ -1,0 +1,11 @@
+c_studio:
+  - Sapphic Secrets
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Betty Spears
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=07ae1482-cf31-4ec7-8d4f-48941d6aaffe

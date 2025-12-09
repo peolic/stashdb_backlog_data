@@ -1,0 +1,12 @@
+c_studio:
+  - Mylked
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Stella Rose
+      appearance: null
+      disambiguation: Onlyfans
+      status: new
+      status_url: https://onlyfans.com/stella_rosevip

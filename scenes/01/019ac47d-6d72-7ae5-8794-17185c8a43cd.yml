@@ -1,0 +1,11 @@
+c_studio:
+  - Sapphic Secrets
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Roxie Leroux
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9d723ad8-5e51-4403-8ac3-02748ea8deba

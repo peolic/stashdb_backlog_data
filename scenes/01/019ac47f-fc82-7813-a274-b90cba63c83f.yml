@@ -1,0 +1,11 @@
+c_studio:
+  - Sapphic Secrets
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Ashley Cin
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1471aad3-041f-43d4-9231-b5a93b6bf1d7

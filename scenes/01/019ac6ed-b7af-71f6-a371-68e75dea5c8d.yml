@@ -1,0 +1,18 @@
+c_studio:
+  - Dorcel Club
+  - null
+comments:
+  - See https://www.iafd.com/title.rme/id=94b3263d-61fb-497d-a0ef-0dc64a11798c (scene 2)
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Christelle Deballiere
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2f5ef96b-adc6-46dc-89c3-c5ede7c0fb65
+    - id: null
+      name: Guy Royer
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8a25d289-f509-4054-9559-903d314a5872

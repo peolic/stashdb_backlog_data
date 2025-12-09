@@ -1,0 +1,11 @@
+c_studio:
+  - Sapphic Secrets
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Hunter Hart
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5d6c674c-5ef5-440f-95ad-92e149c54209

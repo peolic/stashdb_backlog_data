@@ -1,0 +1,12 @@
+c_studio:
+  - Jenny_Stella
+  - null
+performers:
+  remove: []
+  append:
+    - id: b0a20e7b-1277-4a38-aefc-dedc519dbf9d
+      name: Jessy  Ley
+      appearance: null
+    - id: fc1eff4b-bb54-4923-bf21-cc544d8ac461
+      name: Jason Steel
+      appearance: null
