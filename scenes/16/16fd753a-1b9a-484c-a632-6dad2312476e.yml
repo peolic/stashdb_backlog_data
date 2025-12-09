@@ -1,0 +1,13 @@
+c_studio:
+  - Beautytrans
+  - null
+comments:
+  - 'Transfemale. Suggested profile picture: https://cdn-s-www.dna.fr/images/7AD2B5D2-9F8B-493C-A58B-B62B59CEE8FB/NW_raw/g-femme-transgenre-d-une-vingtaine-d-annees-au-debut-de-sa-transition-lors-du-shooting-photo-dna-galerie-curious-eye-1611149781.jpg'
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Manonblue
+      appearance: null
+      status: new
+      status_url: https://mym.fans/Manonblue

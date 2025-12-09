@@ -1,0 +1,9 @@
+c_studio:
+  - Helenas Cock Quest
+  - null
+performers:
+  remove: []
+  append:
+    - id: b3a0aacb-9141-4dff-a4c1-004f86465717
+      name: Alice Merchesi
+      appearance: null

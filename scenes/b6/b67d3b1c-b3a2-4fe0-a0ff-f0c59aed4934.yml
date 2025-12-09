@@ -1,0 +1,13 @@
+c_studio:
+  - Lust Cinema
+  - null
+comments:
+  - https://tinadelia.squarespace.com
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Tina D'Elia
+      appearance: null
+      status: new
+      status_url: https://lustcinema.com/cast/tina-delia

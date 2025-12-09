@@ -1,0 +1,11 @@
+c_studio:
+  - Bratty Bunny
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Jessi Johanna
+      appearance: Jessi
+      status: new
+      status_url: https://web.archive.org/web/20080214081518/http://www.jessijohanna.com/

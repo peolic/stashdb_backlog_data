@@ -1,0 +1,9 @@
+c_studio:
+  - Hailey Rose
+  - null
+performers:
+  remove: []
+  append:
+    - id: 5dab0112-27cd-44cb-b053-c3a6d2a05219
+      name: Chloe Kreams
+      appearance: null
