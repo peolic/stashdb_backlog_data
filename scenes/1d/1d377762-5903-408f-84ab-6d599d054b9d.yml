@@ -1,0 +1,17 @@
+c_studio:
+  - Peter North
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=e409dd2c-5979-496e-bfc9-01ce5526db69 (scene 2)
+performers:
+  remove:
+    - id: f0e3203f-4f49-4e02-8acc-b859c54c4094
+      name: Weed
+      appearance: null
+  append:
+    - id: e94a74b7-7542-43ff-92fd-c794597883c1
+      name: Devlin Weed
+      appearance: null
+    - id: 357901e7-f587-40b3-a8b3-8a46850ca776
+      name: Cameron James
+      appearance: null
