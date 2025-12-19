@@ -1,0 +1,11 @@
+c_studio:
+  - GrandparentsX
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Bibia Luna
+      appearance: null
+      status: new
+      status_url: https://www.indexxx.com/m/bibia-luna
