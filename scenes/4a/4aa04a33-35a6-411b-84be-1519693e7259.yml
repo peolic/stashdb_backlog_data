@@ -3,3 +3,11 @@ fingerprints:
     hash: cbaa5db8aed6a108
     correct_scene_id: null
     duration: 1242
+  - algorithm: oshash
+    hash: b3dde73c6757cf26
+    correct_scene_id: 019ab669-571f-7eab-ab7a-78e575a38dcb
+    duration: 2067
+  - algorithm: phash
+    hash: d082a3f9262bf9c3
+    correct_scene_id: 019ab669-571f-7eab-ab7a-78e575a38dcb
+    duration: 2067
