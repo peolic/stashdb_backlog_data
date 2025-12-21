@@ -1,19 +1,19 @@
 fingerprints:
   - algorithm: phash
     hash: f878f0fce8eae001
-    correct_scene_id: null
+    correct_scene_id: 019b3a87-3d8d-72d0-a28c-7348285fa805
     duration: 1287
   - algorithm: phash
     hash: b878f0fce8fae001
-    correct_scene_id: null
+    correct_scene_id: 019b3a87-3d8d-72d0-a28c-7348285fa805
     duration: 1287
   - algorithm: phash
     hash: f878f0fce8eadffc
-    correct_scene_id: null
+    correct_scene_id: 019b3a87-3d8d-72d0-a28c-7348285fa805
     duration: 1287
   - algorithm: phash
     hash: f878f0f8e8fae001
-    correct_scene_id: null
+    correct_scene_id: 019b3a87-3d8d-72d0-a28c-7348285fa805
     duration: 1287
   - algorithm: phash
     hash: ca76ead7c501c744
