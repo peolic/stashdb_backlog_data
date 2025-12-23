@@ -7,5 +7,7 @@ performers:
     - id: null
       name: Bibia Luna
       appearance: null
-      status: new
-      status_url: https://www.indexxx.com/m/bibia-luna
+      status: c
+      status_url: https://stashdb.org/edits/019b4bf1-13db-7c46-b930-62397d83b3d5
+      notes:
+        - https://www.indexxx.com/m/bibia-luna
