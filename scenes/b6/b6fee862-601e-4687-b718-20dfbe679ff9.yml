@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019b4d14-da92-755e-bcb4-209504b4b371
       name: Bibia Luna
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019b4bf1-13db-7c46-b930-62397d83b3d5
       notes:
         - https://www.indexxx.com/m/bibia-luna
