@@ -1,0 +1,11 @@
+c_studio:
+  - Evil Angel
+  - null
+comments:
+  - Klaudia Hot is in the scene cover; scene itself may feature more performers (it's a BTS)
+performers:
+  remove: []
+  append:
+    - id: c4fa35a1-3f85-4b19-86b6-9babd545ac60
+      name: Klaudia Hot
+      appearance: null

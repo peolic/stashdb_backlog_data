@@ -1,0 +1,19 @@
+c_studio:
+  - Nigged
+  - null
+comments:
+  - Scene metadata should be adjusted as well, see https://www.iafd.com/title.rme/id=eb73f71a-8c46-45c8-b8b9-083c014b6f1d
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Andrea Blonde
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=19f4bb57-29e2-4cb7-8833-6607062703ef
+    - id: null
+      name: Joachim
+      appearance: null
+      disambiguation: 2022, nigged.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3fd7fae2-4b42-441d-b145-dc39666fa4be
