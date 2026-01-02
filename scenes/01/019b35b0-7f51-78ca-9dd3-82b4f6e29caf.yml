@@ -1,9 +1,0 @@
-c_studio:
-  - Alfiecinematic
-  - null
-performers:
-  remove: []
-  append:
-    - id: 019b7e78-7c34-79ac-a90e-c7de771bf3b7
-      name: Baby Doil XL
-      appearance: Baby Doll
