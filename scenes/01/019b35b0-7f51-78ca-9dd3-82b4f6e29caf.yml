@@ -1,0 +1,11 @@
+c_studio:
+  - Alfiecinematic
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Baby Doil XL
+      appearance: Baby Doll
+      status: c
+      status_url: https://stashdb.org/edits/019b7dd2-ac86-78b2-b7b1-05973ce42b90
