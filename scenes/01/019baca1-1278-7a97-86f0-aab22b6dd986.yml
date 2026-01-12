@@ -1,0 +1,12 @@
+c_studio:
+  - Yummy Estudio
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: OliviaQueen
+      appearance: null
+      disambiguation: 2025, Yummy Estudio
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=6b633446-ca15-4094-8f3f-5c4ab188882e
