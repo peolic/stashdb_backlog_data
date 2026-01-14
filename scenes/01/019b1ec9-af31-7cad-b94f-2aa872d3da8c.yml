@@ -1,0 +1,11 @@
+c_studio:
+  - B1gTheo
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: That Boss Lass
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f25da46b-58a8-4773-bec5-b473cbdd4d87
