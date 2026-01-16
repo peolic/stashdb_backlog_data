@@ -1,0 +1,11 @@
+c_studio:
+  - He's Got Rizz
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Sarah Shapse
+      appearance: null
+      status: new
+      status_url: https://www.mofos.com/model/539289/sarah-shapse
