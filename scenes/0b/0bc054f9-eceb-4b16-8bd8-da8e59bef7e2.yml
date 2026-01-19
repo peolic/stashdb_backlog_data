@@ -1,0 +1,9 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: 019bd5e3-0159-76ee-ad99-df921e63bbd7
+      name: Ashley Brown
+      appearance: null
