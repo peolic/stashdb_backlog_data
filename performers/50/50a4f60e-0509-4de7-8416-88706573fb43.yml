@@ -1,16 +1,7 @@
 split:
   name: Leila
-  fragments:
-    - column: T
-      id: null
-      name: '[todo]'
-      notes:
-        - '- Nasty Angels "Dildo-pleasing young pussy"'
-        - '- Nasty Angels "She can please herself solo"'
-      links:
-        - https://stashdb.org/scenes/ed225bbb-56ab-4348-a4f1-6bde6cde0b3e
-        - https://stashdb.org/scenes/dcaf91d6-b711-4c26-9cf9-f6ce38be9180
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-09-05)
     - Best to move scenes and delete performer, rather than merging or renaming.
