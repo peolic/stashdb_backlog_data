@@ -1,13 +1,7 @@
 split:
   name: Martina
-  fragments:
-    - column: T
-      id: null
-      name: Martina (Nasty Angels, 2011)
-      text: Nasty Angels "Redhead teeny licks wet pussy"
-      links:
-        - https://stashdb.org/scenes/f0f6ef3c-a146-4a11-b111-f732c323f215
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
