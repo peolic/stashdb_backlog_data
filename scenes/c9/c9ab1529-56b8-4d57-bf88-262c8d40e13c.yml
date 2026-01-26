@@ -1,0 +1,20 @@
+c_studio:
+  - Dolls Porn
+  - null
+comments:
+  - https://dollsporn.com/videos/3631/cip0049/
+  - https://www.iafd.com/title.rme/id=667936e3-0529-40a2-a446-19b952dc79ec
+performers:
+  remove:
+    - id: 7051f5cb-60e4-42a8-b851-8c99d4e0c573
+      name: Vova
+      appearance: null
+      disambiguation: WTF Pass
+  append:
+    - id: a9c64ad2-f4fb-4570-9807-cc3f0aed3a7e
+      name: Sexy Boy
+      appearance: Vova
+    - id: f076ee7b-aac2-4daf-a4d0-a9b444886e39
+      name: Stepan
+      appearance: null
+      disambiguation: WTF Pass
