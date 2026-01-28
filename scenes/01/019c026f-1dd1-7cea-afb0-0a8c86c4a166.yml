@@ -1,0 +1,17 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Hello Olson
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7edde817-2b2d-4949-a44c-d1d7c00372c5
+    - id: null
+      name: Yeimy
+      appearance: null
+      disambiguation: 2010, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a467dba1-616a-4b0b-9e01-58ae54d6447b
