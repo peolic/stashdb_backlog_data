@@ -12,11 +12,10 @@ performers:
       name: Matthew
       appearance: null
   append:
-    - id: null
-      name: Amber
-      appearance: null
-      disambiguation: Major Video Concepts, 2007, FA 2
-      status: new
+    - id: 019c138b-329e-769a-97af-6da56045b61b
+      name: Shaina
+      appearance: Amber
+      disambiguation: SobeGirl
     - id: null
       name: Matthew
       appearance: null
