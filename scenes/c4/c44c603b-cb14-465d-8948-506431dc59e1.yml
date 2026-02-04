@@ -5,17 +5,10 @@ comments:
   - 'Same as Florida''s Amateurs #4, Scene #2'
 performers:
   remove:
-    - id: d4092195-4585-4c6f-bf24-4b40a2e1b175
-      name: Amber
-      appearance: null
     - id: 2ba7b1c2-4178-4aee-ab6b-9131b29c52a5
       name: Matthew
       appearance: null
   append:
-    - id: 019c138b-329e-769a-97af-6da56045b61b
-      name: Shaina
-      appearance: Amber
-      disambiguation: SobeGirl
     - id: null
       name: Matthew
       appearance: null
