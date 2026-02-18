@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019c70ab-fe7a-706f-b756-82ccbe4cf979
       name: Olivia Queen
       appearance: OliviaQueen
-      status: c
-      status_url: https://stashdb.org/edits/019c70ae-ed77-72a8-9eba-1981c0ce2fb4
       notes:
         - https://www.iafd.com/person.rme/id=6b633446-ca15-4094-8f3f-5c4ab188882e
