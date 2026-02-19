@@ -7,3 +7,5 @@ performers:
     - id: null
       name: Kesha Looking
       appearance: Kesha
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=4541bf78-c3d5-4158-a285-8da36656fd95
