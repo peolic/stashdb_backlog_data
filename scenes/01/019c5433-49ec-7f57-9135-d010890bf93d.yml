@@ -1,0 +1,9 @@
+c_studio:
+  - Ersties
+  - null
+performers:
+  remove: []
+  append:
+    - id: 2c67364a-a7fa-4555-8c0f-3009d19f3c6f
+      name: Becky California
+      appearance: Becky C

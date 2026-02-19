@@ -1,0 +1,9 @@
+c_studio:
+  - Private Society
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Kesha Looking
+      appearance: Kesha

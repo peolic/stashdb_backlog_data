@@ -1,0 +1,9 @@
+c_studio:
+  - Corbin Fisher
+  - null
+performers:
+  remove: []
+  append:
+    - id: 81944ac4-2f04-4602-a8a8-f2c32bf22bda
+      name: Nickey Huntsman
+      appearance: null

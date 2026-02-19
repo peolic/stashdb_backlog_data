@@ -1,0 +1,9 @@
+c_studio:
+  - Mr Iconic
+  - null
+performers:
+  remove: []
+  append:
+    - id: 7761d58b-7dd9-4774-8904-3bfd1e8e616a
+      name: Hope Ryan
+      appearance: null
