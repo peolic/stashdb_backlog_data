@@ -1,0 +1,11 @@
+c_studio:
+  - Mr Iconic
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Maddy Murphy
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019c806c-f680-73c5-a956-9875f45a7105
