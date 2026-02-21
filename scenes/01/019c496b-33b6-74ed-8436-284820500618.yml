@@ -1,0 +1,16 @@
+c_studio:
+  - Ersties
+  - null
+performers:
+  remove: []
+  append:
+    - id: 019c5677-1ee6-7eca-8188-5789f4f2fc1b
+      name: Lola P
+      appearance: null
+      disambiguation: ersties.com
+    - id: null
+      name: Runa
+      appearance: null
+      disambiguation: ersties.com
+      status: new
+      status_url: https://ersties.com/profile/3040
