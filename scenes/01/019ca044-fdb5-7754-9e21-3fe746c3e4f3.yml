@@ -1,0 +1,11 @@
+c_studio:
+  - Dorcel Club
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Maevaa Sinaloa
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019ca3e5-6cbb-76cd-8f89-c852e45ea206
