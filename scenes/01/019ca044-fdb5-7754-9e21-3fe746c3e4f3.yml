@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019ca3e1-a356-7933-8896-1bdd955c60fd
       name: Maevaa Sinaloa
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019ca3e5-6cbb-76cd-8f89-c852e45ea206
