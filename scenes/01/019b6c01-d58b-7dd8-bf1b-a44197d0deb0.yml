@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019caab2-192c-7d00-913e-f6f8c2693b76
       name: Lola Kisses
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019ca9ab-1977-7dfc-bd35-29bcd690a4e5
