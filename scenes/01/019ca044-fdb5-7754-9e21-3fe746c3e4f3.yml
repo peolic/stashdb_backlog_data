@@ -1,9 +1,0 @@
-c_studio:
-  - Dorcel Club
-  - null
-performers:
-  remove: []
-  append:
-    - id: 019ca3e1-a356-7933-8896-1bdd955c60fd
-      name: Maevaa Sinaloa
-      appearance: null
