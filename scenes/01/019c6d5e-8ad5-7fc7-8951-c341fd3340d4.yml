@@ -1,0 +1,12 @@
+c_studio:
+  - Heather Harmon
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Brooke
+      appearance: null
+      disambiguation: Heather Harmon
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=aa2f9dbb-865a-44b1-a726-432f93a2d5b6
