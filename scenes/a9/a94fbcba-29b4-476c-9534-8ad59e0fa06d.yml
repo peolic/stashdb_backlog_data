@@ -15,3 +15,11 @@ fingerprints:
     hash: f626702e75275839
     correct_scene_id: null
     duration: 725
+  - algorithm: phash
+    hash: e626302e7d2f5839
+    correct_scene_id: null
+    duration: 726
+  - algorithm: phash
+    hash: 82d7d6511856ee4e
+    correct_scene_id: null
+    duration: 732
