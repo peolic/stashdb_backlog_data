@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019d0751-67a9-78d4-8c77-a360f00698d6
       name: G ame Passions
       appearance: G
-      status: c
-      status_url: https://stashdb.org/edits/019d06fe-202c-7491-8c43-1f741c1e93c2
