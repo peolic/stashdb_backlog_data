@@ -1,0 +1,11 @@
+c_studio:
+  - Ersties
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: G ame Passions
+      appearance: G
+      status: c
+      status_url: https://stashdb.org/edits/019d06fe-202c-7491-8c43-1f741c1e93c2
