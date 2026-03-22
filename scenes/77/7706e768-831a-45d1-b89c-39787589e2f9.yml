@@ -4,9 +4,7 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019d145b-f3de-741d-8845-fedad31af410
       name: Erica
       appearance: null
       disambiguation: Miss Kriss
-      status: c
-      status_url: https://stashdb.org/edits/019d10dd-5638-77b6-b986-329c2709dc2c
