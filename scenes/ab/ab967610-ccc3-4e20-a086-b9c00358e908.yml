@@ -1,0 +1,11 @@
+c_studio:
+  - Motherfucker XXX
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Pamela Black
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019d218e-0fac-7694-8ca8-0ded8b23d0b5

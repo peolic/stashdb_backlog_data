@@ -1,0 +1,15 @@
+c_studio:
+  - White Ghetto
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Patti
+      appearance: null
+      disambiguation: mature.nl
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3c179841-aa51-443d-86e2-bd38cc1a5224
+    - id: f0f19be0-8f6e-4617-a090-ed2f3ce94b44
+      name: Jessika Makarov
+      appearance: null
