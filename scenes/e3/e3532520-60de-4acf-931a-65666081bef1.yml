@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019d218c-79c7-7f58-b578-934f8aa10b54
       name: Pamela Black
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019d218e-0fac-7694-8ca8-0ded8b23d0b5
