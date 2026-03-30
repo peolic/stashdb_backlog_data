@@ -1,0 +1,12 @@
+c_studio:
+  - Brand New Amateurs
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Lilly
+      appearance: null
+      disambiguation: Brand New Amateurs
+      status: new
+      status_url: https://brandnewamateurs.com/models/lilly.html
