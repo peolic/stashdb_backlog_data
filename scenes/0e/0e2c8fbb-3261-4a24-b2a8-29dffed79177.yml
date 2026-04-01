@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019d457e-f58f-785c-9a63-b1b815ebb0a1
       name: Lilly
       appearance: null
       disambiguation: Brand New Amateurs
-      status: c
-      status_url: https://stashdb.org/edits/019d4581-0c99-7216-9498-693cc89f49c6
       notes:
         - https://brandnewamateurs.com/models/lilly.html
