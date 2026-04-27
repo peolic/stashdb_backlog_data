@@ -25,10 +25,11 @@ jobs:
         with:
           path: ${{ env.PATH_DATA }}
 
-      # - name: Set up Python
-      #   uses: actions/setup-python@v5
-      #   with:
-      #     python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: 'pip' # caching pip dependencies
 
       - name: Install dependencies
         working-directory: ${{ env.PATH_EXPORTER }}
@@ -57,7 +58,7 @@ jobs:
           git push origin HEAD:refs/tags/cache -f
 
       - name: Release cache data
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         if: ${{ env.current_cache != github.sha || env.asset_exists != 'true' }}
         with:
           name: Cache
