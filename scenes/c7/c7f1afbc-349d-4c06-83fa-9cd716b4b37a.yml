@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e01d4-117b-7b9f-a222-867d2c67b7f6
       name: JayIn Delicious
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e01da-4447-733e-9420-6ac2c2fe768d
