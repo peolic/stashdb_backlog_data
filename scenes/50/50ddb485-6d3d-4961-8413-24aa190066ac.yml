@@ -1,0 +1,11 @@
+c_studio:
+  - Real Red Fox
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Lukianiuk
+      appearance: null
+      status: new
+      status_url: https://www.mydirtyhobby.com/profil/101496482-Lukianiuk
