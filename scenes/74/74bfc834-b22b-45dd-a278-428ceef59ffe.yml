@@ -1,0 +1,14 @@
+c_studio:
+  - Czech Casting
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=868fdf8d-a58c-4ffd-b0cd-ce29fdc7d43b
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Tomas
+      appearance: null
+      disambiguation: Czech Casting 5570
+      status: c
+      status_url: https://stashdb.org/edits/019e0f79-c772-7ea2-8d37-60c0cbf1ac81
