@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fbe-41c7-7c24-a276-823cda21225f
       name: That Boss Lass
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fbe-b706-7d6e-8f7d-2fa9fc75ea4c
       notes:
         - https://www.iafd.com/person.rme/id=f25da46b-58a8-4773-bec5-b473cbdd4d87

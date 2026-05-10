@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fab-8af0-7ac9-b887-8f5b95f0ff58
       name: Roxie Leroux
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fab-b7f1-7dba-81d8-5461698dbc5b
       notes:
         - https://www.iafd.com/person.rme/id=9d723ad8-5e51-4403-8ac3-02748ea8deba

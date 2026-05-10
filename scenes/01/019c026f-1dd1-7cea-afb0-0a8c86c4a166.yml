@@ -4,18 +4,14 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fc3-7bea-7208-9359-83e37188c32c
       name: Hello Olson
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fc3-942f-7f37-b42c-1a86105a48fd
       notes:
         - https://www.iafd.com/person.rme/id=7edde817-2b2d-4949-a44c-d1d7c00372c5
-    - id: null
+    - id: 019e0fc4-3cf8-79bc-aeb3-ada974be18e5
       name: Yeimy
       appearance: null
       disambiguation: 2010, dancingbear.com
-      status: c
-      status_url: https://stashdb.org/edits/019e0fc4-6b29-7278-bbdb-68e952182907
       notes:
         - https://www.iafd.com/person.rme/id=a467dba1-616a-4b0b-9e01-58ae54d6447b

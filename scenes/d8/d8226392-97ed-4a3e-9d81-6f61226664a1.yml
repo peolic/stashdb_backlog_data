@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fb5-3ca1-7dfe-b9d2-5eb12a20c40e
       name: Ashley
       appearance: null
       disambiguation: 2004, creampiecuties.com
-      status: c
-      status_url: https://stashdb.org/edits/019e0fb5-a263-70e7-ab75-4758423c3e19
       notes:
         - https://www.iafd.com/person.rme/id=919e48d4-0037-482c-9684-a32fb4182ebf

@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fad-59fb-7cf4-88ab-1243d20c2907
       name: Sandra Syn
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fad-92c4-787a-be2e-0b42f05a748b
       notes:
         - https://www.iafd.com/person.rme/id=45e4aeba-58e6-41f3-9b66-96a64ad45705

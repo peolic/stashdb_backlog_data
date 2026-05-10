@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fa0-431c-728b-aa5e-ba3ac074cb1b
       name: Angelina Tyler
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fa0-68d2-758f-8f69-d9ebc2008cd8
       notes:
         - https://www.iafd.com/person.rme/id=14bdfb14-685f-43df-8357-3652b2bc8fcb
         - https://www.babepedia.com/babe/Angelina_Tyler

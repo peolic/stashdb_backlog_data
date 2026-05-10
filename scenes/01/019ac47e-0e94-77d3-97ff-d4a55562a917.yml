@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0faf-87b4-7d4c-a047-b71e1008ce92
       name: Betty Spears
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0faf-a943-7d4e-82cf-7b73b820986d
       notes:
         - https://www.iafd.com/person.rme/id=07ae1482-cf31-4ec7-8d4f-48941d6aaffe

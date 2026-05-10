@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fcb-5260-7f4d-9067-fb1979cfc3d4
       name: Brooke
       appearance: null
       disambiguation: Heather Harmon, 2001
-      status: c
-      status_url: https://stashdb.org/edits/019e0fcb-c0e8-706e-80ec-0fc48589e4e5
       notes:
         - https://www.iafd.com/person.rme/id=aa2f9dbb-865a-44b1-a726-432f93a2d5b6

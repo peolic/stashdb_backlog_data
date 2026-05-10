@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fc5-9bac-7eac-9470-a1d316b08fa3
       name: Kesha Looking
       appearance: Kesha
-      status: c
-      status_url: https://stashdb.org/edits/019e0fc5-f56c-78f9-b430-ecb52fb97623
       notes:
         - https://www.iafd.com/person.rme/id=4541bf78-c3d5-4158-a285-8da36656fd95

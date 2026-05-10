@@ -6,9 +6,7 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0f79-9f11-7fee-bc78-ac06e9eb8f29
       name: Tomas
       appearance: null
       disambiguation: Czech Casting 5570
-      status: c
-      status_url: https://stashdb.org/edits/019e0f79-c772-7ea2-8d37-60c0cbf1ac81

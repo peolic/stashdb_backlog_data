@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fdb-e218-77be-a34c-aa89c00a84ce
       name: Sarah Shapse
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fdc-27a8-7ae9-8dcd-8f9f1ee6ffc0
       notes:
         - https://www.mofos.com/model/539289/sarah-shapse

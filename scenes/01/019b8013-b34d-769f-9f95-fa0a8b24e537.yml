@@ -6,10 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fbc-1c09-77b7-afc9-0ad5c41b5e75
       name: Toni Peters
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fbc-312c-7b35-b588-ec91cec37254
       notes:
         - https://www.iafd.com/person.rme/id=11881c55-262b-4823-8b1c-0183b45e6c26

@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fa9-c9bd-7a92-a5f2-9aaf441efc6b
       name: Hunter Hart
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fa9-f7fc-7506-8b9d-37677522514d
       notes:
         - https://www.iafd.com/person.rme/id=5d6c674c-5ef5-440f-95ad-92e149c54209

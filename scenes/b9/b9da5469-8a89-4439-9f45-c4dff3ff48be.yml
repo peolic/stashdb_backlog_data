@@ -7,18 +7,14 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e0fb8-7efb-7727-b93c-8b9f00f72cd1
       name: Andrea Blonde
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019e0fb8-c44b-721b-96f1-c14e5b46ed51
       notes:
         - https://www.iafd.com/person.rme/id=19f4bb57-29e2-4cb7-8833-6607062703ef
-    - id: null
+    - id: 019e0fba-7067-7b37-9cf9-b9470711a7dd
       name: Joachim
       appearance: null
       disambiguation: 2022, nigged.com
-      status: c
-      status_url: https://stashdb.org/edits/019e0fba-83f6-7c21-a536-3b2a5a9a5df2
       notes:
         - https://www.iafd.com/person.rme/id=3fd7fae2-4b42-441d-b145-dc39666fa4be
