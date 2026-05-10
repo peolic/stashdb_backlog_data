@@ -7,6 +7,8 @@ performers:
     - id: null
       name: Brooke
       appearance: null
-      disambiguation: Heather Harmon
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=aa2f9dbb-865a-44b1-a726-432f93a2d5b6
+      disambiguation: Heather Harmon, 2001
+      status: c
+      status_url: https://stashdb.org/edits/019e0fcb-c0e8-706e-80ec-0fc48589e4e5
+      notes:
+        - https://www.iafd.com/person.rme/id=aa2f9dbb-865a-44b1-a726-432f93a2d5b6

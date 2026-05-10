@@ -8,5 +8,7 @@ performers:
       name: Ashley
       appearance: null
       disambiguation: 2004, creampiecuties.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=919e48d4-0037-482c-9684-a32fb4182ebf
+      status: c
+      status_url: https://stashdb.org/edits/019e0fb5-a263-70e7-ab75-4758423c3e19
+      notes:
+        - https://www.iafd.com/person.rme/id=919e48d4-0037-482c-9684-a32fb4182ebf

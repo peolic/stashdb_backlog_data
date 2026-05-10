@@ -7,5 +7,7 @@ performers:
     - id: null
       name: Alanna Bentley
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2844990e-9fd1-48a3-bd09-34f53cb4e487
+      status: c
+      status_url: https://stashdb.org/edits/019e0fc7-3173-7e1f-b715-7771f361f8b4
+      notes:
+        - https://www.iafd.com/person.rme/id=2844990e-9fd1-48a3-bd09-34f53cb4e487

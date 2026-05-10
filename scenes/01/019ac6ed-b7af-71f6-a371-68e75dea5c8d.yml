@@ -9,10 +9,14 @@ performers:
     - id: null
       name: Christelle Deballiere
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2f5ef96b-adc6-46dc-89c3-c5ede7c0fb65
+      status: c
+      status_url: https://stashdb.org/edits/019e0fb2-6119-7226-8b48-86d9404c647a
+      notes:
+        - https://www.iafd.com/person.rme/id=2f5ef96b-adc6-46dc-89c3-c5ede7c0fb65
     - id: null
       name: Guy Royer
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8a25d289-f509-4054-9559-903d314a5872
+      status: c
+      status_url: https://stashdb.org/edits/019e0fb2-ecab-7040-8dbe-ebe9d0d011be
+      notes:
+        - https://www.iafd.com/person.rme/id=8a25d289-f509-4054-9559-903d314a5872

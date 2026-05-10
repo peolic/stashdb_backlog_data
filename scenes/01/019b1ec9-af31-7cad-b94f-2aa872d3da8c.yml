@@ -7,5 +7,7 @@ performers:
     - id: null
       name: That Boss Lass
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=f25da46b-58a8-4773-bec5-b473cbdd4d87
+      status: c
+      status_url: https://stashdb.org/edits/019e0fbe-b706-7d6e-8f7d-2fa9fc75ea4c
+      notes:
+        - https://www.iafd.com/person.rme/id=f25da46b-58a8-4773-bec5-b473cbdd4d87

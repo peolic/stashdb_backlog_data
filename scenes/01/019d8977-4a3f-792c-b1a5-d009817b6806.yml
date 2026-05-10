@@ -1,9 +1,0 @@
-c_studio:
-  - Hooked
-  - null
-performers:
-  remove: []
-  append:
-    - id: 019cdd8d-ee64-74b7-bc9a-2eb2f2df3c07
-      name: Stephanie Crime
-      appearance: null

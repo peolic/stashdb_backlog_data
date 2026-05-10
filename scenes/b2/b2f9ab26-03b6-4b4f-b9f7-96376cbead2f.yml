@@ -8,5 +8,7 @@ performers:
       name: Yazmin
       appearance: null
       disambiguation: 2013 dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=b5847781-5901-44da-8be9-a44516b19982
+      status: c
+      status_url: https://stashdb.org/edits/019e0fcd-3f2f-701e-98ef-294e72fa36ad
+      notes:
+        - https://www.iafd.com/person.rme/id=b5847781-5901-44da-8be9-a44516b19982
