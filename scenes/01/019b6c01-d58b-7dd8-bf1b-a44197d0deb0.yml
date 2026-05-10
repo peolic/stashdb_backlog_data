@@ -1,9 +1,0 @@
-c_studio:
-  - TadPoleXXXStudio
-  - null
-performers:
-  remove: []
-  append:
-    - id: 019caab2-192c-7d00-913e-f6f8c2693b76
-      name: Lola Kisses
-      appearance: null
