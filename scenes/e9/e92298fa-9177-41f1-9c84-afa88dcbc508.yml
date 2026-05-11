@@ -8,9 +8,6 @@ performers:
     - id: be44e7c4-a2ff-4249-8b12-b875cff4c293
       name: Alexander
       appearance: null
-    - id: 50eca66e-7faf-4763-a272-8c9e2f4cc786
-      name: Gabriel
-      appearance: null
     - id: 505e490d-9ee6-4d3f-90da-c21981b54884
       name: Tony
       appearance: null
@@ -23,10 +20,6 @@ performers:
       status_url: https://www.iafd.com/person.rme/id=a5c30211-7fd2-434b-acc4-ca4b4a582efb
       notes:
         - Aylo ID is 21919
-    - id: b8f6d128-3597-4e14-849b-4aeae436357e
-      name: Gabriel
-      appearance: null
-      disambiguation: Papi, 2006
     - id: null
       name: Sin
       appearance: null

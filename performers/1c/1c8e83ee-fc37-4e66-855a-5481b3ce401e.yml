@@ -1,18 +1,7 @@
 split:
   name: Corey
-  fragments:
-    - column: O
-      id: ae7f7e12-7e27-4690-b471-071db576b699
-      name: Corey (Papi, 2006)
-      notes:
-        - '- Papi "Cock Shots"'
-        - "- \x02Papi \"Love Triangle\" - missing performer\x03"
-        - "- \x02Papi \"El Maletero\"\x03"
-      links:
-        - https://www.realitydudes.com/model/20919/corey
-        - https://stashdb.org/scenes/fda6fa34-b9c4-4b9c-bd4d-4b5d39ed3737
-        - https://www.iafd.com/title.rme/id=338de67c-2079-4a66-9eb8-68708d8aa048
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2024-03-03)
     - Best to move scenes and delete performer, rather than merging or renaming.

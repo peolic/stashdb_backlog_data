@@ -10,9 +10,6 @@ performers:
       name: Gene
       appearance: null
       disambiguation: Sean Cody
-    - id: 1d5ffc62-057d-4298-a02e-9340faa2539b
-      name: Ian
-      appearance: null
   append:
     - id: null
       name: Christopher
@@ -28,7 +25,3 @@ performers:
       status: new
       notes:
         - Aylo ID is 21727
-    - id: 97a05af8-ca9f-4ff1-8473-097232801d60
-      name: Ian
-      appearance: null
-      disambiguation: Papi, 2007
