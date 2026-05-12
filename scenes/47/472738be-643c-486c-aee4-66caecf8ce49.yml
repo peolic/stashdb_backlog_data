@@ -21,6 +21,7 @@ performers:
       name: Sara
       appearance: null
       disambiguation: 2004, V9, SHV 6
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e19c8-8e95-76ed-a221-4753b35f0f7f
       notes:
         - Visible on scene cover

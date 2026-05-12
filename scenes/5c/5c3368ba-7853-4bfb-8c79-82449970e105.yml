@@ -1,0 +1,44 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+    - id: 060dc8fc-0dbf-4c79-98d6-512d6817fafa
+      name: Mario
+      appearance: null
+  append:
+    - id: b6d342a1-a965-4b0e-a47a-0b1439436c68
+      name: Richard
+      appearance: null
+      disambiguation: Papi, 2006
+    - id: null
+      name: Mario
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22291/mario
+    - id: null
+      name: Julian
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21193/julian
+    - id: null
+      name: Jkwon
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21369/jkwon
+    - id: null
+      name: Angel
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21185/angel

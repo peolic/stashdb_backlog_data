@@ -1,0 +1,34 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: 505e490d-9ee6-4d3f-90da-c21981b54884
+      name: Tony
+      appearance: null
+    - id: d0648f5f-63f7-4f76-b79a-c8ec72380ce8
+      name: Joe
+      appearance: null
+  append:
+    - id: null
+      name: Julius
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+    - id: null
+      name: Jessie
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+    - id: null
+      name: Tony
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+    - id: null
+      name: Joe
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20274

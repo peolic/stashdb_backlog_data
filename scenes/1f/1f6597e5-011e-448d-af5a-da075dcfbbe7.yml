@@ -16,7 +16,8 @@ performers:
       name: Dylan
       appearance: null
       disambiguation: Boys First Time, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e19cf-89b4-7b6d-ba3a-ecfd306f2d99
       notes:
         - Top on the scene cover
     - id: null

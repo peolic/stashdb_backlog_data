@@ -1,0 +1,48 @@
+c_studio:
+  - Dick Dorm
+  - null
+comments:
+  - https://www.realitydudes.com/scene/2836091/balls-balls-balls
+performers:
+  remove:
+    - id: 086fbcf8-1709-43b4-9a60-b386698e5fdd
+      name: Manuel
+      appearance: null
+    - id: 119ccd52-7067-45ac-ab63-db0ee978130d
+      name: Derek
+      appearance: null
+    - id: 55d494b3-166c-4847-acac-84593cc28050
+      name: Andrew
+      appearance: null
+    - id: 8d9f5e14-8f7c-4e8a-a631-237c7968f292
+      name: Joseph
+      appearance: null
+  append:
+    - id: null
+      name: Mauel
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22248/manuel
+    - id: null
+      name: Derek
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22252/derek
+    - id: null
+      name: Andrew
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22250/andrew
+    - id: null
+      name: Joseph
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22246/joseph

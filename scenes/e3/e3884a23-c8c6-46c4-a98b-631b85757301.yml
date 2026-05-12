@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 415368f0-98d3-48f0-a290-65a7d283afa2
+      name: Mike
+      appearance: null
+    - id: 9ca2ceb1-dc19-40be-ab37-3d0ccd996a5a
+      name: Guy
+      appearance: null
+  append:
+    - id: null
+      name: Mike
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new
+    - id: null
+      name: Guy
+      appearance: null
+      disambiguation: Boys First Time, 2004
+      status: new

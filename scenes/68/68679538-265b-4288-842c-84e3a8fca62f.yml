@@ -1,0 +1,58 @@
+c_studio:
+  - Papi
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=534f9662-617c-4ad3-9414-551e3a9e8557
+performers:
+  remove:
+    - id: 07c06a88-c528-41a7-a26d-ff8ca5e2e201
+      name: Luis
+      appearance: null
+    - id: 2e1a3250-61a6-4b40-9d0b-183f1f0ecfb0
+      name: George
+      appearance: null
+    - id: 9f1171da-5edd-408a-8f62-a277db2cbfb2
+      name: Alejandro
+      appearance: null
+    - id: ccb54c4e-119a-472d-8852-5963132d1ba7
+      name: Nick
+      appearance: null
+    - id: d0648f5f-63f7-4f76-b79a-c8ec72380ce8
+      name: Joe
+      appearance: null
+  append:
+    - id: null
+      name: Luis
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20290
+    - id: null
+      name: George
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20272
+    - id: null
+      name: Alejandro
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20278
+    - id: null
+      name: Nick
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 22160
+    - id: null
+      name: Joe
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20274

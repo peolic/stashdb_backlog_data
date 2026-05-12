@@ -1,0 +1,22 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 4c83158b-970e-4c1c-bcdd-5d5d828de303
+      name: Isaac
+      appearance: null
+    - id: 26bad730-2e79-47ec-bcd3-a4e5f21253b7
+      name: Sam
+      appearance: null
+  append:
+    - id: null
+      name: Isaac
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
+    - id: null
+      name: Sam
+      appearance: null
+      disambiguation: Boys First Time, 2008
+      status: new
