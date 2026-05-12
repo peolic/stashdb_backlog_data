@@ -6,10 +6,8 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e1c19-ccab-7143-acaa-5acc049e9c1b
       name: "Ana G\xF3mez"
       appearance: Ana
-      status: c
-      status_url: https://stashdb.org/edits/019e1c19-f280-754f-abd5-25024691478e
       notes:
         - https://www.indexxx.com/m/ana-gomez

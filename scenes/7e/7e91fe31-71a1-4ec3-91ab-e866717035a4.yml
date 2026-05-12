@@ -6,11 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e1c15-eb1c-7b82-94ce-9af77564d02e
       name: Natasha Arad
       appearance: Cara
-      status: c
-      status_url: https://stashdb.org/edits/019e1c16-1c88-754f-9b63-c1a48777f95f
       notes:
         - https://www.iafd.com/person.rme/id=ecd8b1ed-6910-4e7d-8671-119b4b3cd5f1
         - https://www.indexxx.com/m/natasha-arad
