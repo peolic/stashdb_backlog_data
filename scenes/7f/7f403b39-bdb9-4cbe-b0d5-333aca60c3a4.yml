@@ -9,5 +9,7 @@ performers:
     - id: null
       name: "Ana G\xF3mez"
       appearance: Ana
-      status: new
-      status_url: https://www.indexxx.com/m/ana-gomez
+      status: c
+      status_url: https://stashdb.org/edits/019e1c19-f280-754f-abd5-25024691478e
+      notes:
+        - https://www.indexxx.com/m/ana-gomez

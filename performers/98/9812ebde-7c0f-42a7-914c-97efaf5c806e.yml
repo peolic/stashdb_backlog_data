@@ -1,15 +1,7 @@
 split:
   name: Dustin
-  fragments:
-    - column: M
-      id: null
-      name: Dustin (Boys First Time, 2009)
-      notes:
-        - '- Boys First Time "Loggers Run"'
-        - Scene 4 from Boys First Time 13, Dustin is the top
-      links:
-        - https://stashdb.org/scenes/0dc4be92-a3b8-4a6f-b051-d18a59beb95f
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
