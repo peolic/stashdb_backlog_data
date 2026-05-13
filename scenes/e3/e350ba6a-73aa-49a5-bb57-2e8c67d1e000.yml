@@ -11,9 +11,10 @@ performers:
       name: Xavier
       appearance: null
       disambiguation: Boys First Time, 2007
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e23b5-4cfa-74fd-bfaa-153533dda4fc
       notes:
-        - Top of scene cover
+        - Bottom on scene cover
     - id: null
       name: KC
       appearance: null

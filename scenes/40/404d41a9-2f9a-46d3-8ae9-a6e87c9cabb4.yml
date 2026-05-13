@@ -13,6 +13,7 @@ performers:
       name: Mikey
       appearance: null
       disambiguation: 2007, V9, UAL 15
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e23b0-eec2-7fed-abf3-4366c3a4b398
       notes:
         - Visible on the scene cover

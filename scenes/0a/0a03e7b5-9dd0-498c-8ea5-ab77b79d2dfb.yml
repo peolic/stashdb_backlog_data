@@ -18,9 +18,10 @@ performers:
       disambiguation: 2005, V9, SHV 27
       status: new
     - id: null
-      name: Rose
+      name: Rosa
       appearance: null
       disambiguation: 2005, V9, SHV 27
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e23b2-3e62-7705-8df3-aa19421950f9
       notes:
         - Visible on scene cover
