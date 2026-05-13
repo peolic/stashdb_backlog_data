@@ -14,13 +14,15 @@ performers:
       name: Nick
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e2387-c631-7e1c-8527-0743dedbe9d2
       notes:
         - https://www.realitydudes.com/model/20984/nick
     - id: null
       name: William
       appearance: null
       disambiguation: Dick Dorm, 2012
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e2388-48b3-7347-ac66-2aa75ae7f367
       notes:
         - https://www.realitydudes.com/model/20976/william

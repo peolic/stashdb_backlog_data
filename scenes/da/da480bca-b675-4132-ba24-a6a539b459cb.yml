@@ -16,7 +16,8 @@ performers:
       name: Nicholas
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019e238e-d0cd-728c-ac84-f69fd47be22b
       notes:
         - https://www.realitydudes.com/model/21783/nicholas
     - id: null
