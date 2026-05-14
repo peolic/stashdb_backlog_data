@@ -12,12 +12,10 @@ performers:
       name: Lenny
       appearance: null
   append:
-    - id: null
+    - id: 019e23ae-d88c-7907-b3fb-647a85db9e3f
       name: Lara
       appearance: null
       disambiguation: 2005, V9, SHV 28
-      status: c
-      status_url: https://stashdb.org/edits/019e23af-13db-7e9c-acde-5bd46813bcdc
       notes:
         - Visible on the scene cover
     - id: null
