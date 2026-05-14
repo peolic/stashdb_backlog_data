@@ -12,19 +12,15 @@ performers:
       name: Suzanne
       appearance: null
   append:
-    - id: null
+    - id: 019e238e-bc50-71c1-a420-4b33cec294dc
       name: Nicholas
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019e238e-d0cd-728c-ac84-f69fd47be22b
       notes:
         - https://www.realitydudes.com/model/21783/nicholas
-    - id: null
+    - id: 019e238f-44f7-7ca9-b71b-557d28c62b37
       name: Suzanne
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019e238f-5ca6-7348-ad7e-c346f216284f
       notes:
         - https://www.realitydudes.com/model/21785/suzanne

@@ -13,27 +13,21 @@ performers:
       name: Tom
       appearance: null
   append:
-    - id: null
+    - id: 019e2389-0840-7979-8d3c-ae50762eadc9
       name: James
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019e2389-22a0-7beb-a414-174042c1bc9d
       notes:
         - https://www.realitydudes.com/model/20379/james
-    - id: null
+    - id: 019e2389-8ede-75ad-8b24-5851340c394a
       name: Rambo
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019e2389-a6e2-7b06-9324-d1fb5ba4b79f
       notes:
         - https://www.realitydudes.com/model/20382/rambo
-    - id: null
+    - id: 019e238a-6529-7760-8488-0103cffc87d3
       name: Tom
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019e238a-848c-736d-80de-961f7c839c6f
       notes:
         - https://www.realitydudes.com/model/20386/tom

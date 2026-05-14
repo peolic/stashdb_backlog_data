@@ -12,19 +12,15 @@ performers:
       name: Theo
       appearance: null
   append:
-    - id: null
+    - id: 019e238b-b6fa-7756-8052-c888f12f143d
       name: Shelby
       appearance: null
       disambiguation: Dick Dorm, 2013
-      status: c
-      status_url: https://stashdb.org/edits/019e238b-cd4c-7c04-81f3-0890fc016ac3
       notes:
         - https://www.realitydudes.com/model/21070/shelby
-    - id: null
+    - id: 019e238c-43f5-7283-a13a-e36e8270b3aa
       name: Theo
       appearance: null
       disambiguation: Dick Dorm, 2013
-      status: c
-      status_url: https://stashdb.org/edits/019e238c-5d3a-7726-8fb4-2ddf93b0bae5
       notes:
         - https://www.realitydudes.com/model/20514/theo
