@@ -1,0 +1,15 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 50eca66e-7faf-4763-a272-8c9e2f4cc786
+      name: Gabriel
+      appearance: null
+  append:
+    - id: null
+      name: Gabriel
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: c
+      status_url: https://stashdb.org/edits/019e23d5-1631-799c-82f9-20884042e51e

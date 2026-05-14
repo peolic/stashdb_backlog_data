@@ -1,0 +1,26 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 05b2d0dd-7677-49b5-b59d-a25377bf395f
+      name: Maxwell
+      appearance: null
+    - id: 80429e44-6286-4730-bffd-e918abe7340c
+      name: Miguel
+      appearance: null
+  append:
+    - id: null
+      name: Maxwell
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20746/maxwell
+    - id: null
+      name: Miguel
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20750/miguel

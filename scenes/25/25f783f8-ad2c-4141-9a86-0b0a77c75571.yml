@@ -1,0 +1,40 @@
+c_studio:
+  - Dick Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=583ba4e7-4fd7-451f-9e9e-16aaf2146df2
+  - https://www.realitydudes.com/scene/2834981/make-it-double
+performers:
+  remove:
+    - id: 415bc41e-08c5-4301-b6b3-21ef016109b7
+      name: Micky
+      appearance: Milky
+      disambiguation: Thai, c.2015
+    - id: 9cf9aab8-0a42-480f-a4db-59188c359cb4
+      name: Seth
+      appearance: null
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+  append:
+    - id: null
+      name: Milky
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22120/milky
+    - id: null
+      name: Seth
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22122/seth
+    - id: null
+      name: Richard
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/22124/richard

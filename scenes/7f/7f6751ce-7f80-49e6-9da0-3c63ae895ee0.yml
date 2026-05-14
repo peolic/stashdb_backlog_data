@@ -1,0 +1,36 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 2ba7b1c2-4178-4aee-ab6b-9131b29c52a5
+      name: Matthew
+      appearance: null
+    - id: 2e1a3250-61a6-4b40-9d0b-183f1f0ecfb0
+      name: George
+      appearance: null
+    - id: daff3ebb-807c-4a6d-b532-04b3862c56c8
+      name: Cody
+      appearance: null
+  append:
+    - id: null
+      name: Matthew
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20823/matthew
+    - id: null
+      name: George
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20821/george
+    - id: null
+      name: Cody
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20825/cody

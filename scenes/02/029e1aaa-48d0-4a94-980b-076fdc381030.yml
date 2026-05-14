@@ -1,0 +1,39 @@
+c_studio:
+  - Dick Dorm
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=1f679484-8580-4290-b2f7-2e9b5e49f039
+performers:
+  remove:
+    - id: 5fde8ee3-c058-4072-a7b6-56766136536a
+      name: Martin
+      appearance: null
+    - id: 6270ed32-a916-4239-8dcf-bd496f2db56d
+      name: Patrick
+      appearance: null
+    - id: ec366f75-6885-4d23-85a2-c5b6d3c30578
+      name: Michael
+      appearance: null
+  append:
+    - id: null
+      name: Bryan
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/19741/bryan
+        - Martin appears to have been replaced by Bryan within the RD system
+    - id: null
+      name: Patrick
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21601/patrick
+    - id: null
+      name: Michael
+      appearance: null
+      disambiguation: Dick Dorm, 2010
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/21609/michael

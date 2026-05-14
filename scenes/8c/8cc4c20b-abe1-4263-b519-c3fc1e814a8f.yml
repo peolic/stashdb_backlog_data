@@ -1,3 +1,6 @@
+c_studio:
+  - Dare Dorm
+  - null
 fingerprints:
   - algorithm: phash
     hash: fd8c8ece06a5f083
@@ -7,3 +10,20 @@ fingerprints:
     hash: ca4f77d82ac24d68
     correct_scene_id: null
     duration: 3888
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Alise
+      appearance: null
+      disambiguation: Reality Kings, 2011
+      status: new
+      notes:
+        - https://www.rk.com/model/20117/alise
+    - id: null
+      name: Sky
+      appearance: null
+      disambiguation: Reality Kings, 2011
+      status: new
+      notes:
+        - https://www.rk.com/model/20103/sky

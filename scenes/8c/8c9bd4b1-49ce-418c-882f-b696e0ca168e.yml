@@ -1,0 +1,73 @@
+c_studio:
+  - Dick Dorm
+  - null
+comments:
+  - https://www.realitydudes.com/scene/2835421/give-me-balls
+  - https://www.iafd.com/title.rme/id=55d96a3a-006f-432d-aed1-0dd2fbdcc753
+performers:
+  remove:
+    - id: 35a7036c-5e91-4ad2-8fdf-164bb60138b6
+      name: David
+      appearance: null
+    - id: 7214152e-13e3-488f-8cc3-ac4aa2d89f52
+      name: Kyle
+      appearance: null
+  append:
+    - id: null
+      name: David
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20109/david
+    - id: null
+      name: Kyle
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20115/kyle
+    - id: 6893479b-df9f-4289-afc5-af67d467d188
+      name: Jessica
+      appearance: null
+      disambiguation: Reality Kings, 2011
+      notes:
+        - https://www.rk.com/model/20121/jessica
+    - id: null
+      name: Alise
+      appearance: null
+      disambiguation: Reality Kings, 2011
+      status: new
+      notes:
+        - https://www.rk.com/model/20117/alise
+    - id: null
+      name: Maryah
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20123/maryah
+    - id: d16e1260-084c-4e31-81f3-4aaea0110390
+      name: Betsy
+      appearance: null
+      disambiguation: 2010, Reality Kings
+      notes:
+        - https://www.realitydudes.com/model/20119/betsy
+    - id: null
+      name: Sky
+      appearance: null
+      disambiguation: Reality Kings, 2011
+      status: new
+      notes:
+        - https://www.rk.com/model/20103/sky
+    - id: 4b07af6a-1376-4281-a6b2-a556fcf42d64
+      name: Ash
+      appearance: null
+      disambiguation: Dare Dorm, 2010
+      notes:
+        - Identified via Stashface
+    - id: 7f18a975-ab18-4582-9a70-909956658444
+      name: Andy Riles
+      appearance: null
+      notes:
+        - 100% hit on Stashface for performer with cowboy hat

@@ -1,0 +1,46 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: 151d263b-810a-4c10-b8e9-9f485e7136ae
+      name: Nicholas
+      appearance: null
+    - id: a9549dff-2731-4534-afb5-ce60a8ec087d
+      name: Joshua
+      appearance: null
+    - id: dd2c6f6e-26c5-4aed-97c7-3a558113459c
+      name: Max
+      appearance: null
+    - id: e57e5f77-b6a6-4c7a-a7aa-56917cd99511
+      name: Ryan
+      appearance: null
+  append:
+    - id: null
+      name: Nicholas
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20700/nicholas
+    - id: null
+      name: Joshua
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20696/joshua
+    - id: null
+      name: Max
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20698/max
+    - id: null
+      name: Ryan
+      appearance: null
+      disambiguation: Dick Dorm, 2011
+      status: new
+      notes:
+        - https://www.realitydudes.com/model/20702/ryan
