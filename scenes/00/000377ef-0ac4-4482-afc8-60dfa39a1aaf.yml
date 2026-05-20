@@ -23,10 +23,6 @@ fingerprints:
     hash: f51f764ace5cc73b
     correct_scene_id: ec8d530f-6b83-4864-aa51-0217ca349d76
     duration: 2425
-  - algorithm: md5
-    hash: d2aedb61f5cc4f43f9a1d0a3afd368ee
-    correct_scene_id: ec8d530f-6b83-4864-aa51-0217ca349d76
-    duration: 2425
   - algorithm: oshash
     hash: 079846024459e88a
     correct_scene_id: ec8d530f-6b83-4864-aa51-0217ca349d76

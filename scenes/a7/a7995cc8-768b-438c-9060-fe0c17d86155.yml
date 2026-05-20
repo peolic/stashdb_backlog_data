@@ -11,10 +11,6 @@ fingerprints:
     hash: 9c1c1c1c1c85f6f7
     correct_scene_id: null
     duration: 30
-  - algorithm: md5
-    hash: c69c64e4c457ea25d76a7f346de531b3
-    correct_scene_id: null
-    duration: 30
   - algorithm: oshash
     hash: 075f284931b47b03
     correct_scene_id: null

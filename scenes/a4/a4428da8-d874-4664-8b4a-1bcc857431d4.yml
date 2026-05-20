@@ -1,24 +1,4 @@
 fingerprints:
-  - algorithm: md5
-    hash: 0fc897de9d8458921141a6fe6ed2ed84
-    correct_scene_id: 551ae3d4-1f0a-4dbc-b49c-c743caf2b119
-    duration: 1662
-  - algorithm: md5
-    hash: 4972d7b158d12284171f0015820fb7bb
-    correct_scene_id: 551ae3d4-1f0a-4dbc-b49c-c743caf2b119
-    duration: 1662
-  - algorithm: md5
-    hash: b663c62a3b9566b63503bb4854a96cf2
-    correct_scene_id: 551ae3d4-1f0a-4dbc-b49c-c743caf2b119
-    duration: 1662
-  - algorithm: md5
-    hash: d8942d0c235cbf3b9532f3670f7ee173
-    correct_scene_id: 551ae3d4-1f0a-4dbc-b49c-c743caf2b119
-    duration: 1662
-  - algorithm: md5
-    hash: daefc40fb26942747f2c03b4d9415db4
-    correct_scene_id: 551ae3d4-1f0a-4dbc-b49c-c743caf2b119
-    duration: 1662
   - algorithm: oshash
     hash: 115b4800613ad746
     correct_scene_id: 551ae3d4-1f0a-4dbc-b49c-c743caf2b119

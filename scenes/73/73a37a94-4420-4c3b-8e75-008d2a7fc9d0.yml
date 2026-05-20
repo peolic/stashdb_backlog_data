@@ -19,11 +19,3 @@ fingerprints:
     hash: b7c82949e996b2a3
     correct_scene_id: 24751661-a168-44a7-a84b-8976e7e327ee
     duration: 2696
-  - algorithm: md5
-    hash: 6b1979c55d9b4d5d3d387b22bfa84a08
-    correct_scene_id: 24751661-a168-44a7-a84b-8976e7e327ee
-    duration: 2696
-  - algorithm: md5
-    hash: dade40cd70c3221332a39968d5fd3dbb
-    correct_scene_id: 24751661-a168-44a7-a84b-8976e7e327ee
-    duration: 2696

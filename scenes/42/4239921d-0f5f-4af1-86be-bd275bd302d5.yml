@@ -1,8 +1,4 @@
 fingerprints:
-  - algorithm: md5
-    hash: db7fbb6879ad0f7c0aa55eb63966844c
-    correct_scene_id: 0de001ca-5247-44ad-a405-fbb25bd1be1a
-    duration: 1111
   - algorithm: phash
     hash: a21866187cfcb7a9
     correct_scene_id: 0de001ca-5247-44ad-a405-fbb25bd1be1a

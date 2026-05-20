@@ -7,14 +7,6 @@ fingerprints:
     hash: e919bd25c91ca69a
     correct_scene_id: null
     duration: 600
-  - algorithm: md5
-    hash: 398c8737b21f23ed4d0d25ad0fcc8dcf
-    correct_scene_id: 4d2c50b5-b577-45f6-8eff-84792f82a548
-    duration: 1980
-  - algorithm: md5
-    hash: f2fae62a8a00c87cf8deaae15466fdca
-    correct_scene_id: 4d2c50b5-b577-45f6-8eff-84792f82a548
-    duration: 1980
   - algorithm: phash
     hash: f4ff02d898b0a6e2
     correct_scene_id: 4d2c50b5-b577-45f6-8eff-84792f82a548

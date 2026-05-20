@@ -11,10 +11,6 @@ fingerprints:
     hash: fde1464642a2cfe4
     correct_scene_id: 8b4900a6-6ad4-4d6c-826a-2c6a424f5800
     duration: 945
-  - algorithm: md5
-    hash: ecba1562691c590756d56001f7219af1
-    correct_scene_id: 8b4900a6-6ad4-4d6c-826a-2c6a424f5800
-    duration: 945
   - algorithm: oshash
     hash: a4b6502977b047cd
     correct_scene_id: 8b4900a6-6ad4-4d6c-826a-2c6a424f5800

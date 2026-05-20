@@ -5,6 +5,3 @@ fingerprints:
   - algorithm: oshash
     hash: 782871bea2ddd3e1
     correct_scene_id: b23b999e-8818-482e-a9be-18736633202a
-  - algorithm: md5
-    hash: 913279bedd0a01b68900159a5bc3dc2e
-    correct_scene_id: b23b999e-8818-482e-a9be-18736633202a

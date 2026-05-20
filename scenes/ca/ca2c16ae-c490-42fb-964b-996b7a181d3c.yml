@@ -39,10 +39,6 @@ fingerprints:
     hash: f6d57073c50f9ac0
     correct_scene_id: 030e783d-ac59-4013-a8fb-295036bfb453
     duration: 2006
-  - algorithm: md5
-    hash: 4ad98af499c9b102d04fa439b635aef1
-    correct_scene_id: 030e783d-ac59-4013-a8fb-295036bfb453
-    duration: 2006
   - algorithm: oshash
     hash: 28ffb4e50276d02c
     correct_scene_id: 030e783d-ac59-4013-a8fb-295036bfb453

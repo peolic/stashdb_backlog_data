@@ -23,7 +23,3 @@ fingerprints:
     hash: 843d093fbf52a5c1
     correct_scene_id: null
     duration: 64
-  - algorithm: md5
-    hash: 0fcc4148445159b3684d5bd0b4800281
-    correct_scene_id: null
-    duration: 64

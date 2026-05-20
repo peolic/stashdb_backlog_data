@@ -55,15 +55,3 @@ fingerprints:
     hash: 1c3974afae3d37a0
     correct_scene_id: b2221974-5fd2-4aad-b220-b220ee97fc11
     duration: 1369
-  - algorithm: md5
-    hash: 135aadeede11c459fe61b14a0267180a
-    correct_scene_id: b2221974-5fd2-4aad-b220-b220ee97fc11
-    duration: 1369
-  - algorithm: md5
-    hash: 46d3890b496b8c05b952c07215546bde
-    correct_scene_id: b2221974-5fd2-4aad-b220-b220ee97fc11
-    duration: 1369
-  - algorithm: md5
-    hash: d7d69fbab9fd3c215df04c560d917f22
-    correct_scene_id: b2221974-5fd2-4aad-b220-b220ee97fc11
-    duration: 1369

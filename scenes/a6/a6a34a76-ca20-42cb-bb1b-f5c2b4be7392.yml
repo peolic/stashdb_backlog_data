@@ -75,10 +75,6 @@ fingerprints:
     hash: b4f718b6a54b79b2
     correct_scene_id: feeb7f2f-6188-4508-b7a4-934255b5f1f4
     duration: 2768
-  - algorithm: md5
-    hash: f7c39014346d98debe7b38d3d7d5d4f2
-    correct_scene_id: feeb7f2f-6188-4508-b7a4-934255b5f1f4
-    duration: 2768
   - algorithm: oshash
     hash: 018a125a86425b88
     correct_scene_id: feeb7f2f-6188-4508-b7a4-934255b5f1f4
