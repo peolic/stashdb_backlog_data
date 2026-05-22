@@ -1,12 +1,6 @@
 split:
   name: James
   fragments:
-    - column: U
-      id: null
-      name: James (Dick Dorm, 2010)
-      text: Dick Dorm "Apples And Balls"
-      links:
-        - https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097
     - column: V
       id: null
       name: James (Boys First Time, 2004)

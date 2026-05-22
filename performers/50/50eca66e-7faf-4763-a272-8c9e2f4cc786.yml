@@ -1,13 +1,7 @@
 split:
   name: Gabriel
-  fragments:
-    - column: M
-      id: null
-      name: Gabriel (Dick Dorm, 2010)
-      text: Dick Dorm "Work Out"
-      links:
-        - https://stashdb.org/scenes/74f2ed58-9101-4591-b9d6-385b3e4d8917
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-10-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

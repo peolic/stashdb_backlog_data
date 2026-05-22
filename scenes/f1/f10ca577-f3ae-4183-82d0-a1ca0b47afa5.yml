@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: d9ad18f6-36e0-4c2e-9766-c640b022a4a5
+      name: Richard
+      appearance: null
+  append:
+    - id: null
+      name: Richard
+      appearance: null
+      disambiguation: Gay Revenge, 2011
+      status: new

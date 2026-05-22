@@ -1,13 +1,7 @@
 split:
   name: William
-  fragments:
-    - column: N
-      id: null
-      name: William (2011, Dick Dorm)
-      text: Dick Dorm "Gonzo Mask"
-      links:
-        - https://stashdb.org/scenes/aec746b9-b79f-4a10-b994-e512a44c16b7
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.

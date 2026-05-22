@@ -1,18 +1,6 @@
 split:
   name: Suzanne
-  fragments:
-    - column: J
-      id: 019e238f-44f7-7ca9-b71b-557d28c62b37
-      name: Suzanne (2010, Dick Dorm)
-      text: Dick Dorm "Double Up"
-      notes:
-        - 'Scene is also: Dick Dorm 14, Scene 3'
-        - 'Aylo ID: 21785'
-        - 'Birthday: 1992-05-19'
-      links:
-        - https://stashdb.org/scenes/da480bca-b675-4132-ba24-a6a539b459cb
-        - https://www.iafd.com/title.rme/id=343ba588-3e1f-4ac2-a36e-87dd5de2a3e5
-        - https://www.gaydvdempire.com/3838325/dick-dorm-14-porn-videos.html#scene_1391309
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-25)

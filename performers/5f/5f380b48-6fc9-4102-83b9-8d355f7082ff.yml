@@ -1,13 +1,7 @@
 split:
   name: Anthony
-  fragments:
-    - column: R
-      id: null
-      name: Anthony (Boys First Time, 2004)
-      text: Boys First Time "Man Milk"
-      links:
-        - https://stashdb.org/scenes/34dda47b-94ad-4439-9a6e-b0f84375199c
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -1,14 +1,6 @@
 split:
   name: Aaron (Boys First Time)
-  fragments:
-    - column: I
-      id: null
-      name: Aaron (Boys First Time, 2002)
-      text: Boys First Time "Mixed Nuts"
-      notes:
-        - Guy on the right on the scene cover
-      links:
-        - https://stashdb.org/scenes/c8fb60bd-5065-4860-a522-d3289c1d601e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-10-19)

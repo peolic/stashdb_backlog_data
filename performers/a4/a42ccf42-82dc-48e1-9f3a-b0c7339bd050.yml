@@ -1,16 +1,7 @@
 split:
   name: Tom
-  fragments:
-    - column: R
-      id: null
-      name: Tom (Dick Dorm)
-      text: Dick Dorm "Apples And Balls"
-      notes:
-        - no info
-      links:
-        - https://stashdb.org/scenes/f686c5f3-2cc8-4210-8618-06e1af3cc097
-        - https://www.iafd.com/title.rme/id=d9d09d40-a495-4c8d-8049-c3d4838aa80e
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2022-07-27)
     - Best to move scenes and delete performer, rather than merging or renaming.
