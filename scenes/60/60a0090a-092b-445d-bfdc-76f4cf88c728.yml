@@ -1,0 +1,16 @@
+c_studio:
+  - Papi
+  - null
+performers:
+  remove:
+    - id: 9f1171da-5edd-408a-8f62-a277db2cbfb2
+      name: Alejandro
+      appearance: null
+  append:
+    - id: null
+      name: Alejandro
+      appearance: null
+      disambiguation: Papi, 2006
+      status: new
+      notes:
+        - Aylo ID is 20278

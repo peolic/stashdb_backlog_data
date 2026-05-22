@@ -1,0 +1,32 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - https://www.data18.com/scenes/1184900
+performers:
+  remove:
+    - id: 19e35941-d09f-485f-b73c-e6394acef9f8
+      name: Alex
+      appearance: null
+    - id: null
+      name: Melissa
+      appearance: null
+    - id: null
+      name: Raquel
+      appearance: null
+  append:
+    - id: null
+      name: Alex
+      appearance: null
+      disambiguation: 2010, GF Revenge
+      status: new
+    - id: null
+      name: Melissa
+      appearance: null
+      disambiguation: 2010-01-01, GF Revenge
+      status: new
+    - id: null
+      name: Raquel
+      appearance: null
+      disambiguation: GF Revenge, 2010
+      status: new
