@@ -1,14 +1,7 @@
 split:
   name: Joseph
-  fragments:
-    - column: O
-      id: null
-      name: Joseph (2011, Dick Dorm)
-      text: Dick Dorm "Balls Balls Balls"
-      links:
-        - https://stashdb.org/scenes/c0245272-798d-4ac2-b65f-cb8af51dae44
-        - https://www.iafd.com/title.rme/id=41a190a1-8770-45f5-9328-c8bfff58f879
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-07-03)
     - Best to move scenes and delete performer, rather than merging or renaming.
