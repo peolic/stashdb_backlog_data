@@ -8,10 +8,10 @@ performers:
     - id: 19e35941-d09f-485f-b73c-e6394acef9f8
       name: Alex
       appearance: null
-    - id: null
+    - id: 92536c1f-38e4-42ab-b9cb-29d58044f51b
       name: Melissa
       appearance: null
-    - id: null
+    - id: 56d753d4-0e59-4953-a2a6-e9c91bbfd2eb
       name: Raquel
       appearance: null
   append:
@@ -20,6 +20,8 @@ performers:
       appearance: null
       disambiguation: 2010, GF Revenge
       status: new
+      notes:
+        - 'Archived studio profile link: https://web.archive.org/web/20190725021118/http://www.gfleaks.com/tour/model/view/8866/alex/'
     - id: null
       name: Melissa
       appearance: null
