@@ -1,0 +1,12 @@
+c_studio:
+  - Kim Holland
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Gillis
+      appearance: null
+      disambiguation: redlightsextrips.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=52d698f1-fe0d-447f-82c4-893b4bfc47e7
