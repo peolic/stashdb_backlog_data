@@ -1,13 +1,1 @@
-c_studio:
-  - ppvod9901 - Channel
-  - null
 duplicate_of: b33e6526-e098-4935-98d2-0dd2d97aa1bd
-performers:
-  remove:
-    - id: 7065e5e7-0c06-4b37-9618-5be06393fb82
-      name: Christian
-      appearance: null
-  append:
-    - id: 4deb20a3-6e12-40fc-8f00-323e8e180631
-      name: Christian XXX
-      appearance: null
