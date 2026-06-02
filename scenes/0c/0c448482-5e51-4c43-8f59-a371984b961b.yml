@@ -1,0 +1,14 @@
+c_studio:
+  - Try Teens
+  - null
+performers:
+  remove:
+    - id: 271baaca-2dc5-4d19-95b3-8a28548984f8
+      name: Timber
+      appearance: null
+      disambiguation: US, 1996-2006
+  append:
+    - id: 019e85c4-5e5b-7341-ab17-b227ad0a605b
+      name: Vika
+      appearance: null
+      disambiguation: Blonde, 2006-2007
