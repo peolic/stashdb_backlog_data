@@ -1,5 +1,5 @@
 split:
-  name: Elizabeth
+  name: Elizabeth (Reality Kings)
   fragments:
     - column: Y
       id: null
@@ -12,3 +12,4 @@ split:
   notes:
     - Mix of multiple performers (complete list as of 2025-08-21)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Disambiguated generically (could be more specific), but incorrect images still remain.

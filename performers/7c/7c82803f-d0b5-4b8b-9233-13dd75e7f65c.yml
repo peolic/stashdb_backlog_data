@@ -1,5 +1,5 @@
 split:
-  name: Jonathan
+  name: Jonathan (Reality Dudes)
   fragments:
     - column: M
       id: null
@@ -24,3 +24,4 @@ split:
   notes:
     - Mix of multiple performers (complete list)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Disambiguated before being completely split.

@@ -1,5 +1,5 @@
 split:
-  name: Ben
+  name: Ben (Nasty Angels)
   fragments:
     - column: M
       id: null
@@ -20,3 +20,4 @@ split:
   notes:
     - Mix of multiple performers (complete list as of 2025-03-12)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Disambiguated, but incorrect images still remain.

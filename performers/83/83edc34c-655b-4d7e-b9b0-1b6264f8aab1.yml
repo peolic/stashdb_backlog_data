@@ -1,5 +1,5 @@
 split:
-  name: Linda
+  name: Linda (18videoz)
   fragments:
     - column: X
       id: null
@@ -15,3 +15,4 @@ split:
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Disambiguated generically (could be more specific), but incorrect images still remain.

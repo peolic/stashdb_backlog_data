@@ -1,5 +1,5 @@
 split:
-  name: Jason
+  name: Jason (GF Revenge)
   fragments:
     - column: T
       id: null
@@ -11,6 +11,11 @@ split:
         - https://stashdb.org/scenes/03721002-4f01-4322-bc42-62b1059134e6
         - https://stashdb.org/scenes/6caab9d0-e0d1-41cf-b7d3-3ed49f163dea
         - https://web.archive.org/web/20180211103932/http://www.gfleaks.com/tour/model/view/805/jason/
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-06-30)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Disambiguated generically (could be more specific), but incorrect images still remain - of Brad Knight & Jason (2007, V9).
+  links:
+    - https://stashdb.org/performers/958743ee-04c5-4e56-872a-707b12d29b4c
+    - https://stashdb.org/performers/d0d4ddf5-e287-4ed4-bfe5-0a2cd58d9abd
