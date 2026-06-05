@@ -1,0 +1,5 @@
+fingerprints:
+  - algorithm: phash
+    hash: bcd282da38a497e9
+    correct_scene_id: dd4d6921-57b5-4662-a8c4-6e783622cc79
+    duration: 6837
