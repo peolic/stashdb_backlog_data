@@ -1,3 +1,6 @@
+c_studio:
+  - YesGirlz
+  - null
 comments:
   - Release-date looks wrong based on https://yesgirlz.com/scenes/valerica-steele-kay-lovely-squirting-and-feet-fuck-fest Also im wondering
     if the release-dates are swapped with this bts scene https://stashdb.org/scenes/08e6fc1e-3f5e-4f4c-a5cc-c89a2d85d055 would make
@@ -6,4 +9,13 @@ comments:
     the date 2022-05-09. the bonus scene is publicly available @ https://yesgirlz.com/bonus/bts-valerica-steele-and-kay-lovely-feet-and-squirting-show
     - however the page redirects to the join page. Disable JavaScript to stay on the BTS scene page. Pirate sources also confirm this
     date.'
+  - match alias to scene/studio alias
 date: '2022-05-09'
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 7f506000-b7b8-4d41-bf9c-017fb757dbf7
+      name: Valerica Steele
+      appearance: null
+      old_appearance: Val Steele
