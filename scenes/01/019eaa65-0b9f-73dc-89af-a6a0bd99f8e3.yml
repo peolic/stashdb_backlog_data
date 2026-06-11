@@ -2,10 +2,7 @@ c_studio:
   - Amateur College Sex
   - null
 performers:
-  remove:
-    - id: 52b059f3-6951-4f22-bc06-d13fa6eb79d3
-      name: Noah Jones
-      appearance: Nolan
+  remove: []
   append:
     - id: null
       name: Nolan
