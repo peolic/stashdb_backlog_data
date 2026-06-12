@@ -6,11 +6,11 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019e699b-4c73-7dca-832f-2501874a4931
       name: Daniela Melo
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=dd654a6a-de0c-4227-a822-fc44b1824ba6
+      notes:
+        - https://www.iafd.com/person.rme/id=dd654a6a-de0c-4227-a822-fc44b1824ba6
     - id: 61a5f889-d2f3-45c4-993c-cdbeb747b88d
       name: Jade Presley
       appearance: null
