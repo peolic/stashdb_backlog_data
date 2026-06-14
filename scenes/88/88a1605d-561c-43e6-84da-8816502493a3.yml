@@ -8,5 +8,7 @@ performers:
       name: Gillis
       appearance: null
       disambiguation: redlightsextrips.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=52d698f1-fe0d-447f-82c4-893b4bfc47e7
+      status: c
+      status_url: https://stashdb.org/edits/019ec376-7fd0-719b-89f1-773efa6fe056
+      notes:
+        - https://www.iafd.com/person.rme/id=52d698f1-fe0d-447f-82c4-893b4bfc47e7

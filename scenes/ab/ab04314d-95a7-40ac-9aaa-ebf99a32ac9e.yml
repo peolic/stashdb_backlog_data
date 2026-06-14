@@ -11,5 +11,7 @@ performers:
       name: Jeroen
       appearance: null
       disambiguation: Diablo Productions, 2008
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=4c659cff-8c2e-4863-a308-91b6bd39f466
+      status: c
+      status_url: https://stashdb.org/edits/019ec375-57ae-7831-8de0-67960d1a2acc
+      notes:
+        - https://www.iafd.com/person.rme/id=4c659cff-8c2e-4863-a308-91b6bd39f466

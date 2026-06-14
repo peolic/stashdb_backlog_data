@@ -8,5 +8,7 @@ performers:
       name: Mike
       appearance: null
       disambiguation: redlightsextrips.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=cc6f56a3-6d34-4dbe-b3e4-7ab9b0ccc13c
+      status: c
+      status_url: https://stashdb.org/edits/019ec377-1439-790b-9e49-2bdf01bdd788
+      notes:
+        - https://www.iafd.com/person.rme/id=cc6f56a3-6d34-4dbe-b3e4-7ab9b0ccc13c

@@ -13,18 +13,16 @@ performers:
       name: Kyle
       appearance: null
   append:
-    - id: null
+    - id: 019ec37a-3a0d-73f3-bdd0-759df46630bd
       name: David
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
       notes:
         - https://www.realitydudes.com/model/20109/david
-    - id: null
+    - id: 019ec379-b922-7b30-914c-f87d0ebbb1ae
       name: Kyle
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
       notes:
         - https://www.realitydudes.com/model/20115/kyle
     - id: 6893479b-df9f-4289-afc5-af67d467d188
@@ -37,14 +35,16 @@ performers:
       name: Alise
       appearance: null
       disambiguation: Reality Kings, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019ec372-5f6d-74fa-8b17-0506109e5d7f
       notes:
         - https://www.rk.com/model/20117/alise
     - id: null
       name: Maryah
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019ec379-3c3b-7a4b-9750-5732844c2c06
       notes:
         - https://www.realitydudes.com/model/20123/maryah
     - id: d16e1260-084c-4e31-81f3-4aaea0110390
@@ -57,7 +57,8 @@ performers:
       name: Sky
       appearance: null
       disambiguation: Reality Kings, 2011
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/019ec370-3a72-77f6-9850-9904f606b3fb
       notes:
         - https://www.rk.com/model/20103/sky
     - id: 4b07af6a-1376-4281-a6b2-a556fcf42d64
