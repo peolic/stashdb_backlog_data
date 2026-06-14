@@ -1,13 +1,6 @@
 split:
   name: Maxwell
-  fragments:
-    - column: K
-      id: 019ec36c-3515-76d8-9b42-2e48a1cfb6b6
-      name: Maxwell (Dick Dorm, 2010)
-      text: Dick Dorm "All In"
-      links:
-        - https://www.realitydudes.com/model/20746/maxwell
-        - https://stashdb.org/scenes/d9c326cd-347f-409f-ae82-4253cdfbe22f
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2024-04-16)

@@ -1,19 +1,13 @@
 split:
   name: Miguel
   fragments:
-    - column: M
-      id: 019ec36c-d92a-7792-91a6-5618fb58bc9f
-      name: Miguel (Dick Dorm, 2010)
-      text: Dick Dorm "All In"
-      links:
-        - https://www.realitydudes.com/model/20750/miguel
-        - https://stashdb.org/scenes/d9c326cd-347f-409f-ae82-4253cdfbe22f
     - column: O
       id: null
       name: Miguel (Boys First Time, 2006)
       text: Boys First Time "Playing Catch"
       links:
         - https://stashdb.org/scenes/3e60aef8-8803-4f28-a043-0405b1268e70
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-07)
     - Best to move scenes and delete performer, rather than merging or renaming.

@@ -22,12 +22,6 @@ split:
       links:
         - https://stashdb.org/scenes/ab04314d-95a7-40ac-9aaa-ebf99a32ac9e
         - https://stashdb.org/scenes/b42f37df-0788-4493-b266-39869daaca30
-    - column: O
-      id: null
-      name: Richard (Dick Dorm, 2010)
-      text: Dick Dorm "Make It Double"
-      links:
-        - https://stashdb.org/scenes/25f783f8-ad2c-4141-9a86-0b0a77c75571
     - column: P
       id: null
       name: Richard (Gay Revenge, 2011)

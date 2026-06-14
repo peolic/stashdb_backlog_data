@@ -1,0 +1,14 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 6270ed32-a916-4239-8dcf-bd496f2db56d
+      name: Patrick
+      appearance: null
+  append:
+    - id: null
+      name: Patrick Coleman
+      appearance: Patrick
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=52e0d8b6-c102-4c56-8e59-117c9838e92d

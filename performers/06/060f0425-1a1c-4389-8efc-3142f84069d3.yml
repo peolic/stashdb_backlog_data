@@ -1,13 +1,6 @@
 split:
   name: Mauricio
-  fragments:
-    - column: J
-      id: null
-      name: Mauricio (Horny Birds, 2011)
-      text: Horny Birds "Cheers To Another Year"
-      links:
-        - https://stashdb.org/scenes/47114f9c-fc2a-4041-abc5-778987c42cc7
-        - https://www.realitykings.com/model/25263/mauricio
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-08)

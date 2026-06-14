@@ -1,0 +1,19 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 80429e44-6286-4730-bffd-e918abe7340c
+      name: Miguel
+      appearance: null
+  append:
+    - id: null
+      name: Kriss
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+    - id: null
+      name: Miguel
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new

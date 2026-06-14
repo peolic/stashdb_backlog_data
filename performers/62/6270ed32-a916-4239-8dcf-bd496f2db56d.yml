@@ -1,5 +1,15 @@
 split:
   name: Patrick
-  fragments: []
+  fragments:
+    - column: L
+      id: null
+      name: Patrick Coleman AKA Patrick (Boys First Time)
+      notes:
+        - '- Boys First Time "Good Catch"'
+        - '- Boys First Time "The Behind Kind"'
+      links:
+        - https://www.iafd.com/person.rme/id=52e0d8b6-c102-4c56-8e59-117c9838e92d
+        - https://stashdb.org/scenes/e6d6c86e-af2c-4818-a114-16683f6f3d23
+        - https://stashdb.org/scenes/5389b497-03aa-4f04-bcc6-35e417e39b21
   notes:
     - Mix of multiple performers (partial list)
