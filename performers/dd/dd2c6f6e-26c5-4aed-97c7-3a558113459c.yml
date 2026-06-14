@@ -1,5 +1,5 @@
 split:
-  name: Max
+  name: Max (18videoz, 2011)
   fragments:
     - column: N
       id: null
@@ -16,3 +16,4 @@ split:
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Disambiguated generically (could be more specific) and before being completely split. Remaining image likely incorrect.

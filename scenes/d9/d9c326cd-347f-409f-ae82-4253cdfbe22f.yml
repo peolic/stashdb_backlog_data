@@ -10,19 +10,15 @@ performers:
       name: Miguel
       appearance: null
   append:
-    - id: null
+    - id: 019ec36c-3515-76d8-9b42-2e48a1cfb6b6
       name: Maxwell
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019ec36c-6056-7a48-8520-418029ccba6f
       notes:
         - https://www.realitydudes.com/model/20746/maxwell
-    - id: null
+    - id: 019ec36c-d92a-7792-91a6-5618fb58bc9f
       name: Miguel
       appearance: null
       disambiguation: Dick Dorm, 2010
-      status: c
-      status_url: https://stashdb.org/edits/019ec36d-0cde-71c1-aac4-db9aebe0c4eb
       notes:
         - https://www.realitydudes.com/model/20750/miguel

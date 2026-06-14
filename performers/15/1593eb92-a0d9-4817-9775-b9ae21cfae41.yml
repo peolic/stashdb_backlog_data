@@ -1,5 +1,5 @@
 split:
-  name: Mark
+  name: Mark (Nasty Angels, 2011)
   fragments:
     - column: Z
       id: null
@@ -22,3 +22,6 @@ split:
   notes:
     - Mix of multiple performers (complete list as of 2025-08-25)
     - Best to move scenes and delete performer, rather than merging or renaming.
+    - Possibly still contains different performers, and the remaining image is incorrect (Chad Diamond).
+  links:
+    - https://stashdb.org/performers/61e40e4f-f92e-4a1f-ad9d-18789f91dd60

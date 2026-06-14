@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019ec376-695f-7c13-b3c5-9d181f7010b2
       name: Gillis
       appearance: null
       disambiguation: redlightsextrips.com
-      status: c
-      status_url: https://stashdb.org/edits/019ec376-7fd0-719b-89f1-773efa6fe056
       notes:
         - https://www.iafd.com/person.rme/id=52d698f1-fe0d-447f-82c4-893b4bfc47e7

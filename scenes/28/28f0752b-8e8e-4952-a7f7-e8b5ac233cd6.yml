@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019ec377-0073-7089-a070-1586b4874f3f
       name: Mike
       appearance: null
       disambiguation: redlightsextrips.com
-      status: c
-      status_url: https://stashdb.org/edits/019ec377-1439-790b-9e49-2bdf01bdd788
       notes:
         - https://www.iafd.com/person.rme/id=cc6f56a3-6d34-4dbe-b3e4-7ab9b0ccc13c
