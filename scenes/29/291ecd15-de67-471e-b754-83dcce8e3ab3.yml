@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019ec434-58b6-78cc-a26d-e7cee2b98316
       name: Corie
       appearance: null
       disambiguation: 2011, inthevip.com
-      status: c
-      status_url: https://stashdb.org/edits/019ec434-c99b-7d22-a65f-1df0ae270595
       notes:
         - https://www.iafd.com/person.rme/id=791b381a-ede4-4ac2-909b-9aa4b1b04591

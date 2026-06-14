@@ -13,27 +13,21 @@ performers:
       name: Cody
       appearance: null
   append:
-    - id: null
+    - id: 019ec43b-3365-7ff5-a788-bde0317e5264
       name: Matthew
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/019ec43b-4d7e-7ae3-a965-6f5ff1268a39
       notes:
         - https://www.realitydudes.com/model/20823/matthew
-    - id: null
+    - id: 019ec43b-b98d-7300-bbc2-7619a8401ffd
       name: George
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/019ec43b-ce9c-78ea-a30a-0dc3d1fbc6b8
       notes:
         - https://www.realitydudes.com/model/20821/george
-    - id: null
+    - id: 019ec43c-32fd-7a64-8fd9-149869d61171
       name: Cody
       appearance: null
       disambiguation: Dick Dorm, 2011
-      status: c
-      status_url: https://stashdb.org/edits/019ec43c-4893-7abc-8923-d0e83b0d348a
       notes:
         - https://www.realitydudes.com/model/20825/cody
