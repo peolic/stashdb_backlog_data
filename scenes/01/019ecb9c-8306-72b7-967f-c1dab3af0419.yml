@@ -1,0 +1,11 @@
+c_studio:
+  - Caliente Hub XXX
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Carmelita X Bebe
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019f0414-02ea-7bce-acd6-99b27acd2f50
