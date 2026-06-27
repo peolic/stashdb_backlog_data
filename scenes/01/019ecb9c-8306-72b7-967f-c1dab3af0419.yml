@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019f0997-e477-732e-be1a-4522ab5d0070
       name: Carmelita X Bebe
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019f0414-02ea-7bce-acd6-99b27acd2f50
