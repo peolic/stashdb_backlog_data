@@ -1,0 +1,10 @@
+c_studio:
+  - Home Video Studio
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Renata
+      appearance: null
+      disambiguation: 2012, Heatwave
