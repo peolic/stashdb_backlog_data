@@ -1,0 +1,11 @@
+c_studio:
+  - Fisting Queen
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Valentina Rosa
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019f9a13-2f29-75fc-83fb-fbb253ef0a5a
