@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019f9c7b-17fc-7528-82bb-86dd1e964503
       name: Valentina Rosa
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019f9a13-2f29-75fc-83fb-fbb253ef0a5a
