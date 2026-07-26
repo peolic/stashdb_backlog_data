@@ -49,12 +49,10 @@ performers:
       status: new
       notes:
         - https://www.imdb.com/name/nm10929454/
-    - id: null
+    - id: 019f9fb8-0816-797e-acbf-47938df1123d
       name: Elizabeth
       appearance: null
       disambiguation: 2011-07, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/019f9e5e-67ff-7425-9581-946c7b871680
       notes:
         - https://www.imdb.com/name/nm10929452/
     - id: null
