@@ -4,9 +4,7 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019fa555-c78b-7090-8f3c-ed854a06c4ae
       name: Nellie
       appearance: null
       disambiguation: mature.nl
-      status: c
-      status_url: https://stashdb.org/edits/019f9a34-a6b5-7b8e-86ba-a10965e34c4b
