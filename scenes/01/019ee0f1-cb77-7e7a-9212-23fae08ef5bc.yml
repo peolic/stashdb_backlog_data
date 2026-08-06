@@ -1,0 +1,11 @@
+c_studio:
+  - Melon Juggler
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: "Natacha Mendo\u017Aa"
+      appearance: null
+      status: new
+      status_url: https://web.archive.org/web/20250114201428/https://melonjuggler.com/sets.php?id=165
