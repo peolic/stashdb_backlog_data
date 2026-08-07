@@ -1,0 +1,12 @@
+c_studio:
+  - Farting in Brazil
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Tay
+      appearance: null
+      disambiguation: NewMFX
+      status: new
+      status_url: https://fartinginbrazil.com/cast/tay-729

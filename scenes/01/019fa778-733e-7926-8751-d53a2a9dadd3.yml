@@ -1,0 +1,11 @@
+c_studio:
+  - Raven Vice
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Josie XO
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019fdbbb-9471-7d3d-a72b-11665e717d3b

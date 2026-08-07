@@ -1,0 +1,12 @@
+c_studio:
+  - RF Studio
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Foxy
+      appearance: null
+      disambiguation: RF Studio
+      status: c
+      status_url: https://stashdb.org/edits/019fdbcc-2b8b-7c04-a819-827782c8fb14
