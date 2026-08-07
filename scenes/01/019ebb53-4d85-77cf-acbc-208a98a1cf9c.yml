@@ -1,0 +1,11 @@
+c_studio:
+  - Lara_Bergmann
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Jenna Hunt
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019fddac-57b1-7dc1-82fd-01e42d96d512
