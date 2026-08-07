@@ -1,0 +1,12 @@
+c_studio:
+  - Imilia Audley
+  - null
+comments:
+  - https://www.reddit.com/user/CharleyComet/submitted/
+performers:
+  remove: []
+  append:
+    - id: null
+      name: CharleyComet
+      appearance: null
+      status: new

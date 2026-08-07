@@ -1,0 +1,11 @@
+c_studio:
+  - Scarlett Cummings
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Torro Royale
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019fdbe1-bb36-7b96-9c84-e888827d2aa3
