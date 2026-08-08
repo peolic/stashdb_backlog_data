@@ -1,0 +1,11 @@
+c_studio:
+  - Desperate Amateurs
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Wicked Olivia
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/019fe1a5-c181-70bb-8e45-a5982fc93a86
