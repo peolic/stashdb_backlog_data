@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019fe02d-28e6-7bc2-bc75-4ee8180a3aa3
       name: Josie XO
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019fdbbb-9471-7d3d-a72b-11665e717d3b

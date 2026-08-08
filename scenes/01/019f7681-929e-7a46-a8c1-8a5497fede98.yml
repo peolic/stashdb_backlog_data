@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019fe02c-abe8-7e1a-8de8-2c6d2d03ec8a
       name: Torro Royale
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019fdbe1-bb36-7b96-9c84-e888827d2aa3
