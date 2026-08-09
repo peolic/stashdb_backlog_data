@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 019fe416-7217-76d5-89b3-f245cd6f90c5
       name: Wicked Olivia
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/019fe1a5-c181-70bb-8e45-a5982fc93a86
