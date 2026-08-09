@@ -1,0 +1,12 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Rage
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=58ca2004-ae2a-4c04-b7d0-886f4d9cf310
