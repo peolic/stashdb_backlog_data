@@ -1,0 +1,27 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Crissy
+      appearance: null
+      disambiguation: 2015, dancingbear.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=85b0af60-a1ae-4462-a9aa-3219c077d4b7
+    - id: null
+      name: Katiuska
+      appearance: null
+      disambiguation: 2015, dancingbear.com
+      status: new
+    - id: null
+      name: Nathali
+      appearance: null
+      disambiguation: 2015, dancingbear.com
+      status: new
+    - id: null
+      name: Yoslaine
+      appearance: null
+      disambiguation: 2015, dancingbear.com
+      status: new
