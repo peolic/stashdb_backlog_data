@@ -1,0 +1,12 @@
+c_studio:
+  - After Hours Exposed
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Erica
+      appearance: null
+      disambiguation: Dreamgirls
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a82ca810-8f9e-448a-aa05-3ea74ab09d42

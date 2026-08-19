@@ -1,0 +1,12 @@
+c_studio:
+  - CumRotic
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Flamy
+      appearance: null
+      disambiguation: CumRotic
+      status: c
+      status_url: https://stashdb.org/edits/01a01a00-4a61-7253-a590-a1fcb3218b30
