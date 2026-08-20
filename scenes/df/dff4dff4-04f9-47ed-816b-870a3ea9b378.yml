@@ -4,9 +4,7 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a01e48-0aed-7782-8822-d02f6deee4cd
       name: Devon
       appearance: null
       disambiguation: captainstabbin.com
-      status: c
-      status_url: https://stashdb.org/edits/019ffa37-1fcb-7357-b7ca-569805ddd0d8
