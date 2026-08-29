@@ -1,0 +1,25 @@
+c_studio:
+  - Ersties
+  - null
+performers:
+  remove: []
+  append:
+    - id: 4ba00292-66d0-47a6-a8b4-c970a85593f8
+      name: Stella Elle
+      appearance: null
+    - id: c69a25f2-d9f8-4189-8a6d-819c59dafbc2
+      name: Jane
+      appearance: Jane T
+      disambiguation: Lustery - Emanuel & Jane
+    - id: 06e60e98-efe7-486f-8212-e485e9219231
+      name: Sabrina Jade
+      appearance: Sabrina J
+      disambiguation: 2024, Jimmy Draws VR
+    - id: 019cf031-a4f7-766a-b7e8-51f80da859c7
+      name: Jacky Liz Hyde
+      appearance: Jacky L
+    - id: null
+      name: Leisel Bonnke
+      appearance: null
+      status: new
+      status_url: https://www.thenude.com/_34390.htm

@@ -1,0 +1,13 @@
+c_studio:
+  - Jenifer Play
+  - null
+comments:
+  - Image urls (PimEyes search) suggest she uses the alias Paulina Cruz (https://images.skyprivate.com/images/public/1600x1200xoptimal/8900525-paulina-cruz.jpg;
+    https://i0.wp.com/images.skyprivate.com/images/public/1600x1200xoptimal/8900507-paulina-cruz.jpg) - possibly for CamSoda
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Paulina Cruz
+      appearance: null
+      status: new
