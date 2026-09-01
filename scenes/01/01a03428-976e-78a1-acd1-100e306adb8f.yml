@@ -1,9 +1,0 @@
-c_studio:
-  - Agatha Vega
-  - null
-performers:
-  remove: []
-  append:
-    - id: 684a1a93-cad6-45c1-ac10-2b682bfe153a
-      name: Nicole Vaunt
-      appearance: null

@@ -1,9 +1,0 @@
-c_studio:
-  - Lara_Bergmann
-  - null
-performers:
-  remove: []
-  append:
-    - id: 019fe21a-80ef-7fd1-b516-f87fc2d9c71e
-      name: Jenna Hunt
-      appearance: null
