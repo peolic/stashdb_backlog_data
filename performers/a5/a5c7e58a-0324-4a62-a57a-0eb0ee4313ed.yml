@@ -1,5 +1,5 @@
 split:
-  name: Josh
+  name: Josh (Dirty Flix)
   fragments:
     - column: I
       id: null
@@ -33,4 +33,7 @@ split:
         - https://stashdb.org/scenes/8188ae3f-6820-4638-8384-0761d4d77ab6
   notes:
     - Mix of multiple performers (complete list as of 2025-03-03)
+    - Disambiguated before being split.
     - Best to move scenes and delete performer, rather than merging or renaming.
+  links:
+    - https://stashdb.org/edits/01a050a5-bf79-7047-b259-a553af77e5f1
