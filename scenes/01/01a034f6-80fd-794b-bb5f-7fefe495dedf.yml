@@ -1,0 +1,11 @@
+c_studio:
+  - Girls in Charge
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Helen Stevens
+      appearance: Bunny
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fcfdbe0e-8a25-4b48-8820-74e1a63e504e
