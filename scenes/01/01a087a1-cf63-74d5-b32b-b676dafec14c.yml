@@ -1,0 +1,12 @@
+c_studio:
+  - Kayla Summers
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Eve
+      appearance: null
+      disambiguation: drrideout.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=925fc95d-1e87-4e3d-b933-aef516878416
