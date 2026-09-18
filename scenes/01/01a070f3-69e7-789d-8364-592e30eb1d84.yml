@@ -1,0 +1,11 @@
+c_studio:
+  - Goddess Ivory
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Lilac Sphinx
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2fbd49ff-dd7e-43bc-8912-f65d3e46fb1c
