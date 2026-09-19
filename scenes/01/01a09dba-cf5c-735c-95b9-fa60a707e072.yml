@@ -4,8 +4,6 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a0b694-dade-7a47-ad01-3afe087d10b3
       name: Susan Starr
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/01a0b520-db8e-7b43-b99f-4a1b8c1ad493
