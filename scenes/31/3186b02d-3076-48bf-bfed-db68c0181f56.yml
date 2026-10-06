@@ -9,7 +9,7 @@ performers:
       name: Josh
       appearance: null
     - id: 83edc34c-655b-4d7e-b9b0-1b6264f8aab1
-      name: Linda
+      name: ']v] Linda'
       appearance: null
   append:
     - id: null
@@ -17,10 +17,3 @@ performers:
       appearance: null
       disambiguation: 2004, V9, SHV 7
       status: new
-    - id: null
-      name: Linda
-      appearance: null
-      disambiguation: 2004, V9, SHV 7
-      status: new
-      notes:
-        - Visible on scene cover
