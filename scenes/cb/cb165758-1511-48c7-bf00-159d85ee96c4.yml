@@ -1,0 +1,12 @@
+c_studio:
+  - Kim Holland
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Bennie
+      appearance: null
+      disambiguation: redlightsextrips.com
+      status: c
+      status_url: https://stashdb.org/edits/01a120c3-5c48-790d-9b64-0b3cc323f1d5
