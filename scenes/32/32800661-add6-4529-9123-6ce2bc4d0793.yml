@@ -4,9 +4,7 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a124a5-4627-77cd-9afa-92c52e98971a
       name: Bennie
       appearance: null
       disambiguation: redlightsextrips.com
-      status: c
-      status_url: https://stashdb.org/edits/01a120c3-5c48-790d-9b64-0b3cc323f1d5

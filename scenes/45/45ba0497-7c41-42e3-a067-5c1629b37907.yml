@@ -1,0 +1,13 @@
+c_studio:
+  - Money Talks
+  - null
+comments:
+  - Listed by IAFD as Unknown Female 627783-D  (https://www.iafd.com/person.rme/id=5bc85bca-2461-496b-ad7b-4377e2c3d676)
+performers:
+  remove: []
+  append:
+    - id: null
+      name: August Sunshine
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=abae795e-8cb9-408a-97a5-1fc49eea1ed7
