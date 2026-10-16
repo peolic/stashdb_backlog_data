@@ -1,0 +1,5 @@
+fingerprints:
+  - algorithm: phash
+    hash: fe801e64108e9dfd
+    correct_scene_id: 01a13224-aefc-7057-9efe-38d19084f16e
+    duration: 2023
