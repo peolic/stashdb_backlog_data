@@ -52,6 +52,8 @@ performers:
       name: Kat
       appearance: null
       disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a109b7dd-e159-42f9-8cea-b7ecae93d38f
     - id: null
       name: Kimbo Slice
       appearance: null

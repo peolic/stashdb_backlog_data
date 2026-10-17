@@ -1,0 +1,11 @@
+c_studio:
+  - Lancelot Styles
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Samantha moon
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/01a149dd-e106-7e9d-b928-20d661d73b4d
