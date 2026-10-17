@@ -1,0 +1,91 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Johana
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+    - id: null
+      name: Amanda
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=28bcd3f8-264c-46d9-b075-2e89b6b189d0
+    - id: null
+      name: Chelsea
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=5865ed63-5f69-4e5e-85d1-661779cfaeea
+    - id: null
+      name: Nicole Cassany
+      appearance: Diana
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f7de52fe-947c-4b16-a1e1-21f361370bd8
+    - id: 26ccf762-5103-4501-b957-4dae38845934
+      name: Candice
+      appearance: Fonda
+      disambiguation: 2006, vipcrew.com
+    - id: null
+      name: Icey Mike
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8348660e-3ffc-4b36-82be-0d58ee13bfcb
+    - id: null
+      name: Jaqueline
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=c19f78d1-a1ea-4cd2-8982-92af321d20b2
+    - id: null
+      name: Jennifer
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=06a2645f-0339-4007-989c-9d92b4a0d6b4
+    - id: null
+      name: Kat
+      appearance: null
+      disambiguation: 2007, inthevip.com
+    - id: null
+      name: Kimbo Slice
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7c8e73aa-a1a4-4248-b00d-ab1acbe7250a
+    - id: null
+      name: Maggie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b83e7807-9998-4397-aac2-4f06d6d38f4c
+    - id: d4b37524-156c-4698-9965-56cfe13efe88
+      name: Pink
+      appearance: null
+      disambiguation: 2005-2008, Reality Kings
+    - id: null
+      name: Sabrina
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=897a3a9a-005b-429b-a68b-83fb6f0d7bee
+    - id: ece09e51-80e1-4bd4-a42c-0cafefa89d66
+      name: Sarah
+      appearance: null
+      disambiguation: 2007-2009, InTheVIP
+    - id: null
+      name: Valerie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=833d7869-2d49-4644-9126-511a617769d5
+    - id: 327fd947-0ce0-4bb3-9fb0-a164ce8c0081
+      name: Vanezza
+      appearance: null
+    - id: fddb7b50-4612-46da-bd24-534d41db6235
+      name: Xana Star
+      appearance: null

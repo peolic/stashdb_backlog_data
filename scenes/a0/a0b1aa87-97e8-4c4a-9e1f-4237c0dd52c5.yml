@@ -1,0 +1,43 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Johana
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+    - id: null
+      name: Nicole Cassany
+      appearance: Diana
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f7de52fe-947c-4b16-a1e1-21f361370bd8
+    - id: null
+      name: Maggie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b83e7807-9998-4397-aac2-4f06d6d38f4c
+    - id: d4b37524-156c-4698-9965-56cfe13efe88
+      name: Pink
+      appearance: null
+      disambiguation: 2005-2008, Reality Kings
+    - id: null
+      name: Samantha
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a6e69d21-2cce-4b2c-a518-39a88bdeda55
+    - id: ece09e51-80e1-4bd4-a42c-0cafefa89d66
+      name: Sarah
+      appearance: null
+      disambiguation: 2007-2009, InTheVIP
+    - id: null
+      name: Valerie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=833d7869-2d49-4644-9126-511a617769d5

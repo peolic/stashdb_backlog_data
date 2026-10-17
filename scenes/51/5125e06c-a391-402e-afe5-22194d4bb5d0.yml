@@ -1,0 +1,23 @@
+c_studio:
+  - Money Talks
+  - null
+performers:
+  remove: []
+  append:
+    - id: e441f9aa-58f4-4a31-b0c5-3b875ace5275
+      name: Julissa Delor
+      appearance: null
+    - id: 0c99d43b-3f66-4bb6-a279-1c12decfe51d
+      name: Donna Duval
+      appearance: null
+    - id: null
+      name: Icey Mike
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8348660e-3ffc-4b36-82be-0d58ee13bfcb
+    - id: null
+      name: Johana
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c

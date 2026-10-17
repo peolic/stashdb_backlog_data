@@ -1,0 +1,133 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Johana
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+    - id: 8b80d93d-59e9-4e61-8049-0944577a54f4
+      name: Ashley James
+      appearance: null
+      disambiguation: 2009-2012
+    - id: 668bfb60-68b6-48f1-885c-6071a70f3f0a
+      name: Casada Chase
+      appearance: null
+    - id: dbbdcb78-6313-46d5-81bd-8440dc450f60
+      name: Zoie Starr
+      appearance: Zoie
+    - id: null
+      name: Brittany
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f14a8b74-aa16-45a6-bce0-b4b77a8926b9
+    - id: null
+      name: Charlene
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9f8f6f39-91f8-4b71-863b-76f183b82db0
+    - id: null
+      name: Cheyenne
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=1e1dd76b-4463-49ec-afcb-fcb07b42fb2d
+    - id: null
+      name: Candace
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=35f291f4-cce4-48bc-a839-d7c61ff0e308
+    - id: 4f024c74-507b-4f24-a22e-7df37590116b
+      name: Buster Hymen
+      appearance: null
+    - id: null
+      name: Danielle
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=4333df2e-50e7-4069-8d35-73824ce09d28
+    - id: d3a79294-be39-4daa-84d6-906db1f14065
+      name: Drnasty
+      appearance: null
+    - id: null
+      name: Ennis
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fda84a66-3de5-469c-ae71-e32cd30e76c6
+    - id: null
+      name: Icey Mike
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8348660e-3ffc-4b36-82be-0d58ee13bfcb
+    - id: 2dbde2c6-b0c7-4d94-9ea6-846e6a51264f
+      name: Jacinda Moore
+      appearance: null
+    - id: d5ca6945-d70d-4955-82a0-67c843cc1a3f
+      name: Jason Steele
+      appearance: null
+    - id: null
+      name: Maggie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b83e7807-9998-4397-aac2-4f06d6d38f4c
+    - id: null
+      name: Kathleen
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=ad9361c0-1c3e-4b2a-ad21-faf96a545514
+    - id: null
+      name: Kim
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=03b0a629-5a40-4933-8f81-15af597f78fc
+    - id: null
+      name: Kimbo Slice
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7c8e73aa-a1a4-4248-b00d-ab1acbe7250a
+    - id: 697a3620-05ff-4088-a42c-06263a035dcf
+      name: Levi Steele
+      appearance: null
+    - id: null
+      name: Marie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=52a18754-e444-4efa-9202-525c93f4db15
+    - id: null
+      name: Milan Jovanovic
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=be7fc972-d378-4ba2-8bbf-a603eb2f62c6
+    - id: d4b37524-156c-4698-9965-56cfe13efe88
+      name: Pink
+      appearance: null
+      disambiguation: 2005-2008, Reality Kings
+    - id: 0cba60c5-c455-4bee-ae1d-8000fb73f440
+      name: Royalty
+      appearance: null
+    - id: null
+      name: Sabrina
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=897a3a9a-005b-429b-a68b-83fb6f0d7bee
+    - id: null
+      name: Stefania
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=709c049d-ab7e-487a-8b6e-e939c12db0be
+    - id: 2df2cbc1-cbb2-4fce-8259-b5b29a2d5a89
+      name: Zara
+      appearance: null

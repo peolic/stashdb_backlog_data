@@ -1,0 +1,92 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Johana
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+    - id: null
+      name: Alexis
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a5a62e04-57d2-4e0f-b3e5-0fc9fabc6248
+    - id: null
+      name: Amanda
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=28bcd3f8-264c-46d9-b075-2e89b6b189d0
+    - id: null
+      name: Dave
+      appearance: null
+      disambiguation: 2005-2007, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=a95603b2-3855-4182-a255-bbdfb6cc7e22
+    - id: null
+      name: Derdra
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=527b6071-ed30-41d2-b885-90c0c7d05355
+    - id: null
+      name: Nicole Cassany
+      appearance: Diana
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=f7de52fe-947c-4b16-a1e1-21f361370bd8
+    - id: 0c99d43b-3f66-4bb6-a279-1c12decfe51d
+      name: Donna Duval
+      appearance: null
+    - id: d3a79294-be39-4daa-84d6-906db1f14065
+      name: Drnasty
+      appearance: null
+    - id: null
+      name: Jennifer
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=06a2645f-0339-4007-989c-9d92b4a0d6b4
+    - id: null
+      name: Maggie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=b83e7807-9998-4397-aac2-4f06d6d38f4c
+    - id: dcac2d27-3e64-4f87-bed4-cfa511f0d9e5
+      name: Rob
+      appearance: null
+      disambiguation: 2003-2009, Reality Kings
+    - id: null
+      name: Sakiya Kim
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=41abe13f-619e-404c-833a-880ce0bc345d
+    - id: ece09e51-80e1-4bd4-a42c-0cafefa89d66
+      name: Sarah
+      appearance: null
+      disambiguation: 2007-2009, InTheVIP
+    - id: null
+      name: Valerie
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=833d7869-2d49-4644-9126-511a617769d5
+    - id: 327fd947-0ce0-4bb3-9fb0-a164ce8c0081
+      name: Vanezza
+      appearance: null
+    - id: null
+      name: Chrissy McBride
+      appearance: Kristy
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3c692f2e-ba5a-44fe-8fae-af6307360141
+    - id: null
+      name: Kim
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=eb392ca0-0baa-4f63-baa3-e77e4044c7cf

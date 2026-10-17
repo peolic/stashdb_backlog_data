@@ -1,0 +1,18 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Johana
+      appearance: null
+      disambiguation: 2007, moneytalks.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+    - id: null
+      name: Alisondra
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=849917f0-aa73-4511-bbfa-bd6971fa27c4

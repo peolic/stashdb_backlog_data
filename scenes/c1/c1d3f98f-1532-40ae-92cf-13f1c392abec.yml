@@ -1,0 +1,39 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: 327fd947-0ce0-4bb3-9fb0-a164ce8c0081
+      name: Vanezza
+      appearance: null
+    - id: null
+      name: Age
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=d2675077-186e-4487-a80b-e796dfe2bca9
+    - id: null
+      name: Amanda
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=28bcd3f8-264c-46d9-b075-2e89b6b189d0
+    - id: 8b80d93d-59e9-4e61-8049-0944577a54f4
+      name: Ashley James
+      appearance: null
+      disambiguation: 2009-2012
+    - id: null
+      name: Claudia DeRhone
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=21baa176-549f-4358-b60b-cb9b7c1243fb
+    - id: null
+      name: Jennifer
+      appearance: null
+      disambiguation: 2007, inthevip.com
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=06a2645f-0339-4007-989c-9d92b4a0d6b4
+    - id: f88d291d-39fc-4f6f-a4f0-35882f1846e7
+      name: Michelle Vargas
+      appearance: null
