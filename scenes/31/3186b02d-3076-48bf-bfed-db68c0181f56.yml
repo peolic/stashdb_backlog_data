@@ -8,9 +8,6 @@ performers:
     - id: a5c7e58a-0324-4a62-a57a-0eb0ee4313ed
       name: Josh
       appearance: null
-    - id: 83edc34c-655b-4d7e-b9b0-1b6264f8aab1
-      name: ']v] Linda'
-      appearance: null
   append:
     - id: null
       name: Josh

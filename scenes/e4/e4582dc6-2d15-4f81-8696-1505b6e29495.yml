@@ -16,9 +16,11 @@ performers:
       name: Ashley
       appearance: null
       disambiguation: 2007, V9, SHV 23
-      status: new
+      status: c
+      status_url: https://stashdb.org/edits/01a15177-dadf-7ccd-bdb7-9bb16226a856
     - id: null
       name: George
       appearance: null
       disambiguation: 2007, V9, SHV 23
       status: new
+      status_url: https://stashdb.org/edits/01a15179-6188-71ee-b9a3-39e59b67782c

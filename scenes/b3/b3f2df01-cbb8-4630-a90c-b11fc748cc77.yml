@@ -8,5 +8,7 @@ performers:
       name: Crissy
       appearance: null
       disambiguation: 2015, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=85b0af60-a1ae-4462-a9aa-3219c077d4b7
+      status: c
+      status_url: https://stashdb.org/edits/01a1515f-c7fb-7e35-af1c-8e7edbb534a6
+      notes:
+        - https://www.iafd.com/person.rme/id=85b0af60-a1ae-4462-a9aa-3219c077d4b7

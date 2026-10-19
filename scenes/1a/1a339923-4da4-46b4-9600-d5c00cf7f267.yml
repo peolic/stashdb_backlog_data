@@ -10,8 +10,10 @@ performers:
       name: Jady
       appearance: null
       disambiguation: 2001, Odyssey
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2e368fbc-7a75-4e5d-9f29-6620651ee77d
+      status: c
+      status_url: https://stashdb.org/edits/01a15180-2167-736c-b955-c9eb2ceef5b6
+      notes:
+        - https://www.iafd.com/person.rme/id=2e368fbc-7a75-4e5d-9f29-6620651ee77d
     - id: 45e3faa5-aba3-41d6-b7e8-82f4e0a8b19b
       name: Mark Anthony
       appearance: null
