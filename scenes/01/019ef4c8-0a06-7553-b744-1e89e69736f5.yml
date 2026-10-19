@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a15184-a67b-78de-bb13-b54650336fdd
       name: Liliane Venturi
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/01a15184-d18c-7656-ac4f-37634ef01a9e
       notes:
         - https://www.iafd.com/person.rme/id=7b3b1a32-042e-404f-8815-68a4837da585

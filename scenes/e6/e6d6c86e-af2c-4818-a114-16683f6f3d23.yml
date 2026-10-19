@@ -13,10 +13,8 @@ performers:
     - id: 6dc84fb4-e8c4-466f-9532-6197da0dbd9e
       name: Chad Hammer
       appearance: Joe
-    - id: null
+    - id: 01a1515a-418e-7c18-a2ac-37a2011ff7ab
       name: Patrick Coleman
       appearance: Patrick
-      status: c
-      status_url: https://stashdb.org/edits/01a1515a-85de-7d06-b93c-9d423dcf73c6
       notes:
         - https://www.iafd.com/person.rme/id=52e0d8b6-c102-4c56-8e59-117c9838e92d

@@ -4,10 +4,8 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a15166-56af-7728-a1e0-a05ce6e2852d
       name: Shelbie Diamond
       appearance: Leisel Bonnke
-      status: c
-      status_url: https://stashdb.org/edits/01a15166-9e59-7e13-81b7-5040cf744a21
       notes:
         - https://www.thenude.com/_34390.htm

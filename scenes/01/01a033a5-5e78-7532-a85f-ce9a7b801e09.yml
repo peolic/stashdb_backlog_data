@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a15172-92e7-7553-b7e9-a1c0a79f6d11
       name: Sasha Vendetta
       appearance: Sasha V
-      status: c
-      status_url: https://stashdb.org/edits/01a15172-f4de-73ac-9c79-1a1462c0a50e
       notes:
         - https://linktr.ee/sashavendetta
         - https://beacons.ai/sashavendetta

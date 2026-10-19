@@ -12,15 +12,11 @@ performers:
       name: George
       appearance: null
   append:
-    - id: null
+    - id: 01a15177-6d63-70a8-8da0-b8801d00e3ee
       name: Ashley
       appearance: null
       disambiguation: 2007, V9, SHV 23
-      status: c
-      status_url: https://stashdb.org/edits/01a15177-dadf-7ccd-bdb7-9bb16226a856
-    - id: null
+    - id: 01a15179-49db-77f6-b393-4bf478181f5e
       name: George
       appearance: null
       disambiguation: 2007, V9, SHV 23
-      status: new
-      status_url: https://stashdb.org/edits/01a15179-6188-71ee-b9a3-39e59b67782c
