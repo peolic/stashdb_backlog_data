@@ -4,11 +4,9 @@ c_studio:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a15a63-59a2-7a07-9e73-34dde8ab6705
       name: Brit Welsh
       appearance: Britt X
-      status: c
-      status_url: https://stashdb.org/edits/01a15a63-9df3-726b-a073-a979a43efc72
       notes:
         - '- https://x.com/welshie461'
         - '- https://onlyfans.com/welshie466'
