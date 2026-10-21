@@ -10,6 +10,7 @@ split:
       links:
         - https://stashdb.org/scenes/0edc859b-0355-4312-8692-fef448293e06
         - https://stashdb.org/scenes/3d102b22-9b09-44d1-b8a1-160ee8c98c40
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2026-10-20)
     - Best to move scenes and delete performer, rather than merging or renaming.
