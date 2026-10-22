@@ -6,11 +6,9 @@ comments:
 performers:
   remove: []
   append:
-    - id: null
+    - id: 01a162ec-88b2-7783-b4aa-2577fe29d288
       name: Vanessa Pino Smith
       appearance: null
-      status: c
-      status_url: https://stashdb.org/edits/01a162ef-2ae4-79b0-bb74-d138c17bd7f1
     - id: 31b4eb38-bd2b-4c9f-979e-b0d4845d49be
       name: Bella
       appearance: null
