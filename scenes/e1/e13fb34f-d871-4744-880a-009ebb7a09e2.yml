@@ -1,0 +1,9 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: 6109e2dd-99f8-45c9-8e61-c92b7967ddbd
+      name: Lexii Sweet
+      appearance: null

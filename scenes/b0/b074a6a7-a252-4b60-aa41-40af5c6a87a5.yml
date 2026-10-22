@@ -1,0 +1,13 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - Incomplete list
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Vanessa Pino Smith
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/01a162ef-2ae4-79b0-bb74-d138c17bd7f1

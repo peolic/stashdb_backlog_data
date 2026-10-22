@@ -1,0 +1,21 @@
+c_studio:
+  - Dancing Bear
+  - null
+comments:
+  - Incomplete list
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Vanessa Pino Smith
+      appearance: null
+      status: c
+      status_url: https://stashdb.org/edits/01a162ef-2ae4-79b0-bb74-d138c17bd7f1
+    - id: 31b4eb38-bd2b-4c9f-979e-b0d4845d49be
+      name: Bella
+      appearance: null
+      disambiguation: 8th Street Latinas, 2009
+    - id: 019a9bfe-f0ff-7211-9bb6-9e98724c5def
+      name: Tonya
+      appearance: null
+      disambiguation: Facial Abuse 2010
