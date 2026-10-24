@@ -31,13 +31,13 @@ fingerprints:
     correct_scene_id: null
   - algorithm: phash
     hash: b9498b7d893a2ae2
-    correct_scene_id: null
+    correct_scene_id: 01a16892-ed6e-7209-9c99-df1307403d76
   - algorithm: phash
     hash: bd498b5d893a2ae2
-    correct_scene_id: null
+    correct_scene_id: 01a16892-ed6e-7209-9c99-df1307403d76
   - algorithm: phash
     hash: bd498b5d893a2de8
     correct_scene_id: null
   - algorithm: phash
     hash: bd498b7d893a2ae0
-    correct_scene_id: null
+    correct_scene_id: 01a16892-ed6e-7209-9c99-df1307403d76

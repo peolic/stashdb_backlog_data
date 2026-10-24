@@ -10,19 +10,19 @@ fingerprints:
     correct_scene_id: null
   - algorithm: oshash
     hash: da58b545d4411612
-    correct_scene_id: null
+    correct_scene_id: 01a16961-974c-79eb-8b64-71c3733f3a71
   - algorithm: oshash
     hash: db67e7e838b860b5
     correct_scene_id: null
   - algorithm: phash
     hash: e66135b624b4f1d4
-    correct_scene_id: null
+    correct_scene_id: 01a16961-974c-79eb-8b64-71c3733f3a71
   - algorithm: phash
     hash: e66135b624b4f594
-    correct_scene_id: null
+    correct_scene_id: 01a16961-974c-79eb-8b64-71c3733f3a71
   - algorithm: phash
     hash: e66135b6a4b4f194
-    correct_scene_id: null
+    correct_scene_id: 01a16961-974c-79eb-8b64-71c3733f3a71
   - algorithm: phash
     hash: e66137b6a4b4f184
-    correct_scene_id: null
+    correct_scene_id: 01a16961-974c-79eb-8b64-71c3733f3a71
