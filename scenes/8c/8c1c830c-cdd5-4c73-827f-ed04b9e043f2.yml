@@ -1,6 +1,8 @@
 c_studio:
   - Boys First Time
   - null
+comments:
+  - Same as Boys First Time 26, Scene 6
 performers:
   remove:
     - id: b6762740-76f3-48ba-9440-b7ba6863bd3c
