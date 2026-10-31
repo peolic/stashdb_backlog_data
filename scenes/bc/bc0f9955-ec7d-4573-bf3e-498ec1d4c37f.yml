@@ -1,0 +1,33 @@
+c_studio:
+  - Dorm Invasion
+  - null
+performers:
+  remove: []
+  append:
+    - id: 59253f88-e9ec-46f7-94c9-db95564e0b8f
+      name: Remy
+      appearance: null
+      disambiguation: 2012, bangbrosnetwork.com
+    - id: 0424c3e7-56c3-40c2-b467-675c6ac8f9de
+      name: Carlos
+      appearance: null
+      disambiguation: Reality Kings, 2012
+    - id: a601b74f-16ac-4143-a3d9-83b6baa56737
+      name: Patrick Delphia
+      appearance: null
+    - id: 82d4cbaf-cb0b-4ad7-b5d7-d8dbbbb43e97
+      name: Levi Cash
+      appearance: null
+    - id: 5a50da21-7f74-4fb8-af6a-6ac901f71875
+      name: Mellanie
+      appearance: null
+      disambiguation: 2011-2016, bangbrosnetwork.com
+    - id: 215e0b1a-59e0-450e-8653-b2a8d7c7d00b
+      name: Neyleen Leon
+      appearance: null
+    - id: 164b8b44-bc9a-4211-80f4-97aa396821b3
+      name: Nick Decker
+      appearance: null
+    - id: b6773628-fd84-474c-b067-14ebef4bf706
+      name: Valentina Star
+      appearance: null

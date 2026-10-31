@@ -1,0 +1,22 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - Incomplete list
+performers:
+  remove: []
+  append:
+    - id: 59253f88-e9ec-46f7-94c9-db95564e0b8f
+      name: Remy
+      appearance: null
+      disambiguation: 2012, bangbrosnetwork.com
+    - id: 181a4a7e-d773-4edd-9e35-fed3d3b55070
+      name: Ashley
+      appearance: null
+      disambiguation: 2012, bangbrosnetwork.com
+    - id: 6913ef65-c2c7-42be-9bcf-2fb13a239308
+      name: Izy-Bella Blu
+      appearance: null
+    - id: 1e6a2adb-b082-4e05-8ecd-4867810fd3a5
+      name: Shane Dos Santos
+      appearance: null

@@ -1,14 +1,6 @@
 split:
   name: Chase (Reality Dudes, 2006)
   fragments:
-    - column: P
-      id: null
-      name: Chase (Boys First Time, 2013)
-      text: Boys First Time "Doing Danny"
-      notes:
-        - Boys First Time 28, Scene 2
-      links:
-        - https://stashdb.org/scenes/6cd56462-d1dc-44b5-b3a6-732cc6e563d2
     - column: Q
       id: null
       name: Chase (Dick Dorm, 2013)

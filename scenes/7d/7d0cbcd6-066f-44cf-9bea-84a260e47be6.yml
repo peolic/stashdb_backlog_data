@@ -1,0 +1,13 @@
+c_studio:
+  - Dorm Invasion
+  - null
+comments:
+  - Incomplete list
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Malone Dickerson
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=193735c0-c64f-408d-a197-bfe222d5fc16
