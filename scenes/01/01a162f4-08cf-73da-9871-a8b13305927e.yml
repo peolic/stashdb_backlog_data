@@ -1,0 +1,11 @@
+c_studio:
+  - Elegant Raw
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Katya Sikova
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7c8d07f8-c8a5-4e79-ba23-b6365bea5ad5

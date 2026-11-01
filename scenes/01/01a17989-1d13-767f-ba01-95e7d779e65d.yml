@@ -1,0 +1,11 @@
+c_studio:
+  - Svnflowerqueen
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: carobvlyn
+      appearance: null
+      status: new
+      status_url: https://allmylinks.com/carobvlyn

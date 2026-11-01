@@ -1,0 +1,12 @@
+c_studio:
+  - Quente Club
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Pocahontas
+      appearance: null
+      disambiguation: 2021, Quente Club
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=3fe9df57-0e25-4009-a00f-4977da5b107d

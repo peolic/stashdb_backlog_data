@@ -1,0 +1,21 @@
+c_studio:
+  - Svnflowerqueen
+  - null
+comments:
+  - Alice Wonder is not in the scene
+performers:
+  remove:
+    - id: 8114842d-49b5-4dd4-b5cd-5a40577f24c4
+      name: Alice Wonder
+      appearance: null
+      disambiguation: b. 1996, UA
+  append:
+    - id: null
+      name: Babylalaaa
+      appearance: Lala
+      disambiguation: Onlyfans
+      status: new
+      status_url: https://onlyfans.com/babylalaaa
+    - id: 5befed07-cec5-4a79-916f-49be1f5321be
+      name: Alexa Addams
+      appearance: Alexa
