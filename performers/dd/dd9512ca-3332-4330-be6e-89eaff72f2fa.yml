@@ -1,13 +1,7 @@
 split:
   name: Brad
-  fragments:
-    - column: N
-      id: null
-      name: Brad (2014, Trick Your GF)
-      links:
-        - https://stashdb.org/scenes/e4cfe9bd-d757-4b0b-b400-afec60be0218
-        - https://stashdb.org/scenes/d71e5480-8abe-40e0-ac17-2d782eedc996
-  status: single fragment remains
+  fragments: []
+  status: empty - delete performer
   notes:
     - Mix of multiple performers (complete list as of 2025-02-19)
     - Best to move scenes and delete performer, rather than merging or renaming.
