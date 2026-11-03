@@ -1,0 +1,11 @@
+c_studio:
+  - Dare Dorm
+  - null
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 67c184d9-a2d7-4952-928a-ac6e2ac12a2c
+      name: Kerra Sahara
+      appearance: Jackie
+      old_appearance: null
