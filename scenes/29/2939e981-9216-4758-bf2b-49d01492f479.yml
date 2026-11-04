@@ -7,12 +7,10 @@ performers:
       name: Jessica
       appearance: null
   append:
-    - id: null
+    - id: 01a1a6b3-2c68-7087-9966-ff19586fe718
       name: Jessica
       appearance: null
       disambiguation: 2009, Dare Dorm
-      status: c
-      status_url: https://stashdb.org/edits/01a1a603-0d34-7517-908a-a5ca9a32a9de
   update:
     - id: 67c184d9-a2d7-4952-928a-ac6e2ac12a2c
       name: Kerra Sahara
