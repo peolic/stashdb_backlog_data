@@ -2,10 +2,23 @@ c_studio:
   - Dare Dorm
   - null
 performers:
-  remove: []
-  append: []
+  remove:
+    - id: 150ef0f3-1cff-4a7c-b8b0-0729300c2608
+      name: Jessica
+      appearance: null
+  append:
+    - id: null
+      name: Jessica
+      appearance: null
+      disambiguation: 2009, Dare Dorm
+      status: c
+      status_url: https://stashdb.org/edits/01a1a603-0d34-7517-908a-a5ca9a32a9de
   update:
     - id: 67c184d9-a2d7-4952-928a-ac6e2ac12a2c
       name: Kerra Sahara
       appearance: Jackie
+      old_appearance: null
+    - id: 7c125f2d-ad00-4b38-82ec-4eb7827079c2
+      name: Missi Daniels
+      appearance: Sarah
       old_appearance: null

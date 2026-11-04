@@ -1,0 +1,15 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: bdc01787-5375-41e2-b0d3-6cde26c15156
+      name: Angie
+      appearance: null
+      disambiguation: Dare Dorm, 2009
+    - id: null
+      name: Angelica Beltran
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=2e60e90e-6d8e-4cae-ba8e-dfe87dd12701

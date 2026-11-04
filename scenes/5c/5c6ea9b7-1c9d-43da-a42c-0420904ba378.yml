@@ -1,0 +1,10 @@
+c_studio:
+  - Bang Bus
+  - null
+performers:
+  remove: []
+  append:
+    - id: 9df36c78-916c-4982-aa31-dea0719001c6
+      name: Scott
+      appearance: Rimmy
+      disambiguation: Dare Dorm, 2009
