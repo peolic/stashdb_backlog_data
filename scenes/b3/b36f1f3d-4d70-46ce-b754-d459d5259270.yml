@@ -56,9 +56,11 @@ performers:
     - id: d3a79294-be39-4daa-84d6-906db1f14065
       name: Drnasty
       appearance: null
+      disambiguation: Reality Kings
     - id: null
       name: Ennis
       appearance: null
+      disambiguation: Disambig?
       status: new
       status_url: https://www.iafd.com/person.rme/id=fda84a66-3de5-469c-ae71-e32cd30e76c6
     - id: null
