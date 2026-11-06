@@ -1,13 +1,6 @@
 split:
   name: Jessica
   fragments:
-    - column: AF
-      id: null
-      name: Jessica (Dare Dorm, 2009-09)
-      text: Dare Dorm "Three Course Treat"
-      links:
-        - https://stashdb.org/scenes/2939e981-9216-4758-bf2b-49d01492f479
-        - https://www.iafd.com/title.rme/id=0449c8a6-167b-419b-ab38-7cb78df8f292
     - column: AN
       id: null
       name: Jessica (4)
