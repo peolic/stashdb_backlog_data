@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1132
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 5d300f11-4eda-403f-ba73-ce37c374c359
+      name: Riley Banks
+      appearance: Riley
+      old_appearance: null

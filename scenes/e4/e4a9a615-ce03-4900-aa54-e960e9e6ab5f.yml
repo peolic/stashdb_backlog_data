@@ -1,0 +1,17 @@
+c_studio:
+  - Corbin Fisher
+  - null
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: d3b49037-875c-4c73-b952-566380608f94
+      name: Dante Cole
+      appearance: Ryder
+      old_appearance: null
+    - id: c52edb3a-041c-4083-bb51-36811fc9ca17
+      name: Clark Parker
+      appearance: Sebastian
+      old_appearance: null

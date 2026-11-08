@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2934
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 66b931d9-5cd8-4e1a-b7ca-f716ccaf8c44
+      name: Grayson Cole
+      appearance: Grayson
+      old_appearance: null

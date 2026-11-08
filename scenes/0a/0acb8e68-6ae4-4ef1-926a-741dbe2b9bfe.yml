@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM0798
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: cdb4b7c8-6ac8-4e99-ae4e-1962ff6bc258
+      name: Dolph Lambert
+      appearance: Dolph
+      old_appearance: null

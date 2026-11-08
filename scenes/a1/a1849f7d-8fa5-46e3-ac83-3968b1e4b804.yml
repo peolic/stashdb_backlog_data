@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM3058
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: a9b8a079-4ecc-47bc-a712-d9cb5b9ee984
+      name: Ryan Rush
+      appearance: Beckett
+      old_appearance: null

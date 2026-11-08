@@ -1,0 +1,13 @@
+c_studio:
+  - Corbin Fisher
+  - null
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: d294fd3c-2890-49ea-bdd3-2c596166b20e
+      name: Damon Phoenix
+      appearance: Damon
+      old_appearance: null

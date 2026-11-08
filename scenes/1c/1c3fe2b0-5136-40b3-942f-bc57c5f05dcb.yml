@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM0370
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 350bfd7e-458a-4414-baac-6fe1d0ccb984
+      name: Ginger Price
+      appearance: Matt
+      old_appearance: null

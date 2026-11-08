@@ -1,0 +1,15 @@
+c_studio:
+  - Corbin Fisher
+  - null
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove:
+    - id: 04f16c15-4389-4f93-af7c-b46c4b2672b6
+      name: Cruz
+      appearance: null
+      disambiguation: Chaosmen
+  append:
+    - id: d294fd3c-2890-49ea-bdd3-2c596166b20e
+      name: Damon Phoenix
+      appearance: Damon

@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM0358
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: b98d1c37-95fc-4fc5-9e65-f7c3cf565373
+      name: Spencer Whitman
+      appearance: Spencer
+      old_appearance: null

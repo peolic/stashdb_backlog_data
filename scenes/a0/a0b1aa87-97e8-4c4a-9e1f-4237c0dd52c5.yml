@@ -8,8 +8,10 @@ performers:
       name: Johana
       appearance: null
       disambiguation: 2007, moneytalks.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8e7-80bf-7c48-9af4-e772b9e34f13
+      notes:
+        - https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
     - id: null
       name: Nicole Cassany
       appearance: Diana

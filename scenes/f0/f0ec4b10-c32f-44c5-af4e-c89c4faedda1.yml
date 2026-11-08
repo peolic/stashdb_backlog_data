@@ -1,0 +1,18 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2943
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 8bef60be-e51d-45cb-bc3f-7842210a3ccf
+      name: Finn August
+      appearance: Finn
+      old_appearance: null
+    - id: b2860bc8-84e2-4cfa-a1d5-a62b52a883db
+      name: Aaron Jackson
+      appearance: Jax
+      old_appearance: null

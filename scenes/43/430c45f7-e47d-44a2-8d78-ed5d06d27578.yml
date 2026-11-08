@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1825
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: c88b9c35-1efb-4bbc-aeed-767142f79c38
+      name: Elijah Knight
+      appearance: Keaton
+      old_appearance: null

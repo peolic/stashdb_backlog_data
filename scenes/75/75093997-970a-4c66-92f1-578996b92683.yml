@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM0805
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: c4c49e90-dfe5-4d58-bb71-ae2943e4b023
+      name: Luca Rosso
+      appearance: Luca
+      old_appearance: null

@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2656
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 33937678-b703-468c-a3ce-581548a22928
+      name: Jonas Drift
+      appearance: Adrian
+      old_appearance: null

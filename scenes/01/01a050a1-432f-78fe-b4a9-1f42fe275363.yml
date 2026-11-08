@@ -1,0 +1,13 @@
+c_studio:
+  - Corbin Fisher
+  - null
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 3d0be068-00d6-4425-81a4-fe91b7b58802
+      name: Kevin Daniels
+      appearance: Kevin
+      old_appearance: null

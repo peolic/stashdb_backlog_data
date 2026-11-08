@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1333
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 578e7484-0a10-47b5-9660-9faa18bc293a
+      name: Quin Quire
+      appearance: Quinn
+      old_appearance: null

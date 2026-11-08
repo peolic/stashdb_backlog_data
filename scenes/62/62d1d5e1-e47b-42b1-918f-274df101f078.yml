@@ -1,0 +1,19 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2590
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: b2860bc8-84e2-4cfa-a1d5-a62b52a883db
+      name: Aaron Jackson
+      appearance: Jax
+      old_appearance: null
+    - id: f313276e-b4d9-48ca-96c5-1e0e77d10763
+      name: Ayden
+      appearance: Mitch
+      old_appearance: null
+      disambiguation: Sean Cody

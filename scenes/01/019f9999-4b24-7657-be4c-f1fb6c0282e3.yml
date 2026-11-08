@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 1d108355-ccd4-4382-8e3c-815f4e5279f3
+      name: Devin
+      appearance: Andrew
+      old_appearance: null
+      disambiguation: Sean Cody

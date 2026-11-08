@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1570
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 74e6f3f6-2e40-46d5-b43d-01c659abf0f7
+      name: Phillip Anadarko
+      appearance: Tanner
+      old_appearance: null

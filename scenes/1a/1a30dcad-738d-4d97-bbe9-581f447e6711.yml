@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM0762
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 7cff231c-4cb0-49e4-8937-f56e0ef18009
+      name: Ariel Vanean
+      appearance: Ariel
+      old_appearance: null

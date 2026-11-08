@@ -14,17 +14,21 @@ performers:
       name: Katiuska
       appearance: null
       disambiguation: 2015, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=acf5f349-cfc0-419d-8533-d0713b92182f
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8e4-bac9-7a28-8abe-0909bd64ea7e
     - id: null
       name: Nathali
       appearance: null
       disambiguation: 2015, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=3443a8b0-e550-4ef3-b7ee-7f619f051e35
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8e5-cdcb-76af-97c0-ed9d1c3e2ba5
+      notes:
+        - https://www.iafd.com/person.rme/id=3443a8b0-e550-4ef3-b7ee-7f619f051e35
     - id: null
       name: Yoslaine
       appearance: null
       disambiguation: 2015, dancingbear.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=35e12cd9-d5b2-4cea-8287-bc2ebf1ae0bd
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8e6-6db0-77fe-80f0-a70b0241dff8
+      notes:
+        - https://www.iafd.com/person.rme/id=35e12cd9-d5b2-4cea-8287-bc2ebf1ae0bd

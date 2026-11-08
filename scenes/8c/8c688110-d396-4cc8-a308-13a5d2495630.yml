@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2551
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 543dda25-1201-4846-b8c7-518d5c15c56f
+      name: Joe Mason
+      appearance: Malec
+      old_appearance: null

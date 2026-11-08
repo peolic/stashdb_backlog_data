@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2022
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: f4e4c1b8-cf51-433b-96c5-107849a6ebfe
+      name: Nathan Styles
+      appearance: Elis
+      old_appearance: null

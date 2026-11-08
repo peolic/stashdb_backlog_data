@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM0720
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: ee9e27f3-5c0c-4c64-9d8f-8a21348e8de4
+      name: Brandon Manilow
+      appearance: Brandon
+      old_appearance: null

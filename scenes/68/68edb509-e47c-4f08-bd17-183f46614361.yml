@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2507
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 81ec1100-b9a9-4fe4-bc1d-0ef338813a83
+      name: Damien Reign
+      appearance: Andres
+      old_appearance: null

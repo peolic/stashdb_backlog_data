@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2810
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: c6b2c4d7-e293-45fd-bf9e-dd2cc31733a7
+      name: James Cassidy
+      appearance: Calan
+      old_appearance: null

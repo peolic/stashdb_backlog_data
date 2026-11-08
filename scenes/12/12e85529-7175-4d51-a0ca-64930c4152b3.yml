@@ -8,8 +8,10 @@ performers:
       name: Johana
       appearance: null
       disambiguation: 2007, moneytalks.com
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8e7-80bf-7c48-9af4-e772b9e34f13
+      notes:
+        - https://www.iafd.com/person.rme/id=8ee4e288-f569-444b-bc13-656591f6390c
     - id: null
       name: Amanda
       appearance: null
@@ -34,8 +36,10 @@ performers:
     - id: null
       name: Icey Mike
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=8348660e-3ffc-4b36-82be-0d58ee13bfcb
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8e9-0c15-7eb4-9502-9991f3b2d603
+      notes:
+        - https://www.iafd.com/person.rme/id=8348660e-3ffc-4b36-82be-0d58ee13bfcb
     - id: null
       name: Jaqueline
       appearance: null

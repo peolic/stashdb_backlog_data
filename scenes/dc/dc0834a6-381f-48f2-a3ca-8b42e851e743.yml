@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1324
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 74526aab-a859-4828-b90c-25591babac8c
+      name: Ashton McKay
+      appearance: Ashton
+      old_appearance: null

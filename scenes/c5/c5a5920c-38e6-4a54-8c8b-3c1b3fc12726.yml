@@ -11,5 +11,7 @@ performers:
     - id: null
       name: Angelica Beltran
       appearance: null
-      status: new
-      status_url: https://www.iafd.com/person.rme/id=2e60e90e-6d8e-4cae-ba8e-dfe87dd12701
+      status: c
+      status_url: https://stashdb.org/edits/01a1b8ed-73aa-72bd-a771-dffe00512369
+      notes:
+        - https://www.iafd.com/person.rme/id=2e60e90e-6d8e-4cae-ba8e-dfe87dd12701

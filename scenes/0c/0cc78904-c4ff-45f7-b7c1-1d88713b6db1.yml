@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1982
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: a4d18b9e-928a-4566-8735-d2113c68ab0a
+      name: Nicholas Duff
+      appearance: Nicholas
+      old_appearance: null

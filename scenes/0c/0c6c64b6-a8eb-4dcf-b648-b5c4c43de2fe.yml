@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2971
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 387c7b89-aac8-46d2-85dd-f5b510ae3faf
+      name: Canyon Cole
+      appearance: Micah
+      old_appearance: null

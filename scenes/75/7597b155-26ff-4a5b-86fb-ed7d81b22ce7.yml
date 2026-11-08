@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM3078
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: f84a1ef6-fc67-49b7-a43e-df4221ce8e98
+      name: Colin Hart
+      appearance: Connor
+      old_appearance: null

@@ -1,0 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
+code: ACM2521
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 768d665d-00fc-47ac-afc0-4a3ac63ee892
+      name: Elye Black
+      appearance: Dave
+      old_appearance: null

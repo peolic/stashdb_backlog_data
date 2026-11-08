@@ -1,1 +1,14 @@
+c_studio:
+  - Corbin Fisher
+  - null
 code: ACM1732
+comments:
+  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 9f4dc5f6-5408-4eed-8731-05f3ce1380c9
+      name: Charlie Pattinson
+      appearance: Miles
+      old_appearance: null
