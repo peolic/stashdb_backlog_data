@@ -1,19 +1,1 @@
-c_studio:
-  - Corbin Fisher
-  - null
 code: ACM2612
-comments:
-  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
-performers:
-  remove: []
-  append: []
-  update:
-    - id: f313276e-b4d9-48ca-96c5-1e0e77d10763
-      name: Ayden
-      appearance: Mitch
-      old_appearance: null
-      disambiguation: Sean Cody
-    - id: 75112124-9b55-4d17-a5b1-f3f8e8f521a4
-      name: Damian Knight
-      appearance: Roman
-      old_appearance: null
