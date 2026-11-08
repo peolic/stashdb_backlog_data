@@ -1,16 +1,3 @@
-c_studio:
-  - Corbin Fisher
-  - null
-code: ACM0518
 comments:
   - Correcting title to match the original. Third party sites adjusted titles to include both performer names, CF did not.
-  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
-performers:
-  remove: []
-  append: []
-  update:
-    - id: 267f1b0f-25f1-4a78-8e03-01391846556d
-      name: Will Vega
-      appearance: Will
-      old_appearance: null
 title: Blowing Will

@@ -1,18 +1,1 @@
-c_studio:
-  - Corbin Fisher
-  - null
 code: ACM3039
-comments:
-  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
-performers:
-  remove: []
-  append: []
-  update:
-    - id: a736f286-11a6-42e5-b29a-0466bfc19513
-      name: Tony Castelli
-      appearance: Tony
-      old_appearance: null
-    - id: 387c7b89-aac8-46d2-85dd-f5b510ae3faf
-      name: Canyon Cole
-      appearance: Micah
-      old_appearance: null

@@ -1,18 +1,1 @@
-c_studio:
-  - Corbin Fisher
-  - null
 code: ACM1545
-comments:
-  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
-performers:
-  remove: []
-  append: []
-  update:
-    - id: f84a1ef6-fc67-49b7-a43e-df4221ce8e98
-      name: Colin Hart
-      appearance: Connor
-      old_appearance: null
-    - id: 578e7484-0a10-47b5-9660-9faa18bc293a
-      name: Quin Quire
-      appearance: Quinn
-      old_appearance: null

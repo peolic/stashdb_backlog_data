@@ -1,18 +1,1 @@
-c_studio:
-  - Corbin Fisher
-  - null
 code: ACM2970
-comments:
-  - Correcting scene aliases for performers. Corbin Fisher tends to prefer a single name.
-performers:
-  remove: []
-  append: []
-  update:
-    - id: 5496ff06-6bc7-4d32-8a69-ba72310fba1e
-      name: Rocky Tate
-      appearance: Rocky
-      old_appearance: null
-    - id: 8bef60be-e51d-45cb-bc3f-7842210a3ccf
-      name: Finn August
-      appearance: Finn
-      old_appearance: null
