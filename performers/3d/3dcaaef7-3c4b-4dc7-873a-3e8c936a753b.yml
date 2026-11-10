@@ -1,13 +1,7 @@
 split:
   name: Sasha
-  fragments:
-    - column: Y
-      id: null
-      name: Sasha (Casual Teen Sex, 2012)
-      text: Casual Teen Sex "Hot winter fucking"
-      links:
-        - https://stashdb.org/scenes/3d4523df-ad14-4d24-83d1-bbf3eb0ff331
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-10-16)
     - Best to move scenes and delete performer, rather than merging or renaming.
