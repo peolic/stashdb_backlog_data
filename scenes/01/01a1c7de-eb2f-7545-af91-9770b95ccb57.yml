@@ -1,0 +1,10 @@
+c_studio:
+  - Extreme Kream
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Yasmine
+      appearance: Jasmin
+      disambiguation: 2004-2006, Mile High

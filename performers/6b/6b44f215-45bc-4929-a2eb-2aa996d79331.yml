@@ -1,14 +1,7 @@
 split:
   name: Caroline
-  fragments:
-    - column: W
-      id: null
-      name: Caroline (Call Girl)
-      text: Silvia Saint "Call Girl"
-      links:
-        - https://stashdb.org/scenes/b4827862-9636-44cd-9a3c-ee840f8b0267
-        - https://www.iafd.com/title.rme/id=821362ca-31a0-438f-a682-2cd06857d2e8
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.

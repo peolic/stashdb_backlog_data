@@ -1,17 +1,7 @@
 split:
   name: Maria
-  fragments:
-    - column: AI
-      id: null
-      name: Maria
-      text: Home Porno Tapes "Spanish passion"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #7, Scene #2'
-        - 'also same as: The Lost Honeymooners Tapes #7, Scene #2'
-        - name 'Maria' may not match original
-      links:
-        - https://stashdb.org/scenes/b1552240-09ab-40ce-9c5a-080d3be5ee86
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (complete list as of 2025-03-24)
     - Best to move scenes and delete performer, rather than merging or renaming.
