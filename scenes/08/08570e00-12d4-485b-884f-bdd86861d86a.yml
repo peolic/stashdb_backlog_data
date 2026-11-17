@@ -1,0 +1,15 @@
+c_studio:
+  - In the VIP
+  - null
+comments:
+  - Ivy Winters = Unknown Female 442673-A  @ IAFD
+performers:
+  remove: []
+  append:
+    - id: 9af8957a-9a7c-4bd0-814b-8a4ba0affde0
+      name: Ivy Winters
+      appearance: null
+    - id: null
+      name: Nikki
+      appearance: null
+      disambiguation: 2009-2010, In The VIP

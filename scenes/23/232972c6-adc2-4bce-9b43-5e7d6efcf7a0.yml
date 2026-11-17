@@ -1,0 +1,15 @@
+c_studio:
+  - GF Revenge
+  - null
+comments:
+  - 'Only two performers in this release: Yanel & Nikki/Nicole'
+performers:
+  remove:
+    - id: 8eabfda4-b7c5-4dad-bfef-5279bfd7b817
+      name: Bambi Stewart
+      appearance: null
+  append:
+    - id: null
+      name: Nikki
+      appearance: Nicole
+      disambiguation: 2009-2010, In The VIP

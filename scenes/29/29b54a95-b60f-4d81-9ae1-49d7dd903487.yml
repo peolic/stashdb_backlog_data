@@ -1,0 +1,14 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: df57ea23-0a0e-443d-9398-99f51f67163c
+      name: Daisy Haze
+      appearance: null
+      disambiguation: 2011-2015
+    - id: null
+      name: Nikki
+      appearance: null
+      disambiguation: 2009-2010, In The VIP

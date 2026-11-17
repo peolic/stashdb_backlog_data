@@ -1,0 +1,112 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Aimee
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8bca321d-30dd-4c13-bba1-6da3e97f0890
+    - id: 060230f6-ccbf-428c-9518-7c5a3023d5eb
+      name: Allee Mack
+      appearance: null
+    - id: null
+      name: Allison
+      appearance: null
+      disambiguation: 2009-2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=43d9e1ac-1ba5-4a93-b327-d5e18fa8de7c
+    - id: 80c3d313-842f-40ae-9766-9169fc241d7a
+      name: Brannon Rhodes
+      appearance: null
+    - id: e6a05edc-1829-460a-bdc9-2d6f3b6fc395
+      name: Candace Cage
+      appearance: null
+    - id: null
+      name: Cyri-elle
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9114e57a-77f8-4857-941d-784a46b658e8
+    - id: d3a79294-be39-4daa-84d6-906db1f14065
+      name: Drnasty
+      appearance: null
+      disambiguation: Reality Kings
+    - id: null
+      name: Ellie
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fdb1057a-1760-4b6f-acce-e356daf9b5d9
+    - id: null
+      name: Ennis
+      appearance: null
+      disambiguation: 2004-2011, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=fda84a66-3de5-469c-ae71-e32cd30e76c6
+    - id: null
+      name: Gasmy
+      appearance: null
+      disambiguation: 2007-2011, Reality Kings
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=893540af-2ce4-4998-ad32-82ce1dd5b560
+    - id: 01a1b8e8-dae8-7838-a810-5f3236d767b6
+      name: Icey Mike
+      appearance: null
+      notes:
+        - https://www.iafd.com/person.rme/id=8348660e-3ffc-4b36-82be-0d58ee13bfcb
+    - id: null
+      name: Jane
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=0100c207-dcd4-4234-9a93-3e997a30b703
+    - id: a3746183-1bc1-43eb-a828-23f8b8c9b7dc
+      name: Josh
+      appearance: null
+      disambiguation: 2005-2012, Reality Kings
+    - id: null
+      name: Kimbo Slice
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=7c8e73aa-a1a4-4248-b00d-ab1acbe7250a
+    - id: null
+      name: Kristy
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=51330f2c-53f8-45a2-9f7a-7cbe52be78ab
+    - id: 77a5b9ab-9d51-4b95-8a4e-605c691ceb71
+      name: Kay
+      appearance: null
+      disambiguation: aka Layla
+    - id: null
+      name: Leia Marie
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=96a10703-6d9f-4963-a84f-43c926fc6204
+    - id: 604b2917-3c3d-4b69-b86c-440bbe564504
+      name: Lynn Love
+      appearance: null
+    - id: null
+      name: Nikki
+      appearance: null
+      disambiguation: 2009-2010, In The VIP
+    - id: null
+      name: Princess W
+      appearance: null
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=84777fd6-ccd9-4d2d-bad6-bb389d66f18b
+    - id: fc6c4a82-8cd4-4557-bccd-aafa1d4febc0
+      name: Samantha
+      appearance: null
+      disambiguation: 2011, gfrevenge.com
+    - id: 9b93d3a3-4d39-4652-a426-10e3cd390e78
+      name: Vanessa Lee
+      appearance: null
+    - id: 954fa183-3339-400b-b508-918401192aff
+      name: Victoria Lawson
+      appearance: null

@@ -1,0 +1,26 @@
+c_studio:
+  - In the VIP
+  - null
+performers:
+  remove: []
+  append:
+    - id: null
+      name: Aimee
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=8bca321d-30dd-4c13-bba1-6da3e97f0890
+    - id: null
+      name: Cyri-elle
+      appearance: null
+      disambiguation: 2010, In The VIP
+      status: new
+      status_url: https://www.iafd.com/person.rme/id=9114e57a-77f8-4857-941d-784a46b658e8
+    - id: 77a5b9ab-9d51-4b95-8a4e-605c691ceb71
+      name: Kay
+      appearance: null
+      disambiguation: aka Layla
+    - id: null
+      name: Nikki
+      appearance: null
+      disambiguation: 2009-2010, In The VIP
