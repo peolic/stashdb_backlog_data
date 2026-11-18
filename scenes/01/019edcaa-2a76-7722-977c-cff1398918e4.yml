@@ -1,0 +1,15 @@
+c_studio:
+  - Corbin Fisher
+  - null
+performers:
+  remove: []
+  append: []
+  update:
+    - id: 019d2f87-15ae-7dc2-bb05-e42ba092f507
+      name: Noah Knox
+      appearance: Ander
+      old_appearance: null
+    - id: 85e7437e-9fd8-4c85-82c9-64b757d83b94
+      name: Andrew Skylar
+      appearance: Drew
+      old_appearance: null

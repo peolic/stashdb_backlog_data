@@ -1,0 +1,20 @@
+c_studio:
+  - Corbin Fisher
+  - null
+performers:
+  remove: []
+  append:
+    - id: cdb4b7c8-6ac8-4e99-ae4e-1962ff6bc258
+      name: Dolph Lambert
+      appearance: Dolph
+    - id: null
+      name: Elijah
+      appearance: null
+      disambiguation: Corbin Fisher 2011
+      status: new
+    - id: 7d9fcb63-ccd8-45e4-986f-2152a06f87bf
+      name: Luke Hamill
+      appearance: Luke
+    - id: 3e8ee048-565f-4928-bf08-619269c8cfb7
+      name: Manuel Rios
+      appearance: Manuel
