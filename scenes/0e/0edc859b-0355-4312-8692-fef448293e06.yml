@@ -1,0 +1,12 @@
+c_studio:
+  - Young Libertines
+  - null
+performers:
+  remove:
+    - id: 6270ed32-a916-4239-8dcf-bd496f2db56d
+      name: Patrick
+      appearance: null
+  append:
+    - id: ba52e43f-39f5-4392-9bb8-e90df9caa391
+      name: Luis Big Dog
+      appearance: Patrick

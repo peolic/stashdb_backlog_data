@@ -1,0 +1,26 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 65dcfb16-1e87-46ca-b287-64f5c658c499
+      name: Tristan
+      appearance: null
+    - id: a0432b43-d526-484e-93be-77b4a88e03ba
+      name: Danny
+      appearance: null
+  append:
+    - id: null
+      name: Tristan
+      appearance: null
+      disambiguation: 2011, Reality Dudes
+      status: new
+      notes:
+        - Aylo ID is 21040
+    - id: null
+      name: Danny
+      appearance: null
+      disambiguation: Reality Dudes, 2012
+      status: new
+      notes:
+        - Aylo ID is 21042

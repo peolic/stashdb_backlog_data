@@ -1,0 +1,19 @@
+c_studio:
+  - Dick Dorm
+  - null
+performers:
+  remove:
+    - id: a0432b43-d526-484e-93be-77b4a88e03ba
+      name: Danny
+      appearance: null
+    - id: f86141d4-d2d7-4d21-aefa-6e42d670e097
+      name: Chase
+      appearance: null
+      disambiguation: Reality Dudes, 2006
+  append:
+    - id: 8cb2f544-5106-450f-a597-3e783f9d0ffb
+      name: Danny Tucan
+      appearance: Danny
+    - id: 8c637d0f-dc15-4e5c-b928-2a606b4266e4
+      name: Chase Newport
+      appearance: Chase

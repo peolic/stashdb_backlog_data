@@ -1,0 +1,27 @@
+c_studio:
+  - Boys First Time
+  - null
+performers:
+  remove:
+    - id: 7c29e862-b164-4411-9a2f-b8b8fd30ca45
+      name: Tommy
+      appearance: null
+    - id: f86141d4-d2d7-4d21-aefa-6e42d670e097
+      name: Chase
+      appearance: null
+      disambiguation: Reality Dudes, 2006
+  append:
+    - id: null
+      name: Tommy
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Aylo ID is 21541
+    - id: null
+      name: Danny
+      appearance: null
+      disambiguation: Boys First Time, 2006
+      status: new
+      notes:
+        - Aylo ID is 21543
