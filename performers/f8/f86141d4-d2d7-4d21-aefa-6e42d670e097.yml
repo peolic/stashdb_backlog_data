@@ -1,18 +1,13 @@
 split:
   name: Chase (Reality Dudes, 2006)
   fragments:
-    - column: Q
-      id: null
-      name: Chase (Dick Dorm, 2013)
-      text: Dick Dorm "Its A Dude"
-      links:
-        - https://stashdb.org/scenes/de2a6d76-8476-4ec5-bcd4-e000bd8577e1
     - column: R
       id: null
       name: Chase (Boys First Time, 2006)
       text: Boys First Time "Face Down Ass Up"
       links:
         - https://stashdb.org/scenes/dc64868c-008c-4cb8-ab0e-8cb7594291a7
+  status: single fragment remains
   notes:
     - Mix of multiple performers (complete list as of 2025-07-01)
     - Best to move scenes and delete performer, rather than merging or renaming.
