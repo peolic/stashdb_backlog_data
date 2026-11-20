@@ -1,0 +1,20 @@
+c_studio:
+  - Backroom Casting Couch
+  - null
+comments:
+  - https://www.iafd.com/title.rme/id=8ef58c97-be6e-446b-8286-797070bf5c81
+performers:
+  remove: []
+  append:
+    - id: 01a1f29d-45b5-7017-bff9-4571e2903eef
+      name: Lily
+      appearance: null
+      disambiguation: 2013, Backroom Casting Couch
+    - id: 3cb07bc1-53ee-48a1-a868-04981913f34e
+      name: Rick
+      appearance: null
+      disambiguation: Backroom Casting Couch
+    - id: e04d8515-20ae-43a7-bbff-7aa613f63392
+      name: Steve
+      appearance: null
+      disambiguation: ExploitedX
