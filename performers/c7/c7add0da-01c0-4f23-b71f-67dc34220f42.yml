@@ -1,19 +1,7 @@
 split:
   name: Eva
-  fragments:
-    - column: AA
-      id: 01a1f0a3-be86-7ae9-8da4-a5a05c1c69b9
-      name: Eva[1]
-      text: Home Porno Tapes "In and out of the shower"
-      notes:
-        - 'Same as Snatch''d: Stolen Home Videos #9, Scene #3'
-        - name 'Eva' may not match original
-      links:
-        - https://stashdb.org/scenes/04a0c87a-6d75-46f4-bd95-26d10cd30016
-        - https://vod.aebn.com/straight/movies/37952/snatch-d--9#scene-109675
-        - https://www.iafd.com/title.rme/id=f19e6691-5861-471d-82be-c8f0db52de3e
-        - http://goodsexporn.org/galleries/403548.html
-  status: single fragment remains
+  fragments: []
+  status: queued to be marked as done
   notes:
     - Mix of multiple performers (partial list)
     - Best to move scenes and delete performer, rather than merging or renaming.
