@@ -1,0 +1,13 @@
+c_studio:
+  - Dancing Bear
+  - null
+performers:
+  remove: []
+  append:
+    - id: 01a1f959-dea3-7266-9792-10a470c494a8
+      name: Karizmah
+      appearance: null
+      disambiguation: bangbrosnetwork.com, 2012
+    - id: c5af7736-13f7-4ac2-9384-239e1b896f76
+      name: Alejandro Fierraro
+      appearance: null
